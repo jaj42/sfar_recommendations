@@ -1,0 +1,33 @@
+{
+  "file_name": "Document%20Patient%20pour%20CAMR%20mars%202021.pdf",
+  "num_pages": 2,
+  "total_token_count": 1454,
+  "total_chunks": 17,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 986,
+      "num_chunks": 10,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 468,
+      "num_chunks": 7,
+      "num_images": 2
+    }
+  ]
+}

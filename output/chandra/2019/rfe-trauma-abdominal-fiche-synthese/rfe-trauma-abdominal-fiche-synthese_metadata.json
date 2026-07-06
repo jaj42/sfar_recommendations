@@ -1,0 +1,33 @@
+{
+  "file_name": "rfe-trauma-abdominal-fiche-synthese.pdf",
+  "num_pages": 2,
+  "total_token_count": 2214,
+  "total_chunks": 8,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 958,
+      "num_chunks": 4,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1256,
+      "num_chunks": 4,
+      "num_images": 2
+    }
+  ]
+}

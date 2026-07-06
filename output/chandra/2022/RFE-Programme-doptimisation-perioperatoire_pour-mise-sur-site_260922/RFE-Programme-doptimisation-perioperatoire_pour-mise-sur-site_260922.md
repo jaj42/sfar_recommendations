@@ -1,0 +1,1615 @@
+![SFAR logo: three overlapping circles in orange, red, and teal, with the text 'SFAR' in blue to the right.](4ab55dda429739cbeffcea7595b6d7cd_1_img.webp)
+
+## RECOMMANDATIONS FORMALISEES D'EXPERTS
+
+De la Société Française d'Anesthésie et Réanimation (SFAR)
+
+# PROGRAMME D'OPTIMISATION PERIOPERATOIRE DU PATIENT ADULTE
+
+Perioperative optimisation program
+
+**2022**
+
+**Texte validé par le Comité des Référentiels Cliniques de la SFAR le 13/06/2022 et le Conseil d'Administration de la SFAR le 29/06/2022.**
+
+**Auteurs :** S. Bloc, P. Alfonsi, A. Belbachir, M. Beaussier, L. Bouvet, S. Campard, S. Campion, P. Diesmunch, S. Di Maria, G. Dufour, S. Fabri, D. Fletcher, A. Godier, P. Grillo, O. Huet, A. Joosten, S. Lasocki, M. Le Guen, F. Le Sache, I. Macquer, C. Marquis, J. de Montblanc, A. Maurice-Szamburski, Y-L. NGuyen, L. Ruscio, L. Zieleskiewicz, A. Caillard, E. Weiss
+
+**Auteur pour correspondance :**
+
+Sébastien Bloc
+
+E-mail : sebebloc@gmail.com
+
+**Société organisatrice :** Société Française d'Anesthésie et de Réanimation (SFAR)
+
+**Coordonnateur d'experts :** Sébastien Bloc**Organisateurs du Comité des Référentiels Cliniques de la SFAR** : Emmanuel Weiss et Anaïs Caillard
+
+**Groupe d'experts (par ordre alphabétique)** : P. Alfonsi, A. Belbachir, M. Beaussier, L. Bouvet, S. Campard, S. Campion, P. Diesmunch, S. Di Maria, G. Dufour, S. Fabri, D. Fletcher, A. Godier, P. Grillo, O. Huet, A. Joosten, S. Lasocki, M. Le Guen, F. Le Sache, I. Macquer, C. Marquis, J. de Montblanc, A. Maurice-Szamburski, Y-L. NGuyen, L. Ruscio, L. Zieleskiewicz.
+
+**Chargée de bibliographie** : Laure Cazenave (Lyon)
+
+**Groupes de Lecture :**
+
+*Comité des Référentiels cliniques de la SFAR* : Marc Garnier (Président), Alice Blet (Secrétaire), Anais Caillard, Hélène Charbonneau, Isabelle Constant, Hugues de Courson, Philippe Cuvillon, Marc-Olivier Fischer, Denis Frasca, Matthieu Jabaudon, Audrey De Jong, Daphné Michelet, Stéphanie Ruiz, Emmanuel Weiss.
+
+*Conseil d'Administration de la SFAR* : Pierre Albaladéjo (Président); Jean-Michel Constantin (1<sup>er</sup> vice-président); Marc Léone (2<sup>ème</sup> vice-président); Karine Nouette-Gaulain (secrétaire général); Frédéric Le Saché (secrétaire général adjoint); Marie-Laure Cittanova (trésorière); Isabelle Constantin (trésorière adjointe); Julien Amour; Hélène Beloeil; Valérie Billard; Marie-Pierre Bonnet; Julien Cabaton; Marion Costecalde; Laurent Delaunay; Delphine Garrigue; Pierre Kalfon; Olivier Joannes-Boyau ; Frédéric Lacroix; Olivier Langeron; Sigismond Lasocki; Jane Muret ; Olivier Rontes; Nadia Smail ; Paul Zetlaoui.**Liens d'intérêts des experts SFAR au cours des cinq années précédant la date de validation par le CA de la SFAR.**
+
+S. Bloc : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+P. Alfonsi : Liens d'intérêt en rapport avec la présente RFE : 3M France, Edwards, MSD. Liens d'intérêt sans rapport avec la présente RFE : Pfizer, Vifor Pharma
+
+A. Belbachir : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+M. Beaussier : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+L. Bouvet : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+S. Campard : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+S. Campion : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+S. Di Maria : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+P. Diemunsch : Liens d'intérêt en rapport avec la présente RFE : Laboratoire Acacia.
+
+G. Dufour : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+S. Fabri : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+D. Fletcher : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+A. Godier : Liens d'intérêt en rapport avec la présente RFE : Bayer Healthcare, BMS-Pfizer, Boehringer Ingelheim, Sanofi. Liens d'intérêt sans rapport avec la présente RFE : Aguettant, Alexion, CSL Behring, LFB, Octapharma.
+
+P. Grillo : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+O. Huet : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+A. Joosten : Liens d'intérêt en rapport avec la présente RFE : consultant pour Edwards Lifesciences et Fresenius Kabi.
+
+S. Lasocki : Liens d'intérêt en rapport avec la présente RFE : consultant, conférences rémunérées et subvention pour la recherche du service par Vifor Pharma, Conférences rémunérées par Pfizer, Congrès payé et soutien matériel à la recherche par Pharmacosmos. Liens d'intérêt sans rapport avec la présente RFE : conférences rémunérées par Masimo.
+
+M. Le Guen : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+F. Le Sache : Liens d'intérêt en rapport avec la présente RFE : aucun. Liens d'intérêt sans rapport avec la présente RFE : BBraun, Gamida, General ElectricI. Macquer : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+C. Marquis : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+J. de Montblanc : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+A. Maurice-Szamburski : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+Y-L. Nguyen : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+L. Ruscio : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE
+
+L. Zieleskiewicz : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE.
+
+A. Caillard : pas de lien d'intérêt qui pourrait compromettre l'indépendance au regard de la présente RFE.
+
+E. Weiss : Liens d'intérêt en rapport avec la présente RFE : aucun. Liens d'intérêt sans rapport avec la présente RFE : conférencier pour MSD et LFB.## RESUME
+
+**Objectif:** La Société Française d'Anesthésie et de Réanimation (SFAR) propose un référentiel permettant l'élaboration et/ou l'implémentation de programmes d'optimisation périopératoire.
+
+**Conception:** Un groupe composé de 29 experts français de la Société Française d'Anesthésie-Réanimation (SFAR) a été réuni. D'éventuels conflits d'intérêts ont été officiellement déclarés dès le début du processus d'élaboration des recommandations et ce dernier a été conduit indépendamment de tout financement de l'industrie. Les auteurs ont suivi la méthodologie GRADE (*Grading of Recommendations Assessment, Development and Evaluation*) pour évaluer le niveau de preuve de la littérature.
+
+**Méthodes:** Quatre champs ont été définis : 1) Généralités sur le programme d'optimisation périopératoire; 2) Mesures préopératoires; 3) Mesures peropératoires et ; 4) Mesures postopératoires. Pour chaque champ, l'objectif des recommandations était de répondre à un certain nombre de questions formulées par les experts selon le modèle PICO (*Population, Intervention, Comparaison, Outcome*). A partir de ces questions, une recherche bibliographique extensive sur les dix dernières années a été réalisée en utilisant des mots clés prédéfinis selon les recommandations PRISMA. La qualité des données a été analysée selon la méthode GRADE. Les recommandations ont été formulées selon la méthode GRADE, puis votées par tous les experts selon la méthode GRADE grid.
+
+**Résultats :** Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 30 recommandations concernant les mesures à inclure dans un programme d'optimisation périopératoire. Après deux tours de votes et plusieurs amendements, un accord fort a été obtenu pour 30 recommandations. Parmi ces recommandations, 19 ont un niveau de preuve élevé (16 GRADE 1+ et 3 GRADE 1-), 10 ont un niveau de preuve faible (10 GRADE 2+ et 0 GRADE 2-) et une est un avis d'experts. Enfin, pour 2 questions, aucune recommandation n'a pu être formulée.
+
+**Conclusion :** Un accord fort a été obtenu parmi les experts afin de fournir des recommandations visant à permettre l'élaboration et/ou l'implémentation de parcours optimisés périopératoires dans le plus grand nombre de domaines chirurgicaux
+
+**Mots clés :** Recommandations d'experts, programme d'optimisation périopératoire, réhabilitation améliorée après chirurgie## ABSTRACT
+
+**Objective:** The French Society of Anesthesiology and Critical Care (Société Française d'Anesthésie et de Réanimation (SFAR)) provided guidelines for the implementation of perioperative optimization programmes
+
+**Design:** A consensus committee of 29 experts from the SFAR was convened. A formal conflict-of-interest policy was developed at the onset of the process and enforced throughout. The entire guidelines process was conducted independently of any industry funding. The authors were advised to follow the principles of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system to guide assessment of quality of evidence.
+
+**Methods:** Four fields were defined: 1) Generalities on perioperative optimization programme; 2) Preoperative measures; 3) Intraoperative measures and; 4) Postoperative measures. For each field, the objective of the recommendations was to answer a number of questions formulated according to the PICO model (*population, intervention, comparison, and outcomes*). Based on these questions, an extensive bibliographic search was carried out using predefined keywords according to PRISMA guidelines and analyzed using the GRADE® methodology. The recommendations were formulated according to the GRADE® methodology, and then voted by all the experts according to the GRADE grid method.
+
+Results: The experts' synthesis work and the application of the GRADE® method resulted in 30 recommendations. Among the formalized recommendations, 19 have high level of evidence (GRADE 1+/-) and ten have low level of evidence (GRADE 2+/-). For one recommendation, the GRADE method could not be applied, resulting in expert opinion. Two questions did not find any response in the literature. After two rounds of rating and amendment, strong agreement was reached for all the recommendations.
+
+**Conclusions:** Strong agreement among the experts was obtained to provide recommendations for the implementation of perioperative optimization programmes.
+
+**Keywords:** Expert guidelines, Perioperative optimization programme, Enhanced recovery after surgery## Introduction
+
+La réhabilitation ou récupération améliorée après chirurgie (RAC) est une prise en charge multidisciplinaire, standardisée et fondée sur des données probantes. Ce concept a été introduit dans les années 1990, par Henrik Kehlet, sous le terme de fast track surgery [1,2]. Initialement développée en chirurgie digestive puis en orthopédie, la RAC s'étend désormais à de nombreuses spécialités chirurgicales.
+
+Ces dernières années, la Société Française d'Anesthésie et de Réanimation (SFAR) a produit, de manière conjointe avec des sociétés savantes de chirurgie, de nombreuses recommandations portant sur la RAC dans des chirurgies spécifiques : chirurgie colorectale (2014), chirurgie orthopédique (2019), lobectomie pulmonaire (2019), chirurgie cardiaque (2021) [3-5]. Ces différentes recommandations mettent en exergue le caractère commun à une majorité de chirurgies de nombreux principes de RAC tout au long du parcours du patient. Il est apparu intéressant de porter une réflexion globale sur ces éléments concordants afin d'établir un socle de recommandations, quelles que soient les chirurgies (spécialité et/ou spécificités chirurgicales).
+
+Le but de cette RFE est d'offrir un outil permettant l'élaboration et/ou l'implémentation de parcours optimisés périopératoires dans le plus grand nombre de domaines chirurgicaux. Les techniques et spécificités de telle ou telle chirurgie ne sont pas l'objet de ces recommandations et pourront être ultérieurement raccordées à ce socle commun dans des référentiels spécifiques.
+
+Afin de proposer un tronc commun universel, les experts ont établi qu'une mesure valable dans au moins 3 domaines (spécialités et/ou spécificités chirurgicales) pouvait faire l'objet d'une recommandation dans les présentes RFE. Pour chaque mesure, le but n'est pas d'établir un inventaire exhaustif des domaines dans lesquels elle a été évaluée, mais d'évaluer son impact positif (ou non) sur le parcours périopératoire en général. Ainsi, dans les argumentaires, tous les domaines n'ont pas été systématiquement discutés et certaines recommandations sont probablement non applicables dans certaines chirurgies particulières.
+
+Nous avons utilisé le terme de "Programme d'Optimisation Périopératoire", qui tient compte à la fois des notions de RAC, mais également du parcours patient pré-, per- et postopératoire.
+
+Comme pour les RFE précédentes sur cette thématique, le groupe d'expert a choisi la durée de séjour et les complications postopératoires comme critères principaux d'évaluation de l'effet d'une mesure incluse dans un "Programme d'Optimisation Périopératoire". Les complications postopératoires retenues étaient générales (infectieuses, thromboemboliques, cardiovasculaires, neurocognitives, pulmonaires, douleur aigüe...) et chirurgicales (lâchage d'anastomose, troubles de la cicatrisation, hémorragie).
+
+## Méthodes
+
+### Organisation générale
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la SFAR. Chaque expert a rempli une déclaration de conflits d'intérêts avant de débuter le travail d'analyse. L'agenda du groupe a été fixé en amont. Dans un premier temps, le comité d'organisation a défini les questions à traiter avec les coordonnateurs. Il a ensuite désignéles experts en charge de chacune d'entre elles. Les questions ont été formulées selon un format PICO (Patient, Intervention, Comparaison, Outcome) après une première réunion du groupe d'experts. L'analyse de la littérature et la formulation des recommandations ont ensuite été conduites selon la méthodologie GRADE (*Grade of Recommendation Assessment, Development and Evaluation*). Un niveau de preuve a été défini pour chacune des références bibliographiques citées en fonction du type de l'étude. Ce niveau de preuve pouvait être réévalué en tenant compte de la qualité méthodologique de l'étude. Un niveau global de preuve était déterminé pour chaque critère de jugement en tenant compte des niveaux de preuve de chacune des références bibliographiques, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, de l'analyse de coût et de l'importance du bénéfice. Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » (il est recommandé de faire/il n'est pas recommandé de faire... GRADE 1+/1-). Un niveau global de preuve modéré ou faible aboutissait à l'écriture d'une recommandation « optionnelle » (il est probablement recommandé de faire/il n'est probablement pas recommandé de faire... GRADE 2+/2-). Lorsque le niveau de preuve était très faible ou la littérature quasi inexistante, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'expert (les experts suggèrent...). Les propositions de recommandations ont été présentées à tous les experts et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation a alors été évaluée indépendamment par chacun des experts et soumise à leurs cotations individuelles à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La cotation collective était établie selon une méthodologie GRADE grid. Pour valider une recommandation sur un critère, au moins 50 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. Pour qu'une recommandation soit forte, au moins 70 % des participants devaient avoir une opinion qui allait globalement dans la même direction. En l'absence d'accord fort, les recommandations étaient reformulées et, de nouveau, soumises à cotation dans l'objectif d'aboutir à un consensus.
+
+## **Champs des recommandations**
+
+Les recommandations formulées concernent 4 champs :
+
+### **Champ 1 : Généralités sur le programme d'optimisation périopératoire**
+
+Questions :
+
+- ● L'application d'un programme d'optimisation périopératoire a-t-elle un impact sur la durée d'hospitalisation ou la survenue de complications post-opératoires ?
+- ● Existe-t-il une place pour la médecine de ville dans les parties pré et post opératoires du programme d'optimisation périopératoire ?
+- ● La participation d'une équipe dédiée pluri-professionnelle a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● Tous les patients doivent-ils être inclus dans un programme d'optimisation périopératoire?## **Champ 2 : Mesures préopératoires**
+
+Questions :
+
+- ● Un programme de pré-habilitation avant chirurgie a-t-il un impact sur la survenue des complications post-opératoires ou sur la durée d'hospitalisation ?
+- ● Les conditions du jeûne préopératoires ont-elles un impact sur la durée de séjour ou la survenue de complications ?
+- ● La prémédication sédatrice a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?
+- ● L'admission en hospitalisation le jour de la chirurgie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● Les différentes stratégies d'épargne sanguine préopératoire ont-elles un impact sur la durée de séjour ou la survenue de complications ?
+
+## **Champ 3 : Mesures peropératoires**
+
+Questions :
+
+- ● Le choix des agents anesthésiques a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?
+- ● Les modalités de ventilation utilisées ont-elles un impact sur la survenue de complications post-opératoires ou sur la durée d'hospitalisation ?
+- ● L'administration d'anesthésiques locaux par voie périnerveuse, neuro-axiale, systémique ou locale a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?
+- ● Une optimisation peropératoire des apports liquidiens et de la pression artérielle a-t-elle un impact sur la durée de séjour ou la survenue de complications post-opératoires ?
+- ● Le monitoring de la profondeur d'anesthésie et de l'analgésie a-t-il un impact sur la durée de séjour ou la survenue de complications ?
+- ● La prévention de l'hypothermie peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● La mise en place d'un protocole de prévention spécifique des nausées et des vomissements a-t-elle un impact sur la durée de séjour ?
+- ● L'administration de dexaméthasone en peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications postopératoires ?
+- ● L'administration d'acide tranexamique en peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● L'antibioprophylaxie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● Le monitoring de la curarisation a-t-il un impact sur la durée de séjour ou la survenue de complications ?
+
+## **Champ 4 : Mesures postopératoires**
+
+Questions :
+
+- ● La technique d'analgésie postopératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● La réalisation d'une thromboprophylaxie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?- ● La mise en œuvre des mesures postopératoires d'optimisation dès la SSPI a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● La reprise d'une alimentation orale précoce a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● La déambulation précoce a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+- ● L'utilisation d'une liste de critères de sortie d'hospitalisation a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+
+## Synthèse des résultats
+
+Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 30 recommandations parmi lesquelles 19 ont un niveau de preuve élevé (GRADE 1+/-) et 10 un niveau de preuve modéré (GRADE 2+/-). Pour une recommandation, la méthode GRADE ne pouvait pas s'appliquer, aboutissant à un avis d'experts. Après deux tours de cotation et un amendement, un accord fort a été obtenu pour l'ensemble des recommandations. Pour deux questions, aucune recommandation n'a pu être formulée.
+
+La SFAR incite tous les anesthésistes-réanimateurs à se conformer à ces RFE pour assurer une qualité des soins dispensés aux patients. Cependant, dans l'application de ces recommandations, chaque praticien doit exercer son jugement, prenant en compte son expertise et les spécificités de son établissement, pour déterminer la méthode d'intervention la mieux adaptée à l'état du patient dont il a la charge.
+
+Enfin, un schéma récapitulant les grandes étapes du programme d'optimisation périopératoire de ces recommandations est proposé en annexe 1.
+
+## Références
+
+1. [1] Bardram L, Funch-Jensen P, Jensen P, Crawford M, Kehlet H. Recovery after laparoscopic colonic surgery with epidural analgesia, and early oral nutrition and mobilization. *Lancet* 1995;345:763-4.
+2. [2] Munin M, Rudy T, Glynn N, Crossett L, Rubasz H. Early inpatient rehabilitation after elective hip and knee arthroplasty. *JAMA* 1998 ;279 :847-52
+3. [3] Alfonsi P, Slim K, Chauvin M, Mariani P, Faucheron JL, Fletcher D; le groupe de travail de la Société française d'anesthésie et réanimation (Sfar) et de la Société française de chirurgie digestive (SFCD). [Guidelines for enhanced recovery after elective colorectal surgery]. *Ann Fr Anesth Reanim*. 2014 May;33(5):370-84. <https://sfar.org/rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee/>
+4. [4] Réhabilitation améliorée après chirurgie orthopédique lourde du membre inférieur (Arthroplastie de hanche et de genou hors fracture). SFAR 2019. <https://sfar.org/rehabilitation-amelioree-chirurgie-orthopedique-lourde-membre-inferieur/>
+5. [5] Berna P, Quesnel C, Assouad J, Bagan P, Etienne H, Fourdrain A, Le Guen M, Leone M, Lorne E, Nguyen YN, Pages PB, Roz H, Garnier M. Guidelines on enhanced recovery after pulmonary lobectomy. *Anaesth Crit Care Pain Med*. 2021 Feb;40(1):100791. <https://sfar.org/rehabilitation-amelioree-apres-lobectomie-pulmonaire/>
+6. [6] Réhabilitation améliorée après chirurgie cardiaque adulte sous CEC ou à cœur battant. SFAR 2021. <https://sfar.org/rehabilitation-amelioree-apres-chirurgie-cardiaque-adulte-sous-cec-ou-a-coeur-battant/>## CHAMP 1 : Généralités sur le programme d'optimisation périopératoire
+
+*Coordonnateur : Sébastien Bloc (Paris)*
+
+### Question : L'application d'un programme d'optimisation périopératoire a-t-elle un impact sur la durée d'hospitalisation ou la survenue de complications postopératoires ?
+
+*Experts : Constance Marquis (Toulouse), Guillaume Dufour (Paris), Sébastien Bloc (Paris)*
+
+**R1.1 - Il est recommandé de mettre en place et d'appliquer un programme d'optimisation périopératoire afin de réduire la durée de séjour des patients et l'incidence des complications postopératoires.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Les programmes d'optimisation périopératoire sont des programmes multimodaux et multidisciplinaires permettant d'optimiser la prise en charge des patients. Cette optimisation a pour but de réduire la durée de séjour, sans augmenter les réadmissions ni les complications, voire de les diminuer.
+
+L'instauration d'un programme d'optimisation périopératoire permet une meilleure compliance aux principes de prise en charge. Dans deux études multicentriques prospectives menées en chirurgie orthopédique et colorectale, une meilleure adhésion aux différentes étapes ainsi qu'aux différents principes de la RAC était retrouvée dans les établissements ayant mis en place un programme d'optimisation périopératoire [1,2]. De façon parallèle, une réduction des complications postopératoires et des durées de séjour étaient observées chez les patients ayant bénéficié d'une forte adhésion au protocole.
+
+Le bénéfice en termes de durée moyenne de séjour (DMS) est retrouvé dans la plupart des études randomisées et des méta-analyses, sans majoration du taux de réadmission, et ce, quel que soit le type de chirurgie [3,4]. Une telle réduction de la DMS sans augmentation des réadmissions est notamment retrouvée en chirurgie digestive majeure programmée (chirurgie colorectale, chirurgie bariatrique, chirurgie hépatique et pancréatique, chirurgie de l'œsophage) [5-13] et en urgence [14]. En chirurgie cardio-thoracique, la diminution de la durée globale de séjour est associée à une diminution des durées de séjour en unité de soins critiques et de ventilation postopératoire [15-17]. En chirurgie orthopédique programmée, l'application des principes de RAC diminue les DMS et, dans le cadre de l'urgence, réduit le délai d'intervention [18-20]. En chirurgie ORL carcinologique avec reconstruction par lambeau, les recommandations nord-américaines d'un programme de RAC ont pour objectif une diminution de la morbidité et des complications postopératoires ainsi que de la durée de séjour [21]. En chirurgie urologique et gynécologique carcinologique, les méta-analyses montrent à nouveau une diminution des durées de séjour lorsqu'un programme de RAC est appliqué [22,23].
+
+Concernant les bénéfices en termes de réduction des complications postopératoires, les résultats des études et des méta-analyses sont positifs malgré l'hétérogénéité des définitions des complications postopératoires et des mesures incluses dans les protocoles de réhabilitation. Les quelques études ayant étudié l'impact des programmes RAC sur la douleur postopératoire ont également montré un bénéfice [24,25].
+
+#### Références :
+
+[1] Ripollés-Melchor J, Abad-Motos A, Díez-Remesal Y, and cal ; Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol in Elective Total Hip and Knee Arthroplasty (POWER2) Study Investigators Group for the Spanish Perioperative Audit and Research Network (REDGERM). Association Between Use of Enhanced Recovery After Surgery Protocol and Postoperative Complications in Total Hip and KneeArthroplasty in the Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol in Elective Total Hip and Knee Arthroplasty Study (POWER2). *JAMA Surg*. 2020 Apr 1;155(4):e196024.
+
+[2] Ripollés-Melchor J, Ramírez-Rodríguez JM, Casans-Francés R, Aldecoa C, and cal; POWER Study Investigators Group for the Spanish Perioperative Audit and Research Network (REDGERM). Association Between Use of Enhanced Recovery After Surgery Protocol and Postoperative Complications in Colorectal Surgery: The Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol (POWER) Study. *JAMA Surg*. 2019 Aug 1;154(8):725-736.
+
+[3] Kamarajah SK, Bundred J, Weblin J, Tan BHL. Critical appraisal on the impact of preoperative rehabilitation and outcomes after major abdominal and cardiothoracic surgery: A systematic review and meta-analysis. *Surgery*. 2020 Mar;167(3):540-549.
+
+[4] Nicholson A, Lowe MC, Parker J, Lewis SR, Alderson P, Smith AF. Systematic review and meta-analysis of enhanced recovery programmes in surgical patients. *Br J Surg*. 2014 Feb;101(3):172-88
+
+[5] Ni TG, Yang HT, Zhang H, Meng HP, Li B. Enhanced recovery after surgery programs in patients undergoing hepatectomy: A meta-analysis. *World J Gastroenterol*. 2015 Aug 14;21(30):9209-16.
+
+[6] Lee Y, Yu J, Doumouras AG, Li J, Hong D. Enhanced recovery after surgery (ERAS) versus standard recovery for elective gastric cancer surgery: A meta-analysis of randomized controlled trials. *Surg Oncol*. 2020 Mar;32:75-87
+
+[7] Triantafyllou T, Olson MT, Theodorou D, Schizas D, Singhal S. Enhanced recovery pathways vs standard care pathways in esophageal cancer surgery: systematic review and meta-analysis. *Esophagus*. 2020 Apr;17(2):100-112
+
+[8] Zhou J, Du R, Wang L, Wang F, Li D, Tong G, Wang W, Ding X, Wang D. The Application of Enhanced Recovery After Surgery (ERAS) for Patients Undergoing Bariatric Surgery: a Systematic Review and Meta-analysis. *Obes Surg*. 2021 Mar;31(3):1321-1331
+
+[9] Małczak P, Pisarska M, Piotr M, Wysocki M, Budzyński A, Pędziwiatr M. Enhanced Recovery after Bariatric Surgery: Systematic Review and Meta-Analysis. *Obes Surg*. 2017 Jan;27(1):226-235
+
+[10] Huang ZD, Gu HY, Zhu J, Luo J, Shen XF, Deng QF, Zhang C, Li YB. The application of enhanced recovery after surgery for upper gastrointestinal surgery: Meta-analysis. *BMC Surg*. 2020 Jan 3;20(1):3.
+
+[11] Zhao Y, Qin H, Wu Y, Xiang B. Enhanced recovery after surgery program reduces length of hospital stay and complications in liver resection: A PRISMA-compliant systematic review and meta-analysis of randomized controlled trials. *Medicine (Baltimore)*. 2017 Aug;96(31):e7628.
+
+[12] Ni X, Jia D, Guo Y, Sun X, Suo J. The efficacy and safety of enhanced recovery after surgery (ERAS) program in laparoscopic digestive system surgery: A meta-analysis of randomized controlled trials. *Int J Surg*. 2019 Sep;69:108-115.
+
+[13] Noba L, Rodgers S, Chandler C, Balfour A, Hariharan D, Yip VS. Enhanced Recovery After Surgery (ERAS) Reduces Hospital Costs and Improve Clinical Outcomes in Liver Surgery: a Systematic Review and Meta-Analysis. *J Gastrointest Surg*. 2020 Apr;24(4):918-932
+
+[14] Hajibandeh S, Hajibandeh S, Bill V, Satyadas T. Meta-analysis of Enhanced Recovery After Surgery (ERAS) Protocols in Emergency Abdominal Surgery. *World J Surg*. 2020 May;44(5):1336-1348.
+
+[15] Li M, Zhang J, Gan TJ, Qin G, Wang L, Zhu M, Zhang Z, Pan Y, Ye Z, Zhang F, Chen X, Lin G, Huang L, Luo W, Guo Q, Wang E. Enhanced recovery after surgery pathway for patients undergoing cardiac surgery: a randomized clinical trial. *Eur J Cardiothorac Surg*. 2018 Sep 1;54(3):491-497
+
+[16] Williams JB, McConnell G, Allender JE, Woltz P, Kane K, Smith PK, Engelman DT, Bradford WT. One-year results from the first US-based enhanced recovery after cardiac surgery (ERAS Cardiac) program. *J Thorac Cardiovasc Surg*. 2019 May;157(5):1881-1888
+
+[17] Nguyen Y-L, Maiolino E, De Pauw V, Prieto M, Mazzella A, Peretout J-B, Dechartres A, Baillard C, Bobbio A, Daffré E, Alifano M. Enhanced Recovery Pathway in Lung Resection Surgery: Program Establishment and Results of a Cohort Study Encompassing 1243 Consecutive Patients. *Cancers*. 2022; 14(7):1745.
+
+[18] Deng QF, Gu HY, Peng WY, Zhang Q, Huang ZD, Zhang C, Yu YX. Impact of enhanced recovery after surgery on postoperative recovery after joint arthroplasty: results from a systematic review and meta-analysis. *Postgrad Med J*. 2018 Dec;94(1118):678-693
+
+[19] Elsarrag M, Soldozy S, Patel P, Norat P, Sokolowski JD, Park MS, Tvrdik P, Kalani MYS. Enhanced recovery after spine surgery: a systematic review. *Neurosurg Focus*. 2019 Apr 1;46(4):E3
+
+[20] Liu SY, Li C, Zhang PX. Enhanced recovery after surgery for hip fractures: a systematic review and meta-analysis. *Perioper Med (Lond)*. 2021 Sep 13;10(1):31
+
+[21] Dort JC, Farwell DG, Findlay M, Huber GF, Kerr P, Shea-Budgell MA, Simon C, Uppington J, Zygun D, Ljungqvist O, Harris J. Optimal Perioperative Care in Major Head and Neck Cancer Surgery With Free Flap Reconstruction: A Consensus Review and Recommendations From the Enhanced Recovery After SurgerySociety. JAMA Otolaryngol Head Neck Surg. 2017 Mar 1;143(3):292-303
+
+- [22] R Williams SB, Cumberbatch MGK, Kamat AM, Jubber I, Kerr PS, McGrath JS, Djaladat H, Collins JW, Packiam VT, Steinberg GD, Lee E, Kassouf W, Black PC, Cerantola Y, Catto JWF, Daneshmand S. Reporting Radical Cystectomy Outcomes Following Implementation of Enhanced Recovery After Surgery Protocols: A Systematic Review and Individual Patient Data Meta-analysis. Eur Urol. 2020 Nov;78(5):719-730
+- [23] Ye Z, Chen J, Shen T, Yang H, Qin J, Zheng F, Rao Y. Enhanced recovery after surgery (ERAS) might be a standard care in radical prostatectomy: a systematic review and meta-analysis. Ann Palliat Med. 2020 May;9(3):746-758
+- [24] Jiang M, Liu S, Deng H, Liang X, Bo Z. The efficacy and safety of fast track surgery (FTS) in patients after hip fracture surgery: a meta-analysis. J Orthop Surg Res. 2021 Feb 27;16(1):162
+- [25] Offodile AC 2nd, Gu C, Boukivalas S, Coroneos CJ, Chatterjee A, Largo RD, Butler C. Enhanced recovery after surgery (ERAS) pathways in breast reconstruction: systematic review and meta-analysis of the literature. Breast Cancer Res Treat. 2019 Jan;173(1):65-77.
+
+**Question : Existe-t-il une place pour la médecine de ville dans les parties pré et postopératoires du programme d'optimisation périopératoire ?**
+
+*Experts : Constance Marquis (Toulouse), Guillaume Dufour (Paris), Sébastien Bloc (Paris)*
+
+**ABSENCE DE RECOMMANDATION : En l'état actuel des connaissances, les experts ne sont pas en mesure d'émettre une recommandation concernant la place de la médecine de ville dans les périodes pré et postopératoire d'un programme d'optimisation périopératoire.**
+
+**Question : La participation d'une équipe dédiée pluri-professionnelle a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Experts : Constance Marquis (Toulouse), Guillaume Dufour (Paris), Sébastien Bloc (Paris)*
+
+**R1.2 - Les experts suggèrent que l'implémentation et le suivi des programmes d'optimisation périopératoire soient effectués par équipe pluriprofessionnelle, avec du temps dédié pour la coordination du parcours patient.**
+
+**Avis d'experts (Accord fort)**
+
+**Argumentaire :** La littérature actuelle est très pauvre sur le sujet. Les articles publiés sont pour la plupart des retours d'expérience, des points de vue d'experts, des études descriptives du rôle du personnel de coordination ou du personnel impliqué dans un parcours de prise en charge optimisé [1-6]. Ces études soulignent l'importance d'une collaboration et d'une communication efficaces en équipe pluriprofessionnelle. Du temps dédié à la coordination du parcours doit être envisagé.
+
+**Références :**
+
+- [1] Pignot G. [Role of the nurse in the implementation of enhanced recovery after surgery]. Prog Urol. 2019 Nov;29(15):904-907.
+- [2] Philip S, Carter J, Barnett C, D'Abrew N, Pather S, White K. Patients' perspectives of fast-track surgery and the role of the fast-track clinical nurse consultant in gynecological oncology. Holist Nurs Pract. 2015 May-Jun;29(3):158-66
+- [3] Watson DJ. Nurse coordinators and ERAS programs. Nurs Manage. 2018 Jan;49(1):42-49
+- [4] Li Y, Yan C, Li J, Wang Q, Zhang J, Qiang W, Qi D. A nurse-driven enhanced recovery after surgery (ERAS) nursing program for geriatric patients following lung surgery. Thorac Cancer. 2020 Apr;11(4):1105-1113. doi: 10.1111/1759-7714.13372.
+- [5] Watson DJ. The role of the nurse coordinator in the enhanced recovery after surgery program. Nursing.2017 Sep;47(9):13-17
+
+[6] Cohen R, Gooberman-Hill R. Staff experiences of enhanced recovery after surgery: systematic review of qualitative studies. BMJ Open. 2019 Feb 12;9(2):e022259
+
+### **Question : Tous les patients doivent-ils être inclus dans un programme d'optimisation péri-opératoire?**
+
+*Experts : Constance Marquis (Toulouse), Guillaume Dufour (Paris), Sébastien Bloc (Paris)*
+
+**R1.3 - Il est recommandé d'inclure tous les patients dans un programme d'optimisation périopératoire, notamment les patients âgés, fragiles ou comorbides, chez qui ce type de prise en charge permet aussi de diminuer le taux de complications postopératoires et la durée de séjour.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Les différentes recommandations françaises préconisent d'inclure tous les patients dans un programme d'optimisation périopératoire [1-4]. Des interrogations sur le bénéfice et la sécurité de l'application d'un tel programme chez les sujets âgés (> 65 ans) et/ou fragiles ont pu être émises, mais les études montrent un bénéfice en termes de récupération, d'incidence des complications (mineures et ou majeures) et de durée d'hospitalisation y compris dans cette population. La chirurgie digestive a été la plus étudiée [5,8], mais les résultats sont aussi positifs dans d'autres spécialités [9-14], ainsi que pour les chirurgies en urgence [13,15]. Concernant la sécurité, il n'a pas été retrouvé d'augmentation du taux de réadmission des patients âgés ou fragiles inclus dans un programme de RAC [16].
+
+Par ailleurs, il n'était observé aucune différence d'adhésion aux protocoles en fonction de l'âge, soulignant la faisabilité de ces protocoles chez les patients âgés et/ou fragiles [7,17]. Les auteurs de ces études soulignent néanmoins l'importance d'un protocole d'éducation adapté à cette population [18-21].
+
+Ainsi il est recommandé d'inclure systématiquement dans un programme optimisé multidisciplinaire les patients les plus fragiles afin d'améliorer leur devenir, même si les moyens et les objectifs devront être individualisés et adaptés, pour que la RAC devienne la référence pour la prise en charge de ces patients. Les équipes d'anesthésie-réanimation doivent jouer un rôle central dans ces programmes. Cette recommandation est confortée par une recommandation identique récemment émise par la société italienne d'anesthésie-réanimation [20].
+
+#### **Références :**
+
+1. [1] Berna P, Quesnel C, Assouad J, Bagan P, Etienne H, Fourdrain A, Le Guen M, Leone M, Lorne E, Nguyen YN, Pages PB, Roz H, Garnier M. Guidelines on enhanced recovery. after pulmonary lobectomy. Anaesth Crit Care Pain Med. 2021 Feb;40(1):100791. <https://sfar.org/rehabilitation-amelioree-apres-lobectomie-pulmonaire/>
+2. [2] Alfonsi P, Slim K, Chauvin M, Mariani P, Faucheron JL, Fletcher D; le groupe de travail de la Société française d'anesthésie et réanimation (Sfar) et de la Société française de chirurgie digestive (SFCD). [Guidelines for enhanced recovery after elective colorectal surgery]. Ann Fr Anesth Reanim. 2014 May;33(5):370-84. <https://sfar.org/rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee/>
+3. [3] Réhabilitation améliorée après chirurgie orthopédique lourde du membre inférieur (Arthroplastie de hanche et de genou hors fracture). SFAR 2019. <https://sfar.org/rehabilitation-amelioree-chirurgie-orthopedique-lourde-membre-inferieur/>
+4. [4] Réhabilitation améliorée après chirurgie cardiaque adulte sous CEC ou à cœur battant. SFAR 2021.<https://sfar.org/rehabilitation-amelioree-apres-chirurgie-cardiaque-adulte-sous-cec-ou-a-coeur-battant/>
+
+- [5] Tejedor P, Pastor C, Gonzalez-Ayora S, Ortega-Lopez M, Guadalajara H, Garcia-Olmo D. Short-term outcomes and benefits of ERAS program in elderly patients undergoing colorectal surgery: a case-matched study compared to conventional care. *Int J Colorectal Dis*. 2018 Sep;33(9):1251-1258
+- [6] Dolin TG, Christensen IJ, Johansen AZ, Nielsen HJ, Jakobsen HL, Klein MF, Lund CM, Bojesen SE, Nielsen DL, Jensen BV, Johansen JS. Pre- and Perioperative Inflammatory Biomarkers in Older Patients Resected for Localized Colorectal Cancer: Associations with Complications and Prognosis. *Cancers (Basel)*. 2021 Dec 29;14(1):161
+- [7] Ostermann S, Morel P, Chale JJ, Bucher P, Konrad B, Meier RPH, Ris F, Schiffer ERC. Randomized Controlled Trial of Enhanced Recovery Program Dedicated to Elderly Patients After Colorectal Surgery. *Dis Colon Rectum*. 2019 Sep;62(9):1105-1116
+- [8] Gonzalez-Ayora S, Pastor C, Guadalajara H, Ramirez JM, Royo P, Redondo E, Arroyo A, Moya P, Garcia-Olmo D. Enhanced recovery care after colorectal surgery in elderly patients. Compliance and outcomes of a multicenter study from the Spanish working group on ERAS. *Int J Colorectal Dis*. 2016 Sep;31(9):1625-31
+- [9] Shiono S, Endo M, Suzuki K, Hayasaka K. Impact of enhanced recovery after surgery on outcomes of elderly patients undergoing open thoracic surgery. *Gen Thorac Cardiovasc Surg*. 2019 Oct;67(10):867-875
+- [10] Ifrach J, Basu R, Joshi DS, Flanders TM, Ozturk AK, Malhotra NR, Pessoa R, Kallan MJ, Maloney E, Welch WC, Ali ZS. Efficacy of an Enhanced Recovery After Surgery (ERAS) Pathway in Elderly Patients Undergoing Spine and Peripheral Nerve Surgery. *Clin Neurol Neurosurg*. 2020 Oct;197:106115
+- [11] Wang P, Wang Q, Kong C, Teng Z, Li Z, Zhang S, Sun W, Feng M, Lu S. Enhanced recovery after surgery (ERAS) program for elderly patients with short-level lumbar fusion. *J Orthop Surg Res*. 2020 Aug 6;15(1):299
+- [12] Jiang HH, Jian XF, Shangguan YF, Qing J, Chen LB. Effects of Enhanced Recovery After Surgery in Total Knee Arthroplasty for Patients Older Than 65 Years. *Orthop Surg*. 2019 Apr;11(2):229-235
+- [13] Liu SY, Li C, Zhang PX. Enhanced recovery after surgery for hip fractures: a systematic review and meta-analysis. *Perioper Med (Lond)*. 2021 Sep 13;10(1):31
+- [14] Kang Y, Liu J, Chen H, Ding W, Chen J, Zhao B, Yin X. Enhanced recovery after surgery (ERAS) in elective intertrochanteric fracture patients result in reduced length of hospital stay (LOS) without compromising functional outcome. *J Orthop Surg Res*. 2019 Jul 9;14(1):209
+- [15] Padurararu M, Ponchietti L, Casas IM, Svenningsen P, Pereira J, Landaluce-Olavarria A, Font RF, Miguel IP, Ugarte-Sierra B. Enhanced Recovery After Surgery (ERAS) - The Evidence in Geriatric Emergency Surgery: A Systematic Review. *Chirurgia (Bucur)*. 2017 Sept-Oct;112(5):546-557
+- [16] Forsmo HM, Erichsen C, Rasdal A, Körner H, Pfeffer F. Enhanced Recovery After Colorectal Surgery (ERAS) in Elderly Patients Is Feasible and Achieves Similar Results as in Younger Patients. *Gerontol Geriatr Med*. 2017 May 2;3:2333721417706299
+- [17] Lirosi MC, Tirelli F, Biondi A, Mele MC, Larotonda C, Lorenzon L, D'Ugo D, Gasbarrini A, Persiani R. Enhanced Recovery Program for Colorectal Surgery: a Focus on Elderly Patients Over 75 Years Old. *J Gastrointest Surg*. 2019 Mar;23(3):587-594
+- [18] Meillat H, Braticevic C, Zemmour C, Brun C, Cécile M, Faucher M, de Chaisemartin C, Lelong B. Real-world implementation of a geriatric-specific ERAS protocol in patients undergoing colonic cancer surgery. *Eur J Surg Oncol*. 2021 May;47(5):1012-1018
+- [19] Bongers BC, Dejong CHC, den Dulk M. Enhanced recovery after surgery programmes in older patients undergoing hepatopancreatobiliary surgery: what benefits might prehabilitation have? *Eur J Surg Oncol*. 2021 Mar;47(3 Pt A):551-559
+- [20] Aceto P, Antonelli Incalzi R, Bettelli G, Carron M, Chiumiento F, Corcione A, Crucitti A, Maggi S, Montorsi M, Pace MC, Petrini F, Tommasino C, Trabucchi M, Volpato S; Società Italiana di Anestesia Analgesia Rianimazione e Terapia Intensiva (SIAARTI), Società Italiana di Gerontologia e Geriatria (SIGG), Società Italiana di Chirurgia (SIC), Società Italiana di Chirurgia Geriatrica (SICG) and Associazione Italiana di Psicogeriatria (AIP). Perioperative Management of Elderly patients (PriME): recommendations from an Italian intersociety consensus. *Aging Clin Exp Res*. 2020 Sep;32(9):1647-1673
+- [21] Millan M, Espina-Perez B, Caro-Tarrago A, Jorba-Martin R. ERAS programs in elderly patients: is there a limit? *Int J Colorectal Dis*. 2018 Sep;33(9):1313## CHAMP 2 : Mesures préopératoires
+
+Coordonnateur : Axel Maurice-Szamburski (SFAR)
+
+**Question : Un programme de pré-habilitation avant chirurgie a-t-il un impact sur la survenue des complications postopératoires ou sur la durée d'hospitalisation ?**
+
+Expert : Stéphane Fabri (Montpellier)
+
+**R2.1 - Il est probablement recommandé de mettre en œuvre un programme de pré-habilitation avant chirurgie afin de réduire la morbidité et la durée de séjour postopératoire.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** Aujourd'hui, la pré-habilitation est fréquemment proposée avant une intervention chirurgicale majeure. Une méta-analyse publiée en 2021 regroupant 178 études observationnelles a démontré un bénéfice de la pré-habilitation en termes de réduction de morbidité, de la durée de séjour et de certaines complications postopératoires [1]. Néanmoins, il existe une hétérogénéité importante dans les mesures incluses dans les programmes étudiés et dans les types de chirurgies considérées [2-5]. Les approches sont souvent multimodales basées principalement sur l'information, l'éducation, l'exercice physique parfois supervisé par un professionnel de santé, le sevrage tabagique, la prise en charge nutritionnelle et le soutien psychologique [2, 6]. Dans toutes les études, la mise en place d'un programme de pré-habilitation intervient au moins 7 jours avant la chirurgie [2, 5-8]. La pré-habilitation multimodale est susceptible d'avoir un meilleur impact sur les résultats fonctionnels par rapport à une mesure unique [2]. Les bénéfices de la pré-habilitation combinée à une rééducation physique sont plus importants que pour une pré-habilitation seule [7]. Les programmes sont à individualiser pour chaque patient et chaque type de chirurgie et les bénéfices démontrés varient en fonction du type de chirurgie :
+
+- - chirurgie abdominale majeure : réduction de la durée de séjour, des complications postopératoires (pulmonaires) et de la morbidité [6, 9-13] ;
+- - chirurgie thoracique et cardiaque : réduction des complications postopératoires et diminution de la durée de séjour (chirurgie cardiaque) [14], amélioration des capacités fonctionnelles [15] ;
+- - chirurgie oncologique gynécologique et urologique : amélioration de la qualité de vie [16-19] ;
+- - chirurgie orthopédique prothétique (PTH, PTG) et chirurgie du rachis : données scientifiques encore insuffisantes pour mesurer l'effet d'une pré-habilitation [20-22].
+
+Pour les patients fragiles bénéficiant d'une intervention chirurgicale, la pré-habilitation pourrait être associée à une diminution de la mortalité mais les preuves sont encore limitées [23].
+
+### Références :
+
+1. [1] Perry R, Herbert G, Atkinson C, England.C, Northstone.K, Baos.S, Brush.T, Chong.A, Ness.A, Harris.J, Haase.A, Shah.S, Pufulete.M ; Pre-admission interventions (prehabilitation) to improve outcome after major elective surgery: a systematic review and meta-analysis. BMJ Open 2021;11:e050806.
+2. [2] Luther.A, Gabriel.J, Watson.R, Francis.N ; The Impact of Total Body Prehabilitation on Post-Operative Outcomes After Major Abdominal Surgery: A Systematic Review ; World Journal of Surgery volume 42, pages2781–2791 (2018)
+3. [3] Bolshinsky.V, Li.M, Ismail.H, Burbury.K, Riedel.B, Heriot.A ; Multimodal Prehabilitation Programs as a Bundle of Care in Gastrointestinal Cancer Surgery: A Systematic Review ; Dis Colon Rectum 2018; 61: 124–138
+4. [4] Hijazi.Y, Gondal.U, Aziz.O ; A systematic review of prehabilitation programs in abdominal cancer surgery ; International Journal of Surgery 39 (2017) 156e162
+5. [5] Thomas.G, Tahir.M, Bongers.B, Kallen.V, Sooter.G, Van Meeteren.N ; Prehabilitation before major intra-abdominal cancer surgery. A systematic review of randomised controlled trials ; Eur J Anaesthesiol 2019;36:933–945
+
+- [6] Faithfull S, Turner L, Poole K, et al. Prehabilitation for adults diagnosed with cancer: A systematic review of long-term physical function, nutrition and patient-reported outcomes. *Eur J Cancer Care*. 2019;e13023.
+- [7] Waterland J, McCourt O, Edbrooke L, Granger C, Ismail H, Riedel B, Denehy L ; Efficacy of Prehabilitation Including Exercise on Postoperative Outcomes Following Abdominal Cancer Surgery: Systematic Review and Meta-Analysis ; *Front. Surg*. 8:628848, March 2021, Volume 8.
+- [8] Gillis C, Buhler K, Bresee L, Carli F, Gramlich L, Culos-Reed N, Sajobi T, Fenton T ; Effects of Nutritional Prehabilitation, With and Without Exercise, on Outcomes of Patients Who Undergo Colorectal Surgery: A Systematic Review and Meta-analysis ; *Gastroenterology* ; Volume 155, Issue 2, August 2018, Pages 391-410
+- [9] Heger P, Probst P, Wiskemann J, Steindorf K, Diener M, Mihaljevic A ; A Systematic Review and Meta-analysis of Physical Exercise Prehabilitation in Major Abdominal Surgery (PROSPERO 2017 CRD42017080366) ; *Journal of Gastrointestinal Surgery* volume 24, pages 1375–1385 (2020)
+- [10] Hughes M, Hackney R, Lamb P, Wigmore S, Deans C, Skipworth R ; Prehabilitation Before Major Abdominal Surgery: A Systematic Review and Meta-analysis ; *World Journal of Surgery* volume 43, pages 1661–1668 (2019)
+- [11] Santek N, Kirac I ; Effect of physiotherapy on vital capacity before major abdominal surgery in cancer patients : a systematic review ; *Lib Oncol*. 2021;49(1):39–47
+- [12] Daniels S, Lee M, George J, Kerr K, Moug S, Wilson T, Brown S, Wyld L ; Prehabilitation in elective abdominal cancer surgery in older patients: systematic review and meta-analysis *BJS Open* 2020; 4: 1022–1041
+- [13] Marmelo F, Rocha V, Moreira-Gonçalves D ; The impact of prehabilitation on post-surgical complications in patients undergoing non-urgent cardiovascular surgical intervention: Systematic review and meta-analysis ; *European Journal of Preventive Cardiology*, Volume 25, Issue 4, 1 March 2018, Pages 404–417
+- [14] Sanchez-Lorente D, Navarro-Ripoll R, Guzman R, Moises J, Gimeno E, Boada M, Molins L, Prehabilitation in thoracic surgery ; *J Thorac Dis* 2018;10(Suppl 22):S2593-S2600
+- [15] Schneider S, Armbrust R, Spies C, du Bois A, Sehouli J ; Prehabilitation programs and ERAS protocols in gynecological oncology: a comprehensive review ; *Archives of Gynecology and Obstetrics* volume 301, pages 315–326 (2020)
+- [16] Boden et al Preoperative physiotherapy for the prevention of respiratory complications after upper abdominal surgery: pragmatic, double blinded, multicentre randomised controlled trial *BMJ* 2018; 360 doi: <https://doi.org/10.1136/bmj.j5916> (Published 24 January 2018)
+- [17] Minnella E, Carli F, Kassouf W ; Role of prehabilitation following major uro-oncologic surgery: a narrative review ; *World Journal of Urology* (2020)
+- [18] Jensen B, Lauridsen S, Jensen J ; Prehabilitation for major abdominal urologic oncology surgery ; *Opinion in Urology*, Volume 28, Number 3, 1 May 2018, pp. 243-250
+- [19] Briggs L, Reitblat C, Bain P, Parke S, Lam N.Y, Wright J, Catto J, Copeland R, Psutka S ; Prehabilitation Exercise Before Urologic Cancer Surgery: A Systematic and Interdisciplinary Review ; *Eur Urol*. 2021 May 29;S0302-2838(21)00353-5
+- [20] Vasta S, Papalia R, Torre G, Vorini F, Papalia G, Zampogna B, Fossati C, Bravi M, Campi S, Denaro V ; The Influence of Preoperative Physical Activity on Postoperative Outcomes of Knee and Hip Arthroplasty Surgery in the Elderly: A Systematic Review ; *J. Clin. Med*. 2020, 9, 969
+- [21] Wainwright T, Gill M, McDonald D, Middleton R, Reed M, Sahota O, Yates P, Ljungqvist O, Consensus statement for perioperative care in total hip replacement and total knee replacement surgery: Enhanced Recovery After Surgery (ERAS®) Society recommendations ; 2020 ; *Acta Orthopaedica*, 91:1, 3-19,
+- [22] Gometz A, Maislen D, Youtz C, Kary E, Gometz E, Sobotka S, Choudhri T ; The Effectiveness of Prehabilitation (Prehab) in Both Functional and Economic Outcomes Following Spinal Surgery: A Systematic Review ; *Cureus* 10(5): e2675. DOI 10.7759/cureus.2675
+- [23] Milder D, Pillinger N, Kam P ; The role of prehabilitation in frail surgical patients: A systematic review ; *Acta Anaesthesiol Scand*. 2018;1–11.
+
+**Question : Les conditions du jeûne pré-opératoire ont-elles un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Experts : Lionel Bouvet (Lyon), Sébastien Bloc (Paris)***R2.2 - Il est recommandé de limiter la durée du jeûne préopératoire à 6 heures pour les solides et d'encourager la prise de liquides clairs (eau, thé, café, sucrés ou non, jus de fruit sans pulpe) jusqu'à 2 heures avant la chirurgie pour réduire l'anxiété préopératoire et la durée de séjour.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Les recommandations récentes des sociétés savantes sur les conditions du jeûne préopératoire valident la sécurité de la prise de boissons jusqu'à 2 heures avant une chirurgie programmée, chez les patients n'ayant pas de troubles importants de la vidange gastrique [1-3]. Il n'existe aucune preuve que la prise de boissons jusqu'à 2 heures avant l'anesthésie majeure le risque d'inhalation pulmonaire ou de régurgitation avec du liquide gastrique.
+
+Selon les recommandations de l'ESPEN (European Society for Clinical Nutrition and Metabolism) des boissons sucrées devraient être administrées jusqu'à deux heures avant la chirurgie afin de réduire l'inconfort et l'anxiété préopératoire. Leur ingestion devrait également être envisagée afin de réduire les durées de séjour et la résistance à l'insuline comparativement à l'application d'un jeûne prolongé [2]. Cet effet est d'autant plus important que la chirurgie est majeure avec une durée prévue de séjour postopératoire longue. L'ingestion préopératoire de boissons sucrées ne s'accompagne pas d'une majoration ni d'une réduction des complications postopératoires.
+
+**Références :**
+
+- [1] Fawcett WJ, Thomas M. Pre-operative fasting in adults and children: clinical practice and guidelines. Anaesthesia. 2019 Jan;74(1):83-88.
+- [2] Weimann A, Braga M, Carli F, Higashiguchi T, Hübner M, Klek S, Laviano A, Ljungqvist O, Lobo DN, Martindale RG, Waitzberg D, Bischoff SC, Singer P. ESPEN practical guideline: Clinical nutrition in surgery. Clin Nutr. 2021 Jul;40(7):4745-4761
+- [3] Alfonsi P, Slim K, Chauvin M, Mariani P, Faucheron JL, Fletcher D; le groupe de travail de la Société française d'anesthésie et réanimation (Sfar) et de la Société française de chirurgie digestive (SFCD). [Guidelines for enhanced recovery after elective colorectal surgery]. Ann Fr Anesth Reanim. 2014 May;33(5):370-84
+
+**Question : La prémédication sédatif a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Expert : Axel Maurice-Szamburski (Marseille)*
+
+**R2.3 - Il n'est pas recommandé de prescrire systématiquement une prémédication sédatif avant une intervention afin de réduire la survenue de complications postopératoires.**
+
+**GRADE 1- (Accord fort)**
+
+**Argumentaire :** La période péri-opératoire est reconnue comme anxiogène pour les patients. Toutefois, la prémédication sédatif par benzodiazépine n'a pas démontré de bénéfice en termes de vécu du patient après une anesthésie générale, dans une large étude prospective randomisée (satisfaction des patients dans le groupe lorazepam : 72% IC95%(70-73); n = 330 vs. (73% (71-74); n = 319 dans le groupe "absence de prémédication" et 71% (70-73); n = 322 dans le groupe "placebo" - p=0,38) [1]. Ce résultat était similaire dans le sous-groupe des patients les plus anxieux avant leur intervention. Aucun bénéfice sur la qualité du conditionnement du patient à son arrivée au bloc opératoire n'était retrouvé, renforçant le constat d'inefficacité dela prémédication par benzodiazépine pour l'anxiolyse du patient avant une anesthésie.
+
+En revanche, la prémédication par lorazepam était associée à une prolongation des délais d'extubation (17 minutes IC95%(14-20) dans le groupe lorazepam vs. 12 minutes (11-13) dans le groupe sans prémédication et 13 minutes (12-14) dans le groupe placebo -  $p<0,001$ ). Les auteurs notaient également un défaut de récupération cognitive précoce en salle de réveil dans le groupe prémédié (51% (45-56) dans le groupe lorazepam vs. 71% (66-76) dans le groupe sans prémédication et 64% (59-69) dans le groupe placebo -  $p<0,001$ ) [1]. Une méta-analyse récente reprenant 12 études et 1445 patients conforte ces résultats en mettant en évidence un prolongement du temps de récupération après prémédication sédative, malgré une hétérogénéité des résultats ( $I^2=63\%$ ). Cette même méta-analyse retrouvait un bénéfice de la prémédication par benzodiazépine sur les nausées (OR 0,34, IC95%(0,21-0,55) -  $p<0,001$ ) mais pas sur les vomissements ( $p=0,08$ ) ou les vertiges ( $p=0,68$ ) postopératoires. A noter que cette méta-analyse n'identifiait pas non plus de bénéfice de la prémédication par benzodiazépine sur l'anxiété des patients ( $p=0,24$ ) [2].
+
+Une étude récente précise les effets de la prémédication par benzodiazépine en fonction des modalités de l'anesthésie générale. Le midazolam administré en prémédication ne réduisait pas les nausées postopératoires dans le groupe des patients anesthésiés par propofol alors que les auteurs relevaient un bénéfice dans le groupe des patients anesthésiés par sévoflurane ( $p<0,001$ ). Le midazolam était également associé à un retard à l'ouverture des yeux significatif dans le groupe "anesthésie par propofol" ( $p<0,001$ ) mais pas dans le groupe sévoflurane [3].
+
+La prémédication sédative par benzodiazépines semble associée à une prolongation de la durée de séjour en salle de surveillance post-interventionnelle probablement du fait des effets indésirables de cette classe pharmacologique, comme l'augmentation de l'incidence des désaturations en oxygène, particulièrement dans la population âgée [4]. Une revue systématique du groupe Cochrane reprenant 17 études ne mettait toutefois pas en évidence de lien entre la prémédication sédative et la durée d'hospitalisation globale [5].
+
+Les gabapentinoïdes, prescrits dans le but de réduire la douleur postopératoire ou prévenir sa chronicisation, présentent un effet sédatif notable ayant amené certains auteurs à les proposer comme prémédication sédative [6]. Ces effets sédatifs sont associés à la survenue de vertiges et de troubles visuels délétères dans le cadre d'un protocole de réhabilitation améliorée [7,8]. Leur bénéfice sur la douleur postopératoire est de plus remis en question [9-11] et l'actualisation des RFE sur la prise en charge de la douleur postopératoire recommande d'éviter leur utilisation systématique [12].
+
+La mélatonine possède un effet anxiolytique comparable en prémédication à celui des benzodiazépines, cependant la littérature manque de données sur sa tolérance pour suggérer un rapport bénéfice/risque supérieur à ce jour [13].
+
+Au final, du fait de l'absence de bénéfice pour le patient et de l'existence d'effets délétères sur la récupération postopératoire, il est recommandé de ne pas administrer systématiquement de prémédication sédative avant une intervention réalisée dans le cadre d'un protocole de RAC.
+
+#### Références :
+
+- [1] Maurice-Szamburski, A. et al. Effect of sedative premedication on patient experience after general anesthesia: a randomized clinical trial. JAMA 313, 916–925 (2015).
+- [2] Mijderwijk, H., VAN Beek, S., Duivenvoorden, H. J. & Stolker, R. J. Effectiveness of benzodiazepine premedication on recovery in day-case surgery: a systematic review with meta-analysis. Minerva Anestesiol. 82, 438–464 (2016).
+- [3] Kim, H., Park, S.-S. & Shim, J. Differences in midazolam premedication effects on recovery after short-duration ambulatory anesthesia with propofol or sevoflurane for gynecologic surgery in young patients: A randomized controlled trial. *Medicine (Baltimore)* 99, e23194 (2020).
+
+- [4] Fredman, B. et al. The effect of midazolam premedication on mental and psychomotor recovery in geriatric patients undergoing brief surgical procedures. *Anesth. Analg.* 89, 1161–1166 (1999).
+- [5] Walker, K. J. & Smith, A. F. Premedication for anxiety in adult day surgery. *Cochrane Database Syst. Rev.* 2009, CD002192 (2009).
+- [6] Ménigaux, C., Adam, F., Guignard, B., Sessler, D. I. & Chauvin, M. Preoperative gabapentin decreases anxiety and improves early functional recovery from knee surgery. *Anesth. Analg.* 100, 1394–1399 (2005).
+- [7] Fabritius, M. L. et al. Gabapentin for post-operative pain management - a systematic review with meta-analyses and trial sequential analyses. *Acta Anaesthesiol. Scand.* 60, 1188–1208 (2016).
+- [8] Eipe, N. et al. Perioperative use of pregabalin for acute pain-a systematic review and meta-analysis. *Pain* 156, 1284–1300 (2015).
+- [9] Chaparro, L. E., Smith, S. A., Moore, R. A., Wiffen, P. J. & Gilron, I. Pharmacotherapy for the prevention of chronic pain after surgery in adults. *Cochrane Database Syst. Rev.* 2013, CD008307 (2013).
+- [10] Mishriky, B. M., Waldron, N. H. & Habib, A. S. Impact of pregabalin on acute and persistent postoperative pain: a systematic review and meta-analysis. *Br. J. Anaesth.* 114, 10–31 (2015).
+- [11] Clarke, H. et al. The prevention of chronic postsurgical pain using gabapentin and pregabalin: a combined systematic review and meta-analysis. *Anesth. Analg.* 115, 428–442 (2012).
+- [12] Aubrun, F. & SFAR. RFE - Réactualisation de la recommandation sur la douleur postopératoire. *Anesthésie Réanimation* 421–30 (2016).
+- [13] Madsen, B. K., Zetner, D., Møller, A. M. & Rosenberg, J. Melatonin for preoperative and postoperative anxiety in adults. *Cochrane Database Syst Rev.* 2020 Dec 8;12(12)
+
+### Question : L'admission en hospitalisation le jour de la chirurgie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+
+*Expert : Frédéric Le Sache (Paris)*
+
+**R2.4 - Il est probablement recommandé d'admettre les patients le jour de l'intervention pour réduire la durée de séjour sans modifier la survenue de complications.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** L'admission le jour de l'intervention ("J0") est communément effectuée dans les parcours de chirurgie ambulatoire quel que soit le niveau de technicité de l'intervention. Pour les chirurgies réalisées en hospitalisation conventionnelle, chez des patients présentant des comorbidités plus sévères et pour des parcours péri-opératoires plus à risque de complications, l'admission le jour de l'intervention n'est pas une pratique courante en France. Il existe peu d'études sur le sujet et la qualité méthodologique est de faible niveau, reposant essentiellement sur des études observationnelles. Cependant, les données publiées sur l'admission J0 mettent en évidence une diminution globale de la durée moyenne de séjour. Cette diminution dépasse souvent la seule nuit préopératoire car la mise en place de l'admission J0 s'associe souvent à d'autres mesures permettant une réduction de la durée de séjour postopératoire. En Irlande, Stephens et al. ont rapporté sur une cohorte de patients opérés d'un cancer du rectum dans un centre de référence, une diminution de la durée de séjour de 16 à 12 jours de façon contemporaine à l'augmentation de 15,9 à 98,5% des admissions en J0, favorisant une augmentation du nombre de patients pris en charge annuellement [1]. En chirurgie cardiaque, Patel et al. ont mis en évidence aux Etats-Unis, à partir d'un registre national, que l'admission J0 (n=467) vs. l'admission J-1 (n=371) était associée à une réduction de la durée de séjour (5,9j  $\pm$  0,25j vs. 7,2j  $\pm$  0,3j respectivement - p<0,001), sans différence de mortalité intra-hospitalière ni de complications postopératoires [2]. L'évaluation médico-économique soulignait une diminution des coûts du séjour (51126\$  $\pm$1184\$ pour l'admission J0 57703\$  $\pm$  1508\$ pour l'admission J-1). Ce bénéfice économique était également retrouvé en neurochirurgie par Pepper et al. sur un collectif de 87 patients admis à J0 par rapport à 112 admis la veille, le bénéfice économique étant de 30000 dollars, sans modification du taux d'annulation des interventions [3].
+
+Concernant les complications, une étude sur 234 infections du site opératoire au sein d'une cohorte de 4596 patients de chirurgie orthopédique ne mettait pas en évidence de différence d'incidence en fonction de la modalité d'admission (OR admission J-1 : 1,38 (0,99–1,93) -  $p = 0,06$ ) [4].
+
+Une des craintes de l'admission J0 pourrait être une augmentation du taux d'annulation par rapport à une admission la veille où un certain nombre d'examens complémentaires manquants pourraient encore être réalisés afin d'évaluer le risque opératoire. L'annulation ne semble pas être liée au mode d'admission dans la littérature mais plutôt aux modèles d'organisation du parcours préopératoire [3]. L'organisation doit s'appuyer sur les mêmes modalités qu'en ambulatoire et s'appuyer sur des équipes de coordination (cf. R1.3). Les conditions de prises en charge assurantielles et la disponibilité des lits d'hébergement sont des causes fréquentes d'annulation. Les contre-indications médicales ou les insuffisances d'évaluation sont les autres grands motifs d'annulation, représentant de 10 à 80% des cas [5-11]. Ces différences d'incidence peuvent en partie être expliquées par une hétérogénéité des pratiques d'évaluation préopératoire. En effet, dans un certain nombre de pays, la consultation d'anesthésie est souvent facultative en amont de l'admission. Des auteurs ont souligné son importance afin de limiter les annulations de causes médicales [12, 13]. La consultation d'anesthésie obligatoire en France devrait permettre de faciliter l'admission J0 en évitant les carences d'évaluation.
+
+#### Références :
+
+1. [1] Stephens I, Murphy C, Reynolds IS, Sahebally S, Deasy J, Burke JP, McNamara DA. Implementation of day of surgery admission for rectal cancer surgery in Ireland following a national centralisation programme. *Ir J Med Sci.* 2019 Aug;188(3):765-769. doi: 10.1007/s11845-018-1904-0. Epub 2018 Oct 6. PMID: 30291559.
+2. [2] Patel SV, Jhamnani S, Patel P, Sonani R, Savani C, Patel N, Patel NJ, Panaich SS, Patel M, Theodore S, Grines C, Badheka AO. Influence of same-day admission on outcomes following transcatheter aortic valve replacement. *J Card Surg.* 2016 Oct;31(10):608-616. doi: 10.1111/jocs.12819. Epub 2016 Aug 29. PMID: 27572827.
+3. [3] Pepper J, Scott T, Roylance A, Beckett R, Albanese E. On day admissions in neurosurgery: a comparative cohort study. *Br J Neurosurg.* 2020 Oct 16:1-3. doi: 10.1080/02688697.2020.1834504. Epub ahead of print. PMID: 33063534.
+4. [4] Mujagic E, Marti WR, Coslovsky M, Soysal SD, Mechera R, von Strauss M, Zeindler J, Saxer F, Mueller A, Fux CA, Kindler C, Gurke L, Weber WP. Associations of Hospital Length of Stay with Surgical Site Infections. *World J Surg.* 2018 Dec;42(12):3888-3896. doi: 10.1007/s00268-018-4733-4. PMID: 29978247.
+5. [5] Da'ar OB, Al-Mutairi T. How do patient demographics, time-related variables, reasons for cancellation, and clinical procedures affect frequency of same-day operating room surgery cancellation? A maximum likelihood method. *BMC Health Serv Res.* 2018 Jun 15;18(1):454. doi: 10.1186/s12913-018-3247-y. PMID: 29903002; PMCID: PMC6003070.
+6. [6] Sahraoui A, Elarref M. Bed crisis and elective surgery late cancellations: An approach using the theory of constraints. *Qatar Med J.* 2014 Jun 16;2014(1):1-11. doi: 10.5339/qmj.2014.1. PMID: 25320686; PMCID: PMC4197367.
+7. [7] Silvay G, Zafirova Z. Ten Years Experiences With Preoperative Evaluation Clinic for Day Admission Cardiac and Major Vascular Surgical Patients: Model for "Perioperative Anesthesia and Surgical Home". *Semin Cardiothorac Vasc Anesth.* 2016 Jun;20(2):120-32. doi: 10.1177/1089253215619236. Epub 2015 Nov 29. PMID: 26620138.
+8. [8] Dalton DM, Kelly EG, Murphy TP, McCoy GF, Glynn AA. Day of Surgery Admission in Total Joint Arthroplasty: Why Are Surgeries Cancelled? An Analysis of 3195 Planned Procedures and 114 Cancellations. *Adv Orthop.* 2016;2016:1424193. doi: 10.1155/2016/1424193. Epub 2016 Nov 16. PMID: 27974973; PMCID: PMC5128686.[9] Kaddoum R, Fadlallah R, Hitti E, El-Jardali F, El Eid G. Causes of cancellations on the day of surgery at a Tertiary Teaching Hospital. BMC Health Serv Res. 2016 Jul 13;16:259. doi: 10.1186/s12913-016-1475-6. PMID: 27412041; PMCID: PMC4944432.
+
+[10] Tan AL, Chiew CJ, Wang S, Abdullah HR, Lam SS, Ong ME, Tan HK, Wong TH. Risk factors and reasons for cancellation within 24 h of scheduled elective surgery in an academic medical centre: A cohort study. Int J Surg. 2019 Jun;66:72-78. doi: 10.1016/j.ijisu.2019.04.009. Epub 2019 Apr 26. PMID: 31029875.
+
+[11] Caesar U, Karlsson J, Olsson LE, Samuelsson K, Hansson-Olofsson E. Incidence and root causes of cancellations for elective orthopaedic procedures: a single center experience of 17,625 consecutive cases. Patient Saf Surg. 2014 Jun 2;8:24. doi: 10.1186/1754-9493-8-24. PMID: 24955115; PMCID: PMC4064269.
+
+[12] Silvay G, Zafirova Z. Ten Years Experiences With Preoperative Evaluation Clinic for Day Admission Cardiac and Major Vascular Surgical Patients: Model for "Perioperative Anesthesia and Surgical Home". Semin Cardiothorac Vasc Anesth. 2016 Jun;20(2):120-32. doi: 10.1177/1089253215619236. Epub 2015 Nov 29. PMID: 26620138.
+
+[13] Desebbe O, Lanz T, Kain Z, Cannesson M. The perioperative surgical home: An innovative, patient-centred and cost-effective perioperative care model. Anaesth Crit Care Pain Med. 2016 Feb;35(1):59-66. doi: 10.1016/j.accpm.2015.08.001. Epub 2015 Nov 21. PMID: 26613678.
+
+**Question : Les différentes stratégies d'épargne sanguine préopératoire ont-elles un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Sigismond Lasocki (Angers)*
+
+**R2.5 - Il est probablement recommandé de mettre en place un programme de gestion personnalisée du capital sanguin (ou « patient blood management »), pour réduire la durée de séjour et les complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** Les programmes de gestion personnalisée du capital sanguin, ou « PBM » pour « patient blood management » en anglais, font déjà l'objet de recommandations internationales pour les patients opérés de chirurgies réglées [1], et sont une priorité actuelle pour l'OMS [2]. L'objectif de ces programmes de PBM est à la fois de réduire le recours à la transfusion sanguine mais surtout, d'améliorer le devenir des patients, comme le souligne la définition récente du PBM [3]. Cependant, dans la plupart des études, l'objectif principal est la réduction de la transfusion sanguine, et non les durées de séjour ou la survenue de complications. De plus, les études randomisées contrôlées sont difficiles à réaliser lorsqu'on s'intéresse à un changement de pratique. En conséquence, le niveau de preuve actuellement disponible pour le PBM est faible à modérée. C'est pourquoi la force de cette recommandation est GRADE 2+.
+
+La littérature montre tout de même quelques résultats positifs d'un programme de PBM sur la durée de séjour postopératoire des patients. Dans une méta-analyse réalisée pour la conférence de consensus internationale de 2018, la mise en place d'un programme de PBM permettait de réduire la durée de séjour de 0,5 jour en moyenne [1]. Dans une étude prospective observationnelle de type avant/après, la mise en place d'un programme de PBM en chirurgie orthopédique a permis de réduire la durée de séjour d'une journée en médiane, le taux de réadmission à J30 de 9 à 5,8%, et de diviser par 2 le taux de complications, passant de 1,5 à 0,75% [4].
+
+En outre, les programmes de PBM reposent sur un ensemble de mesures, réunies autour de trois piliers : (1) optimiser l'érythropoïèse, (2) limiter les pertes sanguines, et (3) optimiser la tolérance à l'anémie. Ces différentes mesures ont également été étudiées individuellement. Ilexiste notamment des données montrant l'intérêt des premier et troisième piliers pour la réduction de la durée de séjour et/ou des complications postopératoires.
+
+Concernant le premier pilier, plusieurs consensus existent pour le traitement de l'anémie préopératoire. En particulier, il est recommandé de traiter l'anémie par carence martiale en préopératoire [1, 7-9]. Il est également recommandé de traiter par érythropoïétine (EPO) et fer les patients ayant une hémoglobine (Hb) <13 g/dL en préopératoire de chirurgie orthopédique majeure [1]. Les sociétés européenne et américaine d'anesthésie suggèrent de traiter les patients anémiques par EPO ( $\pm$  fer), en cas de risque transfusionnel élevé, sans préciser le type de chirurgie [8, 9]. Ces recommandations se basent sur une littérature montrant une réduction de la transfusion sanguine. Une méta-analyse montre une réduction de la durée de séjour de près de 3 jours en moyenne (-2,98 jours IC95%(-3,33 – -2,61) -  $p<0,001$ ) dans les études utilisant du fer  $\pm$  EPO en préopératoire [10]. Ceci n'est pas retrouvé dans une autre méta-analyse comparant les études "fer + EPO" à "fer seul", même s'il existe une réduction de la transfusion [11]. Une étude randomisée contrôlée récente comparant l'administration de fer IV (vs. placebo) pour traiter l'anémie préopératoire (Hb<13 g/dL) indépendamment du diagnostic de carence martiale, n'a pas trouvé d'avantage du fer IV seul sur la durée de séjour et les complications postopératoires [12]. L'administration de fer IV permettait d'augmenter les taux d'Hb postopératoires et de réduire le taux de réadmission postopératoire (RR 0,61 (0,40-0,91)) [12]. Le traitement par fer IV préopératoire semble également améliorer les taux d'Hb postopératoires (ou raccourcir le délai de correction de l'anémie) dans plusieurs méta-analyses récentes [13, 14], sans modifier la durée de séjour. Cependant, l'anémie est connue pour impacter négativement la réhabilitation. Une étude randomisée contrôlée multicentrique a montré que le traitement de l'anémie postopératoire (Hb entre 7,5 et 12 g/dL à J1 postopératoire) par 1g de carboxymaltose ferrique, permettait de réduire la durée de séjour, les complications postopératoires et la fatigue physique à 4 et 8 semaines postopératoires, par rapport à une prise en charge habituelle [15].
+
+Concernant le troisième pilier, la mise en place de stratégies transfusionnelles restrictives, à l'aide de formations, d'informatisation de la prescription de la transfusion avec communication régulière d'indicateurs (taux de transfusion, seuils transfusionnels, etc.) a permis de réduire la durée de séjour de 1,6 jours en moyenne dans une étude randomisée (les prescripteurs (docteurs juniors) étaient randomisés pour utiliser le logiciel ou non) [5]. Une autre étude rétrospective sur une large cohorte d'environ 150000 patients montre également l'intérêt de l'utilisation de logiciels de transfusion pour réduire les durées de séjours (-4 jours en moyenne) et la mortalité (de 5,5 à 3,3% -  $p<0,001$ ) [6]. Le niveau de preuve reste néanmoins encore très bas.
+
+#### Références :
+
+1. [1] Mueller MM, Van Remoortel H, Meybohm P, Aranko K, Aubron C, Burger R, et al. Patient Blood Management: Recommendations From the 2018 Frankfurt Consensus Conference. JAMA. 2019;321:983-97.
+2. [2] OMS:. <https://www.who.int/news/item/19-02-2020-who-action-framework-to-advance-universal-access-to-safe-effective-and-quality-assured-blood-products-2020--2023>.
+3. [3] Shander A, Hardy JF, Ozawa S, Farmer SL, Hofmann A, Frank SM, et al. A Global Definition of Patient Blood Management. Anesth Analg. 2022.
+4. [4] Gupta PB, DeMario VM, Amin RM, Gehrie EA, Goel R, Lee KHK, et al. Patient Blood Management Program Improves Blood Use and Clinical Outcomes in Orthopedic Surgery. Anesthesiology. 2018;129:1082-91.
+5. [5] Rothschild JM, McGurk S, Honour M, Lu L, McClendon AA, Srivastava P, et al. Assessment of education and computerized decision support interventions for improving transfusion practice. Transfusion. 2007;47:228-39.
+6. [6] Goodnough LT, Maggio P, Hadhazy E, Shieh L, Hernandez-Boussard T, Khari P, et al. Restrictive bloodtransfusion practices are associated with improved patient outcomes. *Transfusion*. 2014;54:2753-9.
+
+- [7] Munoz M, Acheson AG, Auerbach M, Besser M, Habler O, Kehler H, et al. International consensus statement on the peri-operative management of anaemia and iron deficiency. *Anaesthesia*. 2017;72:233-47.
+- [8] Kozek-Langenecker SA, Ahmed AB, Afshari A, Albaladejo P, Aldecoa C, Barauskas G, et al. Management of severe perioperative bleeding: guidelines from the European Society of Anaesthesiology: First update 2016. *Eur J Anaesthesiol*. 2017;34:332-95.
+- [9] American Society of Anesthesiologists Task Force on Perioperative Blood M. Practice guidelines for perioperative blood management: an updated report by the American Society of Anesthesiologists Task Force on Perioperative Blood Management\*. *Anesthesiology*. 2015;122:241-75.
+- [10] Van Remoortel H, Laermans J, Avau B, Bekkering G, Georgsen J, Manzini PM, et al. Effectiveness of Iron Supplementation With or Without Erythropoiesis-Stimulating Agents on Red Blood Cell Utilization in Patients With Preoperative Anaemia Undergoing Elective Surgery: A Systematic Review and Meta-Analysis. *Transfus Med Rev*. 2021;35:103-24.
+- [11] Kaufner L, von Heymann C, Henkelmann A, Pace NL, Weibel S, Kranke P, et al. Erythropoietin plus iron versus control treatment including placebo or iron for preoperative anaemic adults undergoing non-cardiac surgery. *Cochrane database of systematic reviews (Online)*. 2020;8:CD012451.
+- [12] Richards T, Baikady RR, Clevenger B, Butcher A, Abeysiri S, Chau M, et al. Preoperative intravenous iron to treat anaemia before major abdominal surgery (PREVENTT): a randomised, double-blind, controlled trial. *Lancet*. 2020.
+- [13] Elhenawy AM, Meyer SR, Bagshaw SM, MacArthur RG, Carroll LJ. Role of preoperative intravenous iron therapy to correct anemia before major surgery: a systematic review and meta-analysis. *Syst Rev*. 2021;10:36.
+- [14] Koo CH, Shin HJ, Cho H, Ryu JH. The Effect of Perioperative Intravenous Iron on Hemoglobin in Surgical Patients: A Meta-Analysis. *J Surg Res*. 2020;246:42-51.
+- [15] Khalafallah AA, Yan C, Al-Badri R, Robinson E, Kirkby BE, Ingram E, et al. Intravenous ferric carboxymaltose versus standard care in the management of postoperative anaemia: a prospective, open-label, randomised controlled trial. *Lancet Haematol*. 2016;3:e415-25.### CHAMP 3 : Mesures peropératoires
+
+Coordonnateurs : Pascal Alfonsi, Laura Ruscio
+
+**Question : Le choix des agents anesthésiques a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+Experts : Jacques de Montblanc (Paris), Pascal Alfonsi (Paris)
+
+**R3.1 - Il n'est pas recommandé de privilégier une modalité d'anesthésie générale (intraveineuse vs. inhalée ; avec vs. sans opiacés) pour réduire la durée d'hospitalisation et les complications postopératoires.**
+
+**GRADE 1- (Accord fort)**
+
+#### Argumentaire :
+
+##### *Anesthésie par inhalation vs. anesthésie totale intraveineuse*
+
+Deux méta-analyses comparant les effets d'une anesthésie par inhalation à une anesthésie par voie intraveineuse, ne mettent pas en évidence de différence significative sur la durée de séjour [1,2]. En chirurgie ambulatoire, 2 essais randomisés en simple aveugle ne mettent pas non plus en évidence de différence entre les 2 techniques sur la durée de séjour [3,4]. Pour la chirurgie cardiaque, la RFE commune SFAR-SFCTCV de 2021 ne recommande pas de privilégier les agents halogénés aux agents intraveineux pour diminuer l'incidence des complications postopératoires et la durée d'hospitalisation [5].
+
+Trois méta-analyses ont comparé les techniques anesthésiques l'une par rapport à l'autre sous l'angle de l'augmentation de la survie après une chirurgie carcinologique [6-8]. L'une d'elles ne trouve pas de différence [6] et les 2 autres sont en faveur de l'anesthésie intraveineuse [7,8] mais avec une hétérogénéité trop importante pour permettre de conclure formellement. Dans le cadre de ces RFE, une méta-analyse réunissant 19 études et incluant 27594 patients a été réalisée par les experts, et a confirmé ces résultats en ne mettant pas en évidence de différence de survie postopératoire entre les 2 techniques d'anesthésie : HR 0,99 IC95%(0,74 – 1,33) ;  $p = 0,97$  ;  $I^2 = 0\%$  (Forest plot en annexe 1).
+
+Deux méta-analyses ont comparé les techniques anesthésiques l'une par rapport à l'autre sous l'angle de l'augmentation de la survie sans récidive après une chirurgie carcinologique [7,8]. Une méta-analyse conclut à une meilleure survie sans récidive en cas d'anesthésie intraveineuse, mais avec une importante hétérogénéité [7] ; et l'autre ne met pas en évidence de différence [8]. La méta-analyse réalisée par les experts dans le cadre de ces RFE à partir de 13 études (16982 patients) ne trouve pas de différence de survie sans récidive entre les 2 techniques d'anesthésie : HR 1,02 (0,73 – 1,43) ;  $p = 0,93$  ;  $I^2 = 0\%$  (Forrest plot en annexe).
+
+Enfin, une méta-analyse conclut avec un faible niveau de preuve que la fréquence des désordres cognitifs postopératoires est moins élevée avec l'anesthésie intraveineuse chez les sujets âgés [2]. A l'inverse, un essai monocentrique randomisé ne met pas en évidence de différence en termes de dysfonction cognitive entre les 2 techniques chez des sujets âgés atteints de cancer au 7<sup>e</sup> jour et au 3<sup>e</sup> mois postopératoires [9]. L'analyse de la littérature ne montre pas de bénéfice non plus d'une technique anesthésique par rapport à l'autre concernant la survenue de complications pulmonaires [10].
+
+Ainsi, en l'état actuel des connaissances, l'anesthésie totale intraveineuse semble être possiblement supérieure à l'anesthésie par inhalation uniquement pour réduire la fréquencedes désordres cognitifs postopératoires chez le patient âgé à risque.
+
+*Anesthésie avec opiacés (AAO) vs. anesthésie sans opiacés (ASO) avec adjuvant alpha-2 (hors ALR)*
+
+Cinq méta-analyses [11-15] comparent les consommations de morphine à la 24<sup>e</sup> heure postopératoire. En considérant que la différence est cliniquement significative si elle atteint 10 mg d'équivalent-morphine [13], aucune d'entre elles ne met en évidence de différence entre les 2 stratégies anesthésiques.
+
+Quatre méta-analyses [11,12,14,15] comparent les effets de l'ASO et de l'AAO sur l'incidence des nausées et/ou vomissements postopératoires (NVPO). Toutes concluent à une réduction importante de la fréquence des NVPO lorsqu'une ASO est administrée : les risques relatifs (RR) varient entre 0,22 et 0,77. Dans toutes les méta-analyses, l'hétérogénéité est faible.
+
+Deux méta-analyses [11,12] et deux essais randomisés [16,17] évaluent l'effet de la dexmédétomidine sur la fréquence de survenue de bradycardie. Dans les 2 méta-analyses [11,12] et un des essais contrôlés randomisés [17], la fréquence de survenue des bradycardies n'était pas différente entre AAO et ASO avec dexmédétomidine. A l'opposé, un essai contrôlé randomisé [15] a été arrêté prématurément en raison de la survenue de 5 cas de bradycardies sévères dans le groupe dexmédétomidine, dont 3 asystolies. La dose médiane de dexmédétomidine chez ces patients était au-dessus de 0,9 µg/kg/h.
+
+En conclusion, comparativement à une AAO, une ASO avec de la dexmédétomidine réduit la fréquence des NVPO. L'épargne morphinique à la 24<sup>e</sup> heure est faible et n'est pas cliniquement significative (inférieure à 10 mg sur 24 heures). La durée de séjour en SSPI semble allongée en cas d'AAO et pourrait retarder la sortie des patients opérés en ambulatoire, sans toutefois démonstration d'un bénéfice clair sur la durée de séjour totale à ce jour.
+
+**Références :**
+
+1. [1] Schraag S, Pradelli L, Alsaleh AJO, Bellone M, Ghetti G, Chung TL, Westphal M, Rehberg S. Propofol vs. inhalational agents to maintain general anaesthesia in ambulatory and in-patient surgery: a systematic review and meta-analysis. BMC Anesthesiol. 2018 Nov 8 ;18(1):162.
+2. [2] Miller D, Lewis SR, Pritchard MW, Schofield-Robinson OJ, Shelton CL, Alderson P, Smith AF. Intravenous versus inhalational maintenance of anaesthesia for postoperative cognitive outcomes in elderly people undergoing non-cardiac surgery. Cochrane Database Syst Rev. 2018 Aug 21;8(8):CD012317.
+3. [3] Kim H, Park SS, Shim J. Differences in midazolam premedication effects on recovery after short-duration ambulatory anesthesia with propofol or sevoflurane for gynecologic surgery in young patients: A randomized controlled trial. Medicine (Baltimore). 2020 Nov 20; 99(47):e23194.
+4. [4] De Oliveira GS Jr, Bialek J, Rodes ME, Kendall MC, McCarthy RJ. The effect of sevoflurane compared to propofol maintenance on post-surgical quality of recovery in patients undergoing an ambulatory gynecological surgery: A prospective, randomized, double-blinded, controlled, clinical trial. J Clin Anesth. 2017 Dec;43:70-74.
+5. [5] Réhabilitation Améliorée Après Chirurgie Cardiaque adulte sous CEC ou à cœur battant. 2021. RFE commune SFAR – SFCTCV. <https://sfar.org/download/rehabilitation-amelioree-apres-chirurgie-cardiaque-adulte-sous-cec-ou-a-coeur-battant/?wpdmdl=35416&refresh=61bcb6cb3c6e01639757515>
+6. [6] Soltanizadeh S, Degett TH, Gögenur I. Outcomes of cancer surgery after inhalational and intravenous anesthesia: A systematic review. J Clin Anesth ; 2017; 42: 19–25
+7. [7] Yap A, Lopez-Olivo MA, Dubowitz J, Hiller J, Riedel B. Anesthetic technique and cancer outcomes: a meta-analysis of total intravenous versus volatile anesthesia. Can J Anaesth ; 2019; 66: 546–61
+8. [8] Chang C-Y, Wu M-Y, Chien Y-J, Su I-M, Wang S-C, Kao M-C. Anesthesia and Long-term Oncological Outcomes : A Systematic Review and Meta-analysis. Anesth Analg United States; 2021; 132: 623–34
+9. [9] Guo L, Lin F, Dai H, et al. Impact of Sevoflurane Versus Propofol Anesthesia on Post-Operative Cognitive Dysfunction in Elderly Cancer Patients: A Double-Blinded Randomized Controlled Trial. Med Sci Monit Int Med J Exp Clin Res 2020; 26: e919293[10] Uhlig C, Bluth T, Schwarz K, Deckert S, Heinrich L, De Hert S, Landoni G, Neto A, Schultz M, Pelosi P, Schmitt J, Gama de Abreu M: Effects of volatile anesthetics on mortality and postoperative pulmonary and other complications in patients undergoing surgery: A systematic review and meta-analysis. *Anesthesiology* 2016; 124:1230–45
+
+[11] Grape S, Kirkham KR, Frauenknecht J, Albrecht E. Intra-operative analgesia with remifentanil vs. dexmedetomidine: a systematic review and meta-analysis with trial sequential analysis. *Anaesthesia England*; 2019; 74: 793–800
+
+[12] Olausson A, Svensson J, Andr  ll P, Jildenst  l P, Th  rn S-E, Wolf A. Total opioid-free general anaesthesia can improve postoperative outcomes after surgery, without evidence of adverse effects on patient safety and pain management: a systematic review and meta-analysis. *Acta Anaesthesiol Scand England*; 2021;
+
+[13] Salom   A, Harkouk H, Fletcher D, Martinez V. Opioid-Free Anesthesia Benefit-Risk Balance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. *J Clin Med* 2021; 10
+
+[14] Wang X, Liu N, Chen J, Xu Z, Wang F, Ding C. Effect of Intravenous Dexmedetomidine During General Anesthesia on Acute Postoperative Pain in Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. *Clin J Pain United States*; 2018; 34: 1180–91
+
+[15] Frauenknecht J, Kirkham KR, Jacot-Guillarmod A, Albrecht E. Analgesic impact of intra-operative opioids vs. opioid-free anaesthesia: a systematic review and meta-analysis. *Anaesthesia England*; 2019; 74: 651–62
+
+[16] Beloeil H, Garot M, Lebuffle G, et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil for Major or Intermediate Noncardiac Surgery. *Anesthesiology United States*; 2021; 134: 541–51
+
+[17] Bakan M, Umutoglu T, Topuz U, et al. Opioid-free total intravenous anesthesia with propofol, dexmedetomidine and lidocaine infusions for laparoscopic cholecystectomy: a prospective, randomized, double-blinded study. *Braz J Anesthesiol Engl Ed* 2015; 65: 191–9
+
+**R3.2 - Il n'est pas recommand   de privil  gier un type d'anesth  sie (anesth  sie locor  gionale neuraxiale vs. anesth  sie g  n  rale) pour pour r  duire la dur  e d'hospitalisation et les complications postop  ratoires en chirurgie des membres inf  rieurs.**
+
+**GRADE 1- (Accord fort)**
+
+**Argumentaire :** L'analyse bibliographique effectu  e pour la r  daction des RFE SFAR de 2019 sur la r  habilitation am  lior  e apr  s chirurgie orthop  dique lourde du membre inf  rieur ne retrouvait pas de b  n  fice d'une anesth  sie neuraxiale plut  t qu'une anesth  sie g  n  rale (recommandation G2-), de m  me que celle effectu  e pour les RFE SFAR de 2017 sur l'anesth  sie du sujet   g  , exemple de la fracture de l'extr  mit   sup  rieur du f  mur (recommandation G1-) [1,2]. Une   tude r  trospective de cohorte portant sur 26871 patients b  n  ficiant d'une proc  dure de revascularisation des membres inf  rieurs, est en faveur de l'anesth  sie locor  gionale neuraxiale avec une diminution de la mortalit   et des complications cardio-pulmonaires et r  nales ainsi que de la dur  e de s  jour [3. Plus r  cemment, l'  tude REGAIN [4] prospective, randomis  e, multicentrique (USA, Canada) sur 1600 patients a compar   l'anesth  sie neuraxiale par rachianesth  sie (RA)    l'anesth  sie g  n  rale (AG) dans la fracture de l'extr  mit   sup  rieure du f  mur et ne retrouve pas de diff  rence sur le crit  re de jugement principal (incapacit      d  ambuler plus de 3m    J60) (18,5% apr  s RA vs. 18,0% apr  s AG), m  me pour les patients les plus fragiles dans l'analyse en sous-groupe. La mortalit      J60   tait identique dans les deux groupes (3,9% apr  s RA vs 4,1% apr  s AG). La capacit   de d  ambulation et la survenue d'  pisodes de confusion postop  ratoires   taient   galement identiques dans les deux groupes. Cependant, les crit  res secondaires   taient moins incidents dans le groupe RA avec moins d'insuffisance r  nale (4,5% vs 7,6%), d'admission en r  animation (2,3% vs 3,7%) ou de d  c  s intra hospitalier (0,6% vs 1,6%). L'  tude RAGA, ayant randomis   950 patients, n'a pas montr   de b  n  fice de la RA sur l'incidence de d  lirium postop  ratoire [5].### Références :
+
+- [1] Delaunay L, Jenny JY, Albi-Feldzer A, Alfonsi P, Bloc S, Cabaton J, Cittanova ML, Delahaye D, Sciard D, Dufeu N, Fabri S, Fiani M, Grillot P, Hulet C, de Ladoucette A, Lanz T, Le Sache F, Theissen A, Cuvillon P. Guidelines for enhanced recovery for major orthopaedic surgery (Hip and knee arthroplasties). <https://sfar.org/rehabilitation-amelioree-chirurgie-orthopedique-lourde-membre-inferieur/>
+- [2] Aubrun F, Baillard C, Beuscart JB, Billard V, Boddaert J, Boulanger E, Dufeu N, Friggeri A, Khiami F, Krolak Salmon P, Merloz P, Minville V, Molliex S, Mouchoux C, Pain L, Piriou V, Raux M, Servin F. Guidelines on elderly anesthesia: the example of the hip fracture. *Anesth Reanim* 2019; 5 122:138. <https://sfar.org/wp-content/uploads/2019/10/rfe-anesthesie-du-sujet-age.pdf>
+- [3] Roberts DJ, Nagpal SK, Kubelik D, Brandys T, Stelfox HT, Lalu MM, Forster AJ, McCartney CJ, McIsaac DI. Association between neuraxial anaesthesia or general anaesthesia for lower limb revascularization surgery in adults and clinical outcomes: population based comparative. *BMJ*. 2020 Nov 25;371:m4104
+- [4] Neumann MD, Feng R, Carson JL et al. Spinal Anesthesia or General Anesthesia for Hip Surgery in Older Adults. *N Engl J Med* 2021 Oct 9. doi: 10.1056/NEJMoa2113514.
+- [5] Li T, Li J, Yuan L, Wu J, Jiang C, Daniels J, Mehta RL, Wang M, Yeung J, Jackson T, Melody T, Jin S, Yao Y, Wu J, Chen J, Smith FG, Lian Q; RAGA Study Investigators. Effect of Regional vs General Anesthesia on Incidence of Postoperative Delirium in Older Patients Undergoing Hip Fracture Surgery: The RAGA Randomized Trial. *JAMA*. 2022 Jan 4;327(1):50-58.
+
+### Question : Les modalités de ventilation utilisées en peropératoire ont-elles un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?
+
+Expert : Sébastien Campion (Nogent-sur-Marne)
+
+**R3.3 - Il est recommandé de mettre en place une ventilation protectrice, associant un volume courant de 6 à 8 mL/kg de poids idéal théorique, une pression expiratoire positive (PEP) d'au moins 5 cmH<sub>2</sub>O et des manœuvres de recrutement alvéolaire itératives, afin de diminuer la survenue de complications postopératoires après chirurgie programmée de l'adulte.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Une ventilation conventionnelle (VC) est définie par l'application d'un volume courant au moins égal à 10 mL/kg de poids idéal théorique (PIT), sans pression expiratoire positive (PEP), ni manœuvres de recrutement alvéolaire. Une ventilation protectrice (VP) est définie par l'application d'un faible volume courant (6-8 mL/kg de PIT), associé à une pression expiratoire positive (PEP), et à la réalisation de manœuvres de recrutement alvéolaire [1].
+
+Dans une méta-analyse du PROVE Network [2], incluant 15 essais cliniques randomisés et contrôlés (n= 2127 patients), la VP permet, comparativement à une VC, de réduire l'incidence des complications pulmonaires postopératoires (CPP) (RR 0,64 IC95%(0,46-0,88) - p<0,01). Dans une méta-analyse de 3 essais cliniques randomisés incluant 495 patients publiée en 2016, Yang et al. [2] rapportent que les patients bénéficiant d'une VP en peropératoire présentent moins de CPP par rapport à ceux bénéficiant d'une VC : diminution des pneumopathies (OR 0,21 (0,09-0,50) - p<0,001), diminution des atélectasies (OR 0,15 (0,04-0,61) - p=0,008), et diminution des détresses respiratoires (OR 0,36 (0,20-0,64) - p=0,006). Pour les 3 complications, l'hétérogénéité (I<sup>2</sup>) est nulle. Les auteurs observent également une durée d'hospitalisation plus courte chez les patients ventilés avec une VP (différence moyenne -2,1 j (-3,95 à -0,2) - p=0,03) ; toutefois avec une hétérogénéité élevée pour ce critère de jugement (I<sup>2</sup> 87%).
+
+L'effet propre d'un faible volume courant, des manœuvres de recrutement alvéolaire et de la PEP a été évalué séparément dans 3 méta-analyses [3-5]. Yang et al. [2] ont évalué l'effet d'unfaible volume courant (16 essais cliniques randomisés incluant 1054 patients) et ont observé une diminution de l'incidence des pneumopathies (OR 0,33 (0,16-0,68) -  $p < 0,001$  -  $I^2$  9%). Ils n'ont en revanche pas trouvé d'effet ni sur l'incidence des atélectasies ou des détresses respiratoires, ni sur la durée d'hospitalisation. De plus, un essai randomisé publié en 2020 comparant deux stratégies ventilatoire différentes par le volume courant (6 mL/kg de PIT vs 10 mL/kg de PIT) mais associant toutes deux une PEP de 5 cmH<sub>2</sub>O n'a pas montré de différence en termes de CPP à J7 [6].
+
+Dans une méta-analyse incluant 12 essais cliniques randomisés contrôlés avec un effectif de 2756 patients, Cui et al. [4] observent une réduction des CPP (OR 0,67 (0,49-0,90) -  $p < 0,001$ ) avec la réalisation de manœuvres de recrutement (MR), avec une hétérogénéité importante ( $I^2$  67%). Dans une méta-analyse séquentielle incluant 14 essais cliniques randomisés contrôlés avec un effectif de 1238 patients, Zhang et al. [5] n'ont pas mis en évidence de bénéfice à la PEP (vs. zéro PEP) sur l'incidence des atélectasies (RR 0,51 (0,10-2,55)), ou des pneumopathies (RR 0,48 (0,05-4,86)). Il convient de rester vigilant en peropératoire sur les effets hémodynamiques potentiellement délétères d'une PEP élevée ou de la réalisation des manœuvres de recrutement alvéolaire.
+
+Ainsi, la mise en place d'une ventilation protectrice en peropératoire, associant un faible volume courant, une pression expiratoire positive et des manœuvres de recrutement, permet de réduire les complications pulmonaires postopératoires. Considérée individuellement, chaque composante de la ventilation protectrice semble moins efficace.
+
+#### Références :
+
+1. [1] Young CC, Harris EM, Vacchiano C, Bodnar S, Bukowy B, Elliott RRD, Migliarese J, Ragains C, Trethewey B, Woodward A, Gama de Abreu M, Girard M, Futier E, Mulier JP, Pelosi P, Sprung J. Lung-protective ventilation for the surgical patient: international expert panel-based consensus recommendations. *Br J Anaesth.* 2019 Dec;123(6):898-913
+2. [2] Neto AS, Hemmes SNT, Barbas CSV, Beiderlinden M, Fernandez-Bustamante A, Futier E, et al. Association between driving pressure and development of postoperative pulmonary complications in patients undergoing mechanical ventilation for general anaesthesia: a meta-analysis of individual patient data. *Lancet Respir Medicine* 2016;4:272–80. [https://doi.org/10.1016/s2213-2600\(16\)00057-6](https://doi.org/10.1016/s2213-2600(16)00057-6).
+3. [3] Yang D, Grant MC, Stone A, Wu CL, Wick EC. A Meta-analysis of Intraoperative Ventilation Strategies to Prevent Pulmonary Complications. *Ann Surg* 2016;263:881–7. <https://doi.org/10.1097/sla.0000000000000143>.
+4. [4] Cui Y, Cao R, Li G, Gong T, Ou Y, Huang J. The effect of lung recruitment maneuvers on post-operative pulmonary complications for patients undergoing general anesthesia: A meta-analysis. *Plos One* 2019;14:e0217405. <https://doi.org/10.1371/journal.pone.0217405>.
+5. [5] Zhang P, Wu L, Shi X, Zhou H, Liu M, Chen Y, et al. Positive End-Expiratory Pressure During Anesthesia for Prevention of Postoperative Pulmonary Complications: A Meta-analysis With Trial Sequential Analysis of Randomized Controlled Trials. *Anesthesia Analgesia* 2020;130:879–89. <https://doi.org/10.1213/ane.00000000000004421>.
+6. [6] Karalapillai D, Weinberg L, Peyton P, Ellard L, Hu R, Pearce B, Tan CO, Story D, O'Donnell M, Hamilton P, Oughton C, Galtieri J, Wilson A, Serpa Neto A, Eastwood G, Bellomo R, Jones DA. Effect of Intraoperative Low Tidal Volume vs Conventional Tidal Volume on Postoperative Pulmonary Complications in Patients Undergoing Major Surgery: A Randomized Clinical Trial. *JAMA.* 2020 Sep 1;324(9):848-858.
+
+**Question : L'administration d'anesthésiques locaux par voie périnerveuse, neuro-axiale, systémique ou locale a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Laura Ruscio (Paris), Philippe Grillo (Marseille), Sébastien Campard (Nantes)***R3.4 - Il est recommandé d'administrer des anesthésiques locaux par voie péri-nerveuse afin de réduire la survenue de complications postopératoires en chirurgie des membres.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** La majorité de la littérature sur l'utilisation des Blocs Nerveux Périphériques (BNP) dans un parcours de RAC concerne la chirurgie orthopédique. Les RFE SFAR de 2019 sur la réhabilitation améliorée après chirurgie orthopédique lourde du membre inférieur recommandent l'utilisation de techniques d'anesthésie locale et/ou locorégionale pour diminuer la douleur et la consommation de morphine en postopératoire d'arthroplastie du genou (recommandation G1+) [1]. Concernant l'arthroplastie de hanche, la littérature récente ne permet pas de conclure du fait de données contradictoires [2], même si les recommandations PROSPECT de 2021 ont préconisé le bloc ilio-fascial et/ou l'infiltration d'anesthésie locale [3]. Dans la fracture de l'extrémité supérieure du fémur, les RFE SFAR de 2017 recommandent de réaliser un bloc fémoral ou ilio-fascial pour assurer l'analgesie postopératoire (recommandation G2+) [4]. La littérature récente va dans ce sens, avec une méta-analyse actualisée en 2020 portant sur 49 essais randomisés contrôlés ayant inclus un total de 3061 patients, en faveur de l'utilisation des BNP. Comparés au placebo les BNP diminuaient la douleur liée à la mobilisation de 2,5 points sur une échelle de 1 à 10 (11 études, n=503 patients). Les BNP réduisent également le risque de confusion postopératoire (13 études, n=1072 patients), et probablement le risque d'infections pulmonaires (3 études, n=131 patients) et le temps de première mobilisation de 11h (3 études, n=208 patients). Il n'existe pas de différence en termes de risque d'ischémie myocardique ou de mortalité à 6 mois [5].
+
+Il existe peu de données dans la littérature sur l'impact des BNP dans un parcours RAC pour la chirurgie du pied et de la cheville. Une étude randomisée contrôlée publiée en 2021 a montré que dans la chirurgie de la fracture de cheville, les BNP (bloc sciatique et saphène) sont supérieurs en termes d'efficacité analgésique, de consommation d'opioïdes, d'effets secondaires et de satisfaction du patient comparés à la rachianesthésie [6]. La méta-analyse PROSPECT/ESRA de 2020 pour la chirurgie de l'hallux valgus a conduit à recommander l'utilisation des blocs distaux de la cheville en première intention du fait de leur efficacité analgésique et de leur épargne motrice [7].
+
+En chirurgie orthopédique du membre supérieur, les blocs du plexus brachial sont recommandés avec un fort niveau de preuve dans le cadre d'une stratégie d'analgesie multimodale. Les recommandations PROSPECT de 2019 [8] pour la chirurgie de la coiffe des rotateurs ont préconisé l'utilisation du bloc interscalénique en première intention. Il améliore l'analgesie postopératoire, réduit la durée de séjour ainsi que la consommation d'opioïdes [9]. L'utilisation d'un cathéter permet de prolonger les effets bénéfiques de l'analgesie au-delà des 24 premières heures postopératoires [10]. De nombreuses procédures de chirurgie distale du membre supérieur sont réalisées sous ALR seule, les BNP distaux épargnant la motricité étant probablement les plus adaptés pour la chirurgie de la main [11,12].
+
+Il existe peu de littérature concernant l'impact des BNP pour la chirurgie vasculaire des membres dans un parcours RAC [13]. L'utilisation des BNP est recommandée lors de la réalisation des fistules artério-veineuses dans les RFE de la société européenne de chirurgie vasculaire [14] et dans les recommandations de bonnes pratiques cliniques de l'European Renal Association [15], en permettant une anesthésie complète, une augmentation du flux artériel et du calibre veineux facilitant la chirurgie et favorisant la perméabilité de la fistule [16].## Références :
+
+- [1] Delaunay L, Jenny JY, Albi-Feldzer A, Alfonsi P, Bloc S, Cabaton J, Cittanova ML, Delahaye D, Sciard D, Dufeu N, Fabri S, Fiani M, Grillot P, Hulet C, de Ladoucette A, Lanz T, Le Sache F, Theissen A, Cuvillon P. Guidelines for enhanced recovery for major orthopaedic surgery (Hip and knee arthroplasties). <https://sfar.org/rehabilitation-amelioree-chirurgie-orthopedique-lourde-membre-inferieur/>
+- [2] Guay J, Johnson RL, Kopp S. Nerve blocks or no nerve blocks for pain control after elective hip replacement (arthroplasty) surgery in adults. Cochrane Database Syst Rev. 2017 Oct 31;10(10):CD011608.
+- [3] Anger M, Valovska T, Beloeil H, Lirk P, Joshi GP, Van de Velde M, Raeder J; PROSPECT Working Group\* and the European Society of Regional Anaesthesia and Pain Therapy. PROSPECT guideline for total hip arthroplasty: a systematic review and procedure-specific postoperative pain management recommendations. Anaesthesia. 2021 Aug;76(8):1082-1097.
+- [4] RFE SFAR 2017 Anesthésie du sujet âgé: l'exemple de la fracture de l'extrémité supérieure du fémur
+- [5] Guay J, Kopp S. Peripheral nerve blocks for hip fractures in adults. Cochrane Database Syst Rev. 2020 Nov 25;11(11):CD001159.
+- [6] Sort R, Brorson S, Göngenur I, et al. Peripheral nerve block anaesthesia and postoperative pain in acute ankle fracture surgery: the AnAnkle randomised trial. Br J Anaesth 2021; 126:881 – 888.
+- [7] PROSPECT/ESRA Working Group Collaboration. Korwin-Kochanowska K, Potie A, El-Boghdadly K, et al. PROSPECT guideline for hallux valgus repair surgery: a systematic review and procedure-specific postoperative pain management recommendations. Reg Anesth Pain Med 2020; 45:702 – 708.
+- [8] Toma O, Persoons B, Pogatzki-Zahn E, Van de Velde M, Joshi GP; PROSPECT Working Group collaborators. PROSPECT guideline for rotator cuff repair surgery: systematic review and procedure-specific postoperative pain management recommendations. Anaesthesia. 2019 Oct;74(10):1320-1331.
+- [9] Ilfeld BM, Vandenborne K, Duncan PW, Sessler DI, Enneking FK, Shuster JJ, Theriaque DW, Chmielewski TL, Spadoni EH, Wright TW. Ambulatory continuous interscalene nerve blocks decrease the time to discharge readiness after total shoulder arthroplasty: a randomized, triple-masked, placebo-controlled study. Anesthesiology. 2006 Nov;105(5):999-1007
+- [10] Vorobeichik L, Brull R, Bowry R, Laffey JG, Abdallah FW. Should continuous rather than single-injection interscalene block be routinely offered for major shoulder surgery? A meta-analysis of the analgesic and side-effects profiles. Br J Anaesth. 2018 Apr;120(4):679-692.
+- [11] Soberón JR Jr, Crookshank JW 3rd, Nossaman BD, Elliott CE, Sisco-Wise LE, Duncan SF. Distal Peripheral Nerve Blocks in the Forearm as an Alternative to Proximal Brachial Plexus Blockade in Patients Undergoing Hand Surgery: A Prospective and Randomized Pilot Study. J Hand Surg Am. 2016 Oct;41(10):969-977
+- [12] Zhu W, Zhou R, Chen L, Chen Y, Huang L, Xia Y, Papadimos TJ, Xu X. The ultrasound-guided selective nerve block in the upper arm: an approach of retaining the motor function in elbow. BMC Anesthesiol. 2018 Oct 19;18(1):143.
+- [13] McGinigle KL, Eldrup-Jorgensen J, McCall R, Freeman NL, Pascarella L, FarberMA, Marston WA, Crowner JR. A systematic review of enhanced recovery after surgery for vascular operations. J Vasc Surg. 2019 Aug ;70(2) :629-640.e1.
+- [14] Schmidli J, Widmer MK, Basile C, et al. Editor's choice - vascular access: 2018 Clinical Practice Guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc Surg 2018; 55:757-818
+- [15] Gallieni M, Hollenbeck M, Inston N, et al. Clinical practice guideline on peri- and postoperative care of arteriovenous fistulas and grafts for haemodialysis in adults. Nephrol Dial Transplant 2019; 34(Suppl 2):ii1 – ii42
+- [16] Aitken E, Jackson A, Kearns R, Steven M, Kinsella J, Clancy M, Macfarlane A. Effect of regional versus local anaesthesia on outcome after arteriovenous fistula creation: a randomised controlled trial. Lancet. 2016 Sep.10;388(10049):1067-1074.
+
+**R3.5 - Il est recommandé de réaliser une analgésie locorégionale après une chirurgie thoracique ou abdominale majeure (y compris vasculaire) par voie ouverte pour réduire la survenue de complications postopératoires.**
+
+**GRADE 1+ (Accord fort)****R3.6 - Il est probablement recommandé de réaliser une analgésie locorégionale pour une chirurgie thoracique par vidéothoracoscopie, une chirurgie pariétale thoraco-abdomino-pelvienne ou une chirurgie rachidienne, afin de réduire l'incidence des complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :**
+
+En chirurgie thoracique, les RFE SFAR « réhabilitation améliorée après lobectomie pulmonaire » de 2019 [1] recommandent d'utiliser une technique d'analgésie locorégionale après lobectomie par thoracotomie (recommandation G1+) ou thoracoscopie (recommandation G2+) afin de favoriser la réhabilitation postopératoire. Dans ce contexte l'analgésie par voie paravertébrale est à privilégier en première intention à l'analgésie péridurale (APD) (recommandation G2+). Si le bloc paravertébral thoracique reste la technique de référence, le bloc du plan des muscles érecteurs du rachis a montré une réduction de la consommation d'opioïdes postopératoires par rapport au contrôle et au bloc du plan du muscle serratus antérieur [2]. La littérature ne permet pas de conclure à l'efficacité de l'infiltration chirurgicale en chirurgie thoracique.
+
+En chirurgie de l'aorte abdominale ouverte, une méta-analyse Cochrane [3] a retrouvé un intérêt de l'analgésie péridurale comparée à l'analgésie systémique, avec une diminution de la douleur, des infarctus du myocarde, des détresses respiratoires et des saignements digestifs postopératoires, ainsi que de la durée de séjour en soins intensifs ; toutefois sans modification de la mortalité à 30 jours.
+
+En chirurgie viscérale, les RFE SFAR « réhabilitation améliorée après chirurgie colorectale programmée » de 2014 [4] recommandent l'analgésie péridurale thoracique pour une chirurgie par laparotomie dans le cadre d'une analgésie multimodale bien conduite (recommandation G1+). L'utilisation de l'analgésie péridurale en chirurgie de duodéno-pancréatectomie a été associée à une diminution des complications postopératoires (OR 0,69 -  $p<0,001$ ), de la durée d'hospitalisation (-2,7 jours -  $p< 0,001$ ) et de la mortalité (OR 0,69 -  $p=0,02$ ) [5]. L'emploi de l'analgésie péridurale en chirurgie thoraco-abdominale majeure a également été associé à une réduction du delirium postopératoire chez le sujet âgé [6]. Une méta-analyse conduite en 2014 à partir de 125 RCT toutes chirurgies majeures confondues, a confirmé les résultats observés pour la chirurgie thoracique, digestive et vasculaire abdominale, en montrant que l'analgésie péridurale, comparativement à l'analgésie systémique, permettait de réduire la mortalité (3,1% vs 4,9% ; OR 0,60), les événements cardiaques, pulmonaires et les symptômes gastro-intestinaux postopératoires [7].
+
+En revanche, la littérature ne rapporte pas de bénéfice de l'analgésie péridurale sur la réduction de complications ou de la durée d'hospitalisation en chirurgie mini-invasive par laparoscopie. Dans ce contexte de chirurgie abdomino-pelvienne mini-invasive, le TAP bloc a été associé à une diminution de la douleur, de la consommation d'opioïdes et de NVPO à 24h postopératoire [8] et il serait associé à une réduction de la survenue de douleurs chroniques post-chirurgicales [9]. L'infiltration péri-cicatricielle pourrait aussi avoir une certaine efficacité pour réduire la douleur aigüe postopératoire, non différente du TAP bloc dans certaines études [10].
+
+En chirurgie cardiaque, le bloc paravertébral thoracique facilite la réhabilitation après chirurgie cardiaque [11]. Le bloc du plan des muscles érecteurs du rachis a montré une efficacité dans la réduction de la douleur postopératoire, le temps de ventilation mécanique, le séjour en réanimation et la reprise de l'alimentation après chirurgie cardiaque [12] sans pouvoir montrerni de supériorité ou d'équivalence avec le bloc paravertébral thoracique.
+
+En chirurgie rachidienne, le bloc du plan des muscles érecteurs du rachis a montré une réduction de la consommation de morphiniques (RR 0,33 ;  $I^2$  0%), des scores de douleur, et d'incidence des NVPO à 24h postopératoires (RR 0,38 ;  $I^2$  9%) [13]. Les recommandations du groupe PROSPECT sur la prise en charge de la douleur post-arthrodèse lombaire, préconisent l'infiltration chirurgicale par anesthésiques locaux dans une stratégie d'analgésie multimodale [14].
+
+Enfin, en chirurgie mammaire le bloc paravertébral thoracique est associé à une réduction de la douleur postopératoire ( $4,3 \pm 2,8$  vs.  $2,9 \pm 2,8$ ) et de l'incidence des NVPO à 24h [15]. Le bloc du plan du muscle serratus antérieur permet également une réduction de la douleur postopératoire, de la consommation d'opioïdes (DM -38,5 mg d'équivalent morphine orale ;  $I^2$  100%) et des NVPO (RR 0,32 ;  $I^2$  38%) [16] et semblerait être associé à une diminution du risque de développer une douleur chronique 3 mois et 6 mois après mastectomie [17]. Les recommandations du groupe PROSPECT préconisent l'emploi des techniques d'analgésie locorégionale ou l'infiltration chirurgicale pour la chirurgie mammaire oncologique [18]. Cependant dans leur méta-analyse en réseau (66 RCT, 4792 patients), Wong et al. n'ont pas montré de supériorité de l'infiltration locale par rapport au placebo [19].
+
+L'ensemble de ces résultats incitent donc à recommander l'utilisation d'une ALR en postopératoire de chirurgie thoraco-abdominale par thoraco ou laparotomie et à probablement recommandé une ALR après chirurgie par thoraco ou laparoscopie et une chirurgie de la paroi thoracique ou abdominale et une chirurgie du rachis.
+
+#### Référence :
+
+1. [1] Berna P, Quesnel C, Assouad J, Bagan P, Etienne H, Fourdrain A, et al. Guidelines on enhanced recovery after pulmonary lobectomy. *Anaesth Crit Care Pain Med.* févr 2021;40(1):100791.
+2. [2] Koo CH, Lee HT, Na HS, Ryu JH, Shin HJ. Efficacy of Erector Spinae Plane Block for Analgesia in Thoracic Surgery: A Systematic Review and Meta-Analysis. *J Cardiothorac Vasc Anesth.* 29 juin 2021;S1053-0770(21)00536-X.
+3. [3] Guay J, Kopp S. Epidural pain relief versus systemic opioid-based pain relief for abdominal aortic surgery. *Cochrane Database Syst Rev.* 5 janv 2016;(1):CD005059.
+4. [4] Alfonsi P, Slim K, Chauvin M, Mariani P, Faucheron JL, Fletcher D. Réhabilitation rapide après une chirurgie colorectale programmée. *Annales Françaises d'Anesthésie et de Réanimation.* mai 2014;33(5):370-84.
+5. [5] Groen JV, Khawar A a. J, Bauer PA, Bonsing BA, Martini CH, Mungroop TH, et al. Meta-analysis of epidural analgesia in patients undergoing pancreatoduodenectomy. *BJS Open.* oct 2019;3(5):559-71.
+6. [6] Li YW, Li HJ, Li HJ, Zhao BJ, Guo XY, Feng Y, et al. Delirium in Older Patients after Combined Epidural-General Anesthesia or General Anesthesia for Major Surgery: A Randomized Trial. *Anesthesiology.* 1 août 2021;135(2):218-32.
+7. [7] Pöpping DM, Elia N, Van Aken HK, Marret E, Schug SA, Kranke P, et al. Impact of epidural analgesia on mortality and morbidity after surgery: systematic review and meta-analysis of randomized controlled trials. *Ann Surg.* juin 2014;259(6):1056-67.
+8. [8] Wang P, Chen X, Chang Y, Wang Y, Cui H. Analgesic efficacy of ultrasound-guided transversus abdominis plane block after cesarean delivery: A systematic review and meta-analysis. *J Obstet Gynaecol Res.* sept 2021;47(9):2954-68.
+9. [9] Covotta M, Claroni C, Costantini M, Torregiani G, Pelagalli L, Zinilli A, et al. The Effects of Ultrasound-Guided Transversus Abdominis Plane Block on Acute and Chronic Postsurgical Pain After Robotic Partial Nephrectomy: A Prospective Randomized Clinical Trial. *Pain Med.* 1 févr 2020;21(2):378-86.
+10. [10] Lemoine A, Witdoux A, Beloeil H, Bonnet F, PROSPECT Working Group Of The European Society Of Regional Anaesthesia And Pain Therapy (ESRA). PROSPECT guidelines update for evidence-based pain management after prostatectomy for cancer. *Anaesth Crit Care Pain Med.* août 2021;40(4):100922[11] Réhabilitation Améliorée Après Chirurgie Cardiaque adulte sous CEC ou à coeur battant. SFAR / SFCTCV; 2021.
+
+[12] Krishna SN, Chauhan S, Bhoi D, Kaushal B, Hasija S, Sangdup T, et al. Bilateral Erector Spinae Plane Block for Acute Post-Surgical Pain in Adult Cardiac Surgical Patients: A Randomized Controlled Trial. J Cardiothorac Vasc Anesth. févr 2019;33(2):368-75.
+
+[13] Ma J, Bi Y, Zhang Y, Zhu Y, Wu Y, Ye Y, et al. Erector spinae plane block for postoperative analgesia in spine surgery: a systematic review and meta-analysis. Eur Spine J. nov 2021;30(11):3137-49.
+
+[14] Peene L, Le Cacheux P, Sauter AR, Joshi GP, Beloeil H, PROSPECT Working Group Collaborators, et al. Pain management after laminectomy: a systematic review and procedure-specific post-operative pain management (prospect) recommendations. Eur Spine J. oct 2021;30(10):2925-35.
+
+[15] Rao F, Wang Z, Chen X, Liu L, Qian B, Guo Y. Ultrasound-Guided Thoracic Paravertebral Block Enhances the Quality of Recovery After Modified Radical Mastectomy: A Randomized Controlled Trial. J Pain Res. 2021;14:2563-70.
+
+[16] Hu NQ, He QQ, Qian L, Zhu JH. Efficacy of Ultrasound-Guided Serratus Anterior Plane Block for Postoperative Analgesia in Patients Undergoing Breast Surgery: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Pain Res Manag. 2021;2021:7849623.
+
+[17] Chai B, Yu H, Qian Y, Chen X, Zhu Z, Du J, et al. Comparison of Postoperative Pain in 70 Women with Breast Cancer Following General Anesthesia for Mastectomy with and without Serratus Anterior Plane Nerve Block. Med Sci Monit. 7 févr 2022;28:e934064.
+
+[18] Jacobs A, Lemoine A, Joshi GP, Van de Velde M, Bonnet F, PROSPECT Working Group collaborators. PROSPECT guideline for oncological breast surgery: a systematic review and procedure-specific postoperative pain management recommendations. Anaesthesia. mai 2020;75(5):664-73.
+
+[19] Wong HY, Pilling RJ, Young BWM, Owolabi AA, Onwochei DN, Desai N. Corrigendum to: « Comparison of local and regional anesthesia modalities in breast surgery: A systematic review and network meta-analysis » [Journal of Clinical Anesthesia Volume 72 (2021)/Article 110274]. J Clin Anesth. déc 2021;75:110491.
+
+**R3.7 - Il est probablement recommandé d'utiliser la lidocaïne par voie intraveineuse en peropératoire de chirurgie abdomino-pelvienne laparoscopique afin de réduire l'incidence des complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :**
+
+Quelles modalités et précautions ?
+
+La lidocaïne par voie systémique présente des propriétés analgésiques, anti-hyperalgésiques et anti-inflammatoires [1]. Les RFE SFAR sur la douleur postopératoire, réactualisées en 2016, recommandent l'utilisation de la lidocaïne IVSE en per-opératoire de chirurgie abdomino-pelvienne et rachidienne majeure chez l'adulte ne bénéficiant pas d'une analgésie péri-nerveuse ou péridurale concomitante dans le but de diminuer la douleur postopératoire (DPO) et d'améliorer la réhabilitation (recommandation G2+) [2]. Un consensus international a récemment rappelé la posologie maximale et les modalités d'administration afin de réduire les effets indésirables : bolus initial de 1,5 mg/kg délivré sur 10 min, suivi d'une perfusion de 1,5 mg/kg/h calculée sur le poids idéal ; tout en soulignant l'importance d'une évaluation de la balance bénéfice-risque préalable à toute administration de lidocaïne [3].
+
+Pour quel type de chirurgie ?
+
+La littérature récente (2016-2021) comparants lidocaïne IVSE à placebo (ou absence de traitement), confirme la réduction de la DPO et l'amélioration de la fonction gastro-intestinaleassociée à la perfusion intraveineuse de lidocaïne en chirurgie colique [4–7]. De tels bénéfices semblent être présents également dans les autres chirurgies abdominales coelioscopiques [8–13].
+
+Pour les chirurgies non digestives, chirurgie rachidienne, les recommandations PROSPECT ne préconisent pas l'utilisation de la lidocaïne en perfusion intraveineuse continue en chirurgie rachidienne [14,15]. Depuis ces recommandations, une méta-analyse incluant 4 RCT (275 patients) a montré une réduction cliniquement peu significative de la douleur postopératoire à 48h, avec un niveau élevé d'hétérogénéité [16].
+
+La perfusion intra-opératoire de lidocaïne IVSE a été associée à une réduction de la douleur postopératoire persistante après chirurgie mammaire carcinologique (1 méta-analyse : 4 RCT, 167 patients [17]), ainsi qu'à une diminution d'incidence de troubles cognitifs 1 mois après chirurgie cardiaque (1 méta-analyse : 5 RCT, 688 patients [18]).
+
+Ainsi, les données actuelles de la littérature permettent d'établir une recommandation conditionnelle sur l'utilisation de la lidocaïne IVSE en chirurgie abdominale, mais ne permettent pas de recommander à ce jour son utilisation pour les autres chirurgies, et ce d'autant plus qu'en l'état actuel nous ne disposons pas d'étude robuste ayant comparé lidocaïne IVSE et blocs périphériques de la paroi thoracique ou abdominale ou infiltration péri-cicatricielle.
+
+#### Références :
+
+1. [1] Dunn LK, Durieux ME. Perioperative Use of Intravenous Lidocaine. *Anesthesiology*. avr 2017;126(4):729-37.
+2. [2] Aubrun F. Réactualisation de la recommandation sur la douleur postopératoire.
+3. [3] I. Foo, A. J. R. Macfarlane, D. Srivastava, A. Bhaskar, H. Barker, R. Knaggs, N. Eipe and, A. F. Smith. The use of intravenous lidocaine for postoperative pain and recovery: international consensus statement on efficacy and safety.
+4. [4] Wei S, Yu-Han Z, Wei-Wei J, Hai Y. The effects of intravenous lidocaine on wound pain and gastrointestinal function recovery after laparoscopic colorectal surgery. *Int Wound J*. avr 2020;17(2):351-62
+5. [5] Cooke C, Kennedy ED, Foo I, Nimmo S, Speake D, Paterson HM, et al. Meta-analysis of the effect of perioperative intravenous lidocaine on return of gastrointestinal function after colorectal surgery. *Tech Coloproctology*. janv 2019;23(1):15-24.
+6. [6] Rollins KE, Javanmard-Emamghissi H, Scott MJ, Lobo DN. The impact of peri-operative intravenous lidocaine on postoperative outcome after elective colorectal surgery: A meta-analysis of randomised controlled trials. *Eur J Anaesthesiol*. août 2020;37(8):659-70.
+7. [7] Sarakatsianou C, Perivoliotis K, Tzovaras G, Samara AA, Baloyiannis I. Efficacy of Intravenous Use of Lidocaine in Postoperative Pain Management After Laparoscopic Colorectal Surgery: A Meta-analysis and Meta-regression of RCTs. *Vivo Athens Greece*. déc 2021;35(6):3413-21.
+8. [8] Plass F, Nicolle C, Zamparini M, Al Issa G, Fiant AL, Le Roux Y, et al. Effect of intra-operative intravenous lidocaine on opioid consumption after bariatric surgery: a prospective, randomised, blinded, placebo-controlled study. *Anaesthesia*. févr 2021;76(2):189-98.
+9. [9] Sakata RK, de Lima RC, Valadão JA, Leal PC, Moura EC, Cruz VP, et al. Randomized, Double-Blind Study of the Effect of Intraoperative Intravenous Lidocaine on the Opioid Consumption and Criteria for Hospital Discharge After Bariatric Surgery. *Obes Surg*. avr 2020;30(4):1189-93.
+10. [10] Ortiz MP, Godoy MC de M, Schlosser RS, Ortiz RP, Godoy JPM, Santiago ES, et al. Effect of endovenous lidocaine on analgesia and serum cytokines: double-blinded and randomized trial. *J Clin Anesth*. déc 2016;35:70-7.
+11. [11] Dewinter G, Moens P, Fieuws S, Vanaudenaerde B, Van de Velde M, Rex S. Systemic lidocaine fails to improve postoperative morphine consumption, postoperative recovery and quality of life in patients undergoing posterior spinal arthrodesis. A double-blind, randomized, placebo-controlled trial. *Br J Anaesth*. 1 avr 2017;118(4):576-85.
+12. [12] Ghimire A, Subedi A, Bhattarai B, Sah BP. The effect of intraoperative lidocaine infusion on opioid consumption and pain after totally extraperitoneal laparoscopic inguinal hernioplasty: a randomized controlled trial. *BMC Anesthesiol*. 3 juin 2020;20(1):137.
+13. [13] Zhao J-B, Li Y-L, Wang Y-M, Teng J-L, Xia D-Y, Zhao J-S, et al. Intravenous lidocaine infusion for pain control after laparoscopic cholecystectomy: A meta-analysis of randomized controlled trials. *Medicine (Baltimore)*.févr 2018;97(5):e9771.
+
+- [14] Peene L, Le Cacheux P, Sauter AR, Joshi GP, Beloeil H, PROSPECT Working Group Collaborators, et al. Pain management after laminectomy: a systematic review and procedure-specific post-operative pain management (prospect) recommendations. *Eur Spine J Off Publ Eur Spine Soc Eur Spinal Deform Soc Eur Sect Cerv Spine Res Soc*. oct 2021;30(10):2925-35.
+- [15] Waelkens P, Alsabbagh E, Sauter A, Joshi GP, Beloeil H, PROSPECT Working group of the European Society of Regional Anaesthesia and Pain therapy (ESRA). Pain management after complex spine surgery: A systematic review and procedure-specific postoperative pain management recommendations. *Eur J Anaesthesiol*. 1 sept 2021;38(9):985-94.
+- [16] Bi Y, Ye Y, Ma J, Tian Z, Zhang X, Liu B. Effect of perioperative intravenous lidocaine for patients undergoing spine surgery: A meta-analysis and systematic review. *Medicine (Baltimore)*. 25 nov 2020;99(48):e23332.
+- [17] Chang Y-C, Liu C-L, Liu T-P, Yang P-S, Chen M-J, Cheng S-P. Effect of Perioperative Intravenous Lidocaine Infusion on Acute and Chronic Pain after Breast Surgery: A Meta-Analysis of Randomized Controlled Trials. *Pain Pract Off J World Inst Pain*. mars 2017;17(3):336-43.
+
+**Question : Une optimisation peropératoire des apports liquidiens et de la pression artérielle a-t-elle un impact sur la durée de séjour ou la survenue de complications postopératoires ?**
+
+*Experts : Alexandre Joosten (Paris), Olivier Huet (Brest)*
+
+**R3.8 - Il est probablement recommandé d'optimiser les apports liquidiens peropératoires en se basant sur la pression artérielle et le volume d'éjection systolique, afin de diminuer la survenue de complications post-opératoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (Accord fort)**
+
+L'optimisation hémodynamique comprend aujourd'hui deux axes majeurs : l'optimisation de la volémie et le maintien de la pression artérielle dans un intervalle de valeurs physiologiques.
+
+Actuellement, l'optimisation des apports liquidiens peropératoire fait l'objet d'une très grande variabilité des pratiques [1]. Afin de limiter le risque d'apports inappropriés (excessifs ou insuffisants), l'application d'une stratégie de remplissage vasculaire ciblée et guidée par un dispositif de monitoring hémodynamique avancé, est recommandée par plusieurs sociétés d'anesthésie tant européennes qu'américaines pour les patients bénéficiant d'une chirurgie à haut risque de complications [2, 3]. Les indices hémodynamiques préconisés pour guider les prescriptions de solutés de remplissage sont la mesure du volume d'éjection systolique (VES) et/ou du débit cardiaque (DC). En appliquant un protocole d'optimisation hémodynamique, le praticien est ainsi en capacité d'adapter ses thérapeutiques et de prescrire une administration de solutés de remplissage ou une catécholamine vasopressive et/ou inotrope. Plusieurs études évaluant cette approche chez des patients chirurgicaux à « haut risque », montrent une diminution de l'incidence des complications postopératoires, associées ou non à une diminution de la durée de séjour en soins intensifs et à l'hôpital [4, 5], même si aucune étude de haut niveau de preuve ne rapporte de diminution de la mortalité postopératoire chez ces patients. Le bénéfice d'une telle stratégie chez les patients à risque « modéré » voire « faible » est plus discutable [6-9].
+
+Le maintien d'une perfusion tissulaire adaptée dépend aussi de la pression artérielle. En effet, de nombreuses études observationnelles ont montré qu'il existait une association forte entre une pression artérielle basse (hypotension) et la survenue de complications postopératoires [10-12]. Les principales complications rapportées sont des complications rénales et cardio-vasculaires. Trois études prospectives randomisées comportant un large effectif de patients ont également suggéré un possible lien de causalité entre l'hypotension peropératoire et la morbidité postopératoire [13-15]. Il semble donc raisonnable d'avoir une approche hémodynamique individualisée au patient. Cette approche consiste à optimiser à la fois le remplissage vasculaire et la pression artérielle moyenne (PAM) et systolique (PAS) chez le patient à « haut-risque » afin de diminuer les complications postopératoires. Plusieurs méta-analyses ont évalué l'impact d'une stratégie hémodynamique combinant à la fois le remplissage vasculaire ciblé et les agents vasoactifs (vasopresseur et/ou inotrope) sur le devenir postopératoire des patients dans différents types de chirurgie : toutes rapportent un effet bénéfique que ce soit sur la mortalité, la morbidité ou la durée de séjour hospitalier. La méta-analyse la plus récente, reprenant 95 études pour un total de 11659 patients, démontre que seule une stratégie hémodynamique combinant un remplissage vasculaire ciblé et une utilisation ciblée d'agents vasoactifs s'accompagne d'une diminution significative de la mortalité postopératoire [16]. Il faut cependant noter que toutes ces méta-analyses s'accordent sur le niveau de preuve relativement faible de leurs conclusions, de même que sur la grande hétérogénéité des protocoles évalués. Enfin, il est bon de garder en mémoire que certaines études multicentriques randomisées sont négatives mais sont grevées d'un certain nombre de limites [8, 17].
+
+Le développement de ces stratégies d'optimisation hémodynamique repose donc sur l'utilisation combinée d'outils de monitoring hémodynamique et de protocoles de soins. Une bonne connaissance et la maîtrise des outils sont donc essentielles à l'application de ces stratégies multimodales. Dans le but d'améliorer l'adhésion à ces protocoles d'optimisation hémodynamique, le développement d'outils interactifs comme aide à la décision, et/ou de dispositifs automatisés pourrait être utile à la généralisation de ces pratiques [18, 19].
+
+#### Références :
+
+1. [1] Lilot M, Ehrenfeld JM, Lee C, Harrington B, Cannesson M, Rinehart J. Variability in practice and factors predictive of total crystalloid administration during abdominal surgery: retrospective two-centre analysis. *Br J Anaesth* 2015; 114: 767-76
+2. [2] Navarro LH, Bloomstone JA, Auler JO, Jr., et al. Perioperative fluid therapy: a statement from the international Fluid Optimization Group. *Perioper Med (Lond)* 2015; 4: 3
+3. [3] Vallet B, Blanloeil Y, Cholley B, Oriaguet G, Pierre S, Tavernier B. Guidelines for perioperative haemodynamic optimization. *Ann Fr Anesth Reanim* 2013; 32: e151-8
+4. [4] Cannesson M, Ramsingh D, Rinehart J, et al. Perioperative goal-directed therapy and postoperative outcomes in patients undergoing high-risk abdominal surgery: a historical-prospective, comparative effectiveness study. *Crit Care* 2015; 19: 261
+5. [5] Nicklas JY, Diener O, Leistenschneider M, et al. Personalised haemodynamic management targeting baseline cardiac index in high-risk patients undergoing major abdominal surgery: a randomised single-centre clinical trial. *Br J Anaesth* 2020; 125: 122-32
+6. [6] Fischer MO, Fiant AL, Deboczi S, et al. Perioperative non-invasive haemodynamic optimisation using photoplethysmography: A randomised controlled trial and meta-analysis. *Anaesth Crit Care Pain Med* 2020; 39: 421-8
+7. [7] Davies SJ, Yates DR, Wilson RJT, et al. A randomised trial of non-invasive cardiac output monitoring to guide haemodynamic optimisation in high risk patients undergoing urgent surgical repair of proximal femoral fractures (ClearNOF trial NCT02382185). *Perioper Med (Lond)* 2019; 8: 8
+8. [8] Pestaña D, Espinosa E, Eden A, et al. Perioperative goal-directed hemodynamic optimization using noninvasive cardiac output monitoring in major abdominal surgery: a prospective, randomized, multicenter, pragmatic trial: POEMAS Study (PeriOperative goal-directed thErapy in Major Abdominal Surgery). *Anesth Analg* 2014; 119: 579-87
+9. [9] Calvo-Vecino JM, Ripollés-Melchor J, Mythen MG, et al. Effect of goal-directed haemodynamic therapy on postoperative complications in low-moderate risk surgical patients: a multicentre randomised controlled trial (FEDORA trial). *Br J Anaesth* 2018; 120: 734-44- [10] Gregory A, Stapelfeldt WH, Khanna AK, et al. Intraoperative Hypotension Is Associated With Adverse Clinical Outcomes After Noncardiac Surgery. *Anesth Analg* 2021; 132: 1654-65
+- [11] Salmasi V, Maheshwari K, Yang D, et al. Relationship between Intraoperative Hypotension, Defined by Either Reduction from Baseline or Absolute Thresholds, and Acute Kidney and Myocardial Injury after Noncardiac Surgery: A Retrospective Cohort Analysis. *Anesthesiology* 2017; 126: 47-65
+- [12] Shaw AD, Khanna AK, Smischny NJ, Shenoy AV, Boero IJ, Bershad M, Hwang S, Chen Q, Stapelfeldt WH: Intraoperative hypotension is associated with persistent acute kidney disease after noncardiac surgery: a multicentre cohort study. *Br J Anaesth.* 2022;17:S0007-0912(22)00157-X
+- [13] Wanner PM, Wulff DU, Djurdjevic M, Korte W, Schnider TW, Filipovic M. Targeting Higher Intraoperative Blood Pressures Does Not Reduce Adverse Cardiovascular Events Following Noncardiac Surgery. *J Am Coll Cardiol* 2021; 78: 1753-64
+- [14] Wu X, Jiang Z, Ying J, Han Y, Chen Z. Optimal blood pressure decreases acute kidney injury after gastrointestinal surgery in elderly hypertensive patients: A randomized study: Optimal blood pressure reduces acute kidney injury. *J Clin Anesth* 2017; 43: 77-83
+- [15] Futier E, Lefrant JY, Guinot PG, et al. Effect of Individualized vs Standard Blood Pressure Management Strategies on Postoperative Organ Dysfunction Among High-Risk Patients Undergoing Major Surgery: A Randomized Clinical Trial. *Jama* 2017; 318: 1346-57
+- [16] Chong MA, Wang Y, Berbenetz NM, McConachie I. Does goal-directed haemodynamic and fluid therapy improve peri-operative outcomes?: A systematic review and meta-analysis. *Eur J Anaesthesiol* 2018; 35: 469-83
+- [17] de Waal EEC, Frank M, Scheeren TWL, Kaufmann T, de Korte-de Boer D, Cox B, van Kuijk SMJ, Montenij LM, Buhre W: Perioperative goal-directed therapy in high-risk abdominal surgery. A multicenter randomized controlled superiority trial. *J Clin Anesth* 2021, 75:110506.
+- [18] Joosten A, Rinehart J, Van der Linden P, Alexander B, Penna C, De Montblanc J, Cannesson M, Vincent JL, Vicaut E, Duranteau J: Computer-assisted Individualized Hemodynamic Management Reduces Intraoperative Hypotension in Intermediate- and High-risk Surgery: A Randomized Controlled Trial. *Anesthesiology* 2021, 135(2):258-272.
+- [19] Maheshwari K, Malhotra G, Bao X, Lahsaei P, Hand WR, Fleming NW, Ramsingh D, Treggiari MM, Sessler DI, Miller TE: Assisted Fluid Management Software Guidance for Intraoperative Fluid Administration. *Anesthesiology* 2021, 135(2):273-283
+
+**Question : Le monitoring de la profondeur d'anesthésie et de l'analgésie a-t-il un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Morgan Leguen (Suresnes)*
+
+**R3.9 - Il est probablement recommandé d'utiliser un monitoring de la profondeur d'anesthésie, notamment chez les patients à risque du fait de la chirurgie ou des comorbidités, pour diminuer les complications neuro-cognitives postopératoires.**
+
+**GRADE 2+ (Accord Fort)**
+
+**ABSENCE DE RECOMMANDATION - La littérature actuelle dans le cadre de la réhabilitation accélérée postopératoire ne permet pas d'émettre de recommandation concernant les moniteurs d'analgésie.**
+
+**Absence de Recommandation****Argumentaire :** Les sociétés savantes européennes ont émis des recommandations à ce sujet ces dernières années dans le cadre des programmes de réhabilitation accélérée postopératoire. Ainsi, en 2016 et 2018, la société ERAS recommandait le monitoring de la profondeur d'anesthésie, quel que soit l'outil, afin de réduire le risque de mémorisation peropératoire mais surtout d'accélérer la réhabilitation [1-2]. En 2018, cette recommandation vise plus particulièrement le sujet âgé pour réduire l'incidence du délirium postopératoire [2]. De la même façon, l'ESA recommandait le monitoring de la profondeur d'anesthésie pour éviter les anesthésies trop profondes et la survenue de "burst suppression" [3]. Depuis lors, plusieurs méta-analyses ont été publiées et confirment l'intérêt d'un monitoring cérébral quel qu'il soit pour réduire la survenue de délirium chez le patient âgé, avec par conséquent une tendance à la réduction de durée de séjour [4-5]. L'effet du monitoring est particulièrement intéressant pour la partie précoce du réveil (situation spatiale et réponses orientées aux questions en postopératoire) quelle que soit la technique d'anesthésie générale utilisée (intraveineuse ou par inhalation), mais peine à montrer un effet bénéfique sur des critères plus robustes comme la durée de séjour et l'incidence des complications postopératoires globales [6-7]. Deux études plus récentes se sont intéressées à l'effet d'un monitoring de la profondeur d'anesthésie sur les performances cognitives postopératoires et ont montré une réduction de l'incidence du délirium postopératoire avec une réduction de la dysfonction cognitive tardive à un an [8]. Pour aller plus loin, deux études utilisant un monitoring de la profondeur d'anesthésie chez tous les patients, ont comparés l'anesthésie profonde et l'anesthésie légère, définies par le niveau de profondeur de l'anesthésie mesuré par le monitoring. Evered et al. ont montré dans une étude randomisée un net avantage de l'anesthésie légère (Bispectral Index (BIS) à 50) sur l'anesthésie profonde (BIS à 35) avec une incidence de délirium postopératoire réduite (19% vs 28% (OR 0,58 -  $p=0,01$ )) et une moindre altération des fonctions cognitives à un an [9]. Avec une méthodologie proche, Short et al. rapportent une consommation d'halogénés moindre et une pression artérielle peropératoire moyenne plus élevée dans le groupe "BIS 50" par rapport au groupe "BIS 35", toutefois sans différence sur le critère de jugement principal de l'étude qui était la mortalité à un an [10].
+
+Concernant le monitoring de l'analgésie, peu d'outils sont encore suffisamment validés et utilisables en pratique courante, et les études disponibles portent sur les consommations d'opioïdes et les niveaux de douleur postopératoire. Aucune étude n'a encore été réalisée dans des chirurgies avec programme de réhabilitation postopératoire.
+
+#### Références :
+
+- [1] A. Feldheiser, O. Aziz, G. Baldini, et al. Enhanced Recovery After Surgery (ERAS) for gastrointestinal surgery, part 2: consensus statement for anaesthesia practice. *Acta Anaesthesiol Scand* 2016 Mar;60(3):289-334.
+- [2] Gustafsson UO, Scott MJ, Hubner M et al. Guidelines for Perioperative Care in Elective Colorectal Surgery: Enhanced Recovery After Surgery (ERAS ®) Society Recommendations: 2018 World J Surg (2019) 43:659–695.
+- [3] Cesar Aldecoa, Gabriella Bettelli, Federico Bilotta et al. European Society of Anaesthesiology evidence-based and consensus-based guideline on postoperative delirium. *Eur J Anaesthesiol* 2017; 34:192–214.
+- [4] Zhaosheng Jin, Jie Hu, Daqing Ma. Postoperative delirium: perioperative assessment, risk reduction, and management. *Br J Anaesth.* 2020 Oct;125(4):492-504.
+- [5] Xia Li, Yanting Wang, Jie Liu, Yue Xiong, Shiqiang Chen, Jingjing Han, Wanli Xie, Qingping Wu. Effects of perioperative interventions for preventing postoperative delirium: A protocol for systematic review and meta-analysis of randomized controlled trials *Medicine.* 2021 Jul 23;100(29):e26662.
+- [6] R Sudhakaran, Jeetinder K Makkar, Divya Jain, Jyotsna Wig, R Chabra. Comparison of bispectral index and end-tidal anaesthetic concentration monitoring on recovery profile of desflurane in patients undergoing lumbar spine surgery. *Indian J Anaesth.* 2018 Jul;62(7):516-523. doi: 10.4103/ija.IJA\_172\_18.- [7] Min-Hsien Chiang, Shao-Chun Wu, Shih-Wei Hsu, Jo-Chi Chin. Bispectral Index and non-Bispectral Index anesthetic protocols on postoperative recovery outcomes. *Minerva Anesthesiol.* 2018 Feb;84(2):216-228.
+- [8] Chunmei Luo, Weiwu Zou Cerebral monitoring of anaesthesia on reducing cognitive dysfunction and postoperative delirium: a systematic review. *J Int Med Res.* 2018 Oct;46(10):4100-4110.
+- [9] Lisbeth A Evered, Matthew T V Chan, Ruquan Han, et al. Anaesthetic depth and delirium after major surgery: a randomised clinical trial. *Br J Anaesth.* 2021 Aug 28;S0007-0912(21)00493-1.
+- [10] Timothy G Short, Douglas Campbell, Christopher Frampton, et al. Australian and New Zealand College of Anaesthetists Clinical Trials Network; Balanced Anaesthesia Study Group. Anaesthetic depth and complications after major surgery: an international, randomised controlled trial. *Lancet.* 2019 Nov 23;394(10212):1907-1914.
+
+**Question : La prévention de l'hypothermie peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Pascal Alfonsi (Paris)*
+
+**R3.10 - Il est recommandé de lutter contre l'hypothermie péri-opératoire afin de diminuer la survenue des complications postopératoires.**
+
+**GRADE 1+ (Accord Fort)**
+
+**Argumentaire :** Les Recommandations Formalisées d'Experts (RFE) de la SFAR « Prévention de l'hypothermie peropératoire accidentelle au bloc opératoire chez l'adulte » publiée en 2018, recommandent « *de lutter contre l'hypothermie péri-opératoire afin de diminuer la survenue des complications infectieuses, cardio-vasculaires et hémorragiques chez le patient anesthésié* » [1]. La température-cible en fin d'intervention pour tous les patients est fixée à 36,5°C et doit être au minimum égale à 36°C [1]. Depuis la rédaction de cessa RFE, 2 méta-analyses ont évalué l'impact de la prévention peropératoire de l'hypothermie sur la fréquence des infections de site opératoire (ISO), et concluent à une réduction de plus de 60% du taux d'ISO chez les patients activement réchauffés [2,3]. Dans une de ces méta-analyses, Balki et al. observent de plus une réduction de l'ordre de 30% des besoins transfusionnels chez les patients activement réchauffés [3]. Le réchauffement actif, défini par la transmission de chaleur provenant d'un générateur d'air chaud vers le patient à travers la peau grâce à une interface (couverture spécifique), réduit de près de 80% la fréquence des complications cardiovasculaires à la 24<sup>e</sup> heure chez les patients à risque cardiovasculaire [3]. Le réchauffement actif semble plus important que le maintien d'une température centrale >36°C pour réduire l'incidence des dommages myocardiques postopératoires [4].
+
+**Références :**
+
+- [1] P. Alfonsi, F. Espitalier, MP. Bonnet, S. Bekka, L. Brocker, F. Garnier, M. Louis, I. Macquer, P. Pilloy, C. Hallynck, Y. Camus. [https://sfar.org/wp-content/uploads/2018/09/2\\_RFE-Hypothermie-Version-Finale-\\_Validée-CRC120618.pdf](https://sfar.org/wp-content/uploads/2018/09/2_RFE-Hypothermie-Version-Finale-_Validée-CRC120618.pdf)
+- [2] Ousey K, Edward KL, Lui S, Stephenson J, Walker K, Duff J, Leaper D. Perioperative, local and systemic warming in surgical site infection: a systematic review and meta-analysis. *J Wound Care.* 2017 Nov 2;26(11):614-624.
+- [3] Balki I, Khan JS, Staibano P, Duceppe E, Bessissow A, Sloan EN, Morley EE, Thompson AN, Devereaux B, Rojas C, Rojas C, Siddiqui N, Sessler DI, Devereaux PJ. Effect of Perioperative Active Body Surface Warming Systems on Analgesic and Clinical Outcomes: A Systematic Review and Meta-analysis of Randomized Controlled Trials. *Anesth Analg.* 2020 Nov;131(5):1430-1443.
+- [4] Schacham Y, Cohen B, Bajracharya G, Walters M, Zimmerman N, Mao G, Tanios M, Sessler D. Mild**Question : La mise en place d'un protocole de prévention des nausées et des vomissements a-t-elle un impact sur la durée de séjour ?**
+
+*Experts : Marc Beaussier (Paris), Pierre Diesmunch (Strasbourg)*
+
+**R3.11 - Il est recommandé de mettre en place un protocole de prévention des nausées et vomissements postopératoires afin de favoriser la réhabilitation postopératoire.**
+
+**GRADE 1+ (Accord Fort)**
+
+**Argumentaire :** Malgré de nombreuses études et des recommandations pour la pratique clinique régulièrement réactualisées [1,2], les nausées et/ou vomissements postopératoires (NVPO) touchent encore 30% de l'ensemble des patients opérés (jusqu'à 80% dans certains groupes à risque). La survenue de NVPO prolonge la durée de séjour en SSPI, retarde la sortie des patients et augmente le risque de réadmission après chirurgie ambulatoire [2]. De fait, la gestion des NVPO occupe une place importante dans les protocoles de RAC [1]. Dans ces protocoles, il est indispensable : 1) de recenser les NVPO, 2) d'identifier les facteurs de risque modifiables et non modifiables, 3) d'abaisser autant que possible le risque de base et, 4) d'adopter une stratégie multimodale validée de prévention et de traitement. Les associations de médicaments antiémétiques y occupent une place majeure mais non exclusive. En chirurgie ambulatoire, la prévention et le traitement des NVPO survenant après sortie de l'hôpital sont essentiels [3].
+
+1. Evaluation des facteurs de risque de NVPO :
+
+Les scores d'Apfel (0 à 4) et de Koivuranta (0 à 5) sont les scores prédictifs de NVPO les mieux validés [2].
+
+Chez l'adulte, les facteurs de risque individuels sont : le sexe féminin, le fait d'être non-fumeur, les antécédents de NVPO ou de « mal des transports », le jeune âge, les antécédents de nausées/vomissements induits par la chimiothérapie, la déshydratation, un jeûne pré et post opératoires inadéquats. Les chirurgies les plus à risque sont la chirurgie par laparoscopie, les chirurgies bariatrique et gynécologique, et la cholécystectomie.
+
+En ce qui concerne la technique anesthésique, l'anesthésie générale (AG) (par rapport à l'anesthésie locorégionale), l'utilisation des halogénés, et/ou du protoxyde d'azote (plus d'une heure) sont des facteurs de risques reconnus de NVPO. Le risque de survenue de NVPO augmente également avec la durée de l'AG. Dans la période postopératoire, le recours aux opiacés augmente le risque de NVPO. A l'inverse, l'anesthésie intraveineuse totale et les protocoles sans opioïdes, l'ALR et la co-analgésie par médicaments non-opioïdes postopératoires abaissent le risque de NVPO [2].
+
+Concernant les nausées et vomissements après le retour à domicile après une chirurgie ambulatoire, les cinq facteurs de risques principaux sont : le sexe féminin ; l'antécédent de NVPO ; l'âge < 50 ans ; l'administration d'opioïdes en SSPI ; et la survenue de nausées en SSPI [3].
+
+2. Réduction du risque de base de NVPO : La réduction du risque de base des NVPO repose essentiellement sur cinq mesures relatives à l'anesthésie [1,2] : 1) préférer l'ALR à l'AG ; 2) encas d'AG préférer la perfusion continue de propofol aux halogénés ; 3) éviter le protoxyde d'azote ; 4) maintenir un apport hydrique et calorique péri-opératoire adéquat ; et 5) réduire autant que possible l'utilisation périopératoire des opioïdes par des alternatives ou des associations médicamenteuses.
+
+**3. Usage des antiémétiques :** Aucun antiémétique n'abaisse à lui seul le taux résiduel de NVPO de plus de 30%. Ceci impose un abord multimodal de la réduction du risque résiduel de NVPO [2,4]. La prophylaxie la plus communément employée consiste en l'administration de dexaméthasone et de dropéridol. Un médicament de la famille des Sétrons sera ajouté, en fin d'intervention, chez les patients dans les situations chirurgicales les plus à risque [2,4].
+
+L'acupuncture par la stimulation du point P6 pourrait prévenir les NVPO aussi efficacement qu'un antiémétique [5]. Elle exige une formation et une implication particulière des équipes. La prévention de la déshydratation peropératoire et le déplacement précautionneux des patients sont d'autres approches souhaitables et sans risque.
+
+Après échec d'une prophylaxie des NVPO, le traitement curatif devra reposer sur l'administration d'une classe différente d'anti-émétiques.
+
+#### Références :
+
+1. [1] Schwartz J, Gan TJ. Management of postoperative nausea and vomiting in the context of an Enhanced Recovery after Surgery program. Best Pract Res Clin Anaesthesiol. 2020;34:687-700.
+2. [2] Gan TJ, Belani KG, Bergese S, Chung F, Diemunsch P, Habib AS, Jin Z, Kovac AL, Meyer TA, Urman RD, Apfel CC, Ayad S, Beagley L, Candiotti K, Englesakis M, Hedrick TL, Kranke P, Lee S, Lipman D, Minkowitz HS, Morton J, Philip BK. Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting. Anesth Analg. 2020;131:411-48.
+3. [3] Apfel CC et al. Who is at risk for postdischarge nausea and vomiting after ambulatory surgery? Anesthesiology. 2012;117:475-86.
+4. [4] Weibel S, Rücker G, Eberhart LH, Pace NL, Hartl HM, Jordan OL, Mayer D, Riemer M, Schaefer MS, Raj D, Backhaus I, Helf A, Schlesinger T, Kienbaum P, Kranke P. Drugs for preventing postoperative nausea and vomiting in adults after general anaesthesia: a network meta-analysis. Cochrane Database Syst Rev. 2020 Oct ; 2020(10):CD012859..
+5. [5] Lee A, Chan SK, Fan LT. Stimulation of the wrist acupuncture point PC6 for preventing postoperative nausea and vomiting. Cochrane Database Syst Rev. 2015 Nove; 2015(11): CD003281.
+
+### Question : L'administration de dexaméthasone en peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications postopératoires ?
+
+Expert : Sophie Di Maria (Paris)
+
+**R3.12 - Il est recommandé d'administrer de la dexaméthasone intraveineuse à la dose de 4 ou 8 mg lors de chaque anesthésie générale afin de réduire les complications postopératoires, en particulier les nausées et vomissements postopératoires.**
+
+**GRADE 1+ (Accord Fort)**
+
+**Argumentaire :** Le glucocorticoïde le plus étudié dans cette indication en peropératoire est la dexaméthasone. Son intérêt réside dans sa forte puissance (40 fois celle de l'hydrocortisone), sa durée d'action prolongée (demi-vie de 36h) et son absence d'activité minéralo-corticoïde. La dose généralement utilisée est de 4 à 8 mg IVD. Il est recommandé d'administrer la dexaméthasone en début d'intervention du fait de son action retardée [1, 2].
+
+Deux méta-analyses [3,4] et une étude randomisée [5] concluent que l'administration dedexaméthasone réduit de manière importante la fréquence des nausées et vomissements postopératoires (NVPO) : 25,5% vs 33% (NNT=13) [4], RR 0,51 (0,44-0,57) (NNT=3) [3] et OR 0,31 (0,23-0,41) (NNT=3,7) [5].
+
+De plus, après une chirurgie abdominale majeure (intestinale et hépatique), les glucocorticoïdes administrés en préopératoire réduisent significativement les complications chirurgicales postopératoires (OR 0,37 (0,21-0,64)) [6]. Chez les patients opérés de chirurgie majeure, la dexaméthasone à la dose de 0,2 mg/kg administrée en fin d'intervention et à J1, ne réduit pas l'incidence des complications opératoires sévères toutes causes confondues [7], mais réduit de manière significative les défaillances respiratoires postopératoires nécessitant le recours à une ventilation mécanique (OR 0,7 (0,53-0,93) - p=0,015).
+
+En hospitalisation conventionnelle, la dexaméthasone diminue la durée de séjour après arthroplastie du membre inférieur (-0,4 jour (-0,6 – -0,2)) [10], et après chirurgie hépatique (-2,7 jours (-5,0 – -0,3) - p=0,03) ou colorectale (-1 jour (-1,7 – -0,3) - p=0,01) [11]. En revanche, chez les patients à haut risque chirurgical, l'administration de dexaméthasone ne permet pas de réduire la durée de séjour par rapport au placebo (médiane de 27 jours dans les 2 groupes) [7].
+
+Deux méta-analyses [2, 6] ne mettent pas en évidence de réduction cliniquement significative de la consommation de morphine postopératoire avec l'administration de dexaméthasone : respectivement -0,8 mg (-1,3 – -0,4) de morphine dans les 4 premières heures postopératoires [2] et une réduction de 10% à H24 [6]. En adjuvant à une ALR, une revue systématique du groupe Cochrane montre que la dexaméthasone comparée à un placebo prolonge le bloc sensitif de 6,7 heures (5,5-7,9) [12]. L'injection de dexaméthasone périnerveuse vs. intraveineuse prolonge l'effet analgésique en médiane de 3,8 heures (1,9-5,7) (p<0,001), mais sans diminuer la consommation de morphine postopératoire à 24h ou améliorer l'incidence de douleurs importantes à 48h [13].
+
+Concernant son innocuité, l'administration de dexaméthasone n'augmente pas le risque infectieux [6, 8, 9], le risque de lâchage anastomotique (OR 1 (0,5-2,2)), ou de saignement postopératoire (OR 1,4 (0,7-2,7)) [9]. De plus, son administration n'est associée qu'à très peu d'effets indésirables [3]. La glycémie est transitoirement augmentée de manière comparable chez les patients diabétiques et non-diabétiques entre la quatrième et la vingt-quatrième heure, avec un pic de faible amplitude à H4 après l'injection [14]. Chez le patient diabétique, il est toutefois conseillé de limiter la dose de dexaméthasone à 4 mg [15]. Lorsqu'elle est administrée en bolus avant l'induction anesthésique, la dexamethasone peut provoquer un prurit génito-anal dans environ 50% des cas, majoritairement chez la femme [16].
+
+#### Références :
+
+1. [1] Wang JJ, Ho ST, Tzeng JI, Tang CS. The effect of timing of dexamethasone administration on its efficacy as a prophylactic antiemetic for postoperative nausea and vomiting. *Anesth Analg.* 2000;91(1):136-9.
+2. [2] De Oliveira GS, Almeida MD, Benzon HT, McCarthy RJ. Perioperative Single Dose Systemic Dexamethasone for Postoperative Pain. A Meta-analysis of Randomized Controlled Trials. *Anesthesiology* 2011; 115:575– 88.
+3. [3] Weibel S, Rücker G, Eberhart LHJ, Pace NL, Hartl HM, Jordan OL, Mayer D, Riemer M, Schaefer MS, Raj D, Backhaus I, Helf A, Schlesinger T, Kienbaum P, Kranke P. Drugs for preventing postoperative nausea and vomiting in adults after general anaesthesia: a network meta-analysis. *Cochrane Database of Systematic Reviews* 2020, Issue 10. Art. No.: CD012859.
+4. [4] De Oliveira GS Jr, Castro-Alves LJ, Ahmad S, Kendall MC, McCarthy RJ. Dexamethasone to prevent postoperative nausea and vomiting: an updated meta-analysis of randomized controlled trials. *Anesth Analg.* 2013 Jan;116(1):58-74.
+5. [5] DREAMS Trial Collaborators and West Midlands Research Collaborative. Dexamethasone versus standard treatment for postoperative nausea and vomiting in gastrointestinal surgery: randomised controlled trial. *BMJ* 2017 Apr 18;357:j1455- [6] Waldron NH, Jones CA, Gan TG, Allen TK, Habib AS. Impact of perioperative dexamethasone on postoperative analgesia and side-effects: systematic review and meta-analysis. *Br J Anaesth*. 2013;110:191-200.
+- [7] Asehnoune K, Le Moal C, Lebuffle G, Le Penndu M, Josse NC, Boisson M, Lescot T, Faucher M, Jaber S, Godet T, Leone M, Motamed C, David JS, Cinotti R, El Amine Y, Liutkus D, Garot M, Marc A, Le Corre A, Thomasseau A, Jobert A, Flet L, Feuillet F, Pere M, Futier E, Roquilly A; PACMAN study group. Effect of dexamethasone on complications or all cause mortality after major non-cardiac surgery: multicentre, double blind, randomised controlled trial. *BMJ*. 2021 Jun 2;373:n1162
+- [8] Corcoran TB, Myles PS, Forbes AB, Cheng AC, Bach LA, O'Loughlin E, Leslie K, Chan MTV, Story D, Short TG, Martin C, Coutts P, Ho KM; PADDI Investigators; Australian and New Zealand College of Anaesthetists Clinical Trials Network; Australasian Society for Infectious Diseases Clinical Research Network. Dexamethasone and Surgical-Site Infection. *N Engl J Med*. 2021 May 6;384(18):1731-41.
+- [9] Toner AJ, Ganeshanathan V, Chan MT, Ho KM, Corcoran TB. Safety of Perioperative Glucocorticoids in Elective Noncardiac Surgery: A Systematic Review and Meta-analysis. *Anesthesiology*. 2017;126(2):234-248.
+- [10] Lex JR, Edwards TC, Packer TW, Jones GG, Ravi B. Perioperative Systemic Dexamethasone Reduces Length of Stay in Total Joint Arthroplasty: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. *J Arthroplasty* 2021;36:1168-86.
+- [11] Srinivasa S, Kahokehr AA, Yu TC, Hill AG. Preoperative glucocorticoid use in major abdominal surgery: systematic review and meta-analysis of randomized trials. *Ann Surg*. 2011;254(2):183-91
+- [12] Pehora C, Pearson AM, Kaushal A, Crawford MW, Johnston B. Dexamethasone as an adjuvant to peripheral nerve block. *Cochrane Database of Systematic Reviews* 2017 Nov 9;11(11):CD011770.
+- [13] Chong MA, Berbenetz NM, Lin C, Singh S. Perineural Versus Intravenous Dexamethasone as an Adjuvant for Peripheral Nerve Blocks: A Systematic Review and Meta-Analysis. *Reg Anesth Pain Med* May/Jun 2017;42(3):319-326.
+- [14] Tien M, Gan TJ, Dhakal I, White WD, Olufolabi AJ, Fink R, Mishriky BM, Lacassie HJ, Habib AS. The effect of anti-emetic doses of dexamethasone on postoperative blood glucose levels in non-diabetic and diabetic patients: a prospective randomised controlled study. *Anaesthesia*. 2016 Sep;71(9):1037-43.
+- [15] Cheisson G, Jacqueminet S, Cosson E, Ichai C, Leguerrier AM, Nicolescu-Catargi B, Ouattara A, Tauveron I, Valensi P, Benhamou D. Gestion du patient diabétique en périopératoire. *Anesth Reanim*. 2017; 3: 234–24.
+- [16] Perron G, Dolbec P, Germain J, Bechard P. Perineal pruritus after iv dexamethasone administration. *Canadian Journal of Anaesthesia* 2003;50: 749–50.
+
+**Question : L'administration d'acide tranexamique en peropératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Dominique Fletcher (Paris)*
+
+**R3.13 - Il est recommandé d'administrer de l'acide tranexamique en peropératoire de chirurgie majeure et/ou à risque hémorragique afin de réduire les complications hémorragiques et le recours à la transfusion per et postopératoires.**
+
+**GRADE 1+ (Accord Fort)**
+
+**Argumentaire :** Les recommandations internationales recommandent en chirurgie cardiaque et orthopédique (PTG, PTH) l'utilisation de l'acide tranexamique (AT) pour réduire le risque de transfusion [1-4]. En chirurgie orthopédique un effet similaire d'épargne transfusionnelle est observé en cas de fracture du col ou de chirurgie du rachis sur plusieurs étages mais pas pour une chirurgie moins hémorragique comme l'ostéotomie tibiale [5-7]. En chirurgie cardiaque, l'efficacité est similaire avec ou sans CEC [8]. Les données actuellement disponibles dans ces deux types de chirurgie reposent sur plusieurs méta-analyses et de grands essais randomisés contrôlés décrivant tous un effet positif sur l'hémorragie peropératoire avec réduction de la fréquence de transfusion de l'ordre de 50% [6, 9-13].La littérature en chirurgie vasculaire lourde [14], urologique [15] et obstétricale [16] suggère une réduction du saignement peri-opératoire sans effet significatif sur la transfusion ou d'autres complications immédiates ou retardées et sans effet sur la durée de séjour. Les données en chirurgie hépatique lourde sont encore non concluantes [17]. Il est important de noter qu'en cas de césarienne ou d'accouchement par voie basse compliqué d'une hémorragie du post-partum, l'administration précoce (< 3h après l'accouchement) d'AT réduit la mortalité maternelle [18].
+
+Dans un essai randomisé contrôlé en double aveugle publié en 2022 incluant 114 centres dans 22 pays, 9535 patients, âgés de plus de 45 ans et opérés de tous types de chirurgie non-ambulatoire, à l'exception des chirurgies cardiaques et intracrâniennes, ont été traités par AT ou placebo [19]. L'impact de l'administration de 2 grammes d'AT (1g avant et 1g à la fin de la chirurgie) était évalué sur 2 critères composites jusqu'au 30<sup>e</sup> jour postopératoire : un critère d'efficacité sur la réduction de la fréquence des saignements engageant le pronostic vital ou majeurs ou touchant un organe vital, et un critère de sécurité incluant les dommages myocardiques, les thromboses veineuses et artérielles et les accidents vasculaires cérébraux non hémorragiques. Dans cette étude, l'administration d'AT a réduit d'environ 25% la survenue de saignements majeurs (HR 0,76 IC95%(0,67-0,86) -  $p<0,001$ ). Ce bénéfice s'observe aussi bien en chirurgie orthopédique (HR 0,70 (0,55-0,89) -  $p<0,004$ ) que non-orthopédique (HR 0,77 (0,67-0,90) -  $p<0,001$ ). L'administration d'AT n'augmente pas les risques thrombotiques même si la non-infériorité n'était pas atteinte (HR 1,03 (0,92-1,15) -  $p=0,046$ ).
+
+Ces données de sécurité confortent toutefois de précédents résultats en population chirurgicale générale ainsi qu'en traumatologie, rapportant que l'AT n'a pas d'effet favorisant la survenue de thrombose vasculaire artérielle (AVC, IDM) ou veineuse (embolie pulmonaire) [4, 19, 26]. Ces données incitent à recommander l'utilisation de l'AT en chirurgie majeure ou à risque hémorragique, même en dehors de l'orthopédie lourde et de la chirurgie cardiaque.
+
+La dose recommandée est de l'ordre de 1g (15 mg/kg) en chirurgie orthopédique. L'application locale de l'AT est une alternative efficace en chirurgie orthopédique [23-25]. En chirurgie cardiaque, la dose communément utilisée est de 20 mg/kg en début d'intervention par voie intraveineuse [20-22]. Les fortes doses (jusqu'à 100 mg/kg) ne permettent pas d'augmenter l'effet d'épargne transfusionnelle et exposent à un risque plus élevé de crises convulsives [26]. Dans le grand essai international récent POISE-3 incluant de nombreux types de chirurgie la dose était de 1 g avant et 1 g à la fin de la chirurgie [19].
+
+## Références :
+
+1. [1] Fillingham YA, Ramkumar DB, Jevsevar DS, Yates AJ, Bini SA, Clarke HD, et al. Tranexamic Acid Use in Total Joint Arthroplasty: The Clinical Practice Guidelines Endorsed by the American Association of Hip and Knee Surgeons, American Society of Regional Anesthesia and Pain Medicine, American Academy of Orthopaedic Surgeons, Hip Society, and Knee Society. *J Arthroplasty*. 2018;33(10):3065-9.
+2. [2] Raphael J, Mazer CD, Subramani S, Schroeder A, Abdalla M, Ferreira R, et al. Society of Cardiovascular Anesthesiologists Clinical Practice Improvement Advisory for Management of Perioperative Bleeding and Hemostasis in Cardiac Surgery Patients. *Anesth Analg*. 2019;129(5):1209-21.
+3. [3] Task Force on Patient Blood Management for Adult Cardiac Surgery of the European Association for Cardio-Thoracic S, the European Association of Cardiothoracic A, Boer C, Meesters MI, Milojevic M, Benedetto U, et al. 2017 EACTS/EACTA Guidelines on patient blood management for adult cardiac surgery. *J Cardiothorac Vasc Anesth*. 2018;32(1):88-120.
+4. [4] Fillingham YA, Ramkumar DB, Jevsevar DS, Yates AJ, Bini SA, Clarke HD, et al. Tranexamic acid in total joint arthroplasty: the endorsed clinical practice guides of the American Association of Hip and Knee Surgeons, American Society of Regional Anesthesia and Pain Medicine, American Academy of Orthopaedic Surgeons, Hip Society, and Knee Society. *Reg Anesth Pain Med*. 2019;44(1):7-11.
+5. [5] Ma J, Lu H, Chen X, Wang D, Wang Q. The efficacy and safety of tranexamic acid in high tibial osteotomy: asystematic review and meta-analysis. *J Orthop Surg Res*. 2021;16(1):373.
+
+[6] Qi YM, Wang HP, Li YJ, Ma BB, Xie T, Wang C, et al. The efficacy and safety of intravenous tranexamic acid in hip fracture surgery: A systematic review and meta-analysis. *J Orthop Translat*. 2019;19:1-11.
+
+[7] Zhao Y, Xi C, Xu W, Yan J. Role of tranexamic acid in blood loss control and blood transfusion management of patients undergoing multilevel spine surgery: A meta-analysis. *Medicine (Baltimore)*. 2021;100(7):e24678.
+
+[8] Casati V, Della Valle P, Benussi S, Franco A, Gerli C, Baili P, et al. Effects of tranexamic acid on postoperative bleeding and related hematochemical variables in coronary surgery: Comparison between on-pump and off-pump techniques. *J Thorac Cardiovasc Surg*. 2004;128(1):83-91.
+
+[9] Myles PS, Smith JA, Painter T. Tranexamic Acid in Patients Undergoing Coronary-Artery Surgery. *N Engl J Med*. 2017;376(19):1893.
+
+[10] Zhang Y, Bai Y, Chen M, Zhou Y, Yu X, Zhou H, et al. The safety and efficiency of intravenous administration of tranexamic acid in coronary artery bypass grafting (CABG): a meta-analysis of 28 randomized controlled trials. *BMC Anesthesiol*. 2019;19(1):104.
+
+[11] Fillingham YA, Ramkumar DB, Jevsevar DS, Yates AJ, Shores P, Mullen K, et al. The Efficacy of Tranexamic Acid in Total Hip Arthroplasty: A Network Meta-analysis. *J Arthroplasty*. 2018;33(10):3083-9 e4.
+
+[12] Fillingham YA, Ramkumar DB, Jevsevar DS, Yates AJ, Shores P, Mullen K, et al. The Efficacy of Tranexamic Acid in Total Knee Arthroplasty: A Network Meta-Analysis. *J Arthroplasty*. 2018;33(10):3090-8 e1.
+
+[13] Adler Ma SC, Brindle W, Burton G, Gallacher S, Hong FC, Manelius I, et al. Tranexamic acid is associated with less blood transfusion in off-pump coronary artery bypass graft surgery: a systematic review and meta-analysis. *J Cardiothorac Vasc Anesth*. 2011;25(1):26-35.
+
+[14] Monaco F, Nardelli P, Pasin L, Barucco G, Mattioli C, Di Tomasso N, et al. Tranexamic acid in open aortic aneurysm surgery: a randomised clinical trial. *Br J Anaesth*. 2020;124(1):35-43.
+
+[15] Mina SH, Garcia-Perdomo HA. Effectiveness of tranexamic acid for decreasing bleeding in prostate surgery: a systematic review and meta-analysis. *Cent European J Urol*. 2018;71(1):72-7.
+
+[16] Wang Y, Liu S, He L. Prophylactic use of tranexamic acid reduces blood loss and transfusion requirements in patients undergoing cesarean section: A meta-analysis. *J Obstet Gynaecol Res*. 2019;45(8):1562-75.
+
+[17] Moggia E, Rouse B, Simillis C, Li T, Vaughan J, Davidson BR, et al. Methods to decrease blood loss during liver resection: a network meta-analysis. *Cochrane Database Syst Rev*. 2016;10:CD010683.
+
+[18] Collaborators WT. Effect of early tranexamic acid administration on mortality, hysterectomy, and other morbidities in women with post-partum haemorrhage (WOMAN): an international, randomised, double-blind, placebo-controlled trial. *Lancet*. 2017;389(10084):2105-16.
+
+[19] Devereaux PJ, Marcucci M, Painter TW et al. Tranexamic Acid in patients undergoing noncardiac surgery. *New Engl J Med*. 2022 May 26;386(21):1986-1997.
+
+[20] Heyns M, Knight P, Steve AK, Yeung JK. A Single Preoperative Dose of Tranexamic Acid Reduces Perioperative Blood Loss: A Meta-analysis. *Ann Surg*. 2021;273(1):75-81.
+
+[21] Zufferey PJ, Lanoiselee J, Graouch B, Vieille B, Delavenne X, Ollier E. Exposure-Response Relationship of Tranexamic Acid in Cardiac Surgery. *Anesthesiology*. 2021;134(2):165-78.
+
+[22] Faraoni D, Levy JH. Optimal Tranexamic Acid Dosing Regimen in Cardiac Surgery: What Are the Missing Pieces? *Anesthesiology*. 2021;134(2):143-6.
+
+[23] Xie J, Hu Q, Huang Q, Ma J, Lei Y, Pei F. Comparison of intravenous versus topical tranexamic acid in primary total hip and knee arthroplasty: An updated meta-analysis. *Thromb Res*. 2017;153:28-36.
+
+[24] Teoh WY, Tan TG, Ng KT, Ong KX, Chan XL, Hung Tsan SE, et al. Prophylactic Topical Tranexamic Acid Versus Placebo in Surgical Patients: A Systematic Review and Meta-analysis. *Ann Surg*. 2021;273(4):676-83.
+
+[25] Sun Q, Li J, Chen J, Zheng C, Liu C, Jia Y. Comparison of intravenous, topical or combined routes of tranexamic acid administration in patients undergoing total knee and hip arthroplasty: a meta-analysis of randomised controlled trials. *BMJ Open*. 2019;9(1):e024350.
+
+[26] Taeuber I, Weibel S, Herrmann E, Neef V, Schlesinger T, Kranke P, et al. Association of Intravenous Tranexamic Acid With Thromboembolic Events and Mortality: A Systematic Review, Meta-analysis, and Meta-regression. *JAMA Surg*. 2021:e210884.**Question : L'antibioprophylaxie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Pascal Alfonsi (Paris)*
+
+**R3.14 - Il est recommandé d'administrer une antibioprophylaxie en respectant les indications et modalités d'administration précisées dans les RFE SFAR « Antibioprophylaxie », afin de réduire les infections du site opératoire.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Les infections du site opératoire (ISO) concernent des centaines de millions de patients dans le monde chaque année [1]. Elles sont évitables dans la majorité des cas en respectant les règles d'hygiène et d'asepsie et en appliquant les mesures de prévention des ISO, dont l'administration d'un antibiotique à titre prophylactique pour certaines chirurgies. Le préambule de la RFE « Antibioprophylaxie en chirurgie et médecine interventionnelle » rappelle que « l'objectif de l'antibioprophylaxie est de s'opposer à la prolifération bactérienne afin de diminuer le risque d'infection du site de l'intervention » [2]. Les modalités d'administration (posologie en fonction du poids, délai avant l'incision chirurgicale, etc.) doivent être respectées pour que l'antibioprophylaxie soit la plus efficace possible [2].
+
+**Références :**
+
+- [1] Allegranzi B, Bischoff P, de Jonge S, Kubilay NZ, Zayed B, Gomes SM, Abbas M, Atema JJ, Gans S, van Rijen M, Boermeester MA, Egger M, Kluytmans J, Pittet D, Solomkin JS; WHO Guidelines Development Group. New WHO recommendations on preoperative measures for surgical site infection prevention: an evidence-based global perspective. *Lancet Infect Dis.* 2016 Dec;16(12):e276-e287.
+- [2] Martin C et al. RFE « Antibioprophylaxie en chirurgie et médecine interventionnelle » <https://sfar.org/wp-content/uploads/2018/07/Antibioprophylaxie-RFE-mise-a-jour-2018.pdf>
+
+**Question : Le monitoring de la curarisation a-t-il un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Experts : Jacques de Montblanc (Paris), Laura Ruscio (Paris)*
+
+**R3.15 - Il est recommandé de monitorer la curarisation et de respecter les recommandations des RFE SFAR « curarisation et décurarisation en anesthésie » concernant la décurarisation, afin de réduire les complications postopératoires.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Il n'y a pas de nouvelles données parues dans la littérature qui permettrait de remettre en cause les conclusions des RFE 2018 sur le sujet [1]. En évitant les complications liées à une curarisation résiduelle, le monitoring de la curarisation et les bonnes pratiques de décurarisation participent à la réhabilitation améliorée après chirurgie et pourraient même contribuer à l'amélioration de la durée de séjour, notamment des patients ambulatoires.
+
+**Références :**
+
+- [1] Plaud B, Baillard C, Bourgain J-L, et al. Guidelines on muscle relaxants and reversal in anaesthesia. *Anaesth Crit Care Pain Med France;* 2020; 39: 125–42## CHAMP 4 : Mesures postopératoires
+
+Coordonnateur : Anissa Belbachir
+
+**Question : La technique d'analgésie postopératoire a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+Expert : Anissa Belbachir (Paris)
+
+**R4.1 - Il est recommandé d'utiliser une analgésie multimodale qui associe des antalgiques non morphiniques et des anesthésiques locaux pour réaliser une épargne morphinique et permettre de réduire la durée de séjour et les complications postopératoires.**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Les recommandations de la SFAR sur la douleur postopératoire réactualisées en 2016 préconisent une stratégie analgésique multimodale [1]. Depuis, de nombreux travaux ont confirmé l'intérêt de cette stratégie.
+
+Le concept d'analgésie multimodale repose sur l'utilisation concomitante d'analgésiques, principalement non opioïdes, et de techniques d'analgésie locorégionale pour minimiser l'utilisation d'opioïdes et leurs effets indésirables [2]. Une étude prospective, multicentrique, randomisée en double aveugle vs. placebo en chirurgie colorectale a inclus 97 patients, parmi lesquels 47 ont reçu du paracétamol IV toutes les 6h en débutant 30 min avant l'intervention et 50 un placebo [3]. Dans le groupe traité par paracétamol, une diminution de la consommation d'opioïdes en postopératoire était observée, ainsi qu'une réduction de l'iléus et de la durée de séjour postopératoire. Une autre étude multicentrique, prospective, randomisée en double aveugle, réalisée chez des patients opérés d'une chirurgie majeure requérant une PCA morphine, a étudié l'association de 1, 2 ou 3 antalgiques non morphiniques (paracétamol, kétoprofène et néfopam) à la PCA morphine [4]. L'association de ces trois antalgiques à la PCA morphine permettait une épargne morphinique significative durant les 48 premières heures postopératoires et une meilleure analgésie durant les premières 24 heures, comparées à la morphine seule.
+
+L'analgésie multimodale typique débute en préopératoire, par l'association de paracétamol, d'un anti-inflammatoire non stéroïdien (AINS) ou d'un inhibiteur sélectif de la cyclooxygénase-2 (Cox2). L'utilisation peropératoire de l'analgésie locorégionale est préférentiellement associée à ces antalgiques et sera poursuivie en postopératoire. L'utilisation de ce protocole en chirurgie digestive et urologique, pour les résections hépatiques et pour les cystectomies, a permis d'observer une réduction de la durée du séjour de 1 à 2 jours, ainsi qu'une diminution des complications [2].
+
+Dans une étude de cohorte transversale rétrospective en chirurgie orthopédique (incluant 1540462 procédures, 512393 prothèses de hanche (PTH) et 1028069 prothèses de genoux (PTG)), l'analgésie multimodale a été utilisée dans 85,6 % des cas [5]. Les patients qui ont bénéficié d'une PTH et ayant reçu plus de 2 modalités analgésiques par rapport à ceux qui n'ont reçu que de la morphine avaient une tendance à la réduction des troubles respiratoires (-19%) et des complications digestives (-26%) postopératoires, une diminution de la prescription d'opioïdes (-18,5%) et une réduction de la durée de séjour (-12,1%). Dans le groupe PTG, les résultats étaient similaires. Les AINS et les inhibiteurs de la Cox-2 semblaient être les modalités de co-analgésie les plus efficaces.
+
+**Références :**- [1] Aubrun F, Nouette-Gaulain K, Fletcher D, Belbachir A, Beloeil H, Carles M, Cuvillon P, Dadure C, Lebuffe G, Marret E, Martinez V, Olivier M, Sabourdin N, Zetlaoui P. Revision of expert panel's guidelines on postoperative pain management. *Anaesth Crit Care Pain Med.* 2019 Aug;38(4):405-411. <https://sfar.org/reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire/>
+- [2] Elizabeth C. Wick; Michael C. Grant; Christopher L. Wu. Postoperative Multimodal Analgesia Pain Management With Nonopioid Analgesics and Techniques A Review . *JAMA Surg.* May 31, 2017.
+- [3] AH. Aryaie, S Lalezari, WK Sergent, Y Puckett, C Juergens, C Ratermann, C Ogg. Decreased opioid consumption and enhance recovery with the addition of IV Acetaminophen in colorectal patients: a prospective, multi-institutional, randomized, double-blinded, placebo-controlled study (DOCIVA study). *Surgical Endoscopy* :11 January 2018
+- [4] H. Beloeil, P. Albaladejo, A. Sion, M.Durand, V.Martinez, S. Lasocki, E. Futier, D. Verzili, V. Minville, C. Fessenmeyer, A. Belbachir, F. Aubrun, A. Renault, E. Bellissant, and the OCTOPUS group#. Multicentre, prospective, double-blind, randomized controlled clinical trial comparing different non-opioid analgesic combinations with morphine for postoperative analgesia: the OCTOPUS study. *British Journal of Anaesthesia*, 122 (6): e98ee106 (2019).
+- [5] SG. Memtsoudis, J Poeran, N Zubizarreta, C Cozowicz, EE Mörwald, ER. Mariano, M Mazumdar. Association of Multimodal Pain Management Strategies with Perioperative Outcomes and Resource Utilization A Population-based Study. *Anesthesiology.* 2018 May;128(5):891-902
+
+**Question : L'utilisation d'une thromboprophylaxie a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Anne Godier (Paris)*
+
+**R4.2 - Il est recommandé d'implémenter des protocoles de thromboprophylaxie pour réduire le risque d'événements thromboemboliques veineux et de complications postopératoires.**
+
+**Ces protocoles incluent la déambulation précoce, la thromboprophylaxie médicamenteuse et les compressions pneumatiques intermittentes dont les indications dépendent du risque thromboembolique veineux lié à la chirurgie et au patient.**
+
+**GRADE 1+ (Accord Fort)**
+
+**Argumentaire :** L'amélioration des techniques chirurgicales et anesthésiques et la réduction de la durée de séjour hospitalier ont globalement réduit le risque d'événement thromboembolique veineux (ETEV) [1-4]. Cela conduit à envisager des protocoles de thromboprophylaxie allégés, plus courts ou reposant sur des molécules antithrombotiques moins puissantes. Cependant, peu d'études de méthodologie rigoureuse ont été menées pour comparer les schémas classiques de thromboprophylaxie à des schémas allégés [5]. De plus, la RAC concerne des chirurgies très diverses, associées à un risque d'ETEV variable, pour des patients ayant eux-même des facteurs de risque thromboembolique veineux variables, et il n'est donc pas possible de proposer un schéma de thromboprophylaxie universel.
+
+Cependant, l'implémentation de protocoles de thromboprophylaxie dans le cadre de la réhabilitation améliorée après chirurgie programmée ou urgente a permis une augmentation des prescriptions de cette prophylaxie [6-11]. Elle s'est associée dans des grandes études de cohorte à une diminution des ETEV [12] et des complications modérées à sévères [6,7]. Il convient de noter que les chaussettes et les bas de contention élastiques n'ont plus leur place dans ces protocoles, qu'ils soient associés ou non à une thromboprophylaxie médicamenteuse. En cas de contre-indication à la thromboprophylaxie médicamenteuse, une prophylaxie mécanique doit être utilisée. La compression pneumatique intermittente est alors préférable aux contentions élastiques [1].Deux types de facteurs de risque thromboembolique veineux sont associés à la survenue d'ETEV et conduisent à préférer une thromboprophylaxie classique, ou renforcée, à un schéma allégé :
+
+- - Les facteurs de risque thromboembolique veineux majeurs liés au patient [1-3], qui incluent : un antécédent personnel d'évènement thromboembolique veineux, une thrombophilie majeure (déficit en antithrombine, protéine C ou S ; mutation du Facteur V homozygote ou du Facteur II homozygote ou double hétérozygote), âge >70 ans, obésité ( $IMC \geq 30 \text{ kg/m}^2$ ), cancer actif (traitement au cours des 6 derniers mois), insuffisance cardiaque ou respiratoire, contraception orale oestrogénique et traitement hormonal par voie orale de la ménopause, déficit neurologique < 1 mois (AVC, lésion médullaire), post-partum (< 2 mois), insuffisance rénale (clairance de la créatinine quel que soit l'estimateur < 30 mL/min), patient ayant reçu de l'érythropoïétine (EPO) en préopératoire.
+- - Les facteurs de risque liés à un parcours de RAC contrarié : pour un acte chirurgical donné, les patients ayant un temps opératoire plus long que la moyenne, ne déambulant pas dans les 24 premières heures ou ayant une hospitalisation plus longue que la moyenne ont un risque augmenté d'ETEV [2,3].
+
+#### Références :
+
+1. [1] Venclauskas L, Llau JV, Jenny JY, Kjaersgaard-Andersen P, Jans Ø; ESA VTE Guidelines Task Force. European guidelines on perioperative venous thromboembolism prophylaxis: Day surgery and fast-track surgery. *Eur J Anaesthesiol*. 2018;35:134-138.
+2. [2] Commentaires et propositions du Groupe d'Intérêt en Hémostase Périopératoire (GIHP) sur les recommandations de la Société Européenne d'Anesthésie : «European Guidelines on perioperative venous thromboembolism prophylaxis » (12.12.21 <https://sfar.org/commentaires-et-propositions-du-groupe-dinteret-en-hemostase-perioperatoire-gihp-sur-les-recommandations-de-la-societe-europeenne-danesthesie-european-guidelines-on-periop/>)
+3. [3] Jørgensen CC, Kehler H; Lundbeck Foundation Centre for Fast-track Hip and Knee replacement collaborative group. Early thromboembolic events  $\leq 1$  week after fast-track total hip and knee arthroplasty. *Thromb Res*. 2016 Feb;138:37-42. doi: 10.1016/j.thromres.2015.12.025. Epub 2015 Dec 29. PMID: 26826506.
+4. [4] Vendler MMI, Haidari TA, Waage JE, Kleif J, Kristensen B, Gögenur I, Bertelsen CA; Copenhagen cOmplete Mesocolic Excision Study group (COMES). Incidence of venous thromboembolic events in enhanced recovery after surgery for colon cancer: a retrospective, population-based cohort study. *Colorectal Dis*. 2017 Nov;19(11):O393-O401. doi: 10.1111/codi.13910. PMID: 28980383.
+5. [5] Anderson DR, Dunbar M, Murnaghan J, Kahn SR, Gross P, Forsythe M, Pelet S, Fisher W, Belzile E, Dolan S, Crowther M, Bohm E, MacDonald SJ, Gofton W, Kim P, Zukor D, Pleasance S, Andreou P, Doucette S, Theriault C, Abianui A, Carrier M, Kovacs MJ, Rodger MA, Coyle D, Wells PS, Vendittoli PA. Aspirin or Rivaroxaban for VTE Prophylaxis after Hip or Knee Arthroplasty. *N Engl J Med*. 2018 Feb 22;378(8):699-707. doi: 10.1056/NEJMoa1712746. PMID: 29466159.
+6. [6] Ripollés-Melchor J, Abad-Motos A, Díez-Remesal Y, Aseguinolaza-Pagola M, Padín-Barreiro L, Sánchez-Martín R, Logroño-Egea M, Catalá-Bauset JC, García-Orallo S, Bisbe E, Martín N, Suárez-de-la-Rica A, Cuéllar-Martínez AB, Gil-Trujillo S, Estupiñán-Jiménez JC, Villanova-Baraza M, Gil-Lapetra C, Pérez-Sánchez P, Rodríguez-García N, Ramiro-Ruiz A, Farré-Tebar C, Martínez-García A, Arauzo-Pérez P, García-Pérez C, Abad-Gurumeta A, Miñambres-Villar MA, Sánchez-Campos A, Jiménez-López I, Tena-Guerrero JM, Marín-Peña O, Sánchez-Merchante M, Vicente-Gutiérrez U, Cassinello-Ogea MC, Ferrando-Ortolá C, Berges-Gutiérrez H, Fernanz-Antón J, Gómez-Ríos MA, Bordonaba-Bosque D, Ramírez-Rodríguez JM, García-Erce JA, Aldecoa C; Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol in Elective Total Hip and Knee Arthroplasty (POWER2) Study Investigators Group for the Spanish Perioperative Audit and Research Network (REDGERM). Association Between Use of Enhanced Recovery After Surgery Protocol and Postoperative Complications in Total Hip and Knee Arthroplasty in the Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol in Elective Total Hip and Knee Arthroplasty Study (POWER2). *JAMA Surg*. 2020 Apr 1;155(4):e196024. doi: 10.1001/jamasurg.2019.6024. Epub 2020 Apr 15. PMID: 32049352; PMCID: PMC7042927.
+7. [7] Ripollés-Melchor J, Ramírez-Rodríguez JM, Casans-Francés R, Aldecoa C, Abad-Motos A, Logroño-Egea M, García-Erce JA, Camps-Cervantes Á, Ferrando-Ortolá C, Suarez de la Rica A, Cuellar-Martínez A, Marmaña-Mezquita S, Abad-Gurumeta A, Calvo-Vecino JM; POWER Study Investigators Group for the SpanishPerioperative Audit and Research Network (REDGERM). Association Between Use of Enhanced Recovery After Surgery Protocol and Postoperative Complications in Colorectal Surgery: The Postoperative Outcomes Within Enhanced Recovery After Surgery Protocol (POWER) Study. JAMA Surg. 2019 Aug 1;154(8):725-736. doi: 10.1001/jamasurg.2019.0995. PMID: 31066889; PMCID: PMC6506896.
+
+- [8] Catarci M, Ruffo G, Viola MG, Pirozzi F, Delrio P, Borghi F, Garulli G, Baldazzi G, Marini P, Sica G; Italian ColoRectal Anastomotic Leakage (iCral) study group. ERAS program adherence-institutionalization, major morbidity and anastomotic leakage after elective colorectal surgery: the iCral2 multicenter prospective study. Surg Endosc. 2021 Sep 14. doi: 10.1007/s00464-021-08717-2. Epub ahead of print. PMID: 34519893.
+- [9] Kuster Uyeda MGB, Batista Castello Girão MJ, Carbone ÉDSM, Machado Fonseca MC, Takaki MR, Ferreira Sartori MG. Fast-track protocol for perioperative care in gynecological surgery: Cross-sectional study. Taiwan J Obstet Gynecol. 2019 May;58(3):359-363. doi: 10.1016/j.tjog.2019.02.010. PMID: 31122525.
+- [10] Wang Y, Liu B, Zhao T, Zhao B, Yu D, Jiang X, Ye L, Zhao L, Lv W, Zhang Y, Zheng T, Xue Y, Chen L, Sankey E, Chen L, Wu Y, Li M, Ma L, Li Z, Li R, Li J, Yan J, Wang S, Zhao H, Sun X, Gao G, Qu Y, He S. Safety and efficacy of a novel neurosurgical enhanced recovery after surgery protocol for elective craniotomy: a prospective randomized controlled trial. J Neurosurg. 2018 Jun 1;112(1):1-12. doi: 10.3171/2018.1.JNS171552. Epub ahead of print. PMID: 29932379.
+- [11] Purushothaman V, Priyadarshini P, Bagaria D, Joshi M, Choudhary N, Kumar A, Kumar S, Gupta A, Mishra B, Mathur P, Sagar S. Enhanced recovery after surgery (ERAS) in patients undergoing emergency laparotomy after trauma: a prospective, randomized controlled trial. Trauma Surg Acute Care Open. 2021 Aug 27;6(1):e000698. doi: 10.1136/tsaco-2021-000698. PMID: 34527811; PMCID: PMC8404432.
+- [12] Chiang HA, Cheng PJ, Speed JM, Steinberg J, Najjar PA, Steele GS, Trinh QD, Eswara JR, Chang SL, Kibel AS, Stopfkuchen-Evans MF, Preston MA. Implementation of a Perioperative Venous Thromboembolism Prophylaxis Program for Patients Undergoing Radical Cystectomy on an Enhanced Recovery After Surgery Protocol. Eur Urol Focus. 2020 Jan 15;6(1):74-80. doi: 10.1016/j.euf.2018.08.025. Epub 2018 Sep 15. PMID: 30228076.
+
+**Question : La mise en œuvre des mesures postopératoires d'optimisation dès la SSPI a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Experts : Laurent Zieleskiewicz (Marseille), Frédéric Le Sache (Paris)*
+
+**R4.3 - Il est probablement recommandé de mettre en place les mesures du programme d'optimisation périopératoire dès la SSPI, notamment la reprise des boissons, la déambulation, et le retrait des cathéters et de sonde urinaire, afin de diminuer la durée de séjour et les complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** Il n'existe pas à ce jour d'étude prospective randomisée évaluant l'impact de la RAC dès la SSPI sur la durée de séjour ou la survenue de complications. Cependant, deux études observationnelles de type avant-après retrouvent une association entre la déambulation ultra-précoce dès la SSPI (80 m) et une diminution de la durée de séjour et des pneumonies postopératoires après chirurgie de résection pulmonaire [1,2].
+
+La reprise précoce des apports alimentaires (liquides clairs) est recommandée par la société européenne d'anesthésie depuis 2012. Selon ces recommandations, les patients sont autorisés à boire selon leur soif dès le postopératoire immédiat. Il n'existe aucun délai minimal à respecter entre le réveil du patient et la boisson en postopératoire, dès lors que le patient a soif. Ce niveau élevé de recommandation ne reposait toutefois pas sur des données bibliographiques robustes [2]. En 2018, Wu et al., ont publié une étude randomisée ayant inclus 1735 patients évaluant la reprise précoce de la boisson après chirurgie de cholécystectomie laparoscopique. Après administration de liquide clair dans les minutes suivant le réveil complet(3 mL/kg), les auteurs ont rapporté une diminution de la fréquence des nausées vomissements, de l'inconfort laryngé, de la soif, et une augmentation de la satisfaction [4]. En 2020, la même équipe a publié avec la même méthodologie une étude randomisée après anesthésie générale chez 2000 enfants. Les patients qui buvaient en salle de surveillance post-interventionnelle (5 mL/kg) dans les instants qui suivaient leur réveil, par rapport au groupe contrôle autorisé à boire à H4, avaient un niveau de satisfaction plus élevé et un ressenti de la soif moindre. La fréquence de survenue des NVPO ne différait pas entre les 2 groupes [5].
+
+#### Références :
+
+1. [1] Khandhar SJ, Schatz CL, Collins DT, Graling PR, Rosner CM, Mahajan AK et al. Thoracic enhanced recovery with ambulation after surgery: a 6-year experience. Eur J Cardiothorac Surg. 2018;53:1192-1198.
+2. [2] Pastene B, Labarriere A, Lopez A, Charvet A, Culver A, Fiocchi D, Cluzel A, Brioude G, Einav S, Tankel J, Hamidou Z, D'Journio XB, Thomas P, Leone M, Zieleskiewicz L; GRACE Association. Ultra-early initiation of postoperative rehabilitation in the post-anaesthesia care unit after major thoracic surgery: case-control study. BJS Open. 2022 May 2;6(3):zrac063
+3. [3] Smith I, Kranke P, Murat I, Smith A, O'Sullivan G, Søreide E, Spies C, in't Veld B; European Society of Anaesthesiology. Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology. Eur J Anaesthesiol. 2011 Aug;28(8):556-69. doi: 10.1097/EJA.0b013e3283495ba1. PMID: 21712716.
+4. [4] Wu M, Yang L, Zeng X, Wang T, Jia A, Zuo Y, Yin X. Safety and Feasibility of Early Oral Hydration in the Postanesthesia Care Unit After Laparoscopic Cholecystectomy: A Prospective, Randomized, and Controlled Study. J Perianesth Nurs. 2019 Apr;34(2):425-430. doi: 10.1016/j.jopan.2018.06.093. Epub 2018 Oct 17. PMID: 30340960.
+5. [5] Yin X, Zeng X, Wang T, Dong B, Wu M, Jia A, Ye L. Early versus delayed postoperative oral hydration in children following general anesthesia: a prospective randomized trial. BMC Anesthesiol. 2020 Jul 18;20(1):174. doi: 10.1186/s12871-020-01086-8. PMID: 32682394; PMCID: PMC7368717.
+
+### Question : La reprise d'une alimentation orale précoce a-t-elle un impact sur la durée de séjour ou la survenue de complications ?
+
+Expert : Frédéric Le Sache (Paris)
+
+**R4.4 - Il est recommandé de débuter une alimentation orale dans les 24 premières heures postopératoires, afin de limiter la durée de séjour et la survenue de complications, y compris après chirurgie avec anastomoses digestives (hors chirurgie carcinologique de l'oropharynx et en l'absence de contre-indication chirurgicale).**
+
+**GRADE 1+ (Accord fort)**
+
+**Argumentaire :** Deux méta-analyses du groupe Cochrane ont été publiées sur le sujet en prenant un seuil à 24 heures pour définir une reprise précoce de l'alimentation pour des chirurgies à risques de complications digestives. Une première, conduite en gynécologie, principalement carcinologique (n=631 patientes - 5 RCT), montrait une absence de différence sur les nausées-vomissements postopératoires, sur la survenue d'iléus postopératoire ou le recours à une sonde naso-gastrique. En revanche, la reprise du transit était plus rapide dans le groupe réalimenté dans les 24 premières heures postopératoire, avec une durée de séjour plus courte de -0,9 jour (-1,5 – -0,3) - p=0,003). Les complications infectieuses étaient moins fréquentes dans le groupe réalimenté dans les 24 premières heures (RR 0,20 (0,05-0,73) - p=0,02) [1]. La seconde méta-analyse conduite en chirurgie viscérale (n=1437 patients – 17 RCT) retrouvait une durée moyenne de séjour réduite de -2 jours (-3 – -0,9) (p<0,001) chez les patients alimentés dans les 24 premières heures. La survenue de complications postopératoires n'était pas modifiée, que ce soit pour les complications digestives de type abcès intra-péritonéal (RR 1,00 (0,26-3,80)) ou lâchage d'anastomose (RR 0,78 (0,38-1,61)), les pneumopathies (RR 0,88 (0,32-2,42)) ou la mortalité (RR 0,56 (0,21-1,52)) [2].
+
+D'autres méta-analyses sur ce sujet ont également été publiées. En 2016, une méta-analyse évaluant l'alimentation précoce rapportait également une diminution de la durée de séjour (-1,7 jours (-1,25 – -2,2) -  $p<0,01$ ), sans différence sur l'incidence des désunions anastomotiques, des pneumopathies, de la nécessité de recourir à une sonde naso-gastrique, des réinterventions, des réadmissions et de la mortalité [3]. En 2021, 2 méta-analyses ont été publiées. La première s'est intéressée à l'efficacité et la sécurité d'une reprise précoce de la voie orale (<24 heures) après chirurgie carcinologique digestive haute (oesophagectomies, gastrectomies, tumeurs duodénales et pancréatectomies) chez 2100 patients inclus dans 15 études dont 1493 patients étaient inclus dans 12 essais randomisés [4]. Les apports des 48 premières heures étaient essentiellement des liquides clairs. Le groupe "alimentation précoce" ne présentait pas de différence de complications postopératoires (18,9% vs. 21,4%,  $p=0,38$ ). En revanche, une diminution de l'incidence des pneumopathies postopératoires était objectivée dans le groupe alimentation précoce, de même qu'une réduction de la durée de séjour de -1,9 jours (-2,4 – -1,4) ( $p<0,01$ ) [4]. La deuxième méta-analyse s'est uniquement intéressée aux gastrectomies avec des conclusions similaires sur la durée de séjour (-1,5 jours (-1,9 – -1,1) -  $p<0,001$ ) et une absence de différence observée concernant les complications postopératoires [5]. L'alimentation précoce était par ailleurs associée à une diminution des NVPO et de l'asthénie ( $n=138$ , 2 études). Enfin, une revue systématique incluant 2517 patients inclus dans des études de chirurgie carcinologique oesophagienne et gastrique a rapporté en 2021 une absence de différence sur la survenue des complications postopératoires, et une diminution de la durée de séjour dans le groupe "réalimentation précoce" dans 13 des 14 études considérées [6].
+
+Une exception à cette mesure pourrait être la chirurgie carcinologique ORL. En effet, la reprise précoce de la voie orale pourrait être associée dans cette chirurgie à une augmentation des complications postopératoires. Une méta-analyse ayant inclus 20 études (dont 14 RCT) rassemblant 1883 patients, a montré une plus grande fréquence des fistules pharyngo-cutanées chez des patients avec une réalimentation précoce dans les 7 premiers jours (RR 1,56 (1,15-2,11) et RR 1,40 (0,85-2,30) si on ne considère que les 14 RCT) [7]. Une méta-analyse publiée en 2021 (14 publications - 4 RCT) et reprenant 9 des études déjà analysées dans la précédente méta-analyse met en évidence des résultats différents avec une absence de différence sur la survenue de fistules pharyngo-cutanées mais en revanche une diminution de la durée de séjour chez les patients réalimentés précocement (à 72 heures post-opératoires) par rapport aux patients réalimentés tardivement (à partir de 7 jours) (différence moyenne standardisée -0,8 jour (-1,2 – -0,4) -  $p=0,003$ ) [8].
+
+#### Références :
+
+1. [1] Charoenkwan K, Matovinovic E. Early versus delayed oral fluids and food for reducing complications after major abdominal gynaecologic surgery. Cochrane Database Syst Rev. 2014 Dec 12;2014(12):CD004508. doi: 10.1002/14651858.CD004508.pub4. PMID: 25502897; PMCID: PMC7044077.
+2. [2] Herbert G, Perry R, Andersen HK, Atkinson C, Penfold C, Lewis SJ, Ness AR, Thomas S. Early enteral nutrition within 24 hours of lower gastrointestinal surgery versus later commencement for length of hospital stay and postoperative complications. Cochrane Database Syst Rev. 2019 Jul 22;7(7):CD004080. doi: 10.1002/14651858.CD004080.pub4. PMID: 31329285; PMCID: PMC6645186.
+3. [3] Willcutts KF, Chung MC, Erenberg CL, Finn KL, Schirmer BD, Byham-Gray LD. Early Oral Feeding as Compared With Traditional Timing of Oral Feeding After Upper Gastrointestinal Surgery: A Systematic Review and Meta-analysis. Ann Surg. 2016 Jul;264(1):54-63. doi: 10.1097/SLA.0000000000001644. PMID: 26779983.
+4. [4] Hao T, Liu Q, Lv X, Qiu J, Zhang HR, Jiang HP. Efficacy and safety of early oral feeding in postoperativepatients with upper gastrointestinal tumor: A systematic review and meta-analysis. World J Gastrointest Surg. 2021 Jul 27;13(7):717-733. doi: 10.4240/wjgs.v13.i7.717. PMID: 34354804; PMCID: PMC8316844.
+
+[5] He H, Ma Y, Zheng Z, Deng X, Zhu J, Wang Y. Early versus delayed oral feeding after gastrectomy for gastric cancer: A systematic review and meta-analysis. Int J Nurs Stud. 2021 Oct 28;126:104120. doi: 10.1016/j.ijnurstu.2021.104120. Epub ahead of print. PMID: 34910976.
+
+[6] Carmichael L, Rocca R, Laing E, Ashford P, Collins J, Jackson L, McPherson L, Pendergast B, Kiss N. Early postoperative feeding following surgery for upper gastrointestinal cancer: A systematic review. J Hum Nutr Diet. 2021 Jun 5. doi: 10.1111/jhn.12930. Epub ahead of print. PMID: 34089207.
+
+[7] Singh R, Karantanis W, Fadhil M, Dow C, Fuzi J, Robinson R, Jacobson I. Meta-analysis on the rate of pharyngocutaneous fistula in early oral feeding in laryngectomy patients. Am J Otolaryngol. 2021 Jan-Feb;42(1):102748. doi: 10.1016/j.amjoto.2020.102748. Epub 2020 Oct 2. PMID: 33068955.
+
+[8] Yi X, Hu C, Peng Y, Wen Z, Li X, Ye L, Huang Q. Meta-analysis on the safety and efficacy of early oral feeding after total laryngectomy. J BUON. 2021 Sep-Oct;26(5):2019-2025. PMID: 34761612
+
+### **Question : La déambulation précoce a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Laurent Zieleskiewicz (Marseille)*
+
+**R4.5.1 - Il est recommandé de faire déambuler le patient idéalement dans les premières 12 heures et dans tous les cas avant la 24<sup>e</sup> heure postopératoire pour réduire la durée de séjour.**
+
+**GRADE 1+ (Accord fort)**
+
+**R4.5.2 - Il est probablement recommandé de faire déambuler le patient idéalement dans les premières 12 heures et dans tous les cas avant la 24<sup>e</sup> heure postopératoire pour réduire les complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** Le lever précoce inclut les termes déambulation précoce (« early ambulation ») ou mobilisation précoce (« early mobilisation »). L'analyse de la littérature est rendue difficile par deux paramètres. D'une part la définition de la « précocité » de la déambulation est très variable selon les études, allant de 1 heure à plusieurs jours. Cependant, la définition la plus fréquemment retrouvée et retenue dans cette recommandation de la déambulation précoce est une déambulation le jour de la chirurgie ou dans les 12 premières heures suivant la chirurgie [1-4]. La distance minimale définissant la déambulation étant également mal codifiée, les experts de cette RFE retiennent arbitrairement qu'une distance de 20 à 80 m le jour de l'intervention est souhaitable. De plus, il existe des résultats variables en fonction de la typologie des patients et du type de chirurgie rendant plus difficile l'élaboration de recommandations générales.
+
+A la lecture de la littérature depuis 2015 sur le sujet, il apparaît que la déambulation précoce est sûre et non associée à une augmentation des complications [1]. La déambulation précoce a été évaluée après un grand nombre de chirurgies : orthopédique, abdominale, thoracique, rachidienne, médullaire, cardiaque, etc. De plus, même certaines situations à risques telles que la rachianesthésie, la ponction artérielle pour angiographie ou l'hospitalisation en réanimation ne semblent pas être des contre-indications à la déambulation précoce [5-7]. La principale complication décrite dans la littérature est l'hypotension orthostatique avec une incidence allant 14 à 40%, pouvant empêcher la déambulation précoce dans environ 5% des cas [5].
+
+La déambulation précoce (quelle que soit la définition retenue) est indépendamment associée àune diminution de la durée de séjour dans un très grand nombre d'études rétrospectives ou prospectives observationnelles, quelle que soit la spécialité chirurgicale, le caractère urgent ou programmé de la chirurgie, ou encore le type de patient [2,8]. On retiendra notamment, l'étude de Daskivich et al. qui montre, sur une cohorte de chirurgie majeure thoracique, abdominale, gynécologique, urologique et orthopédique, une association inverse entre nombre de pas effectués et la probabilité d'avoir une durée de séjour prolongée [10]. Le nombre de 1000 pas dans les 48 heures après la chirurgie était associé avec une probabilité très haute de diminution de la durée de séjour. En orthopédie, une méta-analyse de 5 études randomisées a conclu que la déambulation précoce après prothèse totale de hanche ou de genou permettait une réduction de la durée de séjour sans augmentation des complications [11]. En chirurgie abdominale, une étude randomisée rapporte que la déambulation précoce entraîne également une diminution de la durée de séjour sans majoration des complications [12].
+
+L'association indépendante entre le délai avant déambulation précoce et la diminution des complications post-opératoires est également retrouvée pour de nombreuses spécialités chirurgicales dans des études rétrospectives observationnelles. En chirurgie lombaire, une étude rétrospective sur plus de 23000 patients retrouvait que la marche à J0 était indépendamment associée avec une réduction de la durée de séjour, des infections urinaires, des iléus et des réadmissions [3]. Une analyse rétrospective d'une cohorte de 445 patients après chirurgie maxillo-faciale retrouve également une association indépendante entre déambulation précoce et diminution des complications et de la durée de séjour [13]. En chirurgie digestive, une déambulation au-delà de 48 heures postopératoire est associée à une augmentation des complications infectieuses [14]. Une cohorte de 1170 patients de chirurgie colo-rectale retrouvait une association indépendante entre la réalisation de 6h de mobilisation le jour de la chirurgie et une diminution des complications postopératoires de bas et de haut grade selon la classification de Clavien-Dindo [15].
+
+L'influence de la déambulation précoce sur le pronostic postopératoire est probablement plus importante chez les patients âgés, obèses ou comorbidés. Une étude randomisée en post opératoire de chirurgie d'arthroplastie de la hanche retrouvait que la déambulation à J0 était associée à une diminution de la durée de séjour, des vertiges, des vomissements et de la douleur [2]. Dans une étude de cohorte incluant 500 patients âgés opérés de fractures du col du fémur, le délai avant déambulation était indépendamment associé à la mortalité à 1 an avec un seuil de surmortalité à 10 jours [16]. Dans une autre étude de cohorte portant sur 15000 patients opérés de fracture de la hanche, le fait d'être opéré après 24 heures d'immobilisation était un facteur indépendant de mortalité (OR 1,46 (1,25-1,70) -  $p < 0,001$ ) [17]. Dans une étude publiée en 2021, toujours après chirurgie pour fracture de hanche, la déambulation plus de 3 jours après la chirurgie était associée à une surmortalité à J30 avec un OR à 3.87 (1,2-12,5), indépendamment de l'âge et des comorbidités [18]. En chirurgie cardio-thoracique, la déambulation précoce diminuait les atélectasies, elles-mêmes associées à la survenue ultérieure de pneumonies [19-21]. En postopératoire de chirurgie de résection pulmonaire, la reprise ultra-précoce de la marche (<4h) est faisable et associée à une durée de séjour plus courte [22].
+
+Enfin, plusieurs études observationnelles ont montré la faisabilité de la déambulation ultra-précoce en SSPI ou en unité de soins critiques, moins de 4 heures, voire moins de 1 heure après la chirurgie [23]. Une étude observationnelle de type avant-après retrouvait une association entre la déambulation ultra-précoce dès la SSPI (80m) et une diminution des pneumonies post-opératoires après chirurgie de résection pulmonaire [24].Au total, l'effet de la déambulation précoce sur la durée de séjour paraît bien documenté et validé par des études randomisées concordantes. Concernant l'impact de la déambulation précoce sur la survenue de complications, si l'association est quasi certaine, le rapport de cause à effet est probable mais plus difficile à démontrer. Un tel lien n'est notamment pas retrouvé dans la principale méta-analyse mettant en évidence une diminution de la durée de séjour [11]. L'effet est probablement variable en fonction du délai, du type de patient et de la distance réalisée. De futures études sont nécessaires pour préciser ces paramètres et permettre une meilleure personnalisation de la déambulation précoce après chirurgie [25]. Il apparaît souhaitable de prévoir du personnel (kinésithérapie) dédié à la déambulation précoce des patients.
+
+#### Références :
+
+1. [1] Okamoto T, Ridley RJ, Edmondston SJ, Visser M, Headford J, Yates PJ. Day-of-Surgery Mobilization Reduces the Length of Stay After Elective Hip Arthroplasty. *J Arthroplasty*. 2016 Oct;31(10):2227-30
+2. [2] Oberfeld J, von Hertzberg-Boelch SP, Weissenberger M, Holzapfel BM, Rudert M, Jakuscheit A. Effect of Mobilization on the Day of Surgery After Total Hip Arthroplasty in Elderly, Obese, and Severely Diseased Patients. *J Arthroplasty*. 2021;36:3686-3691.
+3. [3] Zakaria HM, Bazydlo M, Schultz L, Abdulhak M, Nerenz DR, Chang V, et al. Ambulation on Postoperative Day #0 Is Associated With Decreased Morbidity and Adverse Events After Elective Lumbar Spine Surgery: Analysis From the Michigan Spine Surgery Improvement Collaborative (MSSIC). *Neurosurgery*. 2020;87:320-328.
+4. [4] Castle H, Dragovic M, Waterreus A. Mobilization after joint arthroplasty surgery: who benefits from standing within 12 hours? *ANZ J Surg*. 2021 Jun;91(6):1271-1276
+5. [5] Aljoghaiman M, Ellenbogen Y, Takroni R, Yang K, Farrokhyar F, Reddy K. Safety of Early Mobilization in Patients With Intraoperative Cerebrospinal Fluid Leak in Minimally Invasive Spine Surgery: A Case Series. *Oper Neurosurg (Hagerstown)*. 2021;21:1-5.
+6. [6] Tonetti DA, Ferari C, Perez J, Ozpinar A, Jadhav AP, Jovin TG, Gross BA, Jankowitz BT. Validation of an extrinsic compression and early ambulation protocol after diagnostic transfemoral cerebral angiography: a 5-year prospective series. *J Neurointerv Surg*. 2019;11:837-840.
+7. [7] Talakoub R, Golparvar M, Arshi R. The effect of early ambulation on the incidence of neurological complication after spinal anesthesia with lidocaine. *J Res Med Sci*. 2015;20:383-6.
+8. [8] Nakada T, Shirai S, Oya Y, Takahashi Y, Sakakura N, Ohtsuka T et al. Four Hours postoperative Mobilization is Feasible After Thoracoscopic Anatomical Pulmonary Resection. *World J Surg*. 2021;45:631-637.
+9. [9] Pederson JL, Padwal RS, Warkentin LM, Holroyd-Leduc JM, Wagg A, Khadaroo RG. The impact of delayed mobilization on post-discharge outcomes after emergency abdominal surgery: A prospective cohort study in older patients. *PLoS One*. 2020 Nov 6;15:e0241554.
+10. [10] Daskivich TJ, Houman J, Lopez M, Luu M, Fleshner P, Zaghian K et al. Association of Wearable Activity Monitors With Assessment of Daily Ambulation and Length of Stay Among Patients Undergoing Major Surgery. *JAMA Netw Open*. 2019;2:e187673.
+11. [11] Guerra ML, Singh PJ, Taylor NF. Early mobilization of patients who have had a hip or knee joint replacement reduces length of stay in hospital: a systematic review. *Clin Rehabil*. 2015;29:844-54.
+12. [12] Ni CY, Wang ZH, Huang ZP, Zhou H, Fu LJ, Cai H, Huang XX et al. Early enforced mobilization after liver resection: A prospective randomized controlled trial. *Int J Surg*. 2018;54:254-258.
+13. [13] Twomey R, Culos-Reed SN, Daun JT, Ferber R, Dort JC. Wearable activity trackers and mobilization after major head and neck cancer surgery: You can't improve what you don't measure. *Int J Surg*. 2020;84:120-124.
+14. [14] Nishijima M, Baba H, Murotani K, Tokai R, Watanabe T, Hirano K et al. Early ambulation after general and digestive surgery: a retrospective single-center study. *Langenbecks Arch Surg*. 2020;405:613-622.
+15. [15] Grass F, Pache B, Martin D, Addor V, Hahnloser D, Demartines N et al. Feasibility of early postoperative mobilisation after colorectal surgery: A retrospective cohort study. *Int J Surg*. 2018;56:161-166.
+16. [16] Aprato A, Bechis M, Buzzzone M, Bistolfi A, Daghino W, Massè A. No rest for elderly femur fracture patients: early surgery and early ambulation decrease mortality. *J Orthop Traumatol*. 2020 Aug;21:12.
+17. [17] Ferris H, Brent L, Coughlan T. Early mobilisation reduces the risk of in-hospital mortality following hip fracture. *Eur Geriatr Med*. 2020;11:527-533.
+18. [18] Heiden JJ, Goodin SR, Mormino MA, Siebler JC, Putnam SM, Lyden ER, Tao MA. Early Ambulation After HipFracture Surgery Is Associated With Decreased 30-Day Mortality. J Am Acad Orthop Surg. 2021;29(5):e238-e242.
+
+- [19] Moradian ST, Najafloo M, Mahmoudi H, Ghasi MS. Early mobilization reduces the atelectasis and pleural effusion in patients undergoing coronary artery bypass graft surgery: A randomized clinical trial. J Vasc Nurs. 2017;35:141-145.
+- [20] Zieleskiewicz L, Papinko M, Lopez A, Baldovini A, Fiocchi D, Meresse Z et al. Lung Ultrasound Findings in the Postanesthesia Care Unit Are Associated With Outcome After Major Surgery: A Prospective Observational Study in a High-Risk Cohort. Anesth Analg. 2021;132:172-181.
+- [21] Dransart-Rayé O, Roldi E, Zieleskiewicz L, Guinot PG, Mojoli F, Mongodi S et al. Lung ultrasound for early diagnosis of postoperative need for ventilatory support: a prospective observational study. Anaesthesia. 2020;75:202-209.
+- [22] Kuroda H, Sugita Y, Watanabe K, Nakanishi K, Sakakura N, Naito Y et al Successful postoperative recovery management after thoracoscopic lobectomy and segmentectomy using an ERAS-based protocol of immediate ice cream intake and early ambulation: a 3-year study. Cancer Manag Res. 2019;11:4201-4207.
+- [23] Das-Neves-Pereira JC, Bagan P, Coimbra-Israel AP, Grimaillof-Junior A, Cesar- Lopez G, Milanez-de-Campos JR et al. Fast-track rehabilitation for lung cancer lobectomy: a five-year experience. Eur J Cardiothorac Surg. 2009;36:383-91; discussion 391-2.
+- [24] Khandhar SJ, Schatz CL, Collins DT, Graling PR, Rosner CM, Mahajan AK et al. Thoracic enhanced recovery with ambulation after surgery: a 6-year experience. Eur J Cardiothorac Surg. 2018;53:1192-1198.
+- [25] Cui Z, Li N, Gao C, Fan Y, Zhuang X, Liu J et al. Precision implementation of early ambulation in elderly patients undergoing off-pump coronary artery bypass graft surgery: a randomized-controlled clinical trial. BMC Geriatr. 2020;20:404.
+
+**Question : L'utilisation d'une liste de critères de sortie d'hospitalisation a-t-elle un impact sur la durée de séjour ou la survenue de complications ?**
+
+*Expert : Yên-Lan Nguyen (Paris)*
+
+**R4.6 - Il est probablement recommandé d'établir une liste de critères de sortie d'hospitalisation pour réduire la durée de séjour, sans impacter la survenue de complications postopératoires.**
+
+**GRADE 2+ (Accord fort)**
+
+**Argumentaire :** À l'échelle européenne, la France est un des pays où la durée d'hospitalisation postopératoire est la plus longue [1]. Il n'existe pas de preuve de haut niveau concernant l'intérêt de l'utilisation d'une liste de critères de sortie d'hospitalisation en postopératoire. Une étude nationale néerlandaise ne retrouve pas d'association entre la mise en place d'une procédure de soins pour faciliter la sortie dans de bonnes conditions et une réduction de la durée d'hospitalisation, mais avec une méthodologie d'étude ne permettant pas de conclure sur les potentiels bénéfices dans les structures ayant une compliance élevée à la procédure [2]. Les délais de sortie des patients, qu'ils soient en médecine ou en chirurgie sont souvent prolongés sans que les patients ne comprennent réellement les motifs sous-jacents. Les transmissions médicales de sortie sont souvent incomplètes et ne précisent pas aux patients les signes devant les alerter de la survenue d'une éventuelle complication précoce ou tardive et la conduite à tenir [3].
+
+Plusieurs études monocentriques suggèrent l'existence d'une association entre l'utilisation d'une check-list de sortie et la réduction de la durée d'hospitalisation dans le cadre des programmes de réhabilitation améliorée après chirurgie [4-6]. Les éléments de ces check-lists comprennent un état physiologique et neurologique stable, le contrôle de la douleur, la reprise de l'alimentation, de la diurèse, l'absence de nécessité de perfusion. L'information aux patientsde l'existence de cette check-list dès la phase préopératoire avec une date de sortie prévisionnelle leur permet de s'organiser pour leur retour à domicile et de les rassurer. Son utilisation quotidienne dès le lendemain de la chirurgie facilite la compréhension de la prise en charge hospitalière, la participation active des patients à leur réhabilitation et améliore leur degré de satisfaction [7]. Elle est associée à une réduction de la durée de séjour sans hausse des taux de complications ou de réadmissions [4-6]. L'utilisation de modèles prédictifs de complications postopératoires justifiant une réadmission est une piste prometteuse pour accélérer la sortie des patients à faible risque, mais nécessite encore d'être affinée et validée [8].
+
+#### Références :
+
+- [1] Eurostat. Hospital\_discharges\_and\_length\_of\_stay [Internet]. Disponible sur: [https://ec.europa.eu/eurostat/statisticsexplained/index.php?title=Hospital\\_discharges\\_and\\_length\\_of\\_stay\\_statistics](https://ec.europa.eu/eurostat/statisticsexplained/index.php?title=Hospital_discharges_and_length_of_stay_statistics)
+- [2] Møller JE, Brøgger MN. How do residents perceive and narrate stories about communication challenges in patient encounters? A narrative study. *BMJ Open*. 4 juin 2019;9(6):e029022.
+- [3] Jones D, Musselman R, Pearsall E, McKenzie M, Huang H, McLeod RS. Ready to Go Home? Patients' Experiences of the Discharge Process in an Enhanced Recovery After Surgery (ERAS) Program for Colorectal Surgery. *J Gastrointest Surg Off J Soc Surg Aliment Tract*. nov 2017;21(11):1865-78.
+- [4] Trocchia Mattessich N. Goals-to-Discharge Patient Checklist: Implementing a Program to Optimize Recovery After Surgery for Patients With Colorectal Cancer. *Clin J Oncol Nurs*. 1 juin 2020;24(3):316-9.
+- [5] Neville IS, Ureña FM, Quadros DG, Solla DJF, Lima MF, Simões CM, et al. Safety and costs analysis of early hospital discharge after brain tumour surgery: a pilot study. *BMC Surg*. 14 mai 2020;20(1):105.
+- [6] Tweed TTT, Woortman C, Tummers S, Bakens MJAM, van Bastelaar J, Stoot JHMB. Reducing hospital stay for colorectal surgery in ERAS setting by means of perioperative patient education of expected day of discharge. *Int J Colorectal Dis*. juill 2021;36(7):1535-42.
+- [7] Fitz S, Diegel-Vacek L, Mahoney E. A Performance Improvement Initiative for Implementing an Evidence-Based Discharge Bundle for Lung Transplant Recipients. *Prog Transplant Aliso Viejo Calif*. sept 2020;30(3):281-5.
+- [8] Lo Y-T, Liao JC-H, Chen M-H, Chang C-M, Li C-T. Predictive modeling for 14-day unplanned hospital readmission risk by using machine learning algorithms. *BMC Med Inform Decis Mak*. 20 oct 2021;21(1):288.**Annexe 1.**
+
+**Figure 1 :** Forest-plot : comparaison « anesthésie par inhalation » vs « anesthésie totale intraveineuse » sur la survie globale après une chirurgie carcinologique
+
+<table border="1">
+<thead>
+<tr>
+<th>Study</th>
+<th>n</th>
+<th>Follow-up</th>
+<th>Hazard Ratio</th>
+<th>HR</th>
+<th>95%-CI</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wigmore 2016</td>
+<td>7030</td>
+<td>32</td>
+<td></td>
+<td>1.29</td>
+<td>[0.20; 8.19]</td>
+<td>2.5%</td>
+</tr>
+<tr>
+<td>Enlund_colon 2014</td>
+<td>695</td>
+<td>60</td>
+<td></td>
+<td>1.03</td>
+<td>[0.32; 3.30]</td>
+<td>6.3%</td>
+</tr>
+<tr>
+<td>Enlund_rectal 2014</td>
+<td>306</td>
+<td>60</td>
+<td></td>
+<td>1.06</td>
+<td>[0.28; 4.08]</td>
+<td>4.7%</td>
+</tr>
+<tr>
+<td>Enlund_breast 2014</td>
+<td>1837</td>
+<td>60</td>
+<td></td>
+<td>0.89</td>
+<td>[0.19; 4.11]</td>
+<td>3.6%</td>
+</tr>
+<tr>
+<td>Lee 2016</td>
+<td>325</td>
+<td>60</td>
+<td></td>
+<td>1.30</td>
+<td>[0.18; 9.25]</td>
+<td>2.2%</td>
+</tr>
+<tr>
+<td>Hong 2020</td>
+<td>1458</td>
+<td>60</td>
+<td></td>
+<td>0.90</td>
+<td>[0.21; 3.94]</td>
+<td>3.9%</td>
+</tr>
+<tr>
+<td>Huang 2019</td>
+<td>976</td>
+<td>60</td>
+<td></td>
+<td>0.93</td>
+<td>[0.16; 5.33]</td>
+<td>2.8%</td>
+</tr>
+<tr>
+<td>Lai-BJA 2019</td>
+<td>670</td>
+<td>72</td>
+<td></td>
+<td>1.64</td>
+<td>[0.27; 10.10]</td>
+<td>2.6%</td>
+</tr>
+<tr>
+<td>Sung 2019</td>
+<td>120</td>
+<td>22</td>
+<td></td>
+<td>0.86</td>
+<td>[0.35; 2.10]</td>
+<td>10.6%</td>
+</tr>
+<tr>
+<td>Yoo 2019</td>
+<td>3532</td>
+<td>62</td>
+<td></td>
+<td>0.98</td>
+<td>[0.14; 6.71]</td>
+<td>2.3%</td>
+</tr>
+<tr>
+<td>Oh 2019</td>
+<td>1538</td>
+<td>12</td>
+<td></td>
+<td>1.04</td>
+<td>[0.12; 9.29]</td>
+<td>1.8%</td>
+</tr>
+<tr>
+<td>Lai-Med Baltimore 2019</td>
+<td>58</td>
+<td>120</td>
+<td></td>
+<td>1.32</td>
+<td>[0.36; 4.88]</td>
+<td>5.0%</td>
+</tr>
+<tr>
+<td>Dong 2019</td>
+<td>294</td>
+<td>60</td>
+<td></td>
+<td>1.02</td>
+<td>[0.46; 2.26]</td>
+<td>13.5%</td>
+</tr>
+<tr>
+<td>Zheng 2018</td>
+<td>1794</td>
+<td>80</td>
+<td></td>
+<td>0.83</td>
+<td>[0.45; 1.53]</td>
+<td>22.7%</td>
+</tr>
+<tr>
+<td>Wu 2018</td>
+<td>1158</td>
+<td>120</td>
+<td></td>
+<td>1.56</td>
+<td>[0.18; 13.41]</td>
+<td>1.8%</td>
+</tr>
+<tr>
+<td>Oh 2018</td>
+<td>362</td>
+<td>133</td>
+<td></td>
+<td>1.05</td>
+<td>[0.34; 3.19]</td>
+<td>6.8%</td>
+</tr>
+<tr>
+<td>Kim 2017</td>
+<td>2645</td>
+<td>120</td>
+<td></td>
+<td>1.60</td>
+<td>[0.02; 114.66]</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td>Jun 2017</td>
+<td>922</td>
+<td>38</td>
+<td></td>
+<td>1.22</td>
+<td>[0.24; 6.23]</td>
+<td>3.2%</td>
+</tr>
+<tr>
+<td>Yoo 2018</td>
+<td>1766</td>
+<td>60</td>
+<td></td>
+<td>0.98</td>
+<td>[0.19; 4.99]</td>
+<td>3.2%</td>
+</tr>
+<tr>
+<td><b>Random effects model</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td><b>1.00</b></td>
+<td><b>[0.74; 1.33]</b></td>
+<td><b>100.0%</b></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $I^2 = 0\%$ ,  $\tau^2 = 0$ ,  $p = 1.00$
+
+![Forest plot for Figure 1 showing hazard ratios for survival. The x-axis is logarithmic from 0.01 to 100, with a vertical line at 1.00. Points to the left favor TIVA, and points to the right favor INHAL. The diamond at the bottom represents the pooled estimate at 1.00.](bdc1851753c24c12cc481395ad803394_3_img.webp)
+
+Favours TIVA Favours INHAL
+
+**Figure 2 :** Forest-plot : comparaison « anesthésie par inhalation » vs « anesthésie totale intraveineuse » sur la durée de la période sans récidive après une chirurgie carcinologique
+
+<table border="1">
+<thead>
+<tr>
+<th>Study</th>
+<th>n</th>
+<th>Follow-up</th>
+<th>Hazard Ratio</th>
+<th>HR</th>
+<th>95%-CI</th>
+<th>Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lee 2016</td>
+<td>325</td>
+<td>60</td>
+<td></td>
+<td>1.38</td>
+<td>[0.17; 11.44]</td>
+<td>2.5%</td>
+</tr>
+<tr>
+<td>Jun 2017</td>
+<td>922</td>
+<td>38</td>
+<td></td>
+<td>1.14</td>
+<td>[0.26; 4.99]</td>
+<td>5.2%</td>
+</tr>
+<tr>
+<td>Kim 2017</td>
+<td>2645</td>
+<td>120</td>
+<td></td>
+<td>1.06</td>
+<td>[0.06; 17.79]</td>
+<td>1.4%</td>
+</tr>
+<tr>
+<td>Kim 2017</td>
+<td>2645</td>
+<td>120</td>
+<td></td>
+<td>1.06</td>
+<td>[0.06; 17.79]</td>
+<td>1.4%</td>
+</tr>
+<tr>
+<td>Oh 2018</td>
+<td>362</td>
+<td>12</td>
+<td></td>
+<td>0.89</td>
+<td>[0.31; 2.52]</td>
+<td>10.4%</td>
+</tr>
+<tr>
+<td>Oh 2018</td>
+<td>1538</td>
+<td>12</td>
+<td></td>
+<td>1.04</td>
+<td>[0.11; 9.86]</td>
+<td>2.2%</td>
+</tr>
+<tr>
+<td>Yoo 2018</td>
+<td>3532</td>
+<td>62</td>
+<td></td>
+<td>0.98</td>
+<td>[0.14; 6.71]</td>
+<td>3.1%</td>
+</tr>
+<tr>
+<td>Dong 2019</td>
+<td>294</td>
+<td>60</td>
+<td></td>
+<td>0.98</td>
+<td>[0.51; 1.85]</td>
+<td>27.5%</td>
+</tr>
+<tr>
+<td>Lai-Baltimore 2019</td>
+<td>58</td>
+<td>120</td>
+<td></td>
+<td>0.93</td>
+<td>[0.32; 2.75]</td>
+<td>9.6%</td>
+</tr>
+<tr>
+<td>Lai-BJA 2019</td>
+<td>670</td>
+<td>72</td>
+<td></td>
+<td>1.39</td>
+<td>[0.29; 6.55]</td>
+<td>4.7%</td>
+</tr>
+<tr>
+<td>Sung 2019</td>
+<td>120</td>
+<td>22</td>
+<td></td>
+<td>0.86</td>
+<td>[0.35; 2.10]</td>
+<td>14.0%</td>
+</tr>
+<tr>
+<td>Yoo 2019</td>
+<td>3532</td>
+<td>62</td>
+<td></td>
+<td>0.98</td>
+<td>[0.14; 6.71]</td>
+<td>3.1%</td>
+</tr>
+<tr>
+<td>Goo 2020</td>
+<td>259</td>
+<td>24</td>
+<td></td>
+<td>1.28</td>
+<td>[0.53; 3.05]</td>
+<td>14.8%</td>
+</tr>
+<tr>
+<td><b>Random effects model</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td><b>1.02</b></td>
+<td><b>[0.73; 1.43]</b></td>
+<td><b>100.0%</b></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $I^2 = 0\%$ ,  $\tau^2 = 0$ ,  $p = 1.00$
+
+![Forest plot for Figure 2 showing hazard ratios for recurrence-free duration. The x-axis is logarithmic from 0.1 to 10, with a vertical line at 1.00. Points to the left favor TIVA, and points to the right favor INHAL. The diamond at the bottom represents the pooled estimate at 1.02.](bdc1851753c24c12cc481395ad803394_5_img.webp)
+
+Favours TIVA Favours INHAL# RFE Programme d'Optimisation Périopératoire – Socle Commun
+
+Critères d'évaluation: durée de séjour / réduction des complications
+
+The diagram illustrates the RFE (Réseau Francophone d'Expertise) Perioperative Optimization Program across four stages: Mesures Générales, Pré-op, Per-op, and Post-op. Recommendations are categorized by grade and type.
+
+<table border="1">
+<thead>
+<tr>
+<th>Stage</th>
+<th>Recommendation Type</th>
+<th>Recommendation</th>
+<th>Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Mesures Générales</td>
+<td>RECOMMANDÉ Grade 1+</td>
+<td>Mise en place d'un programme d'optimisation périopératoire</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td>PROBABLEMENT RECOMMANDÉ Grade 2+</td>
+<td>Tous les patients inclus</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td>SUGGÉRÉ Avis d'Expert</td>
+<td>Mise en place d'un programme d'optimisation périopératoire</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td rowspan="3">Pré-op</td>
+<td>RECOMMANDÉ Grade 1+</td>
+<td>Équipe pluriprofessionnelle de coordination</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td>PROBABLEMENT NON RECOMMANDÉ Grade 2-</td>
+<td>Limiter la durée de jeûne</td>
+<td>Durée séjour/anxiété</td>
+</tr>
+<tr>
+<td>NON RECOMMANDÉ Grade 1-</td>
+<td>Préhabilitation</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td rowspan="3">Per-op</td>
+<td>RECOMMANDÉ Grade 1+</td>
+<td>Hospitalisation J0</td>
+<td>Durée séjour</td>
+</tr>
+<tr>
+<td>PROBABLEMENT NON RECOMMANDÉ Grade 2-</td>
+<td>Stratégie d'épargne sanguine</td>
+<td>Durée séjour/complications</td>
+</tr>
+<tr>
+<td>NON RECOMMANDÉ Grade 1-</td>
+<td>AL par voie périnerveuse en chirurgie des membres</td>
+<td>Complications</td>
+</tr>
+<tr>
+<td rowspan="3">Post-op</td>
+<td>RECOMMANDÉ Grade 1+</td>
+<td>ALR pour chirurgie thoracique ou abdominale majeure ouverte</td>
+<td>Complications</td>
+</tr>
+<tr>
+<td>PROBABLEMENT NON RECOMMANDÉ Grade 2-</td>
+<td>Lutte hypothermie</td>
+<td>Complications</td>
+</tr>
+<tr>
+<td>NON RECOMMANDÉ Grade 1-</td>
+<td>AL par voie périnerveuse en chirurgie des membres</td>
+<td>Complications</td>
+</tr>
+</tbody>
+</table>
+
+Additional recommendations and outcomes:
+
+- **ALR pour thoracoscopie, chirurgie pariétale ou rachidienne**: Complications
+- **AL par voie IV pour chirurgie abdomino-pelvienne laparoscopique**: Complications
+- **AL par voie périnerveuse en chirurgie des membres**: Complications
+- **ALR pour chirurgie thoracique ou abdominale majeure ouverte**: Complications
+- **Lutte hypothermie**: Complications
+- **Monitoring curarisation**: Complications
+- **Ventilation protectrice**: Complications
+- **Dexaméthasone IV**: Complications
+- **Prévention NVPO**: Réhabilitation postopératoire
+- **Acide Tranexamique**: Hémorragie, transfusion
+- **Antibioprophylaxie**: Infections du site opératoire
+- **Optimisation apports liquidiens**: Durée séjour/complications
+- **Optimisation pression artérielle**: Durée séjour/complications
+- **Monitoring profondeur anesthésie**: Complications neurocognitives
+- **Analgésie multimodale**: Durée séjour/complications
+- **Thromboprophylaxie**: Complications
+- **Alimentation précoce <24h**: Durée séjour
+- **Déambulation précoce <24h**: Durée séjour
+- **Critères de sortie de SSPI**: Durée séjour
+- **Optimisation dès SSPI**: Durée séjour/complications
+
+Additional notes at the bottom:
+
+- **Place de la médecine de ville**
+- **Education – Information**
+- **Monitoring analgésie**
+- **Privilégier une modalité d'anesthésie générale**: Durée séjour/complications
+- **Privilégier un type d'anesthésie**: Durée séjour/complications

@@ -1,0 +1,656 @@
+
+
+<pre>
+graph TD
+    Start[Signes de gravité] --&gt; GradeA[Grade A]
+    GradeA --&gt; GradeAList["Grade A<br/>Grand brûlé « + »<br/>• PAS &lt; 90 mm Hg malgré la réanimation hémodynamique<br/>• Nécessité de transfusion préhospitale<br/>• Détresse respiratoire aiguë et/ou ventilation mécanique difficile avec une SpO2 &lt; 90%"]
+    GradeAList -- Oui --&gt; Stabilisation[Stabilisation dans déchocage / réa de proximité]
+    Stabilisation --&gt; StabilisationText["Stabilisation dans déchocage / réa de proximité"]
+    StabilisationText --&gt; StabilisationText
+    StabilisationText --&gt; OrientationA["TELEMEDECINE<br/>+ TRANSFERT<br/>CTB"]
+    GradeAList -- Non --&gt; GradeB[Grade B]
+    GradeB --&gt; GradeBList["Grade B<br/>Brûlé grave<br/>• Surface cutanée brûlée (SCB) &gt; 20%<br/>• SCB du troisième degré &gt; 5%<br/>• Syndrome d'inhalation de fumées<br/>• Localisation à risque fonctionnel profonde : face, mains, pieds, périnée<br/>• Brûlure électrique haut voltage"]
+    GradeBList -- Oui --&gt; TraitementB[Traitement]
+    TraitementB --&gt; TraitementBText["Annexes 4 et 5"]
+    TraitementBText --&gt; TraitementBText
+    TraitementBText --&gt; OrientationB["TELEMEDECINE<br/>+ TRANSFERT<br/>CTB"]
+    GradeBList -- Non --&gt; GradeC[Grade C]
+    GradeC --&gt; GradeCList["Grade C<br/>Brûlé à risque de complications :<br/>• SCB &lt; 20% MAIS<br/>• Terrain particulier : âge &gt;75 ans, comorbidités sévères.<br/>• Inhalation de fumées suspectée ou avérée<br/>• Brûlure circulaire profonde<br/>• Localisation à risque fonctionnel superficielle : face, mains, pieds, périnée, plis.<br/>• SCB &gt; 10%<br/>• SCB du troisième degré entre 3 et 5%<br/>• Brûlure électrique bas voltage, Brûlure chimique (acide fluorhydrique)"]
+    GradeCList -- Oui --&gt; TraitementC[Traitement]
+    TraitementC --&gt; TraitementCText["Annexe 6"]
+    TraitementCText --&gt; TraitementCText
+    TraitementCText --&gt; OrientationC["CTB<br/>SYSTEMATIQUE<br/>+ TELEMEDECINE"]
+    GradeCList -- Non --&gt; GradeD[Grade D]
+    GradeD --&gt; GradeDList["Grade D<br/>Brûlé non grave<br/>• Brûlure thermique SCB second degré &lt; 10% et SCB troisième degré &lt; 3%<br/>• <u>Et</u> absence de terrain particulier<br/>• <u>Et</u> absence de brûlure circulaire<br/>• <u>Et</u> absence de localisation à risque fonctionnel profonde : face, mains, pieds, périnée"]
+    GradeDList -- Oui --&gt; TraitementD[Traitement]
+    TraitementD --&gt; TraitementDText["Annexe 6"]
+    TraitementDText --&gt; TraitementDText
+    TraitementDText --&gt; OrientationD["SERVICE DE CHIRURGIE"]
+    GradeDList -- Oui --&gt; OrientationD
+    OrientationD --&gt; OrientationDText["SERVICE DE CHIRURGIE"]
+    OrientationDText --&gt; OrientationDText
+    OrientationDText --&gt; RetourD["RETOUR A DOMICILE<br/>+ Consultation dans un service agréé selon le contexte"]
+    RetourD --&gt; RetourDText["RETOUR A DOMICILE<br/>+ Consultation dans un service agréé selon le contexte"]
+    RetourDText --&gt; RetourDText
+    RetourDText --&gt; RetourDText
+    </pre>
+
+<p>Annexe 2 : Catégorisation des Brûlures Graves et Orientation chez l'ADULTE</p>
+
+<p>La Surface Cutanée Brûlée d'intérêt ne comprend que les brûlures du 2<sup>ème</sup> et du 3<sup>ème</sup> degré.</p>
+
+<p>SCB : Surface Cutanée Brûlée. CTB : Centre de Traitement des Brûlés.</p>
+
+
+<p><b>Signes de gravité</b></p>
+<p><b>Grade A</b></p>
+<p><b>Grand brûlé « + »</b></p>
+<ul>
+<li>• Instabilité hémodynamique persistante malgré la réanimation</li>
+<li>• Nécessité de transfusion préhospitale</li>
+<li>• Détresse respiratoire aiguë et/ou ventilation mécanique difficile avec une SpO<sub>2</sub> &lt; 90%</li>
+</ul>
+<p><b>Oui</b> → <b>Stabilisation</b> → <b>Stabilisation dans déchocage / réa de proximité</b> → <b>Orientation</b> → <b>TELEMEDECINE + TRANSFERT CTB</b></p>
+<p><b>Non</b> → <b>Grade B</b></p>
+<p><b>Grade B</b></p>
+<p><b>Brûlé grave</b></p>
+<ul>
+<li>• <b>Surface cutanée brûlée (SCB) &gt; 10%</b></li>
+<li>• SCB du troisième degré &gt;5%</li>
+<li>• Nourrison &lt; 1 an</li>
+<li>• Comorbidités sévères</li>
+<li>• Syndrome d'inhalation de fumées</li>
+<li>• Localisation à risque fonctionnel profonde : face, mains, pieds, périnée, plis de flexion</li>
+<li>• Brûlure circulaire</li>
+<li>• Brûlure électrique ou chimique</li>
+</ul>
+<p><b>Oui</b> → <b>Traitement</b> → <b>Annexes 4bis et 5bis</b> → <b>Orientation</b> → <b>TELEMEDECINE + TRANSFERT CTB</b></p>
+<p><b>Non</b> → <b>Grade C</b></p>
+<p><b>Grade C</b></p>
+<p><b>Brûlé à faible risque de complications :</b></p>
+<ul>
+<li>• SCB entre 5 et 10%</li>
+<li>• <u>Et</u> nourrison / enfant &gt; 1 an</li>
+</ul>
+<p><b>Oui</b> → <b>Traitement</b> → <b>Annexe 6</b> → <b>Orientation ?</b> → <b>CTB SYSTEMATIQUE + TELEMEDECINE</b></p>
+<p><b>Non</b> → <b>Grade D</b></p>
+<p><b>Grade D</b></p>
+<p><b>Brûlé non grave</b></p>
+<ul>
+<li>• Brûlure thermique SCB second degré &lt; 5%</li>
+<li>• <u>Et</u> nourrison / enfant &gt; 1 an</li>
+<li>• <u>Et</u> absence de terrain particulier</li>
+<li>• <u>Et</u> absence de brûlure circulaire</li>
+<li>• <u>Et</u> absence de localisation à risque fonctionnel</li>
+</ul>
+<p><b>Oui</b> → <b>Traitement</b> → <b>Annexe 6</b> → <b>Orientation</b> → <b>SERVICE DE CHIRURGIE</b></p>
+<p><b>Non</b> → <b>Orientation</b> → <b>RETOUR A DOMICILE</b> + Consultation dans un service agréé selon le contexte dans les 48 heures</p>
+
+<p><i>Annexe 2 : Catégorisation des Brûlures Graves et Orientation chez l'ENFANT</i></p>
+
+<p><i>La Surface Cutanée Brûlée d'intérêt ne comprend que les brûlures du 2<sup>ème</sup> et du 3<sup>ème</sup> degré.</i></p>
+
+<p><i>SCB : Surface Cutanée Brûlée. CTB : Centre de Traitement des Brûlés.</i></p>
+
+<p>Table de Lund et Browder</p>
+
+<p>Règle des 9 de Wallace</p>
+
+<img alt="Diagram illustrating the Lund and Browder method for estimating burn surface area. It shows two views of a human figure (front and back) with body parts divided into regions A, B, and C. Red dashed lines indicate the boundaries between regions. Percentages are given for each region: Head (1), Torso (13%), Arms (2% each), Hands (1 1/2% each), Legs (1 1/4% each), and Feet (1 3/4% each)." src="21da64643ce9ee509907d83b1faff4c5_5_img.webp"/>
+
+<img alt="Diagram illustrating the Rule of Nines for estimating burn surface area. It shows two views of a human figure (front and back) with body parts divided into regions. Blue dashed lines indicate the boundaries between regions. Percentages are given for each region: Head (4.5%), Torso (18%), Arms (4.5% each), Hands (4.5% each), Legs (9% each), and Feet (9% each)." src="21da64643ce9ee509907d83b1faff4c5_6_img.webp"/>
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>NN</th>
+<th>1 an</th>
+<th>5 ans</th>
+<th>10 ans</th>
+<th>15 ans</th>
+<th>Adulte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>9 1/2</td>
+<td>8 1/2</td>
+<td>6 1/2</td>
+<td>5 1/2</td>
+<td>4 1/2</td>
+<td>3 1/2</td>
+</tr>
+<tr>
+<td>B</td>
+<td>2 3/4</td>
+<td>3 1/4</td>
+<td>4</td>
+<td>4 1/4</td>
+<td>4 1/2</td>
+<td>4 3/4</td>
+</tr>
+<tr>
+<td>C</td>
+<td>2 1/2</td>
+<td>2 1/2</td>
+<td>2 3/4</td>
+<td>3</td>
+<td>3 1/4</td>
+<td>3 1/2</td>
+</tr>
+</tbody>
+</table>
+
+<p>Application E-Burn CH Saint Luc Saint Joseph</p>
+
+<img alt="QR code for downloading the E-Burn application on Apple devices." src="21da64643ce9ee509907d83b1faff4c5_9_img.webp"/>
+
+<img alt="Logo of the E-Burn application, featuring a red cross with a flame and a medical syringe." src="21da64643ce9ee509907d83b1faff4c5_10_img.webp"/>
+
+<img alt="QR code for downloading the E-Burn application on Android devices." src="21da64643ce9ee509907d83b1faff4c5_11_img.webp"/>
+
+<p><i>Annexe 3 : Echelles Standardisées d'Evaluation de la Surface Cutanée Brûlée. La table de Lund &amp; Browder est utilisable chez l'adulte et l'enfant. L'échelle des 9 de Wallace ne s'applique que chez l'adulte. L'application E-Burn CH Saint Luc-Saint Joseph est disponible sur smartphone et téléchargeable à l'aide des QR Codes fournis pour Apple et Android. Dans tous les cas, la Surface Cutanée Brûlée d'intérêt ne comprend que les brûlures du 2<sup>ème</sup> et du 3<sup>ème</sup> degré.</i></p>
+
+<h2>PHASE 1 : PREHOSPITALIERE ET HOSPITALIERE INITIALE</h2>
+
+<p><b>DEBUTER <i>SANS DELAI</i> UNE REANIMATION LIQUIDIENNE INTRAVEINEUSE AVEC UNE FORMULE STANDARDISEE</b></p>
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Proposition RFE</th>
+<th>Alternative : « règle des 10 »</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>H0 à H1</b></td>
+<td>CRISTALLOIDE BALANCE : 20 ml / kg de poids</td>
+<td rowspan="3">
+                    Poids du patient &lt; 80 kg :<br/>(10 x % de SCB) ml / heure<br/><br/>
+                    Poids du patient &gt; 80 kg :<br/>(idem + 100 ml / 10 kg de poids au-dessus de 80 kg) ml / heure
+                </td>
+</tr>
+<tr>
+<td><b>H0 à H8</b></td>
+<td>CRISTALLOIDE BALANCE : 1 à 2 ml / kg de poids / % de SCB<br/>Débit horaire incluant les apports liquidiens préhospitaliers</td>
+</tr>
+<tr>
+<td><b>H8 à H24</b></td>
+<td>CRISTALLOIDE BALANCE : 1 à 2 ml / kg de poids / % de SCB</td>
+</tr>
+</tbody>
+</table>
+
+<p>Exemple clinique : Patient de 75 kg brûlé sur 50% de la surface cutanée.</p>
+
+<p>A la prise en charge préhospitalière, le patient sera perfusé et déshabillé. Le bolus initial est débuté par 20 ml/kg de Ringer Lactate en attendant d'avoir une estimation de la SCB, soit <math>20 \times 75 = 1500</math> mL la première heure.</p>
+
+<p>Une fois le patient examiné et déshabillé (à l'arrivée dans un SAU par exemple), le débit de remplissage sera déterminé par la règle des 10 soit : Vitesse de remplissage (mL/h de Ringer Lactate) = <math>10 \times 50 = 500</math> mL/h.</p>
+
+<p>A l'arrivée dans un CTB, la SCB est réévaluée précisément avec les tableaux de Lund et Browder. Les vitesses indicatives de remplissage seront calculées avec la formule locale (entre 2 et 4 mL/kg de Ringer Lactate) pour les 48 premières heures en intégrant les fluides déjà administrés.</p>
+
+<p>Dès que possible, la réponse clinique au remplissage vasculaire devra être évaluée et guider l'adaptation des débits de remplissage.</p>
+
+<h2>PHASE 2 : HOSPITALIERE : ADAPTER <i>SANS DELAI</i> LA REANIMATION LIQUIDIENNE INTRAVEINEUSE</h2>
+
+<p>Cette adaptation s'envisage le plus tôt possible, au moyen de critères cliniques et biologiques et du monitoring hémodynamique. Ces critères présentent tous des limites, et ne doivent pas être suivis aveuglément. Ils doivent plutôt être considérés comme des <b>SIGNES D'ALERTE</b>, à l'origine d'une réflexion basée sur la physiopathologie et l'intégration multiparamétrique des données recueillies.</p>
+
+<p><input type="checkbox"/> L'objectif de la réanimation n'est pas de normaliser ces paramètres.</p>
+
+<p><input type="checkbox"/> La « précharge-dépendance » est un phénomène physiologique.</p>
+
+<p><input type="checkbox"/> La recherche d'une « précharge-indépendance » est non physiologique et à proscrire au cours des premières heures de la prise en charge.</p>
+
+
+<pre>
+graph TD
+    Q1["<b>Question 1 : le brûlé est-il stable avec le régime de remplissage choisi ?</b><br/>• Hémodynamique stable, PAM 65 mmHg<br/>• Diurèse 0,5 à 1 ml/kg/h<br/>• Lactate ou déficit en bases en diminution"]
+    Q2["<b>Question 2 : existe-t-il des arguments pour majorer le débit de réanimation liquideenne ?</b><br/>• Hématocrite en hausse ?<br/>• Arguments pour une hypovolémie ? (selon les outils disponibles)"]
+    Q3["<b>Question 3 : existe-t-il des arguments pour suspecter l'apparition d'une ?</b><br/>• VASOPLEGIE : PAD basse / Différentielle élevée ?<br/>• DYSFONCTION MYOCARDIQUE"]
+    A1["Réduire le débit horaire d'hydratation de 20%"]
+    A2["EPREUVE DE REMPLISSAGE « test »"]
+    A3["Majorer le débit horaire d'hydratation de 20%<br/>Discuter l'introduction D'ALBUMINE<br/>(SCB &gt; 30%, après la 6<sup>ème</sup> heure, 1 à 2 g/kg, qsp Albuminémie)"]
+    A4["Discuter l'introduction de catécholamines<br/>• NORADRENALINE ? Eliminer un sepsis précoce<br/>• DOBUTAMINE ? Adrénaline ?"]
+
+    Q1 -- OUI --&gt; A1
+    Q1 -- NON --&gt; Q2
+    Q2 -- OUI --&gt; A2
+    Q2 -- Si PAM &lt; 65 mmHg --&gt; A2
+    Q2 -- Négative --&gt; Q3
+    A2 -- Positive --&gt; A3
+    Q3 -- OUI --&gt; A4
+    </pre>
+
+<table border="1">
+<thead>
+<tr>
+<th data-bbox="52 85 301 128">Formule de Parkland modifiée</th>
+<th data-bbox="301 85 611 128">Réanimation liquidienne H0 à H24</th>
+<th data-bbox="611 85 968 128">Réanimation liquidienne H24 à H48</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="52 128 301 265" style="text-align: center;"><i>Débit horaire</i></td>
+<td data-bbox="301 128 611 265">
+<ul style="list-style-type: none;">
+<li>• <b>3 mL x SCB (en %) x Poids (en kg) :</b>
+<ul style="list-style-type: none;">
+<li>- 50 % sur les premières 8 heures</li>
+<li>- 50% sur les 16 heures suivantes</li>
+</ul>
+</li>
+<li style="text-align: center;">+</li>
+<li>• <b>Apports de base, avec débit horaire calculé sur la règle des '4-2-1' :</b>
+<ul style="list-style-type: none;">
+<li>- 4 mL/Kg pour les 10 premiers Kg, plus</li>
+<li>- 2 mL/Kg pour les kilos entre 10 et 20 Kg, plus</li>
+<li>- 1 mL/Kg pour les kilos &gt; 20 Kg.</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="611 128 968 265">
+<ul style="list-style-type: none;">
+<li>• <b>1,5 mL x SCB (en %) x Poids (en kg) :</b>
+<ul style="list-style-type: none;">
+<li>- A répartir sur les 24 heures</li>
+</ul>
+</li>
+<li style="text-align: center;">+</li>
+<li>• <b>Apports de base, avec débit horaire calculé sur la règle des '4-2-1' :</b>
+<ul style="list-style-type: none;">
+<li>- 4 mL/Kg pour les 10 premiers Kg, plus</li>
+<li>- 2 mL/Kg pour les kilos entre 10 et 20 Kg, plus</li>
+<li>- 1 mL/Kg pour les kilos &gt; 20 Kg.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td data-bbox="52 265 301 353" style="text-align: center;"><i>Solutés à perfuser</i></td>
+<td data-bbox="301 265 611 353">
+<ul style="list-style-type: none;">
+<li>• <b>Nourrisson (&lt; 1 an) :</b>
+<ul style="list-style-type: none;">
+<li>- 50 % : Ringer Lactate</li>
+<li>- 50% : G5%</li>
+</ul>
+</li>
+<li>• <b>Enfant &gt; 1 an :</b>
+<ul style="list-style-type: none;">
+<li>- 2/3 : Ringer Lactate</li>
+<li>- 1/3 : G5%</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="611 265 968 353"></td>
+</tr>
+<tr>
+<td data-bbox="52 353 301 411" style="text-align: center;"><i>Surveillance et adaptation</i></td>
+<td colspan="2" data-bbox="301 353 968 411">
+<ul style="list-style-type: none;">
+<li>• Paramètres hémodynamiques</li>
+<li>• Diurèse horaire : entre 0,5 et 1,5 mL/Kg/h</li>
+<li>• Densité urinaire : entre 1010 et 1020</li>
+<li>• Natrémie, Glycémie, osmolarité</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p><u>Annexe 5bis</u> : Réanimation hémodynamique du brûlé grave PEDIATRIQUE</p>
+
+<p><b>Etape A</b></p>
+
+<img alt="Icon of a head profile with a yellow background, representing the airway." src="45c804e94c006dda24adae014655a5fa_4_img.webp"/>
+
+<p><b>Contrôle et protection des voies aériennes</b></p>
+
+<ul>
+<li>• <u>Envisager l'intubation trachéale si :</u>
+<ul>
+<li><input type="checkbox"/> Détresse respiratoire aiguë <input type="checkbox"/> Coma</li>
+<li><input type="checkbox"/> Brûlure de la totalité du visage ET brûlure profonde et circulaire du cou</li>
+<li><input type="checkbox"/> Brûlure de la totalité du visage ET symptômes d'obstruction des voies aériennes débutants ou installés (modifications de la voix, stridor, dyspnée laryngée)</li>
+<li><input type="checkbox"/> Brûlure de la totalité du visage ET brûlure très étendue (SCB ≥ 40%)</li>
+</ul>
+</li>
+<li>• <u>Si l'indication d'intubation est retenue :</u> INDUCTION EN SEQUENCE RAPIDE
+            <ul>
+<li><input type="checkbox"/> Kétamine 2 à 3 mg/kg OU <input type="checkbox"/> Etomidate 0,2 à 0,3 mg/kg</li>
+<li>+ <input type="checkbox"/> Succinylcholine 1 mg/kg OU <input type="checkbox"/> Rocuronium 1,2 mg/kg</li>
+</ul>
+</li>
+</ul>
+
+<p><b>LA SUCCINYLCHOLINE EST AUTORISEE DANS LES 48 PREMIERES DE LA BRÛLURE PAS DE FIBROSCOPIE BRONCHIQUE EN DEHORS D'UNE CENTRE DE TRAITEMENT DES BRÛLES</b></p>
+
+<p><b>Etape B</b></p>
+
+<img alt="Icon of lungs with a blue background, representing ventilation and oxygenation." src="45c804e94c006dda24adae014655a5fa_9_img.webp"/>
+
+<p><b>Maintien de la ventilation et de l'oxygénation</b></p>
+
+<ul>
+<li>• <u>Hors inhalation de fumées :</u>
+<ul>
+<li><input type="checkbox"/> Oxygénéthérapie objectif SpO<sub>2</sub> 92 – 96% (ONHD si besoin).</li>
+<li><input type="checkbox"/> Ventilation protectrice FiO<sub>2</sub> objectif SpO<sub>2</sub> 92 – 96%.</li>
+</ul>
+</li>
+<li>• <u>Si inhalation de fumées d'incendie :</u>
+<ul>
+<li><input type="checkbox"/> O<sub>2</sub> 15 l/min au MHC ou ONHD FiO<sub>2</sub> 1 pendant 6 à 12 heures.</li>
+<li><input type="checkbox"/> Ventilation protectrice FiO<sub>2</sub> 1 pendant 6 à 12 heures, puis objectif SpO<sub>2</sub> 92 – 96%.</li>
+</ul>
+</li>
+</ul>
+
+<p><input type="checkbox"/> <b>PAS D'ANTIBIOTHERAPIE SYSTEMATIQUE EN CAS D'INHALATION DE FUMEEES</b></p>
+
+<p><b>Etape C</b></p>
+
+<img alt="Icon of a heart with a red background, representing resuscitation." src="45c804e94c006dda24adae014655a5fa_14_img.webp"/>
+
+<p><b>Réanimation liquide (cf Annexe 5)</b></p>
+
+<ul>
+<li>• <input type="checkbox"/> Voie Veineuse Périphérique x 2 <input type="checkbox"/> Dispositif Intra Osseux <input type="checkbox"/> Voie Veineuse Centrale</li>
+<li>• Perfusion par un soluté <b>CRISTALLOÏDE BALANCE (ex : RINGER LACTATE)</b> au débit de :
+            <ul>
+<li><input type="checkbox"/> <b>20 ml/kg durant la 1<sup>ère</sup> heure de prise en charge,</b></li>
+<li><input type="checkbox"/> <b>Puis 1 à 2 ml/kg/% SCB de H0 à H8, puis 1 à 2 ml/kg/% SCB de H8 à H24</b></li>
+<li><input type="checkbox"/> <i>Alternative : 10 ml x %SCB par heure (+ 100 ml/h/10 kg de poids au-dessus de &gt; 80 kg).</i></li>
+<li><input type="checkbox"/> <b>Puis adaptation secondaire du débit aux données du monitoring.</b></li>
+</ul>
+</li>
+<li>• Noradrénaline IVSE si PA moyenne &lt; 65 mmHg malgré remplissage bien conduit</li>
+</ul>
+
+<p><input type="checkbox"/> <b>UN BRÛLE EST STABLE SAUF INTOXICATION AU CYANURE OU POLYTRAUMATISME ASSOCIES</b></p>
+
+<p><input type="checkbox"/> <b>UN BRÛLE N'EST PAS ANEMIQUE SAUF HEMORRAGIE OU HEMOLYSE ASSOCIEES</b></p>
+
+<p><b>Etape D</b></p>
+
+<img alt="Icon of a head profile with a lightning bolt and a green background, representing intoxications and analgesia." src="45c804e94c006dda24adae014655a5fa_20_img.webp"/>
+
+<p><b>Traitement des intoxications associées et analgésie</b></p>
+
+<ul>
+<li>• <u>Cyanure :</u> Hydroxocobalamine CYANOKIT® (5g dans 200 ml de NaCl 0.9% sur 30 min, renouvelable 1 fois) en cas de suspicion d'intoxication MAJEURE au cyanure :
+            <ul>
+<li><input type="checkbox"/> Arrêt cardiaque OU <input type="checkbox"/> Etat de choc OU <input type="checkbox"/> Coma, surtout si lactatémie &gt; 10 mmol/l</li>
+</ul>
+</li>
+<li>• <u>Monoxyde de Carbone :</u> intérêt du CO-testeur en préhospitalier.
+            <ul>
+<li><input type="checkbox"/> Oxygénéthérapie normobare 6 à 12 h systématique.</li>
+<li><input type="checkbox"/> Discuter OHB si grossesse, intoxication sévère, patient stable ET plateau technique disponible rapidement.</li>
+</ul>
+</li>
+<li>• Analgésie IV en titration : <input type="checkbox"/> morphine <input type="checkbox"/> kétamine et sédation si nécessaire.</li>
+</ul>
+
+<p><input type="checkbox"/> <b>UN BRÛLE EST CONSCIENT SAUF INTOXICATION (CO, médicaments) OU TRAUMATISME CRANIEN ASSOCIES</b></p>
+
+<p><b>Etape E</b></p>
+
+<img alt="Icon of a bandage with a purple background, representing protection of injured areas." src="45c804e94c006dda24adae014655a5fa_25_img.webp"/>
+
+<p><b>Protection des zones lésées au SAU</b></p>
+
+<ul>
+<li><input type="checkbox"/> Refroidissement des zones brûlées si <b>SCB &lt; 20%</b> en l'absence de choc.</li>
+<li><input type="checkbox"/> Retrait des bijoux</li>
+<li>• <u>Si évacuation rapide vers un CTB : NE PAS FAIRE DE PANSEMENT</u>
+<ul>
+<li>▪ Brûlure(s) : <input type="checkbox"/> Emballée(s) dans un/des <b>champ(s) stérile(s)</b> <input type="checkbox"/> Ne pas exciser les phlyctènes</li>
+<li><input type="checkbox"/> <b>NE PAS REALISER D'ESCARROTOMIE</b> <input type="checkbox"/> <b>Surélever</b> le(s) membre(s) brûlé(s)</li>
+<li>▪ Brûlé : <input type="checkbox"/> Position ½ assis <input type="checkbox"/> <b>Réchauffement externe</b> (couverture de survie)</li>
+</ul>
+</li>
+<li>• <u>Si pas d'évacuation rapide possible, ou évacuation longue prévue, ou lésions très souillées : AVIS CTB</u> pour
+            <ul>
+<li><input type="checkbox"/> Couverture des brûlures (cf Annexe 6)</li>
+<li><input type="checkbox"/> Discuter des escarrotomies.</li>
+</ul>
+</li>
+<li><input type="checkbox"/> Sondage urinaire précoce si brûlure des organes génitaux externes</li>
+<li><input type="checkbox"/> Quick Test +/- VAT</li>
+</ul>
+
+<p><input type="checkbox"/> <b>NE PAS APPLIQUER DE CREME OU POMMADE sauf si indiqué par le CTB référent</b></p>
+
+<p><input type="checkbox"/> <b>RECHAUFFER ET PREVENIR L'HYPOTHERMIE</b></p>
+
+<p><input type="checkbox"/> <b>PAS D'ANTIOPROPHYLAXIE SAUF LESION TRES SOUILLEE</b></p>
+
+<img alt="Etape A: Head icon with a lightning bolt inside a yellow circle." src="7c7ebb68f007d42b1ed7a7ef6818dd8b_3_img.webp"/>
+
+<p><b>Contrôle et protection des voies aériennes</b></p>
+
+<ul>
+<li>• <u>Envisager l'intubation trachéale si :</u>
+<ul>
+<li><input type="checkbox"/> Détresse respiratoire aiguë <input type="checkbox"/> Etat de Choc <input type="checkbox"/> Coma</li>
+<li><input type="checkbox"/> Brûlure de la totalité du visage ET brûlure très étendue (i.e SCB &gt; 60%)</li>
+<li><input type="checkbox"/> Brûlure de la totalité du visage ET brûlure profonde et circulaire du cou</li>
+<li><input type="checkbox"/> Brûlures de la totalité du visage ET symptômes d'obstruction des voies aériennes débutants ou installés*</li>
+<li><input type="checkbox"/> Transport prolongé</li>
+</ul>
+</li>
+<li>• <u>Si l'indication d'intubation est retenue :</u> INDUCTION EN SEQUENCE RAPIDE
+            <ul>
+<li><input type="checkbox"/> Kétamine 2 à 3 mg/kg OU <input type="checkbox"/> Etomidate 0,2 à 0,3 mg/kg</li>
+<li>+ <input type="checkbox"/> Succinylcholine 1 mg/kg OU <input type="checkbox"/> Rocuronium 1,2 mg/kg</li>
+</ul>
+</li>
+</ul>
+
+<p><b>LA SUCCINYLCHOLINE EST AUTORISEE DANS LES 48 PREMIERES DE LA BRÛLURE<br/>PAS DE FIBROSCOPIE BRONCHIQUE EN DEHORS D'UNE CENTRE DE TRAITEMENT DES BRÛLES</b></p>
+
+<img alt="Etape B: Lungs icon with a lightning bolt inside a blue circle." src="7c7ebb68f007d42b1ed7a7ef6818dd8b_7_img.webp"/>
+
+<p><b>Maintien de la ventilation et de l'oxygénation</b></p>
+
+<ul>
+<li>• <u>Hors inhalation de fumées :</u>
+<ul>
+<li><input type="checkbox"/> Oxygénéthérapie objectif SpO<sub>2</sub> 92 – 96% (ONHD si besoin).</li>
+<li><input type="checkbox"/> Ventilation protectrice FiO<sub>2</sub> objectif SpO<sub>2</sub> 92 – 96%.</li>
+</ul>
+</li>
+<li>• <u>Si inhalation de fumées d'incendie :</u>
+<ul>
+<li><input type="checkbox"/> O<sub>2</sub> 15 l/min au MHC ou ONHD FiO<sub>2</sub> 1 pendant 6 à 12 heures.</li>
+<li><input type="checkbox"/> Ventilation protectrice FiO<sub>2</sub> 1 pendant 6 à 12 heures, puis objectif SpO<sub>2</sub> 92 – 96%.</li>
+</ul>
+</li>
+</ul>
+
+<p><input type="checkbox"/> <b>PAS D'ANTIBIOTHERAPIE SYSTEMATIQUE EN CAS D'INHALATION DE FUMÉES</b></p>
+
+<img alt="Etape C: Heart icon with a lightning bolt inside a red circle." src="7c7ebb68f007d42b1ed7a7ef6818dd8b_11_img.webp"/>
+
+<p><b>Réanimation liquidienne (cf Annexe 5bis)</b></p>
+
+<ul>
+<li>• <input type="checkbox"/> Voie Veineuse Périphérique x 2 <input type="checkbox"/> Dispositif IntraOsseux <input type="checkbox"/> Voie Veineuse Centrale</li>
+<li>• Perfusion par un soluté <b>CRISTALLOÏDE BALANCE (ex : RINGER LACTATE)</b> selon la formule de Parkland Modifiée :
+            <ul>
+<li><input type="checkbox"/> <b>1,5 ml/kg/% SCB de H0 à H8, puis 1,5 ml/kg/% SCB de H8 à H24 + apports de base</b></li>
+<li><input type="checkbox"/> <i>Si instabilité :</i> Eventuellement <b>20 ml/kg en bolus +/- Gélatines (HEA contre indiqués)</b></li>
+</ul>
+</li>
+<li>• Noradrénaline IVSE si instabilité hémodynamique malgré 3 expansions volémiques
+            <ul>
+<li><input type="checkbox"/> &lt; 1 an : Si PA moyenne &lt; 45 mmHg</li>
+<li><input type="checkbox"/> &gt; 1 an : Si PA moyenne &lt; 50 mmHg</li>
+</ul>
+</li>
+</ul>
+
+<p><input type="checkbox"/> <b>UN BRÛLE EST STABLE SAUF INTOXICATION AU CYANURE OU POLYTRAUMATISME ASSOCIES</b></p>
+
+<p><input type="checkbox"/> <b>UN BRÛLE N'EST PAS ANEMIQUE SAUF HEMORRAGIE OU HEMOLYSE ASSOCIEES</b></p>
+
+<img alt="Etape D: Head icon with a lightning bolt inside a green circle." src="7c7ebb68f007d42b1ed7a7ef6818dd8b_16_img.webp"/>
+
+<p><b>Traitement des intoxications associées et analgésie</b></p>
+
+<ul>
+<li>• <u>Cyanure :</u> Hydroxocobalamine CYANOKIT® (70 mg/kg sans dépasser 5g sur 30 min, renouvelable une fois) en cas de suspicion d'intoxication au cyanure :
+            <ul>
+<li>• <u>Majeure :</u> <input type="checkbox"/> Arrêt cardiaque OU <input type="checkbox"/> Etat de choc OU <input type="checkbox"/> Coma, surtout si lactatémie &gt; 10 mmol/l</li>
+<li>• <u>Modérée :</u> <input type="checkbox"/> GCS &lt; 13, confusion OU <input type="checkbox"/> Dyspnée, polypnée OU <input type="checkbox"/> Stridor, voix rauque, suie dans les VAS</li>
+</ul>
+</li>
+<li>• <u>Monoxyde de Carbone :</u> intérêt du CO-testeur en préhospitalier.
+            <ul>
+<li><input type="checkbox"/> Oxygénéthérapie normobare 6 à 12 h systématique.</li>
+<li><input type="checkbox"/> Discuter OHB si intoxication sévère, enfant stable, et plateau technique disponible rapidement.</li>
+</ul>
+</li>
+</ul>
+
+<p><input type="checkbox"/> <b>UN BRÛLE EST CONSCIENT SAUF INTOXICATION (CO, médicaments) OU TRAUMATISME CRANIEEN ASSOCIES</b></p>
+
+<img alt="Etape E: Bandage icon with a lightning bolt inside a purple circle." src="7c7ebb68f007d42b1ed7a7ef6818dd8b_20_img.webp"/>
+
+<p><b>Protection des zones lésées au SAU</b></p>
+
+<ul>
+<li><input type="checkbox"/> Refroidissement des zones brûlées si <b>SCB &lt; 10%</b> en l'absence de choc.</li>
+<li><input type="checkbox"/> Retrait des bijoux</li>
+<li>• <u>Si évacuation rapide vers un CTB : NE PAS FAIRE DE PANSEMENT</u>
+<ul>
+<li>▪ Brûlure(s) : <input type="checkbox"/> Emballée(s) dans un/des <b>champ(s) stérile(s)</b> <input type="checkbox"/> Ne pas exciser les phlyctènes</li>
+<li><input type="checkbox"/> <b>NE PAS REALISER D'ESCARROTOMIE</b> <input type="checkbox"/> <b>Surélever</b> le(s) membre(s) brûlé(s)</li>
+<li>▪ Brûlé : <input type="checkbox"/> Position ½ assis <input type="checkbox"/> <b>Réchauffement externe</b> (couverture de survie)</li>
+</ul>
+</li>
+<li>• <u>Si pas d'évacuation rapide possible, ou évacuation longue prévue, ou lésions très souillées : AVIS CTB</u> pour
+            <ul>
+<li><input type="checkbox"/> Couverture des brûlures (cf. Annexe 6)</li>
+<li><input type="checkbox"/> Discuter des escarrotomies.</li>
+</ul>
+</li>
+<li><input type="checkbox"/> Sondage urinaire précoce si brûlure des organes génitaux externes</li>
+<li><input type="checkbox"/> Quick Test +/- VAT</li>
+</ul>
+
+<p><input type="checkbox"/> <b>NE PAS APPLIQUER DE CREME OU POMMADE</b> sauf si indiqué par le CTB référent</p>
+
+<p><input type="checkbox"/> <b>RECHAUFFER ET PREVENIR L'HYPOTHERMIE</b></p>
+
+<p><input type="checkbox"/> <b>PAS D'ANTIBIOPROPHYLAXIE SAUF LÉSION TRES SOUILLEE</b></p>
+
+<p>La réalisation d'un pansement doit respecter les règles d'<b>hygiène et d'asepsie</b>, et se dérouler dans une ambiance thermique permettant de limiter les risques d'<b>hypothermie</b>. Une <b>analgesie</b>, voire <b>anesthésie</b> adéquate doit être assurée.</p>
+
+<p><b>ETAPE 1 : NETTOYAGE MECANIQUE</b></p>
+
+<ul style="list-style-type: none;">
+<li><input type="checkbox"/> Nettoyer les zones brûlées avec de l'eau du robinet, du NaCl 0,9%, ou un antiseptique dilué (Chlorhexidine ou Povidone iodée scrub)</li>
+<li><input type="checkbox"/> Exciser les phlyctènes</li>
+<li><input type="checkbox"/> Sécher par tamponnement</li>
+</ul>
+
+<p><b>ETAPE 2 : COUVERTURE PAR PANSEMENT</b></p>
+
+<p>La couverture de brûlures étendues comprend en général l'application</p>
+
+<ul style="list-style-type: none;">
+<li><input type="checkbox"/> d'une interface</li>
+<li><input type="checkbox"/> de compresses stériles</li>
+<li><input type="checkbox"/> de bandes ou de filets de protections.</li>
+</ul>
+
+<p>L'utilisation systématique de crèmes ou pommades avant l'interface est optionnelle.</p>
+
+<p>Quoiqu'il en soit, la pose de l'interface ne doit pas être circulaire, ni le pansement trop compressif, afin <b>d'éviter une effet « garrot »</b>.</p>
+
+<p>Le choix des différents matériels dépend principalement de l'étendue de la brûlure, de sa propreté, et d'habitudes de service.</p>
+
+<p>EN PÉDIATRIE, les brûlures sont volontiers <b>laissées à l'air</b> après nettoyage, et les tuelles gras sont en règle proscrits.</p>
+
+<img alt="Icon representing a small burn wound." src="441ed4f2c57d21b6eb27be1b46b46b09_13_img.webp"/>
+
+<p><b>BRULURE PEU ETENDUE ET PROPRE</b></p>
+
+<p><u>Selon l'importance de l'Exsudat</u></p>
+
+<img alt="Vertical green arrow pointing downwards, with a minus sign at the top and a plus sign at the bottom, indicating increasing exudate." src="441ed4f2c57d21b6eb27be1b46b46b09_16_img.webp"/>
+
+<ul style="list-style-type: none;">
+<li><b>Tulle Gras Neutre</b><br/>(ex : Jelonet®, Urgotul®...)</li>
+<li><b>Hydrocolloïdes</b><br/>(ex : Duoderm®, Ialuset®, Comfeel®...)</li>
+<li><b>Hydrofibres</b><br/>(ex : Aquacel®...)</li>
+<li><b>Hydrocellulaires</b><br/>(ex : Mepilex®, Allevyn®, Biatain®...)</li>
+<li><b>Alginate</b><br/>(ex : Algostéril®, Flaminal®...)</li>
+</ul>
+
+<img alt="Icon representing a large burn wound." src="441ed4f2c57d21b6eb27be1b46b46b09_18_img.webp"/>
+
+<p><b>BRULURE ETENDUE OU CONTAMINEE</b></p>
+
+<p><u>Utilisation d'un antiseptique</u></p>
+
+<ul style="list-style-type: none;">
+<li><b>Pansement à base d'antiseptiques</b><br/>(Chlorhexidine, Povidone iodée...)</li>
+<li><b>Pansement à base d'argent</b><br/>(Flammazine®, Flammacérium®, plaques d'hydrofibres argentiques, plaques d'hydrocellulaires argentiques...)</li>
+</ul>
+
+<p><b>PAS D'ANTIBIOTHERAPIE SYSTEMIQUE</b></p>
+
+<p><b>PRENDRE CONTACT</b> avec un <b>CENTRE DE TRAITEMENT DES BRÛLES POUR CONSEIL</b> en cas de <b>DOUTE</b> OU de <b>BRÛLURE ÉTENDUE</b></p>
+
+<p><b>TOUTE BRÛLURE DU 2EME OU DU 3EME DEGRÉ DOIT ÊTRE MÉDICALEMENT SURVEILLÉE ET ADRESSÉE A UN CHIRURGIEN SPÉCIALISÉ DANS LES 48 HEURES CHEZ L'ENFANT, et EN L'ABSENCE DE CICATRISATION APRES 10 JOURS.</b></p>
+
+<p><i>Annexe 6 : Soins locaux de la brûlure. Phase de nettoyage. Phase de couverture.</i></p>
+
+<table border="1">
+<thead>
+<tr>
+<th data-bbox="78 115 263 138">Age</th>
+<th colspan="2" data-bbox="263 115 905 138">Besoins caloriques quotidiens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="78 138 263 208"><b>Adulte : Formule de Toronto</b></td>
+<td colspan="2" data-bbox="263 138 905 208">
+<math display="block">- 4343 + (10,5 \times \% \text{ SCB}) + (0,23 \times \text{calories ingérées la veille}) + (0,84 \times \text{dépense énergétique de repos}) + (114 \times T^\circ \text{ corporelle})</math>
+<math display="block">- (4,5 \times \text{nombre de jours post-brûlure})</math>
+</td>
+</tr>
+<tr>
+<td data-bbox="78 208 263 253"><b>3 à 10 ans : Formule de Schofield</b></td>
+<td data-bbox="263 208 584 253">
+<b>Fille : <math>(16,97 \times \text{poids kg}) + (1,618 \times \text{taille cm}) + 371,2</math></b>
+</td>
+<td data-bbox="584 208 905 253">
+<b>Garçon : <math>(19,6 \times \text{poids kg}) + (1,033 \times \text{taille cm}) + 414,9</math></b>
+</td>
+</tr>
+<tr>
+<td data-bbox="78 253 263 298"><b>10 à 18 ans : Formule de Schofield</b></td>
+<td data-bbox="263 253 584 298">
+<b>Fille : <math>(8,365 \times \text{poids kg}) + (4,65 \times \text{taille cm}) + 200</math></b>
+</td>
+<td data-bbox="584 253 905 298">
+<b>Garçon : <math>(16,25 \times \text{poids kg}) + (1,372 \times \text{taille cm}) + 515,5</math></b>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p><u>Annexe 7</u> : Besoins nutritionnels caloriques quotidiens du brûlé grave à la phase aiguë. La dépense énergétique de repos se calcule à l'aide de la formule de Harris et Benedict. L'apport en vitamines et éléments-traces n'est pas une priorité des premières heures et les doses requises sont disponibles dans les RFE « Nutrition Artificielle en Réanimation » de la SFAR.</p>

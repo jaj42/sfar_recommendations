@@ -1,0 +1,45 @@
+{
+  "file_name": "Proposition%20fiche%20TLC%20CAMR%20mars%202021.pdf",
+  "num_pages": 3,
+  "total_token_count": 2804,
+  "total_chunks": 37,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1096,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1077,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 631,
+      "num_chunks": 7,
+      "num_images": 0
+    }
+  ]
+}

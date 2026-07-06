@@ -1,0 +1,21 @@
+{
+  "file_name": "fonctionnalites%20des%20plateformes%20de%20TLC%20CAMR%20mars%202021.pdf",
+  "num_pages": 1,
+  "total_token_count": 1597,
+  "total_chunks": 35,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1597,
+      "num_chunks": 35,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "file_name": "liste-des-centres-de-traitement-des-brules-francais-et-transfrontaliers.pdf",
+  "num_pages": 2,
+  "total_token_count": 3207,
+  "total_chunks": 7,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 2820,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 387,
+      "num_chunks": 3,
+      "num_images": 1
+    }
+  ]
+}

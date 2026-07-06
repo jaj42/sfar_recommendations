@@ -1,0 +1,33 @@
+{
+  "file_name": "Examen%20clinique%20Visio%20CAMR%20mars%202021.pdf",
+  "num_pages": 2,
+  "total_token_count": 1287,
+  "total_chunks": 19,
+  "total_images": 9,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 884,
+      "num_chunks": 12,
+      "num_images": 5
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 403,
+      "num_chunks": 7,
+      "num_images": 4
+    }
+  ]
+}

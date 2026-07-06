@@ -1,0 +1,44 @@
+
+<h2>Annexe 1 : Arbre diagnostique de l'anémie</h2>
+
+<img alt="SFAR logo" src="18cde10fb94c3d44039a2728bca551b9_2_img.webp"/>
+
+<img alt="srlf SOCIÉTÉ DE RÉANIMATION DE LANGUE FRANÇAISE logo" src="18cde10fb94c3d44039a2728bca551b9_3_img.webp"/>
+
+
+<pre>
+graph TD
+    Start["Hb &lt; 13 g/dl Homme<br/>Hb &lt; 12 g/dl Femme"]
+    Start --&gt; Retic1["Réticulocytes &lt; 100 G/l<br/>non-régénératives"]
+    Start --&gt; Retic2["Réticulocytes &gt; 100 G/l<br/>régénératives"]
+    
+    Retic1 --&gt; VGM1["VGM &lt; 80 fl<br/>microcytaires"]
+    Retic1 --&gt; VGM2["VGM 80-100<br/>normocytaire"]
+    Retic1 --&gt; VGM3["VGM &gt; 100<br/>macrocytaire"]
+    
+    VGM1 --&gt; BilanM["Bilan martial:<br/>- Ferritine &lt; 100, TSAT &lt; 20%<br/>- RetHe &lt; 29 pg, % Hypo &gt; 10%<br/>- Hepcidine* ↓"]
+    BilanM -- oui --&gt; CM["Carence Martiale"]
+    BilanM -- non --&gt; CM2["Anémie Inflammatoire<br/>Infection (parvovirus B19...)<br/>• Hémoglobinopathies,<br/>• saturnisme,<br/>• déficit B6..."]
+    
+    VGM2 --&gt; Bilan2["Bilan :<br/>- Créatinine<br/>- CRP<br/>- Folate-B12#..."]
+    Bilan2 --&gt; CM2
+    
+    VGM3 --&gt; Bilan3["Bilan :<br/>- TSH (±T4)<br/>- Folate – B12#"]
+    Bilan3 --&gt; CM3["Carence mixtes,<br/>• Insuffisance<br/>Rénale,<br/>• Endocrinopathies,<br/>• Myélodysplasies..."]
+    Bilan3 --&gt; CM4["Hypothyroïdie,<br/>Insuffisance rénale,<br/>Myélodysplasies,<br/>Médicaments..."]
+    
+    Retic2 --&gt; BilanH["Bilan hémolyse<br/>- Schizocytes<br/>- Haptoglobine<br/>- LDH"]
+    BilanH --&gt; H["Hémolyse"]
+    BilanH --&gt; APH["Anémie post<br/>hémorragique..."]
+    
+    CM2 --&gt; BC["Bilan complémentaire: myélogramme..."]
+    CM3 --&gt; BC
+    CM4 --&gt; BC
+    </pre>
+<p>The flowchart starts with hemoglobin levels: Hb &lt; 13 g/dl for men and Hb &lt; 12 g/dl for women. It branches into two main categories based on reticulocyte count: non-regenerative (Reticulocytes &lt; 100 G/l) and regenerative (Reticulocytes &gt; 100 G/l). The non-regenerative branch further divides into microcytic (VGM &lt; 80 fl), normocytic (VGM 80-100), and macrocytic (VGM &gt; 100). Microcytic anemia leads to a martial blood test (ferritin, TSAT, RetHe, Hepcidine). If positive, it's iron deficiency; if negative, it leads to inflammatory anemia/infection (parvovirus B19) or other causes like hemoglobinopathies, saturnism, or B6 deficiency. Normocytic and macrocytic anemias lead to specific blood tests (creatinine, CRP, Folate-B12, TSH, Folate-B12) and lead to mixed deficiencies, renal insufficiency, endocrinopathies, myelodysplasias, hypothyroidism, renal insufficiency, myelodysplasias, or medications. The regenerative branch leads to a hemolysis blood test (schizocytes, haptoglobin, LDH), leading to hemolysis or post-hemorrhagic anemia. All specific diagnostic paths lead to a complementary blood test: myelogramme.</p>
+
+<p>L'arbre diagnostique de l'anémie est donné ici à titre indicatif.</p>
+
+<p>* l'hepcidine n'est pas encore disponible en pratique courante.</p>
+
+<p># l'OMS définit la carence en folate comme un taux de folates sérique &lt; 10 nmol/L (4.4 µg/L) ou un taux de folates érythrocytaires, qui reflète le statut à long terme et les réserves tissulaires, &lt; 305 nmol/L (&lt; 140 µg/L). Pour la carence en vitamine B12, un taux sérique &lt; 150 pmol/L (&lt; 203 ng/L) indique une carence, un taux supérieur ne l'élimine pas et il faut alors faire un dosage sanguin d'acide méthylmalonique (un taux &gt; 271 nmol/L est en faveur de carence en vitamine B12).</p>

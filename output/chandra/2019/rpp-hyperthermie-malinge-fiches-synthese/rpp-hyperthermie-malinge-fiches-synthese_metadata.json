@@ -1,0 +1,33 @@
+{
+  "file_name": "rpp-hyperthermie-malinge-fiches-synthese.pdf",
+  "num_pages": 2,
+  "total_token_count": 3930,
+  "total_chunks": 63,
+  "total_images": 9,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1440,
+        2080
+      ],
+      "token_count": 2308,
+      "num_chunks": 40,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1440,
+        2080
+      ],
+      "token_count": 1622,
+      "num_chunks": 23,
+      "num_images": 8
+    }
+  ]
+}

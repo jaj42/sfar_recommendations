@@ -1,0 +1,58 @@
+<pre>graph TD; Start([TRAUMATISME]) --&gt; Decision{URGENCE VITALE}; Decision -- OUI --&gt; Rapid[EXTRACTION RAPIDE<br/>Maintien axe Tête – Cou – Tronc<br/>(minerve rigide)]; Decision -- NON --&gt; Symptoms[Douleur en regard des apophyses épineuses<br/>ou<br/>Troubles de la conscience<br/>ou<br/>Déficit neurologique focalisé<br/>ou<br/>Alcoolisation, Douleur distractrice]; Symptoms -- NON --&gt; NoImmobil[PAS D'IMMOBILISATION]; Symptoms -- OUI --&gt; PlanImmobil[EXTRACTION PLAN DUR<br/>IMMOBILISATION CERVICALE<br/>(Fixateur de tête)]; PlanImmobil --&gt; Transport([Transport matelas coquille]);</pre><p>The flowchart begins with an oval labeled 'TRAUMATISME'. An arrow points down to a red diamond labeled 'URGENCE VITALE'. From the diamond, two arrows branch out: one labeled 'OUI' leading to an orange box 'EXTRACTION RAPIDE' with the text 'Maintien axe Tête – Cou – Tronc (minerve rigide)'; the other labeled 'NON' leading to a vertical stack of four purple boxes. These boxes contain: 'Douleur en regard des apophyses épineuses', 'ou', 'Troubles de la conscience', 'ou', 'Déficit neurologique focalisé', 'ou', and 'Alcoolisation, Douleur distractrice'. From the bottom of the stack, two arrows branch out: one labeled 'NON' leading to an orange box 'PAS D'IMMOBILISATION'; the other labeled 'OUI' leading to an orange box 'EXTRACTION PLAN DUR IMMOBILISATION CERVICALE (Fixateur de tête)'. Finally, an arrow from the last box points down to a grey oval labeled 'Transport matelas coquille'.</p><p>Algorithme sur l'immobilisation rachidienne des patients avec ou à risque de lésion médullaire cervicale (Avis d'experts)</p>
+
+<pre>
+graph TD
+    Start([Indication d'intubation trachéale d'un patient avec ou à risque de lésion médullaire cervicale])
+    Start --&gt; Extra{Intubation en milieu EXTRA-HOSPITALIER}
+    Start --&gt; Hospital{Intubation en milieu HOSPITALIER}
+    
+    Extra --&gt; Box1[1) Induction séquence rapide<br/>2) <u>LARYNGOSCOPIE DIRECTE</u><br/>3) <u>MANDRIN LONG</u> (type Eschmann)<br/>4) Stabilisation du rachis en ligne]
+    
+    Hospital --&gt; Vital{URGENCE VITALE}
+    Vital -- NON --&gt; EP[Estomac plein (EP)]
+    EP -- NON --&gt; Mouth[Ouverture de bouche limitée<br/>ou<br/>Ventilation au masque prévue difficile]
+    Mouth -- OUI --&gt; Box2[1) Intubation fibroscopique en ventilation spontanée<br/>2) Stabilisation du rachis en ligne]
+    
+    Vital -- OUI --&gt; Box3[1) Induction séquence rapide (si Estomac Plein ou urgence vitale)<br/>2) <u>VIDEOLARYNGOSCOPIE</u><br/>3) Stabilisation du rachis en ligne]
+    EP -- OUI --&gt; Box3
+    Mouth -- NON --&gt; Box3
+  </pre>
+<p>The flowchart outlines the procedure for tracheal intubation in patients with a risk of cervical spinal cord injury. It starts with the indication of intubation, branching into two main paths: <b>Extra-Hospitalier</b> and <b>Hospitalier</b>.</p>
+<ul>
+<li><b>Extra-Hospitalier:</b> Leads to a box containing:
+      <ol>
+<li>1) Induction séquence rapide</li>
+<li>2) <u>LARYNGOSCOPIE DIRECTE</u></li>
+<li>3) <u>MANDRIN LONG</u> (type Eschmann)</li>
+<li>4) Stabilisation du rachis en ligne</li>
+</ol>
+</li>
+<li><b>Hospitalier:</b> Leads to a decision diamond <b>URGENCE VITALE</b>.
+      <ul>
+<li>If <b>NON</b> (not vital emergency):
+          <ul>
+<li>Check <b>Estomac plein (EP)</b>.
+              <ul>
+<li>If <b>NON</b>: Proceed to <b>Ouverture de bouche limitée</b> or <b>Ventilation au masque prévue difficile</b>. If <b>OUI</b>, proceed to:
+                  <ol>
+<li>1) Intubation fibroscopique en ventilation spontanée</li>
+<li>2) Stabilisation du rachis en ligne</li>
+</ol>
+</li>
+<li>If <b>OUI</b>: Proceed to the common box below.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>If <b>OUI</b> (vital emergency): Proceed directly to the common box below.</li>
+</ul>
+</li>
+</ul>
+<p><b>Common Path (from Vital Emergency or EP OUI):</b></p>
+<ul>
+<li>1) Induction séquence rapide (si Estomac Plein ou urgence vitale)</li>
+<li>2) <u>VIDEOLARYNGOSCOPIE</u></li>
+<li>3) Stabilisation du rachis en ligne</li>
+</ul>
+
+<p>Algorithme : Procédure de l'intubation trachéale chez les patients avec ou à risque de lésion médullaire cervicale (Avis d'Experts)</p>

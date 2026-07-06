@@ -1,0 +1,1437 @@
+![SFAR logo: three overlapping circles in orange, red, and teal with the text 'SFAR' in blue.](fe5b692b0f93709b04585dd5f9124aaf_1_img.webp)![SFCTCV logo: a blue circle containing a red heart shape with a blue dot, with the text 'SFCTCV' in blue and 'SOCIÉTÉ FRANÇAISE DE CHIRURGIE THORACIQUE ET CARDIO-VASCULAIRE' in smaller blue text below.](fe5b692b0f93709b04585dd5f9124aaf_2_img.webp)
+
+RECOMMANDATIONS FORMALISEES D'EXPERTS
+
+# Réhabilitation Améliorée Après Chirurgie Cardiaque adulte sous CEC ou à cœur battant
+
+ENHANCED RECOVERY AFTER CARDIAC SURGERY UNDER CPB OR OFF-PUMP
+
+2021
+
+RFE commune SFAR - SFCTCV
+
+Société Française d'Anesthésie et de Réanimation (SFAR)  
+Société Française de Chirurgie Thoracique et Cardiovasculaire (SFCTCV)
+
+Texte validé par le Comité des Référentiels Cliniques de la SFAR le 10/05/2021, le Conseil d'Administration de la SFAR le 19/05/2021, et validé par le Conseil d'Administration de la SFCTCV le 05/06/2021.
+
+**Auteurs :** PM. Mertes\*, M. Kindo\*, J. Amour, C. Baufreton, L. Camilleri, T. Caus, D. Chatel, B. Cholley, A. Curtil, JP. Grimaud, R. Houel, F. Kattou, JL. Fellahi, C. Guidon, PG. Guinot, G. Lebreton, S. Marguerite, A. Ouattara, S. Provenchère Fruithiot, B. Rozec, JP. Verhove, A. Vincentelli, H. Charbonneau.
+
+*\* PM. Mertes et M. Kindo ont contribué également à ces RFE*
+
+**Coordonnateurs d'experts :**
+
+**SFAR :** Paul-Michel Mertes (Service d'Anesthésie-Réanimation et Médecine Péri-opératoire – NHC – Hôpitaux Universitaires de Strasbourg – 1 place de l'Hôpital – 67091 Strasbourg Cedex).**SFCTCV** : Michel Kindo (Service de Chirurgie Cardio-Vasculaire, Transplantation et Assistance Cardiaques – NHC – Hôpitaux Universitaires de Strasbourg – 1 place de l'Hôpital – 67091 Strasbourg Cedex).
+
+**Organisateur :**
+
+**SFAR** : Hélène Charbonneau (Service d'Anesthésie-Réanimation - Clinique Pasteur – 45 avenue de Lombez BP 27617 – 31076 Toulouse Cedex 03).
+
+**Experts de la SFAR :**
+
+Julien Amour (Paris) ; Bernard Cholley (Paris) ; Fehmi Kattou (Paris); Jean-Luc Fellahi (Lyon); Catherine Guidon (Marseille) ; Pierre-Grégoire Guinot (Dijon); Sandrine Marguerite (Strasbourg); Alexandre Ouattara (Bordeaux) ; Sophie Provenchère Fruithiot (Paris); Bertrand Rozec (Nantes).
+
+**Experts de la SFCTCV :**
+
+Christophe Baufreton (Anger) ; Lionel Camilleri (Clermont Ferrand) ; Thierry Caus (Amiens) ; Didier Chatel (Tours) ; Alain Curtil (Lyon); Jean-Philippe Grimaud (Bordeaux); Rémi Houel (Marseille) ; Guillaume Lebreton (Paris); Jean-Philippe Verhove (Rennes); André Vincentelli (Lille).
+
+**Groupes de Lecture :**
+
+*Comité des Référentiels clinique de la SFAR* : Marc Garnier (Président), Alice Blet (Secrétaire), Hélène Charbonneau, Isabelle Constant, Hugues de Courson, Philippe Cuvillon, Marc-Olivier Fischer, Denis Frasca, Catherine Huraux, Matthieu Jabaudon, Audrey de Jong, Daphné Michelet, Emmanuel Weiss.
+
+*Conseil d'Administration de la SFAR* : Hervé Bouaziz (Président); Laurent Delaunay (1<sup>er</sup> vice-président); Pierre Albaladéjo (2<sup>ème</sup> vice-président); Jean Michel Constantin (secrétaire général); Marc Léone (secrétaire général adjoint); Marie-Laure Citanova (trésorière); Karine Nouette-Gaulain (trésorière adjointe); Julien Amour; Hélène Beloeil; Valérie Billard; Julien Cabaton; Xavier Capdevila; Marie-Paule Chariot; Isabelle Constant; Delphine Garrigue; Pierre Kalfon; Frédéric Lacrox; Olivier Langeron; Sigismond Lasocki; Frédéric Le Sache; Luc Mercadal; Frédéric Mercier; Olivier Rontes; Paul Zetlaoui
+
+*Conseil d'Administration de la SFCTCV* : Jean-Philippe Verhoye, Gilbert Massard, Lionel Camilleri, André Vincentelli, Olaf Mercier, Sophie Jaillard-Thery, Christophe Baufreton, Nicolas Bonnet, Laurent Bouchet, Jean-Philippe Grimaud, Jacques Jougon, Bernard Lenot, Bertrand Marcheix, Bertrand Richard de Latour, Agathe Seguin-Givelet**Liens d'intérêts des experts SFAR au cours des cinq années précédant la date de validation par le CA de la SFAR.**
+
+Julien Amour : liens d'intérêt ou conflits d'intérêt avec la société Amomed  
+Bernard Cholley : pas de lien d'intérêt en rapport avec la présente RFE  
+Jean-Luc Fellahi : pas de lien d'intérêt en rapport avec la présente RFE  
+Catherine Guidon : pas de lien d'intérêt en rapport avec la présente RFE  
+Pierre Grégoire Guinot : Enseignement (Hemosims) chez LFB ; cours et moderation ARCOHOVA-TAVI (Medtronic)  
+Fehmi Kattou : Animateur séances d'enseignement (ViforPharma)  
+Sandrine Marguerite : pas de lien d'intérêt en rapport avec la présente RFE  
+Alexandre Ouattara : pas de lien d'intérêt en rapport avec la présente RFE  
+Sophie Provenchère-Fruthiot : pas de lien d'intérêt en rapport avec la présente RFE  
+Bertrand Rozec : liens d'intérêt ou conflits d'intérêt avec les sociétés LFB, Amomed, NordicPharma, Haemonetics, Fisher & Paykel, Aspen, Aguettant, Astra Zeneca, Baxter, Boston Scientifique, ISep, EthyPharm
+
+**Liens d'intérêts des experts SFCTCV au cours des cinq années précédant la date de validation par le CA de la SFCTCV.**
+
+Christophe Baufreton : activités d'enseignement (Medtronic), consultant chez Cytosorb  
+Lionel Camilleri : pas de lien d'intérêt en rapport avec la présente RFE  
+Thierry Caus : pas de lien d'intérêt en rapport avec la présente RFE  
+Didier Chatel : pas de lien d'intérêt en rapport avec la présente RFE  
+Alain Curtil : pas de lien d'intérêt en rapport avec la présente RFE  
+Jean-Philippe Grimaud : Consultant (Livanova) ; procteur pour la valve aortique Perceval (Sorin)  
+Rémi Houel : pas de lien d'intérêt en rapport avec la présente RFE  
+Michel Kindo : pas de lien d'intérêt en rapport avec la présente RFE  
+Guillaume Lebreton : pas de lien d'intérêt en rapport avec la présente RFE  
+Jean-Philippe Verhoye : pas de lien d'intérêt en rapport avec la présente RFE  
+André Vincentelli : pas de lien d'intérêt en rapport avec la présente RFE## RESUME
+
+**Objectif:** Editer des recommandations pour un programme de Réhabilitation Améliorée Après Chirurgie Cardiaque (RAACC), reposant sur une approche multimodale de la médecine péri-opératoire des patients adultes opérés d'une chirurgie cardiaque, ayant pour objectifs d'améliorer la satisfaction du patient, de réduire la morbidité et la mortalité postopératoires et les durées de séjour.
+
+**Conception:** Un groupe composé de 20 experts des Sociétés Françaises d'Anesthésie-Réanimation (SFAR) et de la Société Française de Chirurgie Thoracique et Cardio-Vasculaire (SFCTCV) a été réuni. D'éventuels conflits d'intérêts ont été officiellement déclarés dès le début du processus d'élaboration des recommandations et ce dernier a été conduit indépendamment de tout financement de l'industrie. Les auteurs ont suivi la méthode GRADE (*Grading of Recommendations Assessment, Development and Evaluation*) pour évaluer le niveau de preuve de la littérature.
+
+**Méthodes:** Six champs ont été définis : 1) la sélection du parcours patient et son information; 2) la gestion et la réhabilitation préopératoire; 3) l'anesthésie et analgésie pour chirurgie cardiaque; 4) la stratégie chirurgicale et la gestion de la circulation extracorporelle (CEC); 5) la gestion personnalisée du capital sanguin, et 6) la réhabilitation postopératoire. Pour chaque champ, l'objectif des recommandations était de répondre à un certain nombre de questions formulées selon le modèle PICO (*Population, Intervention, Comparison, Outcome*). A partir de ces questions, une recherche bibliographique extensive a été réalisée, et analysée selon la méthode GRADE. Les recommandations ont été formulées selon la méthode GRADE, puis votées par tous les experts selon la méthode GRADE grid.
+
+**Résultats :** 33 recommandations sur la prise en charge des patients opérés d'une chirurgie cardiaque sous CEC ou à cœur battant ont été formulées par le panel d'experts SFAR/SFCTCV. Après trois tours de votes et plusieurs amendements, un accord fort a été obtenu pour 33 recommandations. Parmi ces recommandations, 10 ont un niveau de preuve élevé (7 GRADE 1+ et 3 GRADE 1-), 19 ont un niveau de preuve faible (15 GRADE 2+ et 4 GRADE 2-) et 4 sont des avis d'experts. Enfin, pour 3 questions, aucune recommandation n'a pu être formulée.
+
+**Conclusion :** Un accord fort a été obtenu parmi les experts afin de fournir des recommandations visant à optimiser la prise en charge péri-opératoire des patients opérés d'une chirurgie cardiaque sous CEC ou à cœur battant.
+
+**Mots clés :** chirurgie cardiaque ; réhabilitation améliorée après chirurgie (RAC) ; recommandations.## ABSTRACT
+
+**Objective:** To provide recommendations for Enhanced Recovery After Cardiac Surgery (ERACS) based on a multimodal approach of perioperative medicine of adult cardiac surgery patients with the aim of improving patient satisfaction, reducing postoperative mortality and morbidity and reducing length of hospital stays.
+
+**Design:** A consensus committee of 20 experts from the French society of anaesthesiology and critical care medicine (Société Française d'Anesthésie-Réanimation, SFAR) and the French society of thoracic and cardiovascular surgery (Société Française de Chirurgie Thoracique et Cardio-Vasculaire, SFCTCV) was convened. A formal conflict-of-interest policy was developed at the onset of the process and enforced throughout. The entire guidelines process was conducted independently of any industry funding. The authors were advised to follow the principles of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system to guide assessment of quality of evidence.
+
+**Methods:** Six fields were defined: 1) selection of the patient pathway and their information; 2) preoperative management and rehabilitation; 3) anaesthesia and analgesia for cardiac surgery; 4) surgical strategy for cardiac surgery and bypass management; 5) Patient Blood Management ; and 6) postoperative enhanced recovery. For each field, the objective of the recommendations was to answer questions formulated according to the PICO model (*Population, Intervention, Comparison, Outcome*). Based on these questions, an extensive bibliographic search was carried out and analysed using the GRADE approach. The recommendations were formulated according to the GRADE methodology, and then voted by all the experts according to the GRADE grid method.
+
+**Results:** The SFAR/SFCTCV guideline panel provided 33 recommendations on the management of patients undergoing pulmonary lobectomy. After three rounds of voting and several amendments, a strong agreement was reached for 33 recommendations. Of these recommendations, 10 have a high level of evidence (7 GRADE 1+ and 3 GRADE 1-); 19 have a moderate level of evidence (15 GRADE 2+ and 4 GRADE 2-); and 4 are expert judgments. Finally, no recommendation was provided for 3 questions.
+
+**Conclusions:** Strong agreement exists among the experts to provide recommendations to optimize the whole perioperative management of patients undergoing cardiac surgery.
+
+**Keywords:** cardiac surgery; enhanced recovery after surgery (ERAS); guidelines.## INTRODUCTION
+
+Les pathologies cardiaques ont une forte prévalence et sont associées à une importante morbi-mortalité. La chirurgie cardiaque constitue le traitement de référence de nombreuses pathologies cardio-vasculaires. La majorité de ces chirurgies sont réalisées sous circulation extracorporelle (CEC). Malgré de très nombreux progrès ces dernières décennies, la chirurgie cardiaque est associée à une morbidité et une mortalité postopératoire pouvant varier de 5 à 75% en fonction de la chirurgie réalisée, des comorbidités des patients et de leur fragilité [1].
+
+La Réhabilitation Améliorée Après Chirurgie (RAAC) est une optimisation multimodale et interdisciplinaire de la prise en charge périopératoire du patient dans le but de favoriser le rétablissement précoce de ses capacités après la chirurgie, d'améliorer sa satisfaction, de réduire la morbi-mortalité postopératoire et les durées de séjour [2]. Elle s'applique aux 3 phases du parcours de soins des patients en chirurgie, à savoir : le pré-, le per- et le postopératoire [2]. En préopératoire, le parcours de soins doit notamment intégrer une préhabilitation reposant sur l'entraînement cardio-respiratoire et musculaire, l'optimisation nutritionnelle et une prise en charge psychologique.
+
+En chirurgie cardiaque, des résultats prometteurs ont été obtenus dans les programmes dits de « *Fast track* » dès les années 1990 [3]. Il s'agissait à l'origine de réduire l'utilisation des morphiniques afin de favoriser une extubation rapide [3]. Des études récentes ont montré qu'un programme RAAC en chirurgie cardiaque était associé à une diminution des durées d'hospitalisation et de la morbidité postopératoire [4-7].
+
+L'objectif de ces RFE conduites de manière commune entre des experts chirurgicaux de la SFCTCV et médicaux de la SFAR était d'analyser l'intérêt de différentes mesures chirurgicales et médicales qui pourraient s'inscrire systématiquement dans un programme de Réhabilitation Améliorée Après Chirurgie Cardiaque (RAACC) sous CEC ou à cœur battant.
+
+## MÉTHODE
+
+### Organisation générale
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la SFAR et la SFCTCV. Chaque expert a rempli une déclaration de conflits d'intérêts avant de débuter le travail d'analyse. L'agenda du groupe a été fixé en amont. Dans un premier temps, le comité d'organisation a défini les questions à traiter avec les coordonnateurs d'experts. Il a ensuite désigné les experts en charge de chacune d'entre elles. Les questions ont été formulées selon un format PICO (*Population, Intervention, Comparison, Outcome*) après une première réunion du groupe d'experts. La population « P » pour l'ensemble des questions est définie comme « Patients adultes opérés d'une chirurgie cardiaque sous CEC ou à cœur battant ». L'analyse de la littérature et la formulation des recommandations ont ensuite été conduites selon la méthodologie GRADE (*Grade of Recommendation Assessment, Development and Evaluation*). Un niveau de preuve a été défini pour chacune des références bibliographiques citées en fonction du type de l'étude. Ce niveau de preuve pouvait être réévalué en tenant compte de la qualité méthodologique de l'étude. Un niveau global de preuve était déterminé pour chaque critère de jugement en tenant compte des niveaux de preuve de chacune des référencesbibliographiques, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, de l'analyse de coût et de l'importance du bénéfice. Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » (« il est recommandé de faire... » - GRADE 1+, « il n'est pas recommandé de faire... » - GRADE 1-). Un niveau global de preuve modéré ou faible aboutissait à l'écriture d'une recommandation « optionnelle » (« il est probablement recommandé de faire... » - GRADE 2+ ou « il n'est probablement pas recommandé de faire... » - GRADE 2-). Lorsque la littérature était très faible ou inexistante, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'expert (« les experts suggèrent... »). Les propositions de recommandations ont été présentées et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation était alors évaluée par chacun des experts et soumise à leurs cotations individuelles à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La cotation collective était établie selon une méthodologie GRADE grid. Pour valider une recommandation sur un critère, au moins 50 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. Pour qu'une recommandation soit forte, au moins 70 % des participants devaient avoir une opinion qui allait globalement dans la même direction. En l'absence d'accord fort, les recommandations étaient reformulées et, de nouveau, soumises à cotation dans l'objectif d'aboutir à un consensus. Les recommandations de GRADE 1 devaient nécessairement obtenir un accord fort ; tandis que les recommandations de GRADE 2 pouvaient obtenir un accord fort ou faible. Les avis d'experts, exprimant par définition un consensus entre les experts en l'absence de littérature suffisamment forte pour grader ces recommandations, devaient nécessairement obtenir un accord fort (i.e. au moins 70% d'opinions allant dans la même direction).
+
+### **Champs des recommandations**
+
+Les recommandations formulées concernent six champs : 1) la sélection du parcours patient et son information; 2) la gestion et la réhabilitation pré-opératoires ; 3) l'anesthésie et l'analgésie en chirurgie cardiaque; 4) la stratégie chirurgicale et la gestion de la circulation extra-corporelle (CEC) en chirurgie cardiaque ; 5) la gestion personnalisée du capital sanguin (patient blood management (PBM)) ; et 6) la réhabilitation post-opératoire.
+
+En préambule, il a été décidé de ne pas produire de recommandations qui n'étaient pas étayées par les données de la littérature et donc de limiter le nombre d'avis d'experts. La population pédiatrique a été exclue du champ de ce référentiel. Une recherche bibliographique extensive sur les 25 dernières années a été réalisée à partir des bases de données MEDLINE, Cochrane™ et [www.clinicaltrials.gov](http://www.clinicaltrials.gov). Pour être retenues dans l'analyse, les publications devaient être rédigées en langue anglaise ou française. L'analyse a été centrée sur les données récentes selon un ordre d'appréciation allant des méta-analyses d'essais randomisés, aux méta-analyses d'autres essais puis aux essais randomisés, et enfin aux autres études dont les études observationnelles et rétrospectives. La taille des effectifs, la pertinence de la recherche, l'existence de biais potentiels, l'importance des résultats et des écart-types constatés ont été prises en considération pour chaque étude.
+
+### **Synthèse des résultats**Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 33 recommandations. Après trois tours de cotation et quelques amendements, un accord fort a été obtenu pour 33 recommandations. Parmi ces recommandations, 10 ont un niveau de preuve élevé (7 GRADE 1+ et 3 GRADE 1-), 19 ont un niveau de preuve modéré à faible (15 GRADE 2+ et 4 GRADE 2-) et 4 sont des avis d'experts. Enfin, pour 3 questions, aucune recommandation n'a pu être formulée.
+
+La SFAR et la SFCTCV incitent tous les anesthésistes-réanimateurs et chirurgiens cardiaques à se conformer à ces RFE pour optimiser la qualité des soins dispensés aux patients.
+
+Cependant, chaque praticien doit exercer son propre jugement dans l'application de ces recommandations, en prenant en compte son expertise et les spécificités de son établissement, pour déterminer la méthode d'intervention la mieux adaptée à l'état du patient dont il a la charge.
+
+## RÉFÉRENCES
+
+- [1] Koh LY, Hwang NC. Frailty in Cardiac Surgery. *J Cardiothorac Vasc Anesth* 2019;33(2):521-531. doi: 10.1053/j.jvca.2018.02.032. Epub 2018 Feb 22.
+- [2] Engelman DT, Ben Ali W, Williams JB, Perrault LP, Reddy VS, Arora RC et al. Guidelines for Perioperative Care in Cardiac Surgery: Enhanced Recovery After Surgery Society Recommendations. *JAMA Surg* 2019;154(8):755-766. doi:10.1001/jamasurg.2019.1153.
+- [3] Engelman RM, Rousou JA, Flack JE 3rd, Deaton DW, Humphrey CB, Ellison LH, et al. Fast-track recovery of the coronary bypass patient. *Ann Thorac Surg* 1994;58:1742-6. doi: 10.1016/0003-4975(94)91674-8.
+- [4] Williams JB, McConnell G, Allender JE, Woltz P, Kane K, Smith PK, et al. One-year results from the first US-based enhanced recovery after cardiac surgery (ERAS Cardiac) program. *J Thorac Cardiovasc Surg* 2019;157:1881-1888. doi: 10.1016/j.jtcvs.2018.10.164.
+- [5] Li M, Zhang J, Gan TJ, Qin G, Wang L, Zhu M, et al. Enhanced recovery after surgery pathway for patients undergoing cardiac surgery: a randomized clinical trial. *Eur J Cardiothorac Surg* 2018;54:491-497. doi: 10.1093/ejcts/ezy100.
+- [6] Markham T, Wegner R, Hernandez N, Lee JW, Choi W, Eltzschig HK, et al. Assessment of a multimodal analgesia protocol to allow the implementation of enhanced recovery after cardiac surgery: Retrospective analysis of patient outcomes. *J Clin Anesth* 2019;54:76-80. doi: 10.1016/j.jclinane.2018.10.035.
+- [7] Grant MC, Isada T, Ruzankin P, Whitman G, Lawton JS, Dodd-O J, et al. Results from an enhanced recovery program for cardiac surgery. *J Thorac Cardiovasc Surg* 2020;159:1393-1402.e7. doi: 10.1016/j.jtcvs.2019.05.035.## **CHAMP 1. SELECTION DU PARCOURS PATIENT ET INFORMATION**
+
+**Question 1.** La mise en place d'un programme RAACC permet-elle de réduire les complications postopératoires ou la durée d'hospitalisation ?
+
+*Experts : Jean-Philippe GRIMAUD (SFCTCV, Bordeaux), Fehmi KATTOU (SFAR, Paris)*
+
+**R1.1 – Il est probablement recommandé d'inclure les patients dans un programme de RAACC afin de réduire les durées de ventilation mécanique, les durées d'hospitalisation en réanimation et à l'hôpital.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Le concept initial de "Fast Track" reposait sur l'analgésie multimodale avec épargne morphinique et une mobilisation précoce [1]. Ce concept a évolué vers la Réhabilitation Améliorée Après Chirurgie (RAAC) notamment avec l'inclusion de protocoles préopératoires permettant d'améliorer la satisfaction des patients et de réduire la morbi-mortalité postopératoires [2]. Des recommandations ont été émises en chirurgie viscérale [2], en chirurgie thoracique [3] et plus récemment en chirurgie cardiaque [4]. La RAAC inclut l'information du patient, la réduction de la période de jeûne péri-opératoire, une analgésie multimodale avec épargne morphinique plus ou moins associée à une anesthésie locorégionale et une mobilisation précoce [2-4].
+
+A ce jour, il n'y a pas de consensus dans la littérature concernant les actions péri-opératoires devant être incluses dans un programme de RAACC. Toutes les études ont inclus des patients bénéficiant d'une chirurgie cardiaque élective [1,5-10]. Les effectifs étaient limités avec moins de 500 patients par groupe [1,5-10]. Il s'agissait d'études rétrospectives [1,6,8] ou prospectives de cohorte [5,9,10]. Seule l'étude de Li et al. [7] était une étude prospective randomisée.
+
+Trois études rapportaient la mortalité hospitalière qui ne différait pas entre les groupes standard et Fast Track [1] ou RAACC [5,9,10]. Deux études ont objectivé une diminution de la morbidité cumulée hospitalière dans le groupe RAACC [5,7].
+
+Le protocole Fast Track [1] et le programme RAACC [5-10] étaient associés à une diminution de la durée de ventilation mécanique, de la durée de séjour en réanimation et de la durée de séjour globale par rapport à une prise en charge standard. Deux études ne retrouvaient pas de différence concernant l'incidence des ré-intubations [8,9]. L'incidence de la broncho-pneumopathie postopératoire n'était pas rapportée dans ces différentes études.
+
+Une étude prospective de cohorte incluant des patients opérés de pontage coronarien à cœur battant objectivait une diminution du taux de troponine T dans le groupe RAACC comparativement au groupe standard [10]. Cependant, deux autres études ne retrouvaient pas de différence en termes d'incidence d'infarctus du myocarde postopératoire [1,5]. Les incidences d'AVC [5,7], d'ACFA [1,5,7] et d'insuffisance rénale aiguë [5] postopératoires ne différaient pas en fonction des modalités de prise en charge.
+
+En conclusion, malgré l'absence de consensus sur la définition du programme RAACC, il existe actuellement dans la littérature une tendance forte en faveur de l'intérêt d'un programme RAACC en termes de réduction des durées de ventilation mécanique ou des durées de séjour en réanimation et à l'hôpital.## Références
+
+- [1] Engelman RM, Rousou JA, Flack JE 3rd, Deaton DW, Humphrey CB, Ellison LH, et al. Fast-track recovery of the coronary bypass patient. *Ann Thorac Surg* 1994;58:1742-6. doi: 10.1016/0003-4975(94)91674-8.
+- [2] Gustafsson UO, Scott MJ, Hubner M, Nygren J, Demartines N, Francis et al. Guidelines for Perioperative Care in Elective Colorectal Surgery: Enhanced Recovery After Surgery (ERAS®) Society Recommendations: 2018. *World J Surg*. 2019 Mar;43(3):659-695. doi: 10.1007/s00268-018-4844-y.
+- [3] Batchelor TJP, Rasburn NJ, Abdelnour-Berchtold E, Brunelli A, Cerfolio RJ, Gonzalez M et al. Guidelines for enhanced recovery after lung surgery: recommendations of the Enhanced Recovery After Surgery (ERASVR ) Society and the European Society of Thoracic Surgeons (ESTS). *Eur J Cardiothorac Surg*. 2019 Jan 1;55(1):91-115. doi: 10.1093/ejcts/ezy301.
+- [4] Engelman DT, Ben Ali W, Williams JB, Perrault LP, Reddy VS et al. Guidelines for Perioperative Care in Cardiac Surgery : Enhanced Recovery After Surgery Society Recommendations. *JAMA Surg*. 2019 Aug 1;154(8):755-766. doi: 10.1001/jamasurg.2019.1153.
+- [5] Fleming IO, Garratt C, Guha R, Desai J, Chaubey S, Wang Y, et al. Aggregation of Marginal Gains in Cardiac Surgery: Feasibility of a Perioperative Care Bundle for Enhanced Recovery in Cardiac Surgical Patients. *J Cardiothorac Vasc Anesth*;30:665-70. doi: 10.1053/j.jvca.2016.01.017.
+- [6] Williams JB, McConnell G, Allender JE, Woltz P, Kane K, Smith PK, et al. One-year results from the first US-based enhanced recovery after cardiac surgery (ERAS Cardiac) program. *J Thorac Cardiovasc Surg* 2019;157:1881-1888. doi: 10.1016/j.jtcvs.2018.10.164.
+- [7] Li M, Zhang J, Gan TJ, Qin G, Wang L, Zhu M, et al. Enhanced recovery after surgery pathway for patients undergoing cardiac surgery: a randomized clinical trial. *Eur J Cardiothorac Surg* 2018;54:491-497. doi: 10.1093/ejcts/ezy100.
+- [8] Markham T, Wegner R, Hernandez N, Lee JW, Choi W, Eltzschig HK, et al. Assessment of a multimodal analgesia protocol to allow the implementation of enhanced recovery after cardiac surgery: Retrospective analysis of patient outcomes. *J Clin Anesth* 2019;54:76-80. doi: 10.1016/j.jclinane.2018.10.035.
+- [9] Grant MC, Isada T, Ruzankin P, Whitman G, Lawton JS, Dodd-O J, et al. Results from an enhanced recovery program for cardiac surgery. *J Thorac Cardiovasc Surg* 2020;159:1393-1402.e7. doi: 10.1016/j.jtcvs.2019.05.035.
+- [10] Borys M, Żurek S, Kurowicki A, Horeczy B, Bielina B, Sejboth J, et al. Implementation of Enhanced Recovery After Surgery (ERAS) protocol in off-pump coronary artery bypass graft surgery. A prospective cohort feasibility study. *Anaesthesiol Intensive Ther* 2020;52:10-14. doi: 10.5114/ait.2020.93160.
+
+## **Question 2. Les modalités d'information et d'éducation préopératoires ont-elles un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Jean-Philippe GRIMAUD (SFCTCV, Bordeaux), Fehmi KATTOU (SFAR, Paris)*
+
+**R1.2 – Il est probablement recommandé de délivrer une information et une éducation de qualité à l'aide de plusieurs supports avant une chirurgie cardiaque pour diminuer l'incidence des complications postopératoires.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Plusieurs essais cliniques randomisés rapportaient un bénéfice d'une information de qualité en préopératoire sur la survenue de complications postopératoires des patients de chirurgie cardiaque [1-5]. Dans ces études, l'information et l'éducation des patients comprenaient à chaque fois un livret d'information et un entretien de 20 à 40 minutes avec une infirmière spécialisée. Zhang et al. ont rapporté moins de pneumopathies et moins de troubles du rythme cardiaque dans le groupe de patients ayant reçu une éducation par une infirmière spécialisée 3 jours avant la chirurgie avec notamment un apprentissage des techniques derespiration abdominale, de toux et des informations détaillées concernant leur séjour et leurs parcours de soins [1]. Dans un autre essai randomisé portant sur 395 patients, Kalogianni et al. retrouvaient une baisse des infections du site opératoire de 5,3% à 0,5% [2]. Dans une autre étude récente [3], une éducation individualisée préopératoire réduisait l'incidence du delirium postopératoire de 24% à 10% chez les patients opérés en chirurgie cardiaque. En revanche, la durée de séjour à l'hôpital était similaire entre les deux groupes. Concernant l'impact de l'éducation préopératoire sur la durée d'hospitalisation, les résultats rapportés par Guo et al. [4] et confirmés à travers la méta-analyse de 14 études menée par Ramesh en 2016 incluant 2071 patients [5] ont également objectivés une réduction significative de l'anxiété sans impact sur la durée d'hospitalisation.
+
+A ce jour, le niveau de preuve est insuffisant pour parvenir à des conclusions formelles sur le rôle de l'information et de l'éducation thérapeutique préopératoire en chirurgie cardiaque. Des études supplémentaires sont nécessaires pour explorer l'hétérogénéité de ces données. Devant l'absence d'effet indésirable lié à l'information du patient, nous recommandons aux praticiens de santé d'apporter une information préopératoire complète et des conseils personnalisés.
+
+#### Références
+
+- [1] Zhang CY, Jiang Y, Yin QY, Chen FJ, Ma LL, Wang LX. Impact of nurse-initiated preoperative education on postoperative anxiety symptoms and complications after coronary artery bypass grafting. *J Cardiovasc Nurs.* 2012 Jan-Feb;27(1):84-8. doi: 10.1097/JCN.0b013e3182189c4d.
+- [2] Kalogianni A, Almpani P, Vastardis L, Baltopoulos G, Charitos C, Brokalaki H. Can nurse-led preoperative education reduce anxiety and postoperative complications of patients undergoing cardiac surgery? *Eur J Cardiovasc Nurs.* 2016 Oct;15(6):447-58. doi: 10.1177/1474515115602678.
+- [3] Xue X, Wang P, Wang J, Li X, Peng F, Wang Z. Preoperative individualized education intervention reduces delirium after cardiac surgery: a randomized controlled study. *J Thorac Dis.* 2020 May;12(5):2188-2196. doi: 10.21037/jtd.2020.04.26.
+- [4] Guo P, East L, Arthur A. A preoperative education intervention to reduce anxiety and improve recovery among Chinese cardiac patients: a randomized controlled trial. *Int J Nurs Stud.* 2012;49(2):129-37. doi: 10.1016/j.ijnurstu.2011.08.008.
+- [5] Ramesh C, Nayak BS, Pai VB, Patil NT, George A, George LS, Devi ES. Effect of Preoperative Education on Postoperative Outcomes Among Patients Undergoing Cardiac Surgery: A Systematic Review and Meta-Analysis. *J Perianesth Nurs.* 2017;32(6):518-529.e2. doi: 10.1016/j.jopan.2016.11.011.
+
+**Question 3. L'hospitalisation systématique en postopératoire de chirurgie cardiaque en unité de soins critiques a-t-elle un impact sur la survenue de complications postopératoires et sur la durée d'hospitalisation ?**
+
+*Experts : Lionel CAMILLERI (SFCTCV, Clermont-Ferrand), Fehmi KATTOU (SFAR, Paris)*
+
+**R1.3 – Il est probablement recommandé d'admettre les patients en unité de soins critiques (réanimation et/ou surveillance continue) de chirurgie cardiaque en postopératoire afin de réduire la survenue de complications postopératoires.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Les unités de soins critiques incluent par définition 2 types de structure : la réanimation et l'unité de surveillance continue.
+
+**Admission postopératoire en réanimation de chirurgie cardiaque :** Le recours à une unité deréanimation en postopératoire de chirurgie cardiaque semble la règle depuis longtemps, comme en témoigne une enquête réalisée en France [1]. La durée d'hospitalisation semble inversement proportionnelle à la taille de l'unité et au volume d'activité. Trois études prospectives de cohorte [2-4] soulignent l'intérêt d'une admission en postopératoire dans une réanimation cardiovasculaire avec du personnel médical et paramédical spécialisé en soins critiques de chirurgie cardiovasculaire en collaboration avec l'équipe chirurgicale. Ces structures spécialisées en réanimation cardiovasculaire permettent, en comparaison à des unités dans lesquelles les patients sont suivis par l'équipe chirurgicale, une réduction de la mortalité, de la durée de ventilation mécanique, du taux de morbidité globale, de la durée d'hospitalisation et du taux de réadmission [2-4]. Néanmoins, ces données sont issues d'études observationnelles comparant deux périodes successives, ce qui en réduit fortement la pertinence.
+
+**Admission postopératoire en unité de surveillance continue :** Les unités de surveillance continue réduisent les durées d'hospitalisation en réanimation et à l'hôpital après chirurgie cardiaque, sans influencer sur la mortalité [5-7]. L'inclusion des patients sur des périodes différentes réduit considérablement la pertinence de ce résultat faisant probablement intervenir un processus d'apprentissage et d'expérience.
+
+Une admission directe en unité de surveillance continue spécialisée après chirurgie cardiaque (i.e sans passage préalable par la réanimation) a été proposée [8,9] dans 2 études. Dans une première étude, l'utilisation d'une unité de surveillance continue spécialisée en chirurgie cardiaque permettait, après quelques heures de surveillance, de sélectionner les patients qui étaient transférés dans le service d'hospitalisation ou admis en réanimation (7% des patients seulement étaient admis en réanimation) [8]. Il s'agissait cependant d'une étude de cas à la pertinence extrêmement limitée. La deuxième étude, dans le cadre d'un protocole Fast Track, comparait rétrospectivement deux populations de 421 patients consécutifs appariés par score de propension, après admission dans une unité de réanimation versus une unité de surveillance continue spécialisée [9]. Ender et al. rapportent une diminution des durées de ventilation mécanique, de séjours en réanimation et d'hospitalisation lors d'une admission en soins continus par rapport à une admission en réanimation conventionnelle. L'admission en unité de surveillance continue spécialisée était associée à une diminution de la mortalité postopératoire [9].
+
+Ces 2 études suggèrent qu'une admission en postopératoire de chirurgie cardiaque vers une unité de surveillance continue spécialisée peut être envisagée avec des résultats satisfaisants. Le recours aux unités de soins continues spécialisées peut être suggéré pour une meilleure utilisation des ressources des soins de réanimation et pour une réadaptation plus rapide des patients dans un programme de RAACC.
+
+En conclusion, l'utilisation de l'ensemble des ressources d'unité de soins critiques (réanimation et surveillance continue) spécialisée en chirurgie cardiaque, avec le personnel formé à la gestion de ces patients, est probablement recommandée afin d'optimiser le parcours de soins postopératoires.
+
+#### Références
+
+[1] Depoix JP, Desmonts JM, Tiret L. Anesthésie et réanimation en chirurgie cardiaque. Activité en 1982 des centres français [Anesthesia and intensive care in cardiac surgery. Activity at the French centers in 1982]. Ann Fr Anesth Reanim. 1984;3(6):460-6. doi: 10.1016/s0750-7658(84)80149-5.- [2] Kogan A, Preisman S, Berkenstadt H, Segal E, Kassif Y, Sternik L et al. Evaluation of the impact of a quality improvement program and intensivist-directed ICU team on mortality after cardiac surgery. *Journal of Cardiothoracic and Vascular Anesthesia*;27(6):1194-1200. DOI: 10.1053/j.jvca.2013.02.028.
+- [3] Lee LS, Clark AJ, Namburi N, Naum CC, Timsina LR, Corvera JS, et al. The presence of a dedicated cardiac surgical intensive care service impacts clinical outcomes in adult cardiac surgery patients. *J Card Surg*. 2020;35(4):787-93. doi: 10.1111/jocs.14457. Epub 2020 Feb 12.
+- [4] Novick RJ, Fox SA, Stitt LW, Butler R, Kroh M, Hurlock-Chorostecki C, et al. Impact of the opening of a specialized cardiac surgery recovery unit on postoperative outcomes in an academic health sciences centre. *Can J Anaesth*. 2007;54(9):737-43. doi: 10.1007/BF03026870.
+- [5] Byrick RJ, Power JD, Ycas JO, Brown KA. Impact of an intermediate care area on ICU utilization after cardiac surgery. *Crit Care Med*. 1986;14(10):869-72. doi: 10.1097/00003246-198610000-00007.
+- [6] Mazer CD, Byrick RJ, Sibbald WJ, Chovaz PM, Goodman SJ, Girotti MJ, et al. Postoperative utilization of critical care services by cardiac surgery: a multicenter study in the Canadian healthcare system. *Crit Care Med*. 1993;21(6):851-9. doi: 10.1097/00003246-199306000-00012.
+- [7] Labata C, Oliveras T, Berastegui E, Ruyra X, Romero B, Camara ML, et al. Intermediate Care Unit After Cardiac Surgery: Impact on Length of Stay and Outcomes. *Rev Esp Cardiol (Engl Ed)*. 2018;71(8):638-42. doi: 10.1016/j.rec.2017.10.018.
+- [8] Chong JL, Pillai R, Fisher A, Grebenik C, Sinclair M, Westaby S. Cardiac surgery: moving away from intensive care. *Br Heart J*. 1992;68(4):430-3. doi: 10.1136/hrt.68.10.430.
+- [9] Ender J, Borger MA, Scholz, Funkat AK, Anwar N, Sommer M, et al. Cardiac surgery fast-track treatment in a postanesthetic care unit: six-month results of the Leipzig fast-track concept. *Anesthesiology* 2008;109(1):61-6. doi: 10.1097/ALN.0b013e31817881b3.## **CHAMP 2. GESTION ET PREHABILITATION PREOPERATOIRES**
+
+**Question 1. Le dépistage et la correction de la dénutrition ont-ils un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Catherine GUIDON (SFAR, Marseille), André VINCENTELLI (SFCTCV, Lille)*
+
+**R2.1 – Il est probablement recommandé de dépister la dénutrition avant une chirurgie cardiaque dans le but de la corriger pour diminuer la survenue de complications postopératoires.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** La prévalence de la dénutrition avant chirurgie cardiaque varie de 10 à 25% (en fonction des tests de dépistage utilisés) [1]. La dénutrition est un facteur de mauvais pronostic après chirurgie cardiaque avec une augmentation de la morbi-mortalité pour les patients présentant une dénutrition quantifiée soit par l'albuminémie, soit par l'indice de masse corporelle (IMC) (seuils variables selon les études) [2-5].
+
+La SFAR a émis des recommandations de bonnes pratiques cliniques sur la nutrition péri-opératoire en 2010 [6]. En 2018, la Société Américaine pour la Réhabilitation Améliorée Après Chirurgie (SARAAC) a publié un consensus sur le dépistage et le traitement de la dénutrition dans le cadre d'un programme RAAC [7]. Ces recommandations soulignent que tous les patients, avant une chirurgie cardiaque, doivent bénéficier d'une évaluation du statut nutritionnel et d'une prise en charge par compléments d'un apport protéique et calorique insuffisant et/ou d'une dénutrition [6,7]. Ces modalités sont résumées dans la Figure 1 et pour plus de détail, il est nécessaire de se référer aux recommandations de la SFAR et de la SARAAC [6,7]. Les valeurs des seuils préopératoires définissant une dénutrition sont variables en fonction des sociétés savantes (Figure 1) [6,7]. Il est à noter que dans la méta-analyse de Karas et al. [5] portant sur 12 589 patients au travers de 12 études, une hypoalbuminémie inférieure à 40 g/L était associée à une augmentation de la mortalité et de la morbidité postopératoires chez les patients de plus de 65 ans.
+
+### **Références**
+
+- [1] van Venrooij LMW, de Vos R, Borgmeijer-Hoelen MMMJ, Haaring C, de Mol BAJM. Preoperative unintended weight loss and low body mass index in relation to complications and length of stay after cardiac surgery. *Am J Clin Nutr* 2008;87:1656–61. doi:10.1093/ajcn/87.6.1656.
+- [2] Ogawa M, Izawa KP, Satomi-Kobayashi S, Kitamura A, Ono R, Sakai Y, et al. Poor preoperative nutritional status is an important predictor of the retardation of rehabilitation after cardiac surgery in elderly cardiac patients. *Aging Clin Exp Res* 2017;29:283–90. doi:10.1007/s40520-016-0552-3.
+- [3] Engelmann DT, Adams DH, Byrne JG, Aranki SF, Collins JJ, Couper GS, et al. Impact of body mass index and albumin on morbidity and mortality after cardiac surgery. *J Thorac Cardiovasc Surg* 1999;118:866–73. doi:10.1016/s0022-5223(99)70056-5.
+- [4] Thourani VH, Keeling WB, Kilgo PD, Puskas JD, Lattouf OM, Chen EP, et al. The impact of body mass index on morbidity and short- and long-term mortality in cardiac valvular surgery. *J Thorac Cardiovasc Surg* 2011;142:1052–61. doi:10.1016/j.jtcvs.2011.02.009.
+- [5] Karas PL, Goh SL, Dhital K. Is low serum albumin associated with postoperative complications in patients undergoing cardiac surgery? *Interact Cardiovasc Thorac Surg* 2015;21:777–86. doi:10.1093/icvts/ivv247.
+- [6] Chambrier C, Szark F; groupe de travail de la Société francophone de nutrition clinique et métabolisme (SFNEP) et de la Société française d'anesthésie et réanimation (Sfar). French clinical guidelines on perioperativenutrition. Update of the 1994 consensus conference on "Perioperative artificial nutrition after elective surgery in adults". Ann Fr Anesth Reanim 2011;30(4):381-9. doi: 10.1016/j.annfar.2011.01.014.
+
+[7] Wischmeyer PE, Carli F, Evans DC, Guilbert S, Kozar R, Pryor A et al. American Society for Enhanced Recovery and Perioperative Quality Initiative Joint Consensus Statement on Nutrition Screening and Therapy Within a Surgical Enhanced Recovery Pathway. Anesth Analg 2018;126(6):1883-1895. doi:10.1213/ANE.0000000000002743.
+
+## **Question 2. Le sevrage tabagique a-t-il un impact sur la survenue de complications post-opératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Alain CURTIL (SFCTCV, Lyon), Julien AMOUR (SFAR, Paris)*
+
+**R2.2 – Il est recommandé d'obtenir le sevrage tabagique le plus tôt possible avant une chirurgie cardiaque afin de réduire les complications postopératoires notamment respiratoires.**
+
+**GRADE 1+ (accord FORT)**
+
+**Argumentaire :** L'arrêt préopératoire du tabac, indépendamment du délai avant chirurgie, a d'ores et déjà été recommandé dans la RFE SFAR « Prise en charge du tabagisme en péri opératoire » en 2016 et dans la RFE SFAR/SFCTCV « Réhabilitation améliorée après lobectomie pulmonaire » en 2019 [1,2].
+
+Concernant la chirurgie cardiaque, une méta-analyse récente de 2018 (13 études ; 34230 patients) ne montre pas d'effet sur la réduction de la mortalité à 30 jours [3], mais montre un intérêt en termes de survenue de complications pulmonaires. Ces conclusions sont retrouvées dans une étude rétrospective chez 3207 patients opérés de pontages coronaires [4]. Il n'y a pas d'effet sur la mortalité et sur les comorbidités majeures si l'arrêt de l'intoxication tabagique n'a pas lieu au moins un mois avant la date d'intervention. Une autre méta-analyse portant sur 564 publications retrouve les mêmes conclusions avec une réduction du taux de complications respiratoires postopératoires [5]. Une grande partie des publications montre en outre une diminution de la durée d'hospitalisation ainsi qu'en unité de soins intensifs. Cette méta-analyse souligne de surcroît l'intérêt d'un arrêt du tabac le plus tôt possible, sans pouvoir préciser de délai optimal [5]. Enfin, une étude rétrospective monocentrique sur une large cohorte de patients opérés de chirurgie coronarienne (6113 patients) rapporte un bénéfice à débuter le programme de sevrage tabagique avant la chirurgie [6].
+
+Au final, le sevrage tabagique est fortement recommandé avant une intervention de chirurgie cardiaque car il diminue les complications postopératoires, en particulier respiratoires. Un programme de sevrage tabagique doit être initié le plus tôt possible avec une prise en charge multidisciplinaire dès la période préopératoire.
+
+### **Références**
+
+- [1] Berna P, Quesnel C, Assouad J, Bagan P, Etienne H, Fourdrain A, et al. Guidelines on enhanced recovery after pulmonary lobectomy. Anaesth Crit Care Pain Med 2021;100791. doi:10.1016/j.accpm.2020.100791.
+- [2] Pierre S, Rivera C, Le Maître B, Ruppert A-M, Bouaziz H, Wirth N, et al. Guidelines on smoking management during the perioperative period. Anaesth Crit Care Pain Med 2017;36:195–200. doi:10.1016/j.accpm.2017.02.002.
+- [3] Bayfield NGR, Pannekoek A, Tian DH. Preoperative cigarette smoking and short-term morbidity and mortality after cardiac surgery: a meta-analysis. Heart Asia 2018;10:e011069. doi:10.1136/heartasia-2018-011069.[4] Ji Q, Zhao H, Mei Y, Shi Y, Ma R, Ding W. Impact of smoking on early clinical outcomes in patients undergoing coronary artery bypass grafting surgery. *J Cardiothorac Surg* 2015;10:16. doi:/10.1186/s13019-015-0216-y.
+
+[5] Sepehripour AH, Lo TT, McCormack DJ, Shipolini AR. Is there benefit in smoking cessation prior to cardiac surgery? *Interact Cardiovasc Thorac Surg* 2012;15:726–32. doi:10.1093/icvts/ivs177.
+
+[6] Benedetto U, Albanese A, Kattach H, Ruggiero D, De Robertis F, Amrani M, et al. Smoking cessation before coronary artery bypass grafting improves operative outcomes. *J Thorac Cardiovasc Surg* 2014;148:468–74. doi :10.1016/j.jtcvs.2013.09.042.
+
+**Question 3. Le contrôle de l'hémoglobine glyquée a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Catherine GUIDON (SFAR, Marseille), André VINCENTELLI (SFCTCV, Lille)*
+
+**R2.3 – Il est probablement recommandé de disposer d'un dosage d'hémoglobine glyquée de moins de 3 mois en préopératoire chez les patients diabétiques ou présentant un syndrome métabolique, et de prendre un avis diabétologique pour améliorer le contrôle glycémique le plus en amont possible de la chirurgie (et au besoin en la reportant en fonction du degré d'urgence) en cas de valeur >8% afin de diminuer la survenue de complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Les données actuelles montrent qu'une dysrégulation de la glycémie en périopératoire (hyperglycémie, hypoglycémie, fluctuation de la glycémie) pourrait augmenter le risque de décès et l'incidence des complications infectieuses, d'un défaut de cicatrisation, d'évènements cardio- et cérébro-vasculaires, la durée d'hospitalisation et affecter le pronostic à long terme [1,2]. Une méta-analyse de 2020 [3] incluant 23 études comparait l'association entre l'HbA1c préopératoire et les complications périopératoires en chirurgie cardiaque et les interventions coronariennes percutanées chez les patients diabétiques et non diabétiques. Les résultats mettaient en évidence une diminution de l'incidence des infections du site opératoire, d'insuffisance rénale, d'infarctus du myocarde et une diminution de la durée de séjour hospitalier après chirurgie cardiaque chez des patients diabétiques ayant un taux d'HbA1c préopératoire bas ( $\leq 6,5-7\%$ ). Une autre méta-analyse de 2017 incluant 8 études [4] montrait qu'une HbA1c élevée ( $>7\%$ ) était associée à une majoration du risque de mortalité toutes causes confondues et à une augmentation de l'incidence d'un infarctus du myocarde et d'un AVC chez les patients diabétiques après chirurgie coronarienne. Il existait d'importantes variations quant à la définition du seuil élevé d'HbA1c et aux durées de suivis des patients parmi les études incluses dans ces 2 méta-analyses. Aucune de ces 2 méta-analyses n'incluait d'études randomisées contrôlées. En fonction de la valeur de l'hémoglobine glyquée se pose la question d'optimiser un diabète déséquilibré après avis spécialisé, et celle de reporter la chirurgie si celle-ci n'est pas urgente.
+
+**Références**
+
+[1] Lazar HL, McDonnell M, Chipkin SR, Furnary AP, Engelman RM, Sadhu AR, et al. The Society of Thoracic Surgeons practice guideline series: Blood glucose management during adult cardiac surgery. *Ann Thorac Surg*2009;87:663–9. doi:10.1016/j.athoracsur.2008.11.011.
+
+- [2] Sebrank JJ, Lugli AK, Coursin DB. Glycaemic control in the perioperative period. *Br J Anaesth* 2013;111.
+- [3] Wang J, Luo X, Jin X, Lv M, Li X, Dou J, et al. Effects of Preoperative HbA1c Levels on the Postoperative Outcomes of Coronary Artery Disease Surgical Treatment in Patients with Diabetes Mellitus and Nondiabetic Patients: A Systematic Review and Meta-Analysis. *J Diabetes Res* 2020;2020:3547491. doi:10.1155/2020/3547491.
+- [4] Zheng J, Cheng J, Wang T, Zhang Q, Xiao X. Does HbA1c Level Have Clinical Implications in Diabetic Patients Undergoing Coronary Artery Bypass Grafting? A Systematic Review and Meta-Analysis. *Int J Endocrinol* 2017;2017:1537213. doi:10.1155/2017/1537213.
+
+**Question 4. Un programme de préhabilitation cardio-respiratoire a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Alain CURTIL (SFCTCV, Lyon), Catherine GUIDON (SFAR, Marseille), André Vincentelli (SFCTCV, Lille)*
+
+**R2.4 - Il est probablement recommandé de proposer un programme de préhabilitation cardio-respiratoire et musculaire avant une chirurgie cardiaque pour diminuer la survenue de complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Plusieurs études randomisées en chirurgie cardiaque ont évalué l'impact de la kinésithérapie respiratoire [1–5] et de la préhabilitation physique [6,7]. Trois méta-analyses ont rapporté l'intérêt d'une préhabilitation cardio-respiratoire sur la durée d'hospitalisation et la survenue de complications pulmonaires postopératoires [8–10], ainsi qu'une étude observationnelle [11]. La majorité des travaux étaient réalisés en chirurgie coronaire avec des populations hétérogènes et des critères d'inclusion portant sur des patients à risque de complications respiratoires [1,11] ou sur des patients à faible risque chirurgical [7,12].
+
+Le travail des muscles inspiratoires (Incentive Muscle Training) a été le plus étudié, et l'apport de l'utilisation d'un appareil équipé d'une valve à pression inspiratoire prédéterminée a montré le plus d'efficacité [1,2,5,12], sans effets secondaires préjudiciables [9]. D'après une étude, les bénéfices de cet entraînement nécessitent au moins 5 jours de préparation, sous couvert d'une pratique biquotidienne [2]; selon d'autres études, ils nécessitent au moins deux semaines de préparation respiratoire et un suivi par un kinésithérapeute.
+
+Un entraînement des muscles respiratoires inspiratoires permettait de diminuer le risque de pneumopathies (RR compris entre 0,44 et 0,45) et d'atélectasies (RR compris entre 0,53 et 0,59) postopératoires [8–10]. L'étude la plus large (276 patients) montrait une diminution de l'incidence des pneumopathies de 16 à 6,5%. Un protocole de prise en charge respiratoire courte sur 5 jours ne montrait pas de diminution significative des pneumopathies (7,1% versus 3,1 %) mais une diminution des complications respiratoires globales (27,3% versus 10,2%) [2].
+
+L'analyse de la littérature a montré que la préhabilitation cardiaque et musculaire améliore les conditions physiques préopératoires, objectivées par un test de marche de 6 min [4,13], ou un questionnaire de la qualité de vie [7]. Cette préhabilitation permettait de réduire les complications pulmonaires postopératoires (OR = 0,52 (0,30-0,92) en particulier lespneumopathies sévères (OR 0,40 (0,19-0,84)) et les atélectasies postopératoires (RR 0,53 (0,34-0,82)). Ces résultats sont également observés dans l'étude de Hulzebos [1] menée sur 279 patients opérés d'une chirurgie cardiaque programmée.
+
+Les effets bénéfiques de la préhabilitation cardiorespiratoire et musculaire ont également été constatés sur la durée d'hospitalisation (-3,2 et -1,3 jours) [8,9] mais pas sur la durée de ventilation mécanique ou la mortalité [8]. Dans d'autres études, la diminution de la durée de séjour était en moyenne de 1 jour [1-3,5,7,11].
+
+Concernant le type d'exercices préopératoires, les propositions sont très hétérogènes [7,14]. De plus, il est maintenant reconnu que l'activité physique améliore la sensibilité à l'insuline, augmente le ratio masse maigre/masse grasse et améliore la transition entre l'hôpital et le retour à domicile [4,7,13,15-17].
+
+Enfin, les recommandations américaines sur la RAACC [18] se positionnent aussi en faveur d'une préhabilitation cardiaque multimodale de 4 à 8 semaines préopératoires.
+
+Ainsi, il apparaît nécessaire de proposer à chaque patient bénéficiant de chirurgie cardiaque, dans la limite de leurs capacités, un programme de préhabilitation cardiaque, respiratoire et musculaire, d'au moins 4 semaines, comprenant des exercices de renforcement musculaire d'activité croissant, à adapter en fonction de chaque patient. Ce délai doit être nuancé par la notion de bénéfice-risque pour chaque patient en fonction de la cardiopathie causale et du degré d'urgence pour la prise en charge chirurgicale. La préhabilitation respiratoire doit proposer un schéma d'entraînement progressif des muscles inspiratoires intégrant probablement l'utilisation d'un dispositif avec valve à pression inspiratoire ajustable.
+
+#### Références
+
+- [1] Hulzebos EHJ, Helders PJM, Favié NJ, De Bie RA, Brutel de la Riviere A, Van Meeteren NLU. Preoperative intensive inspiratory muscle training to prevent postoperative pulmonary complications in high-risk patients undergoing CABG surgery: a randomized clinical trial. JAMA 2006;296:1851-7. <https://doi.org/10.1001/jama.296.15.1851>.
+- [2] Chen X, Hou L, Zhang Y, Liu X, Shao B, Yuan B, et al. The effects of five days of intensive preoperative inspiratory muscle training on postoperative complications and outcome in patients having cardiac surgery: a randomized controlled trial. Clin Rehabil 2019;33:913-22. <https://doi.org/10.1177/0269215519828212>.
+- [3] Sahar W, Ajaz N, Haider Z, Jalal A. Effectiveness of Pre-operative Respiratory Muscle Training versus Conventional Treatment for Improving Post operative Pulmonary Health after Coronary Artery Bypass Grafting. Pak J Med Sci 2020;36:1216-9. <https://doi.org/10.12669/pjms.36.6.2899>.
+- [4] Sawatzky J-AV, Kehler DS, Ready AE, Lerner N, Boreskie S, Lamont D, et al. Prehabilitation program for elective coronary artery bypass graft surgery patients: a pilot randomized controlled study. Clin Rehabil 2014;28:648-57. <https://doi.org/10.1177/0269215513516475>.
+- [5] Sobrinho MT, Guirado GN, Silva MA de M. Preoperative therapy restores ventilatory parameters and reduces length of stay in patients undergoing myocardial revascularization. Rev Bras Cir Cardiovasc 2014;29:221-8. <https://doi.org/10.5935/1678-9741.20140021>.
+- [6] Rosenfeldt F, Braun L, Spitzer O, Bradley S, Shepherd J, Bailey M, et al. Physical conditioning and mental stress reduction--a randomised trial in patients undergoing cardiac surgery. BMC Complement Altern Med 2011;11:20. <https://doi.org/10.1186/1472-6882-11-20>.
+- [7] Arthur HM, Daniels C, McKelvie R, Hirsh J, Rush B. Effect of a preoperative intervention on preoperative and postoperative outcomes in low-risk patients awaiting elective coronary artery bypass graft surgery. A randomized, controlled trial. Ann Intern Med 2000;133:253-62. <https://doi.org/10.7326/0003-4819-133-4-200008150-00007>.
+- [8] Hulzebos EHJ, Smit Y, Helders PPJM, van Meeteren NLU. Preoperative physical therapy for elective cardiac<table border="1">
+<tr>
+<td>surgery patients. Cochrane Database Syst Rev 2012;11:CD010118. <a href="https://doi.org/10.1002/14651858.CD010118.pub2">https://doi.org/10.1002/14651858.CD010118.pub2</a>.</td>
+</tr>
+<tr>
+<td>[9] Katsura M, Kuriyama A, Takeshima T, Fukuhara S, Furukawa TA. Preoperative inspiratory muscle training for postoperative pulmonary complications in adults undergoing cardiac and major abdominal surgery. Cochrane Database Syst Rev 2015:CD010356. <a href="https://doi.org/10.1002/14651858.CD010356.pub2">https://doi.org/10.1002/14651858.CD010356.pub2</a>.</td>
+</tr>
+<tr>
+<td>[10] Thybo Karanfil EO, Møller AM. Preoperative inspiratory muscle training prevents pulmonary complications after cardiac surgery - a systematic review. Dan Med J 2018;65.</td>
+</tr>
+<tr>
+<td>[11] Nardi P, Pisano C, Altieri C, Buioni D, Pedicelli C, Saulle S, et al. The benefit of a preoperative respiratory protocol and musculoskeletal exercise in patients undergoing cardiac surgery. Kardiochir Torakochirurgia Pol 2020;17:94–100. <a href="https://doi.org/10.5114/kitp.2020.97267">https://doi.org/10.5114/kitp.2020.97267</a>.</td>
+</tr>
+<tr>
+<td>[12] Savci S, Degirmenci B, Saglam M, Arikan H, Inal-Ince D, Turan HN, et al. Short-term effects of inspiratory muscle training in coronary artery bypass graft surgery: a randomized controlled trial. Scand Cardiovasc J 2011;45:286–93. <a href="https://doi.org/10.3109/14017431.2011.595820">https://doi.org/10.3109/14017431.2011.595820</a>.</td>
+</tr>
+<tr>
+<td>[13] Waite I, Deshpande R, Baghai M, Massey T, Wendler O, Greenwood S. Home-based preoperative rehabilitation (prehab) to improve physical function and reduce hospital length of stay for frail patients undergoing coronary artery bypass graft and valve surgery. J Cardiothorac Surg 2017;12:91. <a href="https://doi.org/10.1186/s13019-017-0655-8">doi.org/10.1186/s13019-017-0655-8</a>.</td>
+</tr>
+<tr>
+<td>[14] Szylińska A, Listewnik M, Rotter I, Rył A, Kotfis K, Mokrzycki K, et al. The Efficacy of Inpatient vs. Home-Based Physiotherapy Following Coronary Artery Bypass Grafting. Int J Environ Res Public Health 2018;15. <a href="https://doi.org/10.3390/ijerph15112572">doi.org/10.3390/ijerph15112572</a>.</td>
+</tr>
+<tr>
+<td>[15] Stammers AN, Kehler DS, Afilalo J, Avery LJ, Bagshaw SM, Grocott HP, et al. Protocol for the PREHAB study-Pre-operative Rehabilitation for reduction of Hospitalization After coronary Bypass and valvular surgery: a randomised controlled trial. BMJ Open 2015;5:e007250. <a href="https://doi.org/10.1136/bmjopen-2014-007250">doi.org/10.1136/bmjopen-2014-007250</a>.</td>
+</tr>
+<tr>
+<td>[16] Snowden CP, Prentis J, Jacques B, Anderson H, Manas D, Jones D, et al. Cardiorespiratory fitness predicts mortality and hospital length of stay after major elective surgery in older people. Ann Surg 2013;257:999–1004. <a href="https://doi.org/10.1097/SLA.0b013e31828dbac2">doi.org/10.1097/SLA.0b013e31828dbac2</a>.</td>
+</tr>
+<tr>
+<td>[17] Valkenet K, van de Port IGL, Dronkers JJ, de Vries WR, Lindeman E, Backx FJG. The effects of preoperative exercise therapy on postoperative outcome: a systematic review. Clin Rehabil 2011;25:99–111. <a href="https://doi.org/10.1177/0269215510380830">doi.org/10.1177/0269215510380830</a>.</td>
+</tr>
+<tr>
+<td>[18] Engelman DT, Ben Ali W, Williams JB, Perrault LP, Reddy VS, Arora RC, et al. Guidelines for Perioperative Care in Cardiac Surgery: Enhanced Recovery After Surgery Society Recommendations. JAMA Surg 2019;154:755–66. <a href="https://doi.org/10.1001/jamasurg.2019.1153">https://doi.org/10.1001/jamasurg.2019.1153</a>.</td>
+</tr>
+</table>
+
+**Question 5. Le dépistage du portage du *Staphylococcus aureus* (SAMS/SARM) au niveau de la sphère oropharyngée et sa désinfection avant la chirurgie ont-ils un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+Experts : Alain CURTIL (SFCTCV, Lyon), Julien AMOUR (SFAR, Paris)
+
+**R2.5 - Il est recommandé de procéder, sans dépistage microbiologique, à une décolonisation nasale du portage de *Staphylococcus aureus* (SA) par de la mupirocine 2% dans chaque narine, associée à une décontamination oropharyngée systématique par bain de bouche biquotidien à la chlorhexidine, en les débutant au moins 48h avant la chirurgie et pour une durée totale de 5-7 jours, afin de diminuer la survenue des infections postopératoires**
+
+**GRADE 1+ (accord FORT)**
+
+**Argumentaire :**
+
+**Efficacité de la décolonisation sur le portage de *Staphylococcus aureus* (SA) :** Le traitement par la mupirocine 2% permet une décolonisation efficace du portage nasal de SA. Une étuderandomisée multicentrique montrait qu'un traitement par 2 applications quotidiennes de mupirocine 2% dès l'admission en réanimation et pendant 5 jours, associée à une toilette à la chlorhexidine quotidienne, permettait de réduire significativement le portage de SARM nasal (RR 0,63 (0,52-0,75)) [1]. Ce résultat était confirmé par une étude randomisée avec une réduction significative du portage de SA par un traitement la veille et le jour de la chirurgie par 2 applications par jour de mupirocine 2% et une douche à la chlorhexidine (RR 0,23 (0,14-1,14)) [2]. Van Rijen et al. n'ont pas objectivé d'émergence de bactéries multi-résistantes liée à la pression de sélection de la décolonisation [3].
+
+**Impact de la décolonisation sur les infections postopératoires à SA :** Dans une méta-analyse portant sur 4 études randomisées, Van Rijen et al. ont montré que la décolonisation nasale par mupirocine 2% permettait de diminuer les complications infectieuses à SA (SAMS et SARM) par rapport au placebo (RR 0,55 (0,34-0,89), indice d'hétérogénéité  $I^2$  à 0%) [3]. Différents protocoles étaient réalisés dans les 4 études randomisées sélectionnées, le traitement par mupirocine 2% s'étalant de 7 jours à 24 heures avant la chirurgie selon les études, à raison de 2 applications quotidiennes pour une durée totale de 5-7 jours. Dans l'étude au poids statistique le plus important de cette méta-analyse incluant 3 864 patients, Perl et al. montraient l'efficacité d'un traitement de 5 jours précédant la chirurgie pour diminuer les complications infectieuses postopératoires à SA [4]. En revanche, dans cette méta-analyse, la décolonisation nasale ne permettait pas de mettre en évidence de bénéfice en termes d'infection du site opératoire en comparaison au placebo (RR 0,64 (0,38-1,06)). Le bénéfice de la décolonisation du SA préopératoire sur le risque infectieux postopératoire à SA a été retrouvé également dans deux autres études randomisées [5,6] et deux grandes études prospectives de cohortes [7,8]. Les protocoles utilisés dans ces différentes études étaient : 1) mupirocine 2% et douche quotidienne à la chlorhexidine pendant les 5 jours précédant la chirurgie [5] ; 2) gel de chlorhexidine 0,12%, bain de bouche à la chlorhexidine 0,12% et douche à la chlorhexidine 4 fois par jours durant les 2 jours précédant la chirurgie [6] ; 3) 2 applications quotidiennes de mupirocine 2% et une douche à la chlorhexidine la veille et le jour de la chirurgie poursuivie pour une durée totale de 5 jours [7] ; 4) 2 applications quotidiennes de mupirocine 2% et une douche à la chlorhexidine pendant 5 jours avant la chirurgie [8]. Toutes ces études étaient associées à une diminution significative des infections du site opératoire [5-8].
+
+**Décolonisation nasale systématique avant chirurgie cardiaque sans dépistage préalable :** Huang et al. ont montré qu'une décolonisation systématique sans dépistage préalable était la stratégie qui offrait la meilleure baisse du risque relatif d'infection à SA [1]. De plus, Hong et al. ont montré que la décolonisation systématique permet de réaliser une économie de santé très significative par rapport à la stratégie de décolonisation dirigée sur des prélèvements positifs sans différence d'efficacité [9].
+
+**Décontamination oropharyngée :** Une méta-analyse incluant 3 études randomisées contrôlées et 3 études quasi-expérimentales (5 études réalisées en chirurgie cardiaque et 1 étude en chirurgie œsophagienne) a étudié l'impact d'une hygiène orale préopératoire sur l'incidence des infections postopératoires [10]. Il a été objectivé une diminution des infections nosocomiales (RR 0,65 (0,55-0,78)), une diminution des infections respiratoires (RR 0,48 (0,36-0,65)) et une diminution des infections du site opératoire (RR 0,48 (0,27-0,84)) [9]. Une méta-analyse (5 études incluant 2 284 patients) étudiant l'incidence des pneumopathiespostopératoires après chirurgie cardiaque a objectivé une réduction significative de cette complication dans le groupe bain de bouche à la chlorhexidine (RR 0,52 (0,39-0,7)) [11].
+
+#### Références
+
+- [1] Huang SS, Septimus E, Kleinman K, Moody J, Hickok J, Avery TR, et al. Targeted versus universal decolonization to prevent ICU infection. Prevention Epicenters Program; AHRQ DECIDE Network and Healthcare-Associated Infections Program. NEJM. 2013;368:2255-65. doi: 10.1056/NEJMoa1207290.
+- [2] Kalmeijer MD, Coertjens H, van Nieuwland-Bollen PM, Bogaers-Hofman D, de Baere GA, Stuurman A, et al. Surgical site infections in orthopedic surgery: the effect of mupirocin nasal ointment in a double-blind, randomized, placebo-controlled study. Clin Infect Dis. 2002 Aug 15;35:353-8. doi:10.1086/341025.
+- [3] Van Rijen MM, Bonten M, Wenzel RP, Kluytmans JA. Intranasal mupirocin for reduction of Staphylococcus aureus infections in surgical patients with nasal carriage: a systematic review. J Antimicrob Chemother. 2008 Feb;61(2):254-61. doi:10.1093/jac/dkm480
+- [4] Perl TM, Cullen JJ, Wenzel RP, Zimmerman MB, Pfaller MA, Sheppard D, Twombly J, French PP, Herwaldt LA. Mupirocin And The Risk Of Staphylococcus Aureus Study Team Intranasal mupirocin to prevent postoperative Staphylococcus aureus infections. NEJM 2002;346:1871-7. doi:10.1056/NEJMoa003069.
+- [5] Bode LGM, Kluytmans JAJ, Wertheim HFL, Bogaers D, Vandenbroucke-Grauls CMJE, Roosendaal R, et al. Preventing surgical-site infections in nasal carriers of Staphylococcus aureus. NEJM 2010; 362:9-17. DOI: 10.1056/NEJMoa0808939.
+- [6] Segers P, Speekenbrink RG, Ubbink DT, van Ogtrop ML, de Mol BA. Prevention of nosocomial infection in cardiac surgery by decontamination of the nasopharynx and oropharynx with chlorhexidine gluconate: a randomized controlled trial. JAMA. 2006;296:2460-6. doi: 10.1001/jama.296.20.2460.
+- [7] Cimochowski GE, Harostock MD, Brown R, Bernardi M, Alonzo N, Coyle K. Intranasal mupirocin reduces sternal wound infection after open heart surgery in diabetics and nondiabetics. Ann Thorac Surg. 2001;71:1572-8. doi: 10.1016/s0003-4975(01)02519-x.
+- [8] Saraswat MK, Magruder JT, Crawford TC, Gardner JM, Duquaine D, Sussman MS, et al. Preoperative Staphylococcus Aureus Screening and Targeted Decolonization in Cardiac Surgery. Ann Thorac Surg. 2017;104:1349-1356. doi: 10.1016/j.athoracsur.2017.03.018.
+- [9] Hong JC, Saraswat MK, Ellison TA, Magruder JT, Crawford T, Gardner JM, et al. Staphylococcus aureus prevention strategies in cardiac surgery : a cost-effectiveness analysis. Ann Thorac Surg 2018 ;105 :47-53. doi :10.1016/j.athoracsur.2017.06.033.
+- [10] Pedersen PU, Larsen P, Håkonsen SJ. The effectiveness of systematic perioperative oral hygiene in reduction of postoperative respiratory tract infections after elective thoracic surgery in adults: a systematic review. JBI Database System Rev Implement Rep 2016;14:140–73. doi:10.11124/jbisrr-2016-2180.
+- [11] Badia A, Blitz D, Dai F, Jinadasa S, Tickoo M, Schronberger RB. Preoperative chlorhexidine mouthwash to reduce pneumonia after cardiac surgery: A systematic review and meta-analysis. J Thorac Cardiovasc Surg 2019;158(4):1094-1100. doi:10.1016/j.jtcvs.2019.01.014.
+
+**Question 6. Une stratégie péri-opératoire de prévention de la fibrillation atriale postopératoire (FAPO) a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Julien AMOUR (SFAR, Paris), André VINCENTELLI (SFCTCV, Lille)*
+
+**R2.6 - Il est recommandé de mettre en place une stratégie péri-opératoire de prévention de la fibrillation atriale postopératoire par le maintien péri-opératoire ou l'introduction précoce postopératoire d'anti-arythmiques pour diminuer le risque d'AVC postopératoire et la durée d'hospitalisation. En l'absence de contre-indication, les bêtabloquants seront utilisés en première intention.****GRADE 1+ (accord FORT)**
+
+**Argumentaire :** La fibrillation atriale postopératoire (FAPO) constitue l'une des complications postopératoires de chirurgie cardiaque les plus fréquentes, pouvant atteindre 30% des patients tous âges confondus et 50% des patients de plus de 80 ans [1]. La FAPO est responsable d'une augmentation de la durée d'hospitalisation et multiplie par 2 à 3 le risque d'AVC postopératoire [1,2]. L'efficacité de la prévention de la FAPO a été clairement démontrée par 2 méta-analyses. L'une, publiée en 2005, porte sur 94 études randomisées en chirurgie de pontages coronaires et/ou valvulaire [3]. Dans cette étude, Burgess et al. concluait au bénéfice d'une stratégie préventive par bêtabloquant introduit au cours de la chirurgie (RR 0,36 (0,28-0,47)), ou poursuivi en postopératoire immédiat chez les patients traités de manière chronique (RR 0,37 (0,30-0,44) [3]. Ces résultats se confirment dans une méta-analyse plus récente, publiée en 2015, portant sur 119 études randomisées regroupant un collectif de 17 364 patients, dans laquelle Arsenault et al. confirmaient le bénéfice des bêtabloquants introduits en postopératoire pour la prévention de la FAPO (RR 0,34 (0,26-0,43,) avec une hétérogénéité très faible ( $I^2=3\%$ ) [4]. Dans une méta-analyse regroupant 9 études randomisées versus placebo et regroupant un collectif de 807 patients, Li et al. objectivaient le bénéfice du landiolol, bêtabloquant intraveineux de courte durée d'action, introduit en postopératoire immédiat à la dose de 0,5-10  $\mu\text{g/kg/min}$  pendant 48-72h postopératoires dans la prévention de la FAPO (RR 0,41 (0,32-0,52) [5]. La limite de cette méta-analyse est qu'elle portait exclusivement sur une population japonaise et pourrait ne pas être extrapolable à un collectif caucasien. En comparaison aux bêtabloquants, l'amiodarone présentait un moindre bénéfice préventif avec un risque relatif de 0,60 (0,53-0,67) pour Burgess et al. et 0,43 (0,34-0,54) pour Arsenault et al. avec une forte hétérogénéité ( $I^2=63\%$ ) [3,4]. Burgess et al. objectivaient une diminution du risque d'AVC postopératoire en comparaison aux bêtabloquants et autres traitements préventifs de FAPO, sur la base d'une analyse de critères secondaires sans qu'il soit possible de connaître l'hétérogénéité de l'analyse ce qui en limite fortement la pertinence [3].
+
+Concernant la prévention par le magnésium, Burgess et al. ne montraient pas de bénéfice d'une supplémentation systématique en magnésium sans confirmation d'une hypomagnésémie avérée en postopératoire, les auteurs soulignant la futilité de ce dernier lorsqu'une prévention par bêtabloquant était effectuée [3]. Arsenault et al. montraient un bénéfice (RR 0,55(0,41-0,73), moyennant une hétérogénéité excessive ( $I^2 =51\%$ ) qui en limite la pertinence [4]. La durée d'hospitalisation et la mortalité n'étaient pas impactées par ce traitement [6].
+
+La Figure 2 rapporte la stratégie globale périopératoire de prévention de la FAPO en chirurgie cardiaque. La (ré)introduction des bêtabloquants doit être la plus précoce possible, adaptée à la fréquence cardiaque et à l'existence de troubles éventuels de la conduction, en tenant compte, bien évidemment,-du statut hémodynamique du patient.
+
+**Références**
+
+- [1] Creswell LL, Schuessler RB, Rosenbloom M, Cox JL. Hazards of postoperative atrial arrhythmias. *Ann Thorac Surg* 1993;56:539–49. doi:10.1016/0003-4975(93)90894-n.
+- [2] Villareal RP, Hariharan R, Liu B, Kar B, Lee VV, Elayda M, et al. Postoperative atrial fibrillation and mortality after coronary artery bypass surgery. *J Am Coll Cardiol*,2004;43:742–48. doi:10.1016/j.jacc.2003.11.023.
+- [3] Burgess DC, Kilborn MJ, Keech AC Interventions for prevention of post-operative atrial fibrillation and its complications after cardiac surgery: a meta-analysis *European Heart Journal* (2006) 27, 2846–57.doi:10.1093/eurheartj/ehl272.
+
+- [4] Arsenault KA, Yusuf AM, Crystal E, Healey JS, Morillo CA, Nair GM, et al. Interventions for preventing post-operative atrial fibrillation in patients undergoing heart surgery. *Cochrane Database Syst Rev* . 2013 Jan 31;2013(1):CD003611. doi:10.1002/14651858.CD003611.pub3.
+- [5] Li L, Ai Q, Lin L, Ge P, Yang C, Zhang L. Efficacy and safety of landiolol for prevention of atrial fibrillation after cardiac surgery: a meta-analysis of randomized controlled trials. *Int J Clin Exp Med* 2015.
+- [6] Shiga T, Wajima Z, Inoue T, Ogawa R Magnesium Prophylaxis for Arrhythmias after Cardiac Surgery: A Meta-analysis of Randomized Controlled Trials *Am J Med*. 2004;117:325–33. doi: 10.1016/j.amjmed.2004.03.030.
+
+**Question 7. Un traitement par statine préopératoire a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Julien AMOUR (SFAR, Paris), Alain CURTIL (SFCTCV, Lyon)*
+
+**R2.7 - Il n'est probablement pas recommandé d'initier un traitement par statine en l'absence de traitement préalable avant une procédure de chirurgie cardiaque pour réduire la survenue de complications postopératoires et diminuer la durée d'hospitalisation.**
+
+**GRADE 2- (accord FORT)**
+
+**Argumentaire :** L'intérêt de l'utilisation des statines en préopératoire de chirurgie cardiaque a fait l'objet de nombreuses études. Les résultats sont très disparates. Une méta-analyse de 2008 portant sur 30000 patients retrouvait une réduction de la fibrillation atriale postopératoire (OR 0,67 (0,51–0,88)), des AVC (OR 0,74 (0,60–0,91)) et de la mortalité toutes causes confondues (OR 0,57 (0,49–0,67)) [1]. Il convient de souligner que sur les 19 études de cette analyse, 16 études étaient observationnelles et seules 3 étaient des études prospectives randomisées. ARMYDA-3 est une étude prospective ayant investigué la survenue d'arythmies après introduction d'atorvastatine 7 jours avant la chirurgie. Elle montrait une réduction des arythmies et une diminution des durées de séjour [2]. Les bénéfices sur le nombre d'arythmies postopératoires, sur la survenue d'accidents neurologiques et sur la durée d'hospitalisation étaient également montrés dans la méta analyse de Goh et al. [3]. En revanche, plusieurs autres essais ne retrouvaient pas de bénéfices, notamment sur l'incidence de FAPO. L'étude PROFACE et la méta-analyse de Yin et al. montraient l'inefficacité d'un traitement par atorvastatine avant une chirurgie valvulaire [4,5]. Enfin, une méta-analyse d'essais contrôlés randomisés portant sur 5 102 patients ne retrouvait pas de bénéfice des statines sur la survenue de complications postopératoires (FAPO ; Infarctus du myocarde ; AVC) [6]. Cette étude retrouvait une augmentation d'incidence d'insuffisance rénale aigüe et ne pouvait pas exclure un impact sur la mortalité hospitalière.
+
+Au final, ces études n'encouragent pas l'instauration d'un traitement par statine avant une procédure de chirurgie cardiaque. Cependant, à la vue de ces données bibliographiques et des pratiques déjà admises dans les autres spécialités notamment en termes d'effet rebond lors de l'arrêt péri-opératoire des statines, il est probablement légitime de poursuivre les statines chez les patients traités au long cours.
+
+**Références**
+
+- [1] Liakopoulos OJ, Choi Y-H, Haldenwang PL, Strauch J, Wittwer T, Dörge H, et al. Impact of preoperative statintherapy on adverse postoperative outcomes in patients undergoing cardiac surgery: a meta-analysis of over 30,000 patients. Eur Heart J 2008;29:1548–59. doi:10.1093/eurheartj/ehn198.
+
+- [2] Patti G, Cannon CP, Murphy SA, Mega S, Pasceri V, Briguori C, et al. Clinical benefit of statin pretreatment in patients undergoing percutaneous coronary intervention: a collaborative patient-level meta-analysis of 13 randomized studies. Circulation 2011;123:1622–32. doi:10.1161/CIRCULATIONAHA.110.002451.
+- [3] Goh SL, Yap KH, Chua KC, Chao VTT. Does preoperative statin therapy prevent postoperative atrial fibrillation in patients undergoing cardiac surgery? Interact Cardiovasc Thorac Surg 2015;20:422–8. doi:10.1093/icvts/ivu402.
+- [4] Carrascal Y, Arnold RJ, De la Fuente L, Revilla A, Sevilla T, Arce N, et al. Efficacy of atorvastatin in prevention of atrial fibrillation after heart valve surgery in the PROFACE trial (PROphylaxis of postoperative atrial Fibrillation After Cardiac surgEry). J Arrhythm 2016;32:191–7. doi:10.1016/j.joa.2016.01.010.
+- [5] Yin L, Wang Z, Wang Y, Ji G, Xu Z. Effect of statins in preventing postoperative atrial fibrillation following cardiac surgery. Heart Lung Circ 2010;19:579–83. doi :10.1016/j.hlc.2010.06.664.
+- [6] Putzu A, de Carvalho E Silva CMPD, de Almeida JP, Belletti A, Cassina T, Landoni G, et al. Perioperative statin therapy in cardiac and non-cardiac surgery: a systematic review and meta-analysis of randomized controlled trials. Ann Intensive Care 2018;8:95. doi:10.1186/s13613-018-0441-3.
+
+**Question 8. La limitation du jeûne péri-opératoire permet-elle de réduire les complications postopératoires ou la durée d'hospitalisation ?**
+
+*Experts : Lionel CAMILLERI (SFCTCV, Clermont-Ferrand), Fehmi KATTOU (SFAR, Paris)*
+
+**R2.8 – Il est probablement recommandé de limiter le jeûne préopératoire à 6 heures pour les solides et 2 heures pour les liquides clairs, en prenant une solution hydratée en préopératoire, pour réduire les complications postopératoires et la durée d'hospitalisation en réanimation.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** La limitation du jeûne préopératoire est une composante importante des programmes de réhabilitation précoce après chirurgie (RAAC). Dans le cadre de la chirurgie cardiaque, quatre études randomisées ont été réalisées spécifiquement pour évaluer l'impact du jeûne préopératoire chez ces patients. Deux d'entre elles confirment l'innocuité de la prise de 400 mL d'une boisson hydratée 2 heures avant une chirurgie cardiaque [1,2]. Seul l'essai randomisé de Breuer et al. portant sur 188 patients ASA 3 et 4 ne retrouvait pas d'effet sur la survenue de complications postopératoires ni sur la durée d'hospitalisation entre les 2 groupes [2]. Dans une étude randomisée de 2017, Şavluk et al. ne retrouvaient pas non plus de différence en termes de complications postopératoires mais notaient en revanche une baisse des besoins en inotropes et une diminution de la durée de séjour en réanimation par rapport au groupe contrôle resté à jeun pendant 8 heures [3]. La même année, Feguri et al, ont rapporté une baisse des pneumopathies et des infections du site opératoire [4]. Ils ont décrit également la survenue de moins d'épisodes d'arythmie cardiaque postopératoire et un moindre recours aux amines vasoactives pendant et après la chirurgie dans les groupes ayant reçus des acides gras polyinsaturés oméga-3 en plus de la solution hydratée. Ces études [1,2,3,4], incluses dans une méta-analyse parue récemment, confirmaient une durée d'hospitalisation plus courteen réanimation ainsi qu'un recours moins fréquent aux inotropes dans le groupe ayant reçu une charge glucidique préopératoire [5]. Il est important de noter que les études analysées étaient très hétérogènes et que ce résultat doit être confirmé par de nouvelles études.
+
+#### Références
+
+- [1] Järvelä K, Maaranen P, Sisto T. Pre-operative oral carbohydrate treatment before coronary artery bypass surgery. *Acta Anaesthesiol Scand.* 2008;52(6):793-7. doi: 10.1111/j.1399-6576.2008.01660.x.
+- [2] Breuer JP, von Dossow V, von Heymann C, Griesbach M, von Schickfus M, Mackh E. Preoperative oral carbohydrate administration to ASA III-IV patients undergoing elective cardiac surgery. *Anesth Analg.* 2006;103(5):1099-108. doi: 10.1213/01.ane.0000237415.18715.1d.
+- [3] Şavluk ÖF, Kuşçu MA, Güzelmeriç F, Gürcü ME, Erkılıç A, Çevirme D . Do preoperative oral carbohydrates improve postoperative outcomes in patients undergoing coronary artery bypass grafts? *Turk J Med Sci.* 2017;47(6):1681-1686. doi: 10.3906/sag-1703-19.
+- [4] Feguri GR, de Lima PRL, de Cerqueira Borges D, Toledo LR, Batista LN, E Silva TC. Preoperative carbohydrate load and intraoperatively infused omega-3 polyunsaturated fatty acids positively impact nosocomial morbidity after coronary artery bypass grafting: a double-blind controlled randomized trial. *Nutr J.* 2017;16(1):24. doi: 10.1186/s12937-017-0245-6.
+- [5] Kotfis K, Jamiot-Milc D, Skonieczna-Żydecka K, Folwarski M, Stachowska E. The Effect of Preoperative Carbohydrate Loading on Clinical and Biochemical Outcomes after Cardiac Surgery: A Systematic Review and Meta-Analysis of Randomized Trials. *Nutrients.* 2020;12(10):3105. doi: 10.3390/nu12103105.### **CHAMP 3. ANESTHESIE ET ANALGESIE POUR CHIRURGIE CARDIAQUE**
+
+**Question 1. Le choix des agents anesthésiques a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Sophie PROVENCHERE FRUTHIOT (SFAR, Paris), Pierre Grégoire GUINOT (SFAR, Dijon)*
+
+**R3.1 – Il n'est probablement pas recommandé de privilégier des agents halogénés plutôt qu'intraveineux pour diminuer l'incidence des complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2- (accord FORT)**
+
+**Argumentaire :** Plusieurs études expérimentales et cliniques ont montré que l'utilisation des agents halogénés pourrait diminuer les complications, particulièrement au cours de la chirurgie coronaire, par un effet protecteur d'organes (préconditionnement ischémique) [1,2]. Les halogénés pourraient diminuer l'ischémie myocardique mesurée par le dosage de la troponine postopératoire, l'incidence de l'infarctus du myocarde périopératoire [3], le recours aux inotropes et aux vasopresseurs [4], l'insuffisance rénale aiguë postopératoire [5], l'incidence des complications pulmonaires [6] et enfin l'incidence du delirium [7]. Cependant, ces études ont utilisé des agents volatils différents ainsi que des modalités d'administration variables rendant difficile une conclusion définitive sur la supériorité des agents anesthésiques volatils comparés aux agents intraveineux en termes d'incidence de survenue de complications postopératoires [8,9].
+
+Par ailleurs, un travail récent en chirurgie cardiaque ne retrouvait pas d'impact de l'utilisation de sevoflurane en termes de protection myocardique évaluée par le dosage postopératoire de la troponine [10]. De plus, des réserves ont été émises sur l'utilisation du sevoflurane et le risque de delirium postopératoire et/ou de dysfonction cognitive, particulièrement chez le sujet âgé en chirurgie non cardiaque [11].
+
+De nombreuses études avec une méthodologie robuste ont comparé les agents anesthésiques volatils aux agents intraveineux au cours de la chirurgie cardiaque [1,3]. Un essai multicentrique randomisé contrôlé récent portant sur une cohorte de 5 400 patients bénéficiant d'un pontage aorto-coronaire isolé (l'étude MYRIAD) a montré que l'utilisation des agents halogénés sans protocole d'administration spécifique (desflurane, isoflurane ou sevoflurane), comparée à l'utilisation des agents intraveineux, ne diminuait pas la mortalité à 1 an toutes causes confondues, la durée d'hospitalisation en réanimation et la durée de séjour [12]. Ces résultats confirment ceux d'une méta analyse sur 962 patients bénéficiant de chirurgie valvulaire, qui ne retrouvait pas de supériorité clinique d'une anesthésie par agents anesthésiques volatils comparés aux agents intraveineux [13].
+
+#### **Références**
+
+- [1] Pisano A, Torella M, Yavorovskiy A, Landoni G. The Impact of Anesthetic Regimen on Outcomes in Adult Cardiac Surgery: A Narrative Review. *J Cardiothorac Vasc Anesth* 2020. <https://doi.org/10.1053/j.jvca.2020.03.054>.
+- [2] Kunst G, Klein AA. Peri-operative anaesthetic myocardial preconditioning and protection – cellular mechanisms and clinical relevance in cardiac anaesthesia. *Anaesthesia* 2015;70:467–82. <https://doi.org/10.1111/anae.12975>.
+- [3] Bonanni A, Signori A, Alicino C, Mannucci I, Grasso MA, Martinelli L, et al. Volatile Anesthetics versusPropofol for Cardiac Surgery with Cardiopulmonary Bypass: Meta-analysis of Randomized Trials. *Anesthesiology* 2020;132:1429–46. <https://doi.org/10.1097/ALN.0000000000003236>.
+
+[4] Likhvantsev VV, Landoni G, Levikov DI, Grebenchikov OA, Skripkin YV, Cherpakov RA. Sevoflurane Versus Total Intravenous Anesthesia for Isolated Coronary Artery Bypass Surgery With Cardiopulmonary Bypass: A Randomized Trial. *J Cardiothorac Vasc Anesth* 2016;30:1221–7. <https://doi.org/10.1053/j.jvca.2016.02.030>.
+
+[5] Cai J, Xu R, Yu X, Fang Y, Ding X. Volatile anesthetics in preventing acute kidney injury after cardiac surgery: A systematic review and meta-analysis. *The Journal of Thoracic and Cardiovascular Surgery* 2014;148:3127–36. <https://doi.org/10.1016/j.jtcvs.2014.07.085>.
+
+[6] Uhlig C, Bluth T, Schwarz K, Deckert S, Heinrich L, De Hert S, et al. Effects of Volatile Anesthetics on Mortality and Postoperative Pulmonary and Other Complications in Patients Undergoing Surgery: A Systematic Review and Meta-analysis. *Anesthesiology* 2016;124:1230–45. <https://doi.org/10.1097/ALN.0000000000001120>.
+
+[7] Chen F, Duan G, Wu Z, Zuo Z, Li H. Comparison of the cerebroprotective effect of inhalation anaesthesia and total intravenous anaesthesia in patients undergoing cardiac surgery with cardiopulmonary bypass: a systematic review and meta-analysis. *BMJ Open* 2017;7:e014629. <https://doi.org/10.1136/bmjopen-2016-014629>.
+
+[8] Landoni G, Greco T, Biondi-Zoccai G, Nigro Neto C, Febres D, Pintaudi M, et al. Anaesthetic drugs and survival: a Bayesian network meta-analysis of randomized trials in cardiac surgery. *Br J Anaesth* 2013;111:886–96. <https://doi.org/10.1093/bja/aet231>.
+
+[9] Kunst G, Milojevic M, Boer C, Somer FMJJD, Gudbjartsson T, Goor J van den, et al. 2019 EACTS/EACTA/EBCP guidelines on cardiopulmonary bypass in adult cardiac surgery. *British Journal of Anaesthesia* 2019;123:713–57. <https://doi.org/10.1016/j.bja.2019.09.012>.
+
+[10] Guinot P-G, Ellouze O, Grosjean S, Berthoud V, Constandache T, Radhouani M, et al. Anaesthesia and ICU sedation with sevoflurane do not reduce myocardial injury in patients undergoing cardiac surgery: A randomized prospective study. *Medicine (Baltimore)* 2020;99:e23253. <https://doi.org/10.1097/MD.00000000000023253>.
+
+[11] Miller D, Lewis SR, Pritchard MW, Schofield-Robinson OJ, Shelton CL, Alderson P, et al. Intravenous versus inhalational maintenance of anaesthesia for postoperative cognitive outcomes in elderly people undergoing non-cardiac surgery. *Cochrane Database Syst Rev* 2018;8:CD012317. <https://doi.org/10.1002/14651858.CD012317.pub2>.
+
+[12] Landoni G, Lomivorotov VV, Nigro Neto C, Monaco F, Pasyuga VV, Bradic N, et al. Volatile Anesthetics versus Total Intravenous Anesthesia for Cardiac Surgery. *N Engl J Med* 2019;380:1214–25. <https://doi.org/10.1056/NEJMoa1816476>.
+
+[13] Ren S-F, Yu H, Guo Y-Q, Yu H. Inhalation versus intravenous anesthesia for adults undergoing heart valve surgery: a systematic review and meta-analysis. *Minerva Anestesiol* 2019;85:665–75. <https://doi.org/10.23736/S0375-9393.19.13377-9>.
+
+**Question 2. Les modalités de ventilation utilisées lors de la chirurgie cardiaque ont-elles un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Sophie PROVENCHERE FRUTHIOT (SFAR, Paris), Pierre Grégoire GUINOT (SFAR, Dijon)*
+
+**R3.2.1- Il est probablement recommandé d'appliquer une stratégie de ventilation protectrice hors CEC, associant un volume courant compris entre 6-8 mL/kg de poids idéal théorique, une pression expiratoire positive et des manœuvres de recrutement pour diminuer l'incidence des complications respiratoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)****R3.2.2- Il n'est probablement pas recommandé d'appliquer une ventilation pendant la CEC pour diminuer l'incidence des complications respiratoires et la durée d'hospitalisation.**
+
+**GRADE 2- (accord FORT)**
+
+**Argumentaire :** Plusieurs études prospectives randomisées ont montré un bénéfice à une stratégie de ventilation multimodale protectrice en chirurgie non cardiaque [1,2]. Une étude observationnelle a montré que la mise en place d'une telle stratégie en chirurgie cardiaque était associée à une diminution de l'incidence des complications respiratoires postopératoires [3]. De plus, une étude randomisée réalisée chez des patients hypoxémiques a mis en évidence une diminution des complications respiratoires après chirurgie cardiaque lorsque la prise en charge ventilatoire était basée sur une ventilation protectrice incluant la réalisation de manœuvres de recrutement alvéolaire [4]. Ces modalités de ventilation doivent probablement s'appliquer en chirurgie cardiaque pour limiter les complications respiratoires, même s'il n'existe pas à ce jour d'essai randomisé contrôlé chez des patients non hypoxémiques en chirurgie cardiaque. Les recommandations nord-américaines de réhabilitation améliorée après chirurgie cardiaque suggèrent l'utilisation d'une telle stratégie [5]. La ventilation protectrice associe un volume courant entre 6 et 8 mL/kg de poids idéal, l'application d'une pression expiratoire positive (PEP), et des manœuvres de recrutement. Ces modalités de ventilation doivent prendre en compte les contraintes techniques chirurgicales comme le niveau de PEP lors du prélèvement des artères mammaires lors de la chirurgie coronaire qui peut gêner le chirurgien et/ou favoriser la survenue d'une brèche pleurale.
+
+Les modalités de ventilation per CEC ont fait l'objet d'un débat sur l'incidence des complications pulmonaires. L'étude multicentrique PROVECS a comparé une stratégie conventionnelle (volume courant entre 6 et 8 mL/kg, PEP à 2 cmH<sub>2</sub>O) sans ventilation per CEC versus une stratégie comprenant une ventilation protectrice (PEP à 8 cmH<sub>2</sub>O et manœuvres de recrutement durant la chirurgie) avec une ventilation per CEC (volume courant 3 mL/kg, 12 cycles par minute, PEP à 8 cmH<sub>2</sub>O). Les auteurs n'ont rapporté aucun bénéfice de la ventilation per CEC sur l'incidence des complications pulmonaires [6]. L'étude monocentrique MECANO a comparé deux groupes, un groupe sans ventilation per CEC et un groupe avec ventilation per CEC (volume courant 2 mL/kg, 5 cycles par minute, PEP à 5 cmH<sub>2</sub>O). Les auteurs ne rapportaient aucune différence entre les deux groupes concernant le décès, la survenue de détresse respiratoire et le taux de ré-intubation [7].
+
+En conclusion, une stratégie de ventilation protectrice en chirurgie cardiaque est probablement recommandée en dehors de la période de CEC, tout particulièrement lorsque le patient présente une insuffisance respiratoire aiguë.
+
+**Références**
+
+- [1] Futier E, Constantin J-M, Paugam-Burtz C, Pascal J, Eurin M, Neuschwander A, et al. A Trial of Intraoperative Low-Tidal-Volume Ventilation in Abdominal Surgery. *N Engl J Med*2013;369(5):428-37. doi: 10.1056/NEJMoa1301082.
+- [2] Karalapillai D, Weinberg L, Peyton P, Ellard L, Hu R, Pearce B, et al. Effect of Intraoperative Low Tidal Volume vs Conventional Tidal Volume on Postoperative Pulmonary Complications in Patients Undergoing Major Surgery: A Randomized Clinical Trial. *JAMA* 2020;324:848–58. doi:10.1001/jama.2020.12866.
+- [3] Mathis MR, Duggal NM, Likosky DS, Haft JW, Douville NJ, Vaughn MT, et al. Intraoperative MechanicalVentilation and Postoperative Pulmonary Complications after Cardiac Surgery. *Anesthesiology* 2019;131:1046–62. :doi:10.1097/ALN.0000000000002909.
+
+[4] Costa Leme A, Hajjar LA, Volpe MS, Fukushima JT, De Santis Santiago RR, Osawa EA, et al. Effect of Intensive vs Moderate Alveolar Recruitment Strategies Added to Lung-Protective Ventilation on Postoperative Pulmonary Complications: A Randomized Clinical Trial. *JAMA* 2017;317:1422–32. :doi:10.1001/jama.2017.2297.
+
+[5] Engelman DT, Ben Ali W, Williams JB, Perrault LP, Reddy VS, Arora RC, et al. Guidelines for Perioperative Care in Cardiac Surgery: Enhanced Recovery After Surgery Society Recommendations. *JAMA Surg* 2019;154:755–66. doi:10.1001/jamasurg.2019.1153.
+
+[6] Lagier D, Fischer F, Fournier W, Huynh TM, Cholley B, Guinard B, et al. Effect of open-lung vs conventional perioperative ventilation strategies on postoperative pulmonary complications after on-pump cardiac surgery: the PROVECS randomized clinical trial. *Intensive Care Med* 2019;45:1401–12. doi:10.1007/s00134-019-05741-8.
+
+[7] Nguyen LS, Estagnasie P, Merzoug M, Brusset A, Law Koune J-D, Aubert S, et al. Low-tidal volume mechanical ventilation against no ventilation during cardiopulmonary bypass in heart surgery (MECANO): a randomized controlled trial. *Chest* 2020. doi:10.1016/j.chest.2020.10.082.
+
+**Question 3. Une stratégie d'optimisation hémodynamique incluant la gestion des apports liquidiens per et post opératoires a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Sophie PROVENCHERE FRUTHIOT (SFAR, Paris), Pierre Grégoire GUINOT (SFAR, Dijon)*
+
+**R3.3 - Il est probablement recommandé d'utiliser une stratégie d'optimisation hémodynamique per et postopératoire, notamment par le monitoring systématique du volume d'éjection systolique et de prendre en compte les bilans entrées-sorties per et postopératoires des patients, pour diminuer la survenue de complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** L'optimisation hémodynamique est une stratégie visant à maximiser la délivrance en oxygène des tissus par une optimisation du débit cardiaque grâce au remplissage vasculaire et/ou aux inotropes (Goal-directed hemodynamic therapy ou EGDH). En chirurgie cardiaque, cette stratégie s'applique à la période per et postopératoire. Plusieurs essais randomisés contrôlés ont retrouvé un impact direct de l'optimisation hémodynamique sur la survenue de complications postopératoires. La méta-analyse d'Aya et al. regroupant 699 patients inclus dans 5 essais randomisés contrôlés utilisant une stratégie d'optimisation hémodynamique avec différents outils de monitoring hémodynamique montrent une réduction significative des complications postopératoires (OR 0,33 (0,15 – 0,73)) [1]. Dans l'état actuel des connaissances, l'optimisation hémodynamique est la seule mesure ayant démontré son efficacité dans la prévention de l'insuffisance rénale aigüe [2]. En revanche, plusieurs essais randomisés contrôlés ainsi qu'une méta-analyse n'ont pas montré d'impact sur la mortalité [3-5]. Dans la méta-analyse de Li et al. (9 études et 1148 patients), il n'y avait pas de différence de mortalité toutes causes confondues dans le groupe optimisation hémodynamique versus prise en charge standard (OR 0,58 (0,27–1,53)). Par contre, ces études mettaient constamment en évidence une diminution de la durée d'hospitalisation alors que l'impact sur la durée d'hospitalisation en réanimation était moins évident [6,7]. A ce jour, aucune étude ne démontrela supériorité d'un outil hémodynamique par rapport à un autre en chirurgie cardiaque. Le choix du type de monitoring hémodynamique doit prendre en compte le patient avec ses comorbidités et sa cardiopathie et le type de chirurgie cardiaque réalisée. La stratégie d'optimisation hémodynamique doit être basée sur la mesure du débit cardiaque (et du volume d'éjection systolique) et de la pression artérielle, de la mise en place d'un algorithme décisionnel d'optimisation hémodynamique, et du suivi de cet algorithme.
+
+En chirurgie cardiaque, la gestion des apports liquidiens doit inclure l'analyse du bilan entrée-sortie des fluides per et postopératoire, et la recherche de signes de surcharge hydrosodée. Plusieurs travaux, dont l'étude de Kuo G et al., ont démontré une association forte entre l'accumulation liquidienne (positivité du bilan entrée-sortie), la survenue de complications, et la durée de séjour après chirurgie cardiaque [8, 9]. Cette gestion du bilan liquidien est incluse dans certains des protocoles d'EGDT ayant démontré un bénéfice clinique [6].
+
+#### Références
+
+1. [1] Aya HD, Cecconi M, Hamilton M, Rhodes A. Goal-directed therapy in cardiac surgery: a systematic review and meta-analysis. *Br J Anaesth* 2013;110:510–7. Doi :10.1093/bja/aet020.
+2. [2] Giglio M, Dalfino L, Puntillo F, Brienza N. Hemodynamic goal-directed therapy and postoperative kidney injury: an updated meta-analysis with trial sequential analysis. *Crit Care* 2019;23:232. Doi :10.1186/s13054-019-2516-4.
+3. [3] Osawa EA, Rhodes A, Landoni G, Galas FRBG, Fukushima JT, Park CHL, et al. Effect of Perioperative Goal-Directed Hemodynamic Resuscitation Therapy on Outcomes Following Cardiac Surgery: A Randomized Clinical Trial and Systematic Review. *Crit Care Med* 2016;44:724–33. doi :10.1097/CCM.0000000000001479.
+4. [4] Fellahi J-L, Brossier D, Dechanet F, Fischer M-O, Saplacan V, Gérard J-L, et al. Early goal-directed therapy based on endotracheal bioimpedance cardiography: a prospective, randomized controlled study in coronary surgery. *J Clin Monit Comput* 2015;29:351–8. doi :10.1007/s10877-014-9611-5.
+5. [5] Li P, Qu L, Qi D, Shen B, Wang Y, Xu J, et al. Significance of perioperative goal-directed hemodynamic approach in preventing postoperative complications in patients after cardiac surgery: a meta-analysis and systematic review. *Annals of Medicine* 2017;49:343–51. doi :10.1080/07853890.2016.1271956.
+6. [6] Goepfert MS, Richter HP, Zu Eulenburg C, Gruetzmacher J, Rafflenbeul E, Roehrer K, et al. Individually optimized hemodynamic therapy reduces complications and length of stay in the intensive care unit: a prospective, randomized controlled trial. *Anesthesiology* 2013;119:824–36. doi :10.1097/ALN.0b013e31829bd770.
+7. [7] Patel H, Parikh N, Shah R, Patel R, Thosani R, Shah P, et al. Effect of Goal-directed Hemodynamic Therapy in Postcardiac Surgery Patients. *Indian J Crit Care Med* 2020;24:321–6. doi :10.5005/jp-journals-10071-23427.
+8. [8] Kuo G, Chen S-W, Lee C-C, Chen J-J, Fan P-C, Wang S-Y, et al. Latent Trajectories of Fluid Balance Are Associated With Outcomes in Cardiac and Aortic Surgery. *Ann Thorac Surg* 2020;109:1343–9. doi :10.1016/j.athoracsur.2019.09.068.
+9. [9] Haase-Fielitz A, Haase M, Bellomo R, Calzavacca P, Spura A, Baraki H, et al. Perioperative Hemodynamic Instability and Fluid Overload are Associated with Increasing Acute Kidney Injury Severity and Worse Outcome after Cardiac Surgery. *Blood Purif* 2017;43:298–308. doi :10.1159/000455061.
+
+#### **Question 4. L'utilisation d'une technique d'analgésie locorégionale a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Sophie PROVENCHERE FRUTHIOT (SFAR, Paris), Pierre Grégoire GUINOT (SFAR, Dijon)*
+
+**R3.4.1 – Il est probablement recommandé de réaliser une analgésie locorégionale en privilégiant les blocs échoguidés de la paroi thoracique (en injection unique ou continue) pour améliorer la prise en charge analgésique, diminuer la survenue de complications****postopératoires et la durée d'hospitalisation en réanimation.**
+
+**GRADE 2+ (accord FORT)**
+
+**R3.4.2 – Il n'est pas recommandé de réaliser une infiltration pré-sternale et/ou d'utiliser une analgésie par cathéter pré-sternal pour diminuer la survenue de complications postopératoires.**
+
+**GRADE 1- (accord FORT)**
+
+**Argumentaire :** L'utilisation d'une technique d'analgésie locorégionale en chirurgie cardiaque diminue la consommation d'opiacés, les complications respiratoires, les complications cardio-vasculaires, et la durée de séjour en réanimation sans avoir d'impact sur la durée d'hospitalisation et la mortalité [1]. Plusieurs techniques d'analgésie loco-régionale ont été étudiées : l'analgésie péridurale thoracique, le bloc paravertébral, le bloc érecteur du rachis, le bloc serratus antérieur, le bloc transverse thoracique antérieur, le bloc parasternal, et le cathéter d'infiltration pré-sternal [2,3]. L'analgésie péridurale thoracique est la technique la plus étudiée tandis que les autres techniques sont de développements plus récents donc moins étudiées. Bien qu'une méta-analyse de 2019 ne trouvait pas d'effets sur la mortalité, l'analgésie péridurale était associée à une amélioration de la fonction respiratoire et une diminution des complications cardio-vasculaires [1,4–6]. Dans une étude randomisée de 2012, El-Morsy et al. ont rapporté une amélioration de l'hématose avec une diminution de la durée d'intubation oro-trachéale [4]. Bien que de nombreuses études confirment un bénéfice clinique à l'utilisation d'une analgésie péridurale, celle-ci est associée à un certain nombre d'effets secondaires (hypotension artérielle, rétention aigüe d'urine, prurit, hématome périmédullaire...). Guay et al. ont confirmé une incidence plus élevée d'hypotension artérielle dans le groupe avec analgésie péridurale [1]. En 2020, une étude randomisée sur 145 patients retrouvait une non-infériorité du bloc paravertébral échoguidé en termes d'analgésie postopératoire par rapport à l'analgésie péridurale [6]. Par ailleurs, le groupe bloc paravertébral présentait une diminution des effets secondaires (vomissement, rétention aigüe d'urine), et une diminution de la durée de séjour en réanimation. Dans une étude comparant le bloc érecteur du rachis à l'analgésie péridurale thoracique, Nagaraja et al. ont mis en évidence une efficacité analgésique identique entre les deux groupes sans différence d'effets indésirables [7]. Bien que l'analgésie péridurale ait un bénéfice clinique, son utilisation quotidienne est plus difficile que les blocs échoguidés de la paroi thoracique [3]. Aussi, l'utilisation d'une analgésie péridurale dans le cadre d'un programme de réhabilitation précoce en chirurgie cardiaque paraît difficile. Une alternative serait l'utilisation du bloc paravertébral ou des blocs de la paroi thoracique. Les autres techniques d'analgésie loco-régionale sont des techniques basées sur les blocs fasciaux de la paroi thoracique (le bloc serratus antérieur, les PEC blocs, le bloc thoracique transverse, le bloc parasternal) [2,3,8,9]. Un nombre croissant d'études a été publié sur ces blocs mais il n'existe pas d'étude de haut niveau de preuve ayant évalué le bénéfice clinique (complications, durées de séjour, mortalité) de leur utilisation [7,8,10,11]. De manière constante, l'utilisation d'une analgésie loco-régionale de la paroi thoracique est associée à une diminution de la consommation de morphinique. Dans une étude rétrospective, l'utilisation du bloc serratus antérieur en chirurgie cardiaque mini-invasive était associée à une diminution des posologies cumulées d'analgésiques et une diminution de la durée de séjour en réanimation [10]. Cesrésultats n'ont pas été confirmés dans l'étude ultérieure de Moll et al. [11].
+
+L'analésie par infiltration et/ou cathéter pré-sternal est une technique d'analésie qui n'a pas démontré de bénéfice clinique sur le plan respiratoire ou cardio-vasculaire, ni en termes de durée de séjour [12–16]. Bien que son utilisation soit inconstamment associée à une diminution mineure de la consommation de morphiniques, plusieurs études dont une étude randomisée multicentrique ont confirmé l'absence de bénéfice clinique de cette technique en chirurgie cardiaque [15,16].
+
+## Références
+
+1. [1] Guay J, Kopp S. Epidural analgesia for adults undergoing cardiac surgery with or without cardiopulmonary bypass. *Cochrane Database Syst Rev* 2019;3:CD006715. doi:10.1002/14651858.CD006715.pub3.
+2. [2] Caruso TJ, Lawrence K, Tsui BCH. Regional anesthesia for cardiac surgery. *Curr Opin Anaesthesiol* 2019;32:674–82. doi:10.1097/ACO.0000000000000769.
+3. [3] Cogan J. Pain management after cardiac surgery. *Semin Cardiothorac Vasc Anesth* 2010;14:201–4. doi:10.1177/1089253210378401.
+4. [4] El-Morsy GZ, El-Deeb A. The outcome of thoracic epidural anesthesia in elderly patients undergoing coronary artery bypass graft surgery. *Saudi J Anaesth* 2012;6:16–21. doi:10.4103/1658-354X.93048.
+5. [5] Jakobsen C-J, Bhavsar R, Nielsen DV, Ryhammer PK, Sloth E, Greisen J. High thoracic epidural analgesia in cardiac surgery. Part 1—high thoracic epidural analgesia improves cardiac performance in cardiac surgery patients. *J Cardiothorac Vasc Anesth* 2012;26:1039–47. doi:10.1053/j.jvca.2012.05.007.
+6. [6] Dhole S, Mehta Y, Saxena H, Juneja R, Trehan N. Comparison of continuous thoracic epidural and paravertebral blocks for postoperative analgesia after minimally invasive direct coronary artery bypass surgery. *J Cardiothorac Vasc Anesth* 2001;15:288–92. doi:10.1053/jcan.2001.23271.
+7. [7] Nagaraja PS, Ragavendran S, Singh NG, Asai O, Bhavya G, Manjunath N, et al. Comparison of continuous thoracic epidural analgesia with bilateral erector spinae plane block for perioperative pain management in cardiac surgery. *Ann Card Anaesth* 2018;21:323–7. doi:10.4103/aca.ACA\_16\_18.
+8. [8] Barr AM, Tutungi E, Almeida AA. Parasternal intercostal block with ropivacaine for pain management after cardiac surgery: a double-blind, randomized, controlled trial. *J Cardiothorac Vasc Anesth* 2007;21:547–53. doi:10.1053/j.jvca.2006.09.003.
+9. [9] McDonald SB, Jacobsohn E, Kopacz DJ, Desphande S, Helman JD, Salinas F, et al. Parasternal block and local anesthetic infiltration with levobupivacaine after cardiac surgery with desflurane: the effect on postoperative pain, pulmonary function, and tracheal extubation times. *Anesth Analg* 2005;100:25–32. doi:10.1213/01.ANE.0000139652.84897.BD.
+10. [10] Berthoud V, Ellouze O, Nguyen M, Konstantinou M, Aho S, Malapert G, et al. Serratus anterior plane block for minimal invasive heart surgery. *BMC Anesthesiol* 2018;18:144. doi:10.1186/s12871-018-0614-5.
+11. [11] Moll V, Maffeo C, Mitchell M, Ward CT, Groff RF, Lee SC, et al. Association of Serratus Anterior Plane Block for Minimally Invasive Direct Coronary Artery Bypass Surgery With Higher Opioid Consumption: A Retrospective Observational Study. *J Cardiothorac Vasc Anesth* 2018;32:2570–7. doi:10.1053/j.jvca.2018.04.043.
+12. [12] Nasr DA, Abdelhamid HM, Mohsen M, Aly AH. The analgesic efficacy of continuous presternal bupivacaine infusion through a single catheter after cardiac surgery. *Ann Card Anaesth* 2015;18:15–20. doi:10.4103/0971-9784.148314.
+13. [13] Eljezi V, Dualé C, Azarnoush K, Skrzypczak Y, Sautou V, Pereira B, et al. The analgesic effects of a bilateral sternal infusion of ropivacaine after cardiac surgery. *Reg Anesth Pain Med* 2012;37:166–74. doi:10.1097/AAP.0b013e318240957f.
+14. [14] Eljezi V, Imhoff E, Bourdeaux D, Pereira B, Farhat M, Schoeffler P, et al. Bilateral sternal infusion of ropivacaine and length of stay in ICU after cardiac surgery with increased respiratory risk: A randomised controlled trial. *Eur J Anaesthesiol* 2017;34:56–65. doi:10.1097/EJA.0000000000000564.[15] Amour J, Cholley B, Ouattara A, Longrois D, Leprince P, Fellahi J-L, et al. The effect of local anesthetic continuous wound infusion for the prevention of postoperative pneumonia after on-pump cardiac surgery with sternotomy: the STERNOCAT randomized clinical trial. *Intensive Care Med* 2019;45:33–43. doi:10.1007/s00134-018-5497-x.
+
+[16] Bethenod F, Ellouze O, Berthoud V, Missaoui A, Cransac A, Aho S, et al. A single dose of tramadol in continuous wound analgesia with levobupivacaine does not reduce post-sternotomy pain: a randomized controlled trial. *J Pain Res* 2019;12:2733–41. doi:10.2147/JPR.S211042.
+
+**Question 5. Les modalités de l'analgésie multimodale systémique ont-elles un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Sophie PROVENCHERE FRUTHIOT (SFAR, Paris), Pierre Grégoire GUINOT (SFAR, Dijon)*
+
+**R3.5.1 – Il est probablement recommandé d'utiliser une analgésie multimodale systémique avec épargne morphinique, sans qu'une classe thérapeutique n'ait fait la preuve de sa supériorité en dehors du paracétamol, pour le contrôle de la douleur postopératoire en chirurgie cardiaque.**
+
+**GRADE 2+ (accord FORT)**
+
+**R3.5.2 – Il n'est pas recommandé d'utiliser la gabapentine dans le cadre d'une analgésie multimodale en chirurgie cardiaque pour diminuer la survenue de complications postopératoires.**
+
+**GRADE 1- (accord FORT)**
+
+**Argumentaire :** La mise en place d'une analgésie morphinique contrôlée par le patient était considérée comme la pierre angulaire de la prise en charge analgésique postopératoire de chirurgie cardiaque. Deux études randomisées n'ont pas démontré de supériorité clinique du rémifentanil par rapport à la morphine dans le cadre d'une analgésie morphinique contrôlée par le patient [1]. Bien que l'utilisation de morphiniques en sous-cutané ne soit pas inférieure à une analgésie morphinique contrôlée par le patient, celle-ci est associée à des posologies plus élevées avec une consommation plus importante des ressources humaines [2].
+
+Malgré les nombreuses études publiées sur les différentes classes d'antalgiques non opioïdes, peu d'études ont démontré un bénéfice clinique (complications, durée de séjour) d'une analgésie multimodale systémique et/ou d'une classe thérapeutique par rapport à une autre. Une étude randomisée ouverte ayant comparé une stratégie d'analgésie multimodale non-opioïde (paracétamol, anti-inflammatoire non stéroïdien et gabapentine) à une stratégie opioïde (morphine et paracétamol) ne retrouvait aucune différence en termes de bénéfice clinique (durée d'hospitalisation, complication cardiaque, accident vasculaire cérébral et insuffisance rénale) alors que la douleur moyenne était diminuée pendant les premières 24h [3]. Plusieurs études, dont une méta-analyse portant sur plus de 7000 patients, ont évalué les anti-inflammatoires non stéroïdiens en chirurgie cardiaque [4–7]. Une seule étude de faible effectif retrouvait une meilleure hématose avec une diminution de la durée d'intubationtrachéale [8]. La prescription d'AINS doit être effectuée dans le respect des contre-indications de cette classe thérapeutique, en tenant compte de la faible incidence des effets secondaires en cas de traitement de courte durée (48 à 72 heures). Le paracétamol permet une épargne morphinique [6,9]. Une étude randomisée prospective en double aveugle a démontré que l'utilisation de paracétamol diminuait l'incidence de la confusion postopératoire et la durée de séjour en réanimation [10]. Le tramadol qu'il soit utilisé par voie systémique ou dans le cadre d'infiltration continue du site opératoire ne diminue pas le taux de complications postopératoires bien qu'il ait un effet d'épargne morphinique [11,12]. Le néfopam a été évalué dans une étude randomisée en chirurgie cardiaque sans démontrer de bénéfice clinique en dehors de l'épargne morphinique [13,14]. Plusieurs études randomisées évaluant la kétamine au bloc opératoire ou après chirurgie cardiaque ont montré un bénéfice clinique inconstant en termes d'inflammation, de delirium postopératoire, et de durée de séjour [15,16]. L'utilisation de la kétamine était systématiquement associée à une épargne morphinique.
+
+La gabapentine et ses dérivés ont été évalués dans plusieurs études randomisées [17–20]. Bien que l'utilisation de la gabapentine en chirurgie cardiaque diminue inconstamment la consommation d'opioïde, celle-ci est associée à une augmentation de la durée de ventilation et des troubles confusionnels [17,18,20]. Une méta-analyse de 2017 sur la gabapentine en chirurgie cardiaque concluait à une insuffisance de données cliniques pour recommander son utilisation quotidienne [19].
+
+Une stratégie d'anesthésie générale balancée non-opioïde diminuerait le recours aux morphiniques, le recours à la ventilation non invasive pour insuffisance respiratoire aigüe, et la durée de séjour en réanimation [21]. L'utilisation d'une analgésie multimodale non opioïde est systématiquement associée à une diminution de la dose totale d'opioïde. L'utilisation de ces antalgiques doit être faite dans le respect des contre-indications (glaucome, personne âgée...), et après évaluation du rapport bénéfice/risque, en tenant compte de l'incidence des effets secondaires.
+
+## Références
+
+- [1] Baltali S, Turkoz A, Bozdogan N, Demirturk OS, Baltali M, Turkoz R, et al. The efficacy of intravenous patient-controlled remifentanil versus morphine anesthesia after coronary artery surgery. *J Cardiothorac Vasc Anesth* 2009;23:170–4. doi:10.1053/j.vca.2008.07.006.
+- [2] Bainbridge D, Martin JE, Cheng DC. Patient-controlled versus nurse-controlled analgesia after cardiac surgery--a meta-analysis. *Can J Anaesth* 2006;53:492–9. doi:10.1007/BF03022623.
+- [3] Rafiq S, Steinbrüchel DA, Wanscher MJ, Andersen LW, Navne A, Lilleøer NB, et al. Multimodal analgesia versus traditional opiate based analgesia after cardiac surgery, a randomized controlled trial. *J Cardiothorac Surg* 2014;9:52. doi:10.1186/1749-8090-9-52.
+- [4] Maddali MM, Kurian E, Fahr J. Extubation time, hemodynamic stability, and postoperative pain control in patients undergoing coronary artery bypass surgery: an evaluation of fentanyl, remifentanil, and nonsteroidal antiinflammatory drugs with propofol for perioperative and postoperative management. *J Clin Anesth* 2006;18:605–10. doi:10.1016/j.jclinane.2006.03.022.
+- [5] de Souza Brito F, Mehta RH, Lopes RD, Harskamp RE, Lucas BD, Schulte PJ, et al. Nonsteroidal Anti-Inflammatory Drugs and Clinical Outcomes in Patients Undergoing Coronary Artery Bypass Surgery. *Am J Med* 2017;130:462–8. doi:10.1016/j.amjmed.2016.10.023.[6] Javaherforooshzadeh F, Abdalbeygi H, Janatmakan F, Gholizadeh B. Comparing the effects of ketorolac and Paracetamol on postoperative pain relief after coronary artery bypass graft surgery. A randomized clinical trial. *J Cardiothorac Surg* 2020;15:80. doi:10.1186/s13019-020-01125-y.
+
+[7] Dvirnik N, Belley-Cote EP, Hanif H, Devereaux PJ, Lamy A, Dieleman JM, et al. Steroids in cardiac surgery: a systematic review and meta-analysis. *Br J Anaesth* 2018;120:657–67. doi:10.1016/j.bja.2017.10.025.
+
+[8] Fayaz MK, Abel RJ, Pugh SC, Hall JE, Djaiani G, Mecklenburgh JS. Opioid-sparing effects of diclofenac and paracetamol lead to improved outcomes after cardiac surgery. *J Cardiothorac Vasc Anesth* 2004;18:742–7. doi:10.1053/j.jvca.2004.08.012.
+
+[9] Cattabriga I, Pacini D, Lamazza G, Talarico F, Di Bartolomeo R, Grillone G, et al. Intravenous paracetamol as adjunctive treatment for postoperative pain after cardiac surgery: a double blind randomized controlled trial. *Eur J Cardiothorac Surg* 2007;32:527–31. doi:10.1016/j.ejcts.2007.05.017.
+
+[10] Subramaniam B, Shankar P, Shaefi S, Mueller A, O’Gara B, Banner-Goodspeed V, et al. Effect of Intravenous Acetaminophen vs Placebo Combined With Propofol or Dexmedetomidine on Postoperative Delirium Among Older Patients Following Cardiac Surgery: The DEXACET Randomized Clinical Trial. *JAMA* 2019;321:686–96. doi:10.1001/jama.2019.0234.
+
+[11] Altun D, Çınar Ö, Özker E, Türköz A. The effect of tramadol plus paracetamol on consumption of morphine after coronary artery bypass grafting. *J Clin Anesth* 2017;36:189–93. doi:10.1016/j.jclinane.2016.10.030.
+
+[12] Bethenod F, Ellouze O, Berthoud V, Missaoui A, Cransac A, Aho S, et al. A single dose of tramadol in continuous wound analgesia with levobupivacaine does not reduce post-sternotomy pain: a randomized controlled trial. *J Pain Res* 2019;12:2733–41. doi:10.2147/JPR.S211042.
+
+[13] Kim K, Kim W-J, Choi D-K, Lee YK, Choi I-C, Sim J-Y. The analgesic efficacy and safety of nefopam in patient-controlled analgesia after cardiac surgery: A randomized, double-blind, prospective study. *J Int Med Res* 2014;42:684–92. doi:10.1177/0300060514525351.
+
+[14] Richebé P, Picard W, Rivat C, Jelacic S, Branchard O, Leproust S, et al. Effects of nefopam on early postoperative hyperalgesia after cardiac surgery. *J Cardiothorac Vasc Anesth* 2013;27:427–35. doi:10.1053/j.jvca.2012.08.015.
+
+[15] Hudetz JA, Iqbal Z, Gandhi SD, Patterson KM, Byrne AJ, Hudetz AG, et al. Ketamine attenuates post-operative cognitive dysfunction after cardiac surgery. *Acta Anaesthesiol Scand* 2009;53:864–72. doi:10.1111/j.1399-6576.2009.01978.x.
+
+[16] Welters ID, Feurer M-K, Preiss V, Müller M, Scholz S, Kwapisz M, et al. Continuous S-(+)-ketamine administration during elective coronary artery bypass graft surgery attenuates pro-inflammatory cytokine response during and after cardiopulmonary bypass. *Br J Anaesth* 2011;106:172–9. doi:10.1093/bja/aeq341.
+
+[17] Menda F, Köner O, Sayın M, Ergenoğlu M, Küçükaksu S, Aykaç B. Effects of single-dose gabapentin on postoperative pain and morphine consumption after cardiac surgery. *J Cardiothorac Vasc Anesth* 2010;24:808–13. doi:10.1053/j.jvca.2009.10.023.
+
+[18] Pesonen A, Suojaranta-Ylinen R, Hammarén E, Kontinen VK, Raivio P, Tarkkila P, et al. Pregabalin has an opioid-sparing effect in elderly patients after cardiac surgery: a randomized placebo-controlled trial. *Br J Anaesth* 2011;106:873–81. doi:10.1093/bja/aer083.
+
+[19] Maitra S, Baidya DK, Bhattacharjee S, Som A. [Perioperative gabapentin and pregabalin in cardiac surgery: a systematic review and meta-analysis]. *Rev Bras Anestesiol* 2017;67:294–304. doi:10.1016/j.bjan.2016.07.005.
+
+[20] Rapchuk IL, O’Connell L, Liessmann CD, Cornelissen HR, Fraser JF. Effect of gabapentin on pain after cardiac surgery: a randomised, double-blind, placebo-controlled trial. *Anaesth Intensive Care* 2010;38:445–51. doi:10.1177/0310057X1003800306.
+
+[21] Guinot P-G, Spitz A, Berthoud V, Ellouze O, Missaoui A, Constandache T, et al. Effect of opioid-free anaesthesia on post-operative period in cardiac surgery: a retrospective matched case-control study. *BMC Anesthesiology* 2019;19:136. doi:10.1186/s12871-019-0802-y.## **CHAMP 4. STRATEGIE CHIRURGICALE ET GESTION DE LA CIRCULATION EXTRACORPORELLE (CEC)**
+
+**Question 1. La chirurgie valvulaire par voie d'abord mini-invasive a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Rémi Houël (SFCTCV, Marseille), Bernard Cholley (SFAR, Paris)*
+
+<table border="1"><tr><td><b>ABSENCE DE RECOMMANDATION</b> - En chirurgie valvulaire aortique, l'utilisation des voies mini-invasives ne peut pas faire l'objet de recommandations dans l'état actuel de la littérature.</td></tr></table>
+
+<table border="1"><tr><td><b>R4.1</b> - Les experts suggèrent de favoriser la chirurgie mitrale vidéo-assistée pour diminuer le taux de transfusion et la durée d'hospitalisation sous réserve de l'expertise de l'équipe dans la technique.</td></tr></table>
+
+<table border="1"><tr><td style="text-align: right;"><b>Avis d'experts</b></td></tr></table>
+
+<table border="1"><tr><td><b>ABSENCE DE RECOMMANDATION</b> - En chirurgie coronaire, l'utilisation des voies mini-invasives ne peut pas faire l'objet de recommandations dans l'état actuel de la littérature.</td></tr></table>
+
+**Argumentaire :** 145 articles ont été étudiés, 17 études ont été retenues, 8 (3 randomisées, 4 méta-analyses et 1 observationnelle) portent sur la chirurgie valvulaire aortique [1-8], 6 (1 randomisées, 5 observationnelles avec score de propension) sur la chirurgie mitrale [9-14] et 2 (observationnelles avec score de propension) sur la chirurgie coronaire [15-16].
+
+Les études sur la chirurgie aortique [1-8] ont comparé une sternotomie complète et une mini-sternotomie et/ou une thoracotomie antéro-latérale en mêlant parfois ces deux dernières. Le nombre de variables collectées dans le suivi postopératoire, l'absence d'étude prospective randomisée et l'augmentation des durées de CEC et de clamping aortique limitent fortement la pertinence des études et donc des méta-analyses. Le type de CEC utilisé pour la chirurgie aortique n'était pas toujours précisé et pouvait se faire par une canulation centrale ou périphérique sans ajustement comme pour la cardiopégie. Il n'existait pas de différences entre les groupes en ce qui concerne la mortalité postopératoire et la survenue de complications. La durée d'hospitalisation ne paraissait pas différente dans la limite de la définition des critères de sortie. Pour autant, les voies d'abord mini-invasives en chirurgie valvulaire aortique n'obéissaient pas les résultats. L'approche mini-invasive pour la chirurgie de la valve aortique peut donc être laissée à la discrétion de l'équipe chirurgicale sans émettre de recommandation. Des études prospectives randomisées comparant la sternotomie et la thoracotomie antéro-latérale versus sternotomie complète sont nécessaires pour valider cette approche avec notamment l'évaluation des capacités fonctionnelles (reprise d'activités physiques et professionnelles) et l'évaluation de la douleur postopératoire.
+
+En ce qui concerne la chirurgie mitrale, une sternotomie complète et une thoracotomie antéro-latérale droite vidéo-assistée ont été comparées. Pour la chirurgie mitrale vidéo-assistée, lesauteurs ont le plus souvent utilisé une CEC périphérique avec une double canulation veineuse. Le type de cardioplégie n'était pas toujours précisé. La durée de séjour tendait à diminuer [9-11] comme le taux de transfusion [10-12] en cas de chirurgie mini-invasive. Ces résultats sont retrouvés dans une étude contrôlée sur une cohorte de faible effectif [9] et dans une étude rétrospective avec appariement par score de propension [13]. Le mode de CEC, de cardioplégie et l'expertise des opérateurs peuvent être un biais important insuffisamment renseigné dans les études.
+
+Les études sur la chirurgie coronaire comparaient une sternotomie complète et une thoracotomie antéro-latérale avec ou sans CEC. Ces études, peu nombreuses, objectivaient une différence de mortalité, de durée de séjour et des complications post opératoires en faveur de la voie mini-invasive [15-16]. Cependant, la valeur de ces études reste faible par la taille des effectifs, leur nombre et le caractère observationnel monocentrique. Il est difficile d'établir une recommandation sur ces bases.
+
+### Références
+
+- [1] Hancock HC, Maier RH, Kasim AS, Mason JM, Murphy GJ, Goodwin AT et al. Mini-Sternotomy Versus Conventional Sternotomy for Aortic Valve Replacement. *J Am Coll Cardiol*. 2019;73(19):2491-2492. doi: 10.1016/j.jacc.2019.03.462.
+- [2] Brown ML, McKellar SH, Sundt TM, Schaff HV. Ministernotomy versus conventional sternotomy for aortic valve replacement: a systematic review and meta-analysis. *J Thorac Cardiovasc Surg*. 2009;137(3):670-679.e5. doi: 10.1016/j.jtcvs.2008.08.010.
+- [3] Phan K, Xie A, Tsai YC, Black D, Di Eusanio M, Yan TD. Ministernotomy or minithoracotomy for minimally invasive aortic valve replacement: a Bayesian network meta-analysis. *Ann Cardiothorac Surg*. 2015;4(1):3-14. doi: 10.3978/j.issn.2225-319X.2014.08.01.
+- [4] Aris A, Cámara ML, Montiel J, Delgado LJ, Galán J, Litvan H. Ministernotomy versus median sternotomy for aortic valve replacement: a prospective, randomized study. *Ann Thorac Surg*. 1999;67(6):1583-7; discussion 1587-8. doi: 10.1016/s0003-4975(99)00362-8.
+- [5] Bakir I, Casselman FP, Wellens F, Jeanmart H, De Geest R, Degrieck I et al. Minimally invasive versus standard approach aortic valve replacement: a study in 506 patients. *Ann Thorac Surg*. 2006 May;81(5):1599-604. doi: 10.1016/j.athoracsur.2005.12.011.
+- [6] Bonacchi M, Prifti E, Giunti G, Frati G, Sani G. Does ministernotomy improve postoperative outcome in aortic valve operation? A prospective randomized study. *Ann Thorac Surg*. 2002 Feb;73(2):460-5; discussion 465-6. doi: 10.1016/s0003-4975(01)03402-6.
+- [7] Kirmani BH, Jones SG, Malaisrie SC, Chung DA, Williams RJ. Limited versus full sternotomy for aortic valve replacement. *Cochrane Database Syst Rev*. 2017 Apr 10;4(4):CD011793. doi: 10.1002/14651858.
+- [8] Shehada SE, Elhmid, Mourad F, Wendt D, El Gabry M, Benedick J et al. Minimal access versus conventional aortic valve replacement: a meta-analysis of propensity-matched studies. *Interact Cardiovasc Thorac Surg* 2017;25(4):624-632. doi: 10.1093/icvts/ivx212.
+- [9] Speziale G, Nasso G, Esposito G, Conte M, Greco E, Fattouch K et al. Results of mitral valve repair for Barlow disease (bileaflet prolapse) via right minithoracotomy versus conventional median sternotomy: a randomized trial. *J Thorac Cardiovasc Surg* 2011 Jul;142(1):77-83. doi:10.1016/j.jtcvs.2010.08.033.
+- [10] Grant SW, Hickey GL, Modi P, Hunter S, Akowuah E, Zacharias J. Propensity-matched analysis of minimally invasive approach versus sternotomy for mitral valve surgery *Heart* ;105(10):783-789. doi: 10.1136/heartjnl-2018-314049.
+- [11] Helmers MR, Kim ST, Altshuler P, Han JJ, Iyengar A, Kelly J et al. Mitral valve surgery in pulmonary hypertension patients: is minimally invasive surgery safe? *Ann Thorac Surg*. 2020:S0003-4975(20)31550-2. doi: 10.1016/j.athoracsur.2020.06.147.
+- [12] Paparella D, Fattouch K, Moscarelli M, Santarpino G, Nasso G, Guida P et al. Current trends in mitral valve surgery: A multicenter national comparison between full-sternotomy and minimally-invasive approach. *Int J Cardiol* 2020;306:147-151. doi:10.1016/j.ijcard.2019.11.137.
+- [13] Lange R, Bernhard V, Kehl V, Mazzitelli D, Tassani-Prell P, Günther T. Right Minithoracotomy Versus FullSternotomy for Mitral Valve Repair: A Propensity Matched Comparison. Ann Thorac Surg 2017;103(2):573-579. doi: 10.1016/j.athoracsur.2016.06.055.
+
+[14] Iribarne A, Russo MJ, Eastrewood R, Hong KN, Yang J, Cheema FH et al. Minimally invasive versus sternotomy approach for mitral valve surgery: a propensity analysis. Ann Thorac Surg 2010;90(5):1471-7; discussion 1477-8. doi:10.1016/j.athoracsur.2010.06.034.
+
+[15] Teman NR, Hawkins RB, Charles EJ, Mehaffey JH, Speir AM, Quader MA et al. Minimally invasive versus open coronary surgery: A Multi-Institutional analysis of cost and outcomes. Ann Thorac Surg 2020;S003-4975(20)31511-3. doi:10.1016/j.athoracsur.2020.06.136.
+
+[16] Smith N, Miles B, Cain MT, Joyce LD, Pearson P, Joyce DL. Minimally invasive single-vessel left internal mammary to left anterior descending artery bypass grafting improves outcomes over conventional sternotomy: A single-institution retrospective cohort study. J Card Surg 2019;34(9):788-795. doi:10.1111/jocs.14144.
+
+## **Question 2. La chirurgie sous CEC en normothermie a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Christophe Baufreton (SFCTCV, Angers), Bernard Cholley (SFAR, Paris)*
+
+**R4.2 – Il est recommandé de réaliser la chirurgie sous CEC en normothermie pour diminuer le risque de transfusion postopératoire.**
+
+**GRADE 1+ (accord FORT)**
+
+**Argumentaire :** Deux méta-analyses [1,2] et 10 essais cliniques randomisés (RCT) [3-12] ont été retenus. La méta-analyse de Rees [1] s'est limitée aux RCT rapportant des événements neurologiques. Du fait de nombreux biais de réalisation concernant la gestion des méthodes de protection myocardique en hypothermie vs. normothermie dans ces essais plutôt anciens, datant en majorité des années 1990, il est toujours difficile de leur attribuer une haute valeur méthodologique.
+
+Dans les deux méta-analyses, il existe une tendance (-32% et -19%) vers moins de complications neurologiques déficitaires en hypothermie avec des risques relatifs non significatifs de 0,68 (0,44-1,05) et 0,81 (0,55-1,20) [1,2]. De plus, la méta-analyse de Rees [1] rapporte une tendance vers moins de dysfonctions cognitives postopératoires (WMD -0,43 (-1,49 - 0,63)). En revanche le risque de transfusion était diminué de 21% en normothermie dans l'analyse des RCT [méta-analyse RevMan des études 7,8,11] et significativement augmenté de 19% en hypothermie dans la méta-analyse de Rees [1].
+
+L'analyse des RCT a montré une réduction significative de la mortalité en normothermie de 42% (p=0,04) [méta-analyse RevMan des études 3,4,5,7-12] tandis que les méta-analyses [1,2] ont conclu à une tendance non significative de surmortalité en hypothermie de 46% et 38%.
+
+Il n'y a pas eu de différence significative retrouvée entre l'hypothermie et la normothermie pour les risques d'infarctus périopératoire, de bas débit cardiaque après CEC, ni sur la durée d'hospitalisation, ce dernier critère n'ayant jamais été un critère de jugement principal.
+
+A l'issue de cette analyse il apparaît que la normothermie, comparativement à l'hypothermie, réduit certainement le risque transfusionnel et probablement la mortalité postopératoire après CEC. La protection cérébrale par l'hypothermie n'a pas été formellement démontrée. La chirurgie cardiaque sous CEC avec arrêt circulatoire n'a pas été incluse dans l'analyse.## Références
+
+### Méta-analyses
+
+- [1] Rees K, Beranek-Stanley M, Burke M, Ebrahim S. Hypothermia to reduce neurological damage following coronary artery bypass surgery. *Cochrane Db Syst Rev* 2001. doi.org/10.1002/14651858.cd002138.
+- [2] Ho KM, Tan JA. Benefits and Risks of Maintaining Normothermia during Cardiopulmonary Bypass in Adult Cardiac Surgery: A Systematic Review. *Cardiovasc Ther* 2011;29:260–79. doi :10.1111/j.1755-5922.2009.00114.x.
+
+### Essais randomisés contrôlés analysés avec RevMan 5 (Cochrane collaboration)
+
+- [3] Investigators TWH. Randomised trial of normothermic versus hypothermic coronary bypass surgery. *Lancet* 1994;343:559–63. doi:10.1016/s0140-6736(94)91519-9.
+- [4] Martin TD, Craver JM, Gott JP, Weintraub WS, Ramsay J, Mora CT, et al. Prospective, randomized trial of retrograde warm blood cardioplegia: Myocardial benefit and neurologic threat. *Ann Thorac Surg* 1994;57:298–304. doi:10.1016/0003-4975(94)90987-3.
+- [5] Tönz M, Mihaljevic T, Segesser LK von, Schmid ER, Doller-Jemelka HI, Pei P, et al. Normothermia versus hypothermia during cardiopulmonary bypass: A randomized, controlled trial. *Ann Thorac Surg* 1995;59:137–43. doi :10.1016/0003-4975(94)00718-m.
+- [6] Mora CT, Henson MB, Weintraub WS, Murkin JM, Martin TD, Craver JM, et al. The effect of temperature management during cardiopulmonary bypass on neurologic and neuropsychologic outcomes in patients undergoing coronary revascularization. *The Journal of Thoracic and Cardiovascular Surgery* 1996;112:514–22. doi:10.1016/s0022-5223(96)70280-5.
+- [7] Plourde G, Leduc AS, Morin JE, DeVarennes B, Latter D, Symes J, et al. Temperature during cardiopulmonary bypass for coronary artery operations does not influence postoperative cognitive function: A prospective, randomized trial. *J Thorac Cardiovasc Surg* 1997;114:123–8. doi:10.1016/s0022-5223(97)70125-9.
+- [8] Birdi I, Regragui I, Izzat MB, Bryan AJ, Angelini GD, Kingdom. F the BHI University of Bristol, Bristol, United. Influence of normothermic systemic perfusion during coronary artery bypass operations: A randomized prospective study. *J Thorac Cardiovasc Surg* 1997;114:475–81. doi:10.1016/s0022-5223(97)70196-x.
+- [9] Engelman RM, Pleet AB, Rousou JA, Flack JE, Deaton DW, Pekow PS, et al. Influence of cardiopulmonary bypass perfusion temperature on neurologic and hematologic function after coronary artery bypass grafting. *Ann Thorac Surg* 1999;67:1547–55. doi:10.1016/s0003-4975(99)00360-4.
+- [10] Grigore AM, Mathew J, Grocott HP, Reves JG, Blumenthal JA, White WD, et al. Prospective Randomized Trial of Normothermic versus Hypothermic Cardiopulmonary Bypass on Cognitive Function after Coronary Artery Bypass Graft Surgery. *Anesthesiology* 2001;95:1110–9. doi:10.1097/00000542-200111000-00014.
+- [11] Gaudino M, Zamparelli R, Andreotti F, Burzotta F, Iacoviello L, Glieca F, et al. Normothermia does not improve postoperative hemostasis nor does it reduce inflammatory activation in patients undergoing primary isolated coronary artery bypass. *J Thorac Cardiovasc Surg* 2002;123:1092–100. doi:10.1067/mtc.2002.120709.
+- [12] Boodhwani M, Rubens F, Wozny D, Rodriguez R, Nathan HJ. Effects of sustained mild hypothermia on neurocognitive function after coronary artery bypass surgery: A randomized, double-blind study. *J Thorac Cardiovasc Surg* 2007;134:1443-1452.e1. doi:10.1016/j.jtcvs.2007.08.016.
+
+### **Question 3. La chirurgie de pontage aorto-coronaire avec ou sans CEC a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Bernard Cholley (SFAR, Paris), Rémi Houel (SFCTCV, Marseille)*
+
+**R4.3.1 – Il n'est pas recommandé de réaliser les pontages à cœur battant de façon systématique, même chez les sujets âgés de plus de 75 ans, dans le but de réduire la mortalité et les complications postopératoires.**<table border="1">
+<thead>
+<tr>
+<th style="text-align: right;"><b>GRADE 1- (accord FORT)</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>R4.3.2 – Les experts suggèrent de considérer la technique des pontages à cœur battant chez les patients dont l'aorte est très athéromateuse ou calcifiée pour limiter le risque d'accident vasculaire cérébral lié au clamping aortique.</b></td>
+</tr>
+<tr>
+<th style="text-align: right;"><b>Avis d'experts</b></th>
+</tr>
+<tr>
+<td>
+<p><b>Argumentaire :</b> Dans deux grands essais multicentriques randomisés (RCT) [1,2], il n'a pas été mis en évidence de différence en termes de mortalité et de complications cardio-vasculaires (critère composite) lors d'une procédure de pontage coronarien à cœur battant versus sous CEC. En revanche, un autre essai randomisé [3] et quatre méta-analyses récentes incluant des RCT et parfois des études observationnelles avec appariement [4-7] ont retrouvé un possible bénéfice à J30 en faveur des pontages à cœur battant, mais la survie à un an et 5 ans était meilleure pour les pontages réalisés sous CEC avec clamping aortique.</p>
+<p>En ce qui concerne, les désordres cognitifs au cours des pontages aorto-coronariens : deux RCT multicentriques [8,9] n'ont trouvé aucune différence entre les deux techniques, résultat conforté par de petits essais randomisés mono-centriques concordants [10,11] et 3 méta-analyses [12-14] qui suggéraient un bénéfice pour la technique à cœur battant pendant la phase postopératoire précoce, mais celui-ci disparaissait au-delà de trois mois.</p>
+<p>La perméabilité des greffons était meilleure lorsque les pontages aorto-coronariens étaient réalisés sous CEC, d'après 2 méta-analyses portant sur des RCT [15,16].</p>
+<p>Un RCT multicentrique [17] et une grande méta-analyse [18] ont suggéré que les pontages à cœur battant s'accompagnaient de moins d'agression rénale aigüe postopératoire, mais que ce bénéfice n'était pas retrouvé à distance et qu'il n'y avait pas de réduction du recours à la dialyse.</p>
+<p>Les données concernant l'incidence des accidents vasculaires cérébraux (AVC) ischémiques après pontages réalisés à cœur battant ou sous CEC ne sont pas 100% cohérentes selon les méta-analyses [19,20], mais il est possible que les patients dont l'aorte est à très haut risque d'embolies (athérome ou calcifications) aient un risque d'AVC réduit en cas de pontage à cœur battant.</p>
+<p>La réduction des risques de fibrillation atriale postopératoire ou de dysfonction rénale transitoire possiblement rattachée à la technique à cœur battant pourrait s'accompagner d'une minime réduction de la durée d'hospitalisation, mais ce petit avantage est contrebalancé par l'accroissement significatif de la mortalité et des complications cardiovasculaires majeures à 1 an et à 5 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Références</b></p>
+<p>[1] Lamy A, Devereaux PJ, Prabhakaran D, Taggart DP, Hu S, Straka Z, et al. Five-Year Outcomes after Off-Pump or On-Pump Coronary-Artery Bypass Grafting. <i>New Engl J Med</i> 2016;375(24):2359-68. doi: 10.1056/NEJMoa1601564.</p>
+<p>[2] Diegeler A, Borgermann J, Kappert U, Hilker M, Doenst T, Boning A, et al. Five-Year Outcome After Off-Pump or On-Pump Coronary Artery Bypass Grafting in Elderly Patients. <i>Circulation</i> 2019;139(16):1865-71. doi: 10.1161/CIRCULATIONAHA.118.035857.</p>
+<p>[3] Shroyer AL, Hattler B, Grover FL. Five-Year Outcomes after On-Pump and Off-Pump Coronary-Artery Bypass. <i>New Engl J Med</i> 2017;377(19):1898-9. doi: 10.1056/NEJMc1712000.</p>
+</td>
+</tr>
+</tbody>
+</table>[4] Takagi H, Hari Y, Mitta S, Kawai N, Ando T, Group A. A meta-analysis of  $\geq 5$ -year mortality in randomized controlled trials of off-pump versus on-pump coronary artery bypass grafting. *J Card Surg* 2018;33(11):716-24. DOI: 10.1111/jocs.13828.
+
+[5] Filardo G, Hamman BL, da Graca B, Sass DM, Machala NJ, Ismail S, et al. Efficacy and effectiveness of on- versus off-pump coronary artery bypass grafting: A meta-analysis of mortality and survival. *J Thorac Cardiovasc Surg* 2018;155(1):172-9 e5. doi 10.1016/j.jtcvs.2017.08.026
+
+[6] Smart NA, Dieberg G, King N. Long-Term Outcomes of On- Versus Off-Pump Coronary Artery Bypass Grafting. *J Am Coll Cardiol* 2018;71(9):983-91. doi: 10.1016/j.jacc.2017.12.049.
+
+[7] Takagi H, Ando T, Mitta S, group A. Meta-Analysis Comparing  $\geq 10$ -Year Mortality of Off-Pump Versus On-Pump Coronary Artery Bypass Grafting. *Am J Cardiol* 2017;120(11):1933-8. doi: 10.1016/j.amjcard.2017.08.007.
+
+[8] van Dijk D, Spoor M, Hijman R, Nathoe HM, Borst C, Jansen EW, et al. Cognitive and cardiac outcomes 5 years after off-pump vs on-pump coronary artery bypass graft surgery. *JAMA* 2007;297(7):701-8. doi: 10.1001/jama.297.7.701
+
+[9] Kozora E, Kongs S, Collins JF, Hattler B, Baltz J, Hampton M, et al. Cognitive outcomes after on- versus off-pump coronary artery bypass surgery. *Ann Thorac Surg* 2010;90(4):1134-41. doi: 10.1016/j.athoracsur.2010.05.076.
+
+[10] Vedin J, Nyman H, Ericsson A, Hylander S, Vaage J. Cognitive function after on or off pump coronary artery bypass grafting. *Eur J Cardiothorac Surg* 2006;30(2):305-10. doi: 10.1016/j.ejcts.2006.03.037.
+
+[11] Keizer AM, Hijman R, van Dijk D, Kalkman CJ, Kahn RS. Cognitive self-assessment one year after on-pump and off-pump coronary artery bypass grafting. *Ann Thorac Surg* 2003;75(3):835-8; discussion 8-9. doi: 10.1016/s0003-4975(02)04541-1.
+
+[12] Takagi H, Tanabashi T, Kawai N, Umemoto T. Cognitive decline after off-pump versus on-pump coronary artery bypass graft surgery: meta-analysis of randomized controlled trials. *J Thorac Cardiovasc Surg* 2007;134(2):512-3.
+
+[13] Sun JH, Wu XY, Wang WJ, Jin LL. Cognitive dysfunction after off-pump versus on-pump coronary artery bypass surgery: a meta-analysis. *J Int Med Res* 2012;40(3):852-8. doi: 10.1016/j.jtcvs.2007.07.006.
+
+[14] Kennedy ED, Choy KC, Alston RP, Chen S, Farhan-Alanie MM, Anderson J, et al. Cognitive outcome after on- and off-pump coronary artery bypass grafting surgery: a systematic review and meta-analysis. *J Cardiothorac Vasc Anesth* 2013;27(2):253-65. doi: 10.1053/j.jvca.2012.11.008.
+
+[15] Takagi H, Mizuno Y, Niwa M, Goto SN, Umemoto T, Group A. A meta-analysis of randomized trials for repeat revascularization following off-pump versus on-pump coronary artery bypass grafting. *Interact Cardiovasc Thorac Surg* 2013;17(5):878-80. doi: 10.1093/icvts/ivt316.
+
+[16] Zhou P, Zhu P, Xiao Z, Lin X, Xu R, Zheng S. Meta-Analysis of Repeat Revascularization of Off-Pump and On-Pump Coronary Artery Bypass Surgery. *Ann Thorac Surg* 2018;106(2):526-31. doi: 10.1016/j.athoracsur.2018.02.068.
+
+[17] Garg AX, Devereaux PJ, Yusuf S, Cuerden MS, Parikh CR, Coca SG, et al. Kidney function after off-pump or on-pump coronary artery bypass graft surgery: a randomized clinical trial. *JAMA* 2014;311(21):2191-8. doi: 10.1001/jama.2014.4952.
+
+[18] Seabra VF, Alobaidi S, Balk EM, Poon AH, Jabre BL. Off-pump coronary artery bypass surgery and acute kidney injury: a meta-analysis of randomized controlled trials. *Clin J Am Soc Nephrol* 2010;5(10):1734-44. doi: 10.2215/CJN.02800310.
+
+[19] Kowalewski M, Pawliszak W, Malvindi PG, Bokszanski MP, Perlinski D, Raffa GM, et al. Off-pump coronary artery bypass grafting improves short-term outcomes in high-risk patients compared with on-pump coronary artery bypass grafting: Meta-analysis. *J Thorac Cardiovasc Surg* 2016;151(1):60-77 e1-58. doi: 10.1016/j.jtcvs.2015.08.042.
+
+[20] Feng ZZ, Shi J, Zhao XW, Xu ZF. Meta-analysis of on-pump and off-pump coronary arterial revascularization. *Ann Thorac Surg* 2009;87(3):757-65. doi: 10.1016/j.athoracsur.2008.11.042.
+
+**Question 4.** La technique de CEC a-t-elle un impact sur la survenue de complications postopératoires ?**R4.4 – Il est recommandé de privilégier une technique de « CEC optimisée » afin de réduire la survenue de complications postopératoires et la mortalité hospitalière.**
+
+**GRADE 1+ (accord FORT)**
+
+**Argumentaire :** La “*Minimal invasive Extra-Corporeal Technologies international Society (MiECTiS)*” a publié un article principe décrivant 4 types de CEC optimisée en fonction de leur niveau d’équipement, allant du type I (ECLS avec cardioplégie) au type IV (*blood management* avec système hybride) en passant par le type II (contrôle interface air/sang) et le type III (gestion des volumes par réservoir souple) [1]. Cette définition combine, à des degrés divers, l’association de stratégies de perfusion innovantes (prévention de l’hémodilution avec techniques de rétro-priming, gestion des aspirations par *cell-saver* et limitation du recours aux aspirations de cardiomie, normothermie active, gestion personnalisée de l’anticoagulation et de sa neutralisation par protamine, recours aux antifibrinolytiques) à des avancées technologiques majeures (circuits clos avec réservoir souple, hémocompatibles, avec oxygénéateurs à membranes et pompes centrifuges, filtres artériels et pièges à bulles, réservoir de cardiomie pour les systèmes hybrides de type IV, monitoring dédié de l’anticoagulation, et *cell-saver*) [1].
+
+Quatre méta-analyses [2-5] et de nombreux essais cliniques randomisés (RCT) [6-19] ont comparé la CEC optimisée aux CEC conventionnelles. La CEC optimisée a apporté un incontestable progrès par rapport à la CEC conventionnelle en réduisant toutes les complications postopératoires excepté la durée d’hospitalisation (laquelle n’était jamais un critère de jugement primaire). En particulier, les deux plus importantes méta-analyses [4,5] montraient une réduction du risque relatif de la mortalité hospitalière de 54 à 60%. Les infarctus postopératoires et les bas débits cardiaques postopératoires diminuaient de 60-67% et 48% respectivement [4,5]. Les complications rénales étaient réduites de 53% [5]. La FA postopératoire était réduite de 34 à 38% [4,5] et les complications neurologiques de 70 à 75% [2,3] selon les études. Les complications hémorragiques étaient également réduites (saignement postopératoire) [2,3] avec pour conséquence une réduction de 55% de reprise pour tamponnade (méta-analyse RevMan des études [7,11,13-15]) et une réduction majeure de l’incidence de la transfusion postopératoire (-62% à -76%) [3,4]. En outre, une importante méta-analyse Bayesienne [5] a rapporté la supériorité de la CEC optimisée par rapport à la CEC conventionnelle dans la diminution de la morbi-mortalité avec une tendance plus marquée que celle de la chirurgie *off-pump*.
+
+En dépit du fait que les RCT ont exclu le plus souvent les patients les plus fragiles, la CEC optimisée apparaît comme une amélioration importante et non contestable désormais en chirurgie cardiaque à cœur fermé et à cœur ouvert.
+
+**Références**
+
+[1] Anastasiadis K, Murkin J, Antonitsis P, Bauer A, Ranucci M, Gygax E, et al. Use of minimal invasive extracorporeal circulation in cardiac surgery: principles, definitions and potential benefits. A position paper from the Minimal invasive Extra-Corporeal Technologies international Society (MiECTiS). *Interact Cardiothorac Vasc* 2016;22:647–62. doi :10.1093/icvts/ivv380.[2] Biancari F, Rimpiläinen R. Meta-analysis of randomised trials comparing the effectiveness of miniaturised versus conventional cardiopulmonary bypass in adult cardiac surgery. *Heart* 2009;95:964. doi:10.1136/hrt.2008.158709.
+
+[3] Zangrillo A, Garozzo FA, Biondi-Zoccai G, Pappalardo F, Monaco F, Crivellari M, et al. Miniaturized cardiopulmonary bypass improves short-term outcome in cardiac surgery: A meta-analysis of randomized controlled studies. *J Thorac Cardiovasc Surg* 2010;139:1162–9. doi :10.1016/j.jtcvs.2009.07.048.
+
+[4] Anastasiadis K, Antonitsis P, Haidich A-B, Argiriadou H, Deliopoulos A, Papakonstantinou C. Use of minimal extracorporeal circulation improves outcome after heart surgery; a systematic review and meta-analysis of randomized controlled trials. *Int J Cardiol* 2013;164:158–69. doi:10.1016/j.ijcard.2012.01.020.
+
+[5] Kowalewski M, Pawliszak W, Raffa GM, Malvindi PG, Kowalkowska ME, Zaborowska K, et al. Safety and efficacy of miniaturized extracorporeal circulation when compared with off-pump and conventional coronary artery bypass grafting: evidence synthesis from a comprehensive Bayesian-framework network meta-analysis of 134 randomized controlled trials involving 22 778 patients. *Eur J Cardio-Thorac* 2016;49:1428–40. doi :10.1093/ejcts/ezv387.
+
+**Essais randomisés contrôlés analysés avec RevMan 5 (Cochrane collaboration) :**
+
+[6] Aal MA, ElNahal N, Bakir BM, Fouda M. Mini-cardiopulmonary bypass impact on blood conservation strategy in coronary artery bypass grafting. *Interact Cardio Th* 2011;12:600–4. doi:10.1510/icvts.2010.243055.
+
+[7] Abdel-Rahman U, Özaslan F, Risteski PS, Martens S, Moritz A, Daraghmeh AA, et al. Initial Experience With a Minimized Extracorporeal Bypass System: Is There a Clinical Benefit? *Ann Thorac Surg* 2005;80:238–43. doi:10.1016/j.athoracsur.2005.02.032.
+
+[8] Anastasiadis K, Asteriou C, Deliopoulos A, Argiriadou H, Karapanagiotidis G, Antonitsis P, et al. Haematological effects of minimized compared to conventional extracorporeal circulation after coronary revascularization procedures. *Perfusion* 2010;25:197–203. doi :10.1177/0267659110373840.
+
+[9] Anastasiadis K, Asteriou C, Antonitsis P, Argiriadou H, Grosomanidis V, Kyparissa M, et al. Enhanced Recovery After Elective Coronary Revascularization Surgery With Minimal Versus Conventional Extracorporeal Circulation: A Prospective Randomized Study. *J Cardiothor Vasc An* 2013;27:859–64. doi:10.1053/j.jvca.2013.01.010.
+
+[10] Asteriou C, Antonitsis P, Argiriadou H, Deliopoulos A, Konstantinou D, Foroulis C, et al. Minimal extracorporeal circulation reduces the incidence of postoperative major adverse events after elective coronary artery bypass grafting in high-risk patients. A single-institutional prospective randomized study. *Perfusion* 2013;28:350–6. doi:10.1177/0267659113479135.
+
+[11] Baumbach H, Rustenbach CJ, Ahad S, Nagib R, Albert M, Ratge D, et al. Minimally Invasive Extracorporeal Bypass in Minimally Invasive Heart Valve Operations: A Prospective Randomized Trial. *Ann Thorac Surg* 2016;102:93–100. doi :10.1016/j.athoracsur.2016.01.043.
+
+[12] Beghi C, Nicolini F, Agostinelli A, Borrello B, Budillon AM, Bacciottini F, et al. Mini–Cardiopulmonary Bypass System: Results of a Prospective Randomized Study. *Ann Thorac Surg* 2006;81:1396–400. doi:10.1016/j.athoracsur.2005.10.015.
+
+[13] Castiglioni A, Verzini A, Colangelo N, Nascimbene S, Laino G, Alfieri O. Comparison of minimally invasive closed circuit versus standard extracorporeal circulation for aortic valve replacement: a randomized study. *Interact Cardio Th* 2009;9:37–41. doi:10.1510/icvts.2008.192559.
+
+[14] El-Essawi A, Hajek T, Skorpil J, Böning A, Sabol F, Ostrovsky Y, et al. Are minimized perfusion circuits the better heart lung machines? Final results of a prospective randomized multicentre study. *Perfusion* 2011;26:470–8. doi:10.1177/0267659111419035.
+
+[15] Ellam S, Hartikainen J, Korvenoja P, Pitkänen O, Tyrväinen E, Valtola A, et al. Impact of minimal invasive extracorporeal circulation on atrial fibrillation after coronary artery bypass surgery. *Artif Organs* 2020;44:1176–83. doi :10.1111/aor.13756.
+
+[16] Perthel M, El-Ayoubi L, Bendisch A, Laas J, Gerigk M. Clinical advantages of using mini-bypass systems in terms of blood product use, postoperative bleeding and air entrainment: an in vivo clinical perspective. *Eur J Cardio-Thorac* 2007;31:1070–5. doi:10.1016/j.ejcts.2007.01.065.
+
+[17] Remadi JP, Rakotoarivello Z, Marticho P, Trojette F, Benamar A, Poulain H, et al. Aortic valve replacement with the minimal extracorporeal circulation (Jostra MECC System) versus standard cardiopulmonary bypass: A randomized prospective trial. *J Thorac Cardiovasc Surg* 2004;128:436–41. doi:10.1016/j.jtcvs.2004.01.041.
+
+[18] Remadi JP, Rakotoarivelo Z, Marticho P, Benamar A. Prospective randomized study comparing coronary artery bypass grafting with the new mini-extracorporeal circulation Jostra System or with a standard cardiopulmonary bypass. *Am Heart J* 2006;151:198.e1-198.e7. doi:10.1016/j.ahj.2005.03.067.
+
+[19] Sakwa MP, Emery RW, Shannon FL, Altshuler JM, Mitchell D, Zwada D, et al. Coronary artery bypass graftingwith a minimized cardiopulmonary bypass circuit: a prospective, randomized trial. The Journal of Thoracic and Cardiovascular Surgery 2009;137:481–5. doi:10.1016/j.jtcvs.2008.08.057.
+
+**Question 5. Les modalités de cardioplégie ont-elles un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Christophe Baufreton (SFCTCV, Angers), Bernard Cholley (SFAR, Paris)*
+
+**R4.5 – Il n'est probablement pas recommandé de considérer une méthode de cardioplégie plutôt qu'une autre pour réduire la survenue de complications postopératoires ou diminuer la durée d'hospitalisation.**
+
+**GRADE 2- (accord FORT)**
+
+**Argumentaire :** De très nombreuses études randomisées datant des années 90 ont été regroupées dans un nombre important de méta-analyses [1-9]. Les modalités de cardioplégie décrites dans ces protocoles randomisés ont été souvent biaisées car ces sont plus des concepts qui ont été comparés que des techniques ne différant que par une seule variable. Que l'on compare le chaud vs. le froid, le sang vs. un soluté cristalloïde, l'antérograde vs. le rétrograde ou le continu vs. l'intermittent, sans même considérer les différences de composition pharmacologique des solutions de cardioplégie, les techniques différaient par des approches mêlant plusieurs de ces variables dans la majorité des travaux disponibles.
+
+Quoi qu'il en soit aucune technique ou modalité n'a montré de supériorité par rapport à une autre en termes de complications cliniques (mortalité, complications neurologiques, ACFA, élévation enzymatique myocardique). Il faut néanmoins noter que les essais cliniques randomisés inclus dans ces méta-analyses étaient en général sous-dimensionnés pour détecter un bénéfice clinique majeur. Deux méta-analyses ont montré une supériorité significative de la cardioplégie au sang par rapport aux cristalloïdes sur la diminution des infarctus péri-opératoires [5] et les bas débits cardiaques postopératoires [1]. En revanche, les autres méta-analyses n'ont pas permis de démontrer un impact des différentes modalités de cardioplégie sur la mortalité, les infarctus péri-opératoires, les bas débits cardiaques ou le recours à une contre-pulsion par ballonnet intra-aortique, l'élévation des enzymes myocardiques, les complications neurologiques, les épisodes d'ACFA ou la durée de séjour hospitalier. Néanmoins, cette dernière variable n'était jamais retenue comme critère de jugement principal.
+
+Depuis 2010, quelques méta-analyses ont comparé de nouvelles méthodes de cardioplégie telles que Custodiol [4], Del-Nido (hyperpolarisante) [7,8] ou mini-cardioplégie [6]. Aucune de ces nouvelles modalités n'a apporté d'amélioration par rapport aux cardioplégies conventionnelles au sang, mais il est regrettable que leur impact sur la transfusion n'ait pas été étudié étant donné le volume important de cristalloïde pour le Custodiol et la cardioplégie de Del Nido.
+
+**Références**
+
+- [1] Guru V, Omura J, Alghamdi AA, Weisel R, Fremes SE. Is Blood Superior to Crystalloid Cardioplegia? Circulation 2006;114:1-331-1-338. doi:10.1161/circulationaha.105.001644.
+- [2] Fan Y, Zhang A-M, Xiao Y-B, Weng Y-G, Hetzer R. Warm versus cold cardioplegia for heart surgery: a meta-analysis. Eur J Cardio-Thorac 2010;37:912–9. doi:10.1016/j.ejcts.2009.09.030.
+- [3] Sá M, Rueda F, Ferraz P, Chalegre S, Vasconcelos F, Lima R. Is there any difference between blood andcrystalloid cardioplegia for myocardial protection during cardiac surgery? A meta-analysis of 5576 patients from 36 randomized trials. *Perfusion* 2012;27:535–46. doi:10.1177/0267659112453754.
+
+[4] Edelman JJB, Seco M, Dunne B, Matzelle SJ, Murphy M, Joshi P, et al. Custodiol for myocardial protection and preservation: a systematic review. *Ann Cardiothorac Surg* 2013;2:717–28. doi:10.3978/j.issn.2225-319x.2013.11.10.
+
+[5] Zeng J, He W, Qu Z, Tang Y, Zhou Q, Zhang B. Cold Blood Versus Crystalloid Cardioplegia for Myocardial Protection in Adult Cardiac Surgery: A Meta-analysis of Randomized Controlled Studies. *J Cardiothor Vasc An* 2014;28:674–81. doi:10.1053/j.jvca.2013.06.005.
+
+[6] Gong B, Ji B, Sun Y, Wang G, Liu J, Zheng Z. Is microplegia really superior to standard blood cardioplegia? The results from a meta-analysis. *Perfusion* 2015;30:375–82. doi:10.1177/0267659114530454.
+
+[7] Li Y, Lin H, Zhao Y, Li Z, Liu D, Wu X, et al. Del Nido Cardioplegia for Myocardial Protection in Adult Cardiac Surgery. *Asaio J* 2018;64:360–7. doi:10.1097/mat.0000000000000652.
+
+[8] An KR, Rahman IA, Tam DY, Ad N, Verma S, Fremes SE, et al. A Systematic Review and Meta-Analysis of del Nido Versus Conventional Cardioplegia in Adult Cardiac Surgery. *Innovations Technology Techniques Cardiothorac Vasc Surg* 2019;14:385–93. doi :10.1177/1556984519863718.
+
+[9] Gambardella I, Gaudino MFL, Antoniou GA, Rahouma M, Worku B, Tranbaugh RF, et al. Single- versus multidose cardioplegia in adult cardiac surgery patients: A meta-analysis. *J Thorac Cardiovasc Surg* 2020;160:1195-1202.e12. doi:10.1016/j.jtcvs.2019.07.109.## **CHAMP 5. GESTION PERSONNALISEE DU CAPITAL SANGUIN (PATIENT BLOOD MANAGEMENT, « PBM »)**
+
+**Question 1.** L'implémentation d'un programme de gestion personnalisée du capital sanguin (PBM) en chirurgie cardiaque, incluant la recherche et la correction d'une anémie ferriprive, a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?
+
+*Experts : Thierry CAUS (SFCTCV, Amiens), Sandrine Marguerite (SFAR, Strasbourg)*
+
+**R5.1.1 – Il est recommandé d'implémenter un programme de PBM en chirurgie cardiaque et notamment de rechercher et corriger une anémie ferriprive, pour réduire le recours aux transfusions per et postopératoire.**
+
+**GRADE 1+ (accord FORT)**
+
+**R5.1.2 – Il est probablement recommandé d'implémenter un programme de PBM en chirurgie cardiaque et notamment de rechercher et corriger une anémie ferriprive pour diminuer la survenue de complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** La maîtrise du capital sanguin en chirurgie cardiaque (PBM, pour Patient Blood Management) repose sur un ensemble d'actions catégorisées selon trois axes : i) optimisation du niveau d'hémoglobine préopératoire, ii) lutte contre les pertes sanguines peropératoires et iii) politique de transfusion restrictive. Si l'implémentation d'un programme de PBM en chirurgie cardiaque diminue le recours aux transfusions hétérologues avec un niveau de preuve élevé [1], son effet sur la mortalité hospitalière, la survenue de complications postopératoires ou sur la durée de séjour reste incertain. Dans plusieurs études comparatives de type «avant-après» [1-8], l'implémentation d'un programme de gestion personnalisée du capital sanguin en chirurgie cardiaque semble apporter un bénéfice constant en termes de transfusions postopératoires mais inconstant en termes de durée d'hospitalisation (avec un risque significativement accru de réadmission dans le cas d'un taux d'hémoglobine à la sortie <8 g/dL) [5]. L'observation d'un bénéfice sur la mortalité hospitalière ou la survenue de complications postopératoires (myocardique, neurologique ou rénale) n'est généralement pas retrouvée dans les études de type avant-après dont la plus importante totalise près de 80000 patients [1].
+
+Comme en chirurgie non-cardiaque, une grande étude de cohorte (182 599 patients) et une méta-analyse récente portant sur 114 227 patients [6,7] rapporte qu'une anémie préopératoire est aussi un facteur de risque indépendant de morbi-mortalité et d'augmentation de la durée d'hospitalisation en chirurgie cardiaque. Plus particulièrement, cette méta-analyse a montré que l'anémie préopératoire était un facteur de risque de complications postopératoires (neurologiques, rénales ou infectieuses) et de mortalité (OR 2,74 (2,32-2,74)) après chirurgie cardiaque [7]. L'anémie préopératoire était également corrélée à un risque plus élevé detransfusion sanguine [7-10]. Bien qu'une méta-analyse portant sur 1151 patients et une étude contrôlée randomisée (n=134) suggèrent que la correction de l'anémie ferriprive avant chirurgie cardiaque réduit la mortalité postopératoire, le niveau de preuves de ces études reste faible et son impact sur la mortalité devra être confirmé par des études ultérieures [10,11]. Plusieurs travaux retrouvent une diminution de la durée d'hospitalisation chez les patients dont l'anémie ferriprive a été supplémentée en préopératoire [7,10,11]. Les données de la littérature sont insuffisantes pour évaluer l'impact de la correction de l'anémie préopératoire sur les autres complications postopératoires. Les effets cliniques de la correction de l'anémie ferriprive avant une chirurgie cardiaque seront mieux connus après la publication de l'étude CAVIAR UK (notamment la cohorte 2) et les résultats de l'essai prospectif randomisé multicentrique international en cours (ITACS trial) [12,13].
+
+#### Références
+
+- [1] Karkouti K, McCluskey SA, Callum J, Freedman J, Selby R, Timoumi T, et al. Evaluation of a Novel Transfusion Algorithm Employing Point-of-care Coagulation Assays in Cardiac Surgery. *Anesthesiology*. 2015 Mar 1;122(3):560–70.2. doi: 10.1097/ALN.0000000000000556.
+- [2] Irving AH, Harris A, Petrie D, Higgins A, Smith J, McQuilten ZK. Impact of patient blood management guidelines on blood transfusions and patient outcomes during cardiac surgery. *The Journal of Thoracic and Cardiovascular Surgery*. 2020 Aug;160(2):437-445.e20.3. doi.org/10.1016/j.jtcvs.2019.08.102
+- [3] Gross I, Seifert B, Hofmann A, Spahn DR. Patient blood management in cardiac surgery results in fewer transfusions and better outcome: Patient Blood Management in Cardiac Surgery. *Transfusion*. 2015 May;55(5):1075–81. 4. doi: 10.1111/trf.12946
+- [4] Pearse BL, Smith I, Faulke D, Wall D, Fraser JF, Ryan EG, et al. Protocol guided bleeding management improves cardiac surgery patient outcomes. *Vox Sang*. 2015 Oct;109(3):267–79.5. doi: 10.1111/vox.12279
+- [5] Cho BC, DeMario VM, Grant MC, Hensley NB, Brown CH, Hebbar S, et al. Discharge Hemoglobin Level and 30-Day Readmission Rates After Coronary Artery Bypass Surgery: *Anesthesia & Analgesia*. 2019 Feb;128(2):342–8.6. doi: 10.1213/ane.00000000000003671
+- [6] Williams ML, He X, Rankin JS, Slaughter MS, Gammie JS. Preoperative Hematocrit Is a Powerful Predictor of Adverse Outcomes in Coronary Artery Bypass Graft Surgery: A Report From The Society of Thoracic Surgeons Adult Cardiac Surgery Database. *Ann Thorac Surg* 2013;96:1628-34. doi :10.1016/j.athoracsur.2013.06.030
+- [7] Padmanabhan H, Siau K, Curtis J, Ng A, Menon S, Luckraz H et al. Preoperative Anemia and Outcomes in Cardiovascular Surgery: Systematic Review and Meta-Analysis. *Ann Thorac Surg* 2019;108:1840-8. doi. : 10.1016/j.athoracsur.2019.04.108
+- [8] Yanagawa B, Rocha RV, Mazine A, Verma S, Mazer CD, Vernich L et al. Hemoglobin Optimization for Coronary Bypass: A 10-Year Canadian Multicenter Experience. *Ann Thorac Surg* 2019;107:711–7. doi :10.1016/j.athoracsur.2018.10.067
+- [9] Spahn DR, Schoenrath F, Spahn GH, Seifert B, Stein P, Theusinger OM et al. Effect of ultra-short-term treatment of patients with iron deficiency or anaemia undergoing cardiac surgery: a prospective randomised trial. *Lancet* 2019; 393: 2201–12. doi :10.1016/S0140-6736(18)32555-8
+- [10] Gupta S, Panchal P, Gilotra K, Wilfred AM, Hou W, Siegal D et al. Intravenous iron therapy for patients with preoperative iron deficiency or anaemia undergoing cardiac surgery reduces blood transfusions: a systematic review and meta-analysis. *Interactive CardioVascular and Thoracic Surgery* 31 (2020) 141–151. doi :10.1093/icvts/ivaa094
+- [11] Cladellas M, Farré N, Comín-Colet J, Gómez M, Meroño O, Bosch MA et al. Effects of preoperativeintravenous erythropoietin plus iron on outcome in anemic patients after cardiac valve replacement. Am J Cardiol. 2012 oct 1 ; 110 (7) : 1021-6. doi :10.1016/j.amjcard.2012.05.036.
+
+[12] Chau M, Richards T, Evans C, Butcher A, Collier T, Klein A. The UK Cardiac and Vascular Surgery Interventional Anaemia Response (CAVIAR) Study: protocol for an observational cohort study to determine the impact and effect of preoperative anaemia management in cardiac and vascular surgical patients. BMJ Open. 2017 Apr;7(4):e014872. doi :10.1136/bmjopen-2016-014872
+
+[13] IV iron for Treatment of Anaemia before Cardiac Surgery. IRAS ID 217991.<https://clinicaltrials.gov/ct2/show/NCT02632760>
+
+**Question 2. L'utilisation d'un système de récupération sanguine préopératoire pendant la chirurgie a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Guillaume LEBRETON (SFCTCV, Paris), Bertrand ROZEC (SFAR, Nantes)*
+
+**R5.2 – Il est probablement recommandé d'utiliser un système de récupération sanguine peropératoire pour limiter la transfusion érythrocytaire en chirurgie cardiaque.**
+
+**GRADE 2+ (accord FORT)**
+
+**Argumentaire :** Plusieurs méta-analyses existent concernant l'utilisation d'un système de récupération sanguine peropératoire (RSPO) en péri-opératoire de chirurgie cardiaque, toutes caractérisées par une grande hétérogénéité [1-3]. La majorité des études incluses dans ces méta-analyses concernaient la chirurgie coronarienne. La plus récente rapporte une absence d'effet de l'utilisation d'un RSPO sur le taux de transfusion érythrocytaires (CGR) (OR 0,69 (0,48–1,00) ;  $I^2=60\%$ ), de concentrés plaquettaires (CP) (OR 0,83 (0,57–1,2) ;  $I^2=0\%$ ) ou de plasma frais congelé (PFC) (OR 1,26 (0,82–1,94) ;  $I^2=15\%$ ) [1]. Deux autres méta-analyses [2,3] un peu plus anciennes ont retrouvé une réduction du taux de transfusion de CGR (RR 0,77 (0,69-0,86) ;  $I^2=72\%$ ) [2] et (OR 0,60 (0,39-0,92) ;  $I^2=60\%$ ) [3]. La méta-analyse de Wang et al. montrait également l'absence d'effet de l'utilisation du RSPO sur le taux de transfusion de CP (OR 0,90 (0,63-1,28) ;  $I^2=3\%$ ) et de PFC (OR 1,16 (0,82-1,66) ;  $I^2=0\%$ ) [3]. Ces méta-analyses regroupaient toutes des études de faibles effectifs, avec de grande variabilité sur le mode d'utilisation du RSPO. Une étude randomisée, retrouvait une réduction du taux de transfusion de CGR dans les 24 h postopératoires (RR 0,75 (0,61-0,92)), mais pas sur l'ensemble de l'hospitalisation (RR 0,86 (0,71-1,05)) [4]. L'usage d'un RSPO limiterait le recours à la transfusion de CGR homologue en péri-opératoire de chirurgie cardiaque.
+
+Concernant le saignement, si la majorité des études retrouve des altérations de la coagulation ainsi qu'une héparinémie postopératoire résiduelle plus importantes chez les patients pour qui le RSPO a été utilisé, le volume, la durée de drainage ainsi que les reprises postopératoires pour saignement ne sont néanmoins pas plus importants. Seules, deux études prospectives monocentriques de la même équipe rapportaient une incidence plus importante de saignements postopératoires [5,6]. Deux méta-analyses ne retrouvaient pas d'incidence plus élevée de reprise pour saignement en cas d'utilisation d'un RSPO [2,3]. Pour l'ensemble desautres complications (y compris la mortalité), il n'y avait aucune différence [3].
+
+La durée d'hospitalisation en réanimation ou à l'hôpital n'était pas modifiée par l'utilisation d'un RSPO. Si quelques études observationnelles et rétrospectives suggèrent une réduction non cliniquement pertinente de la durée de séjour en réanimation, seule une étude randomisée retrouvait une réduction de la durée d'hospitalisation ( $7,3 \pm 0,39$  jours vs  $9,7 \pm 0,7$  jours,  $p=0,009$ ) [7].
+
+L'impact financier de l'utilisation de RSPO ne semblait pas significatif en particulier sur l'ensemble de l'hospitalisation d'un patient [8,9], sous réserve de la grande variabilité des coûts de la transfusion, des dispositifs et des durées d'hospitalisation d'un pays à l'autre [6].
+
+Enfin, plusieurs études randomisées, monocentriques avec de faibles effectifs évaluèrent l'impact de l'utilisation d'un RSPO sur la réponse inflammatoire en péri-opératoire de chirurgie cardiaque. La majorité suggéraient une réduction des marqueurs de l'inflammation dans les heures suivants la chirurgie. Cependant, il n'était pas possible de conclure à un effet bénéfique sur le pronostic des patients. Seul, un travail rapportait une corrélation entre une réduction de la durée ventilation mécanique (de 2 h donc peu pertinente cliniquement) et la réduction de biomarqueurs de l'inflammation pulmonaire avec l'utilisation du RSPO [10].
+
+#### Références
+
+- [1] Al Khabori M, Al Riyami A, Siddiqi MS, Sarfaraz ZK, Ziadinov E, Al Sabti H. Impact of cell saver during cardiac surgery on blood transfusion requirements: a systematic review and meta-analysis. *Vox Sang.* 2019;114:553-565. doi:10.1111/vox.12824.
+- [2] Carless PA, Henry DA, Moxey AJ, O'Connell D, Brown T, Fergusson DA. Cell salvage for minimising perioperative allogeneic blood transfusion. *Cochrane Database Syst Rev.* 2010;CD001888. doi:10.1002/14651858.CD001888.pub4.
+- [3] Wang G, Bainbridge D, Martin J, Cheng D. The efficacy of an intraoperative cell saver during cardiac surgery: a meta-analysis of randomized trials. *Anesth Analg.* 2009;109:320-30. doi: 10.1213/ane.0b013e3181aa084c.
+- [4] Vermeijden WJ, van Klarenbosch J, Gu YJ, Mariani MA, Buhre WF, Scheeren TW et al. Effects of cell-saving devices and filters on transfusion in cardiac surgery: a multicenter randomized study. *Ann Thorac Surg.* 2015;99:26-32. doi: 10.1016/j.athoracsur.2014.08.027.
+- [5] Shen S, Zhang J, Wang W, Zheng J, Xie Y. Impact of intra-operative cell salvage on blood coagulation in high-bleeding-risk patients undergoing cardiac surgery with cardiopulmonary bypass: a prospective randomized and controlled trial. *J Transl Med.* 2016;14:228. doi: 10.1186/s12967-016-0986-6.
+- [6] Xie Y, Shen S, Zhang J, Wang W, Zheng J. The efficacy, safety and cost-effectiveness of intra-operative cell salvage in high-bleeding-risk cardiac surgery with cardiopulmonary bypass: a prospective randomized and controlled trial. *Int J Med Sci.* 2015;12:322-8. doi: 10.7150/ijms.11227.
+- [7] Dalrymple-Hay MJ, Pack L, Deakin CD, Shephard S, Ohri SK, Haw MP et al. Autotransfusion of washed shed mediastinal fluid decreases the requirement for autologous blood transfusion following cardiac surgery: a prospective randomized trial. *Eur J Cardiothorac Surg.* 1999;15:830-4. doi:10.1016/s1010-7940(99)00112-8.
+- [8] Murphy GJ, Rogers CS, Lansdowne WB, Channon I, Alwair H, Cohen A et al. Safety, efficacy, and cost of intraoperative cell salvage and autotransfusion after off-pump coronary artery bypass surgery: a randomized trial. *J Thorac Cardiovasc Surg.* 2005;130:20-8. doi:10.1016/j.jtcvs.2004.12.006.
+- [9] Klein AA, Nashef SA, Sharples L, Bottrill F, Dyer M, Armstrong J et al. A randomized controlled trial of cell salvage in routine cardiac surgery. *Anesth Analg.* 2008;107:1487-95. doi: 10.1213/ane.0b013e3181831e54.
+- [10] Engels GE, van Klarenbosch J, Gu YJ, van Oeveren W, de Vries AJ. Intraoperative cell salvage during cardiac surgery is associated with reduced postoperative lung injury. *Interact Cardiovasc Thorac Surg.* 2016;22:298-304. doi: 10.1093/icvts/ivv355.**Question 3. La stratégie transfusionnelle (restrictive ou libérale) a-t-elle un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Guillaume LEBRETON (SFCTCV, Paris), Bertrand ROZEC (SFAR, Nantes)*
+
+**ABSENCE DE RECOMMANDATION – Les données actuelles de la littérature ne permettent pas de recommander une stratégie transfusionnelle (restrictive ou libérale) en chirurgie cardiaque pour diminuer la survenue de complications postopératoires et la durée d'hospitalisation.**
+
+**R5.3 - Les experts suggèrent de considérer individuellement l'état clinique du patient, le risque chirurgical et la balance entre les apports en oxygène et l'extraction tissulaire, plutôt qu'une valeur systématique de seuil transfusionnel.**
+
+**Avis d'experts**
+
+**Argumentaire :** Contrairement à ce qui a pu être montré dans d'autres chirurgies, l'impact de la stratégie transfusionnelle (restrictive ou libérale) sur la survenue de complications postopératoires ou sur la durée d'hospitalisation reste incertaine en chirurgie cardiaque [1–3]. Il existe très peu d'études comparant ces stratégies transfusionnelles en chirurgie cardiaque exclusivement, incluant souvent d'autres chirurgies [4, 5], et lorsqu'elles existent, elles incluent indifféremment la transfusion peropératoire et postopératoire ou excluent les chirurgies en urgence et les patients à risque [2, 6–8].
+
+Plusieurs méta-analyses [4–6, 9] ne montrent pas de différences significatives dans la survenue de complications postopératoires (infarctus du myocarde, accident vasculaire cérébral, insuffisance rénale aigüe) ni sur les durées d'hospitalisation entre une stratégie transfusionnelle restrictive et une stratégie libérale. De manière intéressante, les essais cliniques randomisés [1, 2, 8, 10] réfutent en chirurgie cardiaque les conclusions d'études observationnelles [11, 12] qui rapportent que la transfusion est associée à une augmentation de la morbi-mortalité [13], comme cela peut être admis dans d'autres chirurgies. Dans un essai randomisé incluant 2007 patients en postopératoire de chirurgie cardiaque, Murphy et al. [1] ont montré qu'une stratégie transfusionnelle restrictive n'était pas supérieure à une stratégie libérale en termes de morbidité et de coûts. Dans cet essai, on notait même une surmortalité (HR 1,64 (1,00-2,67) ; p=0,045) dans le groupe restrictif. De même, dans la population des patients de plus de 60 ans, Nakamura et al. [14] ont montré qu'une stratégie restrictive s'accompagnait davantage de choc cardiogénique. Mazer et al. dans un essai randomisé comparant ces deux stratégies en per- et postopératoire de chirurgie cardiaque (5 243 patients), n'ont pas montré de différences en termes de morbi-mortalité (critère composite) entre les deux stratégies à 30 jours [2] et à 6 mois [3] postopératoires.
+
+En revanche, une stratégie transfusionnelle libérale est, sans surprise, associée à plus de transfusions mais sans impact sur la mortalité, les complications postopératoires ou le coût [1, 2, 6, 8, 15].
+
+En résumé, chez les patients à faible risque, la morbi-mortalité en chirurgie cardiaque n'estprobablement pas influencée par le choix d'une stratégie transfusionnelle restrictive ou libérale. L'état clinique du patient, le risque chirurgical, la balance entre les apports en oxygène et l'extraction tissulaire nous semblent des aspects plus importants à considérer au niveau individuel plutôt que l'utilisation systématique d'un seuil transfusionnel homogène [16–18].
+
+#### Références
+
+- [1] Murphy GJ, Pike K, Rogers CA, et al (2015) Liberal or Restrictive Transfusion after Cardiac Surgery. *N Engl J Med* 372:997–1008. doi:10.1056/NEJMoa1403612
+- [2] Mazer CD, Whitlock RP, Fergusson DA, et al (2017) Restrictive or Liberal Red-Cell Transfusion for Cardiac Surgery. *N Engl J Med* 377:2133–2144. doi:10.1056/NEJMoa1711818
+- [3] Mazer CD, Whitlock RP, Fergusson DA, et al (2018) Six-Month Outcomes after Restrictive or Liberal Transfusion for Cardiac Surgery. *N Engl J Med* 379:1224–1233. doi:10.1056/NEJMoa1808561
+- [4] Carson JL, Guyatt G, Heddle NM, et al (2016) Clinical Practice Guidelines From the AABB: Red Blood Cell Transfusion Thresholds and Storage. *JAMA* 316:2025. doi:10.1001/jama.2016.9185
+- [5] Curley GF, Shehata N, Mazer CD, et al (2014) Transfusion Triggers for Guiding RBC Transfusion for Cardiovascular Surgery: A Systematic Review and Meta-Analysis. *Critical Care Medicine* 42:2611–2624. doi:10.1097/CCM.0000000000000548
+- [6] Garg AX, Badner N, Bagshaw SM, et al (2019) Safety of a Restrictive versus Liberal Approach to Red Blood Cell Transfusion on the Outcome of AKI in Patients Undergoing Cardiac Surgery: A Randomized Clinical Trial. *JASN* 30:1294–1304. doi:10.1681/ASN.2019010004
+- [7] Laine A, Niemi T, Schramko A (2018) Transfusion Threshold of Hemoglobin 80 g/L Is Comparable to 100 g/L in Terms of Bleeding in Cardiac Surgery: A Prospective Randomized Study. *Journal of Cardiothoracic and Vascular Anesthesia* 32:131–139. doi:10.1053/j.jvca.2017.08.039
+- [8] Koch CG, Sessler DI, Mascha EJ, et al (2017) A Randomized Clinical Trial of Red Blood Cell Transfusion Triggers in Cardiac Surgery. *The Annals of Thoracic Surgery* 104:1243–1250. doi:10.1016/j.athoracsur.2017.05.048
+- [9] Shehata N, Mistry N, da Costa BR, et al (2019) Restrictive compared with liberal red cell transfusion strategies in cardiac surgery: a meta-analysis. *European Heart Journal* 40:1081–1088. doi:10.1093/eurheartj/ehy435
+- [10] Brierley RCM, Pike K, Miles A, et al (2014) A multi-centre randomised controlled trial of Transfusion Indication Threshold Reduction on transfusion rates, morbidity and healthcare resource use following cardiac surgery: Study protocol. *Transfusion and Apheresis Science* 50:451–461. doi:10.1016/j.transci.2014.02.020.
+- [11] Likosky DS, Paone G, Zhang M, et al (2015) Red Blood Cell Transfusions Impact Pneumonia Rates After Coronary Artery Bypass Grafting. *The Annals of Thoracic Surgery* 100:794–801. doi:10.1016/j.athoracsur.2015.03.089.
+- [12] Möhnle P, Snyder-Ramos SA, Miao Y, et al (2011) Postoperative red blood cell transfusion and morbid outcome in uncomplicated cardiac surgery patients. *Intensive Care Med* 37:97–109. doi:10.1007/s00134-010-2017-z.
+- [13] Patel NN, Avlonitis VS, Jones HE, et al (2015) Indications for red blood cell transfusion in cardiac surgery: a systematic review and meta-analysis. *Lancet Haematol* 2:e543–553. doi:10.1016/S2352-3026(15)00198-2.
+- [14] Nakamura RE, Vincent J-L, Fukushima JT, et al (2015) A liberal strategy of red blood cell transfusion reduces cardiogenic shock in elderly patients undergoing cardiac surgery. *J Thorac Cardiovasc Surg* 150:1314–1320. doi:10.1016/j.jtcvs.2015.07.051.
+- [15] Estcourt LJ, Roberts DJ (2019) Six-month outcomes after restrictive or liberal transfusion for cardiac surgery (TRICS III trial). *Transfusion Med* 29:77–79. doi:10.1111/tme.12596.
+- [16] Ranucci M, Pistuddi V, Carboni G, et al (2015) Effects of priming volume reduction on allogeneic red blood cell transfusions and renal outcome after heart surgery. *Perfusion* 30:120–126. doi:10.1177/0267659114535649.
+- [17] Ranucci M, Johnson I, Willcox T, et al (2018) Goal-directed perfusion to reduce acute kidney injury: A randomized trial. *J Thorac Cardiovasc Surg* 156:1918–1927.e2. doi:10.1016/j.jtcvs.2018.04.045.
+- [18] Task Force on Patient Blood Management for Adult Cardiac Surgery of the European Association for Cardio-Thoracic Surgery (EACTS) and the European Association of Cardiothoracic Anaesthesiology (EACTA), Boer C, Meesters MI, et al (2018) 2017 EACTS/EACTA Guidelines on patient blood management for adult cardiac surgery. *J Cardiothorac Vasc Anesth* 32:88–120. doi :10.1053/j.jvca.2017.06.026.## **CHAMP 6. REHABILITATION POSTOPERATOIRE**
+
+### **Question 1. L'extubation précoce a-t-elle un impact sur la survenue de complications postopératoires et les durées de séjour ?**
+
+*Experts : Alexandre OUATTARA (SFAR, Bordeaux), Jean-Philippe VERHOYE (SFCTCV, Rennes).*
+
+**R6.1 – Il est recommandé de réaliser une extubation précoce (dans les 6 heures qui suivent la fin de la chirurgie) afin de diminuer l'incidence des complications postopératoires et les durées de séjour en réanimation et à l'hôpital chez le patient opéré de chirurgie cardiaque.**
+
+**GRADE 1+ (accord FORT)**
+
+**Argumentaire :** Deux méta-analyses d'essais randomisés menées en chirurgie cardiaque rapportent que l'extubation précoce n'était pas associée à une augmentation du risque de ré-intubation, de saignement excessif, d'infarctus du myocarde périopératoire, d'accidents vasculaires cérébraux, d'insuffisance rénale aigüe, de sepsis ou encore de mortalité [1,2]. De façon similaire, l'extubation précoce ne semblait pas augmenter le risque des reprises chirurgicales [3]. L'interprétation des résultats de ces études, concernant l'infection du site opératoire, reste hasardeuse et ne permet pas de se prononcer de façon objective [1,2].
+
+L'innocuité de l'extubation précoce a été récemment confirmée dans une étude à large effectif rapportant une incidence de ré-intubation, d'accident vasculaire cérébral et d'insuffisance rénale comparables chez des patients extubés avant et au-delà des 6 heures postopératoires [4]. Dans cette étude, l'extubation précoce (< 6 heures) n'était pas non plus associée à une surmortalité [4]. Plus qu'une simple innocuité, il semble que l'extubation précoce (dans l'heure qui suit l'arrivée en soins critiques) pourrait être associée à une réduction du risque d'arythmie atriale postopératoire [5]. Toutefois, le caractère rétrospectif de cette étude et le fait que seuls les patients opérés d'un pontage aorto-coronaire isolé à cœur battant soient inclus limitent la pertinence clinique de ces résultats et leur extrapolation à la chirurgie cardiaque tout-venant [5]. De façon analogue, l'extubation précoce a été rapportée comme étant associée à une réduction du risque de pneumopathie et de bactériémie chez le patient ayant bénéficié de chirurgie cardiaque. [6]. Enfin, il est important de rappeler que la plupart de ces travaux présentaient des critères de non-inclusion éliminant ainsi les patients à plus haut risque. Toutefois, l'analyse des facteurs de risque d'échec d'extubation précoce sont assez peu discriminants dès le préopératoire [2].
+
+Ainsi, tout patient de chirurgie cardiaque sauf exception est un patient qui devra être extubé dans les six heures postopératoires et pour qui tout doit être mis en œuvre dès la période peropératoire pour qu'à la fin de l'intervention le patient soit « extuable » (stabilité hémodynamique, lutte contre l'hypothermie, correction des désordres métaboliques, optimisation de la ventilation artificielle, optimisation de la compétence hémostatique, absence de curarisation résiduelle, etc.).
+
+Bien que ces données ne soient pas totalement extrapolables à l'offre de soins critiques en France au sein de laquelle le personnel paramédical est identique de jour comme de nuit, il nous est apparu pertinent de citer une étude Nord-américaine rétrospective récente à largeeffectif plus de 40 000 patients) comparant l'impact d'une extubation postopératoire précoce de nuit et de jour sur la morbi-mortalité postopératoire [7]. Ce travail, qui incluait des chirurgies programmées et urgentes, n'a pas montré de différence entre les deux groupes y compris sur le risque de ré-intubation [7]. Cette considération est intéressante puisque l'extubation précoce est souvent synonyme d'extubation de nuit pour les chirurgies cardiaques se déroulant l'après-midi.
+
+Plusieurs études rapportent que l'extubation précoce est associée à une réduction de la durée de séjour en réanimation et à l'hôpital [1,3]. Il est intéressant de rappeler que cet effet bénéfique sur la durée d'hospitalisation est maintenu lorsque l'extubation est effectuée par les équipes de nuit [7].
+
+#### Références
+
+- [1] Hawkes C, Dhileepan S, Foxcroft D. Early extubation for adult cardiac surgical patients. Cochrane Database Syst Rev. 2003;(4). doi: 10.1002/14651858.CD003587.
+- [2] Wong W, Lai V, Eot Chee Y, Lee A. Fast-track cardiac care for adult cardiac surgical patients. Cochrane Database Syst Rev. 2016 Sep 12;9(9). doi 10.1002/14651858.CD003587.pub3.
+- [3] Salah M, Hosny H, Salah M, Saad H. Impact of immediate versus delayed tracheal extubation on length of ICU stay of cardiac surgical patients, a randomized trial ». Heart Lung Vessel 2015;7:311-9
+- [4] Richey M, Mann A, He J, Daon E, Wirtz K, Dalton A,et al. Implementation of an Early Extubation Protocol in Cardiac Surgical Patients Decreased Ventilator Time But Not Intensive Care Unit or Hospital Length of Stay. J Cardiothorac Vasc Anesth. 2018 32:739-44. doi: 10.1053/j.jvca.2017.11.007.
+- [5] Edgerton J, Herbert M, Prince S, Horswell J, Michelson L, Magee M,et al. Reduced atrial fibrillation in patients immediately extubated after off-pump coronary artery bypass grafting. Ann Thorac Surg. 2006 81(6):2121-6. doi: 10.1016/j.athoracsur.2006.01.015.
+- [6] Camp LS, Stamou SC, Stiegel RM, Reames MK, Skipper ER, Madjarov J, et al. Quality Improvement Program Increases Early Tracheal Extubation Rate and Decreases Pulmonary Complications and Resource Utilization After Cardiac Surgery. J Card Surg 2009; 24: 414-23. doi: 10.1111/j.1540-8191.2008.00783.x.
+- [7] Krebs E, Hawkins R, Mehaffey H, Fonner C, Speir A, Quader M, et al. Is routine extubation overnight safe in cardiac surgery patients? J Thorac Cardiovasc Surg 2019 157:1533-42. doi: 10.1016/j.jtcvs.2018.08.125.
+
+### **Question 2 : La mobilisation précoce a-t-elle un impact sur la survenue de complications postopératoires et les durées d'hospitalisation ?**
+
+*Experts : Jean-Luc Fellahi (SFAR, Lyon), Jean-Philippe VERHOYE (SFCTCV, Rennes).*
+
+**R6.2.1 – Il est probablement recommandé de mobiliser précocement les patients afin de réduire la morbidité postopératoire et les durées d'hospitalisation.**
+
+**GRADE 2+ (accord FORT)**
+
+**R6.2.2 - Les experts suggèrent l'ablation précoce des drains thoraciques, de la sonde vésicale et des cathéters artériel et veineux central afin de permettre la mobilisation précoce des patients.**
+
+**Avis d'experts**
+
+**Argumentaire :** La mobilisation précoce est définie par des exercices musculaires (mobilisation des membres, position assise, marche, vélo) débutés dès le postopératoire immédiat ou au 1<sup>er</sup> jour postopératoire [1-9]. Il existe une hétérogénéité des protocoles de mobilisation précoceen termes de type d'exercices réalisés [1-10]. L'implication des kinésithérapeutes dans cette mobilisation précoce débutée dans les unités de soins critiques soit par la réalisation directe des exercices soit par la mise en place de protocoles validés était systématiquement bénéfique [11-13].
+
+Dans ces études [1-3], la mobilisation précoce après chirurgie cardiaque n'avait pas d'impact sur la mortalité. Sur le plan respiratoire, un essai clinique randomisé en simple aveugle a objectivé que la mobilisation précoce (1<sup>er</sup> jour versus 3<sup>ème</sup> jour postopératoire) après pontages aorto-coronariens diminuait significativement les atélectasies et les épanchements pleuraux [1]. La mobilisation précoce des patients en état de choc cardiogénique après chirurgie cardiaque était associée à une diminution du temps d'intubation [2]. Deux essais contrôlés randomisés [4,5] ne montraient pas de différence sur la durée de ventilation. La mobilisation précoce, dès le 1<sup>er</sup> jour postopératoire, était associée à une réduction de l'incidence de pneumopathie nécessitant une antibiothérapie, d'atélectasie et d'épanchement pleural [5]. En 2004, Van der peijl et al. [6] ne trouvaient pas de différence sur la morbidité respiratoire entre une mobilisation simple une fois par jour et une mobilisation intensive dès le premier jour postopératoire. Les patients du groupe "mobilisation intensive" atteignaient plus rapidement les objectifs fonctionnels et présentaient un degré de satisfaction plus élevé que ceux du groupe "mobilisation simple" [6]. Pour les autres complications postopératoires (fibrillation atriale, insuffisance rénale), les données robustes sont rares [5,7,8].
+
+La méta-analyse de Doyle et al. [9] a étudié l'intérêt de l'exercice précoce pendant l'hospitalisation (vélo ou marche 1 à 2 fois par jour avec encadrement par un kinésithérapeute) avant la sortie de l'hospitalisation. Les capacités physiques (VO<sub>2</sub> maximale et test de marche de 6 minutes) étaient améliorées à la sortie dans le groupe "exercice précoce" [9]. La mobilisation précoce était associée à une réduction de la durée de séjour en réanimation [2, 5, 8]. Une revue systématique d'essais contrôlés randomisés menés entre 1995 et 2012 et portant sur la mobilisation précoce en réanimation post-chirurgie cardiaque ne trouvait pas de différence en termes de durée d'hospitalisation globale [10].
+
+Afin de permettre cette mobilisation précoce, l'ablation la plus précoce possible des drains thoraciques, de la sonde vésicale et des cathéters (artériel et veineux central), en fonction de l'évolution du patient en postopératoire, sont des éléments importants de la prise en charge.
+
+## Références
+
+1. [1] Moradian S T, Najafloo M, Mahmoudi H, Ghasi M H. Early mobilization reduces the atelectasis and pleural effusion in patients undergoing coronary artery bypass graft surgery: A randomized clinical trial. *J Vasc Nurs* . 2017 35(3):141-145. doi: 10.1016/j.jvn.2017.02.001.
+2. [2] Dong Z, Yu B, Zhang Q, Pei H, Xing J, Fang W et al. Early Rehabilitation Therapy Is Beneficial for Patients With Prolonged Mechanical Ventilation After Coronary Artery Bypass Surgery. *Int Heart J* . 2016 57(2):241-6. doi: 10.1536/ihj.15-316.
+3. [3] Hirschhorn A D, Richards D A B, Mungovan S F, Morris N R, Adams L. Does the mode of exercise influence recovery of functional capacity in the early postoperative period after coronary artery bypass graft surgery? A randomized controlled trial. *Interact Cardiovasc Thorac Surg*. 2012;15(6): 995-1003. doi: 10.1093/icvts/ivs403.
+4. [4] Patman S, Sanderson P, Blackmore M. Physiotherapy following cardiac surgery: is it necessary during the intubation period? *Aust J Physiother* . 2001;47(1):7-16. doi: 10.1016/s0004-9514(14)60294-4.
+5. [5] Herdy A , Marcchi P, Vila A, Tavares C, Collaço J, Niebauer J, et al. Pre- and postoperative cardiopulmonary rehabilitation in hospitalized patients undergoing coronary artery bypass surgery: a randomized controlled trial. *Am J Phys Med Rehabil* . 2008 87(9):714-9. doi: 10.1097/PHM.0b013e3181839152.[6] van der Peijl I, Vlieland T, Versteegh M, Lok J, Munneke M, Dion R. Exercise therapy after coronary artery bypass graft surgery: a randomized comparison of a high and low frequency exercise therapy program. *Ann Thorac Surg*. 2004 77(5):1535-41. doi: 10.1016/j.athoracsur.2003.10.091.
+
+[7] Hirschhorn A, Richards R, Mungovan S F, Morris N R, Adams L. Supervised moderate intensity exercise improves distance walked at hospital discharge following coronary artery bypass graft surgery a randomised controlled trial. *Heart Lung Circ*. 2008 17(2):129-38. doi: 10.1016/j.hlc.2007.09.004.
+
+[8] Tariq M I, Khan A A, Khalid Z, Farheen H, Siddiqi F A, Amjad I. Effect of Early  $\leq 3$  Mets (Metabolic Equivalent of Tasks) of Physical Activity on Patient's Outcome after Cardiac Surgery. *J Coll Physicians Surg Pak*. 201727(8):490-494.
+
+[9] Doyle M P, Indraratna P, Tardo D T, Peeceeyen S C, Peoples G E. Safety and efficacy of aerobic exercise commenced early after cardiac surgery: A systematic review and meta-analysis. *Eur J Prev Cardiol*. 2019;26(1):36-45. doi: 10.1177/2047487318798924.
+
+[10] Santos P, Ricci N, Suster A, Paisani D, Chiavegato L. Effects of early mobilisation in patients after cardiac surgery: a systematic review. *Physiotherapy*. 2017;103(1):1-12. doi: 10.1016/j.physio.2016.08.003.
+
+[11] Hanekom S D, Louw Q, Coetzee A. The way in which a physiotherapy service is structured can improve patient outcome from a surgical intensive care: a controlled clinical trial. *Crit Care*. 2012 11;16(6):R230. doi: 10.1186/cc11894.
+
+[12] Merino-Osorio C, Velásquez M, Reveco R, Marmolejo J I, Fu C. 24/7 Physical Therapy Intervention With Adult Patients in a Chilean Intensive Care Unit: A Cost-Benefit Analysis in a Developing Country. *Value Health Reg Issues*. 2020;23:99-104. doi: 10.1016/j.vhri.2020.04.006.
+
+[13] Hanekom S, Louw Q A, Coetzee A R. Implementation of a protocol facilitates evidence-based physiotherapy practice in intensive care units. *Physiotherapy*. 2013;99(2):139-45. doi: 10.1016/j.physio.2012.05.005.
+
+**Question 3. Un programme de réhabilitation postopératoire a-t-il un impact sur la survenue de complications postopératoires ou sur la durée d'hospitalisation ?**
+
+*Experts : Didier CHATEL (SFCTCV, Tours) et Alexandre OUATTARA (SFAR, Bordeaux)*
+
+**R6.3 – Il est probablement recommandé d'associer au programme de préhabilitation un programme de réhabilitation postopératoire débuté dans les 2 premières semaines postopératoires (cardiovasculaire, kinésithérapie respiratoire et mobilisatrice) afin de réduire la survenue des complications postopératoires et la durée d'hospitalisation.**
+
+**GRADE 2 + (Accord FORT)**
+
+**Argumentaire :** La majorité des travaux évaluant l'impact de la réhabilitation postopératoire (RPO) après chirurgie cardiaque ont rapporté un effet bénéfique d'un tel programme sur les paramètres fonctionnels respiratoires et/ou la capacité fonctionnelle à l'effort (mécanique ventilatoire, lématoze, test de marche de 6 minutes, pic de  $VO_2$ , etc.) [1,2]. Les rares études évaluant spécifiquement les bénéfices de la RPO sur la morbi-mortalité précoce et/ou la durée d'hospitalisation initiale en réanimation ou à l'hôpital étaient négatives [3,4]. Seules les études associant une réhabilitation pré- et postopératoire rapportaient des effets bénéfiques sur les complications postopératoires et la durée de séjour initial [5,6,7]. Une réhabilitation postopératoire débutée dans les huit premières semaines après la chirurgie cardiaque était associée à une réduction de la mortalité à moyen et long terme (à 1 an et 10 ans) [8,9].
+
+L'initiation immédiate ou dans les 2 premières semaines du programme de réhabilitation postopératoire était associée à une amélioration des capacités fonctionnelles et des paramètres de fonction respiratoire [1,2,4-6,10-12]. Le programme de réhabilitation utilisé dans ces travauxétait progressif et adapté aux capacités fonctionnelles du patient. La plupart des études ayant évalué l'innocuité d'une telle approche étaient rassurantes [2,11] ou rapportaient une possible diminution de l'incidence d'arythmie atriale postopératoire expliquée par une diminution du tonus sympathique [12]. A l'inverse, Macchi et al. [10] ont rapporté une incidence d'arythmie atriale augmentée chez les patients bénéficiant d'une réhabilitation précoce sans pouvoir fournir une explication physiopathologique à leur résultat.
+
+### Références
+
+- [1] Stein R, Maia CP, Silveira AD, Chiappa GR, Myers J, Ribeiro JP . Inspiratory muscle strength as a determinant of functional capacity early after coronary artery bypass graft surgery. *Arch Phys Med Rehabil* 2009; 90:1685-91. doi:10.1016/j.apmr.2009.05.010.
+- [2] Doyle MP, Indraratna P, Tardo DT, Peeceeyen SC, Peoples GE. Safety and efficacy of aerobic exercise commenced early after cardiac surgery: A systematic review and meta-analysis. *Eur J Prev Cardiol* 2019; 26:36-45. doi: 10.1177/2047487318798924
+- [3] Pasquina P et al. Prophylactic respiratory physiotherapy after cardiac surgery: Systematic review. *BMJ* 2003;327(7428):1379.
+- [4] Barros FG, Santos CS, Granado FB, Costa PT, Limaco RP, Gardenghi G.. Respiratory muscle training in patients submitted to coronary arterial bypass graft. *Rev Bras Cir Cardiovasc* 2010; 25:483-90.
+- [5] Herdy AH, Marcchi PLB, Tavares C, Niebauer J, Ribeiro JP, et al.. Pre- and postoperative cardiopulmonary rehabilitation in hospitalized patients undergoing coronary artery bypass surgery. *Am J Phys Med Rehabil* 2008; 87:714-9. Doi: 10.1097/PHM.0b013e3181839152
+- [6] Savci S, Degirmenci B, Saglam M, Arikan H, Inal-Ince D, Nur Turan H, et al. Short-term effects of inspiratory muscle training in coronary artery bypass graft surgery: A randomized controlled trial. *Scand Cardiovasc J* 2011; 45: 286-93. doi:10.3109/14017431.2011.595820
+- [7] Gomez Neto M, Martinez BP, Reis HFC, O Carvalho VI. Pre-and postoperative inspiratory muscle training in patients undergoing cardiac surgery: Systematic review and meta-analysis. *Clin Rehabil* 2017; 31: 454-464. Doi: 10.1177/0269215516648754
+- [8] Patel DK, Duncan MS, Shah AS et al. . Association of cardiac rehabilitation with decreased hospitalization and mortality risk after cardiac valve surgery. *JAMA Cardiol* 2019; 4:1250-9. doi: 10.1001/jamacardio.2019.4032.
+- [9] Pack QR, Goel K, Lahr BD, Greason KL, Squires RW, Lopez-Jimenez F et al. Participation in cardiac rehabilitation and Survival after coronary artery bypass graft surgery. A community-based study. *Circulation* 2013; 128: 590-597. doi: 10.1161/CIRCULATIONAHA.112.001365/-/DC1.
+- [10] Macchi C, Fattiroli F, Molino L, Conti AA, Luisi MLE, Intini R, et al. Early and late rehabilitation and physical training in elderly patients after cardiac surgery. *Am J Phys Med Rehabil* 2007; 86 :826-34. doi: 10.1007/PHM,0b013e318151k186.
+- [11] Hirschhorn AD et al. Does the mode of exercise influence recovery of functional capacity in the early postoperative period after coronary artery bypass graft surgery? A randomized controlled trial. *Interact Cardiovasc Thorac Surg* 2012; 15: 995-1003
+- [12] Tashiro N, Takahashi S, Takasaki T, Katayama K, Taguchi T, Watanabe M, et al. Efficacy of cardiopulmonary rehabilitation with adaptive ser-ventilation in patients undergoing off-pump coronary artery bypass grafting. *Cir J* 2015; 79:1290-8. doi: 10.1253/circj.CJ-14-1078.**Annexe 1. Checklist résumant les mesures de réhabilitation pré, per et postopératoire recommandées après chirurgie cardiaque.**
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Recommandation</th>
+<th>GRADE</th>
+<th>Accord</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"><b>CHAMP 1. PARCOURS PATIENT ET INFORMATION</b></td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Mettre en place un programme de RAACC</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Délivrer une information et une éducation de qualité à l'aide de plusieurs supports en préopératoire</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>Admettre systématiquement les patients en unité de soins critiques spécialisée de chirurgie cardiaque en postopératoire</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 2. PREHABILITATION PREOPERATOIRE</b></td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>Dépister et corriger la dénutrition et/ou un apport protéique ou calorique préopératoire insuffisant préopératoire</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>Obtenir (le plus tôt possible) un sevrage tabagique avant la chirurgie</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>Disposer d'un dosage de l'HbA<sub>1c</sub> en préopératoire de moins de 3 mois chez les patients diabétiques et/ou avec un syndrome métabolique et optimiser le contrôle glycémique si HbAc &lt;6% et &gt;8%</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>Mettre en place un programme de préhabilitation cardio-respiratoire et musculaire systématique en chirurgie cardiaque</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>Décolonisation nasale du <i>Staphylococcus Aureus</i> sans dépistage et oropharyngée par bain de bouche systématiques en préopératoire</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.6</td>
+<td>Stratégie de prévention de la FA postopératoire (FAPO) par le maintien en périopératoire ou l'introduction précoce postopératoire de bêtabloquants</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.7</td>
+<td>Pas d'indication à l'introduction des statines en préopératoire</td>
+<td>2-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>Limitier le jeûne et charge en carbohydrates préopératoires</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 3. ANESTHESIE ET ANALGESIE</b></td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>Possibilité d'utiliser l'anesthésie IV par Propofol ou inhalatoire par halogénés pour l'entretien de l'anesthésie</td>
+<td>2-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.2.1</td>
+<td>Appliquer une ventilation protectrice associant Vt 6-8 mL/kg, PEP et manœuvres de recrutement alvéolaire en dehors de la CEC</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.2.2</td>
+<td>Pas d'indication à appliquer une ventilation pendant la CEC</td>
+<td>2-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>Mettre en place une stratégie d'optimisation hémodynamique périopératoire et prendre en compte les bilans entrées-sorties</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.4.1</td>
+<td>Utiliser une technique d'ALR en privilégiant les blocs échoguidés de la paroi thoracique en périopératoire de chirurgie cardiaque</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.4.2</td>
+<td>Les infiltrations ou cathéter pré-sternaux ne sont pas recommandés</td>
+<td>1-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>3.5.1</td>
+<td>Mettre en place un protocole d'analgesie multimodale à visée d'épargne morphinique (pas de supériorité d'une classe thérapeutique en dehors du paracétamol)</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td>3.5.2</td>
+<td>La gabapentine n'est pas recommandée dans le cadre d'une analgésie multimodale en chirurgie cardiaque</td>
+<td>1-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 4. STRATEGIE CHIRURGICALE ET GESTION DE LA CEC</b></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>La chirurgie mitrale vidéo-assistée peut être envisagée dans des équipes entraînées</td>
+<td>Avis experts</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Réaliser la CEC en normothermie</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>4.3.1</td>
+<td>Ne pas réaliser systématiquement les pontages coronariens à cœur battant</td>
+<td>1-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>4.3.2</td>
+<td>Les pontages coronariens à cœur battant peuvent être discutés en cas d'aorte très calcifiée</td>
+<td>Avis experts</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>Utiliser une CEC optimisée</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>Ne pas privilégier une technique de cardioplégie plutôt qu'une autre</td>
+<td>2-</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 5. GESTION PERSONNALISEE DU CAPITAL SANGUIN (PATIENT BLOOD MANAGEMENT, « PBM »)</b></td>
+</tr>
+<tr>
+<td>5.1.1</td>
+<td>Mettre en place un programme de PB avec notamment dépistage et correction d'une anémie ferriprive pour réduire la transfusion périopératoire</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>5.1.2</td>
+<td>Mettre en place un programme de PBM avec notamment dépistage et correction d'une anémie ferriprive pour réduire les complications périopératoires et les durées de séjour</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>Utiliser un système de récupération sanguine peropératoire pour limiter la transfusion per- et postopératoire</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>Adapter la transfusion au besoin du patient plutôt qu'à un seuil transfusionnel</td>
+<td>Avis experts</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 6. REHABILITATION POSTOPERATOIRE</b></td>
+</tr>
+<tr>
+<td>6.1</td>
+<td>Réaliser une extubation précoce (&lt;6h postopératoire) pour réduire les complications postopératoires et les durées d'hospitalisation</td>
+<td>1+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>6.2.1</td>
+<td>Mobiliser précocement les patients pour réduire les complications postopératoires et les durées d'hospitalisation</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>6.2.2</td>
+<td>Ablation précoce des drains thoraciques, de la sonde vésicale et des cathéters artériel et veineux central</td>
+<td>Avis experts</td>
+<td>FORT</td>
+</tr>
+<tr>
+<td>6.3</td>
+<td>Associer au programme de préhabilitation, un programme de réhabilitation postopératoire (cardio-vasculaire, respiratoire et mobilisatrice) précoce dans les 2 premières semaines postopératoires</td>
+<td>2+</td>
+<td>FORT</td>
+</tr>
+</table>**FIGURES**
+
+**Figure 1 : Evaluation du statut nutritionnel et prise en charge d'un apport protéique et calorique insuffisant et/ou d'une dénutrition. (Accord FORT)**
+
+```
+
+graph TD
+    A[Chirurgie cardiaque] --> B[Evaluation systématique préopératoire du Statut Nutritionnel]
+    B --> C[IMC]
+    B --> D[Poids]
+    B --> E[Apports quotidiens]
+    B --> F[Albumine]
+    C --> G(OUI)
+    D --> H(OUI)
+    E --> I(OUI)
+    F --> J(OUI)
+    G --> K[SUPPLEMENTATION NUTRITIONNELLE SYSTEMATIQUE (si ≥1 critère)]
+    H --> K
+    I --> K
+    J --> K
+    K --> L[✓ Compléments nutritionnels hyperprotéiques 5 à 10 jours avant la chirurgie (2 à 3 compléments hyperprotéiques/jour avec au minimum 18 g de protéines par dose)]
+    K --> M[✓ Si dénutrition sévère (IMC<13 et/ou amaigrissement >20% en 3 mois et/ou apports oraux négligeables pendant 15 jours ou plus): report de la chirurgie (hors urgence) en fonction rapport bénéfice risque + prise en charge spécialisée avec mise en place de protocoles de nutrition entérale ou parentérale]
+    
+```
+
+**Chirurgie cardiaque**
+
+**Evaluation systématique préopératoire du Statut Nutritionnel**
+
+<table border="1">
+<thead>
+<tr>
+<th>IMC</th>
+<th>Poids</th>
+<th>Apports quotidiens</th>
+<th>Albumine</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>≤24 (SFAR)<br/>&lt;18,5 (ou &lt;20 si âge &gt;65 ans) (SARAAC)</td>
+<td>↓ 10% sur 6 derniers mois</td>
+<td>↓50% semaine avant OP (SARAAC)<br/>ou<br/>Apport protéique quotidien &lt;2g/kg/j</td>
+<td>&lt;37 g/L (SFAR)<br/>&lt;30 g/L (SARAAC)</td>
+</tr>
+<tr>
+<td>OUI</td>
+<td>OUI</td>
+<td>OUI</td>
+<td>OUI</td>
+</tr>
+</tbody>
+</table>
+
+**SUPPLEMENTATION NUTRITIONNELLE SYSTEMATIQUE (si ≥1 critère)**
+
+- ✓ Compléments nutritionnels hyperprotéiques 5 à 10 jours avant la chirurgie (2 à 3 compléments hyperprotéiques/jour avec au minimum 18 g de protéines par dose)
+- ✓ Si dénutrition sévère (IMC<13 et/ou amaigrissement >20% en 3 mois et/ou apports oraux négligeables pendant 15 jours ou plus): report de la chirurgie (hors urgence) en fonction rapport bénéfice risque + prise en charge spécialisée avec mise en place de protocoles de nutrition entérale ou parentérale
+
+**Figure 2 : Stratégies péri-opératoires de prévention de la fibrillation atriale postopératoire (FAPO) en chirurgie cardiaque. (Accord FORT)**
+
+**SFCTV** (SOCIÉTÉ FRANÇAISE DE CHIRURGIE THORACIQUE ET CARDIO-VASCULAIRE)
+
+**SFAR**
+
+**Prescription péri-opératoire d'anti-arythmiques (β-bloquants en 1<sup>ère</sup> intention)**
+
+**Prévenir la douleur**
+
+**Éviter l'hypovolémie**
+
+**Prévention de la FAPO**
+
+**Normo-kaliémie**
+
+**Correction hypo-magnésémie**
+
+**Éviter l'hypoxie**
+
+**Maintenance CPAP BISAS**
+
+**Normothermie DPE et post-OP**Figure 3 : Gestion personnalisée du capital sanguin (PBM) en chirurgie cardiaque. (Accord FORT)
+
+**GESTION PERSONNALISÉE DU CAPITAL SANGUIN EN CHIRURGIE CARDIAQUE**
+
+**PREOPÉRATOIRE**
+
+- CONSULTATION
+- Correction Anémie ferriprive (Fe)
+- Contrôle AP-AT\*\*
+- Filière RAACC
+- Bilan bio\* (ordonnance)
+
+**PERIOPÉRATOIRE**
+
+- **Aide à la décision**
+  - Algorithmes Transfusionnels
+  - Gestion de la dilution
+  - CEC optimisée
+  - Optimisation hémodynamique
+- **Minimiser les pertes**
+  - Biologie délocalisée
+  - Antifibrinolytique
+  - Récupérateur de sang
+  - 37 °C
+
+**POSTOPÉRATOIRE**
+
+- Surveillance des drains
+- Optimisation hémodynamique
+- Limitation de l'hémodilution
+- 37 °C
+- Limitation des prélèvements sanguins
+
+\*Bilan bio\*: NFS, ferritinémie, Coefficient de transferrine (CST)
+
+\*\*AP-AT\*\*: antiagrégants plaquettaires, ATC: anticoagulants oraux (AVK ou AOD)
+
+Figure 4 : Réhabilitation Améliorée Après Chirurgie Cardiaque. (Accord FORT)
+
+**PREOPÉRATOIRE**
+
+- Dépiège + Correction Anémie ferriprive
+- Dépiège + Correction Dénutrition
+- Préhabilitation Cardio-musculaire + Respiratoire
+- STOP Tabac
+- Information + Éducation thérapeutique
+- Optimisation + Contrôle glycémique
+- Décolonisation nasale du SA + Bains de bouche
+- Prévention FAPO avec poursuite  $\beta$ -bloquants
+- Limitation du jeûne + Charge carbohydrates
+
+**POSTOPÉRATOIRE**
+
+- Optimisation + Contrôle glycémique
+- Réhabilitation précoce Cardio-musculaire + Respiratoire
+- Prévention FAPO avec reprise précoce  $\beta$ -bloquants
+- Mobilisation précoce: ablation drains + SU + cathéters artériel et veineux central
+- Admission USC spécialisés en chirurgie cardiaque
+- Normothermie + Optimisation volémie
+- Extubation <6h
+- Analgésie multimodale avec épargne morphinique
+
+**Anesthésie multimodale avec épargne morphinique**
+
+- + Anesthésie IV ou halogénés
+- + ALR avec blocs échoguidés paroi thoracique
+- + Ventilation protectrice hors CEC (6 – 8 mL/kg)
+- + CEC optimisée:
+  - Normothermie active
+  - Cell-Saver
+  - Prévention hémodilution
+  - Gestion personnalisée anticoagulation
+  - Circuits de CEC optimisés

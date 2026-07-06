@@ -1,0 +1,21 @@
+{
+  "file_name": "Facturation%20TLC%20CAMR%20mars%202021.pdf",
+  "num_pages": 1,
+  "total_token_count": 1196,
+  "total_chunks": 13,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1196,
+      "num_chunks": 13,
+      "num_images": 1
+    }
+  ]
+}

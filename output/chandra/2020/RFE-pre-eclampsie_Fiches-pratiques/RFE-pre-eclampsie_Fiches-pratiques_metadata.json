@@ -1,0 +1,45 @@
+{
+  "file_name": "RFE-pre-eclampsie_Fiches-pratiques.pdf",
+  "num_pages": 3,
+  "total_token_count": 3943,
+  "total_chunks": 29,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 422,
+      "num_chunks": 8,
+      "num_images": 2
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1879,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1642,
+      "num_chunks": 4,
+      "num_images": 0
+    }
+  ]
+}

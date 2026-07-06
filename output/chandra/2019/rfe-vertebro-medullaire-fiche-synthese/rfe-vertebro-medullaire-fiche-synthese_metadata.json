@@ -1,0 +1,33 @@
+{
+  "file_name": "rfe-vertebro-medullaire-fiche-synthese.pdf",
+  "num_pages": 2,
+  "total_token_count": 1653,
+  "total_chunks": 7,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 635,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1018,
+      "num_chunks": 3,
+      "num_images": 0
+    }
+  ]
+}

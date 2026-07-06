@@ -1,0 +1,21 @@
+{
+  "file_name": "rfe-anemie-arbre-diagnostic-anemie.pdf",
+  "num_pages": 1,
+  "total_token_count": 1533,
+  "total_chunks": 8,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1533,
+      "num_chunks": 8,
+      "num_images": 2
+    }
+  ]
+}
