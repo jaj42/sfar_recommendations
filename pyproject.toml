@@ -1,0 +1,12 @@
+[project]
+name = "sfar_scrape"
+version = "0.1.0"
+description = "Targeted crawler for SFAR clinical recommendation PDFs"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "lxml>=6.1.1",
+    "openpyxl>=3.1.5",
+    "requests>=2.34.2",
+]
