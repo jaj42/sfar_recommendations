@@ -1,0 +1,1993 @@
+## Recommandations formalisées d'experts
+
+# Recommandations sur la prise en charge du tabagisme en période péri opératoire
+
+*Guidelines on preoperative smoking cessation*
+
+**SFAR**
+
+Société Française d'Anesthésie et de Réanimation
+
+**Auteurs :** S. Pierre, C. Rivera, B. Le Maître, AM Ruppert, B. Chaput, H. Bouaziz, N. Wirth, J. Saboye, A. Sautet, AC. Masquelet, JJ. Tournier, Y. Martinet, B. Dureuil
+
+### **Coordinateurs d'experts :**
+
+Bertrand Dureuil, Sébastien Pierre
+
+### **Comité d'organisation :**
+
+Sébastien Pierre
+
+### **Groupe d'experts :**
+
+Hervé Bouaziz, Département d'Anesthésie Réanimation Chirurgicale - Hôpital Central Poste, Nancy
+
+Benoit Chaput, Service de Chirurgie Plastique et Reconstructrice – CHU de Toulouse Rangueil
+
+Bertrand Dureuil, Coordinateur du Pôle Réanimations Anesthésie et SAMU - CHU de Rouen
+
+Béatrice Le Maître, Unité de Coordination de Tabacologie, Pôle Médecine d'Organes et Cancérologie - CHU de Caen
+
+Yves Martinet, Département de Pneumologie, Hôpitaux de Brabois - CHU de Nancy
+
+Alain Charles Masquelet, Service d'orthopédie et de traumatologie, Hôpital Saint Antoine
+
+Sébastien Pierre, Unité d'anesthésiologie, Institut Universitaire du Cancer Toulouse – Oncopole, Toulouse
+
+Caroline Rivera, Service de chirurgie Thoracique, Hôpital européen Georges-Pompidou, Paris
+
+Anne-Marie Ruppert, Unité de Coordination de Tabacologie, Service de Pneumologie, Hôpital Tenon, AP-HP, Paris
+
+Jacques Saboye, Service de chirurgie plastique, Clinique Médipôle Garonne, Toulouse
+
+Alain Sautet, Chirurgie Orthopédique et Traumatologique, Hôpital saint Antoine, UPMC Paris VI
+
+Jean Jacques Tournier, Département d'anesthésie, clinique Médipôle Garonne, Toulouse; Réseau de Chirurgie Pédiatrique Midi Pyrénées
+
+Nathalie Wirth, Unité Coordination de Tabacologie, Service de Pneumologie - CHU de Nancy
+
+### **Groupe de Lecture :**
+
+*Comité des Référentiels clinique de la SFAR :* J Amour, S Ausset, G Chanques, V Compère, F Espitalier, D Fletcher, M Garnier, E Gayat, JM Malinovski, B Rozec, B Tavernier, L Velly.
+
+*Conseil d'Administration de la SFAR :* C Ecoffey, F Bonnet, X Capdevila, H Bouaziz, P Albaladejo, L Delaunay, M-L Cittanova Pansard, B Al Nasser, C-M Arnaud, M Beaussier, M Chariot, J-M Constantin, M Gentili, A Delbos, J-M Dumeix, J-P Estebe, O Langeron, L Mercadal, J Ripart, M Samama, J-C Sleth, B Tavernier, E Viel, P Zetlaoui
+
+Texte validé par le Conseil d'Administration de la SFAR (17/06/2016)
+
+*Auteur correspondant :* Bertrand Dureuil, Coordinateur du Pôle Réanimations Anesthésie et SAMU - CHU CH.Nicolle, 76031 ROUEN Cedex
+
+E-mail : Bertrand.Dureuil@chu-rouen.fr## **INTRODUCTION**
+
+Le tabagisme est un problème de santé publique qui prend une importance toute particulière lors de la période péri-opératoire. En effet, un patient devant subir une intervention s'expose à un risque augmenté de mortalité hospitalière d'environ 20% et de 40% pour les complications majeures postopératoires.
+
+De plus, le tabagisme actif accroît presque toutes les complications spécifiques chirurgicales.
+
+La période péri-opératoire est une véritable opportunité pour générer une décision d'arrêt du tabac. Offrir une prise en charge comportementale et la prescription d'une substitution nicotinique pour l'arrêt du tabac avant toute intervention chirurgicale programmée permet d'augmenter significativement le taux de sevrage tabagique pré opératoire.
+
+L'arrêt préopératoire du tabac doit être systématiquement recommandé indépendamment de la date d'intervention même si le bénéfice augmente proportionnellement avec la durée du sevrage.
+
+Tous les professionnels du parcours de soins (médecins généralistes, chirurgiens, anesthésistes-réanimateurs, soignants) doivent informer les fumeurs des effets positifs de l'arrêt du tabac et leur proposer une prise en charge dédiée et un suivi personnalisé.
+
+Chez l'enfant, l'arrêt du tabagisme parental ou l'éviction de l'enfant de tout environnement tabagique, le plus en amont possible de l'intervention est indispensable.
+
+## **Résumé de vulgarisation**
+
+Le tabagisme actif avant une intervention chirurgicale augmente à la fois la mortalité à l'hôpital et toutes les complications pouvant survenir.
+
+Les médecins impliqués doivent donc se renseigner sur l'éventuelle consommation de tabac, informer des risques inhérents, donner les conseils et/ou offrir une prise en charge, une prescription de substituts nicotinique et un suivi personnalisé afin d'arrêter le tabac le plus en amont de l'intervention chirurgicale.
+
+Les enfants doivent être mis à l'écart de tout environnement tabagique le plus tôt possible.
+
+## **Préambule :**
+
+### **a. Présentation de la problématique de la recommandation**
+
+#### **i. Connaissance du sujet**
+
+En France, environ 11 millions de patients bénéficient chaque année d'une anesthésie dont près de 30% de fumeurs, soit plus de 3 millions de personnes. La fumée du tabac inhibe très fortement les processus de réparation tissulaire et osseuse qui sont de première importance dans le contexte chirurgical pour assurerune cicatrisation rapide et solide. Le monoxyde de carbone produit et inhalé avec la fumée de cigarette, génère une inadéquation entre la consommation d'oxygène et sa disponibilité au niveau cellulaire.
+
+Une analyse portant sur 18 publications privilégiant les méta-analyses, les grandes études de cohortes et les revues systématiques <sup>1-18</sup> (Cf Tableau GRADE: complications peropératoires liées au tabac) indique que le tabagisme actif augmente d'environ 20% la mortalité hospitalière et de 40% les complications majeures postopératoires (infection profonde, pneumonie, intubation non prévue, embolie pulmonaire, ventilation>48h, AVC, coma>24h, arrêt cardiaque, infarctus du myocarde, transfusion>5U, sepsis, choc septique).
+
+Le tabagisme actif accroît toutes les complications spécifiques chirurgicales excepté pour la chirurgie ORL pour laquelle les maladies associées et reliées au tabagisme ne sont pas prises en compte dans les études disponibles.
+
+La qualité globale des preuves est haute pour l'analyse toutes chirurgies confondues et de très basse à haute pour l'analyse en fonction du type de chirurgie.
+
+L'ensemble des conséquences désirables de l'arrêt du tabagisme l'emporte donc clairement sur l'ensemble des conséquences indésirables.
+
+Par ailleurs, la période préopératoire est identifiée comme un moment où la motivation du fumeur pour arrêter son intoxication est élevée et constitue donc une opportunité très favorable pour l'accompagner dans cette démarche (« teachable moment ») <sup>19</sup>.
+
+#### ii. Rationnel de la RFE
+
+Les recommandations de la conférence d'experts 2005 conduite sous l'égide de l'Office Français de Prévention du Tabagisme (OFT) en association avec la SFAR et l'Association Française de Chirurgie ([http://sfar.org/wp-content/uploads/2015/10/2a\\_AFAR\\_Tabagisme-perioperatoire.pdf](http://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Tabagisme-perioperatoire.pdf)) préconisaient une attitude pro active des professionnels de santé vis à vis des patients pour l'arrêt du tabagisme. Néanmoins, ces recommandations restent mal connues et peu suivies en pratique clinique. Un des principaux écueils à l'appropriation de ces recommandations par les praticiens tient à la méthodologie employée et au nombre trop important des questions traitées. C'est pourquoi la SFAR, au travers de son Conseil d'Administration, a décidé en lien avec la SFT, le CNCT, la SOFCOT, le CNP de Chirurgie Plastique et le CNP de Chirurgie Thoracique et Cardio-vasculaire de réactualiser les recommandations produites en 2005 en saisissant le Comité des Référentiels Cliniques, afin de produire des recommandations simples, en nombre limité et plus facilement applicables pour les professionnels impliqués.
+
+#### iii. Objectifs de la RFE
+
+L'objectif de la présente RFE est d'éditioner des recommandations sur la prise en charge péri opératoire du sevrage du patient tabagique.
+
+#### iv. Recherche bibliographique et critères de sélection
+
+La recherche bibliographique a porté sur les publications référencées dans Medline® et Cochrane data base® depuis 10 ans excepté pour la question n°4. La sélection a privilégié les méta-analyses et revues systématiques et les grandes études de cohortes.
+
+#### v. Population et comparaisonsLes populations étudiées concernent l'adulte et l'enfant, étudiés séparément. Pour les adultes, les complications médicales et chirurgicales liées au tabagisme ont été analysées en fonction du type de chirurgie ainsi que l'efficacité des différentes stratégies de prise en charge spécifiques et de sevrage. Chez l'enfant, seul l'éviction tabagique a été étudiée.
+
+#### vi. Critères de jugement
+
+Pour chaque question, ont été défini a priori des critères de jugement classés par ordre d'importance (de crucial à non important).
+
+#### b. Méthode GRADE®
+
+La méthode de travail utilisée pour l'élaboration des recommandations est la méthode GRADE®. Cette méthode permet, après une analyse quantitative de la littérature, de déterminer séparément la qualité des preuves, et donc de donner une estimation de la confiance que l'on peut avoir de l'analyse quantitative et un niveau de recommandation. La qualité des preuves est répartie en quatre catégories :
+
+1. 1- Haute : les recherches futures ne changeront très probablement pas la confiance dans l'estimation de l'effet.
+2. 2- Modérée : les recherches futures changeront probablement la confiance dans l'estimation de l'effet et pourraient modifier l'estimation de l'effet lui-même.
+3. 3- Basse : les recherches futures auront très probablement un impact sur la confiance dans l'estimation de l'effet et modifieront probablement l'estimation de l'effet lui-même.
+4. 4- Très basse : l'estimation de l'effet est très incertaine.
+
+L'analyse de la qualité des preuves est réalisée pour chaque critère de jugement puis un niveau global de preuve est défini à partir de la qualité des preuves des critères cruciaux.
+
+La formulation finale des recommandations est toujours binaire : soit positive soit négative et soit forte soit faible :
+
+- Forte : Il est recommandé de faire ou ne pas faire (GRADE 1+ ou 1-)
+- Faible : Il est probablement recommandé de faire ou de ne pas faire (GRADE 2+ ou 2-)
+
+La force de la recommandation est déterminée en fonction de quatre facteurs clés et validée par les experts après un vote, en utilisant la méthode GRADE Grid.
+
+1. 1- Estimation de l'effet
+2. 2- Le niveau global de preuve : plus il est élevé, plus probablement la recommandation sera forte
+3. 3- La balance entre effets désirables et indésirables : plus celle-ci est favorable, plus probablement la recommandation sera forte
+4. 4- Les valeurs et les préférences : en cas d'incertitudes ou de grande variabilité, plus probablement la recommandation sera faible ; ces valeurs et préférences doivent être obtenues au mieux directement auprès des personnes concernées (patient, médecin, décisionnaire)
+5. 5- Coûts : plus les coûts ou l'utilisation des ressources sont élevés, plus probablement la recommandation sera faible.Après synthèse du travail des experts et application de la méthode GRADE, 4 recommandations, toutes fortes (Grade 1 +/-), ont été formalisées par le comité d'organisation.
+
+#### Références :
+
+- [1] Willigendael EM, Teijink JA, Bartelink M-LL, Peters RJ, Büller HR, Prins MH. Smoking and the patency of lower extremity bypass grafts: a meta-analysis. *J Vasc Surg* 2005;42:67–74.
+- [2] Neumayer L, Hosokawa P, Itani K, El-Tamer M, Henderson W, Khuri S. Multivariable Predictors of Postoperative Surgical Site Infection after General and Vascular Surgery: Results from the Patient Safety in Surgery Study. *J Am Coll Surg* 2007;204:11781187.
+- [3] Campbell D, Henderson W, Englesbe M, Hall B, O'Reilly M, Bratzler D, et al. Surgical site infection prevention: the importance of operative duration and blood transfusion--results of the first American College of Surgeons-National Surgical Quality Improvement Program Best Practices Initiative. *J Am Coll Surg* 2008;207:810–20.
+- [4] Turan A, Mascha EJ, Roberman D, Turner PL, You J, Kurz A, et al. Smoking and perioperative outcomes. *Anesthesiology* 2011;114:837–46.
+- [5] Hawn M, Houston T, Campagna E, Graham L, Singh J, Bishop M, et al. The Attributable Risk of Smoking on Surgical Complications. *Ann Surg* 2011;254:914–20.
+- [6] Jones R, Nyawo B, Jamieson S, Clark S. Current smoking predicts increased operative mortality and morbidity after cardiac surgery in the elderly. *Interact Cardiovasc Thorac Surg* 2011;12:449–53.
+- [7] Mason DP, Subramanian S, Nowicki ER, Grab JD, Murthy SC, Rice TW, et al. Impact of smoking cessation before resection of lung cancer: a Society of Thoracic Surgeons General Thoracic Surgery Database study. *Ann Thorac Surg* 2009;88:362–70; discussion 370–1.
+- [8] Mills E, Eyawo O, Lockhart I, Kelly S, Wu P, Ebbert J. Smoking cessation reduces postoperative complications: a systematic review and meta-analysis. *Am J Med* 2011;124:144154.e8.
+- [9] Sørensen L. Wound Healing and Infection in Surgery: The Clinical Impact of Smoking and Smoking Cessation: A Systematic Review and Meta-analysis. *Arch Surg* 2012;147:373–83.
+- [10] Lassig A, Yueh B, Joseph A. The effect of smoking on perioperative complications in head and neck oncologic surgery. *The Laryngoscope* 2012;122:1800–1808.
+- [11] Musallam K, Rosendaal F, Zaataari G, Soweid A, Hoballah J, Sfeir P, et al. Smoking and the Risk of Mortality and Vascular and Respiratory Events in Patients Undergoing Major Surgery. *JAMA Surgery* 2013.
+- [12] Saxena A, Shan L, Reid C, Dinh D, Smith J, Shardey G, et al. Impact of smoking status on early and late outcomes after isolated coronary artery bypass graft surgery. *J Cardiol* 2013;61.
+- [13] Grønkjær M, Eliassen M, Skov-Estrup LS, Tolstrup JS, Christiansen AH, Mikkelsen SS, et al. Preoperative smoking status and postoperative complications: a systematic review and meta-analysis. *Ann Surg* 2014;259:52–71.
+- [14] Selvarajah S, Black J, Malas M, Lum Y, Propper B, Abularrage C. Preoperative smoking is associated with early graft failure after infrainguinal bypass surgery. *J Vasc Surg* 2014;59:1308–14.
+- [15] Scolaro J, Schenker M, Yannascoli S, Baldwin K, Mehta S, Ahn J. Cigarette smoking increases complications following fracture: a systematic review. *J Bone Joint Surg Am* 2014;96:674–81.
+- [16] Pluvy, Panouillères, Garrido, Pauchot, Saboye, Chavoin, et al. Smoking and plastic surgery, part II. Clinical implications: a systematic review with meta-analysis. *Ann Chir Plast Esth* 2014;60:e15e49.
+- [17] Teng S, Yi C, Krettek C, Jagodzinski M. Smoking and risk of prosthesis-related complications after total hip arthroplasty: a meta-analysis of cohort studies. *PLoS ONE* 2015;10:e0125294.
+- [18] Imhoff L van, Kranenburg G, Macco S, Nijman N, Overbeeke E van, Wegner I, et al. The prognostic value of continued smoking on survival and recurrence rates in head and neck cancer patients: A systematic review. *Head Neck* 2015 doi: 10.1002/hed.24082.
+- [19] Shi, Warner. Surgery as a teachable moment for smoking cessation. *Anesthesiology* 2010; 112:102-7.## 1. Intérêt d'une prise en charge spécifique de l'arrêt du tabagisme préopératoire
+
+**PICO : Quels sont les effets des différentes stratégies d'arrêt du tabac proposées en période préopératoire?**
+
+**R1 – Nous recommandons d'offrir une prise en charge comportementale et la prescription d'une substitution nicotinique pour l'arrêt du tabac avant toute intervention chirurgicale programmée.**
+
+**GRADE 1+, ACCORD FORT**
+
+**Argumentaire :** Offrir une intervention comportementale intensive (consultation dédiée, suivi pendant 4 semaines, prescription de produits de substitution de la nicotine...) augmente par dix (RR 10,76 ; IC95% [4,55-25,46]) le taux de sevrage tabagique avant la chirurgie par rapport à "aucune intervention", diminue globalement les complications de 60% dans 2 essais randomisés contrôlés incluant 210 patients (RR 0,42 ; IC95% [0,27-0,65]) et augmente par 3 le taux de sevrage tabagique à un an (RR 2,96 ; IC95% [1,57-5,55]). La qualité des preuves est modérée due à l'imprécision des résultats <sup>20</sup> (Cf. Tableaux GRADE ; question n°1).
+
+Offrir une intervention comportementale brève (conseil d'arrêt sans suivi) augmente de 30% (RR 1,30 ; IC95% [1,16-1,46]) le taux de sevrage tabagique avant la chirurgie par rapport à "l'absence d'intervention", ne diminue pas globalement les complications (RR 0,92 ; IC95% [0,72 - 1,19]) mais double le taux de sevrage tabagique à 1 an (RR 2,29 ; IC95% [1,14-4,61]). La qualité des preuves est modérée due à l'imprécision des résultats <sup>20</sup>.
+
+Par ailleurs, les produits de substitution de la nicotine n'augmentent pas la douleur postopératoire ou la consommation d'opiacés dans un essai randomisé contrôlé de petite taille <sup>21</sup>.
+
+L'ensemble des conséquences désirables l'emporte clairement sur l'ensemble des conséquences indésirables.
+
+**Références :**
+
+[20] Thomsen T, Villebro N, Møller AM. Interventions for preoperative smoking cessation. Cochrane Database Syst Rev 2014;3:CD002294.
+
+[21] Turan A, White P, Koyuncu O, Karamanliodlu B, Kaya G, Apfel C. Transdermal Nicotine Patch Failed to Improve Postoperative Pain Management. Anesth Analg 2008;107:1011-7.
+
+## 2. Délai minimal efficace pour l'arrêt préopératoire du tabac
+
+**PICO : Quel est le délai minimal efficace pour l'arrêt préopératoire du tabac ?**
+
+**R2 – Nous recommandons systématiquement l'arrêt préopératoire du tabac indépendamment de la date d'intervention.**
+
+**GRADE 1+, ACCORD FORT**
+
+**Argumentaire :** L'analyse porte sur 21 publications principalement des études observationnelles rétrospectives <sup>22</sup>. La qualité globale des preuves est modérée en raison d'un biais d'évaluation entre non-fumeur et fumeur (déclaration simple sans vérification biologique).
+
+L'arrêt du tabac plus de 8 semaines avant l'intervention diminue de près de 50% les complications respiratoires (bronchospasme nécessitant un traitement, atélectasie nécessitant une bronchoscopie et / ou une ventilation assistée, infection pulmonaire, épanchement pleural, pneumothorax, empyème, embolie pulmonaire, syndrome de détresse respiratoire aiguë, insuffisance respiratoire ou arrêt, re-intubation et ventilation, trachéotomie, et haute concentration d'oxygène inspiré nécessaire pendant 24 h) par rapport au fumeur actif (RR 0,53 ; IC95% [0,37-0,76]). L'arrêt du tabac plus de 4 semaines avant l'intervention diminue de près de 25% les complications respiratoires par rapport au fumeur actif(RR 0,77 ; IC95% [0,61-0,96]). L'arrêt du tabac entre 2 et 4 semaines avant l'intervention ne diminue pas les complications respiratoires par rapport au fumeur actif (RR 1,14 ; IC95% [0,90-1,45] sans différence avec un arrêt de moins de 2 semaines (RR 1,04 ; IC95% [0,83-1,30]).
+
+En revanche, il n'existe pas d'effets délétères respiratoires d'un arrêt du tabac <2 semaines.
+
+Le bénéfice de l'arrêt du tabac sur les troubles de la cicatrisation est démontré après 3-4 semaines d'interruption du tabac (RR 0,69 ; IC95% [0,56-0,84]).
+
+Enfin, l'arrêt du tabac péri opératoire, quel que soit son délai par rapport à l'intervention permet d'augmenter la proportion d'arrêt définitif (Cf. question n°1).
+
+Au total, le bénéfice observée augmente proportionnellement avec la durée du sevrage et l'ensemble des conséquences désirables l'emporte clairement sur l'ensemble des conséquences indésirables (Cf. Tableaux GRADE ; question n°2).
+
+#### Références :
+
+[22] Wong J, Lam DP, Abrishami A, Chan MT, Chung F. Short-term preoperative smoking cessation and postoperative complications: a systematic review and meta-analysis. Can J Anaesth 2012;59:268–79.
+
+### 3. Rôle en consultation du chirurgien, de l'anesthésiste-réanimateur et des soignants face à un patient tabagique.
+
+**PICO : Dans le parcours de soin et face à un patient tabagique, quel est rôle du chirurgien et/ou de l'anesthésiste réanimateur et/ou des soignants ?**
+
+**R3 – Nous recommandons que tous les professionnels du parcours de soins (chirurgiens, anesthésistes-réanimateurs, soignants) informent les fumeurs des effets positifs de l'arrêt du tabac et leur proposent une prise en charge dédiée et un suivi personnalisé.**
+
+**GRADE 1+, ACCORD FORT**
+
+**Argumentaire :** L'analyse de 17 publications portant sur 13724 patients (Cf. Tableaux GRADE ; question n°3) démontre une augmentation de 60% de l'abstinence à 6 mois chez les patients recevant un conseil bref (entretien de moins de 20 minutes et pas plus d'une visite de suivi) par rapport à ceux n'en recevant pas (RR 1,66 ; IC95% [1,42-1,94]). Pour le même critère de jugement, un conseil intensif (entretien de plus de 20 minutes, plus d'une visite de suivi et utilisation de brochure) l'augmente de plus de 80% (RR 1,86 ; IC95% [1,60-2,15]) (11 études, 8515 patients). La comparaison directe entre conseil intensif et conseil bref est en faveur du conseil intensif (RR 1,37 ; IC95% [1,20-1,56]) (15 études, 9775 patients).
+
+La qualité globale des preuves est modérée du à un risque de biais important et au caractère indirecte des preuves (pas d'étude en contexte péri opératoire) <sup>23</sup>.
+
+Une étude récente portant sur le suivi de 3336 patients inclus dans un programme de dépistage du cancer du poumon démontre que l'assistance et le suivi du patient y compris par une Hotline dédiée semblent être des facteurs indépendant de l'arrêt du tabac (OR 1,40 ; IC95% [1,21-1,63] et OR 1,46 ; IC95% [1,19-1,79]) <sup>24</sup>.
+
+#### Références :
+
+[23] Stead L, Buitrago D, Preciado N, Sanchez G, Hartmann-Boyce J, Lancaster T. Physician advice for smoking cessation. The Cochrane Library 2013; Issue 5. Art. No.: CD000165. DOI: 10.1002/14651858.CD000165.pub4.
+
+[24] Park E, Gareen I, Japuntich S, Lennes I, Hyland K, DeMello S, et al. Primary Care Provider-Delivered Smoking Cessation Interventions and Smoking Cessation Among Participants in the National Lung Screening Trial. JAMA Internal Medicine 2015;175:1509.## 4. Impact du tabagisme passif chez l'enfant en période péri opératoire
+
+**PICO : Quel est l'impact du tabagisme passif chez l'enfant en période péri opératoire ?**
+
+**R4 – Nous recommandons l'arrêt du tabagisme parental ou l'éviction de l'enfant de tout environnement tabagique le plus en amont possible de l'intervention.**
+
+**GRADE 1+, ACCORD FORT**
+
+**Argumentaire :** L'analyse porte sur 8 publications incluant 11275 enfants, principalement des études observationnelles prospectives <sup>25-32</sup>. L'étude de Von Ungern-Sternberg de 2007 étudiant l'impact d'une infection récente des voies aériennes supérieures n'a pas été retenue.
+
+La qualité globale des preuves est modérée en raison d'une hétérogénéité modérée des résultats non expliquée (I<sup>2</sup>>50%).
+
+Le tabagisme passif chez l'enfant multiplie par deux (RR 2,02 ; IC95% [1,82-2,23]) le risque d'effets indésirables péri opératoires lors d'une anesthésie générale (toux, laryngospasme, bronchospasme et désaturation).
+
+Nous n'avons pas retrouvé d'études portant spécifiquement sur le délai nécessaire entre l'arrêt du tabac chez les parents et la réduction de la morbidité péri-opératoire chez l'enfant.
+
+L'ensemble des conséquences désirables l'emporte clairement sur l'ensemble des conséquences indésirables (Cf. Tableaux GRADE ; question n°4).
+
+### Références :
+
+- [25] Lakshmipathy N, Bokesch P, Cowan D, Lisman S, Schmid C. Environmental Tobacco Smoke: A Risk Factor for Pediatric Laryngospasm. *Anesth Analg* 1996;82:724-7.
+- [26] Lyons B, Frizelle H, Kirby F, Casey W. The effect of passive smoking on the incidence of airway complications in children undergoing general anaesthesia. *Anaesthesia* 1996;51:324-326.
+- [27] Skolnick ET, Vomvolakis MA, Buck KA, Mannino SF, Sun LS. Exposure to environmental tobacco smoke and the risk of adverse respiratory events in children receiving general anesthesia. *Anesthesiology* 1998;88:1144-53.
+- [28] Drongowski R, Lee D, Reynolds P, Malviya S, Harmon C, Geiger J, et al. Increased respiratory symptoms following surgery in children exposed to environmental tobacco smoke. *Pediatric Anesthesia* 2003;13:304-310.
+- [29] O'Rourke J, Kalish L, McDaniel S, Lyons R. The effects of exposure to environmental tobacco smoke on pulmonary function in children undergoing anesthesia for minor surgery. *Pediatric Anesthesia* 2006;16:560-567.
+- [30] Jones DT, Bhattacharyya N. Passive smoke exposure as a risk factor for airway complications during outpatient pediatric procedures. *Otolaryngol Head Neck Surg* 2006;135:12-6.
+- [31] Seyidov T, Elemen L, Solak M, Tugay M, Toker K. Passive smoke exposure is associated with perioperative adverse effects in children. *J Clin Anesth* 2011;23:4752.
+- [32] Ungern-Sternberg BS von, Boda K, Chambers NA, Rebmann C, Johnson C, Sly PD, et al. Risk assessment for respiratory complications in paediatric anaesthesia: a prospective cohort study. *Lancet* 2010;376:773-83.
+
+## 5. Cigarette électronique et tabagisme préopératoire
+
+**PICO : Quelles sont les conséquences et la place de la cigarette électronique dans la période péri opératoire ?**
+
+**PAS DE RECOMMENDATION FORMULEE PAR LES EXPERTS****Argumentaire :** L'analyse porte sur 3 essais randomisés contrôlés incluant 1246 patients <sup>33</sup> en dehors de tout contexte chirurgical. La cigarette électronique multiplie par 2 le taux d'arrêt du tabac (RR 2,29 ; IC95% [1,05-4,96]). La qualité des preuves est basse due à l'imprécision des résultats et au caractère indirecte des preuves. L'absence de différence entre l'effet de la cigarette électronique et les substituts nicotiniques (RR 1,26 ; IC95% [0,68-2,34]) mise en évidence dans un essai est incertaine pour les mêmes raisons (Cf. Tableaux GRADE ; question n°5).
+
+Par ailleurs, la Haute Autorité de Santé, suite au rapport sur la cigarette électronique du Public Health England a rendu un avis récent constatant que les données de la littérature sur l'efficacité et l'innocuité de la cigarette électronique sont encore insuffisantes pour la recommander dans le sevrage tabagique. ([http://www.has-sante.fr/portail/upload/docs/application/pdf/2015-11/a\\_2015\\_0100\\_reponse\\_courrier\\_dgs\\_actualsection\\_rbp\\_tabac.pdf](http://www.has-sante.fr/portail/upload/docs/application/pdf/2015-11/a_2015_0100_reponse_courrier_dgs_actualsection_rbp_tabac.pdf)).
+
+Le Public Health England précise dans son rapport du 15 Mai 2014 ([https://www.gov.uk/government/uploads/system/uploads/attachment\\_data/file/311887/Ecigarettes\\_report.pdf](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/311887/Ecigarettes_report.pdf)) :
+
+“Electronic cigarettes, and the various new generation nicotine devices in development, clearly have potential to reduce the prevalence of smoking in the UK. The challenges are to harness that potential, maximize the benefits, and minimize risks.”
+
+“The health risks of passive exposure to electronic cigarette vapor are therefore likely to be extremely low.”
+
+“Studies indicate that electronic cigarettes are moderately effective as smoking cessation and harm reduction aids, but that a significant component of that effect is due to the behavioral rather than nicotine delivery characteristics of the devices. However, most of the available evidence relates to early generation devices of unknown but Electronic cigarettes almost certainly low nicotine delivery. More recent and future devices may prove much more effective.”
+
+“Electronic cigarettes therefore increase smoking cessation to the extent that they draw in smokers who would not otherwise use a nicotine substitute in an attempt to quit, but reduce it to the extent that they take smokers away from Stop Smoking Services (SSS). The optimum solution for population health is to maximise both the use of electronic cigarettes among smokers, and the proportion of users who engage with SSS. This will require some changes to current SSS practice ”.
+
+“Electronic cigarettes, and other nicotine devices, therefore offer vast potential health benefits, but maximising those benefits while minimising harms and risks to society requires appropriate regulation, careful monitoring, and risk management. However the opportunity to harness this potential into public health policy, complementing existing comprehensive tobacco control policies, should not be missed.”
+
+Le NHS propose l'utilisation de la e-cigarette dans le cadre d'un programme d'arrêt du tabac:
+
+<http://www.nhs.uk/Livewell/smoking/Pages/e-cigarettes.aspx>
+
+<http://www.nhs.uk/smokefree/help-and-advice/e-cigarettes#74wkZypu4vHDkgyW.97>
+
+Enfin, le Haut Conseil de la Santé Publique a actualisé son avis sur le rapport bénéfices-risques de la cigarette électronique pour la population générale le 26/02/2016
+
+(<http://www.hcsp.fr/Explore.cgi/avisrapportsdomaine?clefr=541>). Des travaux du HCSP, il ressort que la cigarette électronique :
+
+- - peut être considérée comme une aide pour arrêter ou réduire la consommation de tabac des fumeurs ;
+- - pourrait constituer une porte d'entrée dans le tabagisme ;
+- - induit un risque de renormalisation de la consommation de tabac compte tenu de l'image positive véhiculée par son marketing et sa visibilité dans les espaces publics.
+
+Le HCSP recommande :
+
+- - d'informer, sans en faire publicité, les professionnels de santé et les fumeurs que la cigarette électronique est une aide à l'arrêt du tabac et un mode de réduction des risques du tabac en usage exclusif.
+- - de maintenir les modalités d'interdictions de vente et de publicité prévues par la loi et d'étendre l'interdiction d'utilisation à tous les lieux affectés à un usage collectif.
+
+Le HCSP invite :
+
+- - au renforcement du dispositif observationnel du tabagisme, à la réalisation d'études épidémiologiques et cliniques robustes sur la cigarette électronique, ainsi qu'au lancement de recherches en sciences humaines et sociales sur cette question ;
+- - à clarifier le statut de la cigarette électronique et des flacons de recharge ;
+- - à poursuivre les efforts de labellisations et de marquages pour informer les consommateurs et assurer leur sécurité ;- - à engager une réflexion sur la création d'une cigarette électronique « médicalisée ».
+
+La balance bénéfices-risques est donc selon les avis soit incertaine soit probablement favorable. Ces avis divergeant pourraient être dus à une différence « culturelle » d'approche des britanniques <sup>34</sup>.
+
+Nous avons donc soumis au vote 2 propositions :
+
+- - La première considérant que la balance est incertaine et qu'il faut s'abstenir : « L'état actuel des connaissances ne permet pas de faire de recommandation concernant l'usage de la cigarette électronique dans le cadre du sevrage tabagique péri opératoire ».
+- - La deuxième faible considérant que la balance est probablement favorable dans le contexte péri opératoire : « Nous suggérons de ne pas décourager l'usage de la cigarette électronique avant une chirurgie programmée chez les patients l'utilisant déjà dans le cadre d'un sevrage tabagique en cours et chez ceux refusant l'utilisation des autres substituts nicotiniques ».
+
+Le résultat des votes des experts démontra une grande dispersion des avis sur la première proposition et des avis très divergents pour la deuxième (Cf. Tableaux GRADE ; question n°5).
+
+Les règles de la méthode GRADE® précisent que pour faire une recommandation, au moins 50% des participants doivent avoir une opinion en faveur et moins de 20% préfèrent la proposition contraire.
+
+Dès lors, aucune recommandation n'a pu être formulée sur cette question.
+
+#### Références :
+
+- [33] McRobbie H, Bullen C, Hartmann-Boyce J, Hajek P. Electronic cigarettes for smoking cessation and reduction. Cochrane Database of Systematic Reviews 2014, Issue 12. Art No.: CD010216. DOI: 10.1002/14651858.CD010216.pub2.
+- [34] Green SH, Bayer R, Fairchild AL. Evidence, Policy, and E-Cigarettes — Will England Reframe the Debate? N Engl J Med 2016;374:1301-1303
+
+#### Conflits d'intérêt
+
+Hervé Bouaziz, Benoit Chaput, Bertrand Dureuil, Béatrice Le Maître, Yves Martinet, Alain Charles Masquelet, Sébastien Pierre, Caroline Rivera, Anne Marie Ruppert, Jacques Saboye, Alain Sautet, Jean Jacques Tournier et Nathalie Wirth déclarent n'avoir aucun conflit d'intérêt en lien direct avec le sujet de ce travail.## Tableaux GRADE
+
+### Complications peropératoires liées au tabac
+
+Bibliographie : Grønkjær 2014, Turan 2011, Mussalam 2013, Neumayer 2007, Campbell 2008, Hawn 2011, Sorensen 2012, Al-Sarraf 2008, Jones 2011, Saxena 2013, Mason 2009, Willigendael 2005, Selvarajah 2014, Scolaro 2014, Teng 2015, Lassig 2012, Imhoff 2015, Pluy 2014
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications médicales</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Mortalité à 30 jours</b></td>
+</tr>
+<tr>
+<td>2 +14<br/>(Turan 2011,<br/><br/>Mussalam 2013)<br/><br/>(Grønkjær 2014)</td>
+<td>Etude de Cohorte<br/><br/>Méta analyse</td>
+<td>Faible<br/><br/>Important [1, 2]</td>
+<td>Faible<br/><br/>Faible</td>
+<td>Non<br/><br/>Non</td>
+<td>Faible<br/><br/>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account<br/><br/>Confounding and mediator variables took into account</td>
+<td>?/82304<br/><br/>6194/403<br/>603</td>
+<td><br/><br/>1636/78<br/>763</td>
+<td>?/82304<br/><br/>2200/125<br/>192</td>
+<td>OR : 1.18 (IC 95% : 0.94-1.48)<br/>Fumeur vs Non fumeur<br/><br/>OR : 0.91 (IC 95% : 0.85-0.97) Ancien fumeur vs Non fumeur<br/>OR : 1.17 (IC 95% : 1.10-1.24)<br/>Fumeur vs Non fumeur<br/><br/>RR : 1.13 (IC 95% : 0.98-1.31)<br/>Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕⊕<br/>HAUTE<br/><br/>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications cardiovasculaires</b></td>
+</tr>
+<tr>
+<td>10<br/>(Grønkjær 2014)</td>
+<td>Méta analyse</td>
+<td>Important [1, 2]</td>
+<td>Important [7]</td>
+<td>Non</td>
+<td>Important</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RR : 1.07 (IC 95% : 0.78-1.45) Fumeur vs Non fumeur</td>
+<td>⊕ ○ ○ ○<br/>TRES BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Infarctus du myocarde</b></td>
+</tr>
+<tr>
+<td>2<br/>(Turán 2011,<br/>Mussalam 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis<br/>Confounding and mediator variables took into account<br/><br/>Confounding and mediator variables took into account</td>
+<td>?/82304<br/><br/>1039/403<br/>603</td>
+<td><br/><br/>425/78<br/>763</td>
+<td>?/82304<br/><br/>503/125<br/>192</td>
+<td>OR : 1.66 (IC 95% : 1.00-2.77) Fumeur vs Non fumeur<br/><br/>OR : 1.28 (IC 95% : 1.14-1.44) Ancien fumeur vs Non fumeur<br/>OR : 1.77 (IC 95% : 1.57-1.99) Fumeur vs Non fumeur</td>
+<td>⊕ ⊕ ⊕ ⊕<br/>HAUTE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications neurologiques</b></td>
+</tr>
+<tr>
+<td>5<br/>(Grønkjær 2014)</td>
+<td>Meta analyse</td>
+<td>Important [2, 8]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important [4]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RR : 1.38 (IC 95% : 1.01-1.88) Fumeur vs Non fumeur</td>
+<td>⊕⊕ ○ ○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Accident Vasculaire Cérébral</b></td>
+</tr>
+<tr>
+<td>2<br/>(Turán 2011,<br/>Mussalam 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account<br/><br/>Confounding and mediator variables took into account</td>
+<td>?/82304<br/><br/>907/403<br/>603</td>
+<td>289/78<br/>763</td>
+<td>?/82304<br/><br/>416/125<br/>192</td>
+<td>OR : 1.60 (IC 95% : 1.08-2.39) Fumeur vs Non fumeur<br/><br/>OR : 1.10 (IC 95% : 0.96-1.26) Ancien fumeur vs Non fumeur<br/>OR : 1.55 (IC 95% : 1.36-1.76) Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications pulmonaires</b></td>
+</tr>
+<tr>
+<td>16<br/>(Grønkjær 2014)</td>
+<td>Meta analyse</td>
+<td>Important [2.8]</td>
+<td>Important [7]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RR : 1.73 (IC 95% : 1.35-2.23) Fumeur vs Non fumeur</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Pneumonie</b></td>
+</tr>
+<tr>
+<td>2<br/>(Turán 2011,<br/>Mussalam 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account<br/><br/>Confounding and mediator variables took into account</td>
+<td>?/82304<br/><br/>4826/403<br/>603</td>
+<td>1605/78<br/>763</td>
+<td>?/82304<br/><br/>2572/125<br/>192</td>
+<td>OR : 1.77 (IC 95% : 1.52-2.08) Fumeur vs Non fumeur<br/><br/>OR : 1.16 (IC 95% : 1.09-1.23) Ancien fumeur vs Non fumeur<br/>OR : 1.50 (IC 95% : 1.43-1.59) Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Morbidités majeures (Infection profonde, pneumonie, intubation non prévue, embolie pulmonaire, ventilation&gt;48h, AVC, Coma&gt;24h, arrêt cardiaque, Infarctus du myocarde, Transfusion&gt;5U, sepsis, choc septique)</b></td>
+</tr>
+<tr>
+<td>1<br/>(Mussalam 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account</td>
+<td>82304</td>
+<td>82304</td>
+<td></td>
+<td>OR : 1.40 (IC 95% : 1.33-1.47)</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Morbidités mineures (Infection du site opératoire, évémentation, insuffisance rénale, infection urinaire, TVP)</b></td>
+</tr>
+<tr>
+<td>1<br/>(Mussalam 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account</td>
+<td>82304</td>
+<td>82304</td>
+<td></td>
+<td>OR : 1.22 (IC 95% : 1.17-1.28)</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td colspan="13"><b>Admission aux soins intensifs</b></td>
+</tr>
+<tr>
+<td>5<br/>(Grønkjær 2014)</td>
+<td>Meta analyse</td>
+<td>Important [2.8]</td>
+<td>Important [7]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RR : 1.60 (IC 95% : 1.14-2.25) Fumeur vs Non fumeur</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications chirurgicales</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Infection de site opératoire</b></td>
+</tr>
+<tr>
+<td>1<br/>(Neumayer 2007)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Analyse multivariée</td>
+<td colspan="3">163 624</td>
+<td>OR : 1.22 (IC 95% : 1.14-1.32) Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>1<br/>(Campbell 2008)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Analyse multivariée</td>
+<td colspan="3">113 891</td>
+<td>OR : 1.25 (IC 95% : 1.18-1.33) Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>1<br/>(Hawn 2011)</td>
+<td>Etude de Cohorte</td>
+<td>Important [1]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Analyse ajustée pour l'âge, type de chirurgie, ASA, race, date</td>
+<td>4479/186<br/>632</td>
+<td>2285/71<br/>421</td>
+<td>4615/135<br/>741</td>
+<td>OR : 1.11 (IC 95% : 1.05-1.17) Ancien fumeur vs Non fumeur<br/>OR : 1.18 (IC 95% : 1.13-1.24) Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>1<br/>(Turan 2011)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Sensitivity analysis Confounding and mediator variables took into account</td>
+<td>?/82304</td>
+<td></td>
+<td>?/82304</td>
+<td>OR : 1.29 (IC 95% : 1.18-1.40) Fumeur vs Non fumeur<br/>Infection superficielle</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>32<br/>(Sorensen 2012)</td>
+<td>Méta analyse d'études de cohorte</td>
+<td>Très Important [1,2]</td>
+<td>Important [3]</td>
+<td>Non</td>
+<td>Faible</td>
+<td>non</td>
+<td colspan="3">408 428 (au total)</td>
+<td>OR : 1.79 (IC 95% : 1.57-2.04) Fumeur vs Non fumeur</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td colspan="13"><b>Trouble de la cicatrisation (y compris lâchage de suture)</b></td>
+</tr>
+<tr>
+<td>48<br/>(Grønkjær 2014)</td>
+<td>Meta analyse</td>
+<td>Important [2,8]</td>
+<td>Important [7]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>RR : 2.15 (IC 95% : 1.87-2.49) Fumeur vs Non fumeur</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>18<br/>(Sorensen 2012)</td>
+<td>Méta analyse d'études de cohorte</td>
+<td>Très Important [1,2]</td>
+<td>Important [3]</td>
+<td>Non</td>
+<td>Faible</td>
+<td>non</td>
+<td colspan="3">26 297</td>
+<td>OR : 2.07 (IC 95% : 1.53-2.81) Fumeur vs Non fumeur</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications chirurgicales par type de chirurgie</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Chirurgie cardiaque</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Mortalité périopératoire ou à 30 jours</b></td>
+</tr>
+<tr>
+<td>3<br/>(Al-Sarraf 2008,<br/><br/>Jones 2011,<br/><br/>Saxena 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Important [4]</td>
+<td>Analyse multivariée</td>
+<td>26/748<br/><br/>13/554<br/><br/>7023</td>
+<td>29/1346<br/><br/><br/>11183</td>
+<td>14/473<br/><br/>24/554<br/><br/>3290</td>
+<td>OR : 0.84 (IC 95% : 0.44–1.63) Ancien fumeur vs Non fumeur<br/>OR : 0.60 (IC 95% : 0.35–1.03) Fumeur vs Non fumeur<br/><br/>OR : 1.88 (IC 95% : 0.95–3.74) Fumeur vs Non fumeur<br/><br/>OR : 0.98 (IC 95% : 0.74–1.29) Ancien fumeur vs Non fumeur<br/>OR : 1.05 (IC 95% : 0.76–1.44) Fumeur vs Non fumeur</td>
+<td><br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Pneumonie</b></td>
+</tr>
+<tr>
+<td>3<br/>(Al-Sarraf 2008,<br/><br/>Jones 2011,<br/><br/>Saxena 2013)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Analyse multivariée</td>
+<td>36/748<br/><br/>37/554<br/><br/>7023</td>
+<td>62/1346<br/><br/><br/>11183</td>
+<td>143/473<br/><br/>60/554<br/><br/>3290</td>
+<td>OR : 1.22 (IC 95% : 0.98–1.52) Ancien fumeur vs Non fumeur<br/>OR : 1.73 (IC 95% : 1.33–2.26) Fumeur vs Non fumeur<br/><br/>OR : 1.7 (IC 95% : 1.11–2.6) Fumeur vs Non fumeur<br/><br/>OR : 1.26 (IC 95% : 1.06–1.50) Ancien fumeur vs Non fumeur<br/>OR : 2.05 (IC 95% : 1.66–2.54) Fumeur vs Non fumeur</td>
+<td><br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Chirurgie thoracique</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Mortalité hospitalière</b></td>
+</tr>
+<tr>
+<td>1<br/>(Mason 2009)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Très Important [4, 5]</td>
+<td>Analyse multivariée Sensivity analysis</td>
+<td>4/1025</td>
+<td>7/404 (14j-1 mois)</td>
+<td>24/1590</td>
+<td>OR : 4.6 (IC 95% : 1.2-18) Ancien fumeur vs Non fumeur<br/>OR : 3.5 (IC 95% : 1.1-11) Fumeur vs Non fumeur</td>
+<td>⊕○○<br/>TRES BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Complications pulmonaires (pneumonie, trachéostomie, ventilation &gt;48h, réintubation, atélectasie, SDR)</b></td>
+</tr>
+<tr>
+<td>1<br/>(Mason 2009)</td>
+<td>Etude de Cohorte</td>
+<td>Faible</td>
+<td>NA</td>
+<td>Non</td>
+<td>Important [4]</td>
+<td>Analyse multivariée Sensivity analysis</td>
+<td>27/1024</td>
+<td>319/5351</td>
+<td>110/1590</td>
+<td>OR : NS<br/>Ancien fumeur vs Non fumeur<br/>OR : 1.8 (IC 95% : 1.05-3.1) Fumeur vs Non fumeur</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="13">Chirurgie vasculaire intra inguinale</th>
+</tr>
+<tr>
+<th colspan="13">Permeabilité du pontage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17<br/>(Willigendael<br/>2005)</td>
+<td>Meta analyse</td>
+<td>Important<br/>[6]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Non</td>
+<td></td>
+<td>366/1163</td>
+<td></td>
+<td>771/1629</td>
+<td>OR : 2.35 (IC 95% : 1.98–2.78)<br/>Fumeur vs Non fumeur</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>1<br/>(Selvarajah<br/>2014)</td>
+<td>Etude de<br/>Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important<br/>[4]</td>
+<td>Analyse multivariée</td>
+<td>470/9920</td>
+<td></td>
+<td>353/6614</td>
+<td>OR : 1.21 (IC 95% : 1.02–1.43)<br/>Fumeur vs Non fumeur</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Chirurgie orthopédique</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Consolidation osseuse (os longs)</b></td>
+</tr>
+<tr>
+<td>10<br/>(Scolaro 2014)</td>
+<td>Essai randomisé et études rétrospectives</td>
+<td>Important [1, 6]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Non</td>
+<td>106/581</td>
+<td></td>
+<td>150/478</td>
+<td>OR : 2.15 (IC 95% : 1.58-2.9)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Délai de consolidation osseuse (os longs)</b></td>
+</tr>
+<tr>
+<td>8<br/>(Scolaro 2014)</td>
+<td>Essai randomisé et études rétrospectives</td>
+<td>Important [1, 6]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important [4]</td>
+<td>Non</td>
+<td>24.1<br/>(IC 95% : 17.3-30.9)</td>
+<td></td>
+<td>30.2<br/>(IC 95% : 22.7-37.7)</td>
+<td>NS</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td colspan="13"><b>Descellement (PTH)</b></td>
+</tr>
+<tr>
+<td>3<br/>(Teng 2015)</td>
+<td>Etudes de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important [5]</td>
+<td>Non</td>
+<td>10/607</td>
+<td></td>
+<td>17/397</td>
+<td>RR : 3.05 (IC 95% : 1.42-6.58)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Infection profonde (PTH)</b></td>
+</tr>
+<tr>
+<td>4<br/>(Teng 2015)</td>
+<td>Etudes de Cohorte</td>
+<td>Faible</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Non</td>
+<td>12/1524</td>
+<td></td>
+<td>30/1247</td>
+<td>RR : 3.71 (IC 95% : 1.86-7.41)</td>
+<td>⊕⊕⊕⊕<br/>HAUTE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Durée d'hospitalisation (PTH)</b></td>
+</tr>
+<tr>
+<td>3<br/>(Teng 2015)</td>
+<td>Etudes de Cohorte</td>
+<td>Faible</td>
+<td>Très important [7]</td>
+<td>Non</td>
+<td>Faible</td>
+<td>Non</td>
+<td>2308</td>
+<td></td>
+<td>2910</td>
+<td>MD : 0.03 (IC 95% : -0.65-0.72)</td>
+<td>⊕⊕○○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Chirurgie ORL</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Complications chirurgicales (Wound healing)</b></td>
+</tr>
+<tr>
+<td>8<br/>Lassig 2012</td>
+<td>Revue systématique</td>
+<td>Très important [8]</td>
+<td>NA</td>
+<td>Non</td>
+<td>NA</td>
+<td>Non</td>
+<td>NA</td>
+<td></td>
+<td>NA</td>
+<td>NS</td>
+<td>
+<br/>
+          TRES BASSE
+        </td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Survie</b></td>
+</tr>
+<tr>
+<td>3<br/>Imhoff 2015</td>
+<td>Revue systématique</td>
+<td>Très important [9]</td>
+<td>NA</td>
+<td>Oui [10]</td>
+<td>NA</td>
+<td>Non</td>
+<td></td>
+<td>1110</td>
+<td></td>
+<td>RD : 21% (IC 95% : 6-31) à 35% (IC 95% : 27-43)</td>
+<td>
+<br/>
+          TRES BASSE
+        </td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Récurrence</b></td>
+</tr>
+<tr>
+<td>5<br/>Imhoff 2015</td>
+<td>Revue systématique</td>
+<td>Très important [9]</td>
+<td>NA</td>
+<td>Oui [10]</td>
+<td>NA</td>
+<td>Non</td>
+<td></td>
+<td>1110</td>
+<td></td>
+<td>RD : -1% (IC 95% : -21 à +19) à -30% (IC 95% : -55 à -5)</td>
+<td>
+<br/>
+          TRES BASSE
+        </td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Chirurgie Plastique</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Infections de site opératoire</b></td>
+</tr>
+<tr>
+<td>6<br/>Pluvy 2014</td>
+<td>Etudes de cohorte</td>
+<td>Important [11]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important [12]</td>
+<td>Non</td>
+<td>693</td>
+<td></td>
+<td>323</td>
+<td>OR : 2.31 (IC 95% : 1.51-3.54)</td>
+<td>
+<br/>
+          Basse
+        </td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td colspan="13"><b>Retard de cicatrisation</b></td>
+</tr>
+<tr>
+<td>3<br/>Pluvy 2014</td>
+<td>Etudes de cohorte</td>
+<td>Important [11]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Important [12]</td>
+<td>Non</td>
+<td>419</td>
+<td></td>
+<td>120</td>
+<td>OR : 2.47 (IC 95% : 1.49-4.08)</td>
+<td>
+<br/>
+          BASSE
+        </td>
+<td>IMPORTANT</td>
+</tr>
+</tbody>
+</table>
+
+1. 1. Facteurs confondant et médiateur non pris en compte, data manquantes non reportées
+2. 2. Définitions des critères de jugement différentes, suivis des patients après la sortie inadéquates
+3. 3. Il faut interpréter avec prudence (IC très étroits)
+4. 4. IC larges
+5. 5. Faible taux d'événement/effectif
+6. 6. Follow up différent, pas de data sur les données manquantes, questionnaires de suivi1. 7.  $I > 50\%$
+2. 8. Faibles effectifs, critères de jugement différents, biais de suivi
+3. 9. Perdu de vue, définition
+4. 10. Post chirurgie ou chimio ou radiothérapie
+5. 11. Suivi, perdu de vue
+6. 12. Peu d'études, faible taux d'évènement## Question 1 : Quels sont les effets des différentes stratégies d'arrêt du tabac proposées en période préopératoire?
+
+**Bibliographie :** Thomsen T, Villebro N, Møller AM. Interventions for preoperative smoking cessation. Cochrane Database of Systematic Reviews 2014, Issue 3. Art. No.: CD002294. Mishriky BM, Habib AS. Nicotine for Postoperative Analgesia: A Systematic Review and Meta-Analysis. Anesth&Analg 2014, 119:2 p 268-275. Lee S, Landry J, Buhmann O. Long-term quit rate after a perioperative smoking cessation randomized trial. Anesth&Analg 2015, 120 p 582-7
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Quality assessment</th>
+<th colspan="2">Nº of patients</th>
+<th colspan="2">Effect</th>
+<th rowspan="2">Quality</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>Nº of studies</th>
+<th>Study design</th>
+<th>Risk of bias</th>
+<th>Inconsistency</th>
+<th>Indirectness</th>
+<th>Imprecision</th>
+<th>Other considerations</th>
+<th>Behavioural intervention</th>
+<th>control</th>
+<th>Relative (95% CI)</th>
+<th>Absolute (95% CI)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13">Smoking cessation at time of surgery - Intensive behavioural intervention (multiple contacts, initiated at least 4 weeks before surgery) (follow up: range 0 to 4 weeks)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious [1]</td>
+<td>none</td>
+<td>55/104 (52.9%)</td>
+<td>5/106 (4.7%)</td>
+<td><b>RR 10.76</b><br/>(4.55 to 25.46)</td>
+<td>460 more per 1000 (from 167 more to 1154 more)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Smoking cessation at time of surgery - Brief behavioural intervention (follow up: range 0-4 weeks)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>serious [2]</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>none</td>
+<td>307/615 (49.9%)</td>
+<td>202/526 (38.4%)</td>
+<td><b>RR 1.30</b><br/>(1.16 to 1.46)</td>
+<td>115 more per 1000 (from 61 more to 177 more)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Postoperative morbidity: Any complication - Intensive behavioural intervention</td>
+</tr>
+<tr>
+<td>2</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious [1]</td>
+<td>none</td>
+<td>20/104 (19.2%)</td>
+<td>49/106 (46.2%)</td>
+<td><b>RR 0.42</b><br/>(0.27 to 0.65)</td>
+<td>268 fewer per 1000 (from 162 fewer to 337 fewer)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Postoperative morbidity: Any complication - Brief behavioural intervention</td>
+</tr>
+<tr>
+<td>4</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious [3]</td>
+<td>none</td>
+<td>63/269 (23.4%)</td>
+<td>69/224 (30.8%)</td>
+<td><b>RR 0.92</b><br/>(0.72 to 1.19)</td>
+<td>25 fewer per 1000 (from 59 more to 86 fewer)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Long term smoking cessation (12-month follow up) - Intensive behavioural intervention</td>
+</tr>
+<tr>
+<td>2</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious [1]</td>
+<td>none</td>
+<td>31/104 (28.1%)</td>
+<td>11/105 (10.4%)</td>
+<td><b>RR 2.96</b><br/>(1.57 to 5.55)</td>
+<td>205 more per 1000 (from 60 more to 477 more)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Long term smoking cessation (12-month follow up) - Brief behavioural intervention</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Randomised trial</td>
+<td>Not serious</td>
+<td>Not serious</td>
+<td>Not serious</td>
+<td>Serious [1]</td>
+<td>Ratner 2004 excluded (&gt;20% loss to follow up)</td>
+<td>24/122 (19.7%)</td>
+<td>10/118 (8.5%)</td>
+<td><b>RR 2.29</b><br/>(1.14 to 4.61)</td>
+<td>58 more per 1000 (from 10 fewer to 159 more)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Postoperative pain - Nicotine replacement therapy versus placebo (follow up: mean 5 days; assessed with: NRS)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>very serious [4]</td>
+<td>none</td>
+<td>20</td>
+<td>8</td>
+<td>no significant difference in pain reported during the first 5 days after surgery and opioids use between groups</td>
+<td></td>
+<td>⊕⊕○<br/>LOW</td>
+<td>IMPORTANT</td>
+</tr>
+</tbody>
+</table>
+
+MD – mean difference, RR – relative risk1. 1. Imprecise estimate based on moderate sized studies
+2. 2. Partly explained heterogeneity.  $I^2 > 50\%$
+3. 3. Imprecise estimate based on 4 moderate sized studies
+4. 4. Small study## Question 2 : Quel est le délai minimal efficace pour l'arrêt préopératoire du tabac ?
+
+Bibliographie : Wong, J., Lam, D. P., Abrishami, A., Chan, M. T. & Chung, F. Short-term preoperative smoking cessation and postoperative complications: a systematic review and meta-analysis. Can J Anaesth 59, 268–79 (2012).
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="3">N° de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>N° d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Ancien Fumeur</th>
+<th>Fumeur</th>
+<th>Odd Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13"><b>Complications médicales</b></td>
+</tr>
+<tr>
+<td colspan="13"><b>Complications respiratoires postopératoires</b></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>&gt;8 sem<br/>126/772</td>
+<td>189/654</td>
+<td>RR : 0.53 (IC 95% : 0.37-0.76)</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>&gt;8 sem<br/>126/772</td>
+<td>&lt;8 sem<br/>183/537</td>
+<td>RR : 0.47 (IC 95% : 0.29-0.74)</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td>338/1691</td>
+<td>&lt;3-4 sem<br/>152/426</td>
+<td></td>
+<td>OR : 1.64 (IC 95% : 1.40-1.94) &lt;3-4 sem vs Non fumeur</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>&gt;4 sem<br/>528/2987</td>
+<td>427/2672</td>
+<td>RR : 0.77 (IC 95% : 0.61-0.96)</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>&gt;4 sem<br/>488/2871</td>
+<td>&lt;4 sem<br/>390/2721</td>
+<td>RR : 0.65 (IC 95% : 0.46-0.93)</td>
+<td>⊕⊕○<br/>BASSE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>2-4 sem<br/>59/459</td>
+<td>186/1751</td>
+<td>RR : 1.14 (IC 95% : 0.90-1.45)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tbody>
+<tr>
+<td>3</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>2-4 sem<br/>59/459</td>
+<td>&lt;2 sem<br/>174/1711</td>
+<td>RR : 1.04 (IC 95% : 0.83-1.30)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+<tr>
+<td colspan="13"><b>Trouble de la cicatrisation</b></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Faible</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td></td>
+<td>&gt;3-4 sem<br/>80/323</td>
+<td>93/426</td>
+<td>RR : 0.69 (IC 95% : 0.56-0.84)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Important [3]</td>
+<td></td>
+<td>395/2694</td>
+<td>&gt;3-4 sem<br/>168/882</td>
+<td></td>
+<td>RR : 1.44 (IC 95% : 0.97-2.15) &lt;3-4 sem vs non fumeur</td>
+<td>⊕○○○<br/>TRES BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Observationnel</td>
+<td>Important [1]</td>
+<td>Important [2]</td>
+<td>Non</td>
+<td>Important [3]</td>
+<td></td>
+<td></td>
+<td>&lt;3-4 sem<br/>45/147</td>
+<td>93/477</td>
+<td>RR : 1.22 (IC 95% : 0.56-2.67) &lt;3-4 sem vs fumeur</td>
+<td>⊕○○○<br/>TRES BASSE</td>
+<td>IMPORTANT</td>
+</tr>
+<tr>
+<td colspan="13"><b>Long term smoking cessation (12-month follow up) - Intensive behavioural intervention</b></td>
+</tr>
+<tr>
+<td>2</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td></td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious <sup>1</sup></td>
+<td>none</td>
+<td>31/104<br/>(28.1%)</td>
+<td>11/105<br/>(10.4%)</td>
+<td><b>RR 2.96</b><br/>(1.57 to 5.55)</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+</tbody>
+</table>
+
+1. 1. Biases d'évaluation (retrospective, par déclaration)
+2. 2. I>50%
+3. 3. IC larges**Question 3: En consultation et face à un patient tabagique, quel est rôle du chirurgien et/ou de l'anesthésiste réanimateur?**
+
+**Bibliography:** Stead LF , Buitrago D, Preciado N, Sanchez G, Hartmann-Boyce J, Lancaster T. Physician advice for smoking cessation. Cochrane Database of Systematic Reviews 2013, Issue 5. Art. No.: CD000165. DOI: 10.1002/14651858.CD000165.pub4.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Quality assessment</th>
+<th colspan="2">No of patients</th>
+<th colspan="2">Effect</th>
+<th rowspan="2">Quality</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>No of studies</th>
+<th>Study design</th>
+<th>Risk of bias</th>
+<th>Inconsistency</th>
+<th>Indirectness</th>
+<th>Imprecision</th>
+<th>Other considerations</th>
+<th>intensive advice</th>
+<th>no advice</th>
+<th>Relative (95% CI)</th>
+<th>Absolute (95% CI)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13">Brief advices compared to no advice for smoking cessation</td>
+</tr>
+<tr>
+<td colspan="13">abstinence (follow up: mean 6 months)</td>
+</tr>
+<tr>
+<td>17</td>
+<td>randomised trials</td>
+<td>serious <sup>1</sup></td>
+<td>not serious</td>
+<td>serious <sup>2</sup></td>
+<td>not serious</td>
+<td>none</td>
+<td>455/7913 (5.8% )</td>
+<td>216/5811 (3.7% )</td>
+<td><b>RR 1.66</b><br/>(1.42 to 1.94)</td>
+<td><b>25 more per 1000</b><br/>(from 16 more to 35 more)</td>
+<td>⊕⊕○○<br/>LOW</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Intensive advice compared to no advice for smoking cessation</td>
+</tr>
+<tr>
+<td colspan="13">Abstinence (follow up: mean 6 months)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>randomised trials</td>
+<td>serious <sup>1</sup></td>
+<td>not serious</td>
+<td>serious <sup>2</sup></td>
+<td>not serious</td>
+<td>none</td>
+<td>553/4670 (11.8% )</td>
+<td>246/3845 (6.4% )</td>
+<td><b>RR 1.86</b><br/>(1.60 to 2.15)</td>
+<td><b>55 more per 1000</b><br/>(from 38 more to 74 more)</td>
+<td>⊕⊕○○<br/>LOW</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Intensive advise compared to brief advice for smoking cessation</td>
+</tr>
+<tr>
+<td colspan="13">Abstinence (follow up: mean 6 months)</td>
+</tr>
+<tr>
+<td>15</td>
+<td>randomised trials</td>
+<td>serious <sup>1</sup></td>
+<td>not serious</td>
+<td>serious <sup>2</sup></td>
+<td>not serious</td>
+<td>none</td>
+<td></td>
+<td></td>
+<td><b>RR 1.37</b><br/>(1.20 to 1.56)</td>
+<td><b>1 fewer per 1000</b><br/>(from 1 fewer to 2 fewer)</td>
+<td>⊕⊕○○<br/>LOW</td>
+<td>CRITICAL</td>
+</tr>
+</tbody>
+</table>
+
+MD – mean difference, RR – relative risk
+
+1. 1. No blinding
+2. 2. primary care**Question 4: Quel est l'impact du tabagisme passif chez l'enfant en période péri opératoire?**
+
+Bibliographie : Lakshmipathy 1996, Lyons 1996, Skolnick 1998, Drongowski 2003, O'Rourke 20006, Jones 2006, Von Ungem-Sternberg 2010, Seyidov 2011
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Qualités des preuves</th>
+<th colspan="2">Nº de patients</th>
+<th>Effet</th>
+<th rowspan="2">Qualité des preuves</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>Nº d'études</th>
+<th>Design</th>
+<th>Risque de biais</th>
+<th>Inconsistance des résultats</th>
+<th>Caractère indirect des preuves</th>
+<th>Imprécision</th>
+<th>Autre considérations</th>
+<th>Non fumeur</th>
+<th>Fumeur passif</th>
+<th>Risk Ratio (IC 95%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="12"><b>Complications respiratoires (laryngospasme, bronchospasme, désaturation, toux)</b></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Observationnel</td>
+<td>Non</td>
+<td>Important [1]</td>
+<td>Non</td>
+<td>Faible</td>
+<td></td>
+<td>1171/9394 (12,5%)</td>
+<td>465/1881 (24,7%)</td>
+<td>RR : 2,02 (IC 95% : 1.82-2.23)</td>
+<td>⊕⊕⊕○<br/>MODEREE</td>
+<td>CRUCIAL</td>
+</tr>
+</tbody>
+</table>
+
+1.  $I^2 > 50\%$
+
+![Forest plot showing Risk Ratio for respiratory complications across various studies. The plot includes a table of study data and a visual representation of the risk ratios and confidence intervals on a logarithmic scale from 0.01 to 100.](08333aab4a6eeab9293177eb621b408f_5_img.webp)
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">Passive smoking</th>
+<th colspan="2">Non smoking</th>
+<th rowspan="2">Weight</th>
+<th colspan="2">Risk Ratio</th>
+<th rowspan="2">Year</th>
+<th colspan="2">Risk Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lyons 1996</td>
+<td>33</td>
+<td>63</td>
+<td>14</td>
+<td>62</td>
+<td>4.1%</td>
+<td>2.32 [1.38, 3.89]</td>
+<td></td>
+<td>1996</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lakshmipathy 1996</td>
+<td>9</td>
+<td>96</td>
+<td>2</td>
+<td>214</td>
+<td>0.4%</td>
+<td>10.03 [2.21, 45.55]</td>
+<td></td>
+<td>1996</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Skolnick 1998</td>
+<td>48</td>
+<td>134</td>
+<td>87</td>
+<td>365</td>
+<td>13.6%</td>
+<td>1.50 [1.12, 2.01]</td>
+<td></td>
+<td>1998</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Drongowski 2003</td>
+<td>32</td>
+<td>57</td>
+<td>28</td>
+<td>89</td>
+<td>6.4%</td>
+<td>1.78 [1.22, 2.62]</td>
+<td></td>
+<td>2003</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mamie 2004</td>
+<td>0</td>
+<td>429</td>
+<td>0</td>
+<td>314</td>
+<td></td>
+<td>Not estimable</td>
+<td></td>
+<td>2004</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>O'Rourke 2006</td>
+<td>4</td>
+<td>54</td>
+<td>4</td>
+<td>54</td>
+<td>1.2%</td>
+<td>1.00 [0.26, 3.79]</td>
+<td></td>
+<td>2006</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Jones 2006</td>
+<td>30</td>
+<td>168</td>
+<td>12</td>
+<td>237</td>
+<td>2.9%</td>
+<td>3.53 [1.86, 6.69]</td>
+<td></td>
+<td>2006</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Von Ungern-Sternberg 2007</td>
+<td>32</td>
+<td>154</td>
+<td>155</td>
+<td>677</td>
+<td></td>
+<td>Not estimable</td>
+<td></td>
+<td>2007</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Von Ungern-Sternberg 2010</td>
+<td>259</td>
+<td>1075</td>
+<td>1016</td>
+<td>8222</td>
+<td>68.6%</td>
+<td>1.95 [1.73, 2.20]</td>
+<td></td>
+<td>2010</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Seyidov 2011</td>
+<td>50</td>
+<td>234</td>
+<td>8</td>
+<td>151</td>
+<td>2.8%</td>
+<td>4.03 [1.97, 8.27]</td>
+<td></td>
+<td>2011</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tikkurissy 2012</td>
+<td>0</td>
+<td>51</td>
+<td>0</td>
+<td>48</td>
+<td></td>
+<td>Not estimable</td>
+<td></td>
+<td>2012</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>1881</b></td>
+<td></td>
+<td><b>9394</b></td>
+<td><b>100.0%</b></td>
+<td><b>2.02 [1.82, 2.23]</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td>465</td>
+<td></td>
+<td>1171</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $\text{Chi}^2 = 16.78$ ,  $\text{df} = 7$  ( $P = 0.02$ );  $I^2 = 58\%$   
+ Test for overall effect:  $Z = 13.38$  ( $P < 0.00001$ )## Question 5: Quelles sont les conséquences et la place de la cigarette électronique dans la période péri opératoire ?
+
+Bibliography: McRobbie H, Bullen C, Hartmann-Boyce J, Hajek P. Electronic cigarettes for smoking cessation and reduction. Cochrane Database of Systematic Reviews 2014, Issue 12. Art. No.: CD010216. DOI: 10.1002/14651858.CD010216.pub2.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="7">Quality assessment</th>
+<th colspan="2">No of patients</th>
+<th colspan="2">Effect</th>
+<th rowspan="2">Quality</th>
+<th rowspan="2">Importance</th>
+</tr>
+<tr>
+<th>No of studies</th>
+<th>Study design</th>
+<th>Risk of bias</th>
+<th>Inconsistency</th>
+<th>Indirectness</th>
+<th>Imprecision</th>
+<th>Other considerations</th>
+<th>Electronic cigarette</th>
+<th>Placebo</th>
+<th>Relative (95% CI)</th>
+<th>Absolute (95% CI)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="13">Cessation: Nicotine EC versus placebo EC (Follow-up: 6 - 12 months)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>not serious</td>
+<td>serious [1]</td>
+<td>Serious [2]</td>
+<td>none</td>
+<td>43/489 (8.8%)</td>
+<td>7/173 (4%)</td>
+<td><b>RR 2.29</b><br/>(1.05 to 4.96)</td>
+<td>52 more per 1000 (from 2 more to 160 more)</td>
+<td>⊕⊕○<br/>LOW</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Cessation: Nicotine EC versus nicotine replacement therapy (Follow-up: 6 - 12 months)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>randomised trial</td>
+<td>not serious</td>
+<td>Not serious</td>
+<td>serious [1]</td>
+<td>Very serious [3]</td>
+<td>none</td>
+<td>21/289 (7.3%)</td>
+<td>17/295 (5.8%)</td>
+<td><b>RR 1.26</b><br/>(0.68 to 2.34)</td>
+<td>15 more per 1000 (from 18 fewer to 77 more)</td>
+<td>⊕○○<br/>VERY LOW</td>
+<td>CRITICAL</td>
+</tr>
+<tr>
+<td colspan="13">Adverse events (Follow-up: 6 - 12 months)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>2 randomised trial and 6 cohort studies</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">1090 patients</td>
+<td colspan="2">Summary data not available. None of the studies reported any serious AEs that were related to EC use. Neither RCT detected a significant difference in AEs between intervention and control groups. Cohort studies found mouth and throat irritation, dissipating over time, to be the most frequently reported AEs in EC users</td>
+<td>⊕⊕⊕○<br/>MODERATE</td>
+<td>CRITICAL</td>
+</tr>
+</tbody>
+</table>
+
+RR – relative risk
+
+1. 1. Overall population/perioperative setting
+2. 2. Only two included studies, small number of events (<300) in each arm
+3. 3. Only one included study, with small number of events in each armRésultats des votes de la première proposition de recommandation :
+
+« L'état actuel des connaissances ne permet pas de faire de recommandation concernant l'usage de la cigarette électronique dans le cadre du sevrage tabagique périopératoire ».
+
+![Bar chart showing the results of the first recommendation proposal. The y-axis represents the number of votes (0 to 5). The x-axis represents categories 1 to 9. The bars are blue.](23f2ceda9b49f4ea0b5ead5da363cbd0_3_img.webp)
+
+<table border="1"><thead><tr><th>Category</th><th>Number of Votes</th></tr></thead><tbody><tr><td>1</td><td>1</td></tr><tr><td>2</td><td>1</td></tr><tr><td>3</td><td>3</td></tr><tr><td>4</td><td>1</td></tr><tr><td>5</td><td>3</td></tr><tr><td>6</td><td>0</td></tr><tr><td>7</td><td>0</td></tr><tr><td>8</td><td>1</td></tr><tr><td>9</td><td>2</td></tr></tbody></table>
+
+Résultats des votes de la deuxième proposition de recommandation :
+
+« Nous suggérons de ne pas décourager l'usage de la cigarette électronique avant une chirurgie programmée chez les patients l'utilisant déjà dans le cadre d'un sevrage tabagique en cours et chez ceux refusant l'utilisation des autres substituts nicotiniques »
+
+![Bar chart showing the results of the second recommendation proposal. The y-axis represents the number of votes (0 to 5). The x-axis represents categories 1 to 9. The bars are red.](23f2ceda9b49f4ea0b5ead5da363cbd0_6_img.webp)
+
+<table border="1"><thead><tr><th>Category</th><th>Number of Votes</th></tr></thead><tbody><tr><td>1</td><td>2</td></tr><tr><td>2</td><td>1</td></tr><tr><td>3</td><td>0</td></tr><tr><td>4</td><td>0</td></tr><tr><td>5</td><td>0</td></tr><tr><td>6</td><td>0</td></tr><tr><td>7</td><td>2</td></tr><tr><td>8</td><td>3</td></tr><tr><td>9</td><td>4</td></tr></tbody></table>

@@ -1,0 +1,45 @@
+{
+  "file_name": "2a_TEXTE-COURT_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
+  "num_pages": 3,
+  "total_token_count": 6130,
+  "total_chunks": 66,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2091,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2463,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 1576,
+      "num_chunks": 13,
+      "num_images": 0
+    }
+  ]
+}

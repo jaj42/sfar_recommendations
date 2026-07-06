@@ -1,0 +1,925 @@
+![CrossMark logo](ef7097b8972205f3667e63503de2ce50_4_img.webp)
+
+## Insuffisance rénale aiguë en périopératoire et en réanimation (à l'exclusion des techniques d'épuration extrarénale)☆
+
+Carole Ichai<sup>1</sup>, Christophe Vinsonneau<sup>2</sup>, Bertrand Souweine<sup>3</sup>, Fabien Armando<sup>4</sup>, Emmanuel Canet<sup>5</sup>, Christophe Clec'h<sup>6</sup>, Jean-Michel Constantin<sup>7</sup>, Michaël Darmon<sup>8</sup>, Jacques Duranteau<sup>9</sup>, Théophile Gaillot<sup>10</sup>, Arnaud Garnier<sup>11</sup>, Laurent Jacob<sup>5</sup>, Olivier Joannes-Boyau<sup>12</sup>, Laurent Juillard<sup>13</sup>, Didier Journois<sup>14</sup>, Alexandre Lautrette<sup>15</sup>, Laurent Muller<sup>16</sup>, Matthieu Legrand<sup>5</sup>, Nicolas Lerolle<sup>17</sup>, Thomas Rimmelé<sup>18</sup>, Eric Rondeau<sup>19</sup>, Fabienne Tamion<sup>20</sup>, Yannick Walrave<sup>3</sup>, Lionel Velly<sup>21</sup>, Société française d'anesthésie et de réanimation (Sfar), Société de réanimation de langue française (SRLF), Groupe francophone de réanimation et urgences pédiatriques (GFRUP), Société française de néphrologie (SFN)
+
+Disponible sur internet le :  
+6 mai 2016
+
+1. 1. CHU de Nice, hôpital Pasteur 2, service de réanimation polyvalente, IRCAN, Inserm U1081, CNRS UMR 7284, 30, voie Romaine, 06000 Nice, France
+2. 2. Hôpital Marc-Jacquet, service de réanimation, 77000 Melun, France
+3. 3. CHU de Nice, service de réanimation polyvalente, 30, voie Romaine, 06000 Nice, France
+4. 4. CHU de Clermont-Ferrand, service de réanimation médicale, 63000 Clermont-Ferrand, France
+5. 5. Assistance publique-Hôpitaux de Paris, service de réanimation, hôpital Saint-Louis, 1, avenue Claude-Vellefaux, 75010 Paris, France
+6. 6. Assistance publique-Hôpitaux de Paris, hôpital d'Avicenne, service de réanimation, 125, rue de Stalingrad, 93000 Bobigny, France
+7. 7. CHU de Clermont-Ferrand, hôpital Estaing, département de médecine périopératoire, 1, place Louis-Aubrac, Clermont-Ferrand, France
+8. 8. CHU de Saint-Étienne, hôpital de la Charité, service de réanimation, 44, rue Pointe-Cadet, 42100 Saint-Étienne, France
+9. 9. Assistance publique-Hôpitaux de Paris, hôpital Kremlin-Bicêtre, département d'anesthésie-réanimation, 78, rue de la Division-du-Général-Leclerc, 94270 Le Kremlin-Bicêtre, France
+10. 10. CHU de Rennes, hôpital Sud, service de pédiatrie, 16, boulevard Bulgarie, 35203 Rennes, France
+11. 11. CHU de Toulouse, hôpital des Enfants, service de pédiatrie, néphrologie, 330, avenue de Grande-Bretagne, 31059 Toulouse cedex, France
+12. 12. CHU de Bordeaux, hôpital du Haut-Lévêque, service d'anesthésie-réanimation II, 33600 Pessac, France
+13. 13. Hospices civils de Lyon, hôpital Édouard-Herriot, service de néphrologie-dialyse, 5, place d'Arsonval, 69003 Lyon, France
+14. 14. Assistance publique-Hôpitaux de Paris, hôpital européen Georges-Pompidou, service de réanimation, 20, rue Leblanc, 75908 Paris, France
+15. 15. CHU de Clermont-Ferrand, hôpital Gabriel-Montpied, service de réanimation, 58, rue Montalembert, 63003 Clermont-Ferrand, France
+16. 16. CHU de Nîmes, hôpital Carêmeau, service de réanimation, 4, rue du Professeur-Robert-Debré, 30029 Nîmes, France
+17. 17. CHU d'Angers, service de réanimation, 4, rue Larrey, 49100 Angers, France
+18. 18. Hospices civils de Lyon, hôpital Édouard-Herriot, service d'anesthésie-réanimation, 5, place d'Arsonval, 69003 Lyon, France
+
+☆ Texte validé par le conseil d'administration de la Sfar (19/06/2015) et de la SRLF (06/08/2015).1. 19. Assistance publique-Hôpitaux de Paris, hôpital Tenon, service de néphrologie, 4, rue de la Chine, 75020 Paris, France
+2. 20. CHU de Rouen, hôpital Charles-Nicolle, service de réanimation médicale, 1, rue de Germont, 76031 Rouen, France
+3. 21. Assistance publique-Hôpitaux de Marseille, hôpital de la Timone, service d'anesthésie-réanimation, 13005 Marseille, France
+
+**Correspondance :**
+
+Carole Ichai, CHU de Nice, hôpital Pasteur 2, service de réanimation polyvalente, IRCAN, Inserm U1081, CNRS UMR 7284, 30, voie Romaine, 06000 Nice, France.  
+ichai@unice.fr
+
+**Acute kidney injury in the perioperative period and in intensive care units (excluding renal replacement therapies)**
+
+![SFAR logo: Société Française d'Anesthésie et de Réanimation](c4689fc86ddefcfee6331a551e864353_7_img.webp)
+
+**Coordonateur d'experts Sfar**
+
+Carole Ichai.
+
+**Coordonateur adjoint d'experts SRLF**
+
+Christophe Vinsonneau.
+
+**Organisateurs**
+
+Lionel Velly (Sfar), Bertrand Souweine (SRLF).
+
+**Groupe d'experts de la Sfar**
+
+Jean-Michel Constantin, Jacques Duranteau, Laurent Jacob, Olivier Joannes-Boyau, Didier Journois, Matthieu Legrand, Laurent Muller, Thomas Rimmelé.
+
+**Groupe d'experts de la SRLF**
+
+Emmanuel Canet, Christophe Clec'h, Michaël Darmon, Alexandre Lautrette, Nicolas Lerolle, Fabienne Tamion.
+
+**Groupe d'experts du GFRUP**
+
+Théophile Gaillot, Arnaud Garnier.
+
+**Groupe d'experts de la SFN**
+
+Laurent Juillard, Eric Rondeau.
+
+**Groupes de travail**
+
+**Comment établir le diagnostic d'insuffisance rénale aiguë (IRA) et sa gravité ?**
+
+A. Lautrette (Clermont-Ferrand), T. Rimmelé (Lyon), A. Garnier (Toulouse), T. Gaillot (Rennes).
+
+**Quelles sont les stratégies de diagnostic précoce d'IRA ?**
+
+J.-M. Constantin (Clermont-Ferrand), L. Jacob (Paris), M. Darmon (Saint-Étienne), J. Duranteau (Paris), N. Lerolle (Angers).
+
+**Comment évaluer le risque d'IRA ?**
+
+C. Clec'h (Avicenne), M. Legrand (Paris).
+
+**Quelles sont les stratégies de prévention non spécifiques de l'IRA ?**
+
+M. Darmon (Saint-Étienne), L. Müller (Nîmes).
+
+**Quelle est la gestion des agents néphrotoxiques ?**
+
+M. Darmon (Saint-Étienne), O. Joannes-Boyau (Bordeaux).
+
+**Quelles sont les stratégies pharmacologiques de prévention et de traitement de l'IRA ?**
+
+E. Canet (Paris), D. Journois (Paris), A. Garnier (Toulouse), T. Gaillot (Rennes).
+
+**Quelles sont les modalités de nutrition en cas d'IRA ?**
+
+F. Tamion (Rouen), B. Souweine (Clermont-Ferrand), A. Garnier (Toulouse), T. Gaillot (Rennes).
+
+**Comment faut-il évaluer la récupération de la fonction rénale après IRA ?**
+
+E. Rondeau (Paris), C. Vinsonneau (Melun).
+
+**Chargés de bibliographie**
+
+Fabien Armando (Nice), Yannick Walrave (Nice).
+
+**Groupe de Lecture**
+
+Comité des référentiels cliniques (Sfar) : D. Fletcher, L. Velly, J. Amour, S. Ausset, G. Chanques, V. Compere, F. Espitalier, M. Garnier, E. Gayat, J.-Y. Lefrant, J.-M. Malinovsky, B. Rozec, B. Tavernier.
+
+Comité des référentiels et de l'évaluation (SRLF) : L. Donetti, M. Alves, Tboulain, Olivier B. Rissaud, V. Das, L. De Saint, Blanquat, M. Guillot, K. Kuteifan, C. Mathien, V. Peigne, F. Plouvier, D. Schnell, L. Vong.Conseil d'administration de la Sfar : C. Ecoffey, F. Bonnet, X. Capdevila, H. Bouaziz, P. Albaladejo, L. Delaunay, M.-L. Cittanova Pansard, B. Al Nasser, C.-M. Arnaud, M. Beaussier, M. Chariot, J.-M. Constantin, M. Gentili, A. Delbos, J.-M. Dumeix, J.-P. Estebe, O. Langeron, L. Mercadal, J. Ripart, M. Samama, J.-C. Sleth, B. Tavernier, E. Viel, P. Zetlaoui.
+
+Conseil d'administration de la SRLF : P.-F. Laterre, J.-P. Mira, J. Pugin, X. Monnet, C.-E. Luyt, J.-L. Diehl, S. Dauger, J. Dellamonica, B. Levy, B. Megarbane, B. Misset, H. Outin, F. Tamion, S. Valera.
+
+## Introduction
+
+L'insuffisance rénale aiguë (IRA) est une notion qui a évolué de façon importante au cours des 20 dernières années. La réduction du débit de diurèse et l'élévation plasmatique des biomarqueurs rénaux, tels l'urée et la créatininémie ont été largement employées comme marqueur de la baisse du débit de filtration glomérulaire (DFG) qui définit l'IRA. L'utilisation de ces marqueurs de DFG comme marqueurs critères diagnostiques d'IRA est confrontée à plusieurs limites :
+
+- • la reconnaissance des situations dites « d'insuffisances rénales fonctionnelles » (IRF) ou « pré-rénales » avec l'oligurie et l'élévation de la créatininémie qui accompagnent ces situations de réduction du débit sanguin rénal dont l'origine est systémique. Cette dénomination est plutôt inadéquate pour qualifier la fonction rénale comme insuffisante en ces circonstances. En effet, loin d'être altéré dans sa fonction, le rein fournit alors un travail important en vue de rétablir des conditions physiologiques systémiques optimales. Le qualifier d'insuffisant est alors erroné et surtout laisse penser que le rein dysfonctionne alors qu'il est encore sain, bien que menacé. Avec l'utilisation des définitions actuelles de l'IRA qui sont exposées dans cette RFE, la correction de la volémie est nécessaire avant de pouvoir définir l'IRA dans le but d'éviter cet écueil ;
+- • la mise en évidence des limites de la créatininémie pour évaluer le DFG, qui en fait donc un marqueur imparfait ; Cependant, la disponibilité quasi ubiquitaire du dosage plasmatique de la créatinine, son faible coût ainsi que la bonne connaissance de son utilisation, en font le biomarqueur rénal encore utilisé dans les définitions actuelles de l'IRA.
+
+Une confusion peut émaner de la traduction littérale de la terminologie anglo-saxonne (figure 1). Le terme *acute kidney injury* (AKI), dont la traduction littérale serait l'agression rénale aiguë, repose sur un critère clinique (diurèse) et un biomarqueur de fonction rénale (créatininémie). Si cette définition inclut des situations qui s'accompagnent quasi systématiquement d'une atteinte parenchymateuse rénale, elle reste axée sur des marqueurs de fonction et donc d'insuffisance rénale aiguë (au sens de l'incapacité du rein à assurer l'homéostasie du fait de la chute du DFG). Pour ces raisons et parce que cette définition est communément admise et surtout très largement utilisée dans
+
+FIGURE 1
+
+### L'insuffisance rénale aiguë : de l'agression à la dysfonction rénale
+
+la littérature, la terminologie utilisée pour traduire le terme d'AKI sera l'insuffisance rénale aiguë (IRA) dans le texte de cette RFE. La notion d'atteinte rénale aiguë (ou *acute kidney damage*) fait référence à l'atteinte parenchymateuse rénale qui pourrait être mise en évidence par l'histologie ou plus facilement par des biomarqueurs d'atteinte rénale aiguë, marqueurs non pas de fonction mais d'atteinte tissulaire. Enfin, la notion d'agression rénale aiguë (ou *kidney attack*) fait référence aux situations exposant le rein aux atteintes rénales et situations d'insuffisance rénale. Ces situations sont nombreuses et incluent par exemple le sepsis, les chirurgies majeures, les agents dits néphrotoxiques, etc. Les notions d'agression et d'atteinte rénale aiguës ont émergé ces dernières années, en partie du fait de la découverte de biomarqueurs rénaux permettant d'évaluer précisément l'atteinte rénale aiguë, avant même l'altération des paramètres de diagnostic d'IRA.
+
+Les cliniciens doivent reconnaître que l'atteinte rénale n'est pas synonyme de défaillance rénale et que les notions d'agression et d'atteinte rénale aiguës se développent aux côtés de celle d'IRA. Ces notions sont capitales, car elles permettent de décrire les situations où une intervention thérapeutique est susceptible d'éviter ou de réduire les risques d'évolution vers l'IRA. Une recherche active s'attache à évaluer la portée de ces biomarqueurs et de la détection de l'atteinte rénale en situation aiguë.
+
+## Méthodologie
+
+La méthode de travail utilisée pour l'élaboration des recommandations est la méthode GRADE®. Cette méthode permet, après une analyse quantitative de la littérature, de déterminer séparément la qualité des preuves, c'est-à-dire une estimationde la confiance que l'on peut avoir dans l'analyse de l'effet de l'intervention quantitative et, d'autre part, un niveau de recommandation. La qualité des preuves est répartie en quatre catégories :
+
+- • haute : les recherches futures ne changeront très probablement pas la confiance dans l'estimation de l'effet ;
+- • modérée : les recherches futures changeront probablement la confiance dans l'estimation de l'effet et pourraient modifier l'estimation de l'effet lui-même ;
+- • basse : les recherches futures auront très probablement un impact sur la confiance dans l'estimation de l'effet et modifieront probablement l'estimation de l'effet lui-même ;
+- • très basse : l'estimation de l'effet est très incertaine.
+
+L'analyse de la qualité des preuves est réalisée pour chaque étude, puis un niveau global de preuve est défini pour une question et un critère donnés. La formulation finale des recommandations sera toujours binaire soit positive, soit négative, et soit forte, soit faible :
+
+- • forte : il faut faire ou ne pas faire (GRADE 1+ ou 1-);
+- • faible : il faut probablement faire ou ne pas faire (GRADE 2+ ou 2-).
+
+La force de la recommandation est déterminée en fonction de facteurs clés, validée par les experts après un vote, en utilisant la méthode Delphi et GRADE Grid :
+
+- • estimation de l'effet ;
+- • le niveau global de preuve : plus il est élevé, plus probablement la recommandation sera forte ;
+- • la balance entre effets désirables et indésirables : plus celle-ci est favorable, plus probablement la recommandation sera forte ;
+- • les valeurs et les préférences : en cas d'incertitudes ou de grande variabilité, plus probablement la recommandation sera faible ; ces valeurs et préférences doivent être obtenues au mieux directement auprès des personnes concernées (patient, médecin, décisionnaire) ;
+- • coûts : plus les coûts ou l'utilisation des ressources sont élevés, plus probablement la recommandation sera faible ;
+- • pour faire une recommandation, au moins 50 % des participants ont une opinion et moins de 20 % préfère la proposition contraire ;
+- • pour faire une recommandation forte, au moins 70 % des participants sont d'accord.
+
+La prise en charge des insuffisances rénales aiguës a été répartie en 6 thèmes : stratégies de détection et de diagnostic d'une IRA, l'évaluation du risque d'IRA, les stratégies de prévention de l'IRA, la gestion des agents néphrotoxiques, les stratégies pharmacologiques de prévention et de traitement de l'IRA, les modalités de nutrition et l'évaluation de la récupération de la fonction rénale après une IRA.
+
+Une analyse spécifique a été conduite pour l'IRA pédiatrique. Au total, 24 experts ont été répartis en 9 groupes de travail.
+
+Pour être retenues dans l'analyse, les publications devaient être postérieures à 1999. En cas d'absence ou d'un trop faible nombre de publications sur la période considérée, la période de recherche pouvait être étendue jusqu'à 1990.
+
+Le niveau de la littérature sur l'IRA est globalement d'un faible niveau méthodologique. Les experts ont été confrontés à trois situations :
+
+- • pour certaines questions, l'existence de plusieurs études et/ou de méta-analyses de qualité méthodologique correcte, la méthode GRADE® s'appliquait en totalité et a permis d'émettre des recommandations ;
+- • si les experts ne disposaient pas d'une méta-analyse permettant de répondre à la question, une analyse qualitative en suivant la méthode GRADE® était possible et une revue systématique était réalisée ;
+- • enfin dans certains domaines, l'absence d'études récentes n'a pas permis d'émettre de recommandations.
+
+Après synthèse du travail des experts et application de la méthode GRADE, 33 recommandations ont été formalisées par le comité d'organisation. Parmi les recommandations, 9 sont fortes (Grade 1 ±), 16 sont faibles (Grade 2 ±) et, pour 8 recommandations, la méthode GRADE® ne pouvait pas s'appliquer et celles-ci correspondent à un avis d'experts.
+
+La totalité des recommandations a été soumise à un groupe de relecture pour une cotation type Delphi. Après 2 tours de cotations et divers amendements, un accord fort a été obtenu pour 32 (99 %) recommandations.
+
+## Comment établir le diagnostic d'insuffisance rénale aiguë (IRA) et sa gravité ?
+
+R1.1 – Il faut utiliser les critères KDIGO (stade 1) pour définir une IRA par la présence d'au moins 1 des 3 critères diagnostiques suivants :
+
+- • augmentation de la créatinine plasmatique  $\geq 26,5 \mu\text{mol/L}$  en 48 h ;
+- • augmentation de la créatinine plasmatique  $\geq 1,5$  fois la valeur de base au cours des 7 derniers jours ;
+- • diurèse  $< 0,5 \text{ mL/kg/h}$  pendant 6 h.
+
+(Avis d'experts) Accord Fort
+
+R1.2 – Il faut utiliser la classification KDIGO pour caractériser la gravité d'une IRA, selon le tableau suivant (*tableau 1*)
+
+(Avis d'experts) Accord Fort**TABLEAU I**  
+**Classification de l'IRA selon les critères KDIGO [1]**
+
+<table border="1">
+<thead>
+<tr>
+<th>Stade</th>
+<th>Créatinine plasmatique</th>
+<th>Diurèse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><math>\geq 26,5 \mu\text{mol/L}</math> ou 1,5 à 1,9 fois la créatinine plasmatique de base</td>
+<td><math>&lt; 0,5 \text{ mL/kg/h}</math> pendant 6 h à 12 h</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2,0 à 2,9 fois la créatinine plasmatique de base</td>
+<td><math>&lt; 0,5 \text{ mL/kg/h}</math> pendant <math>\geq 12 \text{ h}</math></td>
+</tr>
+<tr>
+<td>3</td>
+<td>3,0 fois la créatinine plasmatique de base ou créatinine plasmatique <math>\geq 354 \mu\text{mol/L}</math> ou mise en route de l'épuration extra-rénale</td>
+<td><math>&lt; 0,3 \text{ mL/kg/h}</math> pendant <math>\geq 24 \text{ h}</math> ou anurie pendant <math>\geq 12 \text{ h}</math></td>
+</tr>
+</tbody>
+</table>
+
+Le stade est déterminé par le critère le plus péjoratif entre « créatinine plasmatique » et « diurèse ».
+
+R1.3 – Si l'on souhaite estimer le débit de filtration glomérulaire (DFG), il ne faut pas utiliser les formules estimées (Cockroft-Gault, MDRD, CKD-EPI) chez le patient de réanimation ou en postopératoire.  
+(Grade 1-) Accord Fort
+
+R1.4 – Si l'on souhaite estimer le DFG, il faut probablement utiliser la formule de calcul de la clairance de la créatinine (UV/P créatinine).  
+(Grade 2+) Accord Fort  
+Argumentaire.- L'IRA (AKI : Acute Kidney Injury dans la littérature anglo-saxonne) est un syndrome clinico-biologique dont les étiologies sont multiples et dont le degré de gravité s'échelonne depuis l'atteinte rénale aiguë jusqu'à l'IRA. La définition de l'IRA proposée ici est identique à celle des recommandations internationales KDIGO (Kidney Disease Improving Global Outcomes) de mars 2012 [1]. En 2015, il n'existe pas d'étude récente dont les données permettent de remettre en question cette définition et la grande majorité des travaux scientifiques étudiant la défaillance ou insuffisance rénale aiguë s'appuie sur la définition KDIGO. L'IRA se définit par une augmentation de la créatininémie qui correspond à une baisse du débit de filtration glomérulaire (DFG). La meilleure évaluation du DFG est faite par la formule de calcul UV/P (mL/min) de la créatinine (U : étant la concentration urinaire de créatinine en  $\mu\text{mol/L}$ , V : le volume urinaire en mL rapporté au temps, P : la concentration plasmatique de créatinine en  $\mu\text{mol/L}$ ) avec un recueil des urines d'au moins 1 heure [2]. Les formules estimées du DFG (sMDRD, CKD-EPI, Cockroft et Gault) ne doivent pas être utilisées car elles ont été développées pour les patients stables en insuffisance rénale chronique et non pour des patients de réanimation [2]. Elles peuvent néanmoins être utilisées avec précaution en consultation d'anesthésie préopératoire. Une
+
+évaluation fiable du DFG est indispensable pour l'adaptation posologique des produits éliminés par le rein. La classification KDIGO représente une synthèse optimisée des deux classifications préexistantes combinées (RIFLE et AKIN), élaborées par des groupes internationaux d'experts composés de néphrologues et de réanimateurs afin de caractériser la gravité d'une IRA [1,3]. Une littérature abondante depuis la publication des classifications RIFLE [4] et AKIN [5] montre que ces classifications sont en effet bien corrélées à la gravité de l'IRA puisque la morbidité qui en découle (risque d'évolution vers la nécessité d'épuration extra-rénale [6-9], durée de séjour en réanimation/hospitalière, risque d'évolution vers l'insuffisance rénale chronique [10] et la mortalité augmentent proportionnellement avec le stade de ces classifications [6-9]). Après avoir fait le diagnostic d'IRA, il est nécessaire de préciser la gravité de l'IRA afin d'en déterminer son pronostic.
+
+R1.1 pédiatrique – Chez l'enfant, il faut probablement établir le diagnostic d'insuffisance rénale aiguë en utilisant la classification de RIFLE modifiée pour la pédiatrie (pRIFLE) : clairance estimée de la créatinine diminuée d'au moins 25 %, ou une diurèse  $< 0,5 \text{ mL/kg/h}$  pendant 8 heures.  
+(Avis d'experts) Accord Fort
+
+R1.2 pédiatrique – Chez l'enfant, il faut probablement évaluer la gravité d'une insuffisance rénale aiguë selon les critères de la classification pRIFLE.  
+(Avis d'experts) Accord Fort  
+Argumentaire.- Les définitions de l'IRA proposées au cours des recommandations KDIGO de 2012 concernaient les patientsadultes et pédiatriques. Néanmoins, elles semblent actuellement difficilement applicables à des enfants. En effet, les critères de RIFLE et AKIN sur lesquels reposent les recommandations KDIGO ne tiennent pas compte du gabarit des patients et sont basées sur des valeurs de créatinine plasmatique, ce qui pose problème chez des enfants dont la masse musculaire est très inférieure à celle d'adultes. C'est pour cela qu'avait été proposée une version pédiatrique du RIFLE (pRIFLE) basée sur la clairance estimée de la créatinine plasmatique et la diurèse par Akcan-Arikan et al. en 2007 [11]. Dans ces critères modifiés, l'IRA est définie par l'existence d'au moins un des critères suivants :
+
+- • diminution de > 25 % de la clairance estimée de la créatinine plasmatique ;
+- • diurèse < 0,5 mL/h pendant 8 heures.
+
+Dans cette classification, la clairance estimée de la créatinine est calculée selon la formule pédiatrique de Schwartz et al. [12] et comparée à une valeur de référence de 100 mL/min/1,73m<sup>2</sup> s'il n'est pas connu de valeur antérieure pour le patient, ce qui est souvent le cas en pédiatrie. Cette classification du pRIFLE a ensuite été validée prospectivement dans différentes études concernant des patients de réanimation pédiatrique ou en postopératoire immédiat en particulier de chirurgie cardiaque [13]. Par extension, la sévérité de l'IRA repose aussi sur le pRIFLE (tableau II).
+
+## Quelles sont les stratégies de diagnostic précoce d'IRA ?
+
+R2.1 – Il ne faut pas utiliser les biomarqueurs rénaux pour faire le diagnostic précoce d'IRA.  
+(Grade 1–) Accord Faible
+
+Argumentaire.– Comme cela est souligné en introduction, l'IRA est la forme la plus grave d'atteinte rénale caractérisée par une dysfonction rénale. Sur un plan physiopathologique, cette phase est toujours précédée d'agressions rénales (principalement hémodynamiques et inflammatoires), qui si elles se répètent peuvent entraîner des lésions tissulaires rénales irréversibles et au stade ultime une dysfonction [14,15]. Les lésions rénales constituées restent à ce jour non accessibles à un quelconque traitement curatif et l'IRA est associée à un risque accru de décès intrahospitalier et d'évolution vers l'insuffisance rénale chronique dans les années qui suivent [16–21]. Ainsi, la recherche des facteurs de risque de survenue d'IRA et la détection précoce des phénomènes d'agression rénale sont largement préconisées dans la littérature actuelle [1,22–24]. Dans cette optique, les 10 dernières années ont vu se développer l'identification de multiples biomarqueurs rénaux permettant la détection précoce d'agressions rénales aiguës. Ces biomarqueurs sont essentiellement des protéines synthétisées en cas de lésions rénales.
+
+La littérature évaluant la pertinence du dosage des biomarqueurs rénaux plasmatiques ou urinaires est extrêmement riche [1,25,26]. Leur évaluation, encore en cours pour plusieurs d'entre eux, semble montrer des sensibilités de 70 à 92 % et des spécificités de 70 à 95 % selon le biomarqueur, son lieu de dosage, et surtout selon le seuil retenu. La cystatine se positionne comme un biomarqueur de la filtration glomérulaire, donc de fonction rénale, plus précoce et plus fiable que la créatinine plasmatique. Une méta-analyse récente regroupant 19 études et 3336 patients, rapporte une sensibilité de 71 % et une spécificité de 92 % de la cystatine plasmatique, valeur prédictive supérieure à la cystatine urinaire et à la créatininémie [27]. Les biomarqueurs tubulaires sont les témoins de lésions tissulaires rénales. Les plus étudiés sont *kidney injury molecule-1* (KIM-1), *neutrophil gelatinase-associated lipocalin* (NGAL), FAB, interleukine-18 (IL-18),  $\beta_2$ -microglobuline et les biomarqueurs
+
+TABLEAU II  
+Critères diagnostiques et de gravité de l'IRA en pédiatrie
+
+<table border="1">
+<thead>
+<tr>
+<th>Stade</th>
+<th>Clairance estimée créatinine plasmatique</th>
+<th>Diurèse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>Risk</i> (risque)</td>
+<td>Diminuée de &gt; 25 %</td>
+<td>&lt; 0,5 mL/kg/h pendant &gt; 8 h</td>
+</tr>
+<tr>
+<td><i>Injury</i> (atteinte)</td>
+<td>Diminuée de &gt; 50 %</td>
+<td>&lt; 0,5 mL/kg/h pendant &gt; 16 h</td>
+</tr>
+<tr>
+<td><i>Failure</i> (défaillance)</td>
+<td>Diminuée de &gt; 75 % ou &lt; 35 mL/min/1,73 m<sup>2</sup></td>
+<td>&lt; 0,3 mL/kg/h pendant 24 h ou anurie pendant &gt; 12 h</td>
+</tr>
+<tr>
+<td><i>Loss</i> (perte de fonction)</td>
+<td>Stade « Failure » se prolongeant &gt; 4 semaines</td>
+<td></td>
+</tr>
+<tr>
+<td><i>End stage</i><br/>(Insuffisance rénale chronique)</td>
+<td>Stade « Failure » se prolongeant &gt; 3 mois</td>
+<td></td>
+</tr>
+</tbody>
+</table>![Blue square decorative element](1c6100f1e4e92cab1c36941c1e499f53_1_img.webp)
+
+d'arrêt du cycle cellulaire (*insulin growth factor-binding protein 7* [IGFBP 7] et le *tissue inhibitor of metalloproteinase-2* [TIMP-2]). Une méta-analyse récente, incluant 23 études et un collectif de 4512 patients, retrouve que le dosage de l'IL-18 a une sensibilité et une spécificité de qualité modérée [28]. KIM-1, évalué au travers d'une méta-analyse récente, représente un biomarqueur performant pour faire un diagnostic précoce de risque d'IRA [29]. L'intérêt du dosage plasmatique ou urinaire du NGAL pour diagnostiquer précocement la survenue d'une IRA a été mis en évidence dans une méta-analyse en 2009 [30]. Les données de cette étude montrent également que ce dosage a une valeur pronostique en termes de mortalité et de nécessité de recours à l'EER durant l'hospitalisation des patients de réanimation. Cette méta-analyse confirme, comme pour les autres biomarqueurs rénaux, l'intérêt de ce dosage exclusivement pour détecter précocement les lésions rénales, sans montrer de bénéfice pour le diagnostic d'IRA à proprement parler. Les mêmes auteurs ont retrouvé récemment des résultats similaires sur un collectif de 2322 patients de réanimation issus d'études prospectives observationnelles [31]. Néanmoins, dans ce travail, il existe une grande hétérogénéité des études liée au type de patients, aux valeurs seuils et au moment du dosage. Les 2 marqueurs IGFBP7 et TIMP-2 d'arrêt du cycle cellulaire ont été évalués et comparés aux autres principaux biomarqueurs rénaux chez 738 patients de réanimation à risque de survenue d'IRA [32]. Les résultats montrent que la mesure combinée de IGFBP7 et TIMP-2 offrait une sensibilité et spécificité supérieures à tous les autres biomarqueurs (AUC = 0,8), ceci chez des patients avec des pathologies variables. De plus, les risques de décès et de recours à l'EER augmentent avec le taux de ces 2 biomarqueurs. Une étude récente de cohorte incluant 420 patients a confirmé la pertinence de cet outil à visée diagnostique précoce de lésions rénales [33]. Si les données actuelles supportent largement l'intérêt de ces biomarqueurs pour évaluer précocement les lésions rénales et leur sévérité, leur utilisation au quotidien pose plusieurs problèmes. Ces différents biomarqueurs traduisent des mécanismes d'agression différents : marqueur d'ischémie, d'hypoxie, de régénération cellulaire, d'arrêt du cycle cellulaire. Leur site de synthèse est également différent tout comme leur cinétique d'apparition après agression et lésion rénale [23,26,34]. Malgré l'importante littérature portant sur ces biomarqueurs rénaux, il n'existe pas de réelle étude mettant en évidence leur utilité clinique chez les patients à risque d'IRA. Leur intégration clinique pour la prise en charge de tels patients se heurte à plusieurs difficultés : multiplicité des biomarqueurs, absence de vraie spécificité, cinétique variable, impact de la dysfonction rénale chronique préalable, impact de la cause d'agression rénale
+
+et coût élevé. Ainsi, actuellement le biomarqueur idéal n'existe pas et l'utilisation future des biomarqueurs rénaux dans ce contexte va plutôt vers une cinétique de mesure de plusieurs biomarqueurs rénaux. Enfin, il n'existe aucune donnée montrant un intérêt à faire ces dosages en cas d'IRA, ni à visée diagnostique qui se fait à ce stade simplement sur la créatininémie et le débit urinaire, ni à visée thérapeutique. Au total, aucune étude clinique randomisée contrôlée ne permet à ce jour de préconiser le dosage d'un ou plusieurs biomarqueurs rénaux pour faire le diagnostic d'IRA, qui est un stade avancé de ce syndrome. En revanche, la littérature apporte un signal fort sur l'intérêt de ces biomarqueurs comme élément du diagnostic précoce de lésions rénales aiguës exposant à un risque accru d'IRA et de mortalité chez les patients de réanimation. Dans cette optique, la généralisation de ces dosages reste à ce jour difficile tant que le choix du/des biomarqueurs, le seuil de significativité clinique et le moment du dosage en fonction de la pathologie des patients ne seront pas mieux définis. Argumentaire pédiatrique.- Il n'est pas possible d'extrapoler directement les résultats des études menées chez des patients adultes à des patients pédiatriques. En effet, de multiples facteurs tels que l'étiologie ou le traitement de l'IRA, l'existence de comorbidités associées et les caractéristiques anthropométriques diffèrent de façon importante entre patients adultes et pédiatriques [35]. Néanmoins, des études prospectives réalisées sur des populations pédiatriques en particulier dans des situations postopératoires de chirurgie cardiaque évoquent l'intérêt des biomarqueurs rénaux urinaires dans le diagnostic précoce de l'IRA [36]. Par ailleurs, il a été démontré dans une étude prospective menée dans un service de réanimation pédiatrique que les estimations de la filtration glomérulaire basées sur des dosages plasmatiques de cystatine C étaient plus sensibles que les équations basées sur des mesures de créatinine plasmatique [37].
+
+R2.2 – Il ne faut probablement pas utiliser l'index de résistance mesuré par le Doppler rénal pour diagnostiquer ou traiter une IRA.
+
+(Grade 2-) Accord Fort
+
+Argumentaire.- La mesure des vitesses intra-rénales par le biais du Doppler est une méthode non invasive, rapide, qui pourrait permettre d'obtenir un reflet instantané de la perfusion intra-rénale [38,39]. Le caractère facilement réalisable de la mesure et la possibilité d'obtenir des mesures répétées permettraient d'obtenir une évaluation des modifications de vascularisationrénale en réponse à une action thérapeutique. Pour cette raison, un nombre croissant d'études a été réalisé au cours des dernières années chez les patients de réanimation, afin d'évaluer la performance du Doppler. Deux grands axes de recherche ont été suivis.
+
+Le premier concerne principalement l'utilisation de l'index de résistance comme outil de mesure de l'hémodynamique intrarénale. Une étude animale a récemment souligné l'impossibilité de mesurer le débit sanguin rénal par le Doppler-ultrasons. En effet, il n'existait aucune corrélation entre le débit mesuré par Doppler-ultrasons et par le temps de transit des ultrasons qui est une méthode validée de la mesure des débits sanguins régionaux [40]. Cette même étude souligne également la difficulté à interpréter les variations de l'index de résistance, en démontrant qu'il n'existe qu'une très faible corrélation entre les variations de débit sanguin rénal, après différentes manœuvres thérapeutiques, et les variations de l'index de résistance [40]. L'index dérivé du Doppler qui permettait de prédire la plus efficace une variation d'au moins 20 % du débit sanguin rénal était la variation de la vitesse diastolique, mais avec une aire sous la courbe ROC médiocre (0,75) [40]. Plusieurs auteurs ont étudié les variations d'index de résistance en réponse à l'utilisation de dopamine à doses dites « rénales » ou à des posologies croissantes de noradrénaline avec des données suggérant que l'index de résistance permettrait de guider les posologies d'amines afin d'améliorer cet index et potentiellement d'améliorer la perfusion rénale [41,42]. Enfin, une dernière étude ne retrouvait pas de variation d'index de résistance en réponse à un remplissage vasculaire et ce quel que soit la réponse au remplissage en termes de variation de volume d'éjection systolique et la fonction rénale antérieure [43]. Les études menées dans ce domaine, bien que prometteuses, restent préliminaires et de faible niveau de preuve. La signification des variations d'index de résistance ainsi que les doutes concernant la reproductibilité des mesures sont les principales limites à l'interprétation des données de ces études et à l'application en pratique courante de cette technique.
+
+Le second axe de recherche concerne l'évaluation du pronostic rénal. Une étude observationnelle menée sur une cohorte de 37 patients en choc septique suggère que l'index de résistance permettrait de prédire la survenue d'une IRA à j5 chez des patients [44]. Plusieurs autres études préliminaires ont suggéré que l'index de résistance permettrait de prédire le mécanisme fonctionnel ou organique de l'atteinte rénale au cours de l'IRA [45-47], le devenir de la fonction rénale à 3 ou 5 jours [43,48-50], ou la nécessité de recourir à une épuration extra-rénale [51]. Ces études suggèrent que l'index de résistance pourrait être un outil d'évaluation avec une bonne sensibilité et spécificité du
+
+pronostic rénal [45,47-51]. Certaines études menées hors de la réanimation, chez des patients non septiques, évaluent des petits effectifs (35 à 91 patients) et sont pour la plupart monocentriques avec une qualité méthodologique limitée [45-47,49,50]. Enfin, une étude récente, menée sur une cohorte de 94 patients, retrouvait un résultat contradictoire et suggérait que l'index de résistance avait une performance limitée lorsqu'il était utilisé pour évaluer le pronostic rénal [52]. Deux limites de cet outil sont à souligner et pourraient expliquer ce résultat contradictoire. La première est la signification de l'index de résistance ou de ses variations qui reste incertaine car la corrélation entre index de résistance et résistances vasculaires rénales semble faible, peut-être du fait le nombre important d'autres facteurs qui participent à l'IRA [38,39,53-56]. Ainsi, des expériences menées sur des modèles de rein ex vivo ont confirmé la place prépondérante de la compliance vasculaire (changement de calibre des vaisseaux en réponse au changement de pression) ou de la pression pulsée comme déterminant de l'index de résistance [54-56]. Ces données expérimentales ont été récemment confirmées chez le patient transplanté rénal [57]. La deuxième est la faisabilité et la reproductibilité de la mesure : si une étude récente confirme la faisabilité de la mesure de l'index de résistance après une séance courte de formation chez des réanimateurs naïfs vis-à-vis de la technique, la reproductibilité entre observateurs expérimentés et inexpérimentés est cependant limitée avec des variations allant jusqu'à  $\pm 0,1$  d'index de résistance [50]. Compte tenu des données disponibles, cette technique, bien que prometteuse, mérite d'être plus amplement étudiée et ne peut pas être recommandée à ce jour pour une utilisation courante.
+
+## Comment évaluer le risque d'IRA ?
+
+R3.1 – Il faut rechercher les facteurs de risque d'IRA liés au terrain et/ou au contexte (*tableau III*).
+
+(Avis d'expert) Accord Fort
+
+Argumentaire.- Chez les patients hospitalisés, les différents scores prédictifs d'IRA rapportés dans la littérature retrouvent à peu près les mêmes facteurs de risque qui dépendent du terrain et de ses pathologies sous-jacentes, ainsi que du contexte. Cependant, le poids de chacun est variable selon le type de patient et les procédures environnantes. Plus les facteurs de risque sont nombreux, plus le risque d'IRA est important. Les 2 facteurs de risque principaux liés au terrain sont l'âge et la présence d'une insuffisance rénale chronique. L'âge au-delà duquel le risque estTABLEAU III
+
+**Principaux facteurs de risque d'IRA liés au terrain et aux procédures chez les patients hospitalisés**
+
+<table border="1">
+<thead>
+<tr>
+<th>Terrain/pathologies sous-jacentes</th>
+<th>Procédures/contextes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+                    Âge <math>\geq 65</math> ans<sup>1</sup><br/>
+                    Insuffisance rénale chronique<sup>1</sup><br/>
+                    Sexe masculin<br/><br/>
+                    Origine ethnique africaine<br/>
+                    Obésité (IMC <math>&gt; 40</math> kg/m<sup>2</sup>)<br/>
+                    Hypertension artérielle<br/>
+                    Insuffisance cardiaque congestive<br/>
+                    Insuffisance hépatocellulaire<br/>
+                    Insuffisance respiratoire sévère<br/>
+                    Diabète<br/>
+                    Cancer<br/>
+                    Anémie
+                </td>
+<td>
+                    Sepsis<sup>1</sup><br/>
+                    Instabilité hémodynamique<br/>
+                    Période périopératoire<sup>1</sup><br/>
+                    Chirurgie majeure<sup>1</sup> (en urgence, abdomino-pelvienne, cardiovasculaire, thoracique, hémorragique)<br/>
+                    Brûlures étendues<br/>
+                    Traumatismes graves<br/>
+                    Agents néphrotoxiques (médicaments, produits de contraste iodés)
+                </td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup>Facteurs de risque les plus importants.
+
+présent est variable dans la littérature, allant de 55 à 65 ans, selon le contexte associé. Parmi les facteurs de risque en rapport avec le contexte, le sepsis et la chirurgie ou mieux la période périopératoire sont les plus fréquemment retrouvés [15,58,59]. L'objectif de ce texte n'est pas de fournir une revue systématique de ces scores prédictifs [15], ni de pouvoir créer un score applicable à tous les patients et contextes. Exemple, il a été montré que la durée de circulation extracorporelle était un facteur de risque majeur d'IRA en chirurgie cardiaque quand celle-ci dépassait 2 heures. Ketherpal et al. [59] ont défini un score (Acute Kidney Injury Risk Index) qui permet de prédire la survenue d'une IRA après chirurgie majeure non cardiaque en attribuant un point pour chacun des 9 facteurs de risque suivants présents : âge  $\geq 56$  ans, sexe masculin, insuffisance cardiaque congestive, ascite, hypertension artérielle, procédure chirurgicale en urgence, chirurgie intrapéritonéale, insuffisance rénale chronique (créatinine plasmatique préopératoire  $\geq 1,2$  mg/dL), diabète (traitement oral ou insuline). L'aire sous la courbe ROC de ce score était de  $0,80 \pm 0,02$ . L'incidence de l'IRA passait de 0,2 % chez les patients avec 0-2 facteurs de risque à 9,5 % chez les patients avec plus de 5 facteurs de risque, et elle augmente avec le nombre de facteurs de risque. Le *tableau IV* résume les principaux agents néphrotoxiques les plus fréquemment prescrits en réanimation et en période périopératoire [60,61]. Parmi ceux-ci, certains pourraient être remplacés par des agents non néphrotoxiques ou administrés en utilisant des mesures préventives associées (cf. champs correspondants). L'identification des patients exposés aux agents/procédures néphrotoxiques est primordiale pour adapter la surveillance et la prise en charge. Dans les situations à haut risque, la surveillance étroite de la diurèse et de la créatinine plasmatique en unité de
+
+surveillance continue ou en réanimation permettra d'apprécier l'évolution de la fonction rénale et l'efficacité des mesures préventives destinées à éviter la survenue de l'IRA (cf. champs correspondants). En cas de survenue d'IRA, le même type de mesures sera poursuivi de façon à limiter l'aggravation et à ne pas compromettre davantage le potentiel de récupération.
+
+R3.2 – Il faut probablement, dans les situations à risque, surveiller la diurèse et la créatinine plasmatique pour objectiver la survenue d'une atteinte rénale aiguë et prendre les mesures préventives appropriées.  
+(Avis d'expert) Accord Fort
+
+TABLEAU IV
+
+**Principaux agents néphrotoxiques responsables d'IRA en réanimation et en période périopératoire**
+
+- Produits de contraste iodés
+- Aminosides
+- Amphotéricine
+- Anti-inflammatoires non stéroïdiens
+- $\beta$ -lactamines (néphropathies interstitielles)
+- Sulfamides
+- Aciclovir, méthotrexate, cisplatine
+- Ciclosporine, tacrolimus
+- Inhibiteurs de l'enzyme de conversion de l'angiotensine (IEC)## Quelles sont les stratégies de prévention non spécifiques de l'IRA ?
+
+R4.1 – En réanimation, il ne faut pas utiliser les hydroxyéthylamidons (HEA).  
+(Grade 1-) Accord Fort
+
+R4.2 – Il faut probablement préférer les cristalloïdes aux colloïdes en cas de remplissage vasculaire.  
+(Grade 2+) Accord Fort
+
+Argumentaire.- Plusieurs études observationnelles, randomisées et méta-analyses se sont intéressées au bénéfice d'une utilisation préférentielle de colloïdes comparés aux cristalloïdes [62-73]. En réanimation, l'utilisation d'hydroxyéthylamidons (HEA), quelle que soit la génération de ces derniers, a été associée à une augmentation de la mortalité, de l'incidence des insuffisances rénales ou de la nécessité à recourir à l'épuration extra-rénale dans plusieurs études et méta-analyses de haut niveau de preuve [58-71,73]. La méta-analyse Cochrane, réalisée sur l'ensemble des colloïdes, ne retrouvaient pas de bénéfice à l'utilisation préférentielle de colloïdes, quel que soit son type, par rapport aux cristalloïdes et retrouvait une augmentation du risque de décès associé à l'utilisation d'HEA [72]. Seule une étude récente randomisée contrôlée suggère une diminution de la mortalité à j90 (critère secondaire), associée à un remplissage vasculaire par colloïdes, l'absence d'effet délétère sur le devenir à j28 (critère de jugement principal) et l'absence d'augmentation du risque d'insuffisance rénale (critère secondaire) [15]. Dans cette étude, les critères de jugement en faveur des colloïdes sont cependant des critères de jugement secondaire et la faible importance de l'effet a conduit les auteurs à conclure que leurs résultats n'étaient qu'exploratoires [15]. En conséquence, ces résultats ne peuvent à ce jour modifier la pratique actuelle. En périopératoire, une méta-analyse récente, regroupant des études de bas niveau de preuve, ne retrouvait pas d'effet des solutés de remplissage sur la survenue d'une insuffisance rénale [74]. La faible prévalence de l'insuffisance rénale dans cette population de patient, et donc la faible puissance des études rapportées à montrer un effet, rend difficile l'interprétation de ce résultat [74].
+
+En termes de bénéfice sur la balance hydro-sodée ou la stabilisation hémodynamique, le bénéfice des colloïdes semble limité. Ainsi, dans deux études de haut niveau de preuve évaluant le bénéfice des hydroxyéthylamidons en termes de balance hydro-sodée ou de remplissage vasculaire, une différence
+
+limitée en faveur des HEA était notée. Ainsi dans l'étude de Myburgh et al. [63], la différence en termes de balance hydrique à j4 était de 61 mL (982 ± 1069 vs 921 ± 1161,  $p = 0,03$ ). Dans l'étude de Guidet et al. [67], la différence en termes de remplissage était de 331 mL (1709 ± 1164 mL vs 1379 ± 886 mL,  $p = 0,02$ ). Il est cependant à noter dans cette dernière étude, que la balance hydrique à j4 était similaire entre les deux bras (56,6 mL/kg vs 55,8 mL/kg).
+
+Le comité de pharmacovigilance de l'Agence européenne du médicament a rendu publiques le 11 octobre 2013 ses conclusions concernant l'utilisation des HEA [75]. Selon cette dernière, les HEA ne doivent plus être utilisés chez le patient septique, le patient de réanimation ou le brûlé. L'utilisation reste possible en cas de choc hémorragique lorsque les cristalloïdes ne sont pas suffisants (pour une durée ne dépassant pas 24 heures, et avec une surveillance de la fonction rénale de 90 jours).
+
+R4.3 – Il faut probablement préférer les solutés balancés en cas de remplissage vasculaire important.  
+(Grade 2 + ) Accord Fort
+
+Argumentaire.- Aucune étude randomisée n'a montré à ce jour de bénéfice en termes de mortalité lors de l'utilisation préférentielle de solutés pauvres en chlore chez le patient de réanimation ou périopératoire. Néanmoins, des données expérimentales montrent que l'hyperchlórémie dans l'artère rénale est un puissant vasoconstricteur dont l'effet est proportionnel à l'importance de l'hyperchlórémie [76-78]. Une étude clinique a retrouvé, chez des sujets sains, une baisse de la perfusion corticale en IRM après perfusion de 2 litres de sérum salé à 0,9 % comparée à une perfusion d'une solution pauvre en chlore [79]. Les données issues d'études de cohorte et celles réalisées sur de larges effectifs avec appariement par des scores de propension concordent toutes pour souligner les effets délétères des solutés non balancés en particulier sur le plan rénal [80,81]. Trois grandes études cliniques observationnelles récentes montrent que l'hyperchlórémie associée au remplissage vasculaire par NaCl 0,9 % est associée à une morbidité accrue, en particulier rénale, comparé au remplissage par des solutés balancés [82-84]. L'étude observationnelle de Shaw et al. [82] incluant 30 994 patients de chirurgie abdominale sur base de données administratives de grande taille a montré que les patients recevant du NaCl 0,9 % comparés à ceux recevant des solutés balancés avaient un taux de complications postopératoires et de recours à l'épuration extra-rénale (4,8 % vs 1 %,  $p < 0,05$ ) plus important. Des résultats similaires ont été retrouvés dans l'étude![Blue square icon](1b38c7684d8fb9c120a7668576d1417d_1_img.webp)
+
+observationnelle séquentielle de Yunos et al. [83] menée sur des patients de réanimation. Sur un collectif de près de 5000 patients chirurgicaux appariés sur un score de propension, McCluskey et al. [84] ont montré que l'hyperchlórémie était un facteur indépendant de risque de survenue d'insuffisance rénale aiguë postopératoire. Cependant, il n'existe à ce jour pas de réelle étude randomisée contrôlée confirmant ces données et les résultats sur la mortalité sont contradictoires [82,85]. Une méta-analyse récente incluant plus de 6000 patients conclut à un risque accru d'insuffisance rénale aiguë et de transfusion associé à l'utilisation de solutés riches en chlore sans toutefois modifier la mortalité par rapport aux solutés équilibrés [86]. Ainsi, toutes ces données suggèrent de considérer les solutés non équilibrés comme potentiellement délétères, en particulier sur le rein, et d'en restreindre leur utilisation surtout en cas de remplissage vasculaire important [87].
+
+R4.4 – Il faut maintenir un niveau minimal de PAM compris entre 60 et 70 mmHg pour prévenir et traiter l'IRA.  
+(Grade 1 +) ; Accord Fort
+
+R4.5 – Il faut probablement considérer que les patients hypertendus requièrent un objectif de PAM > 70 mmHg.  
+(Grade 2+) ; Accord Fort  
+Argumentaire.– Le niveau optimal de PAM au cours de l'IRA a été peu étudié. Dans la mesure où un niveau de PAM à 65 mmHg est un facteur de survie chez le patient de réanimation [88], en particulier au cours du sepsis [89–91], cette valeur est habituellement considérée comme la valeur minimale acceptable pour garantir la perfusion rénale au cours de l'IRA [92]. Une pression artérielle diastolique < 50–55 mmHg est associée à un surcroît d'IRA au cours du choc septique [93,94]. Comme le seuil d'autorégulation rénal peut être plus élevé chez des patients âgés et/ou porteurs d'antécédents cardiovasculaires, la question de maintenir un niveau de PAM supérieur à 65 mmHg reste fréquemment posée chez ces patients. En termes de mortalité, une étude randomisée multicentrique récente montre qu'une valeur de 65–70 mmHg n'apporte aucun bénéfice par rapport à une valeur de 80–85 mmHg [95]. Deux études observationnelles anciennes avec période d'observation courte (24 h) ne montrent aucun bénéfice rénal pour une valeur de PAM à 65 mmHg vs 85 mmHg [96,97]. Plusieurs études suggèrent toutefois que des niveaux supérieurs à 65 mmHg de PAM
+
+peuvent avoir un intérêt au cours de la prise en charge de l'IRA [92,95,98]. Dans une étude randomisée menée sur 776 patients en choc septique, une valeur de 80–85 mmHg (vs 65–70 mmHg) peut diminuer le risque de recours à l'EER chez les patients hypertendus, sans influence sur la mortalité [95]. Au cours de l'IRA, une étude rétrospective de cohorte menée sur 274 patients septiques suggère qu'une PAM < 75 mmHg prédit la nécessité d'EER [98]. Dans une étude prospective menée sur 423 patients, un niveau de PAM < 75 mmHg est associé à une progression de l'IRA au cours du choc septique [92]. Ceci souligne l'intérêt de personnaliser le niveau de PAM pour chaque patient et d'autoriser un niveau de PAM de 75–85 mmHg chez les patients présentant une insuffisance rénale persistante malgré un remplissage adéquat et un niveau de PAM à 65 mmHg. En médecine périopératoire, dans une étude observationnelle portant sur 33 300 patients de chirurgie non cardiaque, une valeur de PAM inférieure à 55–60 mmHg est associée à un surcroît d'insuffisances rénales [99]. En chirurgie cardiaque, une PAM de moins de 50 mmHg est associée à une augmentation de l'IRA postopératoire, alors qu'une valeur de PAM de 60–70 mmHg est un élément protecteur [100]. Dans le même contexte, une chute peropératoire de 26 mmHg de PAM est associée à une surcroît d'IRA après chirurgie cardiaque [101].
+
+R4.6 – Il faut monitorer et optimiser le volume d'éjection systolique ou ses dérivés en période périopératoire afin de guider le remplissage vasculaire.  
+(Grade 1+) Accord Fort
+
+R4.7 – Il faut probablement appliquer les mêmes recommandations en réanimation.  
+(Grade 2+) Accord Fort
+
+R4.8 – Après stabilisation hémodynamique, il faut probablement éviter la surcharge hydro-sodée en réanimation.  
+(Grade 2+) Accord Fort  
+Argumentaire.– En médecine périopératoire, toutes chirurgies confondues, l'optimisation hémodynamique peropératoire visant des objectifs d'index cardiaque de 4,5 L/min/m<sup>2</sup>, de transport en oxygène de 600 mL/min/m<sup>2</sup> ou de consommation en oxygènede 170 mL/min/m<sup>2</sup> permet de limiter les épisodes d'hypovolémie et par suite une réduction du risque d'IRA postopératoire [102,103]. Les outils utilisables sont le cathéter artériel pulmonaire, le Doppler œsophagien, les systèmes d'analyse du contour de l'onde de pouls. Les moyens sont le remplissage vasculaire, les vasopresseurs et les inotropes. Des recommandations analogues peuvent être faites en réanimation mais le niveau de preuve est faible.
+
+En réanimation, l'hyperinflation hydro-sodée est associée à une incidence accrue d'IRA et à sa sévérité, chez les patients nécessitant ou non une EER [21,104-108]. Une valeur de 10 % de prise de poids est le critère le plus souvent étudié. Les études sur cette question sont toutes observationnelles. Il n'y a pas d'essai comparatif. S'il existe un lien entre l'accumulation de fluide et la fréquence et la gravité de l'IRA, il n'y a pas de preuve que le contrôle de la balance hydro-sodée a un effet rénal favorable. En d'autres termes, il n'est pas démontré que l'accumulation de fluide soit la cause ou la conséquence de l'IRA. Elle peut n'être qu'un simple marqueur de gravité et non la cause de l'IRA. En médecine périopératoire, le contrôle de la balance hydro-sodée limite les complications postopératoires. Dans le cadre strict de l'IRA, il n'y a pas de bénéfice démontré du contrôle de la balance hydrique sur la fonction rénale [109,110].
+
+R4.9 – Si un vasoconstricteur est nécessaire, il faut probablement utiliser la noradrénaline en première intention pour maintenir les objectifs de PAM.
+
+(Grade 2+) Accord Fort
+
+Argumentaire.- L'utilisation de vasopresseurs au cours de l'IRA pour atteindre ou maintenir les objectifs de PAM et PAD énoncés plus haut est logique lorsque le remplissage vasculaire n'a pas permis d'obtenir ces objectifs. Plusieurs études observationnelles montrent que la noradrénaline est le vasoconstricteur qui réunit le meilleur compromis en termes de coût, de sécurité et de simplicité d'utilisation [111-117]. Il n'y a pas d'étude contrôlée sur ce point spécifique. La terlipressine peut être une alternative à la noradrénaline en l'absence de coronaropathie [118,119]. La vasopressine a été utilisée dans de rares cas, mais le faible effectif des études ne permet pas de recommandations.
+
+R4.10 – Il ne faut probablement pas retarder la réalisation d'examens complémentaires ou l'administration de médicaments
+
+potentiellement néphrotoxiques s'ils sont nécessaires à la prise en charge du patient.
+
+(Avis d'experts) Accord Fort
+
+## Quelle est la gestion des agents néphrotoxiques ?
+
+R5.1 – Il faut probablement recourir à une hydratation par cristalloïdes pour prévenir la néphropathie associée aux produits de contraste iodé, idéalement avant injection de produit de contraste et poursuivre cette dernière pendant 6 à 12 heures.
+
+(Grade 2+) Accord Fort
+
+R5.2 – Il ne faut probablement pas utiliser la *N*-acétylcystéine et/ou le bicarbonate de sodium en prévention de la néphropathie associée aux produits de contraste.
+
+(Grade 2-) Accord Fort
+
+Argumentaire.- L'incidence de la néphropathie associée aux produits de contraste, bien qu'évaluée par des études peu nombreuses, de qualité méthodologique limitée et utilisant des définitions différentes, varie en dehors de la réanimation de 2 % chez le patient sans facteur de risque [120] à 25 % chez les patients avec facteur de risque (maladie rénale chronique, diabète, néphrotoxique concomitant) [121]. En réanimation, selon la définition utilisée, cette incidence varie de 16 % à 31 % [122-125]. Plusieurs facteurs de risque d'atteinte rénale sont concomitamment associés chez les malades de réanimation (hypotension, sepsis, médicaments néphrotoxiques), ce qui rend l'influence directe de l'injection de produit de contraste difficile à individualiser. La majorité des études portent donc sur les patients dans la période périopératoire de chirurgie cardiaque ou de cardiologie, mais peu d'études sont disponibles en réanimation.
+
+Les études disponibles, malheureusement hétérogènes et majoritairement mal conduites pour les plus anciennes, qui sont prises en compte dans un grand nombre de méta-analyses donnent des résultats discordants [126-131]. De plus, dans les méta-analyses les plus récentes, les résultats positifs en faveur du *N*-acétylsystéine (NAC) ne sont observés qu'avec les études publiées, alors que cet effet disparaît si l'on tient compte des études non publiées [128,132]. L'alcalinisation par bicarbonate de sodium a été proposée en prévention de la![Blue square icon](61a1f271bd09d912588af990fadcc559_1_img.webp)
+
+néphropathie liée aux produits de contraste iodés. Deux méta-analyses récentes ont retrouvé un bénéfice à l'utilisation du bicarbonate de sodium dans cette indication en termes de diminution de l'incidence d'insuffisance rénale aiguë, sans effet sur le recours à l'EER ni sur la mortalité hospitalière [130,133]. Ces résultats n'ont pas été confirmés par 2 études prospectives randomisées récentes. Dans la première, l'hydratation par du soluté salé 0,9 % était associée à une moindre baisse du DFG et à une moindre incidence de néphropathie liée aux produits de contraste iodés en comparaison au bicarbonate de sodium (1 % versus 9 %,  $p = 0,02$ ) [134]. Dans la seconde étude [135], les résultats concluait à une non-infériorité du bicarbonate par rapport au soluté salé isotonique sans différence d'incidence de la néphropathie liée aux produits de contraste iodés (3 % versus 5,1 %,  $p = 0,23$ ). En l'état, si l'utilisation de bicarbonate est une alternative tout à fait satisfaisante au sérum salé 0,9 %, il est impossible à ce jour d'affirmer la supériorité de cette stratégie de prévention. Les autres médicaments étudiés n'ont jamais montré d'effet positif indiscutable et ne peuvent donc pas être recommandés [136,137]. Au final, le remplissage en amont semble être le traitement prophylactique le plus efficace [138,139]. Les risques inhérents au remplissage vasculaire sont relativement minimes, étant donné que les quantités nécessaires sont limitées (environ 1000 à 1500 mL en tout et sur plusieurs heures), ce qui en dehors des patients insuffisants cardiaques ou en surcharge hydro-sodée majeure ne devrait pas avoir de conséquences. D'autant que le bénéfice qui est de réduire le risque d'insuffisance rénale post-procédure devrait permettre une élimination rapide de cet apport hydrique par la conservation d'une diurèse efficace.
+
+Au final, le remplissage en amont semble être le traitement prophylactique le plus efficace, la balance bénéfice/risque étant largement en faveur, en restant prudent chez les patients présentant des risques importants de décompensation lors d'apports hydro-sodée modérés.
+
+R5.3 – Il faut probablement appliquer les règles suivantes lorsque l'usage d'aminosides est nécessaire :
+
+- • administrer en une injection par jour ;
+- • monitorer les taux résiduels au-delà d'une injection ;
+- • administrer au maximum 3 jours à chaque fois que possible.
+
+(Grade 2 + ) Accord Fort
+
+R5.4 – Il faut probablement ne pas utiliser les anti-inflammatoires non stéroïdiens (AINS), inhibiteurs de l'enzyme de conversion (IEC) et antagonistes des récepteurs de l'angiotensine 2 (ARA 2) chez les patients à risque d'IRA.
+
+(Avis d'experts) Accord Fort
+
+Argumentaire.– Les études montrant la toxicité rénale et auditive des aminosides sont anciennes, toutes avec un schéma posologique de 2 injections par jour et sans tenir compte de la valeur de la concentration sanguine résiduelle [140–142]. Des études plus récentes ont montré que la toxicité était due quasi uniquement à la concentration sanguine résiduelle trop élevée du médicament (plus de 20 h après l'injection) alors que le pic de concentration sanguine (mesuré une demie heure après l'injection) était le tenant de l'efficacité [143–150]. De ces études de toxicité découlent les recommandations actuelles, privilégiant un pic de concentration sanguine élevé avec des doses d'aminoside importantes en bolus et un suivi strict de la concentration résiduelle pour éviter la toxicité rénale. En pratique, pour l'efficacité il faudrait donc doser le pic de concentration sanguine 30 minutes après la fin de perfusion de l'aminoside et adapter les doses suivantes afin d'être dans la fourchette de concentration recommandée. Pour la toxicité, si l'aminoside est utilisé plusieurs jours consécutifs, il faudrait évaluer son taux résiduel (vallée) 24 h après son administration, en mesurant sa concentration sanguine, afin de n'injecter une nouvelle dose que si la concentration est inférieure au seuil recommandé. De plus, il est montré qu'une exposition longue augmente la survenue d'IRA, d'où l'intérêt de limiter l'usage à 3 jours, ce qui couvre la phase la plus aiguë du sepsis tout en limitant la toxicité [144]. Cette limitation ne s'applique pas aux infections endovasculaires ou endocardites et aux infections ostéo-articulaires sur matériel où il peut être nécessaire de prolonger l'utilisation d'aminosides plusieurs jours, voire semaines. Néanmoins, aucune étude n'existe avec le schéma thérapeutique proposé. Cette recommandation est un avis d'experts découlant des constatations et des conclusions des études anciennes et des études sur la toxicité.
+
+Bien qu'il n'existe pas d'études randomisées contrôlées sur l'utilisation cumulée de produits néphrotoxiques, les études de cohortes et les études de toxicité montrent que l'association de plusieurs facteurs néphrotoxiques et notamment les médicaments, augmente de façon exponentielle le risque de développer une IRA [60,61]. Il faudra donc tenir compte de cet aspect au moment du choix des médicaments d'un patient à risque de développer une IRA, en limitant et pesant bien l'indication des médicaments néphrotoxiques et en privilégiant ceux qui demeurent indispensables. Par exemple, il faudra ainsiéviter de prescrire des anti-inflammatoires non stéroïdiens (AINS) chez un patient traité par un aminoside et un glycopeptide. Il faudra privilégier les médicaments ou examens réellement indispensables et tenter de trouver des alternatives afin de diminuer la néphrotoxicité [151-153].
+
+## Quelles sont les stratégies pharmacologiques de prévention et de traitement de l'IRA ?
+
+R6.1 – Il ne faut pas utiliser de diurétiques dans l'objectif de prévenir ou traiter une IRA ; il faut probablement les réserver au traitement de la surcharge hydro-sodée.
+
+(Grade 1-) Accord Fort
+
+Argumentaire.- L'insuffisance rénale aiguë (IRA) est une défaillance d'organe fréquente en réanimation et dans la période périopératoire de chirurgie cardiovasculaire, associée à une morbi-mortalité élevée. Dans 2 méta-analyses récentes [154,155], l'utilisation de diurétiques ne diminuait ni l'incidence ni la sévérité de l'IRA. L'utilisation du furosémide n'a pas démontré de bénéfice sur la mortalité hospitalière, le recours à l'épuration extra-rénale (EER), ou le nombre de séances d'EER. L'insuffisance rénale aiguë avec surcharge hydro-sodée étant associée à une surmortalité [104,107], les diurétiques peuvent être proposés dans l'objectif de traiter une surcharge hydro-sodée.
+
+R6.2 – Il ne faut probablement pas utiliser le bicarbonate de sodium pour prévenir ou traiter une IRA.
+
+(Grade 2-) Accord Fort
+
+Argumentaire.- L'utilisation du bicarbonate de sodium a été proposée en traitement préventif dans une étude multicentrique randomisée contrôlée récente (bicarbonate de sodium versus chlorure de sodium 0,9 %) dont le critère de jugement principal était le développement d'IRA dans la période postopératoire [156]. Les résultats ont retrouvé une incidence plus importante d'IRA dans le groupe bicarbonate de sodium (83/174 [47,7 %]) par rapport au groupe témoin (64/176 [36,4 %]), *odds ratio* [OR] 1,60 [95 % IC 1,04-2,45],  $p = 0,03$ ). Cette étude a été interrompue prématurément en raison d'une surmortalité dans le groupe bicarbonate de sodium (11/174 [6,3 %] versus 3/176 [1,7 %]), OR 3,89 [1,07-14,2],  $p = 0,03$ ). Deux autres études
+
+récentes menées en chirurgie cardiaque n'ont pas retrouvé de bénéfice du bicarbonate de sodium en prévention de l'IRA [157,158].
+
+Concernant le traitement de l'IRA, une méta-analyse récente a été réalisée sur l'utilisation du bicarbonate de sodium dans cette indication [159]. Le critère de jugement principal était la mortalité hospitalière ; les critères secondaires étaient le recours à l'épuration extra-rénale (EER), la récupération rénale et la survie globale. Cette méta-analyse a identifié 4 études sur le sujet, dont aucune ne répondait aux critères de sélection prédéterminés. En conséquence, compte tenu des données actuelles de la littérature, il n'est pas recommandé d'utiliser du bicarbonate de sodium pour prévenir ou traiter une IRA.
+
+Dans le cas particulier de la prévention de l'IRA induite par la rhabdomyolyse, si la nécessité d'un remplissage vasculaire important semble établie [160-162], le choix du type de soluté reste débattu. Il existe des bénéfices théoriques à l'utilisation du bicarbonate de sodium (inhibition de la vasoconstriction intra-rénale, inhibition de la peroxydation lipidique et diminution de la cristallisation de la myoglobine avec la protéine de Tamm-Horsfall). Néanmoins, les quelques études cliniques disponibles ne permettent pas d'affirmer la supériorité du bicarbonate de sodium sur les autres solutés de remplissage vasculaire pour des raisons méthodologiques (petits effectifs, interventions multiples, études non randomisées) [163-167].
+
+R6.3 – Il ne faut pas utiliser les traitements suivants dans l'objectif de prévenir ou traiter une IRA : mannitol, dopamine, fenoldopam, facteur atrial natriurétique, *N*-acétylcystéine, *insulin-like growth factor-1*, érythropoïétine, antagonistes des récepteurs de l'adénosine.
+
+(Grade 1-) Accord Fort
+
+Argumentaire.- Le mannitol a été proposé en traitement préventif de l'IRA en période périopératoire, chez des patients traumatisés crâniens, chez des patients ayant une rhabdomyolyse ou chez des patients qui devaient avoir une coronarographie. Dans la plupart des études, il majora la diurèse sans diminuer l'incidence d'IRA ou en la majorant [168-170].
+
+La dopamine à faible dose (1 à 3 µg/kg/min) a un effet vasodilatateur rénal et natriurétique chez l'adulte sain. Ce médicament a été évalué en traitement préventif de l'IRA dans de multiples situations cliniques : patients de réanimation avec SIRS, périopératoire de chirurgie aortique, postopératoire de greffe hépatique ou rénale. L'ensemble des études incluant![Blue square decorative element](97929d18509001c65752ef96ac45e4a6_1_img.webp)
+
+un essai prospectif multicentrique randomisé contrôlé, une méta-analyse et une revue systématique concluent à l'absence de bénéfice de la dopamine en traitement préventif ou curatif de l'insuffisance rénale aiguë [171-173].
+
+Le fenoldopam est un agoniste des récepteurs à la dopamine-1 sans effet systémique  $\alpha$ - ou  $\beta$ -adrénergique. Sept études incluant un total de 1218 patients n'ont pas retrouvé de bénéfice à l'utilisation préventive ou curative du fenoldopam sur le recours à l'épuration extra-rénale ou la mortalité [174-180]. Le bénéfice du fenoldopam sur la survenue d'une IRA est plus difficile à évaluer compte tenu de l'hétérogénéité des délais et des critères diagnostiques utilisés entre les études. Quatre méta-analyses sont disponibles avec des résultats discordants :
+
+2 montrent un bénéfice du fenoldopam avec une réduction du risque d'IRA, une ne montre pas de bénéfice et la dernière n'a pas réalisé d'analyse sur le risque d'IRA [181-184]. Compte tenu des données actuelles de la littérature, il n'est pas recommandé d'utiliser le fenoldopam pour prévenir ou traiter une IRA.
+
+Plusieurs peptides natriurétiques, qui peuvent augmenter le débit de filtration glomérulaire, ont été proposés en traitement préventif ou curatif de l'IRA. La majorité des essais prospectifs randomisés contrôlés et 3 méta-analyses ne retrouvent pas de bénéfice à l'utilisation des peptides natriurétiques [185-188].
+
+L'utilisation de la N-acétylcystéine en traitement préventif ou curatif de l'IRA n'a démontré aucun bénéfice en termes de recours à l'épuration extrarénale ou de réduction de la mortalité [129,189-192]. En dehors du cadre de la prévention de la néphropathie liée aux produits de contraste iodés, les études ont été réalisées principalement dans la période périopératoire de chirurgie cardiovasculaire.
+
+L'utilisation de l'IGF-1 (*insulin-like growth factor-1*) n'a démontré aucun bénéfice en prévention ou traitement de l'IRA dans les études disponibles [193,194]. Il n'existe actuellement pas suffisamment de données pour recommander l'utilisation de l'érythropoïétine en prévention ou traitement de l'IRA [195]. Une seule étude portant sur 71 patients de chirurgie cardiaque (pontage aorto-coronarien) a montré un bénéfice à l'utilisation de l'érythropoïétine (300 U/kg) avant chirurgie versus soluté salé isotonique en termes de réduction de l'IRA postopératoire (8 % vs 29 %,  $p = 0,03$ ) [196].
+
+Dans 2 études pilotes versus placebo, la rolofylline (antagoniste des récepteurs A1 de l'adénosine) a été administrée chez des patients ayant une insuffisance cardiaque aiguë [197,198]. Dans les deux études, la rolofylline majorait la diurèse et améliorait la clairance de la créatinine (versus placebo). L'étude multicentrique prospective la plus importante ( $n = 2033$  patients) et la plus récente comparant la rolofylline versus placebo dans l'insuffisance cardiaque aiguë avec IRA n'a retrouvé aucun bénéfice en faveur
+
+de la rolofylline en termes de survie, fonction cardiaque et fonction rénale [199].
+
+Il existe 2 situations particulières nécessitant un traitement préventif de l'IRA :
+
+- • l'administration de méthotrexate à forte dose [200] ;
+- • les patients à haut risque de syndrome de lyse tumorale.
+
+Le méthotrexate à forte dose (1-12 g/m<sup>2</sup>) est utilisé dans le traitement de nombreuses maladies tumorales malignes. Ce médicament peut entraîner une IRA (jusqu'à 40 % des patients dans une étude récente par des mécanismes de toxicité tubulaire « directe » et de précipitation intratubulaire) [201].
+
+L'hyperhydratation ( $\geq 2$  L/m<sup>2</sup>) par voie intraveineuse et l'alcalinisation des urines sont les deux stratégies recommandées pour prévenir l'IRA. Plusieurs études historiques, observationnelles et interventionnelles ont mis en évidence une augmentation de la clairance du méthotrexate et une diminution des cas de toxicité sévère en associant ces deux stratégies [202-205]. L'alcalinisation des urines diminue la cristallisation du méthotrexate [202]. Ainsi, il faut alcaliniser les urines des patients qui doivent recevoir du méthotrexate à forte dose (1-12 g/m<sup>2</sup>) dans l'objectif de prévenir l'IRA. Environ un tiers des patients à haut risque de syndrome de lyse tumorale (SLT) développent une IRA [206,207].
+
+L'hyperuricémie est un des facteurs contribuant à l'IRA dans cette situation clinique par différents mécanismes [208]. Dans 2 études randomisées contrôlées et 2 méta-analyses récentes, l'utilisation de la rasburicase était associée à une réduction plus rapide et plus importante de l'uricémie par rapport à l'allopurinol [209-211]. En revanche, il n'est pas démontré à ce jour que ce bénéfice se traduise par une baisse de l'incidence d'IRA [212]. Néanmoins, il faut rappeler que l'hyperuricémie n'est qu'un des mécanismes d'agression rénale dans le SLT (cristaux phosphocalciques, hypovolémie, infiltration rénale tumorale, exposition aux néphrotoxiques, obstruction tumorale, inflammation). L'utilisation de la rasburicase chez les patients à haut risque de SLT est proposée par les 4 recommandations d'experts récemment publiées [198,213-215].
+
+## Quelles sont les modalités de nutrition en cas d'IRA ?
+
+R7.1 – Il faut probablement appliquer les mêmes règles de support nutritionnel chez le patient de réanimation en présence ou non d'une IRA (sans EER).
+
+(Grade 2+) Accord FortR7.2 – Il ne faut pas limiter les apports nutritionnels dans le seul but de prévenir la surcharge hydro-sodée et/ou le recours à l'EER. (Grade 1+) Accord Fort
+
+Argumentaire.– L'IRA affecte non seulement l'équilibre hydro-électrolytique et acido-basique du patient, mais interfère également avec le métabolisme de chaque macronutriments, majorant ainsi l'hypercatabolisme. Ainsi, les conséquences liées à IRA s'ajoutent à celles de la pathologie sous-jacente en termes de dénutrition [216]. La présence d'une dénutrition chez les patients présentant une IRA est associée significativement à une incidence élevée de complications infectieuses, d'hospitalisations prolongées et de mortalité [18]. L'évaluation nutritionnelle est rendue complexe sur l'interprétation des marqueurs disponibles (indice de masse corporelle, impédancemétrie) en raison des modifications de l'état d'hydratation [217]. Le support nutritionnel des patients agressés avec une IRA doit être similaire à celui des patients dans la même situation catabolique en l'absence IRA pour atteindre les mêmes objectifs protéo-énergétiques et préserver la masse musculaire, améliorer la fonction immunitaire et réduire la mortalité [218]. La couverture des besoins nutritionnels doit prendre en compte l'hypercatabolisme lié à la pathologie et la présence ou non d'une épuration extrarénale, notamment le type d'épuration. Ces facteurs ont un rôle prépondérant sur le support nutritionnel plus que l'IRA en elle-même. La calorimétrie indirecte reste l'outil de référence pour définir les besoins énergétiques des patients. Lorsque cette dernière ne peut être utilisée, il est recommandé un apport énergétique de 20 à 30 kcal/kg/j et un apport protéique de 1,5 g/kg/j en l'absence d'épuration extrarénale [219]. En présence d'une épuration extrarénale, il faut probablement majorer l'apport protéique y compris de glutamine et les micronutriments (vitamines hydrosolubles et traces éléments) [220]. Les vitamines hydrosolubles du groupe B (notamment vitamine B1 et folates) sont éliminées en quantité significative lors de l'épuration extrarénale [221].
+
+R7.1 pédiatrique – Il faut probablement adapter les apports protéiques en fonction de l'âge des enfants présentant une IRA. (Grade 2+) Accord Fort
+
+Argumentaire pédiatrique.– Les KDIGO 2012 [1] ont émis des recommandations concernant la nutrition de patients pédiatriques en situation d'IRA qui peuvent être suivies. Les auteurs insistent sur un point essentiel de la pédiatrie qui est le statut de
+
+croissance statur-pondérale de ces patients qui nécessite souvent des apports nutritionnels plus importants que les patients adultes. Les KDIGO ont proposé les apports protéiques suivants en fonction de l'âge des enfants présentant une IRA :
+
+- • 2-3 g/kg/j de 0 à 2 ans ;
+- • 1,5-2 g/kg/j de 2 à 13 ans ;
+- • 1,5 g/kg/j après 13 ans.
+
+## Comment faut-il évaluer la récupération de la fonction rénale après IRA ?
+
+R8.1 – Il faut considérer à risque de survenue d'insuffisance rénale chronique les patients ayant présenté une IRA. (Grade 1+) Accord Fort
+
+R8.2 – Il faut probablement évaluer la fonction rénale des patients ayant présenté une IRA 6 mois après la survenue de l'épisode aigu. (Grade 2+) Accord Fort
+
+R8.3 – Il faut probablement définir la non-récupération de la fonction rénale après IRA comme suit : augmentation de la créatinine plasmatique de plus de 25 % de la valeur de base ou dépendance à l'EER. (Grade 2+) Accord Fort
+
+Argumentaire.– L'IRA sévère peut s'accompagner d'une absence totale ou partielle de récupération de la fonction rénale conduisant à l'insuffisance rénale chronique (IRC). Les études pédiatriques ont été les premières à montrer grâce à un suivi prolongé que des patients présentant une récupération considérée comme complète sur les données biologiques pouvaient évoluer dans les trois ans vers une insuffisance rénale chronique dans 10 % des cas [222]. Il semble qu'une récupération incomplète puisse permettre de normaliser la fonction rénale évaluée sur les marqueurs biologiques habituels (créatinémie), malgré la réduction du nombre de néphrons. Cette perte de masse néphronique aboutit cependant à une plus grande susceptibilité rénale en cas de nouvelle agression ou lors du vieillissement physiologique.Une revue récente de la littérature estime l'incidence de l'insuffisance rénale chronique après une agression aiguë à 25,8/100 patients-année et celle de l'insuffisance chronique terminale à 6,6/100 patients-année [10]. Ainsi, il apparaît clairement qu'il existe un lien entre agression rénale aiguë et risque d'évolution vers l'insuffisance rénale chronique. Plusieurs études rapportent par ailleurs une relation entre la sévérité de l'atteinte aiguë et l'augmentation du risque d'évolution vers des lésions chroniques, avec un doublement de l'incidence de l'IRC terminale nécessitant la dialyse à 10 ans [223]. Cette évolution vers l'IRC est associée à une augmentation de la mortalité. L'étude de Pannu et al. [224] retrouve une augmentation significative de la persistance d'une IRC ou de l'évolution vers le stade terminal dès lors que la récupération de la fonction rénale est inférieure à 125 % de la créatinine pré-lésionnelle. Il semble qu'un suivi néphrologique soit nécessaire afin de dépister à distance l'évolution défavorable
+
+de la fonction rénale. Une étude portant sur 3877 patients dont 1153 avaient pu bénéficier d'une consultation néphrologique à 3 mois a montré que leur survie était significativement meilleure comparés à un groupe contrôle apparié (RR 0,76, 95 % IC 0,62-0,93) [225]. Ainsi, un suivi néphrologique systématique est conseillé chez les patients ayant développé une IRA quel que soit le degré de récupération.
+
+**Déclaration de liens d'intérêts :** CI, CV, BS, FA, EC, CC, JMC, MD, JD, TG, AG, LJ, OJB, LJ, DJ, AL, NL, TR, FT, YW déclarent ne pas avoir de liens d'intérêts. ML a reçu des honoraires pour des conférences lors de congrès de Alère, ainsi que des subventions pour mise à disposition de matériel de Astute, Brahms, Abbott, Hospal-Gambro ; LM a reçu des honoraires pour des conférences lors de congrès de Fresenius-Kabi et B-Braun ; ER a reçu des honoraires pour des conférences lors de congrès de Novartis, Astellas, Alexion ; LV a reçu des honoraires en tant que consultant ponctuel de Novartis, Gambro-Hospal, MSD, Fresenius.
+
+## Références
+
+1. [1] The Kidney Disease Improving Global Outcomes (KDIGO) Working Group. KDIGO clinical practice guideline for acute kidney injury. *Kidney Int Suppl* 2012;2:1-138.
+2. [2] Hoste EA, Damen J, Vanholder RC, et al. Assessment of renal function in recently admitted critically ill patients with normal serum creatinine. *Nephrol Dial Transplant* 2005;20:747-53.
+3. [3] Kellum JA, Lameire N. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (part 1). *Crit Care* 2013;17:204.
+4. [4] Bellomo R, Ronco C, Kellum JA, Mehta RL, Palevsky P. Acute renal failure – definition, outcome measures, animal models, fluid therapy and information technology needs: the Second International Consensus Conference of the Acute Dialysis Quality Initiative (ADQI) Group. *Crit Care* 2004;8:R204-12.
+5. [5] Mehta RL, Kellum JA, Shah SV, et al. Acute Kidney Injury Network: report of an initiative to improve outcomes in acute kidney injury. *Crit Care* 2007;11:R31.
+6. [6] Uchino S, Bellomo R, Goldsmith D, Bates S, Ronco C. An assessment of the RIFLE criteria for acute renal failure in hospitalized patients. *Crit Care Med* 2006;34:1913-7.
+7. [7] Hoste EA, Clermont G, Kersten A, et al. RIFLE criteria for acute kidney injury are associated with hospital mortality in critically ill patients: a cohort analysis. *Crit Care* 2006;10:R73.
+8. [8] Bagshaw SM, George C, Dinu I, Bellomo R. A multicentre evaluation of the RIFLE criteria for early acute kidney injury in critically ill patients. *Nephrol Dial Transplant* 2008;23:1203-10.
+9. [9] Joannidis M, Metnitz B, Bauer P, et al. Acute kidney injury in critically ill patients classified by AKIN versus RIFLE using the SAPS 3 database. *Intensive Care Med* 2009;35:1692-702.
+10. [10] Coca SG, Singanamala S, Parikh CR. Chronic kidney disease after acute kidney injury: a systematic review and meta-analysis. *Kidney Int* 2012;81:442-8.
+11. [11] Akcan-Arikan A, Zappitelli M, Loftis LL, Wasburn KK, Jefferson LS, Goldstein SL. Modified RIFLE criteria in critically ill children with acute kidney injury. *Kidney Int* 2007;71:1028-35.
+12. [12] Schwartz GJ, Brion LP, Spitzer A. The use of plasma creatinine concentration for estimating glomerular filtration rate in infants, children, and adolescents. *Pediatr Clin North Am* 1987;34:57-90.
+13. [13] Plötz F, Bouma A, van Wijk J, Kneyber M, Bökenkamp A. Pediatric acute kidney injury in the ICU: an independent evaluation of pRIFLE criteria. *Intensive Care Med* 2008;34:1713-7.
+14. [14] Bonventre JV, Yang L. Cellular pathophysiology of ischemic acute kidney injury. *J Clin Invest* 2011;121:4210-21.
+15. [15] Bellomo R, Kellum JA, Ronco C. Acute kidney injury. *Lancet* 2012;380:7556-66.
+16. [16] Chertow GM, Burdock E, Honour M, et al. Acute kidney injury, mortality, length of stay and costs in hospitalized patients. *J Am Soc Nephrol* 2005;16:3365-70.
+17. [17] Wald R, Quinn RR, Luo J, et al. Chronic dialysis and death among survivors of acute kidney injury requiring dialysis. *JAMA* 2009;302:1179-85.
+18. [18] Uchino S, Kellum JA, Bellomo R, et al. Acute renal failure in critically ill patients: a multi-national, multicenter study. *JAMA* 2005;294:813-8.
+19. [19] Waikar SS, Liu KD, Chertow GM. Diagnosis, epidemiology and outcomes of acute kidney injury. *Clin J Am Soc Nephrol* 2008;3:844-61.
+20. [20] Nisula S, Kaukonen KM, Vaara ST, et al. Incidence, risk factors and 90-day mortality of patients with acute kidney injury in Finnish intensive care units: the FINNAKI study. *Intensive Care Med* 2013;39:420-8.
+21. [21] Vaara ST, Pettilä V, Reinkainen M, Kaukonen KM, for the Finnish Intensive Care Consortium. Population-based incidence, and mortality and quality of life in critically ill patients treated with renal replacement therapy: a nationwide retrospective cohort study in Finnish intensive care units. *Crit Care* 2012;16:R13.
+22. [22] Endre ZH, Pickering JW, Walker RJ. Clearance and beyond: the complementary roles of GFR measurement and injury biomarkers in acute kidney injury (AKI). *Am J Physiol Renal Physiol* 2011;301:F697-707.
+23. [23] Murray PT, Mehta RL, Shaw A, et al. Current use of biomarkers in acute kidney injury: report and summary of recommendations from the 10th Acute Dialysis Quality Initiative Consensus Conference. *Kidney Int* 2014;85:513-21.
+24. [24] Bihorac A, Kellum JA. Acute kidney injury in 2014: a step towards understanding mechanism of renal repair. *Natl Rev Nephrol* 2015;11:74-5.
+25. [25] Cruz DN, Mehta RL. Acute kidney injury in 2013: breaking barriers for biomarkers in AKI-progress at last. *Nat Rev Nephrol* 2014;10:74-6.
+26. [26] Parikh CR, Devarajan P. New biomarkers in acute kidney injury. *Crit Care Med* 2008;36S159-65S.[27] Shang Z, Lu B, Sheng X, Jin N. Cystatin C in prediction of acute kidney injury: a systemic review and meta-analysis. *Am J Kidney Dis* 2011;58:356-65.
+
+[28] Liu Y, Guo W, Zhang J, et al. Urinary interleukin 18 for detection of acute kidney injury: a meta-analysis. *Am J kidney Dis* 2013;62:1058-67.
+
+[29] Shao X, Tian L, Xu W, et al. Diagnostic value of urinary kidney injury molecule-1 for acute kidney injury: a meta-analysis. *Plos One* 2014;9:e84131.
+
+[30] Haase M, Bellomo R, Devarajan P, et al. Accuracy of neutrophil gelatinase-associated lipocalin (NGAL) in diagnosis and prognosis in acute kidney injury: a systematic review and meta-analysis. *Am J Kidney Dis* 2009;54:1012-24.
+
+[31] Haase M, Devarajan P, Haase-Fielitz A, et al. The outcome of neutrophil gelatinase-associated lipocalin-positive subclinical acute kidney injury. *JACC* 2011;57:1752-61.
+
+[32] Kashani K, Al-Khafaji A, Ardiles T, et al. Discovery and validation of cell cycle arrest biomarkers in human acute kidney injury. *Crit Care* 2013;17:R25.
+
+[33] Bihorac A, Chawla LS, Shaw AD, et al. Validation of cell cycle arrest biomarkers for acute kidney injury using clinical adjudication. *Am J Resp Crit Care Med* 2014;189:932-9.
+
+[34] McIlroy DR, Epi MC, Wagener G, Lee HT. Biomarkers of acute kidney injury: an evolving domain. *Anesthesiology* 2010;112:998-1004.
+
+[35] Goldstein SL. Acute kidney injury in children and its potential consequences in adulthood. *Blood Purif* 2012;33:131-7.
+
+[36] Schiffl H, Lang S. Urinary biomarkers and acute kidney injury in children: the long road to clinical application. *Pediatr Nephrol* 2013;28:837-42.
+
+[37] Ataee N, Bazargani B, Sonbol A, et al. Early detection of acute kidney injury by serum cystatin C in critically ill children. *Pediatr Nephrol* 2014;29:133-8.
+
+[38] Schnell D, Darmon M. Renal Doppler to assess renal perfusion in the critically ill: a reappraisal. *Intensive Care Med* 2012;38:1751-60.
+
+[39] Duranteau J, Deruddre S, Vigue B, Chemla D. Doppler monitoring of renal hemodynamics: why the best is yet to come. *Intensive Care Med* 2008;34:1360-1.
+
+[40] Wan L, Yang N, Hiew C-Y, et al. An assessment of the accuracy of renal blood flow estimation by Doppler ultrasound. *Intensive Care Med* 2008;34:1503-10.
+
+[41] Lauschke A, Teichgräber UKM, Frei U, Eckardt KU. "Low-dose" dopamine worsens renal perfusion in patients with acute renal failure. *Kidney Int* 2006;69:1669-74.
+
+[42] Deruddre S, Cheisson G, Mazoit JX, et al. Renal arterial resistance in septic shock: effects of increasing mean arterial pressure with norepinephrine on the renal resistive index assessed with Doppler ultrasonography. *Intensive Care Med* 2007;33:1557-62.
+
+[43] Schnell D, Camous L, Guyomarc'h S, et al. Renal perfusion assessment by renal doppler during fluid challenge in sepsis. *Crit Care Med* 2013;41:1214-20.
+
+[44] Lerolle N, Guérot E, Faisy C, et al. Renal failure in septic shock: predictive value of Doppler-based renal arterial resistive index. *Intensive Care Med* 2006;32:1553-5.
+
+[45] Platt JF, Rubin JM, Ellis JH. Acute renal failure: possible role of duplex Doppler US in distinction between acute pre-renal failure and acute tubular necrosis. *Radiology* 1991;179:419-23.
+
+[46] Izumi M, Sugiura T, Nakamura H, et al. Differential diagnosis of prerenal azotemia from acute tubular necrosis and prediction of recovery by Doppler ultrasound. *Am J Kidney Dis* 2000;35:713-9.
+
+[47] Stevens PE, Gwyther SJ, Hanson ME, et al. Noninvasive monitoring of renal blood flow characteristics during acute renal failure in man. *Intensive Care Med* 1990;16:153-8.
+
+[48] Schnell D, Deruddre S, Harrois A, et al. Renal resistive index better predicts the occurrence of acute kidney injury than cystatin C. *Shock* 2012;38:592-7.
+
+[49] Darmon M, Schortgen F, Vargas F, et al. Diagnostic accuracy of Doppler renal resistive index for reversibility of acute kidney injury in critically ill patients. *Intensive Care Med* 2011;37:68-76.
+
+[50] Schnell D, Reynaud M, Venot M, et al. Resistive index or color-Doppler semi-quantitative evaluation of renal perfusion by inexperienced physicians: results of a pilot study. *Minerva Anestesiol* 2014;80:1273-81.
+
+[51] Bossard G, Bourgoin P, Corbeau JJ, et al. Early detection of postoperative acute kidney injury by Doppler renal resistive index in cardiac surgery with cardiopulmonary bypass. *Br J Anaesth* 2011;107:891-8.
+
+[52] Dewitte A, Coquin J, Meyssignac B, et al. Doppler resistive index to reflect regulation of renal vascular tone during sepsis and acute kidney injury. *Crit Care* 2012;16:R165.
+
+[53] Lerolle N. Please don't call me RI anymore; I may not be the one you think I am! *Crit Care* 2012;16:174.
+
+[54] Bude RO, Rubin JM. Relationship between the resistive index and vascular compliance and resistance. *Radiology* 1999;211:411-7.
+
+[55] Murphy ME, Tublin ME. Understanding the Doppler RI: impact of renal arterial distensibility on the RI in a hydronephrotic ex vivo rabbit kidney model. *J Ultrasound Med* 2000;19:303-14.
+
+[56] Tublin ME, Tessler FN, Murphy ME. Correlation between renal vascular resistance, pulse pressure, and the resistive index in isolated perfused rabbit kidneys. *Radiology* 1999;213:258-64.
+
+[57] Naesens M, Heylen L, Lerut E, et al. Intrarenal resistive index after renal transplantation. *N Engl J Med* 2013;369:1797-806.
+
+[58] Huen SC, Parikh CR. Predicting acute kidney injury after cardiac surgery: a systematic review. *Ann Thorac Surg* 2012;93:337-47.
+
+[59] Kheterpal S, Tremper KK, Heung M, et al. Development and validation of an acute kidney injury risk index for patients undergoing general surgery: results from a national data set. *Anesthesiology* 2009;110:505-15.
+
+[60] Pannu N, Nadim MK. An overview of drug-induced acute kidney injury. *Crit Care Med* 2008;36:5216-23.
+
+[61] Bentley ML, Corwin HI, Dasta J, et al. Drug-induced acute kidney injury in the critically ill adult: recognition and preventive strategies. *Crit Care Med* 2010;38(Suppl. 6):S169-74.
+
+[62] Annane D, Siami S, Jaber S, et al. Effects of fluid resuscitation with colloids vs crystalloids on mortality in critically ill patients presenting with hypovolemic shock: the CRISTAL randomized trial. *JAMA* 2013;310:1809-17.
+
+[63] Myburgh JA, Finfer S, Bellomo R, et al. Hydroxyethyl starch or saline for fluid resuscitation in intensive care. *N Engl J Med* 2012;367:1901-11.
+
+[64] Haase N, Perner A, Hennings LI, et al. Hydroxyethyl starch 130/0.38-0.45 versus crystalloid or albumin in patients with sepsis: systematic review with meta-analysis and trial sequential analysis. *BMJ* 2013;346:f839.
+
+[65] Perner A, Haase N, Guttorpsen AB, et al. Hydroxyethyl starch 130/0.42 versus Ring'er's acetate in severe sepsis. *N Engl J Med* 2012;367:124-34.
+
+[66] Zarychanski R, Abou-Setta AM, Turgeon AF, et al. Association of hydroxyethyl starch administration with mortality and acute kidney injury in critically ill patients requiring volume resuscitation: a systematic review and meta-analysis. *JAMA* 2013;309:678-88.
+
+[67] Guidet B, Martinet O, Boulain T, et al. Assessment of hemodynamic efficacy and safety of 6 % hydroxyethylstarch 130/0.4 vs. 0.9 % NaCl fluid replacement in patients with severe sepsis: the CRYSTMAS study. *Crit Care* 2012;16:R94.
+
+[68] Patel A, Waheed U, Brett SJ. Randomised trials of 6 % tetrastarch (hydroxyethyl starch 130/0.4 or 0.42) for severe sepsis reporting mortality: systematic review and meta-analysis. *Intensive Care Med* 2013;39:811-22.
+
+[69] Hartog CS, Reinhart K. CRYSTMAS study adds to concerns about renal safety and increased mortality in sepsis patients. *Crit Care* 2012;16:454.
+
+[70] Brunkhorst FM, Engel C, Bloos F, et al. Intensive insulin therapy and pentastarch resuscitation in severe sepsis. *N Engl J Med* 2008;358:125-39.
+
+[71] Schortgen F, Lacherade JC, Bruneel F, et al. Effects of hydroxyethylstarch and gelatin on renal function in severe sepsis: a multicentre randomised study. *Lancet* 2001;357:911-6.- [72] Perel P, Roberts I, Ker K. Colloids versus crystalloids for fluid resuscitation in critically ill patients. *Cochrane Database Syst Rev* 2013;2:CD000567.
+- [73] Mutter TC, Ruth CA, Dart AB. Hydroxyethyl starch (HES) versus other fluid therapies: effects on kidney function. *Cochrane Database Syst Rev* 2013;7:CD007594.
+- [74] Martin C, Jacob M, Vicaut E, et al. Effect of waxy maize-derived hydroxyethyl Starch 130/0.4 on renal function in surgical patients. *Anesthesiology* 2013;118:387-94.
+- [75] [http://www.ema.europa.eu/ema/index.jsp?curl=pages/news\\_and\\_events/news/2013/10/news\\_detail\\_001917](http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2013/10/news_detail_001917).
+- [76] Kurtz TW, Morris Jr RC. Dietary chloride as a determinant of "sodium-dependent" hypertension. *Science* 1983;222:1139-41.
+- [77] Wilcox CS. Regulation of renal blood flow by plasma chloride. *J Clin Invest* 1983;71:726-35.
+- [78] Hansen PB, Jensen BL, Skott O. Chloride regulates afferent arteriolar contraction in response to depolarization. *Hypertension* 1998;32:1066-70.
+- [79] Chowdhury AH, Cox EF, Francis ST, Lobo DN. A randomized, controlled, double-blind cross-over study on the effects of 2-L infusions of 0.9 % saline and plasma-lyte® 148 on renal blood flow velocity and renal cortical tissue perfusion in healthy volunteers. *Ann Surg* 2012;256:18-24.
+- [80] Lobo DN, Awad S. Should chloride-rich crystalloids remain the mainstay of fluid resuscitation to prevent 'pre-renal' acute kidney injury? *Kidney Int* 2014;86:1096-105.
+- [81] Yunos NM, Kim IB, Bellomo R, et al. The biochemical effects of restricting chloride-rich fluids in intensive care. *Crit Care Med* 2011;39:2419-24.
+- [82] Shaw AD, Bagshaw SM, Goldstein SL, et al. Major complications, mortality, and resource utilization after open abdominal surgery: 0.9 % saline compared to Plasma-Lyte. *Ann Surg* 2012;255:821-9.
+- [83] Yunos NM, Bellomo R, Hegarty C, Story D, Ho L, Bailey M. Association between a chloride-liberal vs chloride-restrictive intravenous fluid administration strategy and kidney injury in critically ill adults. *JAMA* 2012;308:1566-72.
+- [84] McCluskey SA, Karkouti K, Wijeyesundera D, Minkovich L, Tait G, Scott Beattie W. Hyperchloremia after non-cardiac surgery is independently associated with increased morbidity and mortality: a propensity-matched cohort study. *Anesth Analg* 2013;13:412-21.
+- [85] Raghunathan K, Shaw A, Nathanson B, et al. Association between the choice of IV crystalloid and in-hospital mortality among critically ill adults with sepsis. *Crit Care Med* 2014;40:1897-905.
+- [86] Krajewski ML, Raghunathan K, Paluszkiwicz SM, Schermer CR, Shaw AD. Meta-analysis of high- versus low-chloride content in perioperative and critical care fluid resuscitation. *Br J Surg* 2015;102:24-36.
+- [87] Raghunathan K, Murray PT, Beattie WS, et al. Choice of fluid in acute illness: what should be given? An international consensus. *Br J Anaesth* 2014;113:772-83.
+- [88] Antonelli M, Levy M, Andrews PJ, et al. Hemodynamic monitoring in shock and implications for management. International Consensus Conference, Paris, France, 27-28 April 2006. *Intensive Care Med* 2007;33:575-90.
+- [89] Dellinger RP, Levy MM, Rhodes A, et al. Surviving sepsis campaign: international guidelines for management of severe sepsis and septic shock, 2012. *Intensive Care Med* 2013;39:165-228.
+- [90] Varpula M, Tallgren M, Saukkonen K, Voipio-Pulkki LM, Pettila V. Hemodynamic variables related to outcome in septic shock. *Intensive Care Med* 2005;31:1066-71.
+- [91] Rivers E, Nguyen B, Havstad S, et al. Early goal-directed therapy in the treatment of severe sepsis and septic shock. *N Engl J Med* 2001;345:1368-77.
+- [92] Poukkanen M, Wilkman E, Vaara ST, et al. Hemodynamic variables and progression of acute kidney injury in critically ill patients with severe sepsis: data from the prospective observational FINNAKI study. *Crit Care* 2013;17:R295.
+- [93] Asfar P, Meziani F, Hamel JF, et al. High versus low blood pressure target in patients with septic shock. *N Engl J Med* 2014;370:1583-93.
+- [94] Bourgoin A, Leone M, Delmas A, Garnier F, Albanese J, Martin C. Increasing mean arterial pressure in patients with septic shock: effects on oxygen variables and renal function. *Crit Care Med* 2005;33:780-6.
+- [95] LeDoux D, Astiz ME, Carpati CM, Rackow EC. Effects of perfusion pressure on tissue perfusion in septic shock. *Crit Care Med* 2000;28:2729-32.
+- [96] Dunser MW, Takala J, Ulmer H, et al. Arterial blood pressure during early sepsis and outcome. *Intensive Care Med* 2009;35:1225-33.
+- [97] Benchekroune S, Karpati PC, Berton C, et al. Diastolic arterial blood pressure: a reliable early predictor of survival in human septic shock. *J Trauma* 2008;64:1188-95.
+- [98] Legrand M, Dupuis C, Simon C, et al. Association between systemic hemodynamics and septic acute kidney injury in critically ill patients: a retrospective observational study. *Crit Care* 2013;17:R278.
+- [99] Walsh M, Devereaux PJ, Garg AX, et al. Relationship between intraoperative mean arterial pressure and clinical outcomes after non-cardiac surgery: toward an empirical definition of hypotension. *Anesthesiology* 2013;119:507-15.
+- [100] Haase M, Bellomo R, Story D, et al. Effect of mean arterial pressure, haemoglobin and blood transfusion during cardiopulmonary bypass on postoperative acute kidney injury. *Nephrol Dial Transplant* 2012;27:153-60.
+- [101] Kanji HD, Schulze CJ, Hervas-Malo M, et al. Difference between pre-operative and cardiopulmonary bypass mean arterial pressure is independently associated with early cardiac surgery-associated acute kidney injury. *J Cardiothorac Surg* 2010;5:71.
+- [102] Brienza N, Giglio MT, Marucci M, Fiore T. Does perioperative hemodynamic optimization protect renal function in surgical patients? A meta-analytic study. *Crit Care Med* 2009;37:2079-90.
+- [103] Grocott MP, Dushianthan A, Hamilton MA, Mythen MG, Harrison D, Rowan K. Perioperative increase in global blood flow to explicit defined goals and outcomes after surgery: a Cochrane Systematic Review. *Br J Anaesth* 2013;111:535-48.
+- [104] Bouchard J, Soroko SB, Chertow GM, et al. Fluid accumulation, survival and recovery of kidney function in critically ill patients with acute kidney injury. *Kidney Int* 2009;76:422-7.
+- [105] Payen D, de Pont AC, Sakr Y, Spies C, Reinhart K, Vincent JL. A positive fluid balance is associated with a worse outcome in patients with acute renal failure. *Crit Care* 2008;12:R74.
+- [106] Teixeira C, Garzotto F, Piccinni P, et al. Fluid balance and urine volume are independent predictors of mortality in acute kidney injury. *Crit Care* 2013;17:R14.
+- [107] Grams ME, Estrella MM, Coresh J, Brower RG, Liu KD. Fluid balance, diuretic use, and mortality in acute kidney injury. *Clin J Am Soc Nephrol* 2011;6:966-73.
+- [108] Bellomo R, Cass A, Cole L, et al. An observational study fluid balance and patient outcomes in the randomized evaluation of normal vs. augmented level of replacement therapy trial. *Crit Care Med* 2012;40:1753-60.
+- [109] Boland MR, Noorani A, Varty K, Coffey JC, Agha R, Walsh SR. Perioperative fluid restriction in major abdominal surgery: systematic review and meta-analysis of randomized, clinical trials. *World J Surg* 2013;37:1193-202.
+- [110] Varadhan KK, Lobo DN. A meta-analysis of randomised controlled trials of intravenous fluid therapy in major elective open abdominal surgery: getting the balance right. *Proc Nutr Soc* 2010;69:488-98.
+- [111] Desjars P, Pinaud M, Bugnon D, Tasseau F. Norepinephrine therapy has no deleterious renal effects in human septic shock. *Crit Care Med* 1989;17:426-9.
+- [112] Desjars P, Pinaud M, Potel G, Tasseau F, Touze MD. A reappraisal of norepinephrine therapy in human septic shock. *Crit Care Med* 1987;15:134-7.
+- [113] Fukuoka T, Nishimura M, Imanaka H, Tainaka N, Yoshiya I, Takezawa J. Effects of norepinephrine on renal function in septic patients with normal and elevated serum lactate levels. *Crit Care Med* 1989;17:1104-7.[114] Martin C, Vivian X, Leone M, Thirion X. Effect of norepinephrine on the outcome of septic shock. *Crit Care Med* 2000;28: 2758-65.
+
+[115] Redl-Wenzl EM, Armbruster C, Edelmann G, et al. Noradrenaline in the "high output-low resistance" state of patients with abdominal sepsis. *Anaesthesist* 1990;39:525-9.
+
+[116] Albanese J, Leone M, Garnier F, Bourgoin A, Antonini F, Martin C. Renal effects of norepinephrine in septic and nonseptic patients. *Chest* 2004;126:534-9.
+
+[117] Martin C, Papazian L, Perrin G, Saux P, Gouin F. Norepinephrine or dopamine for the treatment of hyperdynamic septic shock? *Chest* 1993;103:1826-31.
+
+[118] Leone M, Albanese J, Delmas A, Chaabane W, Garnier F, Martin C. Terlipressin in catecholamine-resistant septic shock patients. *Shock* 2004;22:314-9.
+
+[119] Albanese J, Leone M, Delmas A, Martin C. Terlipressin or norepinephrine in hyperdynamic septic shock: a prospective, randomized study. *Crit Care Med* 2005;33:1897-902.
+
+[120] Rihal CS, Textor SC, Grill DE, et al. Incidence and prognostic importance of acute renal failure after percutaneous coronary intervention. *Circulation* 2002;105:2259-64.
+
+[121] Rudnick MR, Goldfarb S, Tumlin J. Contrast-induced nephropathy: is the picture any clearer? *Clin J Am Soc Nephrol* 2008;3:261-2.
+
+[122] Hoste EAJ, Doom S, De Waele J, et al. Epidemiology of contrast-associated acute kidney injury in ICU patients: a retrospective cohort analysis. *Intensive Care Med* 2011;37: 1921-31.
+
+[123] Chousterman BG, Bouadma L, Moutereau S, et al. Prevention of contrast-induced nephropathy by N-acetylcysteine in critically ill patients: different definitions, different results. *J Crit Care* 2013;5:701-9.
+
+[124] Valette X, Savary B, Nowoczyn M, et al. Accuracy of plasma neutrophil gelatinase-associated lipocalin in the early diagnosis of contrast-induced acute kidney injury in critical illness. *Intensive Care Med* 2013;39:857-65.
+
+[125] Clech C, Razafimandimby D, Laouisset M, et al. Incidence and outcome of contrast-associated acute kidney injury in a mixed medical-surgical ICU population: a retrospective study. *BMC Nephrol* 2013;4:14-31.
+
+[126] Brar SS, Hiremath S, Dangas G, et al. Sodium bicarbonate for the prevention of contrast-induced acute kidney injury: a systematic review and meta-analysis. *Clin J Am Soc Nephrol* 2009;4:1584-92.
+
+[127] Zoungas S, Ninomiya T, Huxley R, et al. Systematic review: sodium bicarbonate treatment regimens for the prevention of contrast-induced nephropathy. *Ann Intern Med* 2009;151:631-8.
+
+[128] Brown JR, Block CA, Malenka DJ, et al. Sodium bicarbonate plus N-acetylcysteine prophylaxis: a meta-analysis. *JAAC Cardiovasc Interv* 2009;2:1116-24.
+
+[129] Sun Z, Fu Q, Cao L, et al. Intravenous N-acetylcysteine for prevention of contrast-induced nephropathy: a meta-analysis of randomized, controlled trials. *PLoS One* 2013;8: e55124.
+
+[130] Jang JS, Jin HY, Seo JS, et al. Sodium bicarbonate therapy for the prevention of contrast-induced acute kidney injury - a systematic review and meta-analysis. *Circ J* 2012;76: 2255-65.
+
+[131] Solomon R, Werner C, Mann D, et al. Effects of saline, mannitol, and furosemide to prevent acute decreases in renal function induced by radiocontrast agents. *N Engl J Med* 1994;331:1416-20.
+
+[132] Vaikus PT, Brar C. N-acetylcysteine in the prevention of contrast-induced nephropathy: publication bias perpetuated by meta-analyses. *Am Heart J* 2007;153:275-80.
+
+[133] Hoste EAJ, De Waele JJ, Gevaert SA, Uchino S, Kellum JA. Sodium bicarbonate for prevention of contrast-induced acute kidney injury: a systematic review and meta-analysis. *Nephrol Dial Transplant* 2010;25:747-58.
+
+[134] Klima T, Christ A, Marana I, et al. Sodium chloride vs. sodium bicarbonate for the prevention of contrast medium-induced nephropathy: a randomized controlled trial. *Eur Heart J* 2012;33:2071-9.
+
+[135] Kooiman J, Sijpkens YW, de Vries J-P, et al. A randomized comparison of 1-h sodium bicarbonate hydration versus standard peri-procedural saline hydration in patients with chronic kidney disease undergoing intravenous contrast-enhanced computerized tomography. *Nephrol Dial Transplant* 2014;29:1029-36.
+
+[136] Pattharanitima P, Tasanarong A. Pharmacological strategies to prevent contrast-induced acute kidney injury. *BioMed Res Int* 2014;2014:236930.
+
+[137] Kelly AM, Dwamena B, Cronin P, et al. Meta-analysis: effectiveness of drugs for preventing contrast-induced nephropathy. *Ann Intern Med* 2008;148:284-94.
+
+[138] McCullough P. Radiocontrast-induced acute kidney injury. *Nephron Physiol* 2008;109: 61-72.
+
+[139] Kellum J, Leblanc M, Venkataraman R. Acute renal failure. *BMJ Clin Evid* 2008;9:2001.
+
+[140] Rybak MJ, Abate BJ, Kang SL, et al. Prospective evaluation of the effect of an aminoglycoside dosing regimen on rates of observed nephrotoxicity and ototoxicity. *Antimicrob Agents Chemother* 1999;43: 1549-55.
+
+[141] Bailey TC, Little JR, Littenberg B, et al. A meta-analysis of extended-interval dosing versus multiple daily dosing of aminoglycosides. *Clin Infect Dis* 1997;24:786-95.
+
+[142] Hatala R, Dinh T, Cook DJ. Once-daily aminoglycoside dosing in immunocompetent adults: a meta-analysis. *Ann Intern Med* 1996;124:717-25.
+
+[143] Wargo KA, Edwards J. Aminoglycoside-induced nephrotoxicity. *J Pharm Pract* 2014; 27:573-7.
+
+[144] Picard W, Bazin F, Clouzeau B, et al. Propensity-based study of aminoglycoside nephrotoxicity in patients with severe sepsis or septic shock. *Antimicrob Agents Chemother* 2014;58:7468-74.
+
+[145] Boyer A, Gruson D, Bouchet S, et al. Aminoglycosides in septic shock: an overview, with specific consideration given to their nephrotoxic risk. *Drug Saf* 2013;36:217-30.
+
+[146] Croes S, Koop AH, van Gils SA, Neef C. Efficacy, nephrotoxicity and ototoxicity of aminoglycosides, mathematically modelled for modelling-supported therapeutic drug monitoring. *Eur J Pharm* 2012;45:90-100.
+
+[147] Pagkalis S, Mantadakis E, Mavros MN, et al. Pharmacological considerations for the proper clinical use of aminoglycosides. *Drugs* 2011;71:2277-94.
+
+[148] Oliveira JFP, Silva CA, Barbieri CD, et al. Prevalence and risk factors for aminoglycoside nephrotoxicity in intensive care units. *Antimicrob Agents Chemother* 2009;53: 2887-91.
+
+[149] Selby NM, Shaw S, Woodier N, et al. Gentamicin-associated acute kidney injury. *QJM* 2009;102:873-80.
+
+[150] Bartal C, Danon A, Schlaeffler F, et al. Pharmacokinetic dosing of aminoglycosides: a controlled trial. *Am J Med* 2003;114:194-8.
+
+[151] Perazella MA. Drug use and nephrotoxicity in the intensive care unit. *Kidney Int* 2012; 81:1172-8.
+
+[152] Papadopoulos J, Smithburger PL. Common drug interactions leading to adverse drug events in the intensive care unit: management and pharmacokinetic considerations. *Crit Care Med* 2010;38:S126-35.
+
+[153] Schetz M, Dasta J, Goldstein S, Golper T. Drug-induced acute kidney injury. *Curr Opin Crit Care* 2005;11:555-65.
+
+[154] Ho KM, Power BM. Benefits and risks of furosemide in acute kidney injury. *Anaesthesia* 2010;63:283-94.
+
+[155] Ho KM, Sheridan DJ. Meta-analysis of frusemide to prevent or treat acute renal failure. *BMJ* 2006;333:420.
+
+[156] Haase M, Fielitz AH, Plass M, et al. Prophylactic perioperative sodium bicarbonate to prevent acute kidney injury following open heart surgery: a multicenter double-blinded randomized controlled trial. *PLoS One* 2013;10:e1001426.
+
+[157] Kristeller JL, Zavorsky GS, Prior JE, et al. Lack of effectiveness of sodium bicarbonate in preventing kidney injury in patients undergoing cardiac surgery: a randomized controlled trial. *Pharmacotherapy* 2013;3: 710-7.
+
+[158] McGuinness SP, Parke RL, Bellomo R, Van Haren FMP, Bailey M. Sodium bicarbonate infusion to reduce cardiac surgery-associated acute kidney injury: a phase II multicenterdouble-blind randomized controlled trial. *Crit Care Med* 2013;41:1599-607.
+
+[159] Hewitt J, Uniacke M, Hansi NK, Venkat-Raman G, McCarthy K. Sodium bicarbonate supplements for treating acute kidney injury. *Cochrane Database Syst Rev* 2012;6:CD009204.
+
+[160] Bosch X, Poch E, Grau JM. Rhabdomyolysis and acute kidney injury. *N Engl J Med* 2009;361:62-72.
+
+[161] Chatzizisis YS, Misirli G, Hatzitolios AI, Gian-noglou GD. The syndrome of rhabdomyolysis: complications and treatment. *Eur J Intern Med* 2008;19:568-74.
+
+[162] Scharman EJ, Troutman WG. Prevention of kidney injury following rhabdomyolysis: a systematic review. *Ann Pharmacother* 2013;47:90-105.
+
+[163] Shimazu T, Yoshioka T, Nakata Y, et al. Fluid resuscitation and systemic complications in crush syndrome: 14 Hanshin-Awaji earthquake patients. *J Trauma* 1997;42:641-6.
+
+[164] Gunal AI, Celiker H, Dogukan A, et al. Early and vigorous fluid resuscitation prevents acute renal failure in the crush victims of catastrophic earthquakes. *J Am Soc Nephrol* 2004;15:1862-7.
+
+[165] Homsí E, Barreiro MF, Orlando JM, Higa EM. Prophylaxis of acute renal failure in patients with rhabdomyolysis. *Ren Fail* 1997;19:283-8.
+
+[166] Brown CVR, Rhee P, Chan L, Evans K, Demetriades D, Velmahos GC. Preventing renal failure in patients with rhabdomyolysis: do bicarbonate and mannitol make a difference? *J Trauma* 2004;56:1191-6.
+
+[167] Cho YS, Lim H, Kim SH. Comparison of lactated Ringer's solution and 0.9 % saline in the treatment of rhabdomyolysis induced by doxylamine intoxication. *Emerg Med J* 2007;24:276-80.
+
+[168] Yallop KG, Sheppard SV, Smith DC. The effect of mannitol on renal function following cardiopulmonary bypass in patients with normal pre-operative creatinine. *Anaesthesia* 2008;63:576-82.
+
+[169] Smith MNA, Best D, Sheppard SV, Smith DC. The effect of mannitol on renal function after cardiopulmonary bypass in patients with established renal dysfunction. *Anaesthesia* 2008;63:701-4.
+
+[170] Majumdar SR, Kjellstrand CM, Tymchak WJ, Hervas-Malo M, Taylor DA, Teo KK. Forced euvolemic diuresis with mannitol and furosemide for prevention of contrast-induced nephropathy in patients with CKD undergoing coronary angiography: a randomized controlled trial. *Am J Kidney Dis* 2009;54:602-9.
+
+[171] Friedrich JO, Adhikari N, Herridge MS, Beyene J. Meta-analysis: low-dose dopamine increases urine output but does not prevent renal dysfunction or death. *Ann Intern Med* 2005;142:510-24.
+
+[172] Kellum JA, Decker MJ. Use of dopamine in acute renal failure: a meta-analysis. *Crit Care Med* 2001;29:1526-31.
+
+[173] Bellomo R, Chapman M, Finfer S, Hickling K, Myburgh J. Low-dose dopamine in patients with early renal dysfunction: a placebo-controlled randomised trial. Australian and New Zealand Intensive Care Society (ANZICS) Clinical Trials Group. *Lancet* 2000;356:2139-43.
+
+[174] Stone GW, McCullough PA, Tumlin JA, et al. Fenoldopam mesylate for the prevention of contrast-induced nephropathy: a randomized controlled trial. *JAMA* 2003;290:2284-91.
+
+[175] Caimmi P-P, Pagani L, Micalizzi E, et al. Fenoldopam for renal protection in patients undergoing cardiopulmonary bypass. *J Cardiothorac Vasc Anesth* 2003;17:491-4.
+
+[176] Bove T, Landoni G, Calabrò MG, et al. Renoprotective action of fenoldopam in high-risk patients undergoing cardiac surgery: a prospective, double-blind, randomized clinical trial. *Circulation* 2005;111:3230-5.
+
+[177] Brienza N, Malcangi V, Dalfino L, et al. A comparison between fenoldopam and low-dose dopamine in early renal dysfunction of critically ill patients. *Crit Care Med* 2006;34:707-14.
+
+[178] Ranucci M, Soro G, Barzaghi N, et al. Fenoldopam prophylaxis of postoperative acute renal failure in high-risk cardiac surgery patients. *Ann Thorac Surg* 2004;78:1332-7.
+
+[179] Tumlin JA, Finkel KW, Murray PT, Samuels J, Cotsonis G, Shaw AD. Fenoldopam mesylate in early acute tubular necrosis: a randomized, double-blind, placebo-controlled clinical trial. *Am J Kidney Dis* 2005;46:26-34.
+
+[180] Morelli A, Ricci Z, Bellomo R, et al. Prophylactic fenoldopam for renal protection in sepsis: a randomized, double-blind, placebo-controlled pilot trial. *Crit Care Med* 2005;33:2451-6.
+
+[181] Patel NN, Rogers CA, Angelini GD, Murphy GJ. Pharmacological therapies for the prevention of acute kidney injury following cardiac surgery: a systematic review. *Heart Fail Rev* 2011;16:553-67.
+
+[182] Landoni G, Biondi-Zoccai GGL, Marino G, et al. Fenoldopam reduces the need for renal replacement therapy and in-hospital death in cardiovascular surgery: a meta-analysis. *J Cardiothorac Vasc Anesth* 2008;22:27-33.
+
+[183] Landoni G, Biondi-Zoccai GGL, Tumlin JA, et al. Beneficial impact of fenoldopam in critically ill patients with or at risk for acute renal failure: a meta-analysis of randomized clinical trials. *Am J Kidney Dis* 2007;49:56-68.
+
+[184] Zangrillo A, Biondi-Zoccai GGL, Frati E, et al. Fenoldopam and acute renal failure in cardiac surgery: a meta-analysis of randomized placebo-controlled trials. *J Cardiothorac Vasc Anesth* 2012;26:407-13.
+
+[185] Sackner-Bernstein JD, Skopicki HA, Aaronson KD. Risk of worsening renal function with nesiritide in patients with acutely decompensated heart failure. *Circulation* 2005;111:1487-91.
+
+[186] Nigwekar SU, Navaneethan SD, Parikh CR, Hix JK. Atrial natriuretic peptide for management of acute kidney injury: a systematic review and meta-analysis. *Clin J Am Soc Nephrol* 2009;4:261-72.
+
+[187] Mitaka C, Kudo T, Haraguchi G, Tomita M. Cardiovascular and renal effects of carperitide and nesiritide in cardiovascular surgery patients: a systematic review and meta-analysis. *Crit Care* 2011;15:R258.
+
+[188] Nigwekar SU, Navaneethan SD, Parikh CR, Hix JK. Atrial natriuretic peptide for preventing and treating acute kidney injury. *Cochrane Database Syst Rev* 2009;4:CD006028.
+
+[189] Adabag AS, Ishani A, Bloomfield HE, Ngo AK, Wilt TJ. Efficacy of N-acetylcysteine in preventing renal injury after heart surgery: a systematic review of randomized trials. *Eur Heart J* 2009;30:1910-7.
+
+[190] Duong MH, MacKenzie TA, Malenka DJ. N-acetylcysteine prophylaxis significantly reduces the risk of radiocontrast-induced nephropathy: comprehensive meta-analysis. *Catheter Cardiovasc Interv* 2005;64:471-9.
+
+[191] Ho KM, Morgan DJR. Meta-analysis of N-acetylcysteine to prevent acute renal failure after major surgery. *Am J Kidney Dis* 2009;53:33-40.
+
+[192] Nigwekar SU, Kandula P. N-acetylcysteine in cardiovascular surgery-associated renal failure: a meta-analysis. *Ann Thorac Surg* 2009;87:139-47.
+
+[193] Hirschberg R, Koppie J, Lipsett P, et al. Multicenter clinical trial of recombinant human insulin-like growth factor I in patients with acute renal failure. *Kidney Int* 1999;55:2423-32.
+
+[194] Hladunewich MA, Corrigan G, Derby GC, et al. A randomized, placebo-controlled trial of IGF-1 for delayed graft function: a human model to study postischemic ARF. *Kidney Int* 2003;64:593-602.
+
+[195] Endre ZH, Walker RJ, Pickering JW, et al. Early intervention with erythropoietin does not affect the outcome of acute kidney injury (the EARLYARF trial). *Kidney Int* 2010;77:1020-30.
+
+[196] Song YR, Lee T, You SJ, et al. Prevention of acute kidney injury by erythropoietin in patients undergoing coronary artery bypass grafting: a pilot study. *Am J Nephrol* 2009;30:253-60.
+
+[197] Gottlieb SS, Brater DC, Thomas I, et al. BG9719 (CVT-124), an A1 adenosine receptor antagonist, protects against the decline in renal function observed with diuretic therapy. *Circulation* 2002;105:1348-53.
+
+[198] Givertz MM, Massie BM, Fields TK, Pearson LL, Dittrich HC, CKI-201 and CKI-202 Investigators. The effects of KW-3902, an adenosine A1-receptor antagonist, on diuresis and renal function in patients with acute decompensated heart failure and renal impairment or diuretic resistance. *J Am Coll Cardiol* 2007;50:1551-60.
+
+[199] Massie BM, O'Connor CM, Metra M, et al. Rolofylline, an adenosine A1-receptorantagonist, in acute heart failure. *N Engl J Med* 2010;363:1419-28.
+
+[200] Howard SC, Jones DP, Pui C-H. The tumor lysis syndrome. *N Engl J Med* 2011;364:1844-54.
+
+[201] Mikkelsen TS, Mamoudou AD, Tuckvienne R, Wehner PS, Schroeder H. Extended duration of prehydration does not prevent nephrotoxicity or delayed drug elimination in high-dose methotrexate infusions: a prospectively randomized cross-over study. *Pediatr Blood Cancer* 2014;61:297-301.
+
+[202] Sand TE, Jacobsen S. Effect of urine pH and flow on renal clearance of methotrexate. *Eur J Clin Pharmacol* 1981;19:453-6.
+
+[203] Christensen ML, Rivera GK, Crom WR, Hancock ML, Evans WE. Effect of hydration on methotrexate plasma concentrations in children with acute lymphocytic leukemia. *J Clin Oncol* 1988;6:797-801.
+
+[204] Kinoshita A, Kurosawa Y, Kondoh K, et al. Effects of sodium in hydration solution on plasma methotrexate concentrations following high-dose methotrexate in children with acute lymphoblastic leukemia. *Cancer Chemother Pharmacol* 2003;51:256-60.
+
+[205] Relling MV, Fairclough D, Ayers D, et al. Patient characteristics associated with high-risk methotrexate concentrations and toxicity. *J Clin Oncol* 1994;12:1667-72.
+
+[206] Darmon M, Vincent F, Camous L, et al. Tumour lysis syndrome and acute kidney injury in high-risk haematology patients in the rasburicase era. A prospective multicentre study from the Groupe de Recherche en Réanimation Respiratoire et Onco-Hématologique. *Br J Haematol* 2013;162:489-97.
+
+[207] Galardy PJ, Hochberg J, Perkins SL, Harrison L, Goldman S, Cairo MS. Rasburicase in the prevention of laboratory/clinical tumour lysis syndrome in children with advanced mature B-NHL: a Children's Oncology Group Report. *Br J Haematol* 2013;163:365-72.
+
+[208] Shimada M, Johnson RJ, May Jr WS, et al. A novel role for uric acid in acute kidney injury associated with tumour lysis syndrome. *Nephrol Dial Transplant* 2009;24:2960-4.
+
+[209] Lopez-Olivo MA, Pratt G, Palla SL, Salahudeen A. Rasburicase in tumor lysis syndrome of the adult: a systematic review and meta-analysis. *Am J Kidney Dis* 2013;62:481-92.
+
+[210] Cheuk DK, Chiang AK, Chan GC, Ha SY. Urate oxidase for the prevention and treatment of tumor lysis syndrome in children with cancer. *Cochrane Database Syst Rev* 2010;6:CD006945.
+
+[211] Cortes J, Moore JO, Maziarz RT, et al. Control of plasma uric acid in adults at risk for tumor lysis syndrome: efficacy and safety of rasburicase alone and rasburicase followed by allopurinol compared with allopurinol alone - results of a multicenter phase III study. *J Clin Oncol* 2010;28:4207-13.
+
+[212] Goldman SC, Holcenberg JS, Finklestein JZ, et al. A randomized comparison between rasburicase and allopurinol in children with lymphoma or leukemia at high risk for tumor lysis. *Blood* 2001;97:2998-3003.
+
+[213] Coiffier B, Altman A, Pui C-H, Younes A, Cairo MS. Guidelines for the management of pediatric and adult tumor lysis syndrome: an evidence-based review. *J Clin Oncol* 2008;26:2767-78.
+
+[214] Cairo MS, Coiffier B, Reiter A, Younes A, TLS Expert Panel. Recommendations for the evaluation of risk and prophylaxis of tumour lysis syndrome (TLS) in adults and children with malignant diseases: an expert TLS panel consensus. *Br J Haematol* 2010;149:578-86.
+
+[215] Will A, Tholouli E. The clinical management of tumour lysis syndrome in haematological malignancies. *Br J Haematol* 2011;154:3-13.
+
+[216] Druml W. Nutritional support in acute renal failure. *Handbook of Nutrition and the Kidney*. 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2005p. 95-114.
+
+[217] Fiaccadori E, Cremaschi E, Regolisti G. Nutritional assessment and delivery in renal replacement therapy patients. *Semin Dial* 2011;24:169-75.
+
+[218] Cano N, Aparicio M, Brunori G, Carrero JJ, Cianciaruso B, Fiaccadori E, et al. ESPEN guidelines on parenteral nutrition: adult renal failure. *Clin Nutr* 2009;28:401-14.
+
+[219] Fiaccadori E, Parenti E, Maggiore U. Nutritional support in acute kidney injury. *J Nephrol* 2008;21:645-56.
+
+[220] Bellomo R, Tan HK, Bhonagiri S, et al. High protein intake during continuous hemodiafiltration: impact on amino acids and nitrogen balance. *Int J Artif Organs* 2002;25:261-8.
+
+[221] Berger MM, Shenkin A, Revelly JP, et al. Copper, selenium, zinc, and thiamine balances during continuous venovenous hemodiafiltration in critically ill patients. *Am J Clin Nutr* 2004;80:410-6.
+
+[222] Mammen C, Al Abbas A, Skippen P, et al. Long-term risk of CKD in children surviving episodes of acute kidney injury in the intensive care unit: a prospective cohort study. *Am J Kidney Dis* 2012;59:523-30.
+
+[223] Wald R, Quinn RR, Adhikari NK, et al. Risk of chronic dialysis and death following acute kidney injury. *Am J Med* 2012;125:585-93.
+
+[224] Pannu N, James M, Hemmelgarn B, Klarénbach S, Alnerta Kidney Disease Networ@k. Association between AKI, recovery of renal function, and long-term outcomes after hospital discharge. *Clin J Am Soc Nephrol* 2013;8:194-202.
+
+[225] Harel Z, Wald R, Bargman JM, et al. Nephrologists follow-up improves all-cause mortality of severe acute kidney injury survivors. *Kidney Int* 2013;83:901-8.

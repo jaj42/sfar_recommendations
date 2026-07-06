@@ -1,0 +1,129 @@
+{
+  "file_name": "2b_AFAR_aspet-pediatriques.pdf",
+  "num_pages": 10,
+  "total_token_count": 24579,
+  "total_chunks": 153,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2039,
+      "num_chunks": 25,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2176,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2501,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2247,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2502,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2432,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2203,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2331,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 3355,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2793,
+      "num_chunks": 3,
+      "num_images": 0
+    }
+  ]
+}

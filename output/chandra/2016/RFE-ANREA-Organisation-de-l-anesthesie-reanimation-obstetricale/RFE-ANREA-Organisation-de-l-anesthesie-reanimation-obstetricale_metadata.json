@@ -1,0 +1,93 @@
+{
+  "file_name": "RFE-ANREA-Organisation-de-l-anesthesie-reanimation-obstetricale.pdf",
+  "num_pages": 7,
+  "total_token_count": 14961,
+  "total_chunks": 156,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1346,
+      "num_chunks": 18,
+      "num_images": 2
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2143,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2497,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2340,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2598,
+      "num_chunks": 28,
+      "num_images": 1
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2469,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1568,
+      "num_chunks": 20,
+      "num_images": 1
+    }
+  ]
+}

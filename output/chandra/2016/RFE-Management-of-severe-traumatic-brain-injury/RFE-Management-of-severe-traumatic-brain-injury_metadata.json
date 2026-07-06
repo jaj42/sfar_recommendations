@@ -1,0 +1,201 @@
+{
+  "file_name": "RFE-Management-of-severe-traumatic-brain-injury.pdf",
+  "num_pages": 16,
+  "total_token_count": 53620,
+  "total_chunks": 348,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 3152,
+      "num_chunks": 39,
+      "num_images": 4
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2451,
+      "num_chunks": 25,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2385,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 3078,
+      "num_chunks": 38,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2641,
+      "num_chunks": 34,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2840,
+      "num_chunks": 31,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2614,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 3072,
+      "num_chunks": 35,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2836,
+      "num_chunks": 35,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2924,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 4461,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 4619,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 4587,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 4555,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 4500,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2905,
+      "num_chunks": 6,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,4600 @@
+![Elsevier Masson logo featuring a tree and the text ELSEVIER MASSON](345beeb461c95529ad59c880ea939459_2_img.webp)
+
+Elsevier Masson France
+
+EM|consulte
+
+www.em-consulte.com
+
+![Cover of the journal 'Progrès en Urologie' showing a kidney illustration and the title](345beeb461c95529ad59c880ea939459_6_img.webp)
+
+## SOMMAIRE
+
+# Recommandations AFU/SFAR/AFCA/ANAP Chirurgie ambulatoire en urologie
+
+Recommandations AFU/SFAR/AFCA/ANAP, Chirurgie ambulatoire en urologie,  
+Argumentaire (Novembre 2013)
+
+*G. Cuvelier, G. Legrand, T. le Guilchet, J. Branchereau, S. Larue, T. Murez, F.-R. Desfemmes,  
+B. Vignes, É. Lechevallier, X. Rébillard, P. Coloby, P. Mongiat-Artus et les membres du Comité  
+des Pratiques Professionnelles de l'AFU* ..... 1
+
+Chirurgie ambulatoire en urologie : texte des recommandations AFU (Novembre 2013)
+
+*G. Legrand, T. le Guilchet, J. Branchereau, S. Larue, T. Murez, F.-R. Desfemmes, B. Vignes,  
+É. Lechevallier, X. Rébillard, P. Coloby, P. Mongiat-Artus, G. Cuvelier et les membres du Comité  
+des Pratiques Professionnelles de l'AFU* ..... 62
+
+Commentaires
+
+*B. Vignes pour le SNCUF (Syndicat National des Chirurgiens Urologues Français)* ..... 67
+
+Certaines données publiées dans cette édition spéciale peuvent ne pas avoir été validées  
+par les autorités de santé françaises.
+
+La publication de ce contenu est effectuée sous la seule responsabilité de l'éditeur et des auteurs.![Elsevier Masson logo featuring a tree and the text ELSEVIER MASSON](75096cb18ce2ecd17524b036d2856d29_2_img.webp)
+
+Elsevier Masson France
+
+EM|consulte  
+www.em-consulte.com
+
+![Cover of the journal 'Progrès en Urologie' showing a kidney and the title](75096cb18ce2ecd17524b036d2856d29_5_img.webp)
+
+# Chirurgie ambulatoire en Urologie Argumentaire
+
+RECOMMANDATIONS AFU/SFAR/AFCA/ANAP
+
+Novembre 2013
+
+G. Cuvelier\*, G. Legrand, T. le Guilchet, J. Branchereau,  
+S. Larue, T. Murez, F.-R. Desfemmes, B. Vignes, É. Lechevallier,  
+X. Rébillard, P. Coloby, P. Mongiat-Artus et les membres du Comité  
+des Pratiques Professionnelles de l'AFU
+
+## LISTE DES ABRÉVIATIONS
+
+<table><tr><td>AAP : Antiagrégants plaquettaires</td><td>DREES : Direction de la recherche, des études, de l'évaluation et des statistiques</td></tr><tr><td>ACFA : Arythmie complète par fibrillation auriculaire</td><td>EBM : <i>Evidence based medicine</i></td></tr><tr><td>ADARPEF : Association des anesthésistes réanimateurs pédiatriques d'expression française</td><td>ECBU : Examen cytobactériologique des urines</td></tr><tr><td>AFCA : Association française de chirurgie ambulatoire</td><td>EVA : Échelle visuelle analogique</td></tr><tr><td>AFU : Association française d'urologie</td><td>GHS : Groupe homogène de séjour</td></tr><tr><td>AINS : Anti-inflammatoires non stéroïdiens</td><td>HBP : Hyperplasie bénigne de la prostate</td></tr><tr><td>ANAP : Agence nationale d'appui à la performance des établissements de santé et médico-sociaux</td><td>HBPM : Héparine de bas poids moléculaire</td></tr><tr><td>ARS : Agence régionale de santé</td><td>HNF : Héparine non fractionnée</td></tr><tr><td>ASA : <i>American Society of Anesthesiologists</i></td><td>HPST : Hôpital patient santé et territoire</td></tr><tr><td>AVC : Accident vasculaire cérébral</td><td>IAAS : <i>International Association of Ambulatory Surgery</i></td></tr><tr><td>AVK : Antivitamines K</td><td>IDE : Infirmier diplômé d'état</td></tr><tr><td>BMR : Bactérie multirésistante</td><td>INR : <i>International normalized ratio</i></td></tr><tr><td>BSU : Bandelette sous-urétrale</td><td>INSEE : Institut national de la statistique et des études économiques</td></tr><tr><td>CA : Chirurgie ambulatoire</td><td>IPSS : <i>International prostate symptom score</i></td></tr><tr><td>CCAM : Classification commune des actes médicaux</td><td>IRDES : Institut de recherche et documentation en économie de la santé</td></tr><tr><td>CHEM : Collège des hautes études en médecine</td><td>ISO : Infection du site opératoire</td></tr><tr><td>CIAFU : Comité d'infectiologie de l'association française d'urologie</td><td>LEC : Lithotripsie extracorporelle</td></tr><tr><td>CNAM : Caisse nationale d'assurance maladie</td><td>LFSS : Loi de financement de la Sécurité sociale</td></tr><tr><td>CNCE : Conseil national de chirurgie de l'enfant</td><td>MEAH : Mission nationale d'expertise et d'audit hospitaliers</td></tr><tr><td>CNIL : Commission nationale de l'informatique et des libertés</td><td>MSAP : Mise sous accord préalable</td></tr><tr><td>CSP : Code de la santé publique</td><td>MTEV : Maladie thromboembolique veineuse</td></tr><tr><td>DGOS : Direction générale de l'offre de soins</td><td>NICE : <i>National Institute for Health and Clinical Excellence</i></td></tr><tr><td>DPO : Douleur postopératoire</td><td>NVPO : Nausées et vomissements postopératoires</td></tr></table>
+
+\*Auteur correspondant.
+
+Adresse e-mail : g.cuvelier@ch-cornouaille.fr<table border="0">
+<tr>
+<td>OCDE : Organisation de coopération et de développement économique</td>
+<td>SFAR : Société française d'anesthésie réanimation</td>
+</tr>
+<tr>
+<td>OMS : Organisation mondiale de la santé</td>
+<td>SFC : Société française de cardiologie</td>
+</tr>
+<tr>
+<td>OQN : Objectifs quantifiés nationaux</td>
+<td>SFCD : Société française de chirurgie digestive</td>
+</tr>
+<tr>
+<td>OR [IC 95 %] : Odds ratio et intervalle de confiance à 95 %</td>
+<td>SFHH : Société française d'hygiène hospitalière SNCUF : Syndicat national des chirurgiens urologues français</td>
+</tr>
+<tr>
+<td>PMSI : Programme de médicalisation des systèmes d'information</td>
+<td>SROS : Schémas régionaux d'organisation sanitaire</td>
+</tr>
+<tr>
+<td>PVP : <i>Photo-selective vaporization of prostate</i></td>
+<td>SSPI : Salle de surveillance postinterventionnelle</td>
+</tr>
+<tr>
+<td>RBP : Recommandations de bonne pratique</td>
+<td>TAP : Transverse abdominal plan</td>
+</tr>
+<tr>
+<td>RCP : Recommandations de pratique clinique</td>
+<td>TCA : Temps de céphaline activée</td>
+</tr>
+<tr>
+<td>RPM : Résidu post-mictionnel</td>
+<td>TOT : <i>Trans-obturator tape</i></td>
+</tr>
+<tr>
+<td>RTUP : Résection transurétrale de la prostate</td>
+<td>TUNA : <i>Transurethral needle ablation of the prostate</i></td>
+</tr>
+<tr>
+<td>RTUV : Résection transurétrale de la vessie</td>
+<td>TVT : <i>Tension-free vaginal tape</i></td>
+</tr>
+<tr>
+<td></td>
+<td>UCA : Unité de chirurgie ambulatoire</td>
+</tr>
+</table>
+
+#### SOCIÉTÉS ET ORGANISMES SOLLICITÉS
+
+<table border="0">
+<tr>
+<td>ADARPEF : Association des anesthésistes-réanimateurs pédiatriques d'expression française</td>
+<td>CHEM : Collège des hautes études en médecine</td>
+</tr>
+<tr>
+<td>AFCA : Association française de chirurgie ambulatoire</td>
+<td>CISS : Collectif interassociatif sur la santé</td>
+</tr>
+<tr>
+<td>AFIIU : Association française des infirmières et infirmiers en urologie</td>
+<td>CNCE : Conseil national de la chirurgie de l'enfant</td>
+</tr>
+<tr>
+<td>AFU : Association française d'urologie</td>
+<td>SFAR : Société française d'anesthésie et de réanimation</td>
+</tr>
+<tr>
+<td>AFUF : Association française des urologues en formation</td>
+<td>SFCD : Société française de chirurgie digestive</td>
+</tr>
+<tr>
+<td>ANAP : Agence nationale d'appui à la performance des établissements de santé et médico-sociaux</td>
+<td>SFGG : Société française de gériatrie et de gériontologie</td>
+</tr>
+<tr>
+<td></td>
+<td>SFMG : Société française de médecine générale</td>
+</tr>
+<tr>
+<td></td>
+<td>SNCUF : Syndicat national des chirurgiens urologues français</td>
+</tr>
+<tr>
+<td></td>
+<td>HAS : Haute autorité de santé</td>
+</tr>
+</table>
+
+## 1. Introduction
+
+L'Association française d'urologie a souhaité rédiger des recommandations professionnelles relatives à la prise en charge urologique des patients en hospitalisation ambulatoire.
+
+Ce travail se fixe pour objectif de présenter les spécificités urologiques et les conditions requises de nature à permettre la prise en charge chirurgicale d'une pathologie urologique en ambulatoire avec les mêmes conditions de sécurité qu'en hospitalisation traditionnelle.
+
+Ces recommandations ont pour but d'aider les urologues à choisir le type de prise en charge le mieux adapté en fonction du patient, de l'acte et de la structure de soins.
+
+Ces recommandations ont reçu le label HAS. Elles ont donc été élaborées selon les procédures et les règles méthodologiques préconisées par la Haute autorité de santé<sup>1</sup>.
+
+L'AFU s'est également attachée à l'expertise de l'AFCA et de la SFAR pour la rédaction de ces recommandations.
+
+L'AFU a souhaité par ailleurs, dans un deuxième temps, s'ouvrir sur la médecine de ville et le grand public en rédigeant une version courte « tous publics » de ces recommandations.
+
+Ces recommandations intègrent les publications et travaux existants, dont les recommandations organisationnelles HAS ANAP 2013, le socle de connaissance HAS ANAP 2012, les recommandations de la SFCD (Société française de chirurgie digestive) 2010, les recommandations formalisées d'experts de la SFAR 2009, les recommandations du CNCE et de l'ADARPEF 2008.
+
+### 1.1. Contexte
+
+#### 1.1.1. Chirurgie ambulatoire : une priorité institutionnelle et des sociétés savantes
+
+La chirurgie ambulatoire est une activité de soins définie selon la réglementation actuelle comme une alternative à l'hospitalisation<sup>2</sup>. Elle est réalisée en établissement de santé. Elle concerne la mise en œuvre d'actes chirurgicaux et/ou d'explorations selon les mêmes modalités que celles qui sont effectuées habituellement lors d'une hospitalisation complète en permettant la sortie du patient le jour même de son intervention sans risque majoré.
+
+1. Guide méthodologique. *Élaboration de recommandations de bonne pratique. Méthode « Recommandations par consensus formalisé »*. HAS décembre 2010.
+
+2. Décrets n° 92-1100 et 92-1101 du 2 octobre 1992, arrêté du 12 novembre 1992, décret n° 2012-969 du 20 août 2012 (modifiant certaines conditions techniques de fonctionnement des structures alternatives à l'hospitalisation).La directive du ministère de la Santé du 19 juillet 2010, relative aux priorités sur la gestion du risque par les ARS, a inscrit la chirurgie ambulatoire dans un de ses 10 axes prioritaires. Trois réunions co-organisées par la HAS et l'ANAP, en partenariat avec l'AFCA (décembre 2009, octobre et novembre 2010), avaient préalablement permis de sensibiliser les différents partenaires institutionnels à la nécessité de développer la chirurgie ambulatoire.
+
+La DGOS a souligné la nécessité d'un changement de paradigme visant à considérer la chirurgie ambulatoire comme la modalité de référence pour l'ensemble de l'activité de chirurgie chez l'ensemble des patients éligibles.
+
+La chirurgie ambulatoire, enjeu majeur en termes de restructuration et d'amélioration de l'offre de soins en Établissement de santé et de l'interface ville/hôpital, représente l'une des 10 priorités nationales du programme pluriannuel de gestion du risque (GDR) et constitue un axe majeur de l'élaboration du SROS PRS (2011-2016).
+
+La DGOS a exprimé le besoin de disposer de recommandations et d'outils afin de soutenir le développement de la chirurgie ambulatoire en France.
+
+La thématique chirurgie ambulatoire a fait l'objet, fin 2011, d'un programme de travail pluriannuel HAS ANAP qui comporte 6 axes thématiques et s'étend jusqu'en 2014.
+
+Les premières recommandations des sociétés savantes sont anciennes. Celles de la SFAR datent de 1990. Elles ont été réactualisées en 2009. Les sociétés et associations de chirurgie digestive, de chirurgie pédiatrique et d'ORL ont par la suite formulé leurs propres recommandations.
+
+Aucune recommandation française n'existe encore dans le domaine de l'urologie.
+
+### 1.1.2. État des lieux sur les pratiques et l'organisation de la prise en charge ambulatoire
+
+Ce mode de prise en charge demeure en France insuffisamment développé par rapport aux autres pays de l'OCDE (83 % des interventions chirurgicales aux États-Unis, 79 % en Grande-Bretagne et 70 % dans les pays d'Europe du Nord se pratiquent en chirurgie ambulatoire contre seulement 40 % en France).
+
+Néanmoins, le volume d'activités de chirurgie ambulatoire a augmenté en France de 21 % entre 2007 (1 604 088 séjours) et 2010 (1 940 989 séjours) [1].
+
+La chirurgie ambulatoire en urologie est déjà largement pratiquée par l'ensemble des urologues français, mais est essentiellement limitée à un nombre d'actes restreint.
+
+## 1.2. Enjeux
+
+Quand elle est maîtrisée, la chirurgie ambulatoire représente un véritable gain qualitatif. Centrage de la prise en charge sur le patient, organisation plus pragmatique, optimisation des ressources, constituent autant de motifs de satisfaction pour le patient mais aussi pour le personnel médical et paramédical.
+
+Les progrès techniques en urologie et en anesthésie doivent permettre aujourd'hui, et encore plus demain, de
+
+développer et de favoriser le mode de prise en charge en ambulatoire, au-delà des actes cibles, dans les différents domaines de l'urologie.
+
+L'élaboration de ces recommandations de bonne pratique doit permettre de faciliter l'organisation de ce mode de prise en charge ambulatoire par les urologues dans leur établissement, avec les mêmes conditions de sécurité qu'en hospitalisation traditionnelle.
+
+## 1.3. Objectifs des recommandations
+
+L'objectif principal que poursuivent ces recommandations est de permettre à l'ensemble des urologues de développer la pratique d'une chirurgie urologique ambulatoire de qualité, avec les mêmes conditions de sécurité qu'en hospitalisation traditionnelle, en intégrant les technologies et les concepts en organisation actuels et à venir.
+
+L'objectif secondaire vise à fournir des documents d'information aux médecins généralistes et aux patients ainsi qu'à l'ensemble des co-intervenants en chirurgie ambulatoire de l'établissement de santé.
+
+## 1.4. Actes et population concernée par les recommandations
+
+C'est à dessein que ces recommandations ne définissent pas de listes d'actes, et pour les raisons suivantes :
+
+- • ce n'est pas l'acte en lui-même qui est ambulatoire mais le trio acte-patient-structure, structure ou organisation à laquelle certaines unités plus avancées associent un réseau d'aval à domicile ;
+- • cela s'apparenterait à une négation du progrès continu de la chirurgie et de l'anesthésie avec l'apparition de nouvelles techniques (miniaturisation des endoscopes, des mécanismes opératoires, de la robotique ; pilotage informatique de l'anesthésie ; anesthésie locorégionale échoguidée ; infuseur-pompe intelligente), de nouvelles énergies (vaporisation électrique ou laser, radiofréquence) et de nouveaux moyens de communication (télémédecine) ;
+- • cela constituerait un frein à l'innovation ;
+- • cela serait oublier que des pathologies disparaissent et apparaissent.
+
+Les professionnels concernés par ce thème sont essentiellement les chirurgiens urologues, mais aussi l'ensemble des chirurgiens effectuant des actes urologiques.
+
+Sont également concernés par ce thème les professionnels qui partagent avec l'urologie la prise en charge des patients concernés lors de leur hospitalisation.
+
+Les patients concernés sont l'ensemble des patients adultes et enfants devant faire l'objet d'une intervention urologique susceptible de bénéficier d'une prise en charge ambulatoire.
+
+## 1.5. Délimitation du thème et questions retenues
+
+La commission de chirurgie ambulatoire du comité des pratiques professionnelles de l'AFU a retenu un certainnombre de questions relatives à la pratique chirurgicale en ambulatoire dans les différents domaines de l'urologie, susceptibles de permettre la meilleure présentation des spécificités de ce mode de prise en charge.
+
+Ces recommandations ont pour objectif de répondre aux questions suivantes :
+
+- • Y a-t-il une spécificité du parcours de soin du patient dans le cadre de la chirurgie ambulatoire urologique ?
+- • Existe-t-il des spécificités de la chirurgie ambulatoire en urologie chez la personne âgée ?
+- • Comment évaluer, prévenir et traiter le risque rétentionnel postopératoire dans le cadre de la chirurgie ambulatoire ?
+- • Comment évaluer, prévenir et traiter le risque infectieux postopératoire après chirurgie ambulatoire urologique ?
+- • Comment évaluer, prévenir et traiter le risque de douleur postopératoire après chirurgie ambulatoire urologique ?
+- • Comment évaluer, traiter et prévenir le risque hémorragique après chirurgie ambulatoire urologique ?
+
+## 2. Méthodologie
+
+Il a été décidé d'élaborer des recommandations de bonne pratique (RBP) concernant la chirurgie ambulatoire urologique en raison :
+
+- • de l'hétérogénéité des pratiques relevée par les enquêtes AFU ou les rapports nationaux sur la place de la chirurgie ambulatoire en urologie ;
+- • des controverses relatives à la faisabilité et l'extension de la pratique urologique en ambulatoire ;
+
+- • de la possibilité de décliner ce thème en situations cliniques facilement identifiables (listes d'indications, de critères, etc.) ;
+- • des conditions de cette prise en charge ambulatoire nécessitant une expertise pluridisciplinaire et la réalisation d'actes de grande technicité ;
+- • de la nécessité d'une continuité de la prise en charge entre les différents intervenants dans le parcours de soin du patient, hospitalier ou en médecine de ville.
+
+La méthode retenue pour l'élaboration de ces recommandations repose sur celle que préconisent les « Recommandations par consensus formalisé » proposées par la HAS<sup>3</sup> en raison du manque de littérature apportant des éléments de réponse aux questions posées par les principales situations cliniques de la chirurgie ambulatoire en urologie avec un niveau de preuve adéquat.
+
+Une réunion de cadrage a lancé le projet au sein de la commission ambulatoire du Comité des pratiques professionnelles de l'AFU, qui regroupe des membres de l'AFU et du SNCUF de pratique libérale ou hospitalière. Un certain nombre de questions ont été identifiées sur ce thème de la pratique chirurgicale urologique en hospitalisation ambulatoire. Cette liste de questions a été transmise aux experts afin qu'ils puissent déterminer, en se fondant sur la littérature disponible, les points de convergence sur lesquels fonder les recommandations, et leurs points de divergence ou d'indécision.
+
+3. Guide méthodologique. Élaboration de recommandations de bonne pratique. Méthode « Recommandations par consensus formalisé », *op. cit.*
+
+<table border="1">
+<thead>
+<tr>
+<th>Questions posées</th>
+<th>Domaine d'application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Y a-t-il une spécificité du parcours de soin du patient dans le cadre de la chirurgie ambulatoire urologique ?</td>
+<td>
+<ul>
+<li>- Rôle du médecin traitant</li>
+<li>- Information pré- et postopératoire</li>
+<li>- Continuité des soins</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Existe-t-il des spécificités de la chirurgie ambulatoire en urologie chez la personne âgée ?</td>
+<td></td>
+</tr>
+<tr>
+<td>Comment évaluer, prévenir et traiter le risque rétentionnel postopératoire dans le cadre de la chirurgie ambulatoire ?</td>
+<td>
+<ul>
+<li>- Chirurgie ambulatoire non urologique</li>
+<li>- Chirurgie ambulatoire urologique</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Comment évaluer, prévenir et traiter le risque infectieux postopératoire après chirurgie ambulatoire urologique ?</td>
+<td>
+<ul>
+<li>- Gestion de l'ECBU</li>
+<li>- Prothèses temporaires ou définitives</li>
+<li>- Suture pariétale</li>
+<li>- Infection de paroi</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Comment évaluer, prévenir et traiter le risque de douleur postopératoire après chirurgie ambulatoire urologique ?</td>
+<td>
+<ul>
+<li>- Colique néphrétique</li>
+<li>- Sondes JJ</li>
+<li>- Douleur de contractions vésicales</li>
+<li>- Douleur pariétale</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Comment évaluer, traiter et prévenir le risque hémorragique après chirurgie ambulatoire urologique ?</td>
+<td>
+<ul>
+<li>- Hématome de paroi et hémorragie du site opératoire</li>
+<li>- Hématurie et caillotage vésical</li>
+<li>- Gestion des anticoagulants</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>Des groupes de pilotage, de cotation et de lecture, distincts et indépendants les uns des autres, ont été constitués parmi des professionnels et des représentants de patients concernés par la pratique de la chirurgie ambulatoire en urologie.
+
+La diversité et l'équilibre entre les principales professions, médicales ou non, contribuant à la pratique de la chirurgie ambulatoire en urologie, les modes d'exercice (libéral, public, universitaire ou non), la répartition géographique des lieux d'exercice des participants ont été respectés afin de garantir la représentativité des groupes.
+
+Les membres de ces trois groupes ont été sollicités par la « commission chirurgie ambulatoire » du Comité des pratiques professionnelles de l'AFU sur leur connaissance de la pratique urologique et ambulatoire et leur capacité à juger de la pertinence des études publiées et des différentes situations cliniques évaluées. Ils ont donné leur accord pour participer à ce travail. Les membres de chacun des groupes ont communiqué leur « déclaration des conflits d'intérêt » à la HAS et à l'AFU. Elles ont été analysées par le Comité d'éthique de la HAS et de l'AFU et sont disponibles sur le site de la HAS et auprès du secrétariat de la Délégation générale de l'AFU.
+
+Des spécialités non urologiques (anesthésie, chirurgie, médecine générale et de spécialités) ont été sollicitées à titre d'expertise individuelle pour l'écriture de l'argumentaire scientifique initial.
+
+Concernant le rôle du médecin traitant, le CHEM (Collège des hautes études en médecine) nous a informé des conclusions des échanges lors des réunions présentielles et nous a transmis les résultats d'une enquête auprès de 557 médecins traitants de la région de la Bretagne inscrits dans le cadre du développement professionnel continu sur la thématique de la chirurgie ambulatoire. Cet avis complémentaire a utilement enrichi l'argumentaire scientifique initial.
+
+Des sociétés savantes (AFCA, SFAR, CNCE, ADARPEF), des membres d'associations de patients ou d'usagers du système de santé et des représentants d'agences publiques (ANAP, HAS) ont été associés dans le groupe de relecture.
+
+## 2.1. Constitution et missions des groupes de travail
+
+### 2.1.1. Groupe de pilotage
+
+Le groupe de pilotage avait pour mission après analyse critique et synthèse des données bibliographiques disponibles et discussion relative aux pratiques existantes :
+
+- • de rédiger l'argumentaire scientifique ;
+- • de rédiger les propositions à soumettre au groupe de cotation ;
+- • de rédiger, à partir des résultats de la cotation, la version initiale des recommandations à soumettre au groupe de lecture ;
+- • de finaliser le texte des recommandations en réunion plénière avec le groupe de cotation à l'issue de la phase de lecture.
+
+Le groupe de pilotage comprenait 13 membres :
+
+- • un président, qui était chargé de coordonner avec les chefs de projet l'ensemble du travail ;
+- • deux chefs de projet ;
+
+- • deux chargés de projet recrutés pour identifier, sélectionner, analyser et rédiger une synthèse critique de la littérature, en relation étroite avec les autres membres du groupe de pilotage ;
+- • un chef de projet HAS pour assurer la communication entre le groupe et la HAS et vérifier le respect de la méthodologie de celle-ci.
+
+Les membres du groupe de pilotage ne faisaient pas partie ni du groupe de cotation, ni du groupe de lecture. Le groupe de pilotage a pu, le cas échéant, consulter autant de personnes que nécessaire, en fonction des champs abordés et des courants de pensée identifiés. Ces personnes aussi ne faisaient pas non plus partie ni du groupe de cotation, ni du groupe de lecture. Avant consultation d'un expert, le groupe de travail sera informé des intérêts déclarés. Cette consultation a été mentionnée dans l'argumentaire scientifique (voir section 2.2.1. pour la liste des membres).
+
+### 2.1.2. Groupe de cotation
+
+Le groupe de cotation avait pour mission :
+
+- • de sélectionner, par un vote en 2 tours, les propositions à retenir pour rédiger la version initiale des recommandations, en tenant compte de la littérature disponible et de l'expérience pratique de ses membres ;
+- • de finaliser le texte des recommandations, selon les modalités définies au paragraphe 2.3.5, au cours de la réunion plénière qui a lieu avec le groupe de pilotage à l'issue de la phase de lecture.
+
+Ce groupe était pluridisciplinaire et multiprofessionnel, afin de refléter l'ensemble des professions, médicales ou non, mettant en œuvre la chirurgie urologique ambulatoire. Il comprend des représentants d'usagers du système de santé (voir Annexe 9 pour la liste des membres).
+
+Le groupe de travail (pilotage et cotation) était composé d'urologues travaillant dans le secteur public et dans le secteur privé (7 urologues ayant une activité exclusive, 5 ayant une activité privée exclusive et 10 ayant une activité mixte).
+
+### 2.1.3. Groupe de lecture
+
+Le groupe de lecture avait pour mission de fournir un avis sur le fond et la forme de la version initiale des recommandations, en particulier sur son applicabilité, son acceptabilité et sa lisibilité.
+
+Les membres ont rendu un avis consultatif, à titre individuel et n'étaient pas réunis. Ce groupe était multidisciplinaire et pluriprofessionnel, afin de refléter l'ensemble des professions, médicales ou non, mettant en œuvre la chirurgie urologique en hospitalisation ambulatoire. Aucune des personnes consultées par le groupe de pilotage ni de celles participant aux instances de validation ne faisait partie du groupe de lecture (voir Annexe pour la liste des membres).
+
+## 2.2. Composition qualitative et quantitative des groupes
+
+Les 13 membres du groupe de pilotage, les 13 membres du groupe de cotation et les 106 membres du groupe de lectures sont détaillés en Annexe 9.
+
+# Reproduction interdite### 2.3. Méthode « Recommandations par consensus formalisé »
+
+La méthode « Recommandations par consensus formalisé » s'est déroulée en 5 phases.
+
+<table border="1">
+<thead>
+<tr>
+<th>Phases</th>
+<th>Responsable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revue systématique et synthèse de la littérature</td>
+<td>Groupe de pilotage</td>
+</tr>
+<tr>
+<td>Cotation</td>
+<td>Groupe de cotation</td>
+</tr>
+<tr>
+<td>Rédaction de la version initiale des recommandations</td>
+<td>Groupe de pilotage</td>
+</tr>
+<tr>
+<td>Lecture</td>
+<td>Groupe de lecture</td>
+</tr>
+<tr>
+<td>Finalisation</td>
+<td>Groupe de pilotage</td>
+</tr>
+</tbody>
+</table>
+
+Dans le cadre de la procédure d'attribution du label par la HAS, un chef de projet de la HAS a accompagné et a apporté une aide méthodologique au promoteur.
+
+En particulier, l'aide méthodologique a porté sur les points suivants :
+
+- • la gestion des conflits d'intérêts :
+  - ◦ le promoteur transmet les déclarations d'intérêts des experts et un tableau récapitulatif des déclarations d'intérêts,
+  - ◦ le chef de projet vérifie les documents et les transmet au bureau de la commission de gestion des conflits d'intérêts pour avis. Le chef de projet transmet au promoteur les avis sur les déclarations d'intérêts des candidats : avis favorable, avec ou sans réserve, ou avis défavorable à la participation au groupe de travail. Les experts ayant des conflits d'intérêts considérés comme majeurs selon le guide des déclarations d'intérêts et de gestion des conflits d'intérêts de la HAS ne peuvent pas être inclus dans le groupe de travail, de nouveaux candidats doivent alors être proposés par le promoteur ;
+- • une lecture commentée des premiers chapitres de l'argumentaire rédigés par les différents groupes de rédacteurs ;
+- • une lecture commentée de l'argumentaire et des recommandations destinées au groupe de lecture ;
+- • l'organisation logistique du groupe de lecture ;
+- • la participation à la réunion de travail du groupe de cotation ;
+- • la participation à la réunion de travail durant laquelle les commentaires du groupe de lecture sont discutés et intégrés dans les recommandations et dans l'argumentaire ;
+- • la simple lecture de la version destinée à la Commission des recommandations de bonne pratique de la HAS.
+
+Le chef de projet de la HAS a participé à l'ensemble des réunions.
+
+#### 2.3.1. Phase de revue systématique, de synthèse et d'analyse critique de la littérature ; rédaction de l'argumentaire scientifique et développement des propositions de recommandations
+
+Le groupe de pilotage a réalisé cette première étape. Celle-ci a abouti à la production d'un argumentaire scientifique et
+
+d'une liste de propositions à soumettre au groupe de cotation sous la forme d'un questionnaire. Du fait de l'étendue des questions, le groupe de pilotage a été divisé en plusieurs sous-groupes correspondants aux différentes questions.
+
+La mission du groupe de pilotage au cours de cette phase était :
+
+- • de réaliser la recherche bibliographique systémasisée, afin d'identifier et de sélectionner les références conformes aux critères de sélection préétablis ;
+- • de réaliser une analyse critique et une synthèse de la littérature retenue sous la forme d'un argumentaire scientifique ;
+- • de solliciter à titre individuel des expertises « non urologique » (infirmière, médecine générale et de spécialité, chirurgies) pour enrichir l'argumentaire scientifique initial ;
+- • de rédiger une liste de propositions de recommandations à soumettre au groupe de cotation sur la base de l'analyse de la littérature effectuée et de l'expérience de ses membres dans le domaine traité.
+
+Malgré le peu de littérature probante existante, le groupe de pilotage a effectué une recherche rigoureuse des données disponibles, à l'aide d'une stratégie de recherche et de sélection explicite. La stratégie de la recherche documentaire à partir de la base de données PUBMED est détaillée en annexe (Annexe 11). Celle-ci a été complétée par chaque auteur de manière indépendante par une recherche manuelle et à partir de la bibliographie des articles sélectionnés.
+
+Les sous-groupes étaient responsables de l'analyse critique de la littérature et de la rédaction d'une proposition d'argumentaire scientifique. Ces propositions ont été discutées en réunion plénière du groupe de pilotage au cours duquel les propositions de recommandations pour soumission au groupe de cotation ont été développées et validées. À ces recommandations a été attribué un niveau de preuve (voir paragraphe 2.4.). En l'absence de données probantes, les membres du groupe de pilotage se sont exprimés en fonction de leur pratique clinique et de leur expérience professionnelle sur le niveau de preuve, sans chercher à trouver un consensus.
+
+#### 2.3.2. Phase de cotation
+
+Le groupe de cotation était l'acteur principal de cette seconde étape, avec l'aide également des chefs de projet, du président du groupe de pilotage et des chargés de projet. Cette phase, qui s'est déroulée en 3 temps, a permis d'identifier, par un vote en 2 tours et une réunion intermédiaire avec retour d'information, les points d'accord, de désaccord ou d'indécision entre les membres du groupe de cotation. Cette phase a abouti à la sélection des propositions qui ont fait l'objet d'un consensus au sein du groupe de cotation.
+
+##### 1) Premier tour de cotation
+
+Chaque membre du groupe de cotation a reçu la version initiale de l'argumentaire scientifique et la liste de propositions soumises à cotation par voie électronique. Chaque membre, indépendamment, a coté chaque proposition avecune échelle numérique discrète graduée de 1 à 9 pour donner son avis sur le caractère approprié ou non de chacune de ces propositions. Le questionnaire n'avait pas de plages de commentaires ; c'est au cours de la réunion de cotation que les commentaires ont été exprimés.
+
+## 2) Réunion de cotation
+
+À l'issue du premier tour de cotation, le chef de projet a analysé les réponses pour préparer la réunion du groupe de cotation, en collaboration avec le président du groupe de pilotage :
+
+- • les votes « pour » comprenaient les valeurs comprises dans l'intervalle (7-9) (accord fort), les votes « contre » comprenaient les valeurs de l'intervalle (1-3) et les votes « indécis » celles de l'intervalle (4-6) ;
+  - ◦ les propositions ayant obtenu un accord fort ont été acceptées telles quelles : elles n'ont pas été discutées ultérieurement au cours de la réunion du groupe de cotation, ou soumises au second tour de cotation,
+  - ◦ les autres propositions ont été préparées pour discussion au cours de la réunion du groupe de cotation et soumises au second tour de cotation ;
+- • le groupe de cotation s'est réuni en présence du président du groupe de pilotage, des chefs de projet de l'AFU et de la HAS et des chargés de projet de l'AFU :
+  - ◦ au cours de cette réunion, les résultats du 1<sup>er</sup> tour ont été restitués et les propositions jugées « indécises » ont été discutées,
+  - ◦ la restitution des résultats a permis à chaque membre de se situer par rapport au reste du groupe,
+  - ◦ cette discussion a permis à chaque membre de juger s'il lui semblait opportun de modifier sa cotation au cours du second tour. Pour cette raison, les membres du groupe de cotation absents lors de cette réunion ont été exclus du second tour de cotation.
+
+## 3) Second tour de cotation
+
+Chaque membre du groupe de cotation qui a participé à la réunion de cotation a coté une seconde fois, individuellement, les propositions soumises par voie électronique.
+
+Les propositions qui ont été acceptées telles quelles, du fait de l'obtention d'un accord fort à l'issue du 1<sup>er</sup> tour de cotation, n'ont pas été soumises au second tour de cotation.
+
+À l'issue de ce second tour de cotation, les chefs de projet ont analysé les réponses et ont transmis les résultats aux groupes de pilotage et de cotation, en distinguant les propositions qui avaient été jugées appropriées de celles qui n'avaient pas été jugées appropriées ou de celles pour lesquelles le groupe de cotation restait indécis.
+
+### 2.3.3. Phase de rédaction de la version initiale des recommandations
+
+Le président du groupe de pilotage, les chefs de projet et les chargés de projet ont été les principaux acteurs pour la rédaction de la version initiale des recommandations.
+
+Les chargés de projet ont complété l'argumentaire scientifique avec les principaux points qui ont été débattus en réunion de cotation et les études répondant aux critères de sélection, transmises par le groupe de cotation, en
+
+fonction des résultats obtenus à l'issue du second tour de cotation.
+
+La formulation des recommandations a varié selon les résultats obtenus à l'issue du processus de cotation :
+
+- • Appropriée : « Il est recommandé de... »
+- • Indécision : « L'état actuel des connaissances ne permet pas de conclure concernant... »
+- • Incertaine à absence de consensus : suppression de la proposition s'il existe une autre alternative appropriée ou « en l'état actuel des connaissances et en l'absence de consensus, il ne peut être recommandé... »
+- • En l'absence de proposition alternative, et lorsqu'il apparaît nécessaire de se prononcer par l'affirmative ou par la négative : maintien de la formulation des propositions soumises à la cotation en vue d'obtenir un avis consultatif sur un panel de personnes plus large. Une troisième cotation sera alors proposée après phase de lecture pour voir si un consensus peut être obtenu.
+- • Inappropriée : « Il est recommandé de ne pas... » ; ou suppression de la proposition s'il existe une autre alternative appropriée.
+
+### 2.3.4. Phase de relecture
+
+Les chefs de projet, à partir de la version initiale des recommandations, ont mis en forme le questionnaire destiné à recueillir l'avis et les commentaires du groupe de lecture, principal acteur de cette phase.
+
+Les membres du groupe de lecture ont rendu un avis formalisé sur le fond et la forme de la version initiale des recommandations, en particulier sur son acceptabilité, son applicabilité et sa lisibilité.
+
+Cette version initiale des recommandations a été transmise pour information aux membres des groupes de pilotage et de cotation.
+
+Cette étape a abouti à la production d'un rapport d'analyse qui a colligé l'ensemble des cotations et commentaires, et a présenté la distribution des réponses des membres du groupe de lecture.
+
+Les chefs de projet ont adressé aux membres du groupe de lecture l'argumentaire scientifique, la version initiale des recommandations et le questionnaire destiné au recueil de leurs avis (sur une échelle numérique discrète, graduée de 1 à 9 avec une espace pour les commentaires libres en regard de chaque recommandation formulée).
+
+Chaque membre du groupe de lecture a jugé le fond et la forme, mais aussi l'acceptabilité, l'applicabilité et la lisibilité de chacune des recommandations. La cotation de 1 (désaccord total) à 9 (accord total) a été fondée sur la synthèse des données publiées dans la littérature (jointe au questionnaire), et dont le but était d'informer l'état des connaissances publiées ; et l'expérience du lecteur dans le domaine abordé.
+
+En vue d'améliorer le texte final, toute cotation < 5 a été accompagnée d'un commentaire explicatif.
+
+Les membres du groupe de lecture n'ont répondu qu'aux parties du questionnaire qui relevaient de leurs compétences ; ainsi, l'échelle a été assortie d'une valeur « Je ne peux répondre ».
+
+- • Lors de l'interprétation des résultats ont été distingués :
+  - • les valeurs manquantes (absence de réponse) ;- • les valeurs 5 (lecteur indécis bien qu'il eût la compétence de répondre) ;
+- • le non-positionnement du lecteur qui a jugé qu'il n'avait pas la légitimité pour répondre à cette question (« Je ne peux répondre »).
+
+### 1) Analyse des réponses du groupe de lecture
+
+L'analyse des réponses et leur synthèse ont été effectuées par les chefs de projet, en collaboration étroite avec le président du groupe de pilotage. Les chargés de projet ont analysé de façon critique les articles adressés en complément par le groupe de lecture et ont complété l'argumentaire scientifique.
+
+L'analyse a été réalisée sur la base du nombre de questionnaires reçus. Le taux de réponse par catégorie de professionnels a été analysé afin de repérer d'éventuels biais à prendre en compte dans l'interprétation des résultats. Un rapport d'analyse a été préparé (comprenant l'exhaustivité des cotations et commentaires reçus ainsi que la distribution des réponses), puis transmis aux groupes de pilotage et de cotation, en soulignant les recommandations qui ont obtenu moins de 90 % de réponses comprises dans l'intervalle (5-9).
+
+Afin d'éviter tout biais d'experts, les noms des membres du groupe de lecture n'ont pas été renseignés dans ce rapport d'analyse qui a été soumis aux membres des groupes de pilotage et de cotation.
+
+### 2.3.5. Phase de finalisation
+
+La version finale des recommandations a été rédigée au cours d'une réunion plénière, rassemblant les groupes de pilotage et de cotation.
+
+Après analyse et discussion des cotations et commentaires du groupe de lecture, les recommandations initiales ont été modifiées selon les règles suivantes :
+
+- • Recommandations fondées sur un niveau de preuve élevé (grade A ou B) : prise en compte des commentaires pertinents pour améliorer la forme ; modifications sur le fond, s'il y a lieu, en fonction des données fournies avec modification du grade de la recommandation si nécessaire.
+- • Recommandations fondées sur un faible niveau de preuve (grade C) ou sur un accord au sein du groupe de cotation : lorsque le groupe de lecture a confirmé le caractère approprié de la recommandation ( $\geq 90\%$  des réponses du groupe de lecture dans l'intervalle [5-9]), la recommandation a été conservée et les commentaires pertinents ont été pris en compte pour améliorer la
+
+forme ; lorsque le groupe de lecture a été plus largement indécis ou en désaccord avec la recommandation initiale ( $< 90\%$  des réponses du groupe de lecture dans l'intervalle [5-9]), le groupe de pilotage, après débat avec le groupe de cotation, a proposé les modifications possibles en fonction des commentaires ou le rejet de la recommandation.
+
+En l'absence de consensus final, ceci a été précisé dans la version finale des recommandations.
+
+### 2.3.6. Validation
+
+La recommandation de bonne pratique a été soumise par la suite à la commission Recommandation de bonne pratique pour avis et au collège de la HAS pour validation (les documents peuvent être éventuellement amendés à la demande du collège).
+
+### 2.3.7. Diffusion
+
+Après validation par le collège, les documents éventuellement amendés (la ou les fiches de synthèse, les recommandations et l'intégralité de l'argumentaire) seront mis en ligne sur le site [www.has-sante.fr](http://www.has-sante.fr)
+
+La diffusion vers les urologues sera effectuée par :
+
+- • des publications dans *Progrès en Urologie* (texte complet), *Progrès en Urologie FMC* (synthèse), *Urojonction* ;
+- • lettre électronique, « lettre AFU » ;
+- • présentation orale lors du Congrès annuel de l'AFU (forum exercice professionnel), du Congrès annuel de l'AFCA (JAB, Journée nationale de chirurgie ambulatoire) ;
+- • mise en ligne sur le site [www.urofrance.org](http://www.urofrance.org)
+
+La diffusion vers le grand public sera assurée par l'AFU par fiches ou affiches d'information, plaquettes remises par les urologues ou disponibles sur le site [www.urofrance.org](http://www.urofrance.org)
+
+La diffusion vers les instances, les autres spécialités médicales et chirurgicales, les différentes sociétés savantes sera assurée par l'AFU.
+
+La diffusion vers les infirmiers sera mise en œuvre par le biais d'une publication dans *Progrès en Urologie*, numéro spécial IDE et par voie électronique.
+
+### 2.3.8. Actualisation
+
+Ces recommandations pourront être actualisées en fonction de l'évolution des pratiques et des connaissances médicales.## 2.4. Gradation des recommandations
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Grade des recommandations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td><b>Preuve scientifique établie</b><br/>Fondée sur des études de fort niveau de preuve (niveau de preuve 1), comme des essais comparatifs randomisés de forte puissance et sans biais majeur ou méta-analyse d'essais comparatifs randomisés, analyse de décision basée sur des études bien menées.</td>
+</tr>
+<tr>
+<td>B</td>
+<td><b>Présomption scientifique</b><br/>Fondée sur une présomption scientifique fournie par des études de niveau intermédiaire de preuve (niveau de preuve 2), comme des essais comparatifs randomisés de faible puissance, des études comparatives non randomisées bien menées, des études de cohorte.</td>
+</tr>
+<tr>
+<td>C</td>
+<td><b>Faible niveau de preuve</b><br/>Fondée sur des études de moindre niveau de preuve, comme des études cas témoins (niveau de preuve 3), des études rétrospectives, des séries de cas, des études comparatives comportant des biais importants (niveau de preuve 4).</td>
+</tr>
+<tr>
+<td>AE</td>
+<td><b>Accord d'experts</b><br/>En l'absence d'études, les recommandations sont fondées sur un accord entre experts du groupe de travail, après consultation du groupe de lecture. L'absence de gradation ne signifie pas que les recommandations ne sont pas pertinentes et utiles. Elle doit, en revanche, inciter à engager des études complémentaires.</td>
+</tr>
+</tbody>
+</table>
+
+## 3. Texte des recommandations
+
+### 3.1. Aspect éthique
+
+Dans le cas de ces recommandations de pratique clinique (RCP) sur la prise en charge ambulatoire en urologie, 2 problématiques peuvent être considérées : d'une part, les aspects éthiques des RPC en général et, d'autre part, les aspects éthiques de la chirurgie ambulatoire.
+
+#### 3.1.1. Éthique et recommandations
+
+Notre intention ici n'est pas d'évoquer la relation entre éthique et rédaction de RPC, mais simplement de rappeler quelques notions utiles.
+
+La médecine fondée sur les preuves (*Evidence based medicine*, EBM), développée depuis le début des années 1990, repose sur la production de recommandations fondées sur les essais cliniques. Dans le cas de la chirurgie ambulatoire, ces données sont quasiment inexistantes. Dès lors, nous devons faire reposer notre démarche sur une somme concordante d'avis d'experts.
+
+Nous souhaitons satisfaire aux principes de l'éthique (bienfaisance, non-malfaisance, autonomie et équité). Cette préoccupation a imprégné notre « entreprise » dès le stade de l'élaboration de ces RPC. Une attention toute particulière a été portée sur le choix des auteurs (qualification, absence de conflits d'intérêt), la qualité de la discussion, le contrôle des étapes de production (élaboration, discussion, correction, relecture et diffusion), mais aussi l'implication d'autres spécialistes et associations de patients dans les relectures.
+
+Ces recommandations s'intéressent moins à la planification et à la rationalisation des soins qu'à l'amélioration significative de la prise en charge du patient.
+
+Leur aspect normatif est finalement secondaire au regard de l'aide qu'elles souhaitent apporter au praticien dans sa démarche de soin.
+
+#### 3.1.2. Éthique et chirurgie ambulatoire
+
+L'hôpital (au sens d'établissement de santé) et l'hospitalisation longtemps au centre du système de santé sont désormais relégués au rang de modalité pour la prise en charge d'un patient donné, marquant ainsi la déconnexion entre la fonction d'hébergement et la fonction de soin des établissements. Le désir exprimé par le patient d'une alternative à l'hospitalisation complète ainsi que la pression économique encouragent le développement de la pratique de la chirurgie ambulatoire. Pour chaque patient, à l'occasion de chaque intervention, cette chirurgie doit s'intégrer dans un « chemin clinique » propre (description précise du rôle de chacun : patient, médecin, urologue, anesthésiste, soignant, brancardier, ambulancier, accompagnant ; qui fait quoi ? quand ? comment ? et où ?).
+
+Les principes éthiques en vigueur propres à toute activité de soin connaissent ici quelques spécificités, développées ci-dessous.
+
+#### 3.1.3. Principe d'autonomie
+
+Comme pour toute prise de décision médicale, le recueil du consentement du patient doit faire l'objet d'une attention particulière. La manière dont le praticien saura éclairer le patient pour l'associer au processus de décision constitue un enjeu éthique majeur.
+
+Aux yeux de certains patients, la chirurgie ambulatoire peut faire figure de chirurgie « mineure », en raison du fait qu'elle ne nécessite pas d'hébergement nocturne. Et ce, *a fortiori* dans le cas de la chirurgie endoscopique sans atteintedu schéma corporel (chirurgie sans ouverture, sur écran en dehors de son propre corps).
+
+Le praticien doit donc se montrer particulièrement attentif devant un patient dont la demande de prise en charge ambulatoire passerait au premier plan alors qu'il n'est pas éligible.
+
+Lors de la consultation préopératoire, le rôle de la personne accompagnante doit être précisé : chez certains patients (présentant des troubles cognitifs ou des handicaps), l'accompagnant représente un élément essentiel sur lequel peut s'appuyer le praticien pour informer le patient et s'assurer du respect des consignes périopératoires.
+
+Dans son travail d'information, le praticien exposera les éléments de la balance bénéfice/risque en insistant sur l'association acte-patient-organisation, afin d'aider le patient à choisir le mode de prise en charge le plus adapté.
+
+### 3.1.4. Principe de bienfaisance
+
+Dans tout acte de soin, ce principe doit être respecté en considérant le bien tel que l'appréhende le patient. La chirurgie ambulatoire respecte cette valeur dans la mesure où elle peut constituer une évolution des pratiques professionnelles et de la prise en charge médicale et organisationnelle, améliorant ainsi le service rendu.
+
+### 3.1.5. Principe de non-malfaisance
+
+En diminuant les risques d'infections nosocomiales, de complications thromboemboliques et de désorientation temporo-spatiale chez le sujet âgé, la chirurgie ambulatoire contribue à renforcer ce principe de non-malfaisance.
+
+Une attention redoublée doit être apportée à la prise en charge postopératoire, notamment à la gestion de la douleur. La continuité des soins doit être organisée.
+
+### 3.1.6. Principe d'équité
+
+Par l'optimisation des coûts et une meilleure allocation des ressources, la chirurgie ambulatoire peut contribuer à l'amélioration de l'efficacité économique. Toutefois, dans le cadre d'une politique de rationalisation des dépenses de santé, le volet social ne doit pas être abandonné. Il doit faire partie intégrante du processus décisionnel.
+
+Ce dernier doit en effet prendre en compte l'aspect social, eu égard à la vulnérabilité, la fragilité et la précarité croissantes des individus. En 2009, 18,1 % de la population française vivaient seuls chez eux (source INSEE). En diminuant « l'hospitalité », la chirurgie ambulatoire ne doit pas contribuer indirectement à l'exclusion d'une partie de notre population. Un milieu social particulièrement défavorisé sur le plan de l'hygiène, de la capacité à se faire aider ou à prendre du repos ; l'existence d'addictions (drogues, alcool) sont autant d'éléments à prendre en considération pour l'éligibilité du patient.
+
+Ces recommandations souhaitent fournir une aide à la décision, en présentant une synthèse des connaissances actuelles appliquées à la chirurgie ambulatoire. Elles doivent être interprétées en fonction du contexte, pour un patient, un acte chirurgical, une organisation et un praticien donnés.
+
+Ces recommandations n'exonèrent pas l'urologue ni de l'exercice de son sens critique, ni de son jugement.
+
+**1. Il est recommandé d'appliquer les recommandations selon le contexte, pour un patient, un acte chirurgical, une organisation et une équipe médico-chirurgicale donnés. (AE)**
+
+## 3.2. Spécificités du parcours de soin
+
+### 3.2.1. Concept de chirurgie en hospitalisation ambulatoire : définitions et aspects organisationnels
+
+#### 1) Définitions
+
+La chirurgie en hospitalisation ambulatoire, ou chirurgie ambulatoire (CA), correspond à la réalisation d'un acte chirurgical avec entrée et sortie du patient le même jour dans une unité d'hospitalisation dédiée, avec une équipe dédiée. Ce mode de prise en charge s'effectue lors d'une hospitalisation de moins de 12 heures sans nuitée. Il s'inscrit dans un circuit complexe d'anticipation, d'accueil et d'organisation spécifique dans une unité de chirurgie ambulatoire (UCA). Le personnel soignant dédié est formé aux spécificités de l'ambulatoire. La coordination médicale et soignante de l'UCA organise la continuité des soins avec l'opérateur.
+
+La poursuite de l'objectif de fluidité et de sécurité de ce circuit passe par une évaluation continue de l'organisation ambulatoire.
+
+Le socle de connaissance HAS ANAP synthétise les données existantes en 2012 à partir des publications françaises et internationales [2].
+
+#### 2) Aspects réglementaires
+
+La chirurgie ambulatoire est définie en France réglementairement<sup>4</sup> comme une alternative à l'hospitalisation complète sur une durée de séjour inférieure ou égale à 12 heures, dans un établissement de santé, au bénéfice des patients dont l'état de santé correspond à ces modes de prise en charge. Selon la réglementation française, cette prise en charge a lieu dans une UCA préalablement autorisée par l'autorité de tutelle.
+
+L'article R. 6121-4 du CSP indique que les alternatives à l'hospitalisation complète ont pour objet d'éviter une hospitalisation à temps complet ou d'en diminuer la durée. Les prestations ainsi dispensées se distinguent de celles qui sont délivrées lors de consultations ou de visites à domicile. Ces alternatives comprennent les activités de soins dispensées par les structures d'hospitalisation à temps partiel de jour ou de nuit, y compris en psychiatrie ; les structures pratiquant l'anesthésie ou la chirurgie ambulatoire. [...] Dans les structures pratiquant l'anesthésie ou la chirurgie ambulatoire sont mis en œuvre, dans des conditions qui autorisent le patient à rejoindre sa résidence le jour même, des actes médicaux ou chirurgicaux nécessitant une anesthésie ou le recours à un secteur opératoire.
+
+4. Articles L. 6111-1 et D. 6124-301 à 305 du Code de la santé publique.Cette activité concerne des actes chirurgicaux et/ou d'explorations programmés et réalisés dans les conditions techniques nécessitant impérativement la sécurité d'un bloc opératoire, sous une anesthésie de mode variable et suivie d'une surveillance postopératoire prolongée permettant, sans risque majoré, la sortie du patient le jour même de l'intervention [3].
+
+La CA, définie comme une chirurgie sans hospitalisation de nuit pour des patients sélectionnés, est un concept d'organisation : « L'organisation est au centre du concept, le patient est au centre de l'organisation » [4].
+
+La chirurgie ambulatoire n'est pas une nouvelle technique. L'acte opératoire est le même que celui effectué en chirurgie classique, mais dans des conditions d'organisation particulières. L'acte chirurgical est adapté aux conditions requises pour permettre le retour du patient à domicile le jour même. La chirurgie ambulatoire impose une hospitalisation : le malade est admis et séjourne dans l'établissement hospitalier à la différence de l'acte réalisé en externe.
+
+La création d'une UCA dans un établissement de santé doit permettre de centraliser l'activité ambulatoire afin d'éviter la pratique de la chirurgie ambulatoire dite « foraine », qui est interdite en France. En effet, le processus très spécifique de prise en charge qu'impose l'ambulatoire n'est pas appliqué en général dans les services d'hospitalisation traditionnelle et concerne parfois de grand nombre de patients [5].
+
+### 3) Évaluation des bénéfices et des risques médicaux
+
+Peu d'études sont disponibles, mais les taux de mortalité et de morbidité majeure rapportés sont très faibles [2].
+
+- • Le risque thromboembolique est inférieur à celui de la chirurgie en hospitalisation traditionnelle. Comme pour toute intervention chirurgicale, ce risque doit être évalué en fonction du geste et du terrain.
+- • Le risque d'infection associée aux soins est diminué en chirurgie ambulatoire, dans la mesure où il augmente en proportion avec la durée d'hospitalisation. Ce risque d'infection est également diminué du fait de l'utilisation de techniques mini-invasives préférentiellement réalisées en chirurgie ambulatoire.
+- • La douleur postopératoire (DPO) et, dans une moindre mesure, les nausées et vomissements postopératoires (NVPO), sont fréquents après une intervention en CA. Ils altèrent la prise en charge, augmentent le taux d'admission et de réadmission, de consultations extrahospitalières et sont sources d'insatisfaction pour les patients et leur famille. La DPO augmente par ailleurs le risque d'apparition d'une douleur chronique post-chirurgicale [6].
+- • La rétention urinaire est une problématique fréquente qui fait l'objet d'un chapitre spécifique de ce référentiel.
+
+Au final, la réhabilitation précoce particulièrement mise en œuvre dans le cadre de la chirurgie ambulatoire permet d'optimiser la prise en charge périopératoire.
+
+Cette réhabilitation précoce, que les Anglo-Saxons nomment *enhanced recovery* ou *fast-track surgery*, développée initialement en chirurgie digestive [7] mais applicable également à la chirurgie urologique [8], recherche une reprise rapide de l'autonomie et de l'activité complète du patient. Les mesures employées sont diverses : limitation du jeûne préopératoire, prévention de l'hypothermie, optimisation de l'analgésie,
+
+gestion individualisée des apports liquidiens, utilisation limitée des drains et des sondes, réalimentation précoce et mobilisation rapide, etc. La réhabilitation précoce, qui s'inscrit au sein d'un chemin clinique impliquant la participation active du patient, présente comme principal avantage de diminuer le taux de complications périopératoires (notamment infectieuses et thromboemboliques) et la durée d'hospitalisation. Elle contribue également à une bonne satisfaction des patients.
+
+**2. Il est recommandé de privilégier le mode d'hospitalisation ambulatoire lorsque les conditions d'éligibilité du patient sont réunies. (AE)**
+
+## a - Satisfaction des patients et des professionnels
+
+### — Satisfaction des patients
+
+La CA suscite la satisfaction des patients [2]. Dans une enquête récente réalisée auprès des patients, les critères déterminants de satisfaction concernant toute hospitalisation étaient : l'attitude avenante de l'équipe du bloc, la visite du chirurgien en zone de repos, la prise en charge de la douleur postopératoire et des nausées et vomissements, la délicatesse de l'intraveineuse, la diminution des délais d'attente, le délai de récupération, l'information régulière des proches sur le déroulement de la prise en charge [9].
+
+### — Satisfaction des professionnels de santé
+
+- • Personnel hospitalier : La satisfaction des professionnels de santé hospitaliers semble réelle bien qu'elle ait fait l'objet de peu d'études [10]. La qualité de l'organisation mise en place constitue, en elle-même, une source de satisfaction (travail structuré, organisé, horaires).
+- • Personnel de ville : La satisfaction des professionnels de santé de ville (médecin généraliste, infirmière libérale, etc.) est souvent grevée par le manque d'information et de collaboration de la part de l'établissement de santé et la crainte d'avoir à se substituer au chirurgien pour gérer les suites postopératoires.
+
+## b - Critères économiques
+
+En 2007, l'IAAS a rapporté 19 études publiées concernant 8 types d'intervention dans 5 pays montrant que le coût de la chirurgie ambulatoire était inférieur à l'hospitalisation classique dans des proportions allant de -25 à -68 % [11].
+
+Les études françaises [12] ont confirmé ces données, à la condition d'un caractère réellement substitutif du mode de prise en charge ambulatoire et de la fermeture de lits. Des gains d'opportunité y sont associés (réaffectation de services d'hospitalisation, réorganisation, augmentation d'activité, diminution des délais d'attente).
+
+## 4) Éligibilité à l'ambulatoire
+
+### a - Consultation de programmation opératoire
+
+La consultation de programmation opératoire est un temps essentiel du parcours de soins. C'est au cours de cette consultation d'urologie qu'est posée l'indication chirurgicale et qu'est planifiée l'intervention. L'hospitalisation en ambulatoire peut être considérée aujourd'hui comme le mode de prise en charge à privilégier en première intention pourun grand nombre d'actes. Cependant, l'éligibilité à l'ambulatory repose sur l'évaluation au cas par cas de la balance bénéfice/risque d'une hospitalisation ambulatoire pour un acte, un patient et une structure (ou organisation) donnés.
+
+L'intérêt de la bonne sélection des patients est de pouvoir réaliser l'acte dans des conditions de sécurité au moins égales à celles d'une hospitalisation conventionnelle et d'éviter ainsi les « échecs d'ambulatory », d'une part et, d'autre part, les retards et annulations, à l'origine des perturbations de l'organisation de l'UCA.
+
+Les critères d'éligibilité sont bien définis [2,6] et sont repris dans les recommandations de la SFAR (Annexe 4.3.). Les patients éligibles sont ceux qui :
+
+- • comprennent et acceptent la prise en charge ambulatoire ;
+- • peuvent être rattachés à domicile par un tiers, voire ne pas rester seuls la première nuit en fonction du type d'anesthésie ;
+- • sont en mesure de comprendre et respecter les consignes pré- et postopératoires ;
+- • ne sont pas atteints de troubles psychiatriques de nature à empêcher leur collaboration avec l'équipe de l'UCA ;
+- • vivent dans des conditions acceptables, avec l'accès à un téléphone.
+
+Les critères médicaux de non-éligibilité doivent être évalués au cas par cas en fonction du triptyque patient-acte-structure (ou organisation).
+
+L'évaluation préopératoire doit donc s'attacher à recueillir les caractéristiques médicales et psychosociales du patient (conditions de vie et de retour à domicile, nature de son accompagnant, la capacité de compréhension et de suivi des consignes pré- et postopératoires).
+
+La liste d'actes doit être élaborée par chaque unité de chirurgie ambulatoire. Elle est fonction de l'expérience des opérateurs urologues et anesthésistes, de l'organisation mise en place avec parfois un suivi à domicile prolongé. Des actes parfois lourds sont aujourd'hui déjà réalisés en ambulatory par des équipes entraînées.
+
+L'un des temps importants au cours de cette consultation préopératoire est l'information délivrée au patient et à son accompagnant. Celle-ci comporte notamment les consignes pré- et postopératoires dont le respect est indispensable au bon déroulement de la prise en charge. Il faut donc s'assurer que les informations ont été bien reçues et comprises.
+
+## b - Personnes ressources
+
+La chirurgie ambulatoire ne peut se concevoir sans l'entourage du patient. Dans cet entourage peuvent être définies des personnes « ressources » qui seront présentes soit en consultation, soit en hospitalisation, soit pour le retour à domicile :
+
+- • Accompagnant : Personne qui accompagne le patient sur le trajet du retour à domicile après chirurgie ambulatoire.
+- • Aidant naturel : Personne non professionnelle qui vient en aide à une personne dépendante de son entourage pour les activités de la vie quotidienne.
+- • Personne de confiance : Personne désignée librement dans son entourage par le patient et pouvant l'accompagner dans ses démarches, l'assister à ses entretiens médicaux, l'aider à prendre des décisions et être consultée en priorité par l'équipe médicale si l'état de santé du patient ne lui permettait pas de donner son avis.
+
+3. Il est recommandé d'identifier dans l'entourage du patient les personnes susceptibles d'intervenir dans la prise en charge ambulatoire (personnes ressources : accompagnant, aidant naturel, personne de confiance). Leur rôle sera précisé en fonction du contexte médical et social. (AE)
+
+4. Il est recommandé de vérifier la conformité des conditions requises pour la pratique de l'ambulatory à toutes les étapes de la prise en charge. (AE)
+
+## c - Populations spécifiques
+
+### — Personnes âgées
+
+Un chapitre spécifique de ces recommandations est consacré à la prise en charge des patients âgés. La pratique des interventions chirurgicales en ambulatory diminue certains risques spécifiques liés à l'hospitalisation dans cette population, dont le risque de syndrome confusionnel postopératoire.
+
+### — Population pédiatrique
+
+Les enfants sont d'excellents candidats à la prise en charge ambulatoire. La chirurgie ambulatoire doit être préférée chaque fois qu'elle peut être mise en œuvre. La charte de l'enfant hospitalisé le mentionne dans son premier article<sup>5</sup>. Les particularités liées au jeune âge doivent être prises en compte dans les structures [13].
+
+### — Patients atteints d'un handicap
+
+L'existence d'une déficience intellectuelle ou physique ne constitue pas une contre-indication *a priori* à la prise en charge en chirurgie ambulatoire.
+
+La détermination de l'éligibilité et l'obtention du consentement du patient, de l'aidant principal ou, le cas échéant, du représentant légal sont nécessaires.
+
+Pour les patients atteints de déficience, la détermination de l'éligibilité tient compte de leur handicap, de leur accessibilité à la structure de soins, de leur environnement (entourage, lieu de vie) et du geste chirurgical envisagé ainsi que des suites opératoires prévisibles.
+
+5. Une déficience physique ou intellectuelle n'interdit pas la prise en charge ambulatoire. Elle nécessite des adaptations spécifiques. (AE)
+
+6. Les enfants sont d'excellents candidats à la prise en charge ambulatoire. Il est recommandé que les particularités liées au jeune âge soient prises en compte dans les structures. (AE)
+
+7. Le grand âge en soi est une bonne indication à la prise en charge ambulatoire lorsque les conditions d'éligibilité sont réunies. L'hospitalisation ambulatoire diminuerait le risque confusionnel. (Grade C)
+
+5. Charte européenne des droits de l'enfant hospitalisé adoptée par le Parlement européen le 13 mai 1986. Circulaire du secrétariat d'État à la Santé de 1999.## 5) Unité de chirurgie ambulatoire
+
+### a - Les différents types de structure
+
+Il n'y a pas de modèle idéal hormis la proximité de l'UCA et du bloc opératoire. L'architecture existante, verticale, horizontale ou pavillonnaire, les réserves foncières ainsi que les ressources humaines existantes diffèrent trop d'un établissement de santé à l'autre pour imaginer un modèle unique architectural ou d'organisation.
+
+### b - Les différents types de flux
+
+Le respect des contraintes d'horaires constitue un cadre rigide avec lequel les responsables d'une UCA doivent composer, l'unité de lieu aidant à garantir l'unité de temps.
+
+Un des facteurs de réussite tient à la programmation des actes qui permettrait une utilisation optimale du temps de vacation offert [14].
+
+La programmation des actes doit permettre la fluidité des séjours pour l'unité ambulatoire, en fonction de la durée prévisible de surveillance postopératoire avant la sortie du patient.
+
+Un même lieu pouvant assumer plusieurs fonctions successives, et une même fonction pouvant être exercée dans des lieux différents, l'unité ambulatoire doit maîtriser ses flux : patients, informations, personnels, matériels. L'optimisation de la prise en charge des différents flux (flux logistiques, patients, brancardiers, chirurgiens, anesthésistes, etc.) permet l'amélioration de la gestion de la structure en créant des circuits courts, à l'origine de l'amélioration de la qualité des soins délivrés aux patients. La fluidité, la cohérence et la maîtrise doivent caractériser les flux ambulatoires. Le parcours du patient doit être simple et fluide. Ce parcours relève d'une pensée logistique depuis l'accès jusqu'à la sortie du patient. Il prend en compte les contraintes d'amont et d'aval, et compose astucieusement avec les contraintes existantes. Les différentes étapes sont les suivantes : arrivée, accueil, enregistrement, préparation, transfert préanesthésie, intervention en salle d'opération, sortie de la salle d'opération, passage obligatoire en salle de soins postinterventionnelle (SSPI), réhabilitation, évaluation de « l'aptitude à la rue », prise en charge par l'accompagnant, suivi à domicile. Les 2 circuits basiques de flux sont décrits en Annexe 1 : différents types de flux.
+
+Appliquer les principes d'organisation « industriels » à la chirurgie, c'est définir les étapes incontournables (anesthésie, acte chirurgical, information sur le patient) et les sources de perte de temps dans l'organisation des flux (mauvaise planification, temps d'attente et de transfert).
+
+L'enjeu lié à la gestion des flux implique de penser et de diversifier les modalités d'organisation des espaces et des matériels associés, par exemple : chambre/box/espace partagé et lit/brancard/fauteuil avec un niveau de confort hôtelier adapté en fonction de la situation clinique du patient ; vestiaires fixes/mobiles et vestiaires communs/individuels... La modularité et l'adaptabilité du système constituent la garantie d'une organisation évolutive.
+
+Il faut disposer d'un système d'information permettant, tout au long du processus, une vision unique partagée. Un accès en temps réel pour l'ensemble des acteurs aux informations est nécessaire pour minimiser les ruptures et les attentes.
+
+L'attention consacrée au flux doit dépasser le cadre du séjour et s'attacher à optimiser l'accès à l'unité de chirurgie ambulatoire, la signalétique et le stationnement.
+
+Des nouveaux métiers apparaissent dans les établissements (qualiticien, logisticien, gestionnaire de bloc) dans le but d'optimiser les circuits et les organisations. Le développement des outils informatiques y contribue aussi largement.
+
+### c - L'équipe de l'UCA
+
+L'article D. 6124-301-1 du Code de santé publique précise qu'en termes d'organisation la structure doit disposer de moyens dédiés à la chirurgie ambulatoire en locaux et matériel (c'est-à-dire ne pouvant être utilisés pour une hospitalisation complète de chirurgie). Le décret ne permet pas la mutualisation au sein des UCA des activités de chirurgie et d'anesthésie ambulatoire avec les activités relevant d'une structure d'hospitalisation à temps partiel (ex : chimiothérapie).
+
+Le décret maintient une obligation d'une équipe médicale et paramédicale dédiée pour la chirurgie ambulatoire. Il s'agit d'une exception (avec l'anesthésie ambulatoire) par rapport à la possibilité de mutualisation avec les équipes d'hospitalisation complète pour les autres activités de soins. La seule mutualisation possible en chirurgie ambulatoire concerne le personnel de bloc opératoire.
+
+### d - Recommandations organisationnelles HAS ANAP
+
+L'ANAP et la HAS, en réponse à la demande des pouvoirs publics de bénéficier de référentiels et d'outils pour accompagner le développement de la chirurgie ambulatoire en France, ont construit un programme de travail commun pluriannuel autour de 6 axes. Un des axes concerne la publication (réalisée en mai 2013) de recommandations organisationnelles et d'outils de diagnostic et de mise en œuvre [244].
+
+Les 16 recommandations organisationnelles sont formulées sous 4 formes : des principes fondamentaux sur le concept ambulatoire, des recommandations stratégiques, notamment sur le projet d'établissement, des recommandations opérationnelles autour de la gestion des flux et des recommandations portant sur les mises en perspectives, notamment dans le développement de centres ambulatoires indépendants, dans la formation et dans l'articulation ville/hôpital.
+
+Il n'existe pas de modèle organisationnel type ou architectural type. Chaque organisation et chaque structure, en fonction de leur passé et de leur culture, de leurs contraintes et de leurs incitatifs, vont construire leur projet de développement en combinant une optimisation de la gestion de leurs flux et une culture de gestion de leurs risques.
+
+Réduire la durée de séjour du patient ambulatoire au strict temps nécessaire et utile impose de repenser l'organisation autour de la gestion et de la maîtrise des flux et d'inscrire la démarche dans une anticipation permanente.
+
+L'hôpital est une organisation complexe où se croisent des flux de nature hétérogène : physiques (flux patients, flux praticiens, flux infirmiers, flux brancardiers, flux logistiques, etc.) et informationnels (systèmes d'information, planning du bloc opératoire, dossier médical et infirmier, etc.).- • Chaque établissement, en fonction de son contexte, doit :
+  - • cartographier l'ensemble de ses flux ;
+  - • identifier puis réduire les sources de gaspillage (attente de la signature médicale pour l'aptitude à la rue, convocation systématique des patients à 8 heures du matin, une heure de passage systématique en SSPI quels que soient la pathologie et le patient...)
+- • optimiser ses flux.
+
+Les recommandations organisationnelles préconisent :
+
+- • Les circuits courts depuis l'entrée jusqu'à la sortie de l'hospitalisation, tout particulièrement entre le bloc opératoire et l'unité de chirurgie ambulatoire. Le concept englobe aussi les courts-circuits ou *fast track* (élimination d'une activité de salle de réveil pour des patients à faible risque postopératoire sous anesthésie locorégionale périphérique, avec sortie directe du bloc opératoire vers une salle de remise à la rue).
+- • Les circuits autonomes et indépendants des circuits traditionnels (hospitalisation complète, urgences, consultations, etc.).
+- • Les circuits « marche en avant » dans lesquels le patient ne revient jamais sur ses pas.
+- • Les circuits à flux tirés (plutôt que poussés) où le déclenchement d'une action sur le parcours du patient est du ressort de l'aval (par exemple : c'est le bloc opératoire, en capacité d'accueillir le patient, qui demande la venue du patient et non l'unité de chirurgie ambulatoire qui envoie celui-ci au bloc opératoire avec un risque de provoquer un goulot d'étranglement si ce bloc n'est pas en capacité de le recevoir).
+
+Les circuits à flux croisés doivent rester l'exception dès lors qu'ils sont potentiellement désorganiseurs des enchainements entre les différentes étapes du parcours.
+
+Cette optimisation de la gestion des flux doit s'inscrire dans une démarche de maîtrise des risques associés aux soins. Cette démarche n'est pas spécifique de la chirurgie ambulatoire, mais le temps de séjour limité dans la structure impose une vigilance pour sécuriser le processus en anticipant les risques potentiels :
+
+- • en les identifiant ;
+- • en gérant leur survenue ;
+- • et en mettant en œuvre des mesures ou barrières de sécurité visant à les éviter ou les réduire.
+
+La chirurgie ambulatoire est une innovation organisationnelle. Elle relève de la révolution culturelle, dans la mesure où elle fait passer la notion traditionnelle de capacités (en lits, en services, etc.) derrière la culture des flux et de l'anticipation. Elle nécessite un accompagnement au changement et une convergence de tous les acteurs (directeurs, médecins, infirmières, brancardiers, secrétaires, etc.) autour du seul bénéfice pour le patient.
+
+Le management et la culture ambulatoires sont synonymes :
+
+- • d'harmonisation des motivations des professionnels de santé et des directeurs d'établissement ;
+- • d'harmonisation des pratiques professionnelles ;
+- • de définition partagée des fonctions managériales et de pilotage ;
+- • de formalisation de coopérations professionnelles ;
+
+- • de formation à la gestion des flux et de création de nouveaux métiers et nouvelles compétences dédiés à cette gestion des flux.
+
+Cette culture du « process », de la gestion des flux, de la sécurité, de l'anticipation permanente, comme l'accompagnement au changement qui doit en résulter, impose d'inscrire la chirurgie ambulatoire comme une priorité du projet d'établissement. Il s'agit là de susciter une dynamique ambulatoire mais aussi d'assurer à la fois une croissance de l'activité chirurgicale totale par effet vitrine et redistribution des parts de marché.
+
+Une certaine « culture organisationnelle » propre à l'ambulatoire doit se développer. Ses principales spécificités sont l'anticipation, l'optimisation des flux, l'approche pluriprofessionnelle, la volonté permanente de réhabilitation rapide.
+
+L'équipe de l'UCA a pour objectif principal la réhabilitation en quelques heures des patients. L'idée directrice est celle d'un patient assis ou debout, prêt à quitter la structure plutôt qu'un patient allité véhiculant l'image d'une hospitalisation prolongée.
+
+Le soin doit être dissocié de l'hébergement. Toute nuit d'hospitalisation doit être prescrite et justifiée par le type d'acte, le contexte médical ou psychosocial du patient.
+
+8. La consultation de programmation opératoire est un temps essentiel de l'organisation ambulatoire et de l'information du patient. Elle nécessite de mettre à disposition des moyens en termes de temps médical et non médical. (AE)
+
+9. Il est recommandé au cours des différentes étapes de la chirurgie ambulatoire (de l'accueil à la sortie) d'identifier les sources de perte de temps dans l'organisation des flux (mauvaise planification, temps d'attente, de transfert). (AE)
+
+10. Il est recommandé que l'équipe de l'UCA soit sensibilisée, expérimentée et formée à la pratique de l'ambulatoire et à la réhabilitation précoce. (AE)
+
+11. Il est recommandé de mettre en place au sein de l'UCA une démarche de gestion des risques concernant les risques liés aux processus de prise en charge du patient, les risques liés au défaut d'adhésion individuelle ou collective et les risques liés à des pressions institutionnelles sur des acteurs. (AE)
+
+## 6) Anesthésie ambulatoire
+
+Nous reprendrons les chapitres des dernières recommandations de la SFAR 2009 et de la SFCD 2010, en soulignant les évolutions récentes ainsi qu'en précisant les particularités urologiques de l'anesthésie ambulatoire.
+
+### a - Recommandations existantes
+
+Les recommandations actualisées de la SFAR sont rapportées en Annexe 3 : Anesthésie ambulatoire, texte de la SFAR.
+
+La prise en charge anesthésique ambulatoire répond aux mêmes contraintes que celles d'une prise en charge avec hospitalisation conventionnelle.Elle représente un des éléments du processus de prise en charge. L'ensemble des contraintes liées à l'anesthésie doit donc être pris en compte dans l'organisation du secteur de chirurgie ambulatoire : la consultation d'anesthésie, la visite préanesthésie, l'organisation de la programmation, le temps d'induction (anesthésie générale et locorégionale), le passage ou non en SSPI, les éventuels effets secondaires de l'anesthésie (NVPO, rétention d'urine, etc.).
+
+Elle participe à la bonne marche de l'organisation. Le choix de la technique d'anesthésie a pour fin d'améliorer la prise en charge et de faciliter le flux des patients : limitation du jeûne préopératoire, utilisation ou non d'une prémédication, choix des agents anesthésiques à demi-vie courte et à effets secondaires réduits ; prévention des NVPO chez les patients à risque.
+
+Elle participe également à la prise en charge des DPO (infiltration, prise en charge multimodale de la douleur, traitement non médicamenteux), ainsi qu'à l'information du patient des consignes spécifiques ambulatoires.
+
+### b - Particularité urologique de l'anesthésie ambulatoire : l'hydratation
+
+Une des particularités urologiques de l'anesthésie ambulatoire est la nécessité d'une hydratation importante.
+
+La recommandation du jeûne à partir de minuit se traduit souvent par l'arrêt des boissons au repas du soir, la veille de l'intervention. Les programmes opératoires se terminant de plus en plus tard, il n'est pas rare de prendre en charge des patients déshydratés par un jeûne préopératoire de plus de 16 heures.
+
+Or, le jeûne et la déshydratation qui en découle peuvent avoir des conséquences sur les plans anesthésique et urologique [15] : retentissement sur l'équilibre hémodynamique lors de l'induction anesthésique chez les patients ayant les réserves les plus limitées, défaut prolongé d'apport en glucose entraînant une déplétion des stocks de glucose de l'organisme, perte azotée majorée en situation de stress, augmentation du risque de nausées et vomissements postopératoires.
+
+L'ensemble des publications comparant les sensations subjectives avant une anesthésie rapporte une sensation de faim et de soif dépendante de la durée de jeûne tant chez l'adulte que chez l'enfant [16,17].
+
+L'administration de liquides clairs permet de réduire la sensation de soif et son intensité chez environ 25 % des sujets mais pas la sensation de faim, de vertige ou les céphalées [18,19].
+
+Sur le plan urologique, le jeûne prolongé va entraîner une déshydratation, source d'oligurie.
+
+Les gestes urologiques endoscopiques (haut et bas appareil urinaire) peuvent être sources de traumatisme et d'hématurie. L'oligurie augmente le risque de caillottage, source de douleur et de dysurie, d'inconfort pour le patient, qui sera davantage inquiété par des urines hématuriques ou sanglantes. L'oligurie favorise la rétention par caillottage et retarde la reprise des mictions. À l'inverse, une diurèse abondante permet d'éclaircir les urines, évite les sondes bouchées, facilite la surveillance de la reprise des mictions et rassure le patient.
+
+La prise orale de liquides clairs (eau, café, thé, boissons sucrées sans pulpe et sans gaz) ne modifie pas la vidange gastrique préopératoire et la totalité des patients (dénus de
+
+pathologie ou de traitement affectant la vidange gastrique) a l'estomac vide 2 heures après une prise liquidienne *ad libitum* [16,20].
+
+Certaines publications retrouvent soit une amélioration de la vidange gastrique grâce à la prise préopératoire de liquides clairs 2 heures avant une anesthésie, soit un volume inchangé par rapport à un jeûne > à 6 heures [21].
+
+Un essai clinique randomisé ayant inclus 100 patients n'a pas mis en évidence de différence significative de volume et de pH du liquide gastrique entre un groupe de patients ayant pris des liquides clairs jusqu'à la prémédication et un groupe ayant respecté un jeûne strict de plus de 6 heures [16]. Un autre essai clinique randomisé mené en aveugle chez 100 enfants ayant une anesthésie générale a retrouvé des résultats similaires [20].
+
+12. Il est recommandé que le médecin anesthésiste réanimateur soit informé par l'urologue du choix d'un mode d'hospitalisation ambulatoire. (AE)
+
+13. Il est recommandé qu'à l'issue de la consultation d'anesthésie, l'urologue soit informé en cas de réserve sur le mode d'hospitalisation ambulatoire. (AE)
+
+14. Il est recommandé d'hydrater par voie orale les patients par des liquides clairs jusqu'à 2 heures avant l'intervention. Les critères habituels de jeûne préopératoire sont de 6 heures pour les solides et de 2 heures pour les liquides clairs. (Grade B)
+
+15. Il est recommandé de déterminer pour chaque intervention de façon collégiale une durée de surveillance post-opératoire minimale requise. (AE)
+
+## 7) Place et rôle des différents acteurs dans le parcours de soins
+
+### a - Place du médecin traitant
+
+Une enquête réalisée auprès de 557 médecins traitants de la région de la Bretagne a objectivé les résultats suivants (voir Annexe 2 : Satisfaction des médecins généralistes) :
+
+- • En amont de la chirurgie, si 68 % des médecins traitants informent l'équipe chirurgicale, ils ne sont que 45 % à informer leurs patients et ne sont que 28 % à se sentir associés à chaque fois à la décision de l'acte chirurgical.
+- • En aval de la chirurgie, 23 % des médecins traitants ne sont jamais informés du retour, 8 % ne recevant aucun courrier. L'absence de contrôle des nausées, vomissements, douleurs et anxiété ne concerne que 3 % de leurs patients, ce qui témoigne d'une prise en charge au moins satisfaisante sur ce plan.
+
+Les attentes des médecins traitants peuvent se résumer ainsi : améliorer l'information du patient, la communication et la coordination entre les intervenants en clarifiant le rôle de chacun.
+
+Ce chapitre définit l'intervention du médecin traitant dans le parcours du patient en urologie et chirurgie ambulatoire.
+
+Il existe 3 temps essentiels pour le médecin traitant dans le circuit ambulatoire urologique : le temps précédant la consultation, le temps intermédiaire entre la consultation et l'opération et le temps consécutif à l'opération.
+
+# Reproduction interditeLorsqu'il adresse un patient à l'urologue, le médecin traitant fait état dans son courrier des antécédents du patient, des traitements en cours, du contexte social et de l'environnement familial. Ce sont là autant d'éléments lui permettant d'établir si le patient est ou non éligible à une éventuelle prise en charge chirurgicale et ambulatoire. Avec le développement de l'ambulatoire, la question de l'éligibilité doit désormais être posée dès les premiers échanges entre le médecin traitant et le spécialiste.
+
+L'urologue informe le médecin traitant de l'indication opératoire et de la décision de prise en charge en CA. Il précise dans son courrier la date d'intervention, les éventuels avis spécialisés (cardiologue, pneumologue, gériatre, etc.), les examens complémentaires d'opérabilité, les consignes périopératoires. Les substitutions de traitement (anticoagulants, antiagrégants) seront validées ultérieurement par l'anesthésiste.
+
+Le médecin traitant peut être amené à communiquer des informations complémentaires à son patient sur la nature, les risques et les bénéfices d'une prise en charge ambulatoire dans sa situation.
+
+Il pourra utilement aider le patient à remplir le questionnaire d'anesthésie en précisant notamment les traitements poursuivis, les facteurs de risques d'anxiété, de nausées et vomissements. Il réexpliquera éventuellement les conditions de jeûne préopératoire, la préparation cutanée.
+
+L'anesthésiste, au cours de la consultation de pré-anesthésie, réévaluera l'éligibilité à l'ambulatoire ; déterminera le mode d'anesthésie, les examens biologiques préopératoires validera les substitutions de traitement. En cas de contre-indication anesthésique, le médecin traitant sera tenu informé par courrier.
+
+Avant la chirurgie, en cas d'événements intercurrents (modification de traitement, maladie, accident, anomalie biologique, ECBU positif, etc.) ou de modification des conditions sociales pouvant entraver la prise en charge en CA, le médecin traitant en informera l'urologue, son secrétariat ou l'UCA.
+
+L'ECBU est un élément essentiel dans la réalisation de certaines interventions urologiques. Sa stérilité constitue un impératif préalable à la réalisation d'une intervention urologique endoscopique.
+
+Après l'intervention, à la sortie de l'UCA, un dossier de liaison est remis au patient. Ce dossier contient :
+
+- • un document précisant la nature de l'intervention et les suites opératoires immédiates, au mieux les comptes-rendus opératoires et d'hospitalisation ;
+- • les suites habituelles et la conduite à tenir en cas de complication ;
+- • les consignes postopératoires ;
+- • les ordonnances de sortie ;
+- • les rendez-vous postopératoires ;
+- • les adresses et numéros de téléphone utiles pour la continuité des soins.
+
+Dans l'idéal, l'usage d'une messagerie sécurisée devrait permettre de transmettre au médecin traitant l'ensemble des courriers et comptes-rendus, l'ordonnance de sortie le jour même du retour à domicile du patient. L'absence de solution informatique généralisée fait privilégier la remise des documents en mains propres. En cas de besoin, le patient est ainsi à même de transmettre physiquement l'information à son médecin traitant ou à un collègue (autre généraliste, urgentiste, SOS médecins).
+
+La continuité des soins relève de l'urologue et de l'UCA et fait l'objet d'un chapitre spécifique.
+
+Le médecin traitant coordonne la reprise du traitement antérieur et informe le chirurgien ou l'UCA de la survenue de complications plus tardives. Ce retour d'information alimentera la démarche qualité de l'UCA.
+
+En conclusion, le médecin traitant constitue un maillon indispensable dans notre système de soins. Il a une vision différente selon son type d'exercice, sa distance à l'établissement, son implication dans des réseaux de soins. Son rôle important tient à son positionnement en amont et en aval de l'hospitalisation ambulatoire. Il représente un interlocuteur central en raison de sa proximité avec le patient, de sa connaissance du contexte social (hygiène, entourage, difficultés) et historique (pathologies familiales, interactions médicamenteuses, difficultés, etc.) de ce dernier.
+
+**16. Il est recommandé d'informer le médecin traitant du caractère ambulatoire de la prise en charge chirurgicale dès la consultation de programmation. (AE)**
+
+**17. Il est recommandé que le médecin traitant échange toute information utile à la prise en charge ambulatoire avant la consultation de programmation, dans le temps intermédiaire entre la consultation et l'opération et après l'opération. De même, il est recommandé de transmettre au médecin traitant tous les éléments utiles à la prise en charge post-interventionnelle (compte-rendu opératoire et d'hospitalisation, suites prévisibles, consignes, ordonnances et modalités de la continuité des soins). (AE)**
+
+## b - Place du patient
+
+L'ambulatoire impose une responsabilisation du patient et lui confère un rôle spécifique. Elle modifie le « colloque singulier » entre l'opérateur et le patient. Mais elle incite surtout ce dernier à prendre une part encore plus active dans sa propre prise en charge.
+
+Le patient intervient dès le début de sa prise en charge dans la détermination de l'éligibilité à l'ambulatoire : l'implication du patient et son interaction avec les professionnels de santé font partie des facteurs importants de réussite du processus. Le patient est invité à prendre part aux décisions le concernant.
+
+Le modèle de prise de décision retenu est aujourd'hui celui de la décision partagée. L'information médicale est rendue disponible à la personne malade, ses préférences écoutées et entendues. Le consentement véritablement éclairé forme la pierre angulaire de la prise de décision.
+
+La prise de décision partagée peut en fait être considérée comme la « rencontre de deux experts : celui qui apporte des informations fondées sur le meilleur niveau de preuves scientifiques et celui qui connaît ce qui est le plus important pour lui-même ». Elle repose sur la présentation de l'état actuel des connaissances et en particulier du meilleur niveau de preuves scientifiques de toutes les options possibles, associées à leurs risques et bénéfices. Le patient doit être en mesure de bien comprendre quels sont les choix disponibles, les risques encourus et les bénéfices présumés pour chacun d'entre eux.
+
+Le respect des consignes préopératoires (hygiène, traitements, jeûne), de certains éléments de surveillance
+
+# Reproduction interditepostopératoire (douleur, miction, saignement, infection) et d'actes de soins (soins locaux de cicatrice, gestion de sondes, gestion de la douleur) est expliqué au patient.
+
+Celui-ci doit, dans son lieu de vie, appliquer les consignes qui lui ont été expliquées et remises par écrit. Il est également de son ressort de contacter l'équipe soignante pour l'informer en cas de difficulté ou d'événement indésirable, après avoir quitté l'établissement de soins. Une des principales aspirations de l'ambulatoire est la restitution rapide de l'autonomie du patient au cœur de son environnement habituel.
+
+L'ambulatoire impose une évolution de l'organisation centrée sur le patient.
+
+Le développement et l'organisation de la chirurgie ambulatoire ont également un intérêt pédagogique :
+
+- • cette prise en charge incite les professionnels de santé et les patients à s'interroger sur les besoins en soins, en surveillance et les modalités d'hébergement ;
+- • le patient est, au même titre que les autres intervenants de la prise en charge ambulatoire, un acteur à part entière de la maîtrise des coûts de santé en France.
+
+18. Il est recommandé d'expliquer au patient les modalités de la chirurgie ambulatoire et de recueillir son assentiment afin qu'il soit (ou éventuellement son représentant légal) acteur de sa prise en charge. La décision d'ambulatoire doit être partagée avec lui. Il est recommandé d'informer le patient sur l'importance de respecter les consignes :
+
+- - Pré-opératoire (joignable par téléphone, hydratation, jeûne, préparation cutanée, prescriptions). Leur non-respect pouvant conduire au report de l'intervention.
+- - Post-opératoires (prescriptions, éléments de surveillance et actes de soins éventuels). Leur non-respect pouvant nuire à la prise en charge. (AE)
+
+### c - Place de l'aidant naturel
+
+L'aidant naturel<sup>6</sup> est un acteur essentiel, parfois indispensable, sur lequel peut s'appuyer le praticien pour informer le patient et s'assurer du respect des consignes périopératoires. La consultation de programmation opératoire en ambulatoire est une consultation spécifique durant laquelle l'aidant naturel doit être désigné et son rôle, précisé.
+
+Son rôle particulier vis-à-vis du patient et du médecin, propre à l'ambulatoire, suscite des interrogations d'ordre éthique et déontologique. Il peut intervenir dans l'appréciation de l'éligibilité des patients et dans la prise en charge postopératoire. La place qui lui est accordée peut l'amener à partager le secret médical.
+
+6. Les aidants dits « naturels » ou « informels » sont les personnes non professionnelles qui viennent en aide à titre principal, pour partie ou totalement, à une personne dépendante de son entourage pour les activités de la vie quotidienne. Cette aide régulière peut être prodiguée de façon permanente ou non, et peut prendre plusieurs formes, notamment le nursing, les soins, l'accompagnement à la vie sociale et au maintien de l'autonomie, les démarches administratives, la coordination, la vigilance permanente, le soutien psychologique, la communication, les activités domestiques, etc.
+
+### d - Place des autres professionnels de santé de ville (IDE à domicile, pharmacie, kinésithérapeute à domicile, prestataires de services)
+
+Deux problématiques différentes se posent : celle de la communication et celle du rôle propre du professionnel. Quelles en sont les spécificités liées à l'ambulatoire ?
+
+#### — Communication
+
+##### • Vers la ville
+
+La chirurgie ambulatoire présente la particularité de devoir anticiper tout recours ultérieur à un professionnel de santé, nécessaire au moment du retour du patient.
+
+L'IDE à domicile, qu'il (elle) soit libéral(e) ou salarié(e) d'une structure, devra avoir été informé(e) les jours précédant l'acte pour être en mesure de prendre en charge le patient lors de son retour à domicile. Il s'agira parfois de l'accueillir à son retour à domicile, pour vérifier son installation, contrôler ses constantes, réaliser un soin particulier. Il pourra s'agir de le revoir le lendemain dans la matinée pour effectuer un soin, retirer une sonde, réaliser un contrôle biologique, contrôler les constantes.
+
+L'anticipation en sera tout autant nécessaire pour le pharmacien ou l'éventuel prestataire de service en cas de prescriptions de matériel spécifique ou de traitement particulier, ainsi que pour les kinésithérapeutes en cas de besoin de prise en charge postopératoire précoce.
+
+Cela devra être vérifié avant l'intervention ainsi qu'immédiatement avant la sortie du patient de l'UCA.
+
+L'appel du « lendemain », qui pourra être effectué le soir même ou les jours suivants, est également susceptible de concerner, outre le patient, l'IDE ou tout autre professionnel de santé de ville.
+
+##### • De la ville
+
+Les professionnels de santé de ville doivent pouvoir joindre facilement en cas de besoin la structure qui a pris en charge le patient : c'est la procédure de contact de la continuité des soins.
+
+Il s'agit du ou des numéros de téléphone remis au patient, accessibles 24 h/24. Selon l'organisation de la structure de soin, ce peut être le numéro de l'urologue ou de l'anesthésiste, d'un médecin de garde, de l'IDE d'astreinte de l'unité de chirurgie ambulatoire.
+
+En dehors des difficultés, certaines UCA peuvent parfois demander un retour systématique d'informations de la part des professionnels de santé de ville dans le cadre de gestes innovants de patients particuliers ou dans le cadre de démarche de qualité ou de gestion des risques.
+
+##### • Rôle propre du professionnel
+
+En ce qui concerne le versant douleur et nausée postopératoires, nous vous renvoyons au chapitre 4.8., anesthésie ambulatoire.
+
+La chirurgie ambulatoire en urologie n'a rien de spécifique par rapport à la chirurgie traditionnelle en dehors de la gestion plus fréquente des sondes urinaires et de la « couleur » des urines. Les prescriptions de soins devront être précises, le patient informé et la procédure de contact « fonctionnelle » pour le professionnel de santé, en cas de besoin d'informations ou de conseils.
+
+Pour certaines équipes plus spécialisées ou plus avancées, il sera parfois nécessaire de former des IDE à des techniques particulières comme par exemple la prise en charge desbiberons d'analgésie périnerveuse à domicile ou à une surveillance plus spécifique pour des actes particuliers.
+
+### 8) *Continuité des soins*
+
+La gestion postopératoire comporte l'évaluation de l'aptitude à la sortie et la mise en œuvre de la continuité des soins. Elle repose sur une prise en charge pluridisciplinaire et une participation active du patient, ce qui implique de mettre l'accent sur son information.
+
+#### a - Sortie du patient
+
+Il est du rôle de l'urologue et de l'unité de chirurgie ambulatoire, avant la sortie du patient, de :
+
+- • vérifier les critères d'aptitude à la rue. De nombreux scores sont disponibles pour aider à la décision, le plus utilisé étant le score de Chung [22] rapporté en Annexe 4, Score de Chung (« Modified PaDSS ») ;
+- • valider la sortie. La sortie peut être anticipée et doit être validée par l'urologue et l'anesthésiste, et signée par un médecin de l'équipe<sup>7</sup> ;
+- • organiser le retour à domicile et de s'assurer qu'il ait effectivement lieu dans de bonnes conditions, notamment que le patient ne conduise pas de véhicule et soit accompagné par un tiers ;
+- • remettre au patient le dossier de sortie (cf. ci-dessous).
+
+La conduite d'automobile doit être proscrite pendant 24 heures après une anesthésie en raison du risque majoré d'accident [23].
+
+#### b - Information postopératoire
+
+Les malades doivent recevoir une information éayée par des documents écrits, afin de ne pas risquer d'oublier les consignes données parfois en période de stress ou d'affaiblissement. Ces consignes doivent être formulées en langage adapté à leur niveau de compréhension et réitérées. Enfin, ladite information écrite ne peut que compléter l'information transmise oralement et non s'y substituer.
+
+L'information postopératoire du patient doit porter sur :
+
+- • les prescriptions postopératoires (posologies, effets indésirables, interactions médicamenteuses) ;
+- • les effets indésirables possibles (signes irritatifs, saignements minimes, fatigue, nausées, douleur) et leur gestion ;
+- • l'existence d'une éventuelle endoprothèse et la nécessité d'ablation ou de changement ;
+- • les éléments de surveillance et la conduite à tenir en cas de survenue d'une complication précoce ou tardive (douleur, fièvre, hématurie, brûlures mictionnelles, infection urinaire, colique néphrétique, hématome, dysurie, rétention, infection du site opératoire, etc.) ;
+- • les personnes à contacter en cas de problème, avec leur numéro de téléphone ;
+- • le comportement à adopter pendant la période post-opératoire (précautions, hydratation, soins, activité
+
+physique, conduite d'automobile, reprise du travail, activité sexuelle, etc.).
+
+#### c - Organisation de la continuité des soins
+
+Dans le cadre de la chirurgie en hospitalisation ambulatoire, il est nécessaire de porter une attention accrue à l'organisation de la continuité des soins. En effet, le postopératoire se déroule dans un milieu dépourvu de surveillance médicale. Cette organisation doit donc être renforcée et s'articuler autour d'une prise en charge personnalisée du patient. Elle est de la responsabilité de l'urologue et est coordonnée par l'UCA<sup>8</sup>.
+
+##### — Dossier de sortie
+
+La continuité des soins s'effectue dans le cadre d'une coordination ville-hôpital et nécessite un partage d'information entre le chirurgien urologue, le médecin traitant et le personnel paramédical (infirmières) prenant en charge le patient.
+
+À sa sortie de l'UCA, le patient est en possession d'un dossier de sortie de liaison ville-hôpital, important support de communication entre médecins [24]. Celui-ci peut comporter<sup>9</sup> :
+
+- ◦ les comptes-rendus d'hospitalisation et opératoire avec le diagnostic, les gestes réalisés et les résultats des éventuels examens complémentaires,
+- ◦ le détail du traitement de sortie,
+- ◦ les modalités du suivi (examens complémentaires à réaliser, rendez-vous de consultation prévus),
+- ◦ les conseils postopératoires (gestion de la cicatrice, hydratation, critères de surveillance...) et la conduite à tenir en cas de complication. Cette information peut être retrouvée dans les fiches AFU,
+- ◦ les numéros de téléphone à joindre en cas de problème et les coordonnées des établissements (voir ci-après).
+
+Les documents de sortie peuvent être remis au cours de la consultation de programmation opératoire, c'est-à-dire avant même que le patient ne soit hospitalisé pour son intervention. Le patient peut ainsi anticiper l'achat des médicaments nécessaires et commencer son traitement dès son retour à domicile.
+
+Sous réserve de l'accord de la commission Lois et Libertés, la transmission par messagerie sécurisée apporte une bonne réponse à cet impératif d'information en temps réel de la médecine de ville.
+
+Le site Urofrance ([www.urofrance.org](http://www.urofrance.org)) propose aux patients et aux professionnels d'accéder à des informations sur la chirurgie ambulatoire complètes et validées.
+
+7. Article D. 6124-101 : « Le médecin anesthésiste réanimateur [...] autorise, en accord avec le médecin ayant pratiqué l'intervention, la sortie du patient de l'établissement dans le cas d'une intervention effectuée dans une structure de soins alternative à l'hospitalisation pratiquant l'anesthésie ou la chirurgie ambulatoire. »
+
+8. Article D. 6124-304. - Les structures de soins mentionnées à l'article D. 6124-301 sont tenues d'organiser la permanence et la continuité des soins en dehors de leurs heures d'ouverture, y compris les dimanches et jours fériés. Elles se dotent à cet effet d'un dispositif médicalisé d'orientation immédiate des patients.
+
+9. Le décret n° 92-329 du 30 mars 1992 (55), relatif au dossier médical et à l'information des personnes accueillies dans les établissements de santé publics et privés et modifiant le Code de la santé publique : précise les documents devant être établis à la fin de chaque séjour hospitalier, à savoir : « le compte-rendu d'hospitalisation, avec notamment le diagnostic de sortie ; les prescriptions établies à la sortie du patient ; le cas échéant, la fiche de synthèse contenue dans le dossier de soins infirmiers ».— Prise en charge des complications et effets secondaires
+
+En pratique, en plus du dossier de sortie, le patient doit être en possession de 2 éléments importants : la procédure de contact et l'établissement de référence en cas de réhospitalisation.
+
+• La procédure de contact
+
+Il s'agit du ou des numéros de téléphone remis au patient, accessibles 24 h/24. Selon l'organisation de la structure de soin, ce peut être le numéro de l'urologue ou de l'anesthésiste, d'un médecin de garde, de l'IDE d'astreinte de l'unité de chirurgie ambulatoire. Le dossier médical doit être connu (ou transmis) à la personne pour contact. Le médecin traitant de garde, SOS médecins, les urgences de l'établissement ou le 15 ne constituent pas le recours de première intention.
+
+L'IDE de l'UCA comme personne contact est une option intéressante dans la mesure où celle-ci :
+
+- - connaît le dossier du patient ;
+- - peut en référer à l'opérateur ou l'anesthésiste concerné (voire au 15 en cas de menace vitale) ;
+- - peut anticiper d'éventuelles difficultés en effectuant un appel du soir ou du lendemain chez des patients inquiets ou fragiles ;
+- - et enfin peut mettre en œuvre une démarche de gestion des risques en profitant d'une relation orale, directe et exhaustive, des complications apparues.
+
+Le suivi téléphonique après le retour à domicile est un moyen rapide, efficace et financièrement peu coûteux. Il permet de s'assurer que de nouveaux problèmes ne sont pas apparus, de prodiguer des conseils ou de répondre aux questions qui n'auraient pas pu être soulevées lors de l'hospitalisation. Il fournit l'occasion de poursuivre l'éducation des patients ou de leur entourage, d'établir un lien d'attention continu entre l'hôpital et le domicile. Enfin, il permet parfois de rassurer ou de réconforter, tout en évaluant la qualité des soins et de la procédure de sortie.
+
+• L'établissement de référence
+
+C'est l'établissement vers lequel le patient est orienté en cas d'événement indésirable postopératoire immédiat. Cet établissement peut ne pas être celui dont dépend l'UCA, et dans ce cas une convention formalisant cette possibilité d'accueil peut être établie. Dans tous les cas, il importe que le médecin qui prend en charge le patient ait accès au dossier ou aux comptes-rendus, et connaisse les intervenants pour organiser une éventuelle hospitalisation dans les meilleures conditions.
+
+• Organisation du suivi
+
+Les différents rendez-vous de consultation et les examens complémentaires à effectuer doivent être pris avant la sortie du patient de l'UCA. Ils peuvent être anticipés lors de la consultation de programmation opératoire.
+
+19. Selon les textes réglementaires, les conditions de mise en œuvre de la continuité des soins doivent être organisées par l'UCA en collaboration avec l'urologue et formalisées par écrit. (AE)
+
+20. Il est recommandé lors des consultations préopératoires d'organiser par anticipation les mesures à prendre à la sortie de l'hospitalisation (ordonnances et consignes de sortie, rendez-vous postopératoire). Celles-ci devront être réévaluées et validées en post-opératoire. (AE)
+
+21. Il est recommandé de communiquer au patient (et éventuellement aux personnes ressources dans le respect du secret médical) les informations sur la nature du geste pratiqué, les suites prévisibles et de lui délivrer un dossier de liaison (courriers et documents de sortie) pour son retour à domicile. (AE)
+
+22. Il est recommandé de formaliser la procédure de contact pour la continuité des soins. (AE)
+
+23. Il est recommandé d'informer le patient (et éventuellement les personnes ressources) des signes qui feraient évoquer une complication postopératoire (infection, rétention, hémorragie, douleur) et de la conduite à tenir. (AE)
+
+### 3.2.2. Y a-t-il des spécificités de la chirurgie ambulatoire en urologie chez la personne âgée ?
+
+#### 1) Démographie des patients urologiques
+
+Les patients âgés représentent une part importante de la population urologique, qui va augmenter ces prochaines années du fait du vieillissement de la population française. En effet, d'après les projections de l'INSEE [25], 1 personne sur 3 aura plus de 60 ans en 2050 contre 20,8 % en 2005, soit une hausse de 80 % en 45 ans. Cet accroissement sera le plus fort entre 2006 et 2035 (passant de 12,8 à 20,9 millions de sujets de plus de 60 ans) du fait de l'arrivée à ces âges des générations issues du baby-boom. La patientèle urologique va donc inéluctablement vieillir au cours de ces prochaines années et les pratiques devront être adaptées en conséquence.
+
+#### 2) Spécificités de la personne âgée
+
+En raison d'un nombre élevé de comorbidités et de modifications physiologiques liées au grand âge, les personnes âgées connaissent une réduction de leurs réserves fonctionnelles et de leurs capacités d'adaptation au stress, et sont ainsi particulièrement exposées à certaines complications, notamment anesthésiques. Les patients âgés présentent des spécificités qu'il importe de connaître, d'identifier et de prendre en compte au cours de la prise en charge [26] : modifications du métabolisme basal, de la composition corporelle, des mécanismes de thermorégulation, du système nerveux autonome ; modifications pharmacocinétiques et pharmacodynamiques ; modifications sensorielles et cognitives, diminution de la perception de la soif, dénutrition.
+
+Le patient âgé est davantage exposé aux risques d'événements indésirables périopératoires : hypothermie, hypotension artérielle, hypoxémie, déshydratation, interactions médicamenteuses et surdosages (benzodiazépines, morphiniques, anticholinergiques, etc.), syndrome confusionnel postopératoire, etc.
+
+#### 3) Bénéfices et risques de la chirurgie ambulatoire chez le sujet âgé
+
+Les complications postopératoires les plus fréquentes et les plus graves sont d'ordre cardiovasculaire (ischémie myocardique, décompensation d'un trouble du rythme ou d'une maladie hypertensive), respiratoire (œdème
+
+# Reproduction interditeaigu du poumon par dysfonction diastolique, inhalation, atélectasie) et neurologique. Le syndrome confusionnel et les troubles du comportement du sujet âgé sont particulièrement fréquents et peuvent être en partie liés à une perte des repères spatio-temporels occasionnée par l'hospitalisation, qui constitue une rupture avec le milieu connu. L'approche ambulatoire permet de réduire le risque confusionnel en contribuant à un retour précoce dans l'environnement familial du patient âgé. Dans une étude prospective multicentrique incluant 372 patients de plus de 60 ans, la chirurgie ambulatoire diminuait le risque de syndrome confusionnel postopératoire de manière significative par rapport à l'hospitalisation traditionnelle ( $OR = 2,8$  [1,2-6,3]) [27]. Elle permet aussi de diminuer les risques liés à l'alitement en favorisant la mobilisation, et s'accompagne d'une bonne satisfaction des patients [28]. Selon Fleisher [29], la mortalité périopératoire reste faible, mais elle augmente avec l'âge. Le taux d'incidents notamment cardiovasculaires est plus élevé chez les sujets âgés [30] ainsi que le taux d'instabilité hémodynamique périopératoire [31]. En revanche, la douleur postopératoire, les nausées, vomissements et vertiges seraient moins fréquents et moins importants [30], mais peuvent être impliqués dans la survenue d'un syndrome confusionnel postopératoire. La survenue d'une rétention urinaire postopératoire est plus fréquente chez le sujet âgé [32] et peut également entraîner un syndrome confusionnel.
+
+#### 4) Spécificité de la prise en charge
+
+Les atouts pronostiques de la prise en charge ambulatoire chez le sujet âgé reposent sur un circuit hospitalier court avec une attention continue et soutenue au patient qui demeure au centre de la prise en charge. Le séjour du patient doit être optimisé au strict temps utile et nécessaire, avec une préparation en amont et une organisation en aval.
+
+#### a - Évaluation préopératoire
+
+L'éligibilité du patient âgé à la chirurgie ambulatoire doit être évaluée en amont, en mesurant le rapport bénéfice/risque au cas par cas. Il faut s'assurer que le patient pourra quitter l'hôpital le jour même, dans le même état qu'à son entrée, et donc dépister en consultation les patients risquant de décompenser et de subir une hospitalisation non programmée ou une réadmission en urgence. Cette sélection des patients s'opère sur des critères médicaux (antécédents médicaux et chirurgicaux), psychosociaux et environnementaux.
+
+L'évaluation préopératoire d'un patient âgé candidat à une procédure ambulatoire doit être plus attentive à la présence de comorbidités, à l'ordonnance des médicaments (les sujets âgés sont très souvent polymédiqués), à la compréhension du patient et à son entourage [33]. L'âge physiologique joue un rôle plus important que l'âge civil dans la sélection des patients [34]. Plus l'état clinique d'un patient sera précaire, plus le bénéfice retiré d'une prise en charge en ambulatoire sera important. Bien que non validés pour la chirurgie ambulatoire, des outils de dépistage sont disponibles pour identifier facilement en consultation les patients nécessitant une évaluation gériatrique approfondie (VES-13 et G8, test de marche rapide).
+
+#### b - Exigences des patients âgés
+
+Une attention spéciale doit être portée aux sujets âgés et à leurs attentes au cours de la prise en charge ambulatoire : la durée du jeûne doit être limitée (2 heures pour les liquides clairs), et il faut veiller au maintien d'une bonne hydratation. Les temps d'attente doivent être réduits en simplifiant au maximum les circuits. Ils peuvent être à l'origine d'un sentiment d'abandon et générer une anxiété elle-même source de morbidité. L'information doit être délivrée de manière adaptée, en tenant compte des difficultés d'audition et de cognition et en s'appuyant sur l'accompagnant tout au long du parcours de soin, depuis la consultation jusqu'au retour à domicile. Cette dernière étape joue un rôle fondamental puisqu'elle est garante du bon respect des consignes pré et postopératoires indispensables à la réalisation dans de bonnes conditions de la prise en charge ambulatoire chez un sujet ayant une perte d'autonomie.
+
+#### c - Prise en charge périopératoire
+
+La SFAR a publié des recommandations spécifiques pour l'anesthésie des sujets âgés [6]. La prémédication doit être adaptée, en évitant la prise de benzodiazépines [26]. La technique d'anesthésie doit être adaptée au patient et à la situation, mais il n'y a pas de préférence d'une technique d'anesthésie par rapport à une autre. Les agents anesthésiques à durée de vie courte et à effets secondaires réduits sont à privilégier [26] et leur posologie à adapter. Chez le sujet âgé, il faut particulièrement veiller à éviter l'hypoxémie, l'hypothermie et l'hypovolémie qui sont responsables de la plupart des complications. La prévention de la douleur, des nausées ainsi que des troubles confusionnels postopératoires doit être plus particulièrement mise en place chez le sujet âgé.
+
+#### d - Sortie du patient
+
+L'évaluation postopératoire est un moment clé de la prise en charge puisqu'elle doit permettre de laisser retourner le patient à son environnement habituel avec un minimum de risque de complications. La décision de l'aptitude à la sortie doit être prise dans la mesure du possible avec l'accompagnant qui connaît le mieux le patient. L'évaluation porte sur l'état hémodynamique et respiratoire comme pour tout patient, mais avec une attention redoublée à l'état neurologique et psychomoteur. L'évaluation et le contrôle des nausées et douleurs postopératoires doivent être particulièrement recherchés. Il faut s'assurer que les consignes postopératoires ont bien été reçues par l'accompagnant et que de bonnes conditions de retour sont respectées.
+
+24. Il est recommandé d'apporter une attention particulière à l'évaluation préopératoire du sujet âgé (antécédents, traitements, troubles cognitifs, entourage), et éventuellement de demander un avis gériatrique. Chez le sujet âgé, il est recommandé d'optimiser l'hydratation et d'évaluer l'état cognitif avant la sortie de l'UCA. (AE)
+
+25. Il est recommandé de surveiller particulièrement les risques d'hypoxémie, d'hypothermie et d'hypovolémie chez le sujet âgé. (AE)### 3.3. Gestion des risques en chirurgie ambulatoire urologique
+
+#### 3.3.1. Comment évaluer, traiter et prévenir le risque rétentionnel postopératoire en chirurgie ambulatoire
+
+##### 1) Définition et problématique
+
+La rétention urinaire postopératoire est définie comme l'impossibilité d'obtenir une miction spontanée après un acte de chirurgie. C'est, avec les complications chirurgicales (douleur, nausées et vomissements, saignements, infection) ou les événements thromboemboliques, l'une des principales causes de passage en hospitalisation conventionnelle ou de retour des patients à l'hôpital après une chirurgie ambulatoire.
+
+##### 2) Incidence et définition des groupes à risque
+
+La rétention urinaire postopératoire est une complication fréquente, dont le taux varie de 4 à 29 % toutes chirurgies confondues [35,36]. Dans l'étude rétrospective de Twersky évaluant 6 243 patients, la rétention urinaire représentait 6,1 % des causes de réhospitalisation [37].
+
+Deux études prospectives menées par Pavlin et al. portant sur 324 et 334 patients respectivement ont analysé le risque de rétention urinaire après chirurgie ambulatoire et évalué les stratégies visant sa réduction [38,39]. Les auteurs ont ainsi établi deux catégories de risque influencées par trois facteurs principaux : le patient, le type d'intervention et le type d'anesthésie. (Tableaux 1 et 2). L'incidence de la rétention urinaire après une chirurgie ambulatoire était alors de 0,5 % chez les patients à bas risque et de 13 à 25 % chez les patients à haut risque.
+
+Dans 3 autres études, la fréquence de la rétention postopératoire chez les patients à haut risque variait entre 3 et 20 % [36,40,41].
+
+#### a - Facteurs liés au type d'intervention
+
+Certains types d'intervention sont à risque majoré de rétention postopératoire. C'est le cas des chirurgies pelviennes, rectales, urologiques et de la cure de hernie inguinale. La chirurgie de la hernie et la chirurgie ano-rectale sont particulièrement pourvoyeuses de rétention postopératoire, avec une fréquence de 17 % [38].
+
+##### — Chirurgie de la hernie
+
+Le taux de rétention varie entre 5 et 26 % selon les études [39,42-44] mais l'incidence serait en diminution depuis le développement des techniques laparoscopiques [45,46].
+
+##### — Chirurgie rectale
+
+Le taux de rétention postopératoire est élevé, en moyenne de 15 %, au cours des interventions proctologiques telles que les cures d'hémorroïdes [47,48].
+
+##### — Chirurgie orthopédique
+
+Elle est à haut risque de rétention postopératoire, car les patients ont souvent une anesthésie rachidienne, et des
+
+restrictions de mobilisation. À titre d'exemple, bien que cette chirurgie ne soit pas fréquemment réalisée en ambulatoire, le taux de rétention varie entre 21 et 55 % pour les arthroplasties de genou et entre 11 et 48 % pour les arthroplasties de hanche [49-53]. Or, le problème rétentionnel est important chez ces patients, car le sondage à demeure peut être source d'infection urinaire et d'infection de matériel [54].
+
+##### — Chirurgie gynécologique
+
+Le taux de rétention postopératoire après une intervention gynécologique a été évalué à 9,2 %, toutes interventions confondues [55]. Après hystérectomie par voie haute, le sondage périopératoire contribue à diminuer ce risque par rapport au sondage aller-retour pour vidange simple.
+
+En chirurgie ambulatoire, le risque est très faible car les interventions réalisées correspondent rarement à une chirurgie pelvienne carcinologique, très pourvoyeuse de rétention urinaire. Dans l'étude de Pavlin, aucune des patientes ( $n = 40$ ) ayant fait l'objet d'une chirurgie gynécologique en ambulatoire n'avait été l'objet de rétention [38].
+
+##### — Choléocystectomie
+
+La fréquence de rétention rapportée est faible, évaluée à 1,4 % chez les patients traités par cœlioscopie [42,56,57] et elle augmente avec la chirurgie ouverte.
+
+##### — Chirurgie urologique
+
+##### • Chirurgie de l'incontinence urinaire
+
+###### ◦ Bandelette sous-urétrale
+
+La mise en place d'une bandelette sous-urétrale (BSU) pour incontinence urinaire d'effort de type TVT ou TOT fait partie des actes déjà réalisés par de nombreuses équipes en ambulatoire. Le risque principal est le risque de rétention urinaire postopératoire pouvant être la cause d'une hospitalisation non programmée. Ce risque nécessite la surveillance des mictions postopératoires et la mesure du résidu post-mictionnel par bladder-scan.
+
+Ce geste peut être réalisé sous anesthésie rachidienne, générale ou même locale pure [58].
+
+Le taux d'hospitalisation non programmée varie selon les séries, mais se situe entre 10 et 30 % [59-62].
+
+Dans la série de Nilsson de 162 patientes, 80 % des femmes étaient rentrées chez elles dans l'après-midi. Sept patientes (4,3 %) avaient dû être hospitalisées pour rétention complète [63].
+
+Barron a analysé les facteurs prédictifs du risque de rétention après mise en place d'une BSU chez 126 patientes prises en charge en ambulatoire. Soixante et un pour cent des patientes avaient eu une miction rapide après l'intervention. Les facteurs prédictifs d'une bonne reprise mictionnelle étaient la multiparité, une valeur du seuil de pression de fuites à l'effort supérieur à 60 cmH<sub>2</sub>O, et une anxiété préopératoire [64].
+
+###### ◦ Autre chirurgie de l'incontinence :
+
+Les autres techniques de chirurgie de l'incontinence comme l'implantation de ballons ACT, le sphincter urinaire artificiel et les injections périurétrales sont à considérer comme étant à risque élevé de rétention urinaire.La chirurgie de l'incontinence et notamment la mise en place d'une BSU sont possibles en hospitalisation ambulatoire.
+
+Ces interventions doivent être considérées comme à risque rétentionnel élevé.
+
+Avant la sortie, une miction doit être obtenue avec mesure du résidu post-mictionnel
+
+- • **Chirurgie transurétrale vésico-prostatique**
+
+La prise en charge chirurgicale de l'HBP s'est considérablement modifiée ces dernières années avec le développement de nouvelles techniques et notamment du laser, avec l'avantage de réduire le risque hémorragique et de diminuer la durée de sondage rendant possible sa réalisation en ambulatoire [65].
+
+Aux États-Unis, le laser est devenu la technique prédominante et 80 % des procédures sont réalisées en chirurgie ambulatoire [66]. En France, la résection transurétrale de prostate reste aujourd'hui l'intervention la plus pratiquée, mais l'usage du laser tend à se développer, rendant ainsi possible la prise en charge en ambulatoire.
+
+D'autre part, les techniques dites mini-invasives telles que le TUNA sont également réalisables en chirurgie ambulatoire puisque possibles sous anesthésie locale et sans risque hémorragique.
+
+Ces deux techniques offrent l'avantage de pouvoir limiter le recours au sondage vésical postopératoire, mais avec un risque rétentionnel pouvant être supérieur à celui observé avec la RTUP.
+
+- ◦ *TUNA (Transurethral needle ablation)*
+
+Après TUNA, le risque de rétention est très élevé, de 15 à 40 %, lié à l'inflammation, et peut durer de 1 à 3 jours postopératoires [67-69]. Ce taux allait jusqu'à 70 % dans la série de Daehlin [70]. Les anti-inflammatoires et les alpha-bloquants peuvent être utilisés pour réduire ce risque [68].
+
+- ◦ *Photovaporisation prostatique (PVP) laser*
+
+Après vaporisation prostatique par laser en ambulatoire, dans les différentes séries américaines, une majorité de patients sort sans sonde (70 % des patients de Spalivero et 60 % dans la série d'Araki et de Gu) [71-73]. Cependant, la définition de chirurgie ambulatoire étant différente aux États-Unis, certaines durées d'hospitalisation excèdent 12 heures pour s'étendre jusqu'à 24 heures. En France, certaines équipes pratiquant la photovaporisation laser en chirurgie ambulatoire laissent le patient rentrer avec un drainage vésical qui est retiré le lendemain par une infirmière à domicile.
+
+Le taux de rétention varie de 3 à 15 %, ce qui place cette pratique au rang des interventions à risque rétentionnel élevé et nécessite de contrôler la reprise mictionnelle [72,74].
+
+- ◦ *Résection transurétrale de prostate (RTUP)*
+
+Cette technique peut sembler difficilement réalisable en chirurgie ambulatoire, compte tenu du risque hémorragique et de la nécessité de maintenir un drainage prolongé. Cependant certaines équipes n'ont pas recours à un lavage systématique lorsque le risque hémorragique est faible. Cela peut permettre de laisser rentrer le patient avec une sonde qui peut être retirée le lendemain à domicile ou en consultation.
+
+La littérature concernant la RTUP sans lavage est très pauvre et les résultats doivent être interprétés avec prudence. À titre d'exemple, Chander [75] a réalisé une RTUP en ambulatoire pour 64 patients sans comorbidité ayant une HBP symptomatique avec une prostate de petite taille (30 ml) dont la moitié était en rétention avant le geste. Quatre-vingt-douze pour cent des patients ont pu être désondés dans les 10 heures. La durée moyenne d'hospitalisation était de 10 heures et 98 % des patients ont pu sortir sans sonde dans les 23 heures, sans nécessité de resonder.
+
+La chirurgie endoscopique de la prostate présente un risque rétentionnel élevé. Ce risque peut persister plusieurs jours. Lors de sa réalisation en ambulatoire, il faut surveiller la reprise mictionnelle et contrôler le RPM. Le patient peut rentrer avec un sondage vésical qui peut être retiré à distance et une réévaluation est nécessaire.
+
+- • **Endoscopie du haut appareil - urétéroscopies**
+
+La chirurgie de la lithiase urinaire et notamment les urétéroscopies se compliquent rarement de rétention urinaire [76-79].
+
+Dans sa série publiée en 2011, Tan rapporte 1 798 urétéroscopies toutes réalisées en ambulatoire. Soixante-dix patients avaient été réadmis pour diverses raisons mais majoritairement pour douleur. La rétention concernait 4 % des réadmissions, soit moins de 1 % des patients [78]. L'endoscopie du haut appareil doit donc être considérée comme à faible risque de rétention urinaire.
+
+L'urétéroscopie pour calcul est considérée comme à faible risque rétentionnel.
+
+- • **Chirurgie des organes génitaux externes**
+
+La chirurgie des bourses n'est pas à risque rétentionnel.
+
+## b - Facteurs liés à l'anesthésie et à l'analgésie
+
+L'anesthésie et l'analgésie postopératoire sont deux facteurs influençant le risque rétentionnel. En agissant aussi bien au niveau périphérique qu'au niveau central, les drogues anesthésiques employées peuvent retarder la reprise mictionnelle.
+
+### — Anesthésie
+
+Les différents types d'anesthésie (générale, locorégionale ou locale) jouent un rôle dans le risque de survenue d'une rétention postopératoire. Les caractéristiques pharmacologiques des drogues utilisées et leur posologie influencent plus ce risque que le type d'anesthésie.
+
+- • **Anesthésie générale**
+
+Certaines drogues utilisées au cours de l'anesthésie générale (comme le thiopental, les hypnotiques) peuvent entraîner une rétention postopératoire par divers mécanismes : augmentation de la capacité vésicale et diminution de la contractilité détrusorienne, inhibition du centre pontique et du réflexe mictionnel [80-81].Les morphiniques employés par voie générale augmentent le risque rétentionnel en inhibant le contrôle central de la miction et la contraction détrusorienne (buprénorphine et fentanyl) [82].
+
+Les anticholinergiques utilisés au cours de la prémédication (antihistaminiques à activité anticholinergiques) ou employés pour antagoniser un bloc neuromusculaire sont à éviter car ils augmentent le risque rétentionnel [83].
+
+- • **Anesthésie rachidienne**
+
+La rachianesthésie est une technique simple qui peut être adaptée au contexte de la chirurgie ambulatoire sous ombilicale, pariétale ou périnéale [84].
+
+Le risque rétentionnel augmente avec l'utilisation de drogues de longue durée d'action (ropivacaïne, bupivacaïne) comparativement aux drogues de courte durée d'action, mais compte tenu du risque de troubles neurologiques, l'utilisation de la lidocaïne est aujourd'hui contre-indiquée [85-89].
+
+Les effets sur l'appareil urinaire s'estompent plus rapidement avec une anesthésie péridurale qu'avec une rachianesthésie, mais aucune des deux techniques n'est supérieure à l'autre [90].
+
+L'administration péridurale d'opiacés augmente le risque rétentionnel, de manière dose dépendante et plus prolongée avec la morphine qu'avec le sufentanyl [91-94].
+
+La réduction des doses des produits anesthésiques permet de limiter l'extension du bloc et d'éviter la survenue d'une hypotension artérielle traitée le plus souvent par un remplissage vasculaire important, source possible de rétention d'urine. Elle permet par ailleurs de raccourcir la durée du bloc et donc la durée de séjour [95].
+
+- • **Anesthésie locorégionale pure ou associée à une sédation**
+
+Certaines interventions peuvent être réalisées sous anesthésie locorégionale : bloc du cordon spermatique pour la chirurgie testiculaire, bloc pénien, bloc ilio-inguinal ou bloc dans le plan du muscle transverse de l'abdomen (TAP bloc) pour la chirurgie herniaire... Ce mode d'anesthésie est celui qui occasionne le moins d'effets secondaires à type de rétention [96].
+
+- • **Remplissage vasculaire**
+
+Selon Pavlin, il faut limiter les apports hydriques périopératoires chez des patients à haut risque rétentionnel [38]. Cette attitude est très discutable chez des patients subissant une intervention urologique en raison du risque d'hématurie et de caillotage vésical. Plusieurs études ont montré que l'administration en excès de solutés peropératoires était corrélée au risque rétentionnel en raison d'une surdistension vésicale [42,48,32]. D'une manière générale, il faut éviter la surdistension vésicale en drainant systématiquement la vessie en cas d'anesthésie d'une durée prévisible longue.
+
+- — **Analgésie postopératoire**
+
+La douleur postopératoire augmente le risque rétentionnel en activant le système sympathique qui inhibe la contraction détrusorienne. La douleur pelvienne et de la partie inférieure de l'abdomen est directement en cause dans l'incidence plus élevée de la rétention postopératoire après chirurgie de la hernie et chirurgie anale. Lors d'une chirurgie des hémorroïdes, le risque rétentionnel est lié à la sévérité de
+
+la maladie, les dissections extensives augmentant l'œdème et la douleur postopératoire [48].
+
+Ainsi, le contrôle de la douleur est essentiel, même s'il doit conduire à un recours aux morphiniques. L'infiltration de la cicatrice par un anesthésique local participe au contrôle de la douleur, diminue le recours aux morphiniques. Il a montré dans la chirurgie de la hernie une réduction du risque rétentionnel [90].
+
+### c - Facteurs liés au patient
+
+Parmi les caractéristiques du patient, l'âge élevé ainsi que le sexe masculin étaient des facteurs de risque indépendants de survenue d'une rétention postopératoire dans plusieurs études [32,36,97].
+
+Les patients ayant des antécédents urologiques sont plus à risque de rétention notamment lorsqu'il existe un obstacle sous vésical (sténose urétrale, hyperplasie bénigne de la prostate, dysurie chez la femme liée à un prolapsus).
+
+Après un antécédent de rétention urinaire, le risque de récidive en postopératoire est très élevé, évalué à 50 % dans l'étude de Tammela. Dans cette étude, 80 % des épisodes rétentionnels postopératoires étaient survenus chez des patients souffrant de troubles mictionnels préalables [36].
+
+La présence d'un antécédent neurologique (AVC, pathologie médullaire, neuropathie) augmente également le risque. Le diabète était un facteur de risque indépendant de rétention postopératoire dans l'étude de Dreijer [83].
+
+L'immobilisation prolongée et les difficultés de mobilisation augmentent le risque rétentionnel.
+
+**Tableau 1.** Facteurs de risque de rétention urinaire postopératoire (d'après Souter [98]).
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Facteurs de risque de rétention urinaire</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Facteurs liés à l'intervention</td>
+<td>Chirurgie ano-rectale<br/>Chirurgie urologique<br/>Chirurgie pelvienne<br/>Cure de hernie inguinale</td>
+</tr>
+<tr>
+<td>Facteurs liés au patient</td>
+<td>Âge élevé<br/>Sexe masculin<br/>Diabète<br/>Antécédents neurologiques<br/>Décubitus prolongé<br/>Antécédents de rétention<br/>Antécédent de sondage ou d'intervention sur l'urètre<br/>Obstruction prostatique<br/>Sténose urétrale<br/>Prolapsus génital<br/>Radiothérapie pelvienne</td>
+</tr>
+<tr>
+<td>Facteurs liés à l'anesthésie</td>
+<td>Distension vésicale aiguë par hydratation peropératoire excessive<br/>Utilisation d'opioïdes<br/>Anticholinergiques<br/>Anesthésie rachidienne</td>
+</tr>
+</tbody>
+</table>**Tableau 2. Groupes à risque de rétention urinaire post-opératoire (d'après Souter [98]).**
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Groupes à risque de rétention</th>
+</tr>
+<tr>
+<th>Patients à risque faible<br/>(&lt; 1% de risque)</th>
+<th>Patients à risque élevé<br/>(3 à 20 % de risque)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>- Anesthésie générale, bloc neurologique</li>
+<li>- Chirurgie non pelvienne et non urologique</li>
+<li>- Chirurgie gynécologique ambulatoire</li>
+<li>- Anesthésie rachidienne ou épidurale avec agents à courte durée d'action (lidocaïne, procaine ou 2-chloroprocaine)</li>
+</ul>
+</td>
+<td>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>- Anesthésie périurale ou rachianesthésie avec agents de longue durée d'action (bupivacaïne, ropivacaïne) ou associée à des opioïdes</li>
+<li>- Chirurgie pelvienne (hernie, rectale, urologique)</li>
+<li>- Antécédents de rétention ou pathologie médullaire</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+### 3) Évaluation et prévention du risque rétentionnel
+
+#### a - Évaluation préopératoire du risque rétentionnel
+
+L'évaluation du risque rétentionnel a lieu au cours de la consultation préopératoire et repose exclusivement sur la reconnaissance des facteurs de risque et l'identification des patients à haut risque selon les critères suivants :
+
+- • le type de chirurgie (rectale, urologique, hernie) ;
+- • les facteurs de risque liés au patient : sexe masculin, âge élevé, pathologie neurologique, diabète ;
+- • l'existence de troubles mictionnels préexistants : rechercher la présence de trouble mictionnels à l'interrogatoire ou à l'aide d'un score symptomatique (IPSS) ;
+- • les traitements à effet vésico-sphinctériens ;
+- • les antécédents de rétention urinaire ;
+- • le type d'anesthésie envisagée.
+
+Le risque rétentionnel du patient devrait être clairement identifié, signalé par le chirurgien à l'anesthésiste et reporté dans le dossier médical ou anesthésique. En cas de troubles mictionnels modérés à sévères ou si l'IPSS est supérieur à 7, une évaluation complémentaire urologique préopératoire (avec débimétrie et mesure échographique du résidu post-mictionnel) est souhaitable.
+
+#### b - Prévention périopératoire du risque rétentionnel
+
+La prévention du risque rétentionnel s'applique à tous les patients mais plus particulièrement à ceux ayant un risque élevé. Elle repose sur des mesures simples de lutte contre certains des facteurs de risque énumérés ci-dessus.
+
+Le type d'anesthésie doit être adapté à la chirurgie ambulatoire, en évitant l'anesthésie rachidienne ou en réduisant les doses au maximum avec des produits d'élimination rapide. Certains médicaments sont à éviter comme les anticholinergiques ou les morphiniques. Si le patient est sous alpha-bloquant, il ne faut pas arrêter le traitement, sauf dans certaines situations comme pour la chirurgie de la cataracte (risque de syndrome de l'iris flasque peropératoire).
+
+L'analgésie postopératoire doit être optimale, en privilégiant l'infiltration de la paroi ou la réalisation d'un bloc neurologique.
+
+Le patient doit uriner avant l'intervention. Au besoin, un sondage vésical peut être mis en place avant l'intervention surtout si la durée de celle-ci est prolongée, et chez les patients à risque, afin d'éviter une distension vésicale quand la diurèse attendue est supérieure à 500 ml. Ce sondage vésical doit néanmoins être mis en place après une évaluation de la balance bénéfice/risque du cathétérisme vésical chez un patient donné. Le sondage vésical expose en effet à un risque infectieux et de traumatisme de l'urètre chez l'homme.
+
+L'hydratation doit être suffisante pour une reprise rapide des mictions postopératoires.
+
+Une étude contre placebo a montré l'intérêt de la prazosine sur la diminution du risque de rétention postopératoire lors d'une cure de hernie [99]. Cependant, il faut rappeler que les alpha-bloquants peuvent provoquer des effets indésirables et que leur autorisation de mise sur le marché ne décrit pas cette indication. Leur utilisation systématique n'est donc pas recommandée en dehors de leur indication urologique.
+
+Les benzodiazépines n'ont pas fait la preuve de leur efficacité et ne doivent pas être utilisées pour favoriser la reprise mictionnelle.
+
+#### c - Évaluation et prévention postopératoire du risque rétentionnel
+
+##### — Place de la reprise mictionnelle avant la sortie
+
+La capacité à uriner spontanément est classiquement admise comme un des critères de sortie des patients ambulatoires opérés sous rachianesthésie. Cependant, plusieurs études suggèrent qu'il n'est pas nécessaire d'exiger une miction spontanée pour autoriser la sortie des patients appartenant au groupe à risque faible [38,42,87]. Le fait d'attendre la reprise des mictions avant d'autoriser la sortie allonge la durée d'hospitalisation et retarde inutilement la sortie.
+
+Dans l'une de ces études, tous les patients de risque faible faisaient l'objet d'un contrôle du volume vésical par un bladder-scan et ne sortaient que si la valeur de celui-ci était inférieure à 400 ml. Dans cette circonstance, il ne survenait pas plus de rétention chez les patients ayant uriné avant la sortie en comparaison de ceux sortis sans uriner [38].
+
+En revanche, les auteurs soulignent qu'il est nécessaire d'obtenir une miction chez les patients à risque élevé avant la sortie.
+
+##### — Place du bladder-scan
+
+Cliniquement, la reprise des mictions peut être difficile à analyser : certains patients peuvent déclarer avoir uriné mais conserver un résidu post-mictionnel (RPM) important. En effet, les mictions peuvent être obtenues avec un effort de poussée abdominale ou par regorgement et les patients peuvent avoir un globe vésical indolore en raison de l'analgésie.
+
+D'après Pavlin, 61 % des patients ne ressentent pas d'inconfort ou de douleur en postopératoire malgré un volume mesuré au bladder-scan > 600 ml du fait de l'interruption du réflexe mictionnel et de l'analgésie. Dans la même étude, seulement 54 % des infirmières avaient évalué correctement l'état de remplissage de la vessie comparativement auxrésultats du bladder-scan [39]. D'après Lamonerie, 46 % des patients ont l'impression d'avoir la vessie vide alors que le bladder-scan met en évidence un RPM > 500 ml [100].
+
+Une mesure objective du volume vésical par bladder-scan prend donc tout son intérêt chez les patients à haut risque, même après l'obtention d'une miction. Elle est plus fiable que l'évaluation clinique [101,102].
+
+#### — Recommandations existantes
+
+Les recommandations formalisées d'experts de la SFAR (Société française d'anesthésie et de réanimation) concernant la prise en charge anesthésique des patients en hospitalisation ambulatoire indiquent certaines conditions possibles de sortie sans attendre une miction [6] :
+
+« Il est possible après anesthésie générale ou bloc périphérique de ne pas exiger une miction pour autoriser la sortie, en l'absence de facteur de risque lié au patient ou au type de chirurgie.
+
+« Il est possible après une rachianesthésie de ne pas attendre une miction pour autoriser la sortie sous réserve :
+
+1) d'une estimation, au minimum clinique, au mieux par appréciation échographique, du volume vésical résiduel ;
+
+2) de l'absence de facteur de risque lié au patient, au type de chirurgie. »
+
+La conduite à tenir recommandée par Pavlin concernant le contrôle mictionnel à la sortie du patient, et représentée dans l'algorithme ci-après, est la suivante :
+
+- • Chez les patients à risque élevé de rétention postopératoire, nécessité d'obtenir une miction avant la sortie et contrôler le RPM par un bladder-scan.
+- • Chez les patients à faible risque rétentionnel (sujet jeune, chirurgie non pelvienne et non urologique, anesthésie générale), il n'est pas nécessaire d'attendre une miction avant la sortie.
+
+#### 4) *Prise en charge de la rétention urinaire postopératoire en chirurgie ambulatoire*
+
+L'impossibilité d'obtenir une miction spontanée à la suite d'une intervention de chirurgie définit la rétention postopératoire. Sa prise en charge repose sur un sondage vésical aller-retour ou la pose d'une sonde vésicale à demeure. La vessie doit être drainée le plus rapidement possible si le volume excède 400 ml ou si le patient est symptomatique. Si le patient n'a pas uriné dans les 6 à 8 heures suivant sa dernière miction, il faut évaluer le volume vésical par un bladder-scan.
+
+La rétention après chirurgie ambulatoire peut être prise en charge par un sondage unique évacuateur ou la pose d'une sonde à demeure. Les études ayant comparé les deux options sont contradictoires et ne permettent pas de retenir une solution plutôt qu'une autre [103,104].
+
+Dans le cas d'un sondage évacuateur, la surveillance de la reprise mictionnelle est impérative.
+
+La sonde à demeure permet d'éviter au patient de devoir reconsulter dans la nuit en cas de rétention ou d'avoir une distension vésicale prolongée. La sonde peut être retirée le lendemain à domicile du patient ou bien en consultation externe avec une évaluation échographique du résidu post-mictionnel si nécessaire. La consultation externe ou l'appel téléphonique du lendemain permettra de contrôler la qualité de la reprise mictionnelle.
+
+Un traitement par alpha-bloquant peut être prescrit à la suite d'une rétention postopératoire jusqu'à la reprise de mictions satisfaisantes. Celui-ci permet d'améliorer la reprise mictionnelle et de réduire le risque de récidive [105].
+
+Dans tous les cas, il importe de recommander au patient de contacter le numéro d'urgence qui lui a été remis s'il n'a pas repris les mictions dans les 6 à 8 heures ou s'il présente des douleurs sus-pubiennes ou un aspect de globe vésical.
+
+Un arbre décisionnel est proposé pour l'évaluation et la prise en charge postopératoire du risque rétentionnel selon le groupe à risque (Fig. 1).
+
+26. Il est recommandé d'évaluer le risque de rétention urinaire lors de la consultation de programmation opératoire en distinguant le risque rétentionnel faible et le risque élevé en fonction du patient, du type de chirurgie et du type d'anesthésie. (AE)
+
+27. Il est recommandé de maintenir un traitement alpha-bloquant en périopératoire sauf contre-indication (chirurgie de la cataracte). (AE)
+
+28. Il est recommandé de ne pas limiter les apports hydriques car cela augmente le risque de déshydratation, de caillotage vésical, et ralentit la reprise des mictions postopératoires. (AE)
+
+29. Il est recommandé d'obtenir une miction avant toute intervention (AE).
+
+30. Il est recommandé de cathétériser la vessie en début d'intervention pour éviter une distension vésicale si la diurèse attendue avant la reprise des mictions est supérieure à 500 ml. (AE)
+
+31. L'anesthésie générale présente moins de risques de rétention urinaire qu'une anesthésie rachidienne. Il est recommandé d'envisager une option alternative à l'anesthésie rachidienne en cas de risque rétentionnel élevé (lié au patient ou au geste chirurgical). Si une anesthésie rachidienne est indiquée, il est recommandé de réduire les doses d'anesthésiques et de surveiller la reprise des mictions. (AE)
+
+32. Il est recommandé de limiter l'utilisation de médicaments augmentant le risque de rétention urinaire : morphiniques pour l'analgésie postopératoire, et anticholinergiques. (AE)
+
+33. Chez un patient à faible risque rétentionnel, il n'est pas nécessaire d'attendre la reprise mictionnelle avant la sortie, en chirurgie ambulatoire urologique et non urologique. (AE)
+
+34. Chez un patient à risque rétentionnel élevé, il est recommandé de quantifier la miction et d'évaluer le résidu post-mictionnel avant la sortie, en chirurgie ambulatoire urologique et non urologique. (AE)
+
+35. En chirurgie ambulatoire, il est possible de laisser sortir le patient avec une sonde urinaire. Lors de l'ablation de la sonde, il est recommandé d'évaluer la reprise des mictions. (AE)```
+
+graph TD
+    A[Groupe à risque] --> B[Risque faible]
+    A --> C[Risque élevé]
+    B -- "Sans attendre de miction" --> D[Sortie]
+    C -- "Miction avant la sortie" --> E[Contrôle du résidu post-mictionnel par bladder-scan]
+    E -- "RPM > 200 ml" --> F[Sondage ± alpha-bloquant 48 h]
+    E -- "RPM < 200 ml" --> D
+    F --> G[Sonde urinaire 24 h]
+    F --> H[Sondage aller-retour]
+    G --> D
+    H --> D
+  
+```
+
+Figure 1. Algorithme décisionnel pour la gestion postopératoire du risque rétentionnel.
+
+### 3.3.2. Comment évaluer, traiter et prévenir le risque infectieux urinaire postopératoire en chirurgie ambulatoire ?
+
+Les interventions urologiques présentent un risque infectieux qu'il soit urinaire ou bien du site opératoire. Si la gestion prioritaire de l'infection rejoint celle d'autres chirurgies ambulatoires, la prévention de cette infection urinaire constitue un élément spécifique de la chirurgie urologique, qu'elle soit endoscopique (urétérotomie, endoprotèses urétérales ou urétrales, résections transurétrales de tumeurs de vessie ou de la prostate, cystoscopie diagnostique, lithotritie vésicale, urétéroscopie rigide ou souple) ou non (biopsies prostatiques par voie transrectale, lithotritie extracorporelle du haut appareil).
+
+L'arbre urinaire est physiologiquement stérile (en dehors de l'urètre), mais du fait des pathologies ou en raison de la présence de matériel prothétique (sondes vésicale et endo-urétrale) la bactériurie est fréquente. La colonisation bactérienne se définit classiquement par un ECBU positif retrouvant plus de 105 unités formant colonie (UFC) par ml ou 103 pour certains germes (*E. Coli*, *S. Saprophyticus*), en l'absence de signes cliniques infectieux [106]. L'incidence journalière de la bactériurie sur sonde varie de 3 à 10 % avec un risque cumulé de 100 % après 1 mois de sondage. L'utilisation d'un cathéter sus-pubien permet de diminuer l'incidence des contaminations à court terme : au-delà de 5 jours, on observe un taux de 20 % de bactériurie en cas de
+
+drainage sus-pubien contre 45 % en cas de sonde urétrale. Au-delà de 4 semaines, les taux deviennent identiques dans les 2 modes de drainage.
+
+Un geste chirurgical sur l'appareil urinaire infecté est à l'origine d'une importante morbidité per- et postopératoire. La présence d'une colonisation bactérienne doit faire différer l'intervention sauf urgence : un ECBU est nécessaire avant toute chirurgie au contact des urines.
+
+#### 1) Épidémiologie des infections postopératoires en chirurgie urologique
+
+##### a - Écologie des infections urinaires bactériennes
+
+L'épidémiologie des germes impliqués dans les infections urinaires communautaires a été actualisée en 2013 par Linhares [107]. La fréquence au Portugal est rapportée dans le Tableau 3.
+
+Tout comme énoncé dans les recommandations 2008 du CIAFU concernant le diagnostic et le traitement des infections bactériennes urinaires de l'adulte [106], *Escherichia Coli* est le germe de loin le plus représenté, et sa fréquence est stable [107]. Les infections à *Enterobacter sp* sont en diminution tandis qu'on note une recrudescence d'infections à *Providencia spp*, *Pseudomonas aeruginosa* et *Klebsiella spp* [107]. Concernant la sensibilité aux antibiotiques, le taux de BMR rapporté varie de 17 à 95,4 % selon le germe (les deux germes les plus fréquents présentant les taux les plus faibles), avec une augmentation statistiquement significative**Tableau 3.** Fréquence et profil de résistance des principaux germes impliqués dans les infections urinaires communautaires de l'adulte (selon Linhares [107]).
+
+<table border="1">
+<thead>
+<tr>
+<th>Germe</th>
+<th>Fréquence (%)<br/><i>n</i> = 18 797</th>
+<th>Chez l'homme (%)<br/><i>n</i> = 3 641</th>
+<th>Chez la femme (%)<br/><i>n</i> = 13 939</th>
+<th>BMR (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>E. coli</i></td>
+<td>64,5 %</td>
+<td>58,5 %</td>
+<td>71,7 %</td>
+<td>17,0 %</td>
+</tr>
+<tr>
+<td><i>S. aureus</i></td>
+<td>6,0 %</td>
+<td>7,2 %</td>
+<td>6,2 %</td>
+<td>18,8 %</td>
+</tr>
+<tr>
+<td><i>P. mirabilis</i></td>
+<td>4,7 %</td>
+<td>5,8 %</td>
+<td>4,8 %</td>
+<td>50,3 %</td>
+</tr>
+<tr>
+<td><i>Klebsiella sp</i></td>
+<td>4,3 %</td>
+<td>6,3 %</td>
+<td>4,1 %</td>
+<td>35,0 %</td>
+</tr>
+<tr>
+<td><i>E. faecalis</i></td>
+<td>3,6 %</td>
+<td>5,2 %</td>
+<td>3,5 %</td>
+<td>28,1 %</td>
+</tr>
+<tr>
+<td><i>P. vulgaris</i></td>
+<td>2,7 %</td>
+<td>3,5 %</td>
+<td>2,7 %</td>
+<td>95,4 %</td>
+</tr>
+<tr>
+<td><i>P. aeruginosa</i></td>
+<td>2,4 %</td>
+<td>5,9 %</td>
+<td>1,7 %</td>
+<td>24,7 %</td>
+</tr>
+<tr>
+<td><i>Enterobacter sp</i></td>
+<td>1,9 %</td>
+<td>3,6 %</td>
+<td>1,7 %</td>
+<td>60,8 %</td>
+</tr>
+<tr>
+<td><i>S. epidermidis</i></td>
+<td>1,8 %</td>
+<td>2,1 %</td>
+<td>1,9 %</td>
+<td>22,9 %</td>
+</tr>
+<tr>
+<td><i>Providencia sp</i></td>
+<td>1,7 %</td>
+<td>1,8 %</td>
+<td>1,8 %</td>
+<td>95,3 %</td>
+</tr>
+</tbody>
+</table>
+
+au cours des années 2000. Cette augmentation des résistances bactériennes aux antibiotiques est principalement liée à la consommation d'antibiotiques. Les hommes sont davantage infectés par un germe BMR que les femmes et les sujets âgés que les plus jeunes [107]. Sur la période d'étude, la sensibilité d'*Escherichia Coli* aux antibiotiques n'a pas significativement varié, contrairement à celle de l'écologie globale [107].
+
+## b - Risque infectieux pour chaque domaine de l'urologie
+
+### — Complications infectieuses des lithotrites extracorporelles
+
+Il existe de rares études sur l'incidence de la bactériurie post-LEC. Ces taux sont inférieurs à 5 % [108-110]. En l'absence d'infection urinaire préalable, l'antibioprophylaxie n'a pas d'intérêt du fait de la faible incidence de l'infection urinaire après la LEC [111-114]. Cette donnée a été confirmée dans une méta-analyse de Pearle [115]. Cette analyse portait sur 8 études prospectives randomisées. Le taux de bactériurie moyen était de 5,7 % dans les groupes placebo vs 2,1 % dans les groupes ayant eu une antibioprophylaxie. Les auteurs concluaient au faible intérêt de cette antibioprophylaxie.
+
+### — Complications infectieuses de la RTUP
+
+L'incidence de la bactériurie après RTUP n'est pas constante. Elle varie de 6 à 60 % selon les séries [116]. Cette variabilité s'explique en partie par une hétérogénéité de la définition d'infection selon les auteurs, de la colonisation pour certains, au sepsis pour d'autres. Deux méta-analyses récentes [117,118] ont clairement montré l'intérêt de l'antibioprophylaxie, qui, au cours de la RTUP, diminue les bactériuries postopératoires de 26 à 9,1 % et les épisodes septicémiques de 4,4 à 0,7 %. De même, la mortalité liée au développement d'un sepsis grave après RTUP, si l'examen cytobactériologique des urines (ECBU) préopératoire est
+
+stérile, s'élève à 0,1 %. En ce qui concerne la RTUP, les trois facteurs principaux susceptibles de favoriser l'infection postopératoire sont le drainage urinaire, la bactériurie préopératoire et l'absence d'antibioprophylaxie. En cas de colonisation préopératoire, une antibiothérapie de couverture semble diminuer le risque infectieux postopératoire autant qu'une absence de colonisation. D'autres facteurs comme l'âge, la durée de l'intervention, ou la rupture du système clos de drainage des urines ont été rapportés dans certaines études. Thorpe a publié en 1994 dans le BJU une cohorte de 1 400 patients ayant fait l'objet d'une RTUP. La morbidité infectieuse postopératoire était de 8 % sans mortalité infectieuse propre [119].
+
+### — Complications infectieuses de la RTUV
+
+L'incidence de la bactériurie après RTUV n'est pas constante dans les séries. Elle varie de 3 à 38,9 % selon les séries [117,120]. Un drainage vésical de plus de 3 jours constitue un facteur de risque de bactériurie [117,120]. Mais la bactériurie isolée en l'absence de symptomatologie ne représente pas en elle-même un risque de complication postopératoire. Cette donnée a été confirmée par une étude prospective multicentrique ce CIAFU sur 456 patients [121].
+
+### — Complications infectieuses des endoprotèses urétrales et urétérales
+
+Le risque lié à la mise en place de prothèses endo-urétérales (sondes urétérales, sondes doubles J) est mal connu. En 2002, Kehinde et al. ont montré que le risque de bactériurie et de colonisation d'une sonde double J augmente avec la durée de sondage et qu'il est significativement plus élevé chez les femmes et les patients atteints de diabète ou d'insuffisance rénale chronique [122].
+
+### — Complications infectieuses de l'uréteroscopie
+
+La mise en place systématique d'une sonde double J a été évaluée dans une méta-analyse récente portant sur 3 études randomisées. L'étude poolée de ces 3 études concluait à untaux d'infection plus important en cas de sonde double J en place [123].
+
+#### — Complications infectieuses de la chirurgie scrotale non prothétique
+
+La chirurgie scrotale, dominée par les cures d'hydrocèle (résection, plicature de la vaginale testiculaire), est vectrice de morbidité avec un taux de complications avoisinant les 20 % [124,125]. Celles-ci comprennent principalement les hématomes et les infections. La cure d'hydrocèle a été identifiée dans une étude rétrospective comme facteur de risque majeur (OR = 8,3) de complication après chirurgie scrotale [125]. Le taux d'infection, dans ces études rétrospectives où une antibioprophylaxie était souvent pratiquée, était rapporté pour 3,6 à 9,3 % des cas [124,125].
+
+### c - Risque infectieux en chirurgie ambulatoire urologique
+
+Les publications consacrées à la chirurgie ambulatoire peuvent manquer de précision quant aux gestes strictement urologiques. Une étude danoise rapportait l'expérience de 16 048 patients pris en charge en ambulatoire, dont seulement 3 252 en urologie (901 cystoscopies, 527 résections transurétrale de vessie, 729 chirurgies scrotales, 963 vasectomies et 132 autres). Le taux de complications rapporté était de 0,11 % après cystoscopie, 1,37 % après chirurgie scrotale et 0,57 % après résection transurétrale de vessie ; le taux global des complications (après chirurgie orthopédique, viscérale ou gynécologique) étant de 0,73 %. Il n'est pas fait mention dans cette publication générale des données urologiques propres, de la prévention ou de la gestion de complications. En particulier il n'est fait état que d'une infection urinaire, sans savoir le geste chirurgical préalable [126].
+
+### 2) Prévention du risque infectieux postopératoire
+
+#### a - Risque infectieux urinaire et gestion de l'ECBU préopératoire
+
+L'aspect organisationnel est primordial pour la gestion de l'ECBU préopératoire en chirurgie urologique, et donc particulièrement en chirurgie urologique ambulatoire. Cet ECBU préopératoire doit être interprété par l'urologue qui prendra la décision du traitement :
+
+- • il est recommandé de réaliser un ECBU dans les 5 à 10 jours précédant toute chirurgie de l'appareil urinaire ;
+- • il est recommandé de prendre connaissance du résultat de l'ECBU le plus tôt possible avant l'intervention programmée ;
+- • en cas d'ECBU positif, il est recommandé d'instaurer une antibiothérapie selon l'antibiogramme au moins 48 heures avant le geste ;
+- • en cas de colonisation bactérienne sur sonde, il est recommandé de débuter une antibiothérapie 48 heures avant l'intervention et de changer la sonde après 24 heures d'antibiothérapie.
+
+Le résultat de l'ECBU et le traitement éventuel doivent être vérifiés de façon systématique à plusieurs reprises à
+
+des points stratégiques de ce parcours de soin : appel de la veille, check-list à l'admission en UCA et check-list au bloc opératoire.
+
+L'absence d'ECBU préopératoire ou un ECBU positif non traité doivent provoquer le report de l'intervention pour toute opération nécessitant des urines stériles.
+
+Le patient doit être sensibilisé à l'utilité de l'ECBU préopératoire qui peut entraîner un report de l'intervention.
+
+En situation préopératoire urologique et en l'absence de possibilité de report de l'intervention, la bactéuriurie doit être traitée au moins 48 heures avant le geste et jusqu'à l'ablation de la sonde pour éviter une bactériémie peropératoire, et ce d'autant plus qu'il s'agit de geste endo-urologique.
+
+#### b - Antibioprophylaxie
+
+L'antibioprophylaxie périopératoire n'est pas systématique. Elle fait l'objet de recommandations [127]. Elle doit être adaptée à la procédure et au patient. Son objectif doit être de diminuer les infections postopératoires sans forcément chercher à éviter une simple bactéuriurie asymptomatique postopératoire.
+
+L'antibioprophylaxie ne s'adresse par définition qu'aux patients ayant des urines stériles en préopératoire, et exposés à un risque d'infection du site opératoire. L'antibioprophylaxie ne concerne donc que les interventions de classe I et II d'Altemeier. Cette classification considère principalement la chirurgie ouverte. La chirurgie endo-urologique est considérée par le CIAFU comme « propre contaminée ».
+
+#### c - Prévention des infections du site opératoire
+
+Un des bénéfices de la chirurgie ambulatoire est la réduction du risque infectieux lié aux soins. Ce bénéfice est probablement prédominant pour l'infection du site opératoire (ISO) comme cela a été montré par une étude multicentrique française [128].
+
+La maîtrise de l'ISO est critique en chirurgie ambulatoire du fait d'une surveillance moins fréquente de la voie d'abord chirurgicale par un professionnel de santé, par rapport à la surveillance en hospitalisation traditionnelle. De plus, la surveillance d'une infection de l'incision par les patients est peu pertinente puisqu'elle n'assure qu'une spécificité de 52 % et une valeur prédictive positive de seulement 26 % [129].
+
+Les règles générales de prévention des ISO sont décrites par le NICE (National Institute for Health and Clinical Excellence) dans les recommandations de 2008 [130]. La Société française d'hygiène hospitalière (SFHH) a également publié une conférence de consensus datant de 2004 et en cours d'actualisation sur la gestion préopératoire du risque infectieux [131]. Ces recommandations sont reprises dans un document synthétique du comité d'infectiologie de l'AFU [132].
+
+La veille au soir ou le jour même de l'opération, le patient doit prendre une douche savonneuse. Une tenue spécifique est remise au patient pour l'entrée au bloc opératoire. Au sein du bloc opératoire, le personnel doit porter des tenues spécifiques non stériles et limiter ses mouvements. Le nombre de personnes dans la salle d'intervention doit être minimal. Bijoux, alliance du chirurgien, ongles artificiels et vernis doivent être retirés. Le premier lavage chirurgicalinclut la mise au propre des mains et ongles à l'aide d'une brosse à usage unique. L'antisepsie est assurée par un lavage au gel hydro-alcoolique ou à défaut un savon antiseptique chirurgical. Le lavage doit être répété en cas de souillure. La préparation cutanée nécessite l'utilisation d'une substance antiseptique telle que la povidone iodée ou la chlorhexidine et au mieux une solution alcoolique (bétaïne alcoolique ou chlorhexidine alcoolique). L'utilisation du bistouri électrique impose le séchage de l'antiseptique par évaporation et un usage parcimonieux de l'antiseptique alcoolique. L'utilisation de films transparents adhésifs ne doit pas être systématique, ils sont inutiles d'un point de vue infectieux. Une antibioprophylaxie peut être recommandée (cf. chapitre spécifique).
+
+Afin de réduire le risque infectieux, il convient de :
+
+- • ne pas recourir à l'insuline chez le non-diabétique ;
+- • ne pas avoir recours à l'irrigation pariétale ;
+- • ne pas procéder au lavage des cavités ;
+- • ne pas procéder à la désinfection cutanée peropératoire ;
+- • ne pas procéder à l'application topique d'antibiotiques en chirurgie abdominale.
+
+Il convient également de minimiser la force exercée sur les tissus pour l'exposition, de minimiser la dévitalisation tissulaire et les espaces de décollements et des espaces morts [133].
+
+L'incision cutanée peut être effectuée au bistouri froid ou électrique sans incidence sur le taux d'infection [134], bien que l'utilisation de ce dernier ne soit pas recommandée en Grande-Bretagne par le NICE [130].
+
+Les sutures peuvent être assurées tant par des points séparés que par un surjet et au fil résorbable ou non résorbable, sans incidence sur le taux d'ISO. La suture du plan dermique assure seule la solidité de la fermeture. La suture du plan épidermique doit se faire sans tension à visée esthétique. Afin de simplifier la prise en charge postopératoire et en absence de technique minimisant significativement le risque d'ISO, il est recommandé d'utiliser des sutures intradermiques résorbables pour assurer la fermeture cutanée.
+
+On rappelle que le tabagisme est un facteur de risque d'infection postopératoire, de complications respiratoires de troubles de la cicatrisation [135]. L'arrêt du tabagisme ou la substitution nicotinique par l'opéré 4 semaines avant l'intervention a montré une réduction des risques d'infection cutanée dans un essai clinique randomisé multicentrique mené chez 120 patients fumeurs [136].
+
+La dénutrition est également un facteur reconnu de complications postopératoires, notamment de troubles de la cicatrisation et d'infections [137]. L'état nutritionnel du patient doit être pris en compte avant de proposer une chirurgie, afin de mettre en place d'éventuelles mesures correctrices.
+
+En vue de minimiser le taux d'ISO, le drainage du site opératoire ne doit être mis en place, à la fois par une contre-incision et de façon aspirative, qu'en cas de nécessité et pour une durée minimale [138, 139].
+
+L'utilité d'un pansement recouvrant la voie d'abord reste à l'appréciation de l'opérateur, mais n'a pas fait la preuve de son utilité dans la prévention des ISO [133].
+
+#### — Chirurgie scrotale
+
+Les publications concernant la chirurgie scrotale non prothétique sont rétrospectives et peu nombreuses. Elles évoquent
+
+fréquemment l'antibioprophylaxie [124, 125]. Il n'existait pas de lien significatif entre antibioprophylaxie et survenue d'une infection du site opératoire ( $OR = 0,69$  [0,05-10,1]) [125]. La prévention de l'infection du site opératoire repose sur la préparation cutanée du patient. La peau scrotale est riche en glandes sébacées. Elle est particulièrement colonisée par le staphylocoque. Les recommandations allemandes préconisent une antisepsie de contact d'au moins 10 minutes, avec une solution approuvée comme la povidone iodée ou la chlorhexidine [140]. L'application doit employer un tampon adapté assurant une détersion mécanique [140]. Les antiseptiques contenant de fortes concentrations alcooliques doivent être privilégiés [140], sous réserve que le facteur irritant n'entrave pas la prise en charge ambulatoire.
+
+Les recommandations européennes invitent quant à elles à une dépilation assurée par tonte, immédiatement avant la chirurgie, incluant les bourses et la région sus-pubienne [140]. L'utilisation de film adhésif imperméable ne saurait la remplacer [140]. Pour le NICE, la dépilation est facultative et repose sur une tonte électrique avec une tête à usage unique, le jour de l'intervention. Le rasage est proscrit dans la mesure où il augmente le risque d'infection du site opératoire [130].
+
+L'antibioprophylaxie de cette chirurgie « propre contaminée » ne doit pas être systématique selon les recommandations du NICE [130].
+
+#### — Prothèses
+
+Le NICE recommande l'utilisation de deux paires de gants stériles s'il existe un risque de perforation et si la contamination du site opératoire peut avoir des conséquences sérieuses.
+
+#### d - Évaluation du risque infectieux postopératoire
+
+Le risque infectieux doit être systématiquement évalué en postopératoire et ce d'autant plus après une procédure ambulatoire. Les critères d'évaluation sont avant tout cliniques. En cas de fièvre, le patient doit pouvoir prendre immédiatement contact avec l'équipe médicale afin d'organiser une prise en charge sans délai. Les symptômes irritatifs urinaires postopératoires sont fréquents et souvent consécutifs au geste opératoire lui-même. Dans ce contexte, ils ne sont pas propres à une infection postopératoire. L'évaluation de la bactériurie postopératoire est le plus souvent sans intérêt, car difficile d'interprétation et conduisant très souvent à une antibiothérapie inutile et contribuant à l'augmentation des résistances bactériennes. La leucocyturie postopératoire est en effet constante, et ce d'autant plus qu'une sonde est en place.
+
+Dans tous les cas, le patient pris en charge dans le cadre d'une procédure chirurgicale urologique réalisé en ambulatoire doit être informé du risque infectieux postopératoire. Il doit bien assimiler les signes d'alerte tels qu'une fièvre ou des symptômes irritatifs. La prise en charge de l'infection postopératoire doit être préétablie avec une conduite claire à observer, décrite dans un document écrit remis au patient. Le patient infecté en postopératoire doit faire l'objet d'une analyse bactériologique rapide permettant une prise en charge adaptée. L'équipe médicale ayant réalisé le geste doit en être tenue informée afin de valider la prise en charge de l'infection postopératoire.36. En l'absence de sonde à demeure, il est recommandé de réaliser un ECBU dans les 5 à 10 jours précédant toute chirurgie de l'appareil urinaire. Il est recommandé que l'UCA soit organisée pour permettre, tout au long de la prise en charge du patient, l'accès à son résultat et son interprétation. (AE)
+
+37. L'interprétation de l'ECBU relève de l'urologue. Le dossier médical doit contenir le résultat de l'analyse et la conduite adoptée. (AE)
+
+38. Si un ECBU préopératoire est nécessaire à la chirurgie, il est recommandé de vérifier son résultat et la conduite adoptée avant l'admission en UCA (« appel de la veille ») et lors de la réalisation de la check-list au bloc opératoire. (AE)
+
+39. En présence d'une colonisation sur sonde, il est recommandé de débuter une antibiothérapie adaptée au moins 48 heures avant l'intervention. Il est recommandé de changer la sonde 24 heures après le début de l'antibiothérapie. (AE)
+
+40. En cas de colonisation urinaire non traitée, il est recommandé de reporter une chirurgie programmée de l'appareil urinaire. (AE)
+
+41. L'antibioprophylaxie doit être adaptée au site opératoire et à l'intervention conformément aux recommandations du CIAFU et de la SFAR. (AE)
+
+42. En cas d'antibiothérapie préopératoire pour une colonisation, il est recommandé qu'elle soit poursuivie au moins 48 heures après l'intervention et jusqu'à l'ablation de la sonde. (AE)
+
+43. Il est recommandé de favoriser l'arrêt du tabagisme le plus tôt possible avant la chirurgie et d'informer le patient des bénéfices de l'arrêt du tabac, notamment pour la qualité des suites opératoires. (grade B)
+
+44. Il est recommandé de tenir compte de l'état nutritionnel avant l'acte chirurgical. (AE)
+
+45. Concernant la préparation cutanée, il est recommandé que la douche antiseptique soit réalisée au plus près de l'intervention par le patient à son domicile et que la dépilation du site opératoire (si elle est nécessaire) soit réalisée le jour même préférentiellement par tonte. Le rasage doit être proscrit. (AE)
+
+46. Lorsqu'un drainage du site opératoire est indispensable, il est recommandé de privilégier un drainage aspiratif par une contre-incision et de le laisser en place le moins longtemps possible. (AE)
+
+### 3.3.3. Comment traiter et prévenir le risque de douleur postopératoire ?
+
+La douleur postopératoire (DPO) reste une des complications médicales les plus fréquemment rencontrées en chirurgie ambulatoire. Elle est la cause d'admission non programmée, de retard à la sortie ou de recours au médecin traitant.
+
+L'incidence globale rapportée dans différentes études européennes [141,142] ou nord-américaines [143,144] approche les 30 % pour la douleur modérée à sévère et 5 à 10 % pour la douleur sévère, occasionnant ainsi des consultations extra-hospitalières dont la fréquence varie de 4,3 % à 38 % [144].
+
+De plus, elle est souvent source d'anxiété pour le patient et son entourage. Elle est donc susceptible de limiter l'accès à une prise en charge ambulatoire essentiellement par défaut d'information et d'anticipation.
+
+Le traitement de la DPO continue d'être un défi constant, malgré l'utilisation de techniques multimodales analgésiques. Si elle n'est pas gérée de manière efficace, elle peut conduire à la réhabilitation prolongée, à de mauvais résultats chirurgicaux, et à un risque accru de complications cardiovasculaires et pulmonaires [145].
+
+Enfin la DPO peut également être un important facteur prédicteur de la douleur postopératoire chronique définie comme la persistance d'une douleur plus de 2 mois après une chirurgie sans étiologie identifiée et sans continuité avec un problème peropératoire.
+
+Les recommandations de la SFAR insistent sur l'importance de diagnostiquer et de prendre en charge rapidement une DPO et ce à chaque étape du chemin clinique [146].
+
+#### 1) En préopératoire
+
+##### a - Organisation de la structure
+
+Si la satisfaction des patients concernant la prise en charge de leur DPO n'est pas toujours corrélée au niveau du soulagement de cette douleur, l'information délivrée en préopératoire semble être un élément important de satisfaction [147,148].
+
+La SFAR recommande :
+
+- • « d'aborder conjointement l'organisation d'équipes, la formation des personnels, la désignation de personnel référent, l'information du patient, l'évaluation de la douleur et la mise en place de procédures de soins. Il est recommandé de développer des postes d'infirmier référent douleur pour améliorer la prise en charge de la DPO » ;
+- • « que les structures exerçant une activité chirurgicale ambulatoire développent une stratégie spécifique de l'évaluation et du traitement de la DPO » [146].
+
+##### b - Évaluation du risque de douleur
+
+Les facteurs prédictifs de DPO dépendent du type de chirurgie et d'anesthésie, de l'analgésie per- et postopératoire mais aussi de spécificités individuelles (tolérance à la douleur, aux antalgiques), dans lesquelles interviennent des composantes psychologiques ou émotionnelles [149-151].
+
+Une méta-analyse américaine riche de 48 études a montré que la douleur préopératoire, l'âge, l'anxiété et le type de chirurgie sont indépendamment corrélés à la douleur postopératoire et/ou la consommation d'antalgiques [152].
+
+L'hétérogénéité des études ne permet pas d'établir de recommandation sur l'évaluation de la douleur en préopératoire. Elle repose donc essentiellement sur l'expérience personnelle du médecin anesthésiste et du chirurgien. Il semble cependant utile de chercher à mieux identifier les patients à risque de DPO sévère. Cette approche permettra d'éviter un traitement inutile des patients à faible risque et donc de réduire le risque d'effets indésirables potentiels des médicaments analgésiques postopératoires.### c - Information du patient
+
+La gestion de l'analgésie à domicile demeure un des maillons faibles dans la qualité de la prise en charge des DPO. Dans l'étude de Tong et al. [153], dans 50 % des cas, l'information sur la gestion de l'analgésie à domicile était mal dispensée, et donc source d'une mauvaise observance thérapeutique. À l'inverse, Robaux et al. [154] ont démontré que l'anticipation et l'information claire sur l'analgésie postopératoire diminuaient par quatre l'incidence des DPO.
+
+Les recommandations propres à la chirurgie ambulatoire émises par la SFAR [6, 146] préconisent que :
+
+- • dès la phase préopératoire (consultation chirurgicale et anesthésique) le patient soit informé des éléments prédictifs de la DPO : son intensité, ses caractéristiques, les modalités de la prise en charge. Cette information doit être orale et peut être associée à un support écrit ;
+- • l'ordonnance d'antalgiques soit remise au patient dès la consultation de chirurgie ou d'anesthésie. Elle précisera les horaires de prise d'antalgiques systémiques et les conditions de recours aux antalgiques de niveau plus élevé si nécessaire ;
+- • les premières prises d'antalgiques *per os* soient faites au sein de la structure ambulatoire afin d'évaluer l'efficacité et d'en détecter les éventuels effets secondaires ;
+- • l'évaluation de l'intensité de la douleur doive être réalisée à l'aide d'une échelle numérique ou verbale, en préopératoire, en SSPI et régulièrement en postopératoire, au repos, au mouvement et après traitement. Cette évaluation sera tracée dans le dossier.
+
+L'information préopératoire sur la DPO est un élément essentiel dans la prise en charge des DPO.
+
+## 2) En peropératoire
+
+### a - L'anesthésie
+
+Les progrès en matière d'anesthésie et d'analgésie permettent d'envisager des chirurgies « lourdes », sources de fortes DPO, en ambulatoire.
+
+L'analgésie multimodale est une approche de prévention de la douleur postopératoire qui consiste à administrer une combinaison d'analgésiques opioïdes et non opioïdes (paracétamol, anti-inflammatoire, tramadol, nefopam). Elle agit sur différents sites des systèmes nerveux central et périphérique dans le but d'améliorer le contrôle de la douleur, tout en limitant les effets secondaires liés aux opioïdes (NVPO, rétention urinaire, constipation...) [155].
+
+L'utilisation d'une analgésie multimodale pour la prévention de la douleur en milieu ambulatoire offre l'une des clés de l'amélioration du processus de récupération. Elle diminue les retards à la sortie et facilite la capacité des patients à reprendre leurs activités quotidiennes après une chirurgie ambulatoire [151, 156-159].
+
+Il existe de très nombreuses drogues pouvant être utilisées lors d'analgésie multimodale, chacune possédant une spécificité.
+
+Sarin et al. [160] ont montré qu'une équipe d'anesthésistes spécialisés dans la chirurgie ambulatoire observait des durées de récupération et de surveillance en SSPI significativement plus courtes qu'une équipe non spécialisée, de même qu'un taux de NVPO plus faible.
+
+L'analgésie multimodale doit être privilégiée en concertation avec l'équipe d'anesthésie.
+
+### b - La chirurgie
+
+La DPO dépend de la voie d'abord chirurgicale, du geste réalisé, du drainage éventuel du site opératoire et plus spécifiquement en endo-urologie du drainage des voies urinaires.
+
+Le chirurgien peut atténuer les conséquences délétères de la chirurgie par une réflexion stratégique portant non seulement sur la voie d'abord, mais aussi sur les gestes qui entourent l'acte opératoire.
+
+- • Le traumatisme tissulaire est d'autant plus important que l'incision est longue. Une moindre longueur d'incision peut atténuer la douleur et accélérer la réhabilitation [161].
+- • La laparoscopie réduit au minimum le préjudice pariétal, la douleur et la durée de l'iléus [162].
+- • L'infiltration de la paroi par un anesthésique local semble réduire la douleur et la consommation analgésique postopératoire. Mais l'effet reste limité à la durée d'action de l'anesthésique local. Elle est adaptée aux petites voies d'abord (cure de hernie, orifices de trocar de laparoscopie, etc.).
+- • La réalisation d'un TAP bloc semblerait avoir une efficacité plus importante avec une réhabilitation plus précoce et une moindre consommation d'antalgique [163].
+- • Le drainage du site opératoire est trop souvent appliqué par routine alors même que son inutilité est même établie dans certaines interventions [164]. Une méta-analyse, regroupant 17 études de chirurgie hépatobiliaire et 13 de chirurgie sous-mésocolique, démontre que le drainage systématique ne diminue pas le risque de complications après résection hépatique, colique, rectale et appendicectomie quel que soit le stade [165].
+
+Il est souhaitable de privilégier une voie d'abord mini-invasive, d'éviter le drainage du site opératoire et de réaliser des infiltrations pariétales et des blocs périphériques pour limiter la DPO [6] :
+
+- • Le **drainage vésical** : cf. chapitre spécifique.
+- • Le **drainage urétéral** : cf. chapitre spécifique.
+
+## 3) En postopératoire
+
+### a - En SSPI
+
+La surveillance systématique du patient en SSPI permet un diagnostic précoce d'éventuelle complication. Il est alors loisible d'y remédier rapidement afin de conserver le patient au sein du circuit de l'ambulatoire, dans la mesure du possible. La gestion de la DPO doit y être optimale. Elle doit permettre d'éviter l'installation d'une douleur aiguë, source de chronicisation, d'utilisation de forte dose d'antalgique (en particulier opioïdes sources de NVPO) et de rétention. L'évaluation de la DPO à l'aide d'EVA par exemple doit être précoce et régulière.
+
+### b - Dans l'unité d'ambulatoire
+
+Les médicaments antalgiques de palier I et II recommandés pour une chirurgie à douleur faible ou modérée sont le tramadol seul, ou en association avec le paracétamol, et la codéine. Mais l'efficacité et la tolérance de la codéine sont imprévisibles du fait de variations génétiques.Les AINS peuvent être utilisés en tenant compte des contre-indications (âge, fonction rénale). Il faut prendre en compte la majoration du risque hémorragique lors de la prescription d'AINS non sélectifs [146].
+
+Il n'y a pas lieu d'utiliser la voie intraveineuse ou sous-cutanée si l'administration *per os* est possible.
+
+#### c - À domicile
+
+Le repos, les postures antalgiques, la bouée dans le cadre de la chirurgie périnéale, l'application locale de « froid » font partie des prescriptions habituelles de bon sens en complément de la bonne observance du traitement antalgique médicamenteux prescrit.
+
+#### 4) Cas particulier des douleurs en urologie
+
+##### a - Les contractions vésicales sur sondes
+
+De nombreux actes urologiques nécessitent un drainage vésical, notamment par le biais d'une sonde transurétrale laissée en place quelques heures, voire plusieurs jours. La présence de cette sonde peut induire des contractions du détrusor, elles-mêmes sources d'inconfort et de douleurs pelviennes fréquentes. Il est donc important de choisir avec soin le type de sonde en se référant au type de matériau (siliconée, latex), au diamètre et au volume de remplissage du ballon. Cependant il n'existe pas à l'heure actuelle de recommandation sur le drainage vésical et les moyens d'en diminuer les effets indésirables.
+
+Plusieurs études ont cherché à évaluer l'intérêt d'un traitement médicamenteux pour diminuer les symptômes :
+
+- • Agarwal et al. [166] montrent que l'administration de 2 mg de toltérodine (Detrusitol®) ou 5 mg d'oxybutinine (Ditropan®) par voie orale 1 heure avant l'induction de l'anesthésie diminuait respectivement de 23 et 25 % l'incidence et la sévérité des symptômes *versus* placebo ;
+- • dans une autre étude, l'administration de 600 mg de gabapentine diminue de 30 % la sévérité des symptômes ainsi que la consommation d'antalgique en postopératoire [167] ;
+- • enfin l'administration de 1,5 mg/kg de tramadol 30 minutes avant l'extubation semble là encore diminuer la sévérité des symptômes et la consommation d'antalgique en postopératoire [168].
+
+Le recours à un drainage vésical doit être évité, car il est source d'inconfort. Lorsqu'il est indiqué, la possibilité d'y associer un traitement médicamenteux pour en diminuer les effets secondaires doit être envisagée. L'ablation précoce doit être privilégiée.
+
+##### b - La colique néphrétique et douleur d'endoprothèse urétérale
+
+La mise en place d'une endoprothèse urétérale est de pratique courante en urologie pour prévenir et/ou traiter la survenue d'une colique néphrétique [169]. La question du drainage systématique après une urétéroscopie – surtout si celle-ci est pratiquée en ambulatoire – reste controversée, car l'endoprothèse urétérale est parfois mal tolérée.
+
+Une méta-analyse récente reprenant l'ensemble des études comparant la pose systématique d'une endoprothèse urétérale *versus* l'absence de sonde après urétéroscopie ne permet pas de mettre en évidence une diminution des
+
+complications dans le groupe des patients avec sonde [170]. Cependant l'hétérogénéité des populations étudiées rend difficile une recommandation de bonne pratique.
+
+La tolérance des sondes est elle aussi variable en fonction des individus. Dans la méta-analyse de Nabi et al. comparant le suivi des urétéroscopies avec ou sans endoprothèse urétérale, la mise en place de cette sonde semble majorer le risque de dysurie et d'urgenturie par deux sans pour autant diminuer la consommation d'antalgiques [123].
+
+Plusieurs études ont donc examiné le rôle de différents traitements médicamenteux destinés à améliorer cette tolérance.
+
+- • Les alpha-bloquants semblent diminuer les douleurs lombaires, les symptômes urinaires ainsi que les douleurs pendant la miction [171-175].
+- • Les anticholinergiques semblent diminuer les symptômes d'hyperactivité vésicale liés à la sonde [166, 176].
+
+##### c - Les douleurs de paroi
+
+L'utilisation des blocs nerveux périphériques apporte un plus à l'analgésie postopératoire et diminue les effets indésirables liés à la consommation d'opiacés [177, 178].
+
+Les blocs nerveux peuvent être réalisés dans plusieurs indications :
+
+- • bloc pénien : tous les actes de la chirurgie du pénis ;
+- • bloc pudendal : bandelettes dans la cure d'incontinence ;
+- • bloc du cordon spermatique : cure d'hydrocèle (associé à une anesthésie cutanée) ;
+- • bloc ilio-inguinal : chirurgie canal péritonéo-vaginal ;
+- • TAP bloc (transverse abdominal plan) : chirurgie abdominale sous-ombilicale.
+
+47. Il est recommandé de ne pas recourir à une endoprothèse urétérale de manière systématique après une urétéroscopie réalisée en ambulatoire. (AE)
+
+48. Il est recommandé de ne pas recourir de façon systématique à un drainage vésical car il peut être source d'infection et d'inconfort. (AE)
+
+49. Il est recommandé de donner au patient en pré-opératoire une information sur la douleur post-opératoire et sa prise en charge. (AE)
+
+50. Il est souhaitable de dépister les terrains d'hyperalgésie afin de proposer une prise en charge spécifique de la douleur post-opératoire. (AE)
+
+51. Il est recommandé de diagnostiquer, d'évaluer (EVA) et de prendre en charge rapidement une douleur postopératoire et de la réévaluer avant la sortie du patient. (AE)
+
+52. Il est recommandé de prendre en charge efficacement et précocement la douleur post-opératoire car elle peut favoriser la survenue d'une douleur postopératoire chronique (DCPC). (AE)
+
+53. Il est recommandé de privilégier l'analgésie multimodale notamment par l'utilisation d'anesthésiques locaux de longue durée d'action (infiltration de la cicatrice ou bloc périnerveux), en concertation avec le médecin anesthésiste-réanimateur. (AE)### 3.3.4. Comment évaluer, traiter et prévenir le risque d'hémorragie, d'hématurie et de caillottage postopératoire ?
+
+#### 1) Introduction
+
+Le saignement est une des complications les plus fréquentes en chirurgie. Il peut s'agir en urologie d'un saignement profond, pariétal, ou d'un saignement des voies urinaires (hématurie ou urétrorragie). Une hémostase mal contrôlée et les pertes sanguines qui en découlent peuvent être associées à une augmentation de la morbidité, de la mortalité et des coûts de prise en charge.
+
+L'anémie est un facteur de risque indépendant de mortalité en chirurgie [179,180], ce risque augmente avec la sévérité de l'anémie [179,181]. Elle est à l'origine en postopératoire d'un retard de cicatrisation, d'un surcroît de complications infectieuses, mais aussi de morbidités spécifiques (type fistules anastomotiques) et non spécifiques (œdème pulmonaire, décompensation cardiaque) [182,183]. Le risque de recours à des procédures invasives (reprise chirurgicale, embolisation) ou à la transfusion, vecteurs de morbi-mortalité, est également majoré.
+
+Le saignement et l'anémie entraînent donc également de façon logique une augmentation des durées de séjour [182] et des coûts [184].
+
+En ambulatoire, la survenue d'événements hémorragiques peut conduire à une admission en hospitalisation conventionnelle, une consultation non programmée ou une réadmission en urgence. La gestion du risque hémorragique en urologie ambulatoire doit donc être une préoccupation constante des différents intervenants (chirurgien, anesthésiste, médecins traitant, cardiologue, infirmière, entourage du patient et patient lui-même). Divers moyens doivent être mis en œuvre pour prévenir les risques de saignement en pré-, per- et postopératoire, mais aussi pour détecter précocement et prendre en charge de façon optimale une hémorragie chez un malade d'urologie traité en ambulatoire.
+
+#### a - En préopératoire
+
+##### — Prévention du risque hémorragique au cours de la consultation préopératoire
+
+Dès la période préopératoire, les intervenants dans la prise en charge d'un patient (chirurgien, anesthésiste, médecin traitant) devront vérifier l'éligibilité de ce dernier à l'ambulatoire, en évaluant notamment un risque hémorragique potentiel. Ce risque tient compte de l'intervention prévue, des paramètres de l'hémostase, des antécédents et des traitements du patient.
+
+Le risque qu'entraînerait un saignement éventuel per- ou postopératoire en termes de morbi-mortalité doit également être estimé.
+
+Lors de la consultation chirurgicale préopératoire, l'urologue doit évaluer la faisabilité de l'acte opératoire prévu en ambulatoire en tenant compte de la technique chirurgicale envisagée (chirurgie à risque hémorragique faible, modéré, élevé), ainsi que des données liées au patient (comorbidités significatives, traitement anticoagulant ou antiagrégant, niveau de compréhension, capacité du malade et de son entourage à détecter et gérer un événement hémorragique postopératoire).
+
+Certains auteurs ont proposé à partir d'une revue de la littérature une classification du risque hémorragique en chirurgie urologique selon l'intervention (Tableau 4) [185].
+
+**Tableau 4.** Classification du risque hémorragique selon l'intervention d'après Gupta [185].
+
+<table border="1">
+<thead>
+<tr>
+<th>Risque faible</th>
+<th>Risque modéré</th>
+<th>Risque élevé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Endoscopie (cystoscopie et urétroscopie)</td>
+<td>RTUV</td>
+<td>Curage ganglionnaire</td>
+</tr>
+<tr>
+<td>Photovaporisation prostatique</td>
+<td>RTUP</td>
+<td>Prostatectomie,</td>
+</tr>
+<tr>
+<td>Injections intra-urétrales ou intra-détrusoriennes</td>
+<td>LEC</td>
+<td>Cystectomie,</td>
+</tr>
+<tr>
+<td></td>
+<td>BSU</td>
+<td>Néphrectomies</td>
+</tr>
+<tr>
+<td></td>
+<td>Chirurgie du prolapsus</td>
+<td>NLPC</td>
+</tr>
+<tr>
+<td></td>
+<td>Sphincter artificiel</td>
+<td>Pénectomy</td>
+</tr>
+<tr>
+<td></td>
+<td>Chirurgie scrotale</td>
+<td>Prothèse pénienne</td>
+</tr>
+</tbody>
+</table>
+
+La consultation de préanesthésie permettra de réévaluer les antécédents et traitements en cours du patient. D'éventuels relais et arrêts de traitements anticoagulants et antiagrégants seront organisés en fonction des recommandations des sociétés savantes qui tiennent compte de la pathologie cardiovasculaire et du risque hémorragique lié à la chirurgie.
+
+En effet, la poursuite des anticoagulants et antiagrégants lors d'une intervention majeure le saignement per- et postopératoire, et augmente le risque de transfusion, de reprise chirurgicale et le taux de complications [186-196].
+
+Leur arrêt expose le patient à un risque thromboembolique accru.
+
+Un échange d'informations entre l'équipe d'anesthésie (consultation de préanesthésie et bloc), le chirurgien, le médecin traitant et le cardiologue est indispensable pour apprécier le risque thromboembolique de l'arrêt du traitement et le risque hémorragique de l'intervention. Un avis de cardiologue doit être sollicité dès qu'une intervention est programmée chez un patient sous anticoagulant ou antiagrégant. La SFAR et la SFC ont proposé un modèle de lettre pour la communication anesthésiste/cardiologue. (Annexe 5 : Fiche de liaison avec le cardiologue.)
+
+Les deux sociétés savantes ont émis conjointement en 2010 des recommandations formalisées d'experts sur la prise en charge du patient coronarien qui doit subir une chirurgie non cardiaque.
+
+La gestion périopératoire des antiagrégants et anticoagulants y est détaillée [197,198]. (Annexe 6 : Recommandations de la SFAR et de la SFC sur la gestion périopératoire des antiagrégants et anticoagulants.)
+
+La prescription périopératoire des antiagrégants et anticoagulants doit faire l'objet d'une traçabilité dans le dossier et d'une information au patient.
+
+##### — Gestion des antiagrégants plaquettaires
+
+Des recommandations spécifiques concernant la gestion des antiagrégants plaquettaires avant chirurgie urologique endoscopique chez le coronarien ont été émises par la HAS en juin 2012 [199].Deux risques antagonistes doivent impérativement être identifiés préalablement à la chirurgie :
+
+1. 1. le risque thrombotique lié à une éventuelle modification du traitement par AAP ;
+2. 2. le risque hémorragique lié à l'acte envisagé et sa faisabilité sous AAP.
+
+Ces recommandations sont détaillées en Annexe 7 : recommandations HAS concernant la gestion des anti-agrégants plaquettaires avant chirurgie urologique endoscopique chez le coronarien.
+
+### — Gestions des antivitamines K
+
+Concernant les antivitamines K (AVK), des recommandations professionnelles de l'HAS ont été émises en 2008. Ces recommandations détaillent notamment la gestion périopératoire du traitement anticoagulant en fonction du risque hémorragique du patient et de l'indication cardiovasculaire du traitement.
+
+En chirurgie urologique, l'arrêt des AVK avant une intervention programmée est recommandé. La valeur de 1,5 peut être retenue comme seuil d'INR en dessous duquel il n'y a pas de majoration des complications hémorragiques périopératoires. Certaines situations imposent un relais par une héparine.
+
+Lorsque le risque thromboembolique, fonction de l'indication du traitement AVK, est élevé, un relais pré- et postopératoire par une héparine à dose curative (HNF ou HBPM sous réserve de leur contre-indication) est recommandé. Dans les autres cas, le relais postopératoire par une héparine à dose curative est recommandé lorsque la reprise des AVK dans les 24 à 48 heures postopératoires n'est pas possible du fait de l'indisponibilité de la voie entérale.
+
+Chez les patients porteurs de prothèse valvulaire mécanique cardiaque, le relais pré- et postopératoire des AVK par les héparines est recommandé (grade C), quel que soit le type de prothèse.
+
+Chez les patients en ACFA, le relais pré- et postopératoire des AVK par les héparines est recommandé chez les patients à haut risque thromboembolique, défini (niveau de preuve 2) par un antécédent d'accident ischémique cérébral, transitoire ou permanent, ou d'embolie systémique ; dans les autres cas, l'anticoagulation par AVK peut être interrompue sans relais préopératoire (grade C), mais l'anticoagulation est reprise dans les 24 à 48 heures postopératoires.
+
+Chez les patients ayant un antécédent de maladie thromboembolique veineuse (MTEV), le relais pré- et postopératoire des AVK par les héparines est recommandé (grade C) chez les patients à haut risque thromboembolique, défini par un accident (thrombose veineuse profonde et/ou embolie pulmonaire) datant de moins de 3 mois, ou une maladie thromboembolique récidivante idiopathique (nombre d'épisodes  $\geq 2$ , au moins un accident sans facteur déclenchant) ; dans les autres cas, l'anticoagulation par AVK peut être interrompue sans relais préopératoire (grade C), mais l'anticoagulation est reprise dans les 24 à 48 heures postopératoires.
+
+Les modalités d'arrêt des AVK et de relais par héparine sont également détaillées.
+
+- • **Relais préopératoire**
+  - ◦ *Arrêt préopératoire des AVK et introduction des héparines à dose curative*
+
+Il est recommandé de mesurer l'INR 7 à 10 jours avant l'intervention
+
+- - si l'INR est en zone thérapeutique, il est recommandé d'arrêter l'AVK 4 à 5 jours avant l'intervention et de commencer l'héparine à dose curative 48 heures après la dernière prise de fluindione (Previscan) ou de warfarine (Coumadine) ou 24 heures après la dernière prise d'acénocoumarol (Sintrom) ;
+- - si l'INR n'est pas en zone thérapeutique, l'avis de l'équipe médico-chirurgicale doit être pris pour définir les modalités du relais. Si la procédure de relais n'est pas réalisée dans un parcours de soins coordonné en ville, il est recommandé d'hospitaliser le patient, au plus tard la veille de la chirurgie, pour adapter l'anticoagulation.
+
+La réalisation d'un INR la veille de l'intervention est recommandée. Il est suggéré que les patients présentant un INR supérieur à 1,5 la veille de l'intervention bénéficient de l'administration de 5 mg de vitamine K *per os*. Dans ce cas, un INR de contrôle est réalisé le matin de l'intervention.
+
+- ◦ *Arrêt préopératoire de l'héparinothérapie*
+
+Il est souhaitable que les interventions aient lieu le matin. L'arrêt préopératoire des héparines est recommandé comme suit :
+
+- - HNF intraveineuse à la seringue électrique : arrêt 4 à 6 heures avant la chirurgie ;
+- - HNF sous-cutanée : arrêt 8 à 12 heures avant la chirurgie ;
+- - HBPM : dernière dose 24 heures avant l'intervention.
+
+- ◦ Le contrôle du TCA ou de l'activité anti-Xa le matin de la chirurgie n'est pas nécessaire.
+
+- • **Relais postopératoire**
+
+- ◦ *Reprise des héparines après l'intervention*
+
+Les héparines doivent être administrées à dose curative dans les 6 à 48 heures postopératoires selon le risque hémorragique et le risque thromboembolique. Il est recommandé de ne pas reprendre les héparines à dose curative avant la 6<sup>e</sup> heure. Si le traitement par héparine à dose curative n'est pas repris dès la 6<sup>e</sup> heure, dans les situations où il est indiqué, la prévention postopératoire de la MTEV doit être réalisée selon les modalités habituelles.
+
+- ◦ *Reprise des AVK et arrêt des héparines*
+
+En l'absence de risque hémorragique majeur et persistant, il est recommandé de reprendre les AVK dans les 24 premières heures ; sinon, dès que possible après l'intervention. Il est recommandé de reprendre les AVK en respectant les posologies habituellement reçues par le patient sans dose de charge.
+
+Lorsque la voie entérale n'est pas disponible pendant plus de 24 à 48 heures, et en l'absence de risque hémorragique majeur et persistant, il est recommandé de poursuivre en postopératoire l'anticoagulation par l'héparine à dose curative, introduite dans les délais préconisés ci-avant jusqu'à ce que la reprise de l'AVK devienne possible.
+
+Le traitement par héparine est interrompu après 2 INR successifs en zone thérapeutique à 24 heures d'intervalle [200].
+
+L'administration de certaines molécules au patient en préopératoire a été étudiée dans la prévention durisque hémorragique dans des cas précis. Plusieurs auteurs avancent que dans l'hypothèse particulière de la résection endoscopique des adénomes de prostate, l'administration préopératoire (2 à 6 semaines avant chirurgie) d'un inhibiteur de la 5-alpha-réductase (dutastéride ou finastéride) peut être à l'origine d'une diminution des pertes sanguines liées à l'intervention [201,202]. Cette différence n'est pas observée dans toutes les séries [203].
+
+Au total, dans tous les cas doit avoir lieu une réflexion personnalisée menée par l'ensemble de l'équipe médico-chirurgicale en charge du patient sur le rapport bénéfice/risque de la poursuite ou non des traitements.
+
+Les échéances de réalisation des bilans biologiques préopératoires et postopératoires destinés à contrôler l'hémoglobine et l'hémostase seront précisées au patient oralement et par écrit (lorsqu'il existe une indication à le faire).
+
+En cas de chirurgie à risque hémorragique modéré ou important, ainsi que chez les patients poursuivant en périopératoire un traitement antiagrégant ou anticoagulant, il est nécessaire de prélever en préopératoire un bilan prétransfusionnel (groupe sanguin et seconde détermination des RAI), ainsi qu'un hémogramme pour son caractère pronostique et son aide à la mise en place d'une stratégie transfusionnelle [204].
+
+Des supplémentations vitaminiques ou en fer (par voie orale ou intraveineuse), voire un recours à la transfusion de produits dérivés du sang peuvent être discutés au cas par cas en prévision d'un geste de chirurgie ambulatoire [205].
+
+Le patient doit être impliqué dans la prévention et la gestion du risque hémorragique postopératoire. Une information lui est dispensée sous forme orale au cours des différentes consultations préopératoires, mais également sous forme écrite par l'intermédiaire d'ordonnances ou des fiches de l'AFU.
+
+La synergie des différents intervenants (patient, chirurgien, anesthésiste, médecin traitant, cardiologue, infirmier, entourage du patient) dans la prise en charge ambulatoire est déterminante pour la gestion du risque hémorragique et anémique.
+
+## 2) En peropératoire
+
+### a - Prévention
+
+Depuis 2011, l'HAS a mis en place la « check-list » au bloc opératoire, dont une partie est remplie avant induction anesthésique, une autre avant incision et enfin une dernière en fin d'intervention. Cette mesure s'applique bien entendu à la chirurgie ambulatoire. Certains items sont destinés à prévenir et/ou gérer un saignement, notamment les items 6, 8, 10 et 11. (Annexe 8 : Check-list au bloc opératoire.)
+
+Au cours d'une conférence d'experts en 2001 réalisée en association avec le Groupe d'études sur l'hémostase et la thrombose (Société française d'hématologie), la SFAR a rappelé quelques principes généraux d'anesthésie permettant une meilleure prévention du risque hémorragique :
+
+Il est recommandé d'utiliser les moyens non spécifiques de diminution du saignement périopératoire (grade E), c'est-à-dire :
+
+- • de choisir la voie d'abord chirurgicale permettant le meilleur contrôle de l'hémostase ;
+- • d'utiliser, si possible, une technique d'hypotension contrôlée ;
+- • d'assurer la normothermie ;
+- • de limiter l'hémodilution, avec maintien d'un hématocrite permettant une économie transfusionnelle compatible avec un transport d'oxygène optimal et une viscosité sanguine assurant une hémostase biologique normale (habituellement égal à 30 %) ;
+- • de dépister précocement un syndrome hémorragique anormal nécessitant une hémostase chirurgicale complémentaire ;
+- • de restreindre aux strictes indications les traitements anticoagulants postopératoires.
+
+### b - Chirurgie ouverte
+
+En chirurgie ouverte, les voies d'abord réduites doivent être privilégiées afin de diminuer le risque d'hématome de paroi. Les techniques dites « mini-invasives » permettant de minimiser le risque de saignement doivent être appliquées de façon préférentielle. Il s'agit de la laparoscopie, la laparoscopie robot-assistée, de l'urétéroscopie rigide ou souple, de la chirurgie endoscopique utilisant le laser (photovaporisation prostatique, fragmentation de calcul, etc.) ou le courant bipolaire (résection de prostate ou de vessie).
+
+En chirurgie ouverte et en laparoscopie, une hémostase soignée est primordiale. Les différentes énergies et technologies de coagulation à disposition du chirurgien peuvent être utilisées ainsi que les agents hémostatiques dans la prévention et le traitement du risque hémorragique per- et postopératoire [184,206].
+
+La mise en place d'un drainage au cours de l'intervention peut être effectuée s'il s'avère nécessaire, afin de mettre en évidence et d'évacuer un saignement postopératoire.
+
+Certaines mesures locales peuvent être mises en œuvre notamment dans les chirurgies à risque d'hématome telles que la chirurgie scrotale, en particulier l'application de pansement compressif sur la cicatrice ou le glaçage postopératoire.
+
+### c - Chirurgie endoscopique
+
+Pour la chirurgie endoscopique des adénomes de prostate, la dernière décennie a vu l'émergence de nouvelles technologies telles que le TUNA, la résection transuréthrale en courant bipolaire ou la photovaporisation prostatique au laser.
+
+Certains auteurs ont observé que la résection bipolaire entraînerait une baisse du taux d'hémoglobine moins importante et un recours à la transfusion moindre que la résection monopolaire [207].
+
+Plusieurs études ont montré la supériorité de la photovaporisation prostatique au laser par rapport à la résection transuréthrale en courant monopolaire, lorsqu'il s'agit de prévenir le risque hémorragique, sans modifier le résultat fonctionnel de l'intervention [208]. Le risque relatif de transfusion était ainsi évalué à 0,14 après photovaporisation prostatique au laser *versus* résection transuréthrale en courant monopolaire, dans une revue de la littérature de 2008 [209]. Une autre méta-analyse de 2012 confirme ce moindre recours à la transfusion et un risque rétentionnelpostopératoire sur caillotage vésical moindre chez les patients traités par photovaporisation prostatique au laser, sans pour autant qu'il existe de différence en termes d'hématurie postopératoire [210].
+
+Ces techniques sont donc à privilégier pour la chirurgie de l'adénome prostatique en ambulatoire afin de réduire le risque hémorragique. Chez les patients sous antiagrégants plaquettaires (aspirine, clopidogrel), la photovaporisation prostatique au laser est réalisable selon plusieurs auteurs [211-216]. Chez ceux sous AVK, il reste à déterminer si la chirurgie doit être réalisée sans [212,214] ou avec relais par de l'héparine [217]. L'éligibilité de ces patients à risque hémorragique élevé à une prise en charge ambulatoire reste cependant à étudier.
+
+Pour les procédures endoscopiques du type urétéroscopie, pose ou changement de sondes urétérales (tous types confondus), il faut procéder à un choix rigoureux et une manipulation peu traumatique des endoscopes, des guides, des gaines d'accès et des sondes.
+
+Dans le cas particulier des résections endoscopiques de vessie ou de prostate, l'urologue doit apporter un soin tout particulier à l'hémostase. D'éventuelles irrigations vésicales postopératoires doivent en effet pouvoir être rapidement stoppées afin d'envisager une sortie du patient le jour même avec un risque de caillotage vésical ou d'urétrorrhagie faible.
+
+#### d - Prise en charge
+
+La prise en charge médicale d'un saignement per-opératoire consiste en une gestion précise des paramètres cliniques (surveillance de la plaie, des drains, hémodynamique) et biologiques (taux d'hémoglobine, de plaquettes, valeurs d'hémostase).
+
+Un recours à la transfusion, au remplissage, aux amines vaso-pressives devra parfois être envisagé selon les cas.
+
+Au niveau chirurgical, les mesures habituelles de gestion d'un saignement per-opératoire seront appliquées.
+
+Lors de la survenue d'une hémorragie peropératoire ou en cas de risque de saignement post opératoire, le saignement devra être signalé par le chirurgien (point 11 de la check-list). L'équipe chirurgien/anesthésiste décidera des modalités de la surveillance. Celles-ci pourront être cliniques, biologiques ou radiologiques (point 10 de la check-list).
+
+Enfin, dans certains cas, une prolongation de surveillance (point 11 de la check-list), une admission, un suivi particulier ou une reconvocation précoce de l'opéré seront décidés pour détecter et traiter rapidement une éventuelle complication hémorragique.
+
+### 3) En postopératoire
+
+#### a - Prévention
+
+La surveillance habituelle postopératoire s'applique aux patients de chirurgie ambulatoire. Celle-ci s'effectue en SSPI puis en salle de repos. La surveillance de saignement est comprise dans certains scores anesthésiques (*Postanesthetic Discharge Scoring System*, Chung et al.).
+
+Une hydratation per- et postopératoire large et adaptée aux antécédents du patient permet d'augmenter la diurèse, de réduire le risque d'hématurie caillotante, et favorise un arrêt des irrigations vésicales et/ou une ablation de sonde urinaire les cas échéants.
+
+Au contraire, un retard d'hydratation entraîne un allongement du temps de surveillance nécessaire en postopératoire et un risque de complications (notamment hémorragiques) plus important.
+
+Lorsqu'une surveillance particulière a été décidée en cours d'intervention et consignée dans le dossier du patient, celle-ci doit être mise en œuvre et tracée.
+
+Afin de détecter et prendre en charge précocement une complication hémorragique, la surveillance postopératoire au sein de l'établissement doit porter sur :
+
+- • l'examen clinique de façon systématique à adapter à l'intervention réalisée : pâleur, hypotension, tachycardie, ecchymose, hématome, saignement de la cicatrice, douleur, coloration des urines (mictions spontanées ou urines recueillies par une sonde urinaire avec ou sans irrigation), production des drains ;
+- • certains examens complémentaires prévus avant ou lors de l'intervention (biologiques ou radiologiques), ou indiqués par l'examen clinique.
+
+Les patients ayant été soumis à une endoscopie et n'étant pas ou plus porteurs de drainage vésical doivent avoir repris des mictions à urines claires ou rosées.
+
+Les patients ayant eu une résection endoscopique de vessie ou une chirurgie endoscopique d'adénome prostatique et devant sortir avec une sonde doivent avoir des urines claires ou rosées après l'arrêt des irrigations vésicales avant d'être autorisés à quitter l'établissement.
+
+La pratique en ambulatoire d'interventions considérées comme à risque modéré ou à haut risque hémorragique nécessite une surveillance particulièrement rapprochée. Ces groupes à risque sont définis dans le tableau 4.
+
+Toutes les interventions chirurgicales réalisées chez des patients dont certains traitements anticoagulants ou antiagrégants ont été poursuivis sont également considérées comme à risque hémorragique important.
+
+Une surveillance postopératoire d'au moins 6 heures doit être réalisée chez ces patients avec une réévaluation à l'issue des 6 heures pour autoriser ou non la sortie.
+
+Chez les patients à risque hémorragique, un contrôle de l'hémoglobine avant la sortie et/ou le lendemain permet de réduire les risques liés à une anémie postopératoire par un diagnostic et une prise en charge rapide.
+
+Enfin, l'information orale et écrite du patient opéré, avant sa sortie de l'établissement, constitue l'un des moyens les plus efficaces pour prévenir les complications hémorragiques. Il s'agira de consignes et de prescriptions portant sur la prise ou la reprise des traitements, sur la reprise des activités physiques. Il conviendra également de proposer au patient les modalités de surveillance postopératoire : éléments d'« autosurveillance » par l'opéré, consultations médicales (chirurgien, médecin traitant), appel téléphonique programmé, bilans biologiques, soins infirmiers, etc.
+
+Les coordonnées à utiliser en cas d'urgence et notamment en cas de saignement devront apparaître clairement dans les documents remis au patient à sa sortie.
+
+#### b - Prise en charge
+
+La prise en charge d'un saignement postopératoire devra être adaptée à chaque cas.En cas de phénomène hémorragique détecté en post-opératoire (hématome de paroi, saignement superficiel ou profond, hématurie ou tout autre type de saignement) de nouvelles décisions de prise en charge spécifique, de surveillance (surveillance clinique, biologique, radiologique, ou alors prolongation de surveillance, contact téléphonique programmé ou bien reconvocation précoce), ou d'intervention (transfusion, remplissage vasculaire, reprise chirurgicale, embolisation, compression, glaçage) doivent être prises et consignées par le tandem chirurgien/anesthésiste.
+
+Un patient qui suspecte un saignement postopératoire après avoir quitté l'établissement hospitalier doit pouvoir utiliser les coordonnées d'urgence qui lui ont été remises.
+
+L'équipe chirurgicale doit être joignable afin de guider le patient vers une prise en charge adaptée et optimale. Cette assistance pourra prendre la forme d'une recommandation.
+
+Dans certains cas, le patient sera orienté vers un service d'urgence afin d'y être examiné par un membre de l'équipe l'ayant opéré. Cette consultation pourra aboutir à une prise en charge en externe ou hospitalière lorsque la situation l'impose.
+
+#### 4) Conclusion
+
+Afin de développer la pratique de l'ambulatoire en urologie dans des conditions de sécurité optimales, la prévention et la gestion de l'anémie et du risque hémorragique per- et postopératoire est primordiale.
+
+Une prise en charge inspirée du patient *blood management*, décrite récemment par des auteurs anglo-saxons, adaptée à l'urologie ambulatoire, devrait permettre d'encadrer les pratiques actuelles et futures pour atteindre cet objectif de qualité [218] (Fig. 2).
+
+Un respect strict des critères d'éligibilité à l'ambulatoire puis une gestion péri-opératoire du risque hémorragique basée sur l'état actuel des connaissances et les nouvelles technologies en anesthésie, urologie et médecine cardiovasculaire permettent de réaliser un grand nombre de procédures chirurgicales en ambulatoire, avec un bénéfice certain.
+
+La prise en charge adaptée à chaque patient, soucieuse du terrain, des antécédents et des traitements en cours, ainsi qu'une surveillance postopératoire précisément définie et optimisée favorisent la réduction du risque de morbid-mortalité. Les coûts liés à ce risque ou à la réalisation des mêmes interventions dans le cadre d'une hospitalisation conventionnelle s'en trouvent amoindris.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Optimisation de l'érythropoïèse</th>
+<th>Réduction des pertes sanguines</th>
+<th>Optimisation de la tolérance à l'anémie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Pré-opératoire</b></td>
+<td>
+<ul>
+<li>- NFS préopératoire</li>
+<li>- Identifier/traiter les causes de l'anémie</li>
+<li>- Traiter la carence martiale</li>
+<li>- Stimulation de l'érythropoïèse (ESA)</li>
+<li>- Anémie = contre-indication chirurgie réglée</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Rechercher des anomalies de l'hémostase (Clinique+++)</li>
+<li>- Favoriser les procédures moins invasives</li>
+<li>- Gestion relais anticoagulation préopératoire</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Évaluation seuil transfusionnel spécifique du patient</li>
+<li>- Évaluation préopératoire des « pertes maximales autorisées »</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><b>Post-opératoire</b></td>
+<td>
+<ul>
+<li>- Différer la chirurgie selon le taux d'Hb</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Hémostase chirurgicale soigneuse</li>
+<li>- Système d'épargne/récupération du sang</li>
+<li>- Agents hémostatiques</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Optimisation du débit cardiaque</li>
+<li>- Optimisation de l'oxygénation</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<ul>
+<li>- Traiter la carence martiale post-opératoire</li>
+<li>- Stimuler l'érythropoïèse</li>
+<li>- Attention aux traitements pouvant aggraver l'anémie</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Surveillance saignement postopératoire</li>
+<li>- Normothermie</li>
+<li>- Gestion anticoagulation</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>- Maintien de l'oxygénation</li>
+<li>- Optimisation tolérance anémie (douleur, etc.)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+Figure 2. Prévention péri-opératoire du risque hémorragique et anémique (selon Shander [218]).54. La gestion du risque hémorragique en chirurgie ambulatoire doit être une préoccupation majeure des différents intervenants : urologue, médecin anesthésiste-réanimateur, médecin traitant, cardiologue, infirmier(ère), patient et aidant naturel. (AE)
+
+55. Une gestion péri-opératoire clairement définie adaptée et organisée des traitements antithrombotiques permet de limiter les risques de complication hémorragiques et thrombotiques. (AE)
+
+56. Il est recommandé qu'un échange d'informations périopératoire ait lieu entre le médecin anesthésiste-réanimateur, l'urologue, le médecin traitant et si nécessaire le cardiologue pour définir le risque hémorragique de l'intervention et le risque thromboembolique de l'arrêt des traitements antithrombotiques. (AE)
+
+57. Il est recommandé d'organiser entre le médecin anesthésiste-réanimateur, l'urologue, le médecin traitant et si nécessaire le cardiologue, le relais, l'arrêt ou le maintien des traitements antithrombotiques, en tenant compte du terrain cardiovasculaire et de l'intervention prévue. (AE)
+
+58. Il est recommandé de vérifier lors de l'appel de la veille la gestion des traitements antithrombotiques. (AE)
+
+59. Il est recommandé de prendre en compte une anémie péri-opératoire et un risque hémorragique pour prévenir les risques de retard de cicatrisation et le surcroît de complications infectieuses. (AE)
+
+## 4. Annexes
+
+### 4.1. Annexe 1 : Différents types de flux
+
+Il existe deux circuits basiques de flux : le flux unique (race-track) ou les flux croisés (non race-track) :
+
+- • **dans le circuit à flux unique**, le flux du patient est unidirectionnel. Le patient ne repassera jamais par le même endroit : admission, salle préopératoire, bloc opératoire, salle postopératoire et sortie. L'avantage de ce modèle tient à ce que les patients en phases pré- et postopératoires ne sont pas mélangés. Il n'y a pas de points de tension au niveau des croisements de flux des patients. L'inconvénient naît de ce qu'il faut donc deux espaces distincts pour les salles pré- et postopératoires, et que cela nécessite plus d'espace et d'infirmiers(ères) pour le même nombre de patients ;
+- • **dans le circuit à flux croisés**, le patient va repasser par les mêmes salles, en particulier la salle pré- et postopératoire qui devient une salle unique. L'avantage réside sur le fait qu'une seule salle accueille les patients en phases pré- et postopératoire. La zone d'admission et de sortie peut également être unique.
+
+L'inconvénient procède de l'existence de points de croisement de patients. Dans ce cas, il est nécessaire de prévoir des couloirs assez larges, afin de permettre le passage de deux brancards de manière confortable.
+
+On distingue également le flux tiré du flux poussé, selon le sens du moteur. Dans le premier cas, le déclenchement d'une étape ne peut se faire que s'il y a une demande de l'étape suivante. Dans le second, l'acteur de l'étape terminée déclenche le mouvement vers l'étape suivante, ce qui peut causer des embouteillages.
+
+### 4.2. Annexe 2 : Satisfaction des médecins généralistes
+
+Résultat d'une enquête auprès de 557 médecins traitants de la région de la Bretagne (Collège des hautes études médicales CHEM 2013).
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">En amont de la chirurgie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">J'informe les patients de la possibilité et des conditions d'un acte chirurgical ambulatoire</td>
+<td>Jamais</td>
+<td>7 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>48 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>45 %</td>
+</tr>
+<tr>
+<td rowspan="3">Je suis associé en amont à la décision de réalisation de l'acte chirurgical ambulatoire</td>
+<td>Jamais</td>
+<td>33 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>39 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>28 %</td>
+</tr>
+<tr>
+<td rowspan="3">Je transmet à l'équipe chirurgicale les éléments du dossier médical nécessaires à la prise en charge du patient</td>
+<td>Jamais</td>
+<td>3 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>29 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>68 %</td>
+</tr>
+<tr>
+<td rowspan="3">Je reçois un courrier précisant la prise en charge ambulatoire avec la date, les conditions et les modalités</td>
+<td>Jamais</td>
+<td>16 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>45 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>39 %</td>
+</tr>
+<tr>
+<th colspan="3">En aval de la chirurgie</th>
+</tr>
+<tr>
+<td rowspan="3">Je suis informé du retour à domicile du patient et des conditions de ce retour</td>
+<td>Jamais</td>
+<td>23 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>49 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>28 %</td>
+</tr>
+<tr>
+<td rowspan="3">Je reçois un courrier comportant le compte-rendu opératoire et les consignes de l'équipe</td>
+<td>Jamais</td>
+<td>8 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>33 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>59 %</td>
+</tr>
+<tr>
+<td rowspan="3">Les ordonnances et prescriptions utiles sont mises à la disposition du patient</td>
+<td>Jamais</td>
+<td>2 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>35 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>63 %</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tbody>
+<tr>
+<td rowspan="3">La douleur et l'anxiété du patient sont habituellement correctement contrôlées</td>
+<td>Jamais</td>
+<td>3 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>63 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>35 %</td>
+</tr>
+<tr>
+<td rowspan="3">Les nausées et les vomissements sont habituellement correctement contrôlés</td>
+<td>Jamais</td>
+<td>3 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>57 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>40 %</td>
+</tr>
+<tr>
+<td rowspan="3">Les mesures antithrombotiques éventuellement nécessaires sont précisées sur le courrier et/ou les ordonnances</td>
+<td>Jamais</td>
+<td>3 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>34 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>63 %</td>
+</tr>
+<tr>
+<td rowspan="3">L'entourage est correctement informé des éléments de surveillance et du numéro à appeler en cas de besoin</td>
+<td>Jamais</td>
+<td>4 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>49 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>47 %</td>
+</tr>
+<tr>
+<td rowspan="3">L'information des infirmiers(ères) à domicile et la coordination équipe chirurgicale/médecin/infirmier se passe habituellement correctement</td>
+<td>Jamais</td>
+<td>3 %</td>
+</tr>
+<tr>
+<td>Parfois</td>
+<td>59 %</td>
+</tr>
+<tr>
+<td>Toujours</td>
+<td>38 %</td>
+</tr>
+</tbody>
+</table>
+
+### 4.3. Annexe 3 : Anesthésie ambulatoire : texte de la SFAR
+
+#### 4.3.1. Anesthésie en chirurgie ambulatoire - généralités
+
+Le processus anesthésique pour la chirurgie ambulatoire répond aux mêmes contraintes que lors d'une prise en charge avec hospitalisation. Le patient doit règlementairement bénéficier d'une consultation d'anesthésie, d'une visite préanesthésique, d'une prise en charge anesthésique répondant aux bonnes pratiques, et d'une surveillance post-interventionnelle. L'ensemble de ces points d'« étapes » garantit la sécurité de la prise en charge du patient [6].
+
+La première particularité de l'ambulatoire est la modification du statut du patient qui est acteur et responsable de sa prise en charge aussi bien pour la préparation préopératoire que pour sa réhabilitation postopératoire.
+
+La deuxième particularité de l'ambulatoire est l'organisation de la structure (UCA) qui peut être très différente d'une unité à l'autre. Cette organisation couvre le temps avant l'intervention qui anticipe, vérifie, programme et informe ; le temps de l'hospitalisation, le plus souvent assez court ; le temps après l'intervention, qui assure continuité des soins et retour d'information.
+
+##### 1) La consultation d'anesthésie
+
+La consultation d'anesthésie mentionnée dans l'article D. 712-40 du Décret n° 94-1050 du 5 décembre 1994<sup>10</sup> doit avoir lieu plusieurs jours (au minimum 2 jours en dehors des urgences) avant l'intervention. Cette consultation est faite
+
+par un médecin anesthésiste-réanimateur. Il est recommandé que cet anesthésiste-réanimateur ait l'expérience de l'organisation de la prise en charge en ambulatoire [6].
+
+En cas d'éloignement géographique, la consultation pré-anesthésique peut être réalisée dans un autre établissement sous réserve d'un accord entre les médecins anesthésistes-réanimateurs concernés et le patient [219]. Dans l'avenir, il est envisageable que des téléconsultations puissent être réalisées dans certaines situations, selon les conditions mentionnées par le décret d'application 2010-1229 de la loi HPST. La présence au domicile du patient d'un médecin durant cette téléconsultation pourra être recommandée.
+
+Pour des anesthésies itératives et rapprochées, la réalisation d'une seule consultation d'anesthésie peut s'envisager sous conditions que le délai ne dépasse pas 2 mois, qu'il n'y ait pas d'événements médicaux significatifs intercurrents, que cette pratique fasse l'objet d'un consensus dans l'équipe médicale et que le patient soit d'accord. Il est recommandé d'avoir un contact téléphonique avec le patient ou son entourage proche afin de juger des modifications éventuelles de l'état de santé et des traitements, et de la nécessité ou non d'une nouvelle consultation.
+
+La consultation préanesthésique est le moment où :
+
+- • est choisie la technique d'anesthésie en fonction du patient, de l'acte et de l'organisation mise en place ;
+- • est validé ou non le choix par l'opérateur du mode de prise en charge ambulatoire ;
+- • le patient est informé de l'ensemble de ces décisions et des consignes spécifiques à l'anesthésie ambulatoire.
+
+L'avis d'éligibilité du patient pour une procédure ambulatoire doit être mentionné spécifiquement dans le dossier d'anesthésie [4].
+
+##### 2) La visite préanesthésique
+
+La visite préanesthésique est obligatoire. Elle doit être réalisée par un médecin anesthésiste-réanimateur. En ambulatoire, la visite préanesthésique est réalisée à l'arrivée du patient.
+
+Ses objectifs sont :
+
+- • de vérifier l'absence de modification de l'état du patient depuis la consultation préanesthésique ;
+- • de prendre connaissance des résultats d'éventuelles investigations complémentaires ;
+- • de vérifier le respect des consignes préopératoires (jeûne, gestion des traitements personnels) ;
+- • de répondre aux interrogations du patients ;
+- • de recueillir son consentement éclairé.
+
+Elle revêt une importance particulière en cas de consultation délocalisée ou itérative.
+
+Il est donc nécessaire de s'organiser pour permettre la réalisation de la visite préanesthésique en tenant compte des contraintes de temps et de flux, et de la prémédication éventuelle du patient. Sa réalisation peut être facilitée par la mise à disposition d'informations recueillies au préalable : informations fournies (check-list) lors de l'appel réalisé la veille de l'hospitalisation, contrôles (check-list associant contrôle préanesthésique, identitovigilance, latéralité, voire marquage) réalisés à l'accueil par le personnel de l'unité, etc.
+
+La visite préanesthésique doit être tracée dans le dossier d'anesthésie [220].
+
+10. Décret n° 94-1050 du 5 décembre 1994 relatif aux conditions techniques de fonctionnement des établissements de santé en ce qui concerne la pratique de l'anesthésie et modifiant le Code de la santé publique.### 3) *Sélection, éligibilité des patients*
+
+Les critères de sélection des patients pour la chirurgie ambulatoire sont classiquement d'ordres médicaux, anesthésiques, chirurgicaux, sociaux et environnementaux. Ils ont été considérablement élargis durant la dernière décennie grâce aux progrès réalisés dans la prise en charge anesthésique et chirurgicale [2,6]. Les contre-indications anesthésiques à la prise en charge ambulatoire sont devenues exceptionnelles.
+
+La sélection des patients se fait par l'analyse de la balance bénéfice/risque en fonction :
+
+- • du patient et de ses comorbidités ;
+- • de l'acte prévu, de ses risques propres et des risques de décompensation de pathologies associées ;
+- • de critères propres à chaque structure : expertise anesthésique et chirurgicale, possibilité de surveillance prolongée, continuité des soins, etc.
+
+Il est recommandé que la liste des actes ambulatoires pratiqués soit définie établissement par établissement, validée entre équipes chirurgicales et anesthésiques, en tenant compte de l'expérience des praticiens et de facteurs organisationnels locaux.
+
+Les critères de sélection des patients pour l'anesthésie ambulatoire sont bien définis [6] :
+
+- • les patients ASA I, II ou III stabilisé, il est nécessaire d'évaluer les risques de décompensation d'une comorbidité en fonction du geste réalisé, mais également de prendre en compte les bénéfices et les risques d'une hospitalisation pour le patient ;
+- • la prise en charge ambulatoire est particulièrement adaptée à la population pédiatrique du fait d'une réduction de la séparation du milieu familial et de la dédramatisation de l'acte chirurgical. La limite inférieure de prise en charge chez l'enfant est classiquement située à 6 mois mais peut être ramenée à 1 mois dans certains centres spécialisés [221]. Le risque d'apnée postanesthésique doit faire contre-indiquer la prise en charge ambulatoire pour les prématurés ou anciens prématurés n'ayant pas atteint l'âge de 60 semaines postgestationnelles ;
+- • le grand âge n'est plus une contre-indication à l'ambulatory [26]. On considère même actuellement qu'il s'agit plutôt d'une bonne indication du fait de la diminution des risques liés à l'alitement prolongé et aux perturbations environnementales notamment pour ce qui concerne la survenue de dysfonctions cognitives postopératoires [27] ;
+- • il est possible de réaliser des actes en urgence en ambulatoire dès lors que leurs caractéristiques le permettent, qu'une organisation spécifique a été mise en place (incluant le service d'accueil des urgences et le service de chirurgie), et à la condition que ce ne soit pas un facteur de dysfonctionnement pour le secteur ambulatoire ;
+- • pour le trajet de retour, il est indispensable que le patient soit accompagné par un tiers. L'accompagnant a pour mission d'accompagner le patient opéré jusqu'à l'intérieur de son domicile et de s'assurer de la possibilité d'un contact téléphonique fonctionnel au domicile. Pour les enfants de moins de 10 ans, il est recommandé qu'il y ait deux accompagnateurs (un des deux ne conduisant pas le véhicule) ;
+- • le lieu de résidence postopératoire doit permettre d'assurer la permanence et la continuité des soins. Le domicile doit offrir des conditions de convalescence postopératoire immédiates satisfaisantes. L'hygiène, le
+
+repos, l'aide et l'existence d'addictions (drogue, alcool) sont des éléments à prendre en compte pour l'éligibilité des patients ;
+
+- • le patient doit être en capacité de joindre un médecin durant la période postopératoire. Il est nécessaire que le patient possède un téléphone et qu'il soit en possession des numéros de recours ;
+- • un accès rapide à une structure au sein de laquelle il peut être pris en charge doit être envisagé ; soit la structure où a été réalisé l'acte, soit une autre structure. Il est alors nécessaire d'organiser le « relais » afin d'assurer la continuité de la prise en charge (convention entre établissement, transmission des informations, etc.) ;
+- • le médecin traitant figure comme un maillon important de cette prise en charge. Son action au sein de l'organisation doit donc être pensée dès le premier contact avec le patient ; la date, le geste prévu, la technique d'anesthésie, les protocoles (douleur postopératoire, nausées, vomissements, etc.) et les procédures (pansement, arrêt de travail, consultation postopératoire, suivis postopératoires, indicateur qualité, numéro de téléphone de recours, etc.) doivent lui être transmis ;
+- • à domicile, la présence d'un accompagnant restant auprès du patient durant la première nuit est généralement recommandée. En fonction du triptyque patient-acte-organisation, cette recommandation peut être contournée (par exemple : acte chirurgical mineur avec risques postopératoires très faibles sous anesthésie locale ou locorégionale). Dans ce cas, la compréhension des consignes de sécurité et les possibilités de joindre la structure doivent être particulièrement vérifiées. Le patient doit comprendre et s'approprier l'ensemble des consignes qui lui est fourni. L'aide d'un tiers (famille, entourage, traducteur) peut être nécessaire.
+
+### 4) *Information des patients*
+
+Le patient bénéficie lors des consultations préopératoires (opérateur, infirmier, anesthésiste, etc.) de toutes les informations nécessaires au choix de la stratégie de prise en charge choisie, de ses bénéfices et de ses risques. Les informations délivrées en période postopératoire peuvent être mal intégrées par les patients du fait des effets résiduels des agents anesthésiques.
+
+La prise en charge ambulatoire nécessite que le patient soit spécifiquement informé :
+
+- • de la nécessité d'un accompagnant pour le retour à domicile ;
+- • des règles de jeûne ;
+- • de l'interdiction de la conduite de tout véhicule pendant les 12 premières heures du fait de l'anesthésie. La reprise de la conduite de tout véhicule sera autorisée en fonction du handicap lié à l'acte ;
+- • des effets majeurs de la chirurgie et de l'anesthésie générale ou locorégionale et de la sédation, ainsi que des traitements prescrits en périopératoire (anxiolytiques, antalgiques majeures) sur les fonctions cognitives et sur la vigilance pendant les 12 premières heures.
+- • des modalités de prise en charge de la douleur à domicile.
+
+Les informations délivrées par le chirurgien, l'anesthésiste et le personnel sont d'autant mieux perçues et comprises qu'elles sont répétées et non contradictoires.## 5) *Prémédication*
+
+L'anxiété du patient vis-à-vis d'un acte chirurgical est légitime et naturelle. Elle est fonction du terrain et peut être évaluée en consultation d'anesthésie. L'anxiété peut être diminuée par des explications, une écoute et une prise en charge adaptée (consultation ou visite préopératoire de l'UCA, etc.).
+
+La prémédication ne doit pas être systématique. Elle peut être source d'effets iatrogènes et majorer le risque d'hospitalisation. Il est notamment recommandé d'éviter les benzodiazépines en préopératoire, car elles peuvent augmenter l'incidence des troubles du comportement postopératoire, en particulier chez le sujet âgé.
+
+Les contrôles préopératoires (check-list, côté à opérer) doivent être réalisés chez un patient non prémédié.
+
+Il est nécessaire d'avertir l'opérateur de la molécule choisie qui peut interdire toute information postopératoire (amnésie antérograde du midazolam par exemple et résultat d'exploration chirurgicale, cœlioscopique ou endoscopique).
+
+### 4.3.2. Technique anesthésique
+
+#### 1) *Généralités*
+
+Il n'existe pas de stratégie spécifique à la prise en charge anesthésique générale ambulatoire.
+
+La technique d'anesthésie est choisie en fonction du triptyque patient-acte-organisation mis en place. L'ensemble des médicaments d'anesthésie, hypnotiques, morphiniques et curares peut être utilisé. Il est raisonnable de privilégier en fonction du patient et de l'acte réalisé les agents à durée de vie courte et à effets secondaires réduits, en particulier les médicaments les moins pourvoyeurs de nausées et de vomissements postopératoires (NVPO), pour faciliter l'organisation du mode de prise en charge ambulatoire.
+
+L'anesthésie/analgésie locorégionale est particulièrement bien adaptée à l'ambulatoire car elle permet un contrôle optimal de la douleur, évite le recours aux antalgiques morphiniques et raccourcit le délai d'aptitude au retour à domicile [177].
+
+L'anesthésie locale seule (pratiquée par le chirurgien) ou associée à une sédation (pratiquée par le médecin anesthésiste-réanimateur) est à privilégier chaque fois que cela est compatible avec le type de chirurgie et le patient.
+
+#### 2) *Spécificités de l'anesthésie en urologie ambulatoire*
+
+La chirurgie urologique regroupe un grand nombre d'actes qui peuvent être réalisés par des voies d'abord variées (endoscopies, biopsies transrectales, laparotomie, chirurgie périnéale, etc.) et sous anesthésie de différents types.
+
+Un grand nombre d'actes pratiqués en urologie ambulatoire, notamment endoscopiques, sont préférentiellement réalisés sous sédation/anesthésie générale et se prêtent mal à l'anesthésie locorégionale. En cas de pose de sondes urétérales, les douleurs postopératoires peuvent être importantes et justifier une prise en charge analgésique spécifique. Dans le cas d'une anesthésie générale avec curarisation, l'antagonisation utilisant un mélange atropine/néostigmine doit être évitée afin de réduire le risque de rétention urinaire et de NVPO.
+
+L'alternative envisageable est d'utiliser le sugammadex après curarisation au rocuronium.
+
+Les blocs nerveux analgésiques doivent être recommandés. Pour toute la chirurgie du pénis et des bourses, les blocs péniens - ilio-inguinaux - génitofémoraux ainsi que les infiltrations cicatricielles avec des anesthésiques locaux de longue durée d'action doivent être envisagés [222].
+
+La chirurgie de l'incontinence urinaire par bandelette sous-urétrale pose un problème particulier compte tenu du risque important de rétention urinaire postopératoire dont l'origine peut être multiple. Dans ce cas, la technique anesthésique devra être adaptée afin de limiter l'impact de l'anesthésie sur cette complication. Actuellement, la technique qui semble la plus adaptée combine l'anesthésie locale chirurgicale avec une sédation [223,224].
+
+L'anesthésie générale/sédation est la technique la mieux adaptée à la chirurgie endoscopique du haut appareil urinaire, compte tenu du risque de douleurs viscérales à des niveaux métamériques élevés. De plus, l'immobilité du rein est parfois requise pour la réalisation du geste, ce qui nécessite de courtes périodes d'apnée et est par conséquent plus simple à réaliser sous anesthésie générale.
+
+La rachianesthésie peut être réalisée en urologie ambulatoire, principalement pour les actes portant sur le bas appareil urinaire et les organes génitaux [225]. La rachianesthésie augmente significativement le risque de rétention urinaire, en particulier chez le sujet à risques, ce qui doit faire privilégier l'utilisation de molécules à courte durée d'action et aux plus faibles doses possibles en association avec des adjuvants. La mise à disposition récente d'anesthésiques locaux de courte durée d'action pouvant être administrés en rachianesthésie (chloroprocaine, etc.) devrait représenter une solution efficace [226]. La rachianesthésie unilatérale minimise le risque de rétention urinaire [227].
+
+#### 3) *Problématique de l'hydratation péri-opératoire*
+
+La recommandation du jeûne à partir de minuit se traduit souvent par l'arrêt des boissons au repas du soir la veille de l'intervention. Les programmes opératoires se terminant de plus en plus tard, il n'est pas rare de prendre en charge des patients déshydratés par un jeûne préopératoire de plus de 16 heures.
+
+Or, un jeûne prolongé peut avoir plusieurs conséquences au cours de l'anesthésie :
+
+- • le déficit hydrique induit par le jeûne préopératoire peut retentir sur l'équilibre hémodynamique lors de l'induction anesthésique chez les patients ayant les réserves les plus limitées ;
+- • le défaut prolongé d'apport en glucose entraîne une déplétion des stocks de glucose de l'organisme ;
+- • même de faibles périodes de jeûne entraînent une perte azotée supérieure en situation de stress ;
+- • l'ensemble des publications comparant les sensations subjectives avant une anesthésie rapporte une sensation de faim et de soif dépendante de la durée de jeûne tant chez l'adulte que chez l'enfant. L'administration de liquides clairs permet de réduire la sensation de soif et l'anxiété chez environ 25 % des sujets ;
+- • la déshydratation augmente le risque de NVPO [228] ;
+- • sur le plan urologique : le jeûne prolongé va entraîner une déshydratation, source d'oligurie ; les gestes urologiquesendoscopiques (haut et bas appareils) sont à l'origine de traumatisme et d'hématurie ; l'oligurie augmente le risque de caillotage source de douleur et de dysurie, d'inconfort pour le patient qui sera davantage inquieté par des urines hématuriques ou sanglantes. L'oligurie est, par ce biais, source de rétention d'urines postopératoire chez un patient sondé ou non sondé. À l'inverse, une diurèse abondante permet d'éclaircir les urines, d'éviter les sondes bouchées, facilite la surveillance de la reprise des mictions et rassure le patient.
+
+Afin d'éviter toute hypovolémie, il est tout d'abord recommandé d'appliquer les recommandations internationales communément admises concernant le jeûne préopératoire [229] :
+
+- • la prise orale de liquides clairs ne modifie pas la vidange gastrique préopératoire et la totalité des patients (dénusés de pathologie ou de traitement affectant la vidange gastrique) ont l'estomac vide 2 heures après une prise liquidienne *ad libitum* ;
+- • en chirurgie urologique, il est recommandé d'hydrater au mieux les patients par des liquides clairs et sucrés jusqu'à 2 heures avant l'intervention. Dans certains cas, il peut être légitime d'administrer un apport volémique complémentaire par voie intraveineuse, sous forme de solutions cristalloïdes, afin d'obtenir une diurèse postopératoire plus importante. Chez le patient à risque, ce remplissage vasculaire augmente significativement le risque de rétention urinaire.
+
+#### 4.3.3. La surveillance postinterventionnelle
+
+La surveillance postinterventionnelle débute dans la salle d'opération dès la fin de l'acte opératoire et se poursuit en salle de surveillance postinterventionnelle (SSPI).
+
+Le passage en SSPI après une anesthésie, c'est-à-dire un acte d'anesthésie réalisé par un anesthésiste-réanimateur, est une obligation légale<sup>11</sup>. Ne sortent du champ d'application de ce décret que les actes réalisés hors de la présence d'un anesthésiste (mais qui peuvent toutefois nécessiter dans certains cas une surveillance adaptée en SSPI).
+
+La SSPI répond à des impératifs réglementaires d'équipements et de personnels<sup>12</sup>. Pour ce qui concerne l'activité ambulatoire, les modalités de surveillance en SSPI doivent être adaptées aux patients et à la chirurgie. La durée de séjour doit être limitée au strict nécessaire. Il n'existe pas de durée minimale de séjour en SSPI. Cependant, une durée minimale de surveillance postopératoire (deux phases additionnées : SSPI + salle de repos) peut être prédéterminée par concertation opérateur/anesthésiste pour chaque acte dans une structure déterminée.
+
+Dans le cas d'une SSPI non spécifiquement dédiée à l'ambulatoire, il est conseillé de formaliser un parcours spé-
+
+cifiquement dédié (localisation/dossiers distincts/personnel spécifiquement formé, etc.).
+
+La sortie de SSPI après un acte ambulatoire doit reposer sur une évaluation rapprochée et répétée de critères objectifs rassemblés dans un score spécifique. Le score le plus communément utilisé est le PADSS, c'est-à-dire le *post-anesthesia discharge scoring system*, décrit par F. Chung en 1995 [230]. Ce score présente l'intérêt de pouvoir s'appliquer à tous les patients, quels que soient l'intervention et le type d'anesthésie. Il est par ailleurs facile à mettre en œuvre en routine.
+
+L'autorisation de sortie de SSPI et les critères d'aptitude au retour à domicile peuvent être délégués selon une procédure validée, objective et acceptée par l'ensemble de l'équipe. Ceci permet au patient de limiter ses temps d'attente, rend les équipes soignantes autonomes, facilite l'organisation du planning opératoire et améliore le flux patient.
+
+#### 4.3.4. Les suites postopératoires
+
+En dehors des complications chirurgicales, les NVPO, la douleur et les troubles mictionnels sont les principaux symptômes ressentis par les patients après la sortie de l'unité ambulatoire [231].
+
+Il est recommandé de mettre en place un programme d'assurance qualité permettant de suivre ces paramètres et d'adopter des mesures correctrices éventuelles.
+
+##### 1) Nausées vomissements postopératoires (NVPO)
+
+Les NVPO surviennent le plus souvent dès le réveil, mais ils peuvent survenir après le retour à domicile jusqu'au 5<sup>e</sup> jour postopératoire [232]. Les NVPO font partie des causes identifiées de prolongation de la durée de séjour, de réadmission en urgence après chirurgie ambulatoire et d'insatisfaction des patients, ce qui justifie l'attention portée à leur prévention et leur traitement.
+
+Les facteurs de risque les plus souvent retrouvés sont le sexe féminin, le jeune âge, l'obésité, les antécédents de NVPO et de mal des transports. L'anxiété préopératoire, la déshydratation liée au jeûne préopératoire et la douleur postopératoire représentent des facteurs favorisants, tandis que l'éthylisme et le tabagisme seraient protecteurs. Les procédures chirurgicales prédisposantes dans le contexte ambulatoire comprennent principalement la cœlioscopie, les lithotripsies, et les chirurgies gynécologique, ophtalmologique et orthopédique.
+
+Les médicaments utilisés en périopératoire sont également impliqués dans la survenue des NVPO : les médicaments d'anesthésie ; le protoxyde d'azote et l'utilisation de morphinique en postopératoire. Ces facteurs de risques ont été rassemblés dans plusieurs scores prédictifs de survenue de NVPO, dont le plus reconnu est le score d'Apfel [233].
+
+Il est désormais parfaitement démontré que la survenue de NVPO durant le réveil est associée à un risque important de NVPO après retour à domicile [234].
+
+Les recommandations de la SFAR concernant la prise en charge des NVPO consacrent un chapitre aux problèmes particuliers des NVPO en chirurgie ambulatoire [235]. Il n'y a pas de stratégie spécifique de la chirurgie ambulatoire pour la prise en charge des NVPO au cours de l'hospitalisation ou après la sortie du patient. Il s'agit d'adopter une stratégie
+
+11. Article D. 6124-97 du Code de la santé publique.
+
+12. Décret n° 94-1050 du 5 décembre 1994 relatif aux conditions techniques de fonctionnement des établissements de santé en ce qui concerne la pratique de l'anesthésie et modifiant le code de la santé publique.antiémétique prophylactique multimodale chez les patients ambulatoires identifiés à haut risque de NVPO. L'utilisation d'algorithmes améliore la prise en charge antiémétique sans qu'il existe de preuve de la supériorité d'un algorithme par rapport aux autres. Le facteur le plus important dans un algorithme est le nombre d'antiémétiques administrés.
+
+La SFAR recommande :
+
+- • de diminuer systématiquement le risque de base pour tous les patients : par la prise en charge efficace de la douleur postopératoire selon une approche multimodale permettant de diminuer l'utilisation des analgésiques morphiniques ; par une hydratation intraveineuse suffisante et un jeûne préopératoire limité à 2 heures pour les « liquides clairs » ; par l'emploi de techniques d'anesthésie les moins émétisantes possibles (anesthésie locorégionale, éviction des halogénés du protoxyde d'azote, minimisation de l'emploi des opiacés) ;
+- • les patients à risques doivent bénéficier d'une approche multimodale de prévention des NVPO. Une combinaison d'au moins deux agents antiémétiques doit être utilisée. Le traitement antiémétique doit couvrir toute la période postopératoire (avant et après la sortie), en prévoyant un traitement de recours en cas d'échec du premier choix thérapeutique.
+
+La SFAR recommande également de mettre en place une évaluation de la qualité de la stratégie adoptée. Les indicateurs de suivi recommandés sont :
+
+- • la sortie retardée du patient liée à la survenue de NVPO ;
+- • le transfert en hospitalisation pour le traitement de NVPO ;
+- • le retour imprévu du patient au sein de l'établissement motivé par la survenue de NVPO après la sortie ;
+- • l'évaluation de la satisfaction du patient.
+
+Les médicaments validés en prophylaxie des NVPO chez les patients à risque sont :
+
+- • la dexaméthasone avec une dose recommandée comprise entre 4 et 8 mg. Elle doit être administrée à l'induction de l'anesthésie [236] ;
+- • le dropéridol à une dose recommandée comprise entre 0,625 et 1,25 mg ;
+- • les AR-THT3 sont administrés le plus souvent en fin d'intervention. Ils peuvent être utilisés en préventif ou en curatif. Les doses recommandées sont : 4 mg pour l'ondansétron, 12,5 mg pour le dolasétron, 0,1 mg pour le granisétron et 0,5 mg pour le tropisétron ;
+- • les antagonistes NK-1 (aprépitant) à la dose de 80 mg administrés par voie orale.
+
+Chez les patients à risque élevé, l'association de dexaméthasone au dropéridol est recommandée. Elle est plus efficace que les produits utilisés seuls.
+
+Les médicaments validés dans le traitement curatif des NVPO sont :
+
+- • les AR-THT3 et le dropéridol peuvent être utilisés ;
+- • la dexaméthasone ne doit pas être utilisée seule.
+
+## 2) Douleur postopératoire (DPO)
+
+La DPO est l'une des principales causes d'admission non programmée et d'insatisfaction des patients en chirurgie ambulatoire [237]. Une politique de prise en charge des DPO
+
+doit être développée au sein des structures réalisant de la chirurgie ambulatoire [146].
+
+Les recommandations émises par la SFAR préconisent :
+
+- • que, dès la phase préopératoire (consultations chirurgicale et anesthésique), le patient soit informé des éléments prédictifs de la DPO : son intensité, ses caractéristiques, les modalités de la prise en charge. Cette information doit être orale et peut être associée à un support écrit. Une trace de cette information doit rester dans le dossier ;
+- • que l'ordonnance d'antalgiques postopératoires soit remise au patient dès la consultation de chirurgie ou d'anesthésie. Elle précisera les horaires de prise d'antalgiques systématiques et les conditions de recours aux antalgiques de niveau plus élevé si nécessaire ;
+- • que les premières prises d'antalgiques *per os* soient faites au sein de la structure ambulatoire afin d'en évaluer l'efficacité et d'en détecter les éventuels effets secondaires ;
+- • de mettre en place une évaluation de cette politique de prise en charge des DPO, au sein de la structure mais également lors du domicile. Par exemple, il peut être demandé au patient de noter l'intensité de sa douleur et des effets secondaires et de les transmettre à la structure ambulatoire lors « des contacts » durant la période postopératoire : lors de l'appel téléphonique du lendemain, lors d'une consultation avec son médecin traitant (questionnaire à compléter et à faxer), ou lors de sa consultation chirurgicale postopératoire, selon l'organisation mise en place au sein de la structure ambulatoire ;
+- • l'évaluation de l'intensité de la douleur doit être réalisée à l'aide d'une échelle numérique ou verbale, en préopératoire, en SSPI et régulièrement en postopératoire, au repos, au mouvement et après traitement. Cette évaluation sera tracée dans le dossier ;
+- • l'usage d'antalgiques morphiniques doit être évité le plus possible. Pour ceci, il conviendra de mettre en place une stratégie multimodale incluant l'analgésie locorégionale pour tous les patients ;
+- • la prise en charge de la douleur multimodale associe plusieurs antalgiques médicamenteux : les médicaments antalgiques de palier I et II recommandés pour une chirurgie à douleur faible ou modérée sont le paracétamol et les anti-inflammatoires non-stéroïdiens (AINS). Les dérivés morphiniques faibles (tramadol et codéine) peuvent être indiqués. Cependant, l'efficacité de ces molécules (codéine et tramadol) est imprévisible du fait de variations métaboliques d'ordre génétique. De plus, à activité analgésique équivalente, ils ne réduisent pas l'incidence d'effets indésirables par rapport à la morphine. En cas de douleur prévisible sévère, les morphiniques de paliers III par voie orale peuvent être indiqués. L'oxycodone peut être utilisée en raison d'une cinétique intéressante dans ce contexte, une excellente biodisponibilité avec une faible incidence d'effets indésirables [238]. Il n'y a pas lieu d'utiliser la voie intraveineuse ou sous-cutanée si l'administration *per os* est possible. Les AINS sont particulièrement intéressants en urologie. Ils doivent être utilisés préférentiellement, en tenant compte des contre-indications et précautions d'emploi (âge, fonction rénale) ;
+- • de faire bénéficier les patients d'une technique d'analgésie locorégionale : infiltration cicatricielle ou bloc nerveux antalgique en utilisant un anesthésique à longue durée d'action. Les infiltrations de la cicatrice,des incisions de trocarts associées à l'instillation intrapéritonéale pour les cœlioscopies permettent une diminution de l'intensité des douleurs et de la consommation de morphine [239]. La réalisation d'un bloc de la gaine des grands droits pour les laparotomies, d'un TAP bloc pour les lombotomies, d'une infiltration des plans profonds ou d'un bloc ilio inguinal pour les cicatrices sus-pubiennes a montré un bénéfice pour la prise en charge de la douleur [222] ;
+
+- • l'incidence des DPO et de la survenue des effets secondaires doit être évaluée tout au long de la prise en charge du patient. Après la sortie du patient, il est utile de réaliser des enquêtes-patients pour évaluer la qualité des protocoles utilisés.
+
+### 3) *L'alimentation*
+
+L'ensemble de la littérature montre qu'il n'y a pas lieu d'exiger une réalimentation liquide ou solide avant la sortie du patient. En pédiatrie, les enfants « buveurs forcés » avaient plus de NVPO que dans le groupe « buveurs libres » [240]. Chez l'adulte, la prise ou non de boissons ne modifie ni le risque de survenue de NVPO, ni la durée de séjour en unité ambulatoire [241]. Le patient doit donc être libre de reprendre son alimentation liquide ou solide avant la sortie.
+
+### 4) *La miction*
+
+Le risque rétentionnel fait l'objet d'un chapitre particulier. L'obtention d'une miction ou à l'inverse le contrôle du résidu post-mictionnel ne sont pas systématiques et doivent être envisagés en fonction des risques de rétention urinaire auxquels les patients sont exposés.
+
+## 4.3.5. Organiser la sortie
+
+L'ensemble des modalités de sortie doit être formalisé, décrit dans la charte de fonctionnement de l'unité ambulatoire et validé par l'ensemble des intervenants.
+
+Chacun des acteurs médicaux et non médicaux doit participer à la validation de la sortie du patient (validation de score, émission des documents à remettre aux patients, validation administrative, remise des documents aux patients, etc.).
+
+### 1) *Qui signe le bulletin de sortie ?*
+
+L'autorisation de sortie est une décision médicale, et nécessite la signature d'un bulletin de sortie par l'un des médecins
+
+de la structure<sup>13</sup>. Lors d'une prise en charge anesthésique, seul l'anesthésiste peut autoriser le départ pour ce qui concerne les suites anesthésiques. Si l'anesthésiste n'a pas participé à l'acte (anesthésie locale sans sédation), il n'est pas concerné par l'autorisation de sortie.
+
+Sous l'angle de la responsabilité professionnelle, chaque praticien est responsable de ses propres actes<sup>14</sup>. Cependant, la signature des deux praticiens, anesthésiste et chirurgien, n'est pas forcément nécessaire [2, 242]. Pour des raisons organisationnelles, et sous couvert d'une procédure validée, une délégation est possible. Le non signataire ne peut toutefois s'affranchir de sa propre responsabilité. Sans un protocole spécifiant le contraire et avec l'accord de chaque praticien, la décision de sortie relève de celui qui a fait l'acte dans la spécialité le concernant. Quelle que soit l'organisation mise en place, il est indispensable d'en décrire clairement les modalités au sein de la charte de fonctionnement de l'unité.
+
+### 2) *Le dossier de sortie*
+
+Le patient doit réglementairement être en possession du bulletin de sortie lors de son retour à domicile. Afin de faciliter la communication avec les différents acteurs, il est utile de lui remettre l'ensemble des informations utiles à la permanence des soins : les comptes-rendus, les ordonnances, les numéros de téléphone de recours ; le rendez-vous de consultation chirurgicale postopératoire ; des documents administratifs le cas échéant : arrêt de travail, bon de transport, etc. Un courrier pour le médecin traitant peut être remis au patient.
+
+Sous réserve d'autorisation auprès de la Commission nationale de l'informatique et des libertés (CNIL) et de sécuriser la transmission, l'utilisation de la messagerie sécurisée pourrait être une bonne réponse à cet impératif d'information en temps réel de la médecine de ville [243]. De nombreuses unités de chirurgie ambulatoire mettent en place un site internet avec accès sécurisé qui permet de faire le lien avec la médecine de ville. Le patient et son médecin généraliste peuvent ainsi accéder au site et prendre connaissance des comptes-rendus opératoires et anesthésiques, de recommandations habituelles ainsi que d'ordonnances postopératoires pour le geste réalisé.
+
+13. Article D. 6124-304 du Code de la santé publique
+
+14. Article D. 6124-304 du Code de la santé publique.#### 4.4. Annexe 4 : Score de Chung (Modified PaDSS)
+
+Un score de 9 ou 10 est compatible avec la sortie.
+
+<table border="1">
+<thead>
+<tr>
+<th>Paramètres</th>
+<th>Modalités</th>
+<th>Points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Constantes vitales<br/>(température,<br/>puls, respiration)</td>
+<td>Variation &lt; 20 %<br/>par rapport aux valeurs<br/>préopératoires</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Variation comprise<br/>entre 20 et 40 %</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Variation &gt; 40 %</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">Déambulation</td>
+<td>Démarche assurée,<br/>sans vertige</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Marche possible<br/>avec assistance</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Démarche non assurée,<br/>vertiges</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">Nausées et/ou<br/>vomissements</td>
+<td>Minimes</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Modérés</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Sévères</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">Douleurs</td>
+<td>Minimes</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Modérés</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Sévères</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">Saignement<br/>chirurgical</td>
+<td>Minimes</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Modérés</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Sévères</td>
+<td>0</td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td></td>
+<td><b>10</b></td>
+</tr>
+</tbody>
+</table>
+
+D'après Chung [22].
+
+#### 4.5. Annexe 5 : Fiche de liaison avec le cardiologue
+
+<table border="1">
+<tr>
+<td>Etiquette du patient :</td>
+<td>Coordonnées du patient :</td>
+</tr>
+<tr>
+<td>Date de demande :</td>
+<td></td>
+</tr>
+<tr>
+<td>Nom et téléphone de l'anesthésiste :</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Atcd cardiaques connus (préciser et joindre les compte-rendus, cardiologue traitant) :</td>
+</tr>
+<tr>
+<td colspan="2">
+<ul>
+<li>Coronaires :</li>
+<li>Autres : RA, autres valves, HTA, FA, atcd vasculaires...</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2">Présence d'un stent coronaire : Oui <input type="checkbox"/> Non <input type="checkbox"/> si oui, détails (type, date, actif ?, correspondant)</td>
+</tr>
+<tr>
+<td>Interrogatoire :</td>
+<td>
+        Angor : Non <input type="checkbox"/> Oui <input type="checkbox"/> Possible <input type="checkbox"/><br/>
+        Dyspnée : Non <input type="checkbox"/> Oui, Stade NYHA : 1 2 3 4<br/>
+        Capacité à l'effort : (le patient peut-il monter 2 étages ?)
+      </td>
+</tr>
+<tr>
+<td>Examen clinique :</td>
+<td>FC TA Autre information utile :</td>
+</tr>
+<tr>
+<td colspan="2">ECG (à joindre) :</td>
+</tr>
+<tr>
+<td>Type d'intervention programmée :</td>
+<td>Date prévue :</td>
+</tr>
+<tr>
+<td colspan="2">Chirurgie risque : élevé <input type="checkbox"/> intermédiaire <input type="checkbox"/> faible <input type="checkbox"/></td>
+</tr>
+<tr>
+<td colspan="2">Motif de l'intervention (oncologie, hémorragie, menace vitale, fracture, fonctionnelle, etc..) :</td>
+</tr>
+<tr>
+<td colspan="2">La chirurgie peut elle être repoussée ? : Oui <input type="checkbox"/> Non <input type="checkbox"/></td>
+</tr>
+<tr>
+<td colspan="2">Traitement actuel (dont antiagrégants, bêta-bloquant, médicaments de l'IC, statines...):</td>
+</tr>
+<tr>
+<td colspan="2">Si traitement par antiplaquettaire, la chirurgie peut elle être réalisée sous aspirine et /ou clopidogrel ?</td>
+</tr>
+<tr>
+<td colspan="2">Score de risque (à remplir par l'anesthésiste):</td>
+</tr>
+<tr>
+<td colspan="2">
+<b>Score de Lee :</b><br/>
+        Chirurgie à haut risque <input type="checkbox"/><br/>
+        Cardiopathie ischémique <input type="checkbox"/><br/>
+        ATCD AVC/AIT <input type="checkbox"/><br/>
+        Diabète <input type="checkbox"/><br/>
+        ATCD IC congestive <input type="checkbox"/><br/>
+        I Rénales <input type="checkbox"/><br/>
+<b>Total:</b>
+</td>
+</tr>
+<tr>
+<td colspan="2">Motif spécifique de la demande :</td>
+</tr>
+<tr>
+<td colspan="2"><b>CONSULTATION DE CARDIOLOGIE (Joindre le compte-rendu)</b></td>
+</tr>
+<tr>
+<td>Nom du cardiologue :</td>
+<td>Coordonnées du cardiologue :</td>
+</tr>
+<tr>
+<td>Date de consultation :</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Des examens ont-ils été réalisés en consultation?</td>
+</tr>
+<tr>
+<td colspan="2">Des examens complémentaires sont-ils recommandés ?</td>
+</tr>
+<tr>
+<td colspan="2">
+        ECG d'effort :<br/>
+        Scintigraphie myocardique :<br/>
+        Echographie sous dobutamine :<br/>
+        Coronarographie :<br/>
+        Autres :
+      </td>
+</tr>
+<tr>
+<td colspan="2">Prévoir le dosage de la troponine I post-opératoire : Oui <input type="checkbox"/> Non <input type="checkbox"/></td>
+</tr>
+<tr>
+<td colspan="2">Recommandations thérapeutiques :</td>
+</tr>
+<tr>
+<td colspan="2">
+        Bêta_bloqueurs :<br/>
+        Statines :<br/>
+        Antiagrégants plaquettaires :<br/>
+        Autres :
+      </td>
+</tr>
+</table>**4.6. Annexe 6 : Recommandations de la SFAR et de la SFC sur la gestion périopératoire des antiagrégants et anticoagulants**
+
+- • La mise en place d'une endoprothèse recouverte dans les 12 mois précédents implique la poursuite de la double thérapie par AAP (GRADE 1 + Accord fort).
+- • La mise en place d'une endoprothèse nue implique une double antiagrégation pendant 4 à 6 semaines (GRADE 1 + Accord fort).
+- • La survenue d'un syndrome coronarien aigu implique si possible une double antiagrégation pendant 1 an. Dans le cas de risque hémorragique périopératoire élevé, l'interruption du clopidogrel avec la poursuite de l'aspirine peut être indiquée (GRADE 2 + Accord fort).
+- • En cas d'arrêt d'un AAP, il est recommandé de réaliser la chirurgie après 5 jours d'arrêt, de façon à réduire le risque hémorragique tout en limitant le risque thrombotique (maximal au-delà du 8<sup>e</sup> jour d'arrêt) (GRADE 1 + Accord faible).
+
+- • En cas de traitement par aspirine seule, il est recommandé de poursuivre le traitement, sauf en cas de contre-indication liée à un très haut risque hémorragique chirurgical (GRADE 1 + Accord fort).
+- • Si le patient reçoit du clopidogrel en monothérapie et que la chirurgie ne peut être réalisée sous ce médicament, il est recommandé de le remplacer par de l'aspirine, en l'absence de contre-indication (GRADE 1 + Accord fort).
+- • Si le patient est sous bithérapie par AAP, il est recommandé de conserver au moins un AAP, idéalement l'aspirine, sauf contre-indication liée à un risque hémorragique chirurgical (GRADE 1 + Accord fort).
+- • Il n'existe pas d'études démontrant un bénéfice de la prescription d'une héparine de bas poids moléculaire ou d'un antivitamine K en substitution de l'aspirine ou d'une thienopyridine pour diminuer le risque ischémique.
+- • Après la chirurgie, et en concertation avec le chirurgien, il est recommandé de faire une reprise précoce du traitement AAP s'il a été interrompu. Une dose de charge peut être indiquée en cas de risque thrombotique élevé (GRADE 2 + Accord fort).
+
+**4.7. Annexe 7 : Recommandations HAS concernant la gestion des antiagrégants plaquetaires avant chirurgie urologique endoscopique chez le coronarien**
+
+```
+
+graph TD
+    subgraph Title [Chirurgie et antiagrégants : algorithme décisionnel]
+    end
+    A[Patient sous aspirine] --> B[Prévention primaire]
+    A --> C[Prévention secondaire syndrome coronarien aigu, stent, AVC]
+    D[Patient sous aspirine T clopidogrel Plavix®] --> E[Patient à haut risque < 3 mois après infarctus, PCI < 3 mois après stent non-actif < 12 mois après stent actif DES]
+    D --> F[Patient à faible risque]
+    B --> G[Chirurgie intracrânienne ou rachidienne canal médullaire, chirurgie prostatique transuréthrale, chirurgie du segment postérieur de l'œil]
+    B --> H[Toute autre chirurgie]
+    C --> G
+    C --> H
+    E --> I[Chirurgie vitale uniquement]
+    E --> J[Chirurgie intracrânienne ou rachidienne canal médullaire, chirurgie prostatique transuréthrale, chirurgie du segment postérieur de l'œil***]
+    F --> J
+    F --> K[Toute autre chirurgie]
+    G --> L[Arrêt de l'aspirine 5 jours avant l'intervention]
+    H --> M[Poursuite du traitement antiagrégant en cours]
+    I --> M
+    J --> N[Arrêt du clopidogrel 5 jours avant. Poursuite de l'aspirine 100 mg/jour]
+    K --> N
+    
+```
+
+Modifié d'après Chassot et al., Br J Anesth 2007 (7)## 1 – ÉVALUER L'HÉMOSTASE ET INFORMER LE PATIENT
+
+- ■ L'interrogatoire ciblé est l'outil à privilégier pour évaluer le risque hémorragique avant un geste invasif.
+- ■ La performance des tests biologiques actuels est médiocre pour évaluer le risque hémorragique sous aspirine, clopidogrel ou prasugrel.
+- ■ Un bilan d'hémostase préopératoire systématique pour déterminer le risque hémorragique d'un patient sous aspirine, clopidogrel ou prasugrel n'est pas utile.
+- ■ Il est recommandé d'informer le patient sur les risques thrombotique et hémorragique, et de lui expliquer la stratégie thérapeutique envisagée.
+- ■ La présentation par le patient d'un document précisant sa pathologie coronaire, le type de stents utilisés et les traitements prescrits facilite l'évaluation et lui permet de participer à la décision.
+- ■ En raison de l'absence de démonstration de son efficacité, la transfusion prophylactique systématique de concentrés plaquettaires n'est pas recommandée.
+- ■ En cas de nécessité d'arrêt de tous les AAP, aucun relais par AINS ou HBPM n'est recommandé.
+
+### Traitement AAP recommandé chez le coronarien
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Type de traitement</th>
+<th>Durée</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coronaropathie</td>
+<td>Monothérapie : AAS ou clopidogrel</td>
+<td>Indéfiniment</td>
+</tr>
+<tr>
+<td>SCA</td>
+<td>AAS + clopidogrel</td>
+<td>≥ 12 mois, puis au cas par cas : poursuite ou monothérapie par AAS</td>
+</tr>
+<tr>
+<td>SCA dilaté</td>
+<td>AAS + prasugrel ou AAS + clopidogrel</td>
+<td>≥ 12 mois, puis au cas par cas : poursuite ou monothérapie par AAS</td>
+</tr>
+<tr>
+<td>Stent actif (hors SCA)</td>
+<td>AAS + clopidogrel</td>
+<td>≥ 6 à 12 mois, puis au cas par cas : poursuite ou monothérapie par AAS</td>
+</tr>
+<tr>
+<td>Stent nu (hors SCA)</td>
+<td>AAS + clopidogrel</td>
+<td>6 semaines, puis au cas par cas : poursuite ou monothérapie par AAS</td>
+</tr>
+</tbody>
+</table>
+
+## 2 - ÉVALUER LES RISQUES THROMBOTIQUE ET HÉMORRAGIQUE
+
+### 1. Évaluer le risque thrombotique
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Risque majeur</th>
+<th>Risque moindre<sup>#</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pose d'un stent nu*</td>
+<td>&lt; 6 semaines</td>
+<td>&gt; 6 semaines</td>
+</tr>
+<tr>
+<td>Pose d'un stent actif*</td>
+<td>Moins de 6 à 12 mois</td>
+<td>Au-delà de 6 à 12 mois</td>
+</tr>
+<tr>
+<td>Syndrome coronarien aigu (SCA) : STEMI ou NSTEMI</td>
+<td>&lt; 6 semaines</td>
+<td>De 6 semaines à 1 an</td>
+</tr>
+</tbody>
+</table>
+
+\* Le risque de thrombose est maximal dans les suites de la pose du stent.
+
+# Le coronarien simple (sans dilatation, sans stent) est considéré comme étant à risque moindre.
+
+#### Facteurs surajoutés transformant le risque moindre en risque majeur :
+
+##### Liés au terrain :
+
+- ■ contexte de l'angioplastie (SCA ou infarctus avec sus-décalage du segment ST),
+- ■ altération de la fonction ventriculaire gauche,
+- ■ diabète ; insuffisance rénale ; néoplasie évolutive,
+- ■ antécédent de thrombose de stent.
+
+##### Liés à la procédure :
+
+- ■ plusieurs vaisseaux stentés ; long segment stenté (50 mm), tronc commun,
+- ■ petit calibre du stent (2,5 mm) ; calcification ; stent sous-dimensionné,
+- ■ bifurcation ; utilisation de stent actif en dehors des indications reconnues ;
+- ■ pharmacogénétique : portage du variant CYP2C19\*2.
+
+■ **Le risque thrombotique majeur** nécessite une bithérapie par AAP : acide acétylsalicylique (AAS) : 75 mg/j + thiénopyridine (clopidogrel ou prasugrel ou ticagrélor) durant au moins 6 semaines pour les stents nus et 12 mois pour les stents actifs, puis à adapter au cas par cas.
+
+■ **Le risque thrombotique moindre** nécessite en principe une monothérapie par AAP à vie.## 2. Évaluer le risque hémorragique
+
+- ■ Risque hémorragique faible à modéré sans AAP :
+  - ▸ toute endoscopie diagnostique sans biopsies ;
+  - ▸ endoscopie thérapeutique à risque de saignement modéré ou contrôlable sous endoscopie.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Risque hémorragique sans AAP</th>
+<th rowspan="2">Acte endoscopique</th>
+<th colspan="2">Faisabilité</th>
+</tr>
+<tr>
+<th>sous AAS</th>
+<th>sous clopidogrel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="8">Risque faible à modéré</td>
+<td>Urétrhocystoscopie</td>
+<td rowspan="8">OUI</td>
+<td>OUI</td>
+</tr>
+<tr>
+<td>Uréthroscopie diagnostique +/- biopsie</td>
+<td rowspan="7">NON</td>
+</tr>
+<tr>
+<td>Uréthroscopie rigide + extraction (+/- fragmentation) de calcul</td>
+</tr>
+<tr>
+<td>Uréthroscopie souple + extraction (+/- fragmentation) de calcul</td>
+</tr>
+<tr>
+<td>Montée d'une endoprothèse urétérale (type sonde JJ)</td>
+</tr>
+<tr>
+<td>Dilatation urétérale +/- stent</td>
+</tr>
+<tr>
+<td>Biopsies prostatiques</td>
+</tr>
+<tr>
+<td>Urétrhotomie endoscopique</td>
+</tr>
+<tr>
+<td rowspan="3">Risque élevé</td>
+<td>Résection transurétrale de prostate</td>
+<td rowspan="3">OUI*</td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td>Résection transurétrale de vessie</td>
+</tr>
+<tr>
+<td>Biopsies de vessie</td>
+</tr>
+</tbody>
+</table>
+
+\*À discuter au cas par cas, en tenant compte de la balance bénéfice/risque (thrombotique et hémorragique) entre l'urologue, l'anesthésiste et/ou le cardialogue et en privilégiant les techniques alternatives utilisant le laser (HoLEP ou vaporisation) ou le courant bipolaire (résection ou vaporisation).
+
+## 3 - GESTION DES ENDOSCOPIES CHEZ LE CORONARIEN
+
+- ■ Il n'est pas recommandé de réaliser un geste invasif sous prasugrel ou ticagrélor.
+- ■ Une concertation pluridisciplinaire est nécessaire lors de la prise de décision, au moins entre le praticien qui réalise l'acte et ceux qui suivent le traitement de la coronaropathie.
+
+### Modalités d'interruption des AAP si l'arrêt est nécessaire
+
+<table border="1">
+<thead>
+<tr>
+<th>Traitement en cours</th>
+<th>Arrêt envisagé</th>
+<th>Délai entre l'arrêt et le geste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AAS</td>
+<td>AAS</td>
+<td>3 jours (si risque thrombotique majeur)<br/>à 5 jours</td>
+</tr>
+<tr>
+<td>Clopidogrel</td>
+<td>Clopidogrel</td>
+<td>5 jours</td>
+</tr>
+<tr>
+<td>AAS + clopidogrel</td>
+<td>Clopidogrel</td>
+<td>5 jours</td>
+</tr>
+<tr>
+<td>AAS + prasugrel</td>
+<td>Prasugrel</td>
+<td>7 jours</td>
+</tr>
+<tr>
+<td>AAS + ticagrélor</td>
+<td>Ticagrélor</td>
+<td>5 jours</td>
+</tr>
+</tbody>
+</table>Gestion des AAP selon l'acte endoscopique et le risque thrombotique coronarien
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Acte endoscopique</th>
+<th>Risque thrombotique majeur<br/>(bithérapie antiagrégante)</th>
+<th>Risque thrombotique mineur<br/>(monothérapie antiagrégante)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="8">Endoscopies à risque hémorragique faible à modéré</td>
+<td>Urétrhocystoscopie</td>
+<td>Maintien des AAP en cours</td>
+<td>Maintien de l'AAP en cours</td>
+</tr>
+<tr>
+<td>Urétéroscopie diagnostique +/- biopsie</td>
+<td rowspan="7">Différer l'endoscopie<br/><br/>OU<br/><br/>maintien du traitement par AAS et arrêt du clopidogrel 5 jours avant (ou prasugrel 7 jours avant) (concertation pluridisciplinaire)</td>
+<td rowspan="7">Monothérapie par AAS : maintien du traitement<br/><br/>Monothérapie par clopidogrel : arrêt du clopidogrel 5 jours avant</td>
+</tr>
+<tr>
+<td>Urétéroscopie rigide + extraction (± fragmentation de calcul)</td>
+</tr>
+<tr>
+<td>Urétéroscopie souple + extraction (+/- fragmentation) de calcul</td>
+</tr>
+<tr>
+<td>Montée d'une endoprothèse urétérale (type sonde JJ)</td>
+</tr>
+<tr>
+<td>Dilatation urétérale +/- stent</td>
+</tr>
+<tr>
+<td>Biopsies prostatiques</td>
+</tr>
+<tr>
+<td>Urétrhotomie endoscopique</td>
+</tr>
+<tr>
+<td rowspan="3">Endoscopies à risque hémorragique élevé</td>
+<td>Résection transurétrale de prostate</td>
+<td rowspan="3">Différer l'endoscopie<br/><br/>OU<br/><br/>maintien du traitement par AAS et arrêt du clopidogrel 5 jours avant (ou prasugrel 7 jours avant) (concertation pluridisciplinaire)<br/><br/>Privilégier les techniques alternatives (laser ou bipolaire)</td>
+<td rowspan="3">Monothérapie par AAS : arrêt 3 jours avant<br/><br/>Monothérapie par clopidogrel : arrêt du clopidogrel 5 jours avant, ou relais par AAS, à discuter au cas par cas, en tenant compte de la balance bénéfice/risque (thrombotique et hémorragique) entre l'urologue, l'anesthésiste et/ou le cardiologue<br/><br/>Privilégier les techniques alternatives (laser ou bipolaire)</td>
+</tr>
+<tr>
+<td>Résection transurétrale de vessie</td>
+</tr>
+<tr>
+<td>Biopsies de vessie</td>
+</tr>
+</tbody>
+</table>
+
+Recommandations sur le traitement et la reprise des AAP
+
+<table border="1">
+<thead>
+<tr>
+<th>Traitement initial</th>
+<th>Traitement poursuivi lors du geste invasif</th>
+<th>Traitement envisagé en postopératoire immédiat</th>
+<th>Modalités pratiques de la reprise</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"><b>Monothérapie AAP</b></td>
+</tr>
+<tr>
+<td>AAS</td>
+<td>AAS</td>
+<td>AAS</td>
+<td>Poursuite AAS même dose</td>
+</tr>
+<tr>
+<td>AAS</td>
+<td>Aucun</td>
+<td>AAS</td>
+<td>Reprise AAS même dose</td>
+</tr>
+<tr>
+<td>Clopidogrel</td>
+<td>Aucun</td>
+<td>Clopidogrel</td>
+<td>Reprise clopidogrel (après dose de charge 300 mg si besoin)</td>
+</tr>
+<tr>
+<td>Clopidogrel</td>
+<td>AAS (relais)</td>
+<td>AAS</td>
+<td>Poursuite AAS même dose jusqu'à la reprise du clopidogrel</td>
+</tr>
+<tr>
+<td colspan="4"><b>Bithérapie AAP</b></td>
+</tr>
+<tr>
+<td>AAS + clopidogrel</td>
+<td>AAS</td>
+<td>AAS</td>
+<td>AAS même dose + clopidogrel 75 mg (après dose de charge 300 mg si risque thrombotique majeur).</td>
+</tr>
+<tr>
+<td>AAS + clopidogrel</td>
+<td>Aucun</td>
+<td>AAS</td>
+<td>AAS même dose + clopidogrel 75 mg (après dose de charge 300 mg si risque thrombotique majeur)</td>
+</tr>
+<tr>
+<td>AAS + prasugrel</td>
+<td>AAS</td>
+<td>AAS</td>
+<td>AAS même dose + prasugrel même dose</td>
+</tr>
+</tbody>
+</table>
+
+- ■ La reprise est possible très précocement après le geste invasif, au mieux le jour même, en fonction du risque de saignement postopératoire, si l'hémostase a été jugée correcte et en l'absence de saignement majeur. Le patient doit être informé des modalités de la reprise du traitement et en recevoir une trace écrite.4.8. Annexe 8 : Check-list au bloc opératoire
+
+Identification du patient  
+Étiquette du patient ou  
+Nom, prénom, date de naissance
+
+**CHECK-LIST**  
+**« SÉCURITÉ DU PATIENT AU BLOC OPÉRATOIRE »**  
+Version 2011 - 01
+
+Bloc : ..... Salle : .....  
+Date d'intervention : ..... Heure (début) : .....  
+Chirurgien « intervenant » : .....  
+Anesthésiste « intervenant » : .....  
+Coordonnateur(s) check-list : .....
+
+HAUTE AUTORITÉ DE SANTÉ
+
+Identité visuelle  
+de l'établissement
+
+<table border="1" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+<thead>
+<tr>
+<th style="background-color: #d3d3d3;">AVANT INDUCTION ANESTHÉSIQUE<br/><i>Temps de pause avant anesthésie</i></th>
+<th style="background-color: #d3d3d3;">AVANT INTERVENTION CHIRURGICALE<br/><i>Temps de pause avant incision</i></th>
+<th style="background-color: #d3d3d3;">APRÈS INTERVENTION<br/><i>Pause avant sortie de salle d'opération</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align: top;">
+<p><b>1</b> L'identité du patient est correcte : <input type="checkbox"/> Oui <input type="checkbox"/> Non*</p>
+<p><b>2</b> L'intervention et site opératoire sont confirmés :<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• idéalement par le patient et dans tous les cas, par le dossier ou procédure spécifique <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• la documentation clinique et para clinique nécessaire est disponible en salle <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+</ul>
+</p>
+<p><b>3</b> Le mode d'installation est connu de l'équipe en salle, cohérent avec le site / intervention et non dangereux pour le patient <input type="checkbox"/> Oui <input type="checkbox"/> Non*</p>
+<p><b>4</b> La préparation cutanée de l'opéré est documentée dans la fiche de liaison service / bloc opératoire (ou autre procédure en œuvre dans l'établissement) <input type="checkbox"/> Oui <input type="checkbox"/> Non*</p>
+<p><b>5</b> L'équipement / matériel nécessaire pour l'intervention est vérifié et ne présente pas de dysfonctionnements<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• pour la partie chirurgicale <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• pour la partie anesthésique <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+</ul>
+<i>Acte sans prise en charge anesthésique</i> <input type="checkbox"/> N/A
+                </p>
+<p><b>6</b> Vérification croisée par l'équipe de points critiques et mise en œuvre des mesures adéquates :<br/>
+                    Le patient présente-t-il un :<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• risque allergique <input type="checkbox"/> Non <input type="checkbox"/> Oui*</li>
+<li>• risque d'inhalation, de difficulté d'intubation ou de ventilation au masque <input type="checkbox"/> Non <input type="checkbox"/> Oui*</li>
+<li>• risque de saignement important <input type="checkbox"/> Non <input type="checkbox"/> Oui*</li>
+</ul>
+</p>
+</td>
+<td style="vertical-align: top;">
+<p><b>7</b> Vérification « ultime » croisée au sein de l'équipe, en présence des chirurgien(s) – anesthésiste(s) / IADE – IBODE / IDE<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• identité patient confirmée <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• intervention prévue confirmée <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• site opératoire confirmé <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• installation correcte confirmée <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• documents nécessaires disponibles (notamment imagerie) <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+</ul>
+</p>
+<p><b>8</b> Partage des informations essentielles, oralement au sein de l'équipe sur les éléments à risque / étapes critiques de l'intervention (<i>Time out</i>)<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• sur le plan chirurgical (temps opératoire difficile, points spécifiques de l'intervention, identification des matériels nécessaires, confirmation de leur opérationnalité, etc.) <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• sur le plan anesthésique (<i>Acte sans prise en charge anesthésique</i> / risques potentiels liés au terrain ou à des traitements éventuellement maintenus, etc.) <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+</ul>
+</p>
+<p><b>9</b> L'antibioprophylaxie a été effectuée selon les recommandations et protocoles en vigueur dans l'établissement<br/>
+                    La préparation du champ opératoire est réalisée selon le protocole en vigueur dans l'établissement <input type="checkbox"/> Oui <input type="checkbox"/> Non*</p>
+</td>
+<td style="vertical-align: top;">
+<p><b>10</b> Confirmation orale par le personnel auprès de l'équipe :<br/>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>• de l'intervention enregistrée <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• du compte final correct <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• des compresses, aiguilles, instruments, etc. <input type="checkbox"/> N/A</li>
+<li>• de l'étiquetage des prélèvements, pièces opératoires, etc. <input type="checkbox"/> Oui <input type="checkbox"/> Non*</li>
+<li>• si des événements indésirables ou porteurs de risques médicaux sont survenus : ont-ils fait l'objet d'un signalement / déclaration ?<br/>Si aucun événement indésirable n'est survenu pendant l'intervention, cochez N/A <input type="checkbox"/> N/A</li>
+</ul>
+</p>
+<p><b>11</b> Les prescriptions pour les suites opératoires immédiates sont faites de manière conjointe entre les équipes chirurgicale et anesthésiste <input type="checkbox"/> Oui <input type="checkbox"/> Non*</p>
+<p style="text-align: center;"><b>DÉCISION CONCERTÉE EN CAS DE NON-CONFORMITÉ OU DE RÉPONSE MARQUÉE D'UN *</b></p>
+<p style="text-align: center;"><u>SELON PROCÉDURE EN VIGUEUR DANS L'ÉTABLISSEMENT</u><br/>
+                    Attestation que la check-list a été renseignée suite à un partage des informations entre les membres de l'équipe<br/>
+                    Chirurgien ..... Anesthésiste / IADE ..... Coordinateur CL .....</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+N/A : quand le critère est Non Applicable pour cette intervention  
+N/R : quand le critère est Non Recommandé pour cette intervention
+
+LE RÔLE DU COORDONNATEUR CHECK-LIST, SOUS LA RESPONSABILITÉ DU (DES) CHIRURGIE(S) ET ANESTHÉSISTE(S) RESPONSABLES DE L'INTERVENTION, EST DE NE COCHER LES ITEMS DE LA CHECK-LIST QUE  
+ (1) SI LA VÉRIFICATION A BIEN ÉTÉ EFFECTUÉE, (2) SI ELLE A ÉTÉ FAITE ORALEMENT EN PRÉSENCE DES MEMBRES DE L'ÉQUIPE CONCERNÉS ET  
+ (3) SI LES NON-CONFORMITÉS (MARQUÉES D'UNE \*) ONT FAIT L'OBJET D'UNE CONCERTATION EN ÉQUIPE ET D'UNE DÉCISION QUI DOIT LE CAS ÉCHÉANT ÊTRE RAPPORTEE DANS L'ENCART SPÉCIFIQUE.
+
+4.9. Annexe 9 : Composition quantitative et qualitative des groupes
+
+4.9.1. Groupe de pilotage : 13 membres
+
+- • Président : Dr Gilles Cuvelier, responsable de la commission de chirurgie ambulatoire de l'AFU.
+- • Chefs de projet :
+  - ◦ Pr Pierre Mongiat Artus, responsable du Comité des pratiques professionnelles (CPP AFU) ;
+  - ◦ Dr Xavier Rébillard, membre du bureau de l'AFU.
+- • Chargés de projet :
+  - ◦ Dr Guillaume Legrand, membre de l'AFUF ;
+  - ◦ Dr Thomas Le Guilchet, membre de l'AFUF.
+- • Membres :
+  - ◦ Dr Julien Branchereau, membre de l'AFUF ;
+  - ◦ Dr Patrick Coloby, président de l'AFU ;
+  - ◦ Dr François Régis Desfemmes, membre de l'AFU ;
+  - ◦ Mme Margaret Haugh, méthodologiste ;
+  - ◦ Dr Sébastien Larue, membre de l'AFUF ;
+
+- ◦ Dr Thibaut Murez, membre de l'AFUF ;
+- ◦ Dr Benoît Vignes, membre du CA SNCUF.
+- • Chef de projet HAS : Mme Christine Revel-Delhom.
+
+4.9.2. Groupe de cotation : 13 membres
+
+- • Les responsables (ou délégués) des 9 comités de l'AFU :
+  - ◦ Andrologie : Dr Éric Huygue ;
+  - ◦ Cancérologie : Pr Michel Soulié ;
+  - ◦ Infectiologie : Pr Jean-Paul Boiteux ;
+  - ◦ Lithiase et endourologie : Dr Paul Méria ;
+  - ◦ Neuro-urologie : Dr Xavier Gamé ;
+  - ◦ Transplantation : Dr Marc Gigante ;
+  - ◦ Troubles mictionnels : Dr Nicolas Barry Delongchamps ;
+  - ◦ Urologie de la femme : Pr Loïc Lenormand ;
+  - ◦ Chirurgie pédiatrique : Dr Anaïs Victor.
+- • Membres :
+  - ◦ Dr Jean-Paul Allègre, membre de l'AFU ;
+  - ◦ Dr Christian Castagnola, membre de l'AFU ;
+  - ◦ Dr Marc Géraud, membre de l'AFU et du SNCUF ;
+  - ◦ Dr Michel Maillet, membre du SFAR ;#### 4.9.3. Groupe de lecture : 106 membres
+
+<table><tbody><tr><td>Dr ALIMI Jean-Charles</td><td>Urologue, Toulon</td></tr><tr><td>Pr AUBRUN Frédéric</td><td>Médecin anesthésiste-réanimateur, Lyon</td></tr><tr><td>Dr AUGUSTIN Muriel</td><td>Médecin généraliste, Fouesnant</td></tr><tr><td>Dr BALLEREAU Charles</td><td>Urologue, Lille</td></tr><tr><td>Dr BART Stéphane</td><td>Urologue, Pontoise</td></tr><tr><td>Dr BAZIN Guy</td><td>Médecin anesthésiste-réanimateur, Nantes</td></tr><tr><td>Dr BEUZEBOC Philippe</td><td>Oncologue médical, Paris</td></tr><tr><td>Dr BIGOT Pierre</td><td>Urologue, Angers</td></tr><tr><td>Dr BOILLOT Bernard</td><td>Urologue (pédiatrique), Grenoble</td></tr><tr><td>Dr BONTEMPS Gilles</td><td>Médecin, directeur associé ANAP, Paris</td></tr><tr><td>Dr BUGEL Hubert</td><td>Urologue, Rouen</td></tr><tr><td>Mme CAMP Marie-Catherine</td><td>Cadre infirmière de bloc opératoire, Lyon</td></tr><tr><td>Dr CAMPARO Philippe</td><td>Anatomopathologiste, Amiens</td></tr><tr><td>Dr CAREMEL Romain</td><td>Urologue, Rouen</td></tr><tr><td>Dr CARPENTIER Xavier</td><td>Urologue, Nice</td></tr><tr><td>Dr CHAIX Olivier</td><td>Chirurgie orthopédique, Pont-l'Abbé</td></tr><tr><td>Pr CHARTIER KASTLER Emmanuel</td><td>Urologue, Paris</td></tr><tr><td>Pr COLOMBEL Marc</td><td>Urologue, Paris</td></tr><tr><td>Dr CORTESSE Ariane</td><td>Urologue, Paris</td></tr><tr><td>Dr CUVILLIER Xavier</td><td>Urologue, Agen</td></tr><tr><td>Dr DE GOUVELLO Amory</td><td>Médecin généraliste, Paris</td></tr><tr><td>Dr DELAPORTE Véronique</td><td>Urologue, Marseille</td></tr><tr><td>Pr DENYS Pierre</td><td>Médecin rééducateur, Garches</td></tr><tr><td>Pr DESCAZEAUD Aurélien</td><td>Urologue, Limoges</td></tr><tr><td>Dr DEWILDE Jacques</td><td>Cardiologue, Quimper</td></tr><tr><td>Dr DOERFLER Arnaud</td><td>Urologue, Caen</td></tr><tr><td>Dr DONON Laurence</td><td>Urologue, Bordeaux</td></tr><tr><td>Dr DORE Bertrand</td><td>Urologue, Poitiers</td></tr><tr><td>Dr DUCHENE Franck</td><td>Urologue, Saint-Cyr-sur-Loire</td></tr><tr><td>Pr DURAND Xavier</td><td>Urologue, Paris</td></tr><tr><td>Pr ECOFFEY Claude</td><td>Médecin anesthésiste-réanimateur, Rennes</td></tr><tr><td>Pr ESCHWEGE Pascal</td><td>Urologue, Nancy</td></tr><tr><td>Dr FAIX Antoine</td><td>Urologue, Montpellier</td></tr><tr><td>Dr FATTON Brigitte</td><td>Gynécologue obstétricienne, Clermont-Ferrand</td></tr><tr><td>Dr FERRETTI Ludovic</td><td>Urologue, Bordeaux</td></tr><tr><td>Mme GADRAT Corinne</td><td>Infirmière, Bordeaux</td></tr><tr><td>Dr GARCIA Anne</td><td>Gériatrie, Pont-l'abbé</td></tr><tr><td>Dr GAYET Clément</td><td>Chirurgie viscérale et digestive, Quimper</td></tr><tr><td>Dr GEISS Stephan</td><td>Chirurgien pédiatre, Colmar</td></tr><tr><td>Dr GERGES Kamal</td><td>Chirurgie viscérale et digestive, Quimper</td></tr><tr><td>Mme GESTIN Catherine</td><td>Infirmière, Quimper</td></tr><tr><td>Dr GRAZIANA Jean-Pierre</td><td>Urologue, Lorient</td></tr><tr><td>Dr GUIDAT Anne</td><td>Anesthésie réanimation, Lille</td></tr><tr><td>Pr HAILLOT Olivier</td><td>Urologue, Tours</td></tr><tr><td>Dr HALLEY Aurélie</td><td>Gériatre, Pont-l'abbé</td></tr><tr><td>Dr HERMIEU Jean-François</td><td>Urologue, Paris</td></tr><tr><td>Dr HOUEDE Nadine</td><td>Oncologue médical, Bordeaux</td></tr><tr><td>Dr IBORRA François</td><td>Urologue, Montpellier</td></tr><tr><td>Dr IZARD Vincent</td><td>Urologue, Paris</td></tr><tr><td>Dr JOSEPH Thierry</td><td>Cardiologue, Quimper</td></tr><tr><td>Dr KLEINCLAUSS François</td><td>Urologue, Besançon</td></tr><tr><td>Dr KOURI Georges</td><td>Urologue, Périgueux</td></tr><tr><td>M. LADAN Yvon</td><td>Infirmier, Quimper</td></tr><tr><td>Dr LAPORTE Philippe</td><td>Gériatrie, Ussel</td></tr><tr><td>Dr LE FLEM Carole</td><td>Gynécologue obstétricien, Quimper</td></tr><tr><td>Dr LEPOUTRE Bernard</td><td>Médecin généraliste, Paris</td></tr><tr><td>Dr LONG Jean-Alexandre</td><td>Urologue, Grenoble</td></tr><tr><td>Dr MAIDENBERG Marc</td><td>Urologue, Neuilly-sur-Seine</td></tr><tr><td>Dr MARCELLI François</td><td>Urologue, Lille</td></tr><tr><td>Dr MAZEROLLES Catherine</td><td>Anatomopathologiste, Toulouse</td></tr></tbody></table>Pr MICHEL Frédéric  
+ Dr MICHELET Estelle  
+ Dr MOREAU Jean-Luc  
+ Dr NEUZILLET Yann  
+ Dr PEYRAT Laurence  
+ Dr PIGNOT Géraldine  
+ Dr PLOUSSARD Guillaume  
+ Dr POGU Bertrand  
+ Dr POULIQUEN François  
+ Dr QUINTENS Hervé  
+ Dr RAUCOULES Marc  
+ Pr RAVASSE Philippe  
+ Dr RAYNAL Gauthier  
+ Dr RENAULT Frédéric  
+ Dr RICHAUD Pierre  
+ Dr ROUPRET Morgan  
+ Pr RUFFION Alain  
+ Dr SALLUSTO Federico  
+ Pr SAUSSINE Christian  
+ Dr SAVAREUX Laurent  
+ Dr SCIARD Didier  
+ Pr SOTTO Albert  
+ Dr SOUHIL Lebdaï  
+ Dr TALARMIN Jean-Philippe  
+ Mme TANGUY Martine  
+ Dr THURET Rodolphe  
+ Pr TRIBOULET Jean-Pierre  
+ Dr VIALES Nathalie  
+ Pr VONS Corinne  
+ Dr WAGNER Laurent  
+ Dr YONNEAU Laurent  
+ Mme CARIOU Anne  
+ Mme CHAZAL Ginette  
+ Dr DUTILLEUL Patrick  
+ Dr FANTON Hélène  
+ FERNANDEZ-CURIEL Sylvain  
+ FLOCH Marie  
+ LAFOND Jean  
+ Dr LOISELLE Aurélien  
+ MOUZE Philippe  
+ DAVER Corinne  
+ SOLBER BEREHOUC Nicole  
+ BOUVET Lionel  
+ Pr SZTARK François  
+ Dr TALARMIN Jean-Philippe  
+ VERINE Jean-Luc
+
+Urologue, Dijon  
+ Médecin généraliste, Fouesnant  
+ Urologue, Nancy  
+ Urologue, Suresnes  
+ Urologue, Paris  
+ Urologue, Paris  
+ Urologue, Paris  
+ Urologue, Chalons-en-Champagne  
+ Médecin généraliste, Pont-l'abbé  
+ Urologue, Saint-Laurent-du-Var  
+ Anesthésiste-réanimateur, Nice  
+ Chirurgien infantile, Caen  
+ Urologue, Creil  
+ Anesthésiste-réanimateur, Quimper  
+ Radiothérapeute, Bordeaux  
+ Urologue, Paris  
+ Urologue, Lyon  
+ Urologue, Toulouse  
+ Urologue, Strasbourg  
+ Urologue, Beaumont  
+ Anesthésiste-réanimateur, Dreux  
+ Infectiologue, Nîmes  
+ Urologue, Angers  
+ Infectiologue, Quimper  
+ Infirmière, Quimper  
+ Urologue, Montpellier  
+ Chirurgien viscéral et digestif, Lille  
+ Anesthésiste-réanimateur, Nîmes  
+ Chirurgien viscéral et digestif, Paris  
+ Urologue, Montpellier  
+ Urologue, Suresnes  
+ Infirmière libérale, Quimper  
+ Infirmière libérale, Quimper  
+ Médecin généraliste  
+ Médecin généraliste  
+ CISS  
+ Cadre infirmière  
+ CISS  
+ Urologue  
+ CISS  
+ Juriste  
+ Juriste  
+ Anesthésiste-réanimateur, Lyon  
+ Anesthésiste-réanimateur, Bordeaux  
+ Médecin interniste, Quimper  
+ Urologue, Chambéry
+
+## 4.10. Annexe 10 : Stratégie de recherche documentaire
+
+### 4.10.1. Méthode
+
+La recherche a été limitée aux publications en langue anglaise et française. Elle a porté sur la période de janvier 2000 à décembre 2012, une veille a été réalisée jusqu'en avril 2012.
+
+Une recherche bibliographique a été réalisée sur PubMed en utilisant les mots clés spécifiques pour l'urologie combinée avec les mots clés pour la chirurgie ambulatoire décrits dans l'annexe I du socle de connaissances pour la chirurgie ambulatoire de l'HAS :
+
+- • Mots clés pour l'urologie :
+  - ◦ prostate cancer
+  - ◦ benign prostatic hyperplasia»
+  - ◦ BPH
+  - ◦ prostatic neoplasms
+  - ◦ prostatic hyperplasia
+  - ◦ urethral cancer
+  - ◦ cancer of the urethra
+  - ◦ urethral neoplasms
+  - ◦ bladder cancer
+  - ◦ bladder neoplasms
+  - ◦ urinary bladder neoplasms
+  - ◦ urologic\* cancer- ◦ urinary tract cancer
+- ◦ urologic neoplasms
+- ◦ adrenal gland cancer
+- ◦ adrenal cancer
+- ◦ adrenal gland neoplasms
+- ◦ kidney neoplasms
+- ◦ erectile dysfunction
+- ◦ infertility, male
+- • Mots clés pour la chirurgie ambulatoire :
+  - ◦ protocol(s)
+  - ◦ pathway(s)
+  - ◦ critical pathways
+  - ◦ case management
+  - ◦ patient care planning
+- ◦ ambulatory surgery
+- ◦ outpatient surgery
+- ◦ day surgery
+- ◦ surgicenter(s)
+- ◦ day case surgery
+- ◦ same day surgery
+- ◦ ambulatory surgical procedures
+
+Cette recherche a été complétée par la bibliographie des experts et les références citées dans les documents analysés.
+
+Stratégie de recherche :
+
+<table border="1">
+<thead>
+<tr>
+<th>Étape</th>
+<th>Termes utilisés</th>
+<th>Nombre de références</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#1</td>
+<td>Search ("Ambulatory Surgical Procedures"[Mesh]) OR "Surgicenters"[Mesh]</td>
+<td>10626</td>
+</tr>
+<tr>
+<td>#2</td>
+<td>Search "Ambulatory Surger*" OR Outpatient Surgery OR "Outpatient Surger*" OR "Ambulatory Surger*" OR "Day Surger*" OR "Day Surger*" OR "Surgicenter*" OR "day case surgery*"Or "same day surger*" [Title]</td>
+<td>22121</td>
+</tr>
+<tr>
+<td>#3</td>
+<td>Search (#1) OR #2</td>
+<td>23223</td>
+</tr>
+<tr>
+<td>#4</td>
+<td>Search (("Critical Pathways"[Mesh]) OR "Case Management"[Mesh]) OR "Patient Care Planning"[Mesh:NoExp]</td>
+<td>42070</td>
+</tr>
+<tr>
+<td>#5</td>
+<td>Search (("Critical Pathways"[Mesh]) OR "Case Management"[Mesh]) OR "Patient Care Planning"[Mesh:NoExp] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>17690</td>
+</tr>
+<tr>
+<td>#6</td>
+<td>Search #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>12665</td>
+</tr>
+<tr>
+<td>#7</td>
+<td>Search protocol OR pathway[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>154980</td>
+</tr>
+<tr>
+<td>#8</td>
+<td>Search protocols OR pathways[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>144418</td>
+</tr>
+<tr>
+<td>#9</td>
+<td>Search (#7) AND #8 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>24409</td>
+</tr>
+<tr>
+<td>#16</td>
+<td>Search (#12) OR #15 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>7917</td>
+</tr>
+<tr>
+<td>#10</td>
+<td>Search (#7) OR #5 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>171634</td>
+</tr>
+<tr>
+<td>#11</td>
+<td>Search (#3) AND #10 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>577</td>
+</tr>
+<tr>
+<td>#12</td>
+<td>Search "Erectile Dysfunction"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>7589</td>
+</tr>
+<tr>
+<td>#13</td>
+<td>Search "Infertility, Male"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>8035</td>
+</tr>
+<tr>
+<td>#14</td>
+<td>Search (#12) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>13</td>
+</tr>
+<tr>
+<td>#15</td>
+<td>Search erectile dysfunction[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>3794</td>
+</tr>
+<tr>
+<td>#17</td>
+<td>Search (#16) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>13</td>
+</tr>
+<tr>
+<td>#18</td>
+<td>Search (#13) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>13</td>
+</tr>
+<tr>
+<td>#19</td>
+<td>Search "Kidney Neoplasms"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>20941</td>
+</tr>
+<tr>
+<td>#20</td>
+<td>Search (#3) AND #19 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>44</td>
+</tr>
+</tbody>
+</table><table border="1">
+<thead>
+<tr>
+<th>Étape</th>
+<th>Termes utilisés</th>
+<th>Nombre de références</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#21</td>
+<td>Search "Adrenal Gland Neoplasms"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>7093</td>
+</tr>
+<tr>
+<td>#22</td>
+<td>Search "adrenal gland cancer" OR "adrenal cancer"[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>27</td>
+</tr>
+<tr>
+<td>#23</td>
+<td>Search (#21) AND #22 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>23</td>
+</tr>
+<tr>
+<td>#24</td>
+<td>Search (#21) OR #22 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>7097</td>
+</tr>
+<tr>
+<td>#25</td>
+<td>Search (#24) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>18</td>
+</tr>
+<tr>
+<td>#26</td>
+<td>Search "Urologic Neoplasms"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>37027</td>
+</tr>
+<tr>
+<td>#27</td>
+<td>Search "urologic* cancer" OR "urinary tract cancer"[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>182</td>
+</tr>
+<tr>
+<td>#28</td>
+<td>Search (#26) OR #27 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>37086</td>
+</tr>
+<tr>
+<td>#29</td>
+<td>Search (#28) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>74</td>
+</tr>
+<tr>
+<td>#30</td>
+<td>Search "bladder Neoplasms"[Mesh] OR "Urinary Bladder Neoplasms"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>17074</td>
+</tr>
+<tr>
+<td>#31</td>
+<td>Search "bladder cancer" OR "gall bladder cancer"[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>10462</td>
+</tr>
+<tr>
+<td>#32</td>
+<td>Search (#30) OR #31 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>19462</td>
+</tr>
+<tr>
+<td>#33</td>
+<td>Search (#32) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>41</td>
+</tr>
+<tr>
+<td>#34</td>
+<td>Search "Urethral Neoplasms"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>507</td>
+</tr>
+<tr>
+<td>#35</td>
+<td>Search "urethral cancer" OR "cancer of the urethra"[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>40</td>
+</tr>
+<tr>
+<td>#36</td>
+<td>Search (#34) OR #35 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>518</td>
+</tr>
+<tr>
+<td>#37</td>
+<td>Search (#36) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>1</td>
+</tr>
+<tr>
+<td>#38</td>
+<td>Search ("Prostatic Neoplasms"[Mesh]) OR "Prostatic Hyperplasia"[Mesh] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>53858</td>
+</tr>
+<tr>
+<td>#39</td>
+<td>Search "prostate cancer" OR "benign prostatic hyperplasia" OR BPH[Title] Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>51188</td>
+</tr>
+<tr>
+<td>#40</td>
+<td>Search (#38) OR #39 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>65391</td>
+</tr>
+<tr>
+<td>#41</td>
+<td>Search (#40) AND #3 Filters: Publication date from 2000/01/01 to 2012/12/31</td>
+<td>143</td>
+</tr>
+</tbody>
+</table>
+
+## 5. Version grand public des recommandations
+
+L'AFU a souhaité placer le patient au centre de la prise en charge tout au long du parcours de soin en chirurgie ambulatoire.
+
+C'est la raison pour laquelle l'AFU a souhaité réaliser une version grand public de ses recommandations. Issue du travail précédent, cette version grand public a comme objectif de permettre aux patients une meilleure compréhension de ce mode de prise en charge qui leur est proposé.
+
+La version finale des recommandations a été rédigée au cours d'une réunion plénière, rassemblant les groupes de pilotage et de cotation. Au cours de cette même réunion, 39 des 59 recommandations ont été choisies et associées à un argumentaire adapté à destination du grand public.
+
+Cette version grand public fera l'objet d'un travail ultérieur de l'AFU en collaboration avec le Collectif Interassociatif Sur la Santé (CISS) et des journalistes santé, et sera publiée sur le site urofrance.org## Liens d'intérêts
+
+G. Cuvelier : Rapport d'expertise (ANAP) ; Conférences : auditeur (Ipsen).
+
+G. Legrand, T. le Guilchet, J. Branchereau, S. Larue et F.-R. Desfemmes ont déclaré n'avoir aucun lien d'intérêts pour cet article.
+
+T. Murez : Rapports d'expertise (Janssen) ; Conférences : intervenant (Sanofi) ; Conférences : auditeur (Janssen, Zambon, Ferring, Astellas, Ipsen, Takeda, Pfizer, GSK).
+
+B. Vignes : Conférences : intervenant (Takeda) ; Conférences : auditeur (Pfizer, AstraZeneca, Solvay Pharma).
+
+E. Lechevallier : Conseil (Ipsen) ; Essais cliniques (Astellas, Takeda) ; Conférences : intervenant (Astellas, Ipsen) ; DIU Oncologie (AstraZeneca).
+
+X. Rébillard : Essais cliniques (Astellas, Ferring, Ipsen, Janssen, Takeda, Essais GETUG-AFU) ; Conseil (Bayer, Ipsen, Janssen, Sanofi) ; Conférences : intervenant (Ipsen, Janssen, Ferring, GSK, Sanofi, AstraZeneca) ; Membre du conseil d'administration de l'AFU, Membre de la Commission Scientifique Indépendante (CSI) des médecins (OG-DPC).
+
+P. Coloby : Essais cliniques (Ferring, Sanofi Aventis) ; Conseil (Ferring, Janssen, Keocyt) ; Conférences : intervenant (Astellas, AstraZeneca, Ferring, Janssen, Novartis, Pierre Fabre, Takeda) ; Conférences : auditeur (Astellas, Ferring, GSK, Ipsen, Janssen, Novartis, Pierre Fabre, Takeda).
+
+P. Mongiat-Artus : Essais cliniques : (GETUG) ; Rapports d'expertise (Pierre Fabre) ; Conseil (Myriad Genetics) ; Conférences : intervenant (Ipsen, Sanofi, Astellas, Janssen, Amgen, Ferring) ; Conférences : auditeur (Ipsen, Sanofi, Astellas, Janssen, Amgen, Ferring).
+
+## Références
+
+1. [1] Agence technique de l'information sur l'hospitalisation. État des lieux 2010 sur l'activité de chirurgie ambulatoire. Analyse nationale et régionale complémentaire. Données 2010. Lyon: ATIH; 2010. <http://www.atih.sante.fr/openfile.php?id=3479> n.d.
+2. [2] HAS-ANAP. Socle de connaissances. « Ensemble pour le développement de la chirurgie ambulatoire » n.d.
+3. [3] Rapport de la conférence. Conférence de consensus. La chirurgie sans hospitalisation. Rev Hosp France 1995;2:156-71.
+4. [4] IAAS. International Association for Ambulatory Surgery. Ambulatory (day) surgery. Suggested international terminology and definitions; 2003.
+5. [5] MEAH. Organisation de la chirurgie ambulatoire : développer l'activité, maîtriser les processus, retours d'expériences 2007;53.
+6. [6] Jouffroy L, Président S, Bataille MJ, Ingénieurs A, Saint A. Prise en charge anesthésique des patients en hospitalisation ambulatoire Comité d'organisation Groupe de travail Question 1: Définitions Question 2 : Quels sont les critères d'éligibilité à l'hospitalisation ambulatoire ? 2009:1-9.
+7. [7] Varadhan KK, Neal KR, Dejong CHC, Fearon KCH, Ljungqvist O, Lobo DN. The enhanced recovery after surgery (ERAS) pathway for patients undergoing major elective open colorectal surgery: a meta-analysis of randomized controlled trials. Clin Nutr (Edinburgh, Scotland) 2010;29:434-40.
+8. [8] Aning J, Neal D, Driver A, McGrath J. Enhanced recovery: from principles to practice in urology. BJU International 2010;105:1199-201.
+9. [9] Tarazi EM, Philip BK. Friendliness of OR staff is top determinant of patient satisfaction with outpatient surgery. Am J Anesthesiology 1998;25:154-7.
+10. [10] Canoui-Poitrine F, Logerot H F-SM. Évaluation de la satisfaction des professionnels et des patients d'une unité multidisciplinaire de chirurgie ambulatoire. Pratiques et organisation des soins 39:323-30.
+11. [11] International Association for Ambulatory Surgery. Policy brief day surgery: making it happen. London: IAAS; 2007.
+12. [12] Caisse nationale d'assurance maladie des travailleurs salariés, Caisse centrale de la mutualité sociale agricole, Caisse nationale de l'assurance maladie des professions indépendantes. Condition du développement de la chirurgie ambulatoire. Synthèse n.d.
+13. [13] Association des anesthésistes-réanimateurs pédiatriques d'expression française, Conseil national de la chirurgie de l'enfant, Leculée R CP. Chirurgie ambulatoire de l'enfant de moins de 18 ans : recommandations CNCE/ADARPEF. Arch Pediatr 2010;17:844-5.
+14. [14] Jouffroy LHG. Aspects réglementaires et architecturaux de la chirurgie ambulatoire. ALRF 2005.
+15. [15] Nathan N. Règles de jeûne préopératoire. Congrès National D'anesthésie et de Réanimation 2007. Conférences D'actualisation 2007:013-26.
+16. [16] Phillips S, Hutchinson S, Davidson T. Preoperative drinking does not affect gastric contents. Brit J Anaesth 1993;70:6-9.
+17. [17] Holte K, Kehlet H. Compensatory fluid administration for preoperative dehydration: does it improve outcome? Acta Anaesth Scand 2002;46:1089-93.
+18. [18] Gilbert SS, Easy WR, Fitch WW. The effect of pre-operative oral fluids on morbidity following anaesthesia for minor surgery. Anaesthesia 1995;50:79-81.
+19. [19] Maltby JR, Reid CR, Hutchinson A. Gastric fluid volume and pH in elective inpatients. Part II: Coffee or orange juice with ranitidine. Can J Anaesth 1988;35:16-9.
+20. [20] Crawford M, Lerman J, Christensen S, Farrow-Gillespie A. Effects of duration of fasting on gastric fluid pH and volume in healthy children. Anesth Analg 1990;71:400-3.
+21. [21] Hutchinson A, Maltby JR, Reid CR. Gastric fluid volume and pH in elective inpatients. Part I: Coffee or orange juice versus overnight fast. Can J Anaesth 1988;35:12-5.
+22. [22] Marshall SI, Chung F. Discharge criteria and complications after ambulatory surgery. Anesth Analg 1999;88:508-17.
+23. [23] Chung F, Assmann N. Car accidents after ambulatory surgery in patients without an escort. Anesth Analg 2008;106:817-20.
+24. [24] Solomon JK, Maxwell RB, Hopkins AP. Content of a discharge summary from a medical ward: views of general practitioners and hospital doctors. J R Coll Physicians Lond 1995;29:307-10.
+25. [25] Robert-Bobée I. Projections de population 2005-2050, France métropolitaine. Insee 2006; <http://www.insee.fr/fr/publications-et-services/irweb.asp?id=projpop0550>
+26. [26] White PF, White LM, Monk T, Jakobsson J, Raeder J, Mulroy MF, et al. Perioperative care for the older outpatient undergoing ambulatory surgery. Anesth Analg 2012;114:1190-215.
+27. [27] Canet J, Raeder J, Rasmussen LS, Enlund M, Kuipers HM, Hanning CD, et al. Cognitive dysfunction after minor surgery in the elderly. Acta Anaesth Scand 2003;47:1204-10.
+28. [28] Krywulak SA, Mohtadi NGH, Russell ML, Sasyniuk TM. Patient satisfaction with inpatient versus outpatient reconstruction of the anterior cruciate ligament: a randomized clinical trial. Can J Surg 2005;48:201-6.
+29. [29] Fleisher LA. Inpatient Hospital Admission and Death After Outpatient Surgery in Elderly Patients. Arch Surg 2004;139:67-72.
+30. [30] Chung F, Mezei G, Tong D. Adverse events in ambulatory surgery. A comparison between elderly and younger patients. Can J Anaesth 1999;46:309-21.[31] Bryson GL, Chung F, Finegan B, Friedman Z, Miller DR, van Vlymen J, et al. Patient selection in ambulatory anesthesia - an evidence-based review: part I. *Can J Anaesth* 2004;51:768-81.
+
+[32] Keita H, Diouf E, Tubach F, Brouwer T, Dahmani S, Mantz J, et al. Predictive factors of early postoperative urinary retention in the postanesthesia care unit. *Anesth Analg* 2005;101:592-6.
+
+[33] Bettelli G. Anaesthesia for the elderly outpatient: preoperative assessment and evaluation, anaesthetic technique and postoperative pain management. *Curr Opinion Anaesth* 2010;23:726-31.
+
+[34] Aldwinckle RJ, Montgomery JE. Unplanned admission rates and postdischarge complications in patients over the age of 70 following day case surgery. *Anaesthesia* 2004;59:57-9.
+
+[35] Lau H, Lam B. Management of postoperative urinary retention: a randomized trial of in-out versus overnight catheterization. *ANZ J Surg* 2004;74:658-61.
+
+[36] Tammela T, Kontturi M, Lukkarinen O. Postoperative urinary retention. I. Incidence and predisposing factors. *Scand J Urol Nephrol* 1986;20:197-201.
+
+[37] Twersky R, Fishman D, Homel P. What happens after discharge? Return hospital visits after ambulatory surgery. *Anesth Analg* 1997;84:319-24.
+
+[38] Pavlin DJ, Pavlin EG, Gunn HC, Taraday JK, Koerschgen ME. Voiding in patients managed with or without ultrasound monitoring of bladder volume after outpatient surgery. *Anesth Analg* 1999;89:90-7.
+
+[39] Pavlin DJ. Management of Bladder Function after Outpatient Surgery. *Anesthesiology* 1999;91:42-50.
+
+[40] Stallard S, Prescott S. Postoperative urinary retention in general surgical patients. *Brit J Surg* 1988;75:1141-3.
+
+[41] Gönüllü NN, Gönüllü M, Utkan NZ, Dülger M, Gökgöz S, Karslı B. Postoperative retention of urine in general surgical patients. *Eur J Surg = Acta Chirurgica* 1993;159:145-7.
+
+[42] Petros JG, Rimm EB, Robillard RJ, Argy O. Factors influencing postoperative urinary retention in patients undergoing elective inguinal herniorrhaphy. *Am J Surg* 1991;161:431-3; discussion 434.
+
+[43] Goldman G, Leviav A, Mazor A, Kashtan H, Aladgem D, Greenstein A, et al. Alpha-adrenergic blocker for posthernioplasty urinary retention. Prevention and treatment. *Arch Surg* 1988;123:35-6.
+
+[44] Velasco JM, Vallina VL, Esposito DJ, Theodore S. Laparoscopic herniorrhaphy in the geriatric population. *Am Surg* 1998;64:633-7.
+
+[45] Koch CA, Grinberg GG, Farley DR. Incidence and risk factors for urinary retention after endoscopic hernia repair. *Am J Surg* 2006;191:381-5.
+
+[46] Lau H, Patil NG, Yuen WK, Lee F. Urinary retention following endoscopic totally extraperitoneal inguinal hernioplasty. *Surgical Endoscopy* 2002;16:1547-50.
+
+[47] Hoff SD, Bailey HR, Butts DR, Max E, Smith KW, Zamora LF, et al. Ambulatory surgical hemorrhoidectomy--a solution to postoperative urinary retention? *Dis Colon Rectum* 1994;37:1242-4.
+
+[48] Zaheer S, Reilly WT, Pemberton JH, Ilstrup D. Urinary retention after operations for benign anorectal diseases. *Diseases of the Colon Rectum* 1998;41:696-704.
+
+[49] Waterhouse N, Beaumont AR, Murray K, Staniforth P, Stone MH. Urinary retention after total hip replacement. A prospective study. *J Bone Joint Surg. British Volume* 1987;69:64-6.
+
+[50] Sarasin SM, Walton MJ, Singh HP, Clark DI. Can a urinary tract symptom score predict the development of postoperative urinary retention in patients undergoing lower limb arthroplasty under spinal anaesthesia? A prospective study. *Ann R Coll Surg Engl* 2006;88:394-8.
+
+[51] Kumar P, Mannan K, Chowdhury AM, Kong KC, Pati J. Urinary retention and the role of indwelling catheterization following total knee arthroplasty. *Inter Braz J Urol* 2006;32:31-4.
+
+[52] Redfern TR, Machin DG, Parsons KF, Owen R. Urinary retention in men after total hip arthroplasty. *J Bone Joint Surg. American Volume* 1986;68:1435-8.
+
+[53] Walts LF, Kaufman RD, Moreland JR, Weiskopf M. Total hip arthroplasty. An investigation of factors related to postoperative urinary retention. *Clin Orthop Relat Res* 1985;199:280-2.
+
+[54] Wroblewski BM, del Sel HJ. Urethral instrumentation and deep sepsis in total hip replacement. *Clin Orthop Relat Res* 1980;146:209-12.
+
+[55] Bødker B, Lose G. Postoperative urinary retention in gynecologic patients. *Inter Urogynecol J Pelvic Floor Dysfunct* 2003;14:94-7.
+
+[56] Kulaçoğlu H, Dener C, Kama NA. Urinary retention after elective cholecystectomy. *Am J Surg* 2001;182:226-9.
+
+[57] Shea JA, Berlin JA, Bachwich DR, Staroscik RN, Malet PF, McGuckin M, et al. Indications for and outcomes of cholecystectomy: a comparison of the pre and postlaparoscopic eras. *Ann Surg* 1998;227:343-50.
+
+[58] Perk H, Soyupek S, Serel TA, Koşar A, Sayin A, Hoşcan MB. Tension-free vaginal tape for surgical treatment of stress urinary incontinence: two years follow-up. *Inter J Urol: Official Journal of the Japanese Urological Association* 2003;10:132-5.
+
+[59] Al-Singary W, Gayen A, Wilby D, Patel HRH. Trans-obturator tape: a single centre experience. *J Obstet Gynaecol* 2009;29:40-3.
+
+[60] Arunkalaivanan AS, Barrington JW. Randomized trial of porcine dermal sling (Pelvicol implant) vs. tension-free vaginal tape (TVT) in the surgical treatment of stress incontinence: a questionnaire-based study. *Int Urogynecol J pelvic Floor Dysfunct* 2003;14:17-23; discussion 21-2.
+
+[61] Sivanesan K, Fattah MA, Ramsay I. Transobturator tape as a day surgery procedure: a case control study. *Int J Surg (London, England)* 2007;5:152-4.
+
+[62] Van der Vaart CH, Lamers BHC, Heintz APM. Feasibility and patient satisfaction with pelvic organ prolapse and urinary incontinence day surgery. *Int Urogynecol J pelvic Floor Dysfunct* 2007;18:531-6.
+
+[63] Nilsson CG, Kuuva N. The tension-free vaginal tape procedure is successful in the majority of women with indications for surgical treatment of urinary stress incontinence. *BJOG* 2001;108:414-9.
+
+[64] Barron KI, Savageau JA, Young SB, Labin LC, Morse AN. Prediction of successful voiding immediately after outpatient mid-urethral sling. *Int Urogynecol J pelvic Floor Dysfunct* 2006;17:570-5.
+
+[65] Bouchier-Hayes DM, Van Appledorn S, Bugeja P, Crowe H, Challacombe B, Costello AJ. A randomized trial of photoselective vaporization of the prostate using the 80-W potassium-titanyl-phosphate laser vs transurethral prostatectomy, with a 1-year follow-up. *BJU International* 2010;105:964-9.
+
+[66] Malaeb BS, Yu X, McBean AM, Elliott SP. National trends in surgical therapy for benign prostatic hyperplasia in the United States (2000-2008). *Urology* 2012;79:1111-6.
+
+[67] Le Gal S, Fouques Y, Mallick S, Taksin L, Le Toquin-Bernard S, Frachet O, et al. [Treatment of benign prostatic hyperplasia by radiofrequency (TUNA): a monocentric study of 28 cases treated in ambulatory surgery]. *Prog Urol* 2009;19:327-32.
+
+[68] Barmoshe S, Zlotta AR. How do I treat and follow my TUNA patients. *World J Urol* 2006;24:397-404.
+
+[69] Chapple CR, Issa MM WH. Transurethral needle ablation (TUNA). A critical review of radiofrequency thermal therapy in the management of benign prostatic hyperplasia. *Eur Urol* 1999;35:119-28.
+
+[70] Daehlin L, Gustavsen A, Nilsen AH, Mohn J. Transurethral needle ablation for treatment of lower urinary tract symptoms associated with benign prostatic hyperplasia: outcome after 1 year. *J Endourol* 2002;16:111-5.
+
+[71] Spaliviero M, Araki M, Page JB, Wong C. Catheter-free 120W lithium triborate (LBO) laser photoselective vaporization prostatectomy (PVP) for benign prostatic hyperplasia (BPH). *Lasers in Surgery and Medicine* 2008;40:529-34.
+
+[72] Araki M, Lam PN, Wong C. High-power potassium-titanyl-phosphate laser photoselective vaporization prostatectomyfor symptomatic benign prostatic hyperplasia. *J Endourol* 2008;22:1311-4.
+
+[73] Gu X, Strom K, Spaliviero M, Wong C. Intermediate outcomes of GreenLight HPS<sup>TM</sup> laser photoselective vaporization prostatectomy for symptomatic benign prostatic hyperplasia. *J Endourol* 2011;25:1037-41.
+
+[74] Te AE, Malloy TR, Stein BS, Ulchaker JC, Nseyo UO, Hai MA, et al. Photoselective vaporization of the prostate for the treatment of benign prostatic hyperplasia: 12-month results from the first United States multicenter prospective trial. *J Urol* 2004;172:1404-8.
+
+[75] Chander J, Vanitha V, Lal P, Ramteke VK. Transurethral resection of the prostate as catheter-free day-care surgery. *BJU International* 2003;92:422-5.
+
+[76] Bromwich EJ, Lockyer R, Keoghane SR. Day-case rigid and flexible ureteroscopy. *Ann R Coll Surg Engl* 2007;89:526-8.
+
+[77] Cheung MC, Lee F, Leung YL, Wong BB, Chu SM, Tam PC. Outpatient ureteroscopy: predictive factors for postoperative events. *Urology* 2001;58:914-8.
+
+[78] Tan H-J, Strobe SA, He C, Roberts WW, Faerber GJ, Wolf JS. Immediate unplanned hospital admission after outpatient ureteroscopy for stone disease. *J Urol* 2011;185:2181-5.
+
+[79] Taylor AL, Oakley N, Das S, Parys BT. Day-case ureteroscopy: an observational study. *BJU International* 2002;89:181-5.
+
+[80] Doyle PT, Briscoe CE. The effects of drugs and anaesthetic agents on the urinary bladder and sphincters. *Br J Urol* 1976;48:329-35.
+
+[81] Combrisson H, Robain G, Cotard JP. Comparative effects of xylazine and propofol on the urethral pressure profile of healthy dogs. *Am J Veter Res* 1993;54:1986-9.
+
+[82] Malinovsky JM, Le Normand L, Lepage JY, Malinge M, Cozian A, Pinaud M, et al. The urodynamic effects of intravenous opioids and ketoprofen in humans. *Anesth Analg* 1998;87:456-61.
+
+[83] Dreijer B, Møller MH, Bartholdy J. Post-operative urinary retention in a general surgical population. *Eur J Anaesth* 2011;28:190-4.
+
+[84] Carpenter RL, Caplan RA, Brown DL, Stephenson C, Wu R. Incidence and risk factors for side effects of spinal anesthesia. *Anesthesiology* 1992;76:906-16.
+
+[85] Kamphuis ET, Ionescu TI, Kuipers PW, de Gier J, van Venrooij GE, Boon TA. Recovery of storage and emptying functions of the urinary bladder after spinal anesthesia with lidocaine and with bupivacaine in men. *Anesthesiology* 1998;88:310-6.
+
+[86] Breebaart MB, Vercauteren MP, Hoffmann VL, Adriaensen HA. Urinary bladder scanning after day-case arthroscopy under spinal anaesthesia: comparison between lidocaine, ropivacaine, and levobupivacaine. *Br J Anaesth* 2003;90:309-13.
+
+[87] Mulroy MF, Salinas FV, Larkin KL, Polissar NL. Ambulatory Surgery Patients May Be Discharged before Voiding after Short-acting Spinal and Epidural Anesthesia. *Anesthesiology* 2002;97:315-9.
+
+[88] Yoos JR, Kopacz DJ. Spinal 2-chloroprocaine: a comparison with small-dose bupivacaine in volunteers. *Anesth Analg* 2005;100:566-72.
+
+[89] Bridenbaugh LD. Catheterization after long- and short-acting local anesthetics for continuous caudal block for vaginal delivery. *Anesthesiology* 1977;46:357-9.
+
+[90] Faas CL, Acosta FJ, Campbell MDR, O'Hagan CE, Newton SE, Zagalianczyny K. The effects of spinal anesthesia vs epidural anesthesia on 3 potential postoperative complications: pain, urinary retention, and mobility following inguinal herniorrhaphy. *AANA Journal* 2002;70:441-7.
+
+[91] Bromage PR, Camporesi EM, Durant PA, Nielsen CH. Nonrespiratory side effects of epidural morphine. *Anesth Analg* 1982;61:490-5.
+
+[92] Reiz S, Westberg M. Side-effects of epidural morphine. *Lancet* 1980;2:203-4.
+
+[93] Rawal N, Möllefors K, Axelsson K, Lingårdh G, Widman B. An experimental study of urodynamic effects of epidural morphine and of naloxone reversal. *Anesth Analg* 1983;62:641-7.
+
+[94] Kuipers PW, Kamphuis ET, van Venrooij GE, van Roy JP, Ionescu TI, Knape JT, et al. Intrathecal opioids and lower urinary tract function: a urodynamic evaluation. *Anesthesiology* 2004;100:1497-503.
+
+[95] Liu SS, Ware PD, Allen HW, Neal JM, Pollock JE. Dose-response characteristics of spinal bupivacaine in volunteers. Clinical implications for ambulatory anesthesia. *Anesthesiology* 1996;85:729-36.
+
+[96] Jensen P, Mikkelsen T, Kehlert H. Postherniorrhaphy urinary retention: effect of local, regional, and general anesthesia: a review. *Reg Anesth Pain Med* 2002;27:612-7.
+
+[97] O'Riordan JA, Hopkins PM, Ravenscroft A, Stevens JD. Patient-controlled analgesia and urinary retention following lower limb joint replacement: prospective audit and logistic regression analysis. *Eur J Anaesth* 2000;17:431-5.
+
+[98] Souter K, Pavlin D. Bladder function after ambulatory surgery. *Ambul Surg* 2005;12:89-97.
+
+[99] Gönüllü NN, Dülger M, Utkan NZ, Cantürk NZ, Alponat A. Prevention of postherniorrhaphy urinary retention with prazosin. *American Surgeon* 1999;65:55-8.
+
+[100] Lamonerie L, Marret E, Deleuze A, Lemberg N, Dupont M, Bonnet F. Prevalence of postoperative bladder distension and urinary retention detected by ultrasound measurement. *Br J Anaesth* 2004;92:544-6.
+
+[101] Rosseland LA, Stubhaug A, Breivik H. Detecting postoperative urinary retention with an ultrasound scanner. *Acta Anaesthesiol Scand* 2002;46:279-82.
+
+[102] Brouwer TA, Eindhoven BG, Epema AH, Henning RH. Validation of an ultrasound scanner for determining urinary volumes in surgical patients and volunteers. *J Clin Monit Comput* 1999;15:379-85.
+
+[103] Michelson JD, Lotke PA, Steinberg ME. Urinary-bladder management after total joint-replacement surgery. *N Engl J Med* 1988;319:321-6.
+
+[104] Skelly JM, Guyatt GH, Kalbfleisch R, Singer J, Winter L. Management of urinary retention after surgical repair of hip fracture. *CMAJ* 1992;146:1185-9.
+
+[105] McNeill SA, Hargreave TB, Roehrborn CG. Alfuzosin 10 mg once daily in the management of acute urinary retention: results of a double-blind placebo-controlled study. *Urology* 2005;65:83-9; discussion 89-90.
+
+[106] Bruyère F, Cariou G, Boiteux JP, Hoznek A, Mignard JP, Escaravage L, et al. [Diagnosis, treatment and follow-up of community-acquired bacterial infections of the urinary system of men and women (acute cystitis and acute pyelonephritis) and of the genital system of men (acute prostatitis): general remarks]. *Prog Urol* 2008;18(Suppl. 1):4-8.
+
+[107] Linhares I, Raposo T, Rodrigues A, Almeida A. Frequency and antimicrobial resistance patterns of bacteria implicated in community urinary tract infections: a ten-year surveillance study (2000-2009). *BMC Infect Dis* 2013;13:19.
+
+[108] Deliveliotis C, Giftopoulos A, Koutsokalis G, Raptidis G, Kostakopoulos A. The necessity of prophylactic antibiotics during extracorporeal shock wave lithotripsy. *Int J Urol Nephrol* 1997;29:517-21.
+
+[109] Charton M, Vallancien G, Veillon B, Prapotnich D, Mombet A, Brisset JM. Use of antibiotics in the conjunction with extracorporeal lithotripsy. *Eur J Urol* 1990;17:134-8.
+
+[110] Dinçel C, Ozdiler E, Ozenci H, Tazici N, Koşar A. Incidence of urinary tract infection in patients without bacteriuria undergoing SWL: comparison of stone types. *J Endourol* 1998;12:1-3.
+
+[111] Bierkens AF, Hendriks AJ, Ezz el Din KE, de la Rosette JJ, Horrevorts A, Doesburg W, Debruyne FM. The value of antibiotic prophylaxis during extracorporeal shock wave lithotripsy in the prevention of urinary tract infections in patients with urine proven sterile prior to treatment. *Eur J Urol* 1997;31:30-5.
+
+[112] Gattegno B, Sicard F, Alcaidinho D, Arnaud E, Thibault P. [Extracorporeal lithotripsy and prophylactic antibiotic therapy]. *Anna Urol* 1988;22:101-2.[113] Ilker Y, Türkeri LN, Korten V, Tarcan T, Akdaş A. Antimicrobial prophylaxis in management of urinary tract stones by extracorporeal shock-wave lithotripsy: is it necessary? *Urology* 1995;46:165-7.
+
+[114] Shigeta M, Hayashi M, Igawa M. A clinical study of upper urinary tract calculi treated with extracorporeal shock wave lithotripsy: association with bacteriuria before treatment. *Urol Internationalis* 1995;54:214-6.
+
+[115] Pearle MS, Roehrborn CG. Antimicrobial prophylaxis prior to shock wave lithotripsy in patients with sterile urine before treatment: a meta-analysis and cost-effectiveness analysis. *Urology* 1997;49:679-86.
+
+[116] Chodak GW, Plaut ME. Systemic antibiotics for prophylaxis in urologic surgery: a critical review. *J Urol* 1979;121:695-9.
+
+[117] Berry A, Barratt A. Prophylactic antibiotic use in transurethral prostate resection: a meta-analysis. *J Urol* 2002;167:571-7.
+
+[118] Qiang W, Jianchen W, MacDonald R, Monga M, Wilt TJ. Antibiotic prophylaxis for transurethral prostate resection in men with preoperative urine containing less than 100,000 bacteria per ml: a systematic review. *J Urol* 2005;173:1175-81.
+
+[119] Thorpe AC, Cleary R, Coles J, Vernon S, Reynolds J, Neal DE. Deaths and complications following prostatectomy in 1400 men in the northern region of England. Northern Regional Prostate Audit Group. *Brit J Urol* 1994;74:559-65.
+
+[120] García-Perdomo HA, López H, Carbonell J, Castillo D, Cataño JG, Serón P. Efficacy of antibiotic prophylaxis in patients undergoing cystoscopy: a randomized clinical trial. *World J Urol* 2013 Feb 15. [Epub ahead of print].
+
+[121] El Basri A, Petrolekas A, Cariou G, Doublet JD, Hoznek A, Bruyere F. Clinical significance of routine urinary bacterial culture after transurethral surgery: results of a prospective multicenter study. *Urology* 2012;79:564-9.
+
+[122] Kehinde EO, Rotimi VO, Al-Awadi KA, Abdul-Halim H, Boland F, Al-Hunayan A, Pazhoor A. Factors predisposing to urinary tract infection after J ureteral stent insertion. *J Urol* 2002;167:1334-7.
+
+[123] Nabi G, Cook J, N'Dow J, McClinton S. Outcomes of stenting after uncomplicated ureteroscopy: systematic review and meta-analysis. *BMJ (Clinical Research Ed.)* 2007;334:572.
+
+[124] Kiddoo DA, Wollin TA, Mador DR. A population based assessment of complications following outpatient hydrocelectomy and spermatocelectomy. *J Urol* 2004;171:746-8.
+
+[125] Swartz MA, Morgan TM, Krieger JN. Complications of scrotal surgery for benign conditions. *Urology* 2007;69:616-9.
+
+[126] Engbaek J, Bartholdy J, Hjortsø N-C. Return hospital visits and morbidity within 60 days after day surgery: a retrospective study of 18,736 day surgical procedures. *Acta Anaesthesiol Scand* 2006;50:911-9.
+
+[127] Bruyère F, Sotto A, Escaravage L, Cariou G, Mignard JP, Coloby P, et al. [Recommendations of the Infectious Disease Committee of the French Association of Urology (AFU): antibiotic prophylaxis for urological procedures]. *Prog Urol* 2010;20:101-8.
+
+[128] Sewonou A, Rioux C, Golliot F, Richard L, Massault PP, Johonet H, et al. [Incidence of surgical site infection in ambulatory surgery: results of the INCISCO surveillance network in 1999-2000]. *Ann Chir* 2002;127:262-7.
+
+[129] Seaman M, Lammers R. Inability of patients to self-diagnose wound infections. *J Emerg Med* 1991;9:215-9.
+
+[130] NICE, Surgical Site Infection Guidelines. 2008: <http://www.nice.org.uk/nicemedia/pdf/cg74niceguideline.pdf>
+
+[131] SFHH. Conférence de consensus : gestion préopératoire du risque infectieux.
+
+[132] CIAFU. Mémento du risque infectieux périopératoire. <http://www.urofrance.org/fileadmin/documents/data/C3/2010/C3-2010-00110001-2/TEXF-C3-2010-00110001-2.PDF>
+
+[133] McHugh SM, Corrigan MA, Dimitrov BD, Cowman S, Tierney S, Hill ADK, et al. Preventing infection in general surgery: improvements through education of surgeons by surgeons. *J Hosp Inf* 2011;78:312-6.
+
+[134] Shamim M. Diathermy vs scalpel skin incisions in general surgery: double-blind, randomized, clinical trial. *World J Surg* 2009;33:1594-9.
+
+[135] Leroy S, Lagouche SBD. Tabagisme et anesthésie. Congrès national d'anesthésie et de réanimation 2007. Conférences d'actualisation p. 079-089; [http://www.sfar.org/acta/dossier/archives/ca07/html/ca07\\_06/ca07\\_06.htm](http://www.sfar.org/acta/dossier/archives/ca07/html/ca07_06/ca07_06.htm)
+
+[136] Møller AM, Villebro N, Pedersen T, Tønnesen H. Effect of preoperative smoking intervention on postoperative complications: a randomised clinical trial. *Lancet* 2002;359:114-7.
+
+[137] Kavalukas SL, Barbul A. Nutrition and wound healing: an update. *Plastic Reconstr Surg* 2011;127 (Suppl):38S-43S.
+
+[138] Merad F, Hay JM, Fingerhut A, Yahchouchi E, Laborde Y, Pélissier E, et al. Is prophylactic pelvic drainage useful after elective rectal or anal anastomosis? A multicenter controlled randomized trial. *French Association for Surgical Research. Surgery* 1999;125:529-35.
+
+[139] Kawai M, Tani M, Terasawa H, Ina S, Hirono S, Nishioka R, et al. Early removal of prophylactic drains reduces the risk of intra-abdominal infections in patients with pancreatic head resection: prospective study for 104 consecutive patients. *Ann Surg* 2006;244:1-7.
+
+[140] Brühl P. Antisepsis and genital hygiene in scrotal surgery: liability claims in the event of treatment errors. *GMS Krankenhaushygiene Interdisziplinär* 2007;2:Doc23.
+
+[141] Robaux S, Bouaziz H, Cornet C, Boivin JM, Lefèvre N, Laxenaire MC. Acute postoperative pain management at home after ambulatory surgery: a French pilot survey of general practitioners' views. *Anesth Analg* 2002;95:1258-62.
+
+[142] Rawal N, Hylander J, Nydahl PA, Olofsson I, Gupta A. Survey of postoperative analgesia following ambulatory surgery. *Acta Anaesthesiol Scand* 1997;41:1017-22.
+
+[143] Beauregard L, Pomp A, Choinière M. Severity and impact of pain after day-surgery. *Can J Anaesth* 1998;45:304-11.
+
+[144] McGrath B, Elgendy H, Chung F, Kamming D, Curti B, King S. Thirty percent of patients have moderate to severe pain 24 hr after ambulatory surgery: a survey of 5,703 patients. *Can J Anaesth* 2004;51:886-91.
+
+[145] Kehlet H, Holte K. Effect of postoperative analgesia on surgical outcome. *Br J Anaesth* 2001;87:62-72.
+
+[146] Comité douleur-anesthésie locorégionale et le comité des référentiels de la Sfar. [Formalized recommendations of experts 2008. Management of postoperative pain in adults and children]. *Ann Fr Anesth Reanim* 2008;27:1035-41.
+
+[147] Ghosh S, Sallam S. Patient satisfaction and postoperative demands on hospital and community services after day surgery. *Br J Surg* 1994;81:1635-8.
+
+[148] Bonnet F. [Patient satisfaction after anaesthesia: which are the relevant parameters?]. *Ann Fr Anesth Reanim* 2006;25:681-2.
+
+[149] Chung F, Un V, Su J. Postoperative symptoms 24 hours after ambulatory anaesthesia. *Can J Anaesth* 1996;43:1121-7.
+
+[150] Berkley KJ. Sex differences in pain. *Behav Brain Sciences* 1997;20:371-80; discussion 435-513.
+
+[151] Pavlin DJ, Chen C, Penalosa DA, Polissar NL, Buckley FP. Pain as a factor complicating recovery and discharge after ambulatory surgery. *Anesth Analg* 2002;95:627-34.
+
+[152] Ip HYV, Abrishami A, Peng PWH, Wong J, Chung F. Predictors of postoperative pain and analgesic consumption: a qualitative systematic review. *Anesthesiology* 2009;111:657-77.
+
+[153] Tong D, Chung F. Postoperative pain control in ambulatory surgery. *Surg Clin North Am* 1999;79:401-30.
+
+[154] Robaux S, Coulibaly Y, Konaté B, Boileau S, Cornet C, Dautel G, et al. [Impact of 2 strategies of analgesia on postoperative pain after emergency hand surgery performed on an ambulatory basis]. *Ann Fr Anesth Reanim* 2003;22:691-6.[155] Elvir-Lazo OL, White PF. The role of multimodal analgesia in pain management after ambulatory surgery. *Curr Opin Anaesth* 2010;23:697-703.
+
+[156] White PF, Kehlet H, Neal JM, Schrieker T, Carr DB, Carli F. The role of the anesthesiologist in fast-track surgery: from multimodal analgesia to perioperative medical care. *Anesth Analg* 2007;104:1380-96.
+
+[157] White PF. Multimodal pain management-the future is now! *Curr Opin Investig Drugs* 2007;8:517-8.
+
+[158] Chung F, Ritchie E, Su J. Postoperative pain in ambulatory surgery. *Anesth Analg* 1997;85:808-16.
+
+[159] Brennan F, Carr DB, Cousins M. Pain management: a fundamental human right. *Anesth Analg* 2007;105:205-21.
+
+[160] Sarin P, Philip BK, Mitani A, Eappen S, Urman RD. Specialized ambulatory anesthesia teams contribute to decreased ambulatory surgery recovery room length of stay. *Ochsner J* 2012;12:94-100.
+
+[161] Weber G, István M, Tóth GA, Horváth OP, Jakó GJ. A randomized comparison between minilaparotomy and conventional approach for aortiliac reconstructive surgery. *Acta Chir Hungar* 1997;36:391-2.
+
+[162] A comparison of laparoscopically assisted and open colectomy for colon cancer. *N Engl J Med* 2004;350:2050-9.
+
+[163] De Oliveira GS, Fitzgerald PC, Marcus RJ, Ahmad S, McCarthy RJ. A dose-ranging study of the effect of transversus abdominis block on postoperative quality of recovery and analgesia after outpatient laparoscopy. *Anesth Analg* 2011;113:1218-25.
+
+[164] Saad AM, el Hassan AM. Cholecystectomy with and without drainage: a prospective randomised study. *East Afr Med J* 1993;70:499-501.
+
+[165] Petrowsky H, Demartines N, Rousson V, Clavien P-A. Evidence-based value of prophylactic drainage in gastrointestinal surgery: a systematic review and meta-analyses. *Ann Surg* 2004;240:1074-84; discussion 1084-5.
+
+[166] Agarwal A, Dhiraaj S, Singhal V, Kapoor R, Tandon M. Comparison of efficacy of oxybutynin and tolterodine for prevention of catheter related bladder discomfort: a prospective, randomized, placebo-controlled, double-blind study. *Br J Anaesth* 2006;96:377-80.
+
+[167] Agarwal A, Dhiraaj S, Pawar S, Kapoor R, Gupta D, Singh PK. An evaluation of the efficacy of gabapentin for prevention of catheter-related bladder discomfort: a prospective, randomized, placebo-controlled, double-blind study. *Anesth Analg* 2007;105:1454-7.
+
+[168] Agarwal A, Yadav G, Gupta D, Singh PK, Singh U. Evaluation of intra-operative tramadol for prevention of catheter-related bladder discomfort: a prospective, randomized, double-blind study. *Brit J Anaesth* 2008;101:506-10.
+
+[169] Harmon WJ, Sershon PD, Blute ML, Patterson DE, Segura JW. Ureteroscopy: current practice and long-term complications. *J Urol* 1997;157:28-32.
+
+[170] Makarov D V, Trock BJ, Allaf ME, Matlaga BR. The effect of ureteral stent placement on post-ureteroscopy complications: a meta-analysis. *Urology* 2008;71:796-800.
+
+[171] Damiano R, Autorino R, De Sio M, Giacobbe A, Palumbo IM, D'Armiento M. Effect of tamsulosin in preventing ureteral stent-related morbidity: a prospective study. *J Endour* 2008;22:651-6.
+
+[172] Beddingfield R, Pedro RN, Hinck B, Kreidberg C, Feia K, Monga M. Alfuzosin to relieve ureteral stent discomfort: a prospective, randomized, placebo controlled study. *J Urol* 2009;181:170-6.
+
+[173] Deliveliotis C, Chrisofos M, Gougousis E, Papatsoris A, Dellis A, Varkarakis IM. Is there a role for alpha1-blockers in treating double-J stent-related symptoms? *Urology* 2006;67:35-9.
+
+[174] Wang CJ, Huang SW, Chang C-H. Effects of specific alpha-1A/1D blocker on lower urinary tract symptoms due to double-J stent: a prospectively randomized study. *Urolog Res* 2009;37:147-52.
+
+[175] Park SC, Jung SW, Lee JW, Rim JS. The effects of tolterodine extended release and alfuzosin for the treatment of double-J stent-related symptoms. *J Endour* 2009;23:1913-7.
+
+[176] Lim KT, Kim YT, Lee TY, Park SY. Effects of tamsulosin, solifenacin, and combination therapy for the treatment of ureteral stent related discomforts. *Korean J Urol* 2011;52:485-8.
+
+[177] Liu SS, Strodtbeck WM, Richman JM, Wu CL. A comparison of regional versus general anesthesia for ambulatory anesthesia: a meta-analysis of randomized controlled trials. *Anesth Analg* 2005;101:1634-42.
+
+[178] Klein SM, Evans H, Nielsen KC, Tucker MS, Warner DS, Steele SM. Peripheral nerve block techniques for ambulatory surgery. *Anesth Analg* 2005;101:1663-76.
+
+[179] Musallam KM, Tamim HM, Richards T, Spahn DR, Rosendaal FR, Habbal A, et al. Preoperative anaemia and postoperative outcomes in non-cardiac surgery: a retrospective cohort study. *Lancet* 2011;378:1396-407.
+
+[180] Karkouti K, Wijeyundera DN, Beattie WS. Risk associated with preoperative anaemia in cardiac surgery: a multicenter cohort study. *Circulation* 2008;117:478-84.
+
+[181] Carson JL, Duff A, Poses RM, Berlin JA, Spence RK, Trout R, et al. Effect of anaemia and cardiovascular disease on surgical mortality and morbidity. *Lancet* 1996;348:1055-60.
+
+[182] Dunne JR, Malone D, Tracy JK, Gannon C, Napolitano LM. Perioperative anaemia: an independent risk factor for infection, mortality, and resource utilization in surgery. *J Surg Res* 2002;102:237-44.
+
+[183] Leichtle SW, Mouawad NJ, Lampman R, Singal B, Cleary RK. Does preoperative anaemia adversely affect colon and rectal surgery outcomes? *J Am Coll Surg* 2011;212:187-94.
+
+[184] Neveleff DJ. Optimizing hemostatic practices: matching the appropriate hemostat to the clinical situation. *AORN Journal* 2012;96:S1 - S17.
+
+[185] Gupta AD, Streiff M, Resar J, Schoenberg M. Coronary stent management in elective genitourinary surgery. *BJU International* 2012;110:480-4.
+
+[186] Bélisle S, Hardy JF. Hemorrhage and the use of blood products after adult cardiac operations: myths and realities. *Ann Thor Surg* 1996;62:1908-17.
+
+[187] Kapetanakis EI, Medlam DA, Boyce SW, Haile E, Hill PC, Dullum MKC, et al. Clopidogrel administration prior to coronary artery bypass grafting surgery: the cardiologist's panacea or the surgeon's headache? *Eur Heart J* 2005;26:576-83.
+
+[188] SFAR. Conférences d'experts : agents antiplaquettaires et période périopératoire. 2001; <http://www.sfar.org/article/38/agents-antiplaquettaires-et-periodie-perioperatoire-ce-2001>
+
+[189] Burger W, Chemnitius J-M, Kneissl GD, Rücker G. Low-dose aspirin for secondary cardiovascular prevention - cardiovascular risks after its perioperative withdrawal versus bleeding risks with its continuation - review and meta-analysis. *J Intern Med* 2005;257:399-414.
+
+[190] Neillipovitz DT, Bryson GL, Nichol G. The effect of perioperative aspirin therapy in peripheral vascular surgery: a decision analysis. *Anesth Analg* 2001;93:573-80.
+
+[191] Nuttall GA, Santrach PJ, Oliver WC, Horlocker TT, Shaughnessy WJ, Cabanela ME, et al. The predictors of red cell transfusions in total hip arthroplasties. *Transfusion* 1996;36:144-9.
+
+[192] Manning BJ, O'Brien N, Aravindan S, Cahill RA, McGreal G, Redmond HP. The effect of aspirin on blood loss and transfusion requirements in patients with femoral neck fractures. *Injury* 2004;35:121-4.
+
+[193] Nuttall GA, Horlocker TT, Santrach PJ, Oliver WC, Dekutoski MB, Bryant S. Predictors of blood transfusions in spinal instrumentation and fusion surgery. *Spine* 2000;25:596-601.
+
+[194] Stage J, Jensen JH, Bonding P. Post-tonsillectomy haemorrhage and analgesics. A comparative study of acetylsalicylic acid and paracetamol. *Clin Otolaryngol Allied Sciences* 1988;13:201-4.
+
+[195] Thurston A V, Briant SL. Aspirin and post-prostatectomy haemorrhage. *Brit J Urol* 1993;71:574-6.[196] Eberli D, Chassot PG, Sulser T, Samama CM, Mantz J, Delabays A, Spahn DR. Urological surgery and antiplatelet drugs after cardiac and cerebrovascular accidents. *J Urol* 2010;183:2128-36.
+
+[197] Recommandations SFAR/SFC 2010. Prise en charge du coronarien qui doit être opéré en chirurgie non cardiaque. <http://www.sfar.org/article/677/prise-en-charge-du-coronarien-qui-doit-etre-opere-en-chirurgie-non-cardiaque-rfe-2010>
+
+[198] Chassot P-G, Delabays A, Spahn DR. Perioperative antiplatelet therapy: the case for continuing therapy in patients at risk of myocardial infarction. *Br J Anaesth* 2007;99:316-28.
+
+[199] Antiagrégants plaquettaires : prise en compte des risques thrombotique et hémorragique lors d'une intervention endoscopique urologique chez le coronarien, Juin 2012 HAS ; [http://www.has-sante.fr/portail/upload/docs/application/pdf/2012-10/fiche\\_de\\_synthese\\_antiagregant\\_plaquettaire\\_urologie.pdf](http://www.has-sante.fr/portail/upload/docs/application/pdf/2012-10/fiche_de_synthese_antiagregant_plaquettaire_urologie.pdf)
+
+[200] Prise en charge des surdosages en antivitamines K, des situations à risque hémorragique et des accidents hémorragiques chez les patients traités par antivitamines K en ville et en milieu hospitalier. Recommandations professionnelles, synthèse et document destiné aux MG ; GEHT- HAS, Avril 2008.
+
+[201] Pastore AL, Mariani S, Barrese F, Palleschi G, Valentini AM, Pacini L, et al. Transurethral resection of prostate and the role of pharmacological treatment with dutasteride in decreasing surgical blood loss. *J Endourol* 2013;27:68-70.
+
+[202] Donohue JF, Sharma H, Abraham R, Natalwala S, Thomas DR, Foster MC. Transurethral prostate resection and bleeding: a randomized, placebo controlled trial of role of finasteride for decreasing operative blood loss. *J Urol* 2002;168:2024-6.
+
+[203] Tuncel A, Ener K, Han O, Nalcacioglu V, Aydin O, Seckin S, et al. Effects of short-term dutasteride and Serenoa repens on perioperative bleeding and microvessel density in patients undergoing transurethral resection of the prostate. *Scand J Urol Nephrol* 2009;43:377-82.
+
+[204] Molliex S, Pierre S, Bléry C, Marret E, Beloeil H. Examens preinterventionnels systematiques. *Ann Fr Anesth Reanim* 2012;31:752-63.
+
+[205] Lasocki S, Rineau E, Chaudet A, Carlier L. Anémie péri-opératoire : nouveau paradigme. *Le Praticien en anesthésie réanimation* 2013;17:77-83.
+
+[206] Haute autorité de santé. Hémostatiques chirurgicaux. Rapport d'évaluation technologique, Janvier 2009.
+
+[207] Fagerström T, Nyman CR, Hahn RG. Bipolar transurethral resection of the prostate causes less bleeding than the monopolar technique: a single-centre randomized trial of 202 patients. *BJU International* 2010;105:1560-4.
+
+[208] Misrai V, Rouprêt M, Guillotreau J, Bordier B, Bruyère F. Traitement de l'hyperplasie bénigne de prostate par photovaporisation au laser Greenlight((R)) : analyse de la littérature. *Prog Urol* 2013;23:77-87.
+
+[209] Lourenco T, Armstrong N, N'Dow J, Nabi G, Deverill M, Pickard R, et al. Systematic review and economic modelling of effectiveness and cost utility of surgical treatments for men with benign prostatic enlargement. *Health Technol Assess* 2008;12:iii, ix-x, 1-146, 169-515.
+
+[210] Thangasamy IA, Chalasani V, Bachmann A, Woo HH. Photoselective vaporisation of the prostate using 80-W and 120-W laser versus transurethral resection of the prostate for benign prostatic hyperplasia: a systematic review with meta-analysis from 2002 to 2012. *Eur Urol* 2012;62:315-23.
+
+[211] Berger J, Robert G, Descazeaud A. Laser treatment of benign prostatic hyperplasia in patients on oral anticoagulant therapy. *Curr Urol Rep* 2010;11:236-41.
+
+[212] Ruszat R, Wyler S, Forster T, Reich O, Stief CG, Gasser TC, et al. Safety and effectiveness of photoselective vaporization of the prostate (PVP) in patients on ongoing oral anticoagulation. *Eur Urol* 2007;51:1031-8; discussion 1038-41.
+
+[213] Tugcu V, Tasci AI, Sahin S, Zorluoglu F. Comparison of photoselective vaporization of the prostate and transurethral resection of the prostate: a prospective nonrandomized bicenter trial with 2-year follow-up. *J Endourol* 2008;22:1519-25.
+
+[214] Reich O, Bachmann A, Siebels M, Hofstetter A, Stief CG, Sulser T. High power (80 W) potassium-titanyl-phosphate laser vaporization of the prostate in 66 high risk patients. *J Urol* 2005;173:158-60.
+
+[215] Sarica K, Alkan E, Lülec H, Taşci AI. Photoselective vaporization of the enlarged prostate with KTP laser: long-term results in 240 patients. *J Endourol* 2005;19:1199-202.
+
+[216] Sandhu JS, Ng CK, Gonzalez RR, Kaplan SA, Te AE. Photoselective laser vaporization prostatectomy in men receiving anticoagulants. *J Endourol* 2005;19:1196-8.
+
+[217] Descazeaud A, Robert G, Azzousi AR, Ballereau C, Lukacs B, Haillot O, et al. Laser treatment of benign prostatic hyperplasia in patients on oral anticoagulant therapy: a review. *BJU International* 2009;103:1162-5.
+
+[218] Shander A, Van Aken H, Colomina MJ, Gombotz H, Hofmann A, Krauspe R, et al. Patient blood management in Europe. *Br J Anaesth* 2012;109:55-68.
+
+[219] Société française d'anesthésie et réanimation. Dossier anesthésique. Consultations délocalisées et consultations itératives. SFAR ; 2001.
+
+[220] Haute Autorité de Santé. Référentiel de Pratiques Professionnelles. Tenue du dossier d'anesthésie. HAS ; juin 2005.
+
+[221] Dadure C, Raux O, Rochette A, Capdevila X. Anesthésie ambulatoire pédiatrique. 51<sup>e</sup> Congrès national de la Société française d'anesthésie et de réanimation. Paris ; 2009.
+
+[222] Beausseier M, Niccolai P. Anesthésie et analgésie locorégionale en chirurgie abdominale et périnéale. Paris, Arnette 2010.
+
+[223] Navalón V, Navalón P, Pallás Y, Ordoño F, Monllor E. Outpatient surgical treatment of female stress urinary incontinence under local anesthesia-sedation with contrasure needleless incision. *Actas Urol Esp* 2013 Apr 29. pii: S0210-4806(13)00057-0. doi: 10.1016/j. acuro.2013.01.011. [Epub ahead of print]
+
+[224] Winton AL, Eastwood J, Powell MC, Norris AM. An evaluation of conscious sedation using propofol and remifentanyl for tension-free vaginal tape insertion. *Anaesthesia* 2008;63:932-7.
+
+[225] Korhonen AM. Use of spinal anaesthesia in day surgery. *Curr Opin Anaesthesiol* 2006;19:612-6.
+
+[226] Lacasse MA, Roy JD, Forget J, Vandenbroucke F, Seal RF, Beaulieu D, et al. Comparison of bupivacaine and 2-chloroprocaine for spinal anesthesia for outpatient surgery: a double-blind randomized trial. *Can J Anaesth* 2011;58:384-91.
+
+[227] Nair GS, Abrishami A, Lermite J, Chung F. Systematic review of spinal anaesthesia using bupivacaine for ambulatory knee arthroscopy. *Br J Anaesth* 2009;102:307-15.
+
+[228] Apfel CC, Meyer A, Orhan-Sungur M, Jalota L, Whelan RP, Jukar-Rao S. Supplemental intravenous crystalloids for the prevention of postoperative nausea and vomiting: quantitative review. *Br J Anaesth* 2012;108:893-902.
+
+[229] Smith I, Kranke P, Murat I, Smith A, O'Sullivan G, Søreide E, et al. Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology. *Eur J Anaesthesiol* 2011;28:556-69.
+
+[230] Chung F. Recovery pattern and home-readiness after ambulatory surgery. *Anesth Analg* 1995;80:896-902.
+
+[231] Wu CL, Berenholtz SM, Pronovost PJ, Fleisher LA. Systematic review and analysis of postdischarge symptoms after outpatient surgery. *Anesthesiology* 2002;96:994-1003.
+
+[232] Gan TJ, Meyer TA, Apfel CC, Chung F, Davis PJ, Habib AS, et al. Society for Ambulatory Anesthesia guidelines for the management of postoperative nausea and vomiting. *Anesth Analg* 2007;105:1615-28.
+
+[233] Apfel CC, Kranke P, Eberhart LHJ, Roos A, Roewer N. Comparison of predictive models for postoperative nausea and vomiting. *Br J Anaesth* 2002;88:234-40.
+
+[234] Apfel CC, Philip BK, Cakmakaya OS, Shilling A, Shi YY, Leslie JB, et al. Who is at risk for postdischarge nausea and vomiting after ambulatory surgery? *Anesthesiology* 2012;117:475-86.[235] Prise en charge des nausées vomissements postopératoires. Conférence d'experts présentée lors du Congrès de la SFAR 2007.
+
+[236] Waldron NH, Jones CA, Gan TJ, Allen TK, Habib AS. Impact of perioperative dexamethasone on postoperative analgesia and side-effects: systematic review and meta-analysis. *Br J Anaesth* 2013;110:191-200.
+
+[237] Rawal N. Postdischarge complications and rehabilitation after ambulatory surgery. *Curr Opin Anaesthesiol* 2008;21:736-42.
+
+[238] Kokki H, Kokki M, Sjövall S. Oxycodone for the treatment of postoperative pain. *Expert Opin Pharmacother* 2012;13:1045-58.
+
+[239] Scott NB. Wound infiltration for surgery. *Anaesthesia* 2010;65 (Suppl 1):67-75.
+
+[240] Schreiner MS, Nicolson SC, Martin T, Whitney L. Should children drink before discharge from day surgery? *Anesthesiology* 1992;76:528-33.
+
+[241] Jin F, Norris A, Chung F, Ganeshram T. Should adult patients drink fluids before discharge from ambulatory surgery? *Anesth Analg* 1998;87:306-11.
+
+[242] Abécédaire : chirurgie ambulatoire. Rapports d'experts : CNAM ; janvier 2009.
+
+[243] Guide des Professionnels de Santé. In : Les Guides de la CNIL ; 2011.
+
+[244] ANAP/HAS. Ensemble pour le développement de la chirurgie ambulatoire. Recommandations organisationnelles 2013.![Elsevier Masson logo featuring a tree and the text ELSEVIER MASSON](1b5a2cc9ba5306263f40dd448b001070_2_img.webp)
+
+Elsevier Masson France
+
+EM|consulte
+
+www.em-consulte.com
+
+![Cover of the journal 'Progrès en Urologie' showing a kidney and the title](1b5a2cc9ba5306263f40dd448b001070_6_img.webp)
+
+# Chirurgie ambulatoire en urologie : texte des recommandations AFU
+
+Novembre 2013
+
+G. Legrand, T. le Guilchet, J. Branchereau, S. Larue, T. Murez,  
+F.-R. Desfemmes, B. Vignes, É. Lechevallier, X. Rébillard,  
+P. Coloby, P. Mongiat-Artus, G. Cuvelier\* et les membres  
+du Comité des Pratiques Professionnelles de l'AFU
+
+## 1. Préambule
+
+### 1.1. Objectifs des recommandations
+
+L'objectif principal de ces recommandations est de permettre, à l'ensemble des urologues, de développer la pratique d'une chirurgie urologique ambulatoire de qualité, avec les mêmes conditions de sécurité qu'en hospitalisation traditionnelle, en intégrant les technologies et les concepts en organisation actuels et à venir.
+
+L'objectif secondaire est de fournir des documents d'information aux médecins généralistes et aux patients ainsi qu'à l'ensemble des co-intervenants en chirurgie ambulatoire de l'établissement de santé.
+
+### 1.2. Limites du travail
+
+Ces recommandations ont pour objectif de répondre aux questions suivantes :
+
+- • Y a-t-il une spécificité du parcours de soin du patient dans le cadre de la chirurgie ambulatoire urologique ?
+- • Y a-t-il des spécificités de la chirurgie ambulatoire en urologie chez la personne âgée ?
+- • Comment évaluer, prévenir et traiter le risque rétentionnel postopératoire ?
+- • Comment évaluer, prévenir et traiter le risque infectieux postopératoire après chirurgie ambulatoire urologique ?
+- • Comment évaluer, prévenir et traiter le risque de douleur postopératoire après chirurgie ambulatoire urologique ?
+- • Comment évaluer, traiter et prévenir le risque hémorragique après chirurgie ambulatoire urologique ?
+
+Volontairement, ces recommandations ne définissent pas de listes d'actes, pour les raisons suivantes :
+
+- • ce n'est pas l'acte qui est ambulatoire mais le trio acte/patient/structure, structure ou organisation à laquelle certaines unités plus avancées associent un réseau d'aval à domicile ;
+- • ce serait une négation du progrès continu de la chirurgie et de l'anesthésie avec l'apparition de nouvelles techniques (miniaturisation des endoscopes, des mécanismes opérateurs, de la robotique ; pilotage informatique de l'anesthésie ; anesthésie locorégionale échoguidée ; infuseur-pompe intelligente), de nouvelles énergies (vaporisation électrique ou laser, radiofréquence) et de nouveaux moyens de communication (télémédecine) ;
+- • ce serait oublier que des pathologies disparaissent et apparaissent.
+
+### 1.3. Patients concernés
+
+Les patients concernés sont l'ensemble des patients adultes et enfants devant faire l'objet d'une intervention urologique, susceptible de bénéficier d'une prise en charge ambulatoire.
+
+### 1.4. Professionnels concernés
+
+Les professionnels concernés par ce thème sont essentiellement les chirurgiens urologues, mais aussi l'ensemble des chirurgiens effectuant des actes urologiques.
+
+Sont également concernés par ce thème les professionnels qui partagent avec l'urologie la prise en charge des patients concernés lors de leur hospitalisation.
+
+\*Auteur correspondant.
+
+Adresse e-mail : g.cuvelier@ch-cornouaille.fr## 1.5. Méthode de travail
+
+La méthode retenue est celle du consensus formalisé, décrite par la HAS<sup>1</sup>. Ce travail est conduit par l'Association Française d'Urologie avec l'appui méthodologique d'un chef de projet de la HAS.
+
+## 1.6. Actualisation des recommandations
+
+L'actualisation de cette recommandation de bonne pratique sera envisagée en fonction des données publiées dans la littérature scientifique ou des modifications de pratique significatives survenues après sa publication.
+
+Pour en savoir plus sur la méthode d'élaboration des recommandations par consensus formalisé, se référer au guide diffusé en janvier 2011 : « Élaboration de recommandations de bonne pratique : *Méthode Recommandations par consensus formalisé* ». Ce guide est téléchargeable sur le site Internet de la HAS : [www.has-sante.fr](http://www.has-sante.fr).
+
+## 1.7. Gradation des recommandations
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">Grade des recommandations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>A</b></td>
+<td><b>Preuve scientifique établie</b><br/>Fondée sur des études de fort niveau de preuve (niveau de preuve 1), comme des essais comparatifs randomisés de forte puissance et sans biais majeur ou méta-analyse d'essais comparatifs randomisés, analyse de décision basée sur des études bien menées.</td>
+</tr>
+<tr>
+<td><b>B</b></td>
+<td><b>Présomption scientifique</b><br/>Fondée sur une présomption scientifique fournie par des études de niveau intermédiaire de preuve (niveau de preuve 2), comme des essais comparatifs randomisés de faible puissance, des études comparatives non randomisées bien menées, des études de cohorte.</td>
+</tr>
+<tr>
+<td><b>C</b></td>
+<td><b>Faible niveau de preuve</b><br/>Fondée sur des études de moindre niveau de preuve, comme des études cas témoins (niveau de preuve 3), des études rétrospectives, des séries de cas, des études comparatives comportant des biais importants (niveau de preuve 4).</td>
+</tr>
+<tr>
+<td><b>AE</b></td>
+<td><b>Accord d'experts</b><br/>En l'absence d'études, les recommandations sont fondées sur un accord entre experts du groupe de travail, après consultation du groupe de lecture. L'absence de gradation ne signifie pas que les recommandations ne sont pas pertinentes et utiles. Elle doit, en revanche, inciter à engager des études complémentaires.</td>
+</tr>
+</tbody>
+</table>
+
+1. Élaboration de recommandations de bonne pratique – Méthode « Recommandations par consensus formalisé ». Saint Denis La Plaine : HAS ; 2010.
+
+## 2. Synthèse des recommandations
+
+### 2.1. Y a-t-il une spécificité du parcours de soin du patient dans le cadre de la chirurgie ambulatoire urologique ?
+
+#### 2.1.1. Aspect éthique
+
+1 - Il est recommandé d'appliquer les recommandations selon le contexte, pour un patient, un acte chirurgical, une organisation et une équipe médico-chirurgicale donnés. (AE)
+
+#### 2.1.2. Éligibilité à l'ambulatoire
+
+2 - Il est recommandé de privilégier le mode d'hospitalisation ambulatoire lorsque les conditions d'éligibilité du patient sont réunies. (AE)
+
+3 - Il est recommandé d'identifier dans l'entourage du patient les personnes susceptibles d'intervenir dans la prise en charge ambulatoire (personnes ressources : accompagnant, aidant naturel, personne de confiance<sup>2</sup>). Leur rôle sera précisé en fonction du contexte médical et social. (AE)
+
+4 - Il est recommandé de vérifier la conformité des conditions requises pour la pratique de l'ambulatoire à toutes les étapes de la prise en charge. (AE)
+
+5 - Une déficience physique ou intellectuelle n'interdit pas la prise en charge ambulatoire. Elle nécessite des adaptations spécifiques. (AE)
+
+6 - Les enfants sont d'excellents candidats à la prise en charge ambulatoire. Il est recommandé que les particularités liées au jeune âge soient prises en compte dans les structures. (AE)
+
+7 - Le grand âge en soi est une bonne indication à la prise en charge ambulatoire lorsque les conditions d'éligibilité sont réunies. L'hospitalisation ambulatoire diminuerait le risque confusionnel. (AE)
+
+#### 2.1.3. Organisation
+
+8 - La consultation de programmation opératoire est un temps essentiel de l'organisation ambulatoire et de l'information du patient.
+
+Elle nécessite de mettre à disposition des moyens en termes de temps médical et non médical. (AE)
+
+9 - Il est recommandé au cours des différentes étapes de la chirurgie ambulatoire (de l'accueil à la sortie) d'identifier
+
+2. **Accompagnant** : Personne qui accompagne le patient pour effectuer le trajet de retour à domicile après chirurgie ambulatoire.  
+**Aidant naturel** : Personne non professionnelle qui vient en aide à une personne dépendante pour les activités de la vie quotidienne.  
+**Personne de confiance** : Personne choisie librement dans son entourage par le patient pouvant l'accompagner dans ses démarches et l'assister à ses entretiens médicaux, l'aider à prendre des décisions et être consulté en priorité par l'équipe médicale si l'état de santé du patient ne lui permettait pas de donner son avis.les sources de perte de temps dans l'organisation des flux (mauvaise planification, temps d'attente, de transfert). (AE)
+
+10 - Il est recommandé que l'équipe de l'UCA soit sensibilisée, expérimentée et formée à la pratique de l'ambulatoire et à la réhabilitation précoce. (AE)
+
+11 - Il est recommandé de mettre en place au sein de l'UCA une démarche de gestion des risques concernant les risques liés aux processus de prise en charge du patient, les risques liés au défaut d'adhésion individuelle ou collective et les risques liés à des pressions institutionnelles sur des acteurs. (AE)
+
+#### 2.1.4. Y a-t-il des particularités anesthésiques à la chirurgie ambulatoire en urologie ?
+
+12 - Il est recommandé que le médecin anesthésiste réanimateur soit informé par l'urologue du choix d'un mode d'hospitalisation ambulatoire. (AE)
+
+13 - Il est recommandé qu'à l'issue de la consultation d'anesthésie, l'urologue soit informé en cas de réserve sur le mode d'hospitalisation ambulatoire. (AE)
+
+14 - Il est recommandé d'hydrater par voie orale les patients par des liquides clairs jusqu'à 2 heures avant l'intervention. Les critères habituels de jeûne préopératoire sont de 6 heures pour les solides et de 2 heures pour les liquides clairs<sup>3</sup>. (AE)
+
+15 - Il est recommandé de déterminer pour chaque intervention de façon collégiale une durée de surveillance postopératoire minimale requise. (AE)
+
+#### 2.1.5. Place du médecin traitant
+
+16 - Il est recommandé d'informer le médecin traitant du caractère ambulatoire de la prise en charge chirurgicale dès la consultation de programmation. (AE)
+
+17 - Il est recommandé que le médecin traitant échange toute information utile à la prise en charge ambulatoire avant la consultation de programmation, dans le temps intermédiaire entre la consultation et l'intervention et après l'intervention<sup>4</sup>. De même, il est recommandé de transmettre au médecin traitant tous les éléments utiles à la prise en charge post-interventionnelle (compte-rendu opératoire et d'hospitalisation, suites prévisibles, consignes, ordonnances et modalités de la continuité des soins). (AE)
+
+#### 2.1.6. Place du patient
+
+18 - Il est recommandé d'expliquer au patient les modalités de la chirurgie ambulatoire et de recueillir son
+
+assentiment afin qu'il soit (ou éventuellement son représentant légal) acteur de sa prise en charge. La décision d'ambulatoire doit être partagée avec lui.
+
+Il est recommandé d'informer le patient sur l'importance de respecter les consignes :
+
+- • pré-opératoire (joignable par téléphone, hydratation, jeûne, préparation cutanée, prescriptions). Leur non-respect pouvant conduire au report de l'intervention.
+- • postopératoires (prescriptions, éléments de surveillance et actes de soins éventuels). Leur non-respect pouvant nuire à la prise en charge. (AE)
+
+#### 2.1.7. Continuité des soins
+
+19 - Selon les textes réglementaires<sup>5</sup>, les conditions de mise en œuvre de la continuité des soins doivent être organisées par l'UCA en collaboration avec l'urologue et formalisées par écrit.
+
+20 - Il est recommandé lors des consultations pré-opératoires d'organiser par anticipation les mesures à prendre à la sortie de l'hospitalisation (ordonnances et consignes de sortie, rendez-vous postopératoire). Celles-ci devront être réévaluées et validées en postopératoire. (AE)
+
+21 - Il est recommandé de communiquer au patient (et éventuellement aux personnes ressources<sup>6</sup> dans le respect du secret médical) les informations sur la nature du geste pratiqué, les suites prévisibles et de lui délivrer un dossier de liaison (courriers et documents de sortie) pour son retour à domicile. (AE)
+
+22 - Il est recommandé de formaliser la procédure de contact<sup>7</sup> pour la continuité des soins. (AE)
+
+23 - Il est recommandé d'informer le patient (et éventuellement les personnes ressources) des signes qui feraient évoquer une complication postopératoire (infection, rétention, hémorragie, douleur) et de la conduite à tenir. (AE)
+
+### 2.2. Y a-t-il des spécificités de la chirurgie ambulatoire en urologie chez la personne âgée ?
+
+24 - Il est recommandé d'apporter une attention particulière à l'évaluation préopératoire du sujet âgé (antécédents, traitements, troubles cognitifs, entourage) et, éventuellement, de demander un avis gériatrique. Chez le sujet âgé, il est recommandé d'optimiser l'hydratation et d'évaluer l'état cognitif avant la sortie de l'UCA. (AE)
+
+25 - Il est recommandé de surveiller particulièrement les risques d'hypoxémie, d'hypothermie et d'hypovolémie chez le sujet âgé. (AE)
+
+3. Les liquides clairs sont représentés par l'eau, le thé, les boissons sucrées sans pulpe et sans gaz.
+
+4. Cet échange d'information peut porter avant la consultation de programmation, sur les critères médicaux et sociaux d'éligibilité du patient ; entre la consultation et l'intervention, sur la survenue d'événements intercurrents (modification du traitement, résultats de l'ECBU, maladie intercurrente) ; et après l'intervention, sur la survenue d'une complication tardive.
+
+5. Article D6124-304 du code de santé publique. Modifié par Décret n°2012-969 du 20 août 2012 - art. 5
+
+6. Une personne ressource est un membre de l'entourage du patient pouvant jouer un rôle dans la prise en charge ambulatoire, en tant qu'accompagnant, aidant naturel ou personne de confiance.
+
+7. La procédure de contact correspond au(x) numéro(s) de téléphone remis au patient et accessibles 24h/24 permettant aux professionnels de santé de ville de pouvoir joindre facilement en cas de besoin la structure qui a pris en charge le patient.### 2.3. Comment évaluer, prévenir et traiter le risque rétentionnel postopératoire ?
+
+26 - Il est recommandé d'évaluer le risque de rétention urinaire lors de la consultation de programmation opératoire en distinguant le risque rétentionnel faible et le risque élevé en fonction du patient, du type de chirurgie et du type d'anesthésie<sup>8</sup>. (AE)
+
+27 - Il est recommandé de maintenir un traitement alpha-bloquant en périopératoire sauf contre-indication (chirurgie de la cataracte<sup>9</sup>). (AE)
+
+28 - Il est recommandé de ne pas limiter les apports hydriques car cela augmente le risque de déshydratation, de caillotage vésical, et ralentit la reprise des mictions postopératoires. (AE)
+
+29 - Il est recommandé d'obtenir une miction avant toute intervention. (AE)
+
+30 - Il est recommandé de cathétériser la vessie en début d'intervention pour éviter une distension vésicale si la diurèse attendue avant la reprise des mictions est supérieure à 500 ml<sup>10</sup>. (AE)
+
+31 - L'anesthésie générale présente moins de risques de rétention urinaire qu'une anesthésie rachidienne. Il est recommandé d'envisager une option alternative à l'anesthésie rachidienne en cas de risque rétentionnel élevé (lié au patient ou au geste chirurgical). Si une anesthésie rachidienne est indiquée, il est recommandé de réduire les doses d'anesthésiques et de surveiller la reprise des mictions<sup>11</sup>. (AE)
+
+32 - Il est recommandé de limiter l'utilisation de médicaments augmentant le risque de rétention urinaire : morphiniques pour l'analgesie postopératoire et anticholinergiques. (AE)
+
+33 - Chez un patient à faible risque rétentionnel, il n'est pas nécessaire d'attendre la reprise mictionnelle avant la sortie, en chirurgie ambulatoire urologique et non urologique. (AE)
+
+34 - Chez un patient à risque rétentionnel élevé, il est recommandé de quantifier la miction et d'évaluer le résidu post-mictionnel avant la sortie, en chirurgie ambulatoire urologique et non urologique. (AE)
+
+35 - En chirurgie ambulatoire, il est possible de laisser sortir le patient avec une sonde urinaire. Lors de l'ablation de la sonde, il est recommandé d'évaluer la reprise des mictions. (AE)
+
+### 2.4. Comment évaluer, prévenir et traiter le risque infectieux postopératoire après chirurgie ambulatoire urologique ?
+
+36 - En l'absence de sonde à demeure, il est recommandé de réaliser un ECBU dans les 5 à 10 jours précédant toute chirurgie de l'appareil urinaire. Il est recommandé que l'UCA soit organisée pour permettre, tout au long de la prise en charge du patient, l'accès à son résultat et son interprétation. (AE)
+
+37 - L'interprétation de l'ECBU relève de l'urologue. Le dossier médical doit contenir le résultat de l'analyse et la conduite adoptée. (AE)
+
+38 - Si un ECBU préopératoire est nécessaire à la chirurgie, il est recommandé de vérifier son résultat et la conduite adoptée avant l'admission en UCA (« appel de la veille ») et lors de la réalisation de la check-list au bloc opératoire. (AE)
+
+39 - En présence d'une colonisation sur sonde, il est recommandé de débuter une antibiothérapie adaptée au moins 48 heures avant l'intervention. Il est recommandé de changer la sonde 24 heures après le début de l'antibiothérapie. (AE)
+
+40 - En cas de colonisation urinaire non traitée, il est recommandé de reporter une chirurgie programmée de l'appareil urinaire. (AE)
+
+41 - L'antibioprophylaxie doit être adaptée au site opératoire et à l'intervention conformément aux recommandations du CIAFU<sup>12</sup> et de la SFAR<sup>13</sup>. (AE)
+
+42 - En cas d'antibiothérapie préopératoire pour une colonisation, il est recommandé qu'elle soit poursuivie au moins 48 heures après l'intervention et jusqu'à l'ablation de la sonde. (AE)
+
+43 - Il est recommandé de favoriser l'arrêt du tabagisme le plus tôt possible avant la chirurgie et d'informer le patient des bénéfices de cet arrêt, notamment pour la qualité des suites opératoires<sup>14</sup>.
+
+44 - Il est recommandé de tenir compte de l'état nutritionnel avant l'acte chirurgical. (AE)
+
+---
+
+8. Les facteurs de risque rétentionnels sont décrits dans l'argumentaire de ces recommandations. On distingue les patients à risque élevé (chirurgie pelvienne, urologique, rectale et de la hernie ; sujets âgés ; antécédents de diabète ou neurologique ; obstacle sous-vésical, rachianesthésie) et les patients à risque faible (chirurgie non urologique, patient jeune, anesthésie générale).
+
+9. La prise d'alpha-bloquants lors de la chirurgie de la cataracte expose au risque de syndrome de l'iris flasque.
+
+10. Cela inclut la durée prévisible de l'intervention et de l'anesthésie.
+
+11. Ces recommandations sont issues des RFE de la SFAR concernant l'anesthésie ambulatoire parues en 2009.
+
+---
+
+12. Recommandations de bonnes pratiques cliniques : l'antibioprophylaxie en chirurgie urologique, par le Comité d'infectiologie de l'association française d'urologie (CIAFU). Progrès en urologie, 2010, 20, 2, 101-108
+
+13. Conférence de consensus : Antibioprophylaxie en chirurgie et médecine interventionnelle. SFAR. 2010
+
+14. L'arrêt du tabagisme par l'opéré doit survenir le plus tôt possible avant l'intervention. Une période de 6 à 8 semaines d'abstention fait diminuer le risque anesthésique et de 4 semaines le risque de cicatrisation.45 - Concernant la préparation cutanée, il est recommandé que la douche antiseptique soit réalisée au plus près de l'intervention par le patient à son domicile et que la dépilation du site opératoire (si elle est nécessaire) soit réalisée le jour même préférentiellement par tonte. Le rasage doit être proscrit. (AE)
+
+46 - Lorsqu'un drainage du site opératoire est indispensable, il est recommandé de privilégier un drainage aspiratif par une contre-incision et de le laisser en place le moins longtemps possible. (AE)
+
+## 2.5. Comment évaluer, prévenir et traiter le risque de douleur postopératoire après chirurgie ambulatoire urologique ?
+
+47 - Il est recommandé de ne pas recourir à une endoprothèse urétérale de manière systématique après une urétéroscopie réalisée en ambulatoire. (AE)
+
+48 - Il est recommandé de ne pas recourir de façon systématique à un drainage vésical car il peut être source d'infection et d'inconfort. (AE)
+
+49 - Il est recommandé de donner au patient en préopératoire une information sur la douleur postopératoire et sa prise en charge. (AE)
+
+50 - Il est souhaitable de dépister les terrains d'hyperalgésie afin de proposer une prise en charge spécifique de la douleur post-opératoire. (AE)
+
+51 - Il est recommandé de diagnostiquer, d'évaluer (EVA) et de prendre en charge rapidement une douleur postopératoire et de la réévaluer avant la sortie du patient. (AE)
+
+52 - Il est recommandé de prendre en charge efficacement et précocement la douleur postopératoire car elle peut favoriser la survenue d'une douleur postopératoire chronique. (AE)
+
+53 - Il est recommandé de privilégier l'analgesie multimodale notamment par l'utilisation d'anesthésiques locaux de longue durée d'action (infiltration de la cicatrice ou bloc périnerveux), en concertation avec le médecin anesthésiste-réanimateur. (AE)
+
+## 2.6. Comment évaluer, prévenir et traiter le risque hémorragique après chirurgie ambulatoire urologique ?
+
+54 - La gestion du risque hémorragique en chirurgie ambulatoire doit être une préoccupation majeure des différents intervenants : urologue, médecin anesthésiste-réanimateur, médecin traitant, cardiologue, infirmier(ère), patient et aidant naturel. (AE)
+
+55 - Une gestion périopératoire clairement définie, adaptée et organisée des traitements antithrombotiques
+
+permet de limiter les risques de complication hémorragiques et thrombotiques. (AE)
+
+56 - Il est recommandé qu'un échange d'information périopératoire ait lieu entre le médecin anesthésiste-réanimateur, l'urologue, le médecin traitant et si nécessaire le cardiologue pour définir le risque hémorragique de l'intervention et le risque thromboembolique de l'arrêt des traitements antithrombotiques<sup>15</sup>. (AE)
+
+57 - Il est recommandé d'organiser entre le médecin anesthésiste-réanimateur, l'urologue, le médecin traitant et si nécessaire le cardiologue, le relais, l'arrêt ou le maintien des traitements antithrombotiques, en tenant compte du terrain cardiovasculaire et de l'intervention prévue. (AE)
+
+58 - Il est recommandé de vérifier lors de l'appel de la veille la gestion des traitements antithrombotiques. (AE)
+
+59 - Il est recommandé de prendre en compte une anémie périopératoire et un risque hémorragique pour prévenir les risques de retard de cicatrisation et le surcroît de complications infectieuses. (AE)
+
+## Liens d'intérêts
+
+G. Cuvelier : Rapport d'expertise (ANAP) ; Conférences : auditeur (Ipsen).
+
+G. Legrand, T. le Guilchet, J. Branchereau, S. Larue et F.-R. Desfemmes ont déclaré n'avoir aucun lien d'intérêts pour cet article.
+
+T. Murez : Rapports d'expertise (Janssen) ; Conférences : intervenant (Sanofi) ; Conférences : auditeur (Janssen, Zambon, Ferring, Astellas, Ipsen, Takeda, Pfizer, GSK).
+
+B. Vignes : Conférences : intervenant (Takeda) ; Conférences : auditeur (Pfizer, AstraZeneca, Solvay Pharma).
+
+E. Lechevallier : Conseil (Ipsen) ; Essais cliniques (Astellas, Takeda) ; Conférences : intervenant (Astellas, Ipsen) ; DIU Oncologie (AstraZeneca).
+
+X. Rébillard : Essais cliniques (Astellas, Ferring, Ipsen, Janssen, Takeda, Essais GETUG-AFU) ; Conseil (Bayer, Ipsen, Janssen, Sanofi) ; Conférences : intervenant (Ipsen, Janssen, Ferring, GSK, Sanofi, AstraZeneca) ; Membre du conseil d'administration de l'AFU, Membre de la Commission Scientifique Indépendante (CSI) des médecins (OG-DPC).
+
+P. Coloby : Essais cliniques (Ferring, Sanofi Aventis) ; Conseil (Ferring, Janssen, Keocyt) ; Conférences : intervenant (Astellas, AstraZeneca, Ferring, Janssen, Novartis, Pierre Fabre, Takeda) ; Conférences : auditeur (Astellas, Ferring, GSK, Ipsen, Janssen, Novartis, Pierre Fabre, Takeda).
+
+P. Mongiat-Artus : Essais cliniques : (GETUG) ; Rapports d'expertise (Pierre Fabre) ; Conseil (Myriad Genetics) ; Conférences : intervenant (Ipsen, Sanofi, Astellas, Janssen, Amgen, Ferring) ; Conférences : auditeur (Ipsen, Sanofi, Astellas, Janssen, Amgen, Ferring).
+
+15. Les traitements antithrombotiques comprennent les antiagrégants plaquettaires et les anticoagulants.![Elsevier Masson logo featuring a tree and the text ELSEVIER MASSON](de28d82ea525d2ab00ed9d369c3dc495_2_img.webp)
+
+Elsevier Masson France
+
+EM|consulte
+
+www.em-consulte.com
+
+![Cover of the journal 'Progrès en Urologie' showing a kidney and the title](de28d82ea525d2ab00ed9d369c3dc495_6_img.webp)
+
+## Commentaires
+
+# Valorisations et perspectives Les contraintes pour l'urologue
+
+**B. Vignes pour le SNCUF (Syndicat National des Chirurgiens Urologues Français)**
+
+La réalisation d'actes chirurgicaux en hospitalisation ambulatoire impose une organisation spécifique de l'activité. Les moyens humains et matériels mis en œuvre pour une telle organisation justifient une incitation financière de nature à favoriser le développement de la prise en charge ambulatoire.
+
+L'hospitalisation conventionnelle durable (plusieurs journées) permet à l'urologue d'organiser à sa convenance le suivi du patient. L'hospitalisation ambulatoire sur une, voire deux demi-journées, impose quant à elle une disponibilité quasi-immédiate de l'urologue.
+
+L'évolution vers une diminution de la durée d'hospitalisation nécessite un temps d'organisation croissant, qui mobilise l'urologue et son équipe (secrétaire, infirmière). Cette organisation ne souffre pas de contretemps dans un contexte de flux tendus en hospitalisation et au bloc opératoire.
+
+L'organisation d'une intervention est complexe. Elle demande une ou plusieurs consultations qui amènent à poser une indication opératoire, à en préciser le contenu (indication, déroulement de l'acte, suites opératoires prévisibles immédiates et à distance...) et à organiser toute une série de mesures d'accompagnement :
+
+- • Organisation du bilan préopératoire biologique et/ou d'imagerie :
+- • Organisation de la consultation préopératoire d'anesthésie :
+- • Organisation de la prise de contact avec l'établissement où sera réalisée l'intervention :
+- • Organisation des mesures à prendre à la sortie d'hospitalisation (consignes de surveillance, prescriptions postopératoires, soins à domicile, prise des RDV, continuité des soins...).
+
+Chaque étape de ce parcours justifie une information détaillée du patient et de ses accompagnants. Les supports
+
+documentaires ne remplacent pas l'échange direct et verbal qui contribue à valider l'éligibilité du patient et de l'acte à une prise en charge ambulatoire.
+
+En général les patients choisissent nommément leur urologue et attendent de celui-ci disponibilité et écoute non substituables.
+
+En 2013, ce temps d'organisation préopératoire ne peut être valorisé que par la réalisation de dépassements tarifaires sur les consultations et/ou l'acte opératoire.
+
+Le développement de l'activité ambulatoire suppose de gérer, en dehors de l'hospitalisation, un certain nombre de situations, notamment le drainage vésical qui est plus spécifique à l'urologie.
+
+De nombreux actes d'urologie s'accompagnent d'un drainage vésical par une sonde qui doit être laissée quelques heures voire quelques jours. Le retrait de la sonde à domicile suppose d'organiser la surveillance de la reprise des mictions. Le retrait de la sonde dans le centre où l'intervention a été réalisée requiert une disponibilité infirmière et/ou urologique pour évaluer les conditions de reprise des mictions. Cette évaluation de la reprise des mictions, par interrogatoire, débitmétrie et échographie post-mictionnelle, impose un environnement. *En 2013, il n'y a aucune valorisation pour une telle prise en charge.*
+
+L'activité ambulatoire peut nécessiter des consultations de contrôle postopératoire précoces qui, en 2013, se heurtent à la période des *deux semaines postopératoires pour leur facturation*.
+
+À titre d'exemple, le drainage urétéral après intervention endoscopique sur le haut appareil urinaire peut se faire par une endoprothèse qu'il faut retirer dans un second temps par une endoscopie ou par une sonde urétérale extériorisée qui impose de rester en hospitalisation complète. Le
+
+Correspondance.
+
+Adresse e-mail : bvignes@ch-versailles.fr.développement de l'activité ambulatoire incite à la pose d'une endoprothèse de courte durée mais se heurte à la prise en charge de son retrait précoce.
+
+Autant dire que, en 2013, les incitations financières au développement de l'ambulatoire sont inexistantes pour les urologues.
+
+Les économies dégagées par la réalisation des actes chirurgicaux en ambulatoire devraient être partagées entre les caisses, les établissements et les médecins. *En 2013, seules les caisses bénéficient financièrement de l'évolution vers davantage d'ambulatoire. Si une politique tarifaire d'incitation peut être menée aux travers des GHS, cela ne concerne que les établissements.*
+
+Il faut également mettre en place une revalorisation des tarifs médicaux. Cette revalorisation pourrait se faire sous plusieurs formes :
+
+- • création d'une consultation préopératoire d'organisation ambulatoire (consultation longue tarifée spécifiquement) ;
+- • création d'un forfait ambulatoire, à plusieurs niveaux, qui pourrait être attaché au code CCAM comme un modificateur ou un supplément,
+- • possibilité de facturer les consultations postopératoires précoces dans le cadre de l'ambulatoire.
+
+Le SNCUF admet que la diminution des durées d'hospitalisation constitue habituellement un bénéfice de confort pour les patients. Mais plus la sortie survient précocement après l'acte, plus le patient est alors impliqué dans sa propre surveillance à domicile. Cela n'exonère toutefois
+
+pas l'urologue de sa responsabilité, mais fragilise sa maîtrise du bon déroulement de la période postopératoire.
+
+Dans un contexte où les médecins sont sous la pression conjointe des patients et de leurs associations de défense, des tutelles et notamment des caisses, avec une médiatisation disproportionnée de tout dysfonctionnement, le SNCUF veille à ce que les évolutions du mode de prise en charge ne se fassent pas au détriment des conditions de travail des urologues.
+
+Les tarifs de l'Assurance maladie placent les médecins français au bas de l'échelle des revenus européens. En contraignant les médecins à appliquer des tarifs déconnectés de la réalité économique, l'organisme social n'incite ni aux changements ni à la prise en compte de l'innovation, qui permettraient pourtant une évolution des prises en charge. La diminution des revenus médicaux et son corollaire de réduction des équipes (secrétaire et aide opératoire) vont à l'encontre des besoins inhérents au développement de l'ambulatoire.
+
+Le SNCUF demande donc une politique d'accompagnement financier, tant pour les urologues que pour les établissements, afin de favoriser le développement de la prise en charge ambulatoire.
+
+## Liens d'intérêts
+
+B. Vignes : Conférences : intervenant (Takeda) ; Conférences : auditeur (Pfizer, AstraZeneca, Solvay Pharma).

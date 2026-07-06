@@ -1,0 +1,69 @@
+{
+  "file_name": "2_AFAR_Transport-intrahospitalier-des-patients-a-risque-vital.pdf",
+  "num_pages": 5,
+  "total_token_count": 12749,
+  "total_chunks": 156,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2578,
+      "num_chunks": 28,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2325,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2792,
+      "num_chunks": 36,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2648,
+      "num_chunks": 36,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2406,
+      "num_chunks": 36,
+      "num_images": 0
+    }
+  ]
+}

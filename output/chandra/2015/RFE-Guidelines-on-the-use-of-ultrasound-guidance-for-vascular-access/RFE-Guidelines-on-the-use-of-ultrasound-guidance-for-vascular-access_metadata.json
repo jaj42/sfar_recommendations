@@ -1,0 +1,69 @@
+{
+  "file_name": "RFE-Guidelines-on-the-use-of-ultrasound-guidance-for-vascular-access.pdf",
+  "num_pages": 5,
+  "total_token_count": 13016,
+  "total_chunks": 159,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2597,
+      "num_chunks": 35,
+      "num_images": 4
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2521,
+      "num_chunks": 30,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2928,
+      "num_chunks": 36,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2910,
+      "num_chunks": 43,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2060,
+      "num_chunks": 15,
+      "num_images": 0
+    }
+  ]
+}

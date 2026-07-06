@@ -1,0 +1,93 @@
+{
+  "file_name": "2b_AFAR_ANGLAISEExpert-panel-guidelines-2008.-Postoperative-pain-management-in-adults-and-children.-SFAR-Committees-on-Pain-and-Local-Regional-Anaesthesia-and-on-Standards..pdf",
+  "num_pages": 7,
+  "total_token_count": 12630,
+  "total_chunks": 158,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1743,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1993,
+      "num_chunks": 23,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1861,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2232,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2158,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2283,
+      "num_chunks": 32,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 360,
+      "num_chunks": 6,
+      "num_images": 0
+    }
+  ]
+}

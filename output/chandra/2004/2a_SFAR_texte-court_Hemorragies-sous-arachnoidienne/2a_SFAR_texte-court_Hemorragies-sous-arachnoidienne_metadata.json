@@ -1,0 +1,153 @@
+{
+  "file_name": "2a_SFAR_texte-court_Hemorragies-sous-arachnoidienne.pdf",
+  "num_pages": 12,
+  "total_token_count": 15176,
+  "total_chunks": 176,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 441,
+      "num_chunks": 8,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1692,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1447,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1083,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1362,
+      "num_chunks": 12,
+      "num_images": 1
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1488,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1470,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1341,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1388,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1198,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 1303,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1270,
+        1814
+      ],
+      "token_count": 963,
+      "num_chunks": 13,
+      "num_images": 0
+    }
+  ]
+}

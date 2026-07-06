@@ -1,0 +1,81 @@
+{
+  "file_name": "2_SFAR_Corticotherapie-au-cours-du-choc-septique-et-du-SDRA.pdf",
+  "num_pages": 6,
+  "total_token_count": 6653,
+  "total_chunks": 77,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1344,
+      "num_chunks": 23,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1215,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1385,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1245,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1126,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 338,
+      "num_chunks": 4,
+      "num_images": 0
+    }
+  ]
+}

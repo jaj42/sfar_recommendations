@@ -1,0 +1,297 @@
+{
+  "file_name": "2a_HAS_TEXTE-COURT_Prise-en-charge-de-linfarctus-du-myocarde.pdf",
+  "num_pages": 24,
+  "total_token_count": 19858,
+  "total_chunks": 227,
+  "total_images": 8,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 637,
+      "num_chunks": 13,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 305,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 937,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 688,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 984,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1142,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 953,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1529,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1033,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 960,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1051,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1501,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 881,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 538,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1130,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1160,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 1897,
+      "num_chunks": 42,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1210,
+        1815
+      ],
+      "token_count": 1017,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 935,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 48,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 231,
+      "num_chunks": 2,
+      "num_images": 1
+    },
+    {
+      "page_num": 21,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 48,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 22,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 48,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 23,
+      "page_box": [
+        0,
+        0,
+        1209,
+        1815
+      ],
+      "token_count": 205,
+      "num_chunks": 3,
+      "num_images": 1
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+![SFAR logo: Société Française d'Anesthésie et de Réanimation](45297f061025a444510e44d961c372eb_4_img.webp)
+![sfmu logo: Société Française de Médecine d'Urgence](45297f061025a444510e44d961c372eb_5_img.webp)
+
+## RECOMMANDATIONS FORMALISÉES D'EXPERTS
+
+### Urgences obstétricales extrahospitalières
+
+### Obstetric emergencies outside hospital. Formal guidelines 2010
+
+G. Bagou <sup>a,\*</sup>, B. Cabrita <sup>b</sup>, P.-F. Ceccaldi <sup>c</sup>, G. Comte <sup>a</sup>, M. Corbillon-Soubeiran <sup>d</sup>, J.-F. Diependaele <sup>e</sup>, F.-X. Duchateau <sup>f</sup>, O. Dupuis <sup>g</sup>, V. Hamel <sup>h</sup>, A. Launoy <sup>i</sup>, N. Laurenceau-Nicolle <sup>j</sup>, E. Menthonnex <sup>k</sup>, Y. Penverne <sup>h</sup>, T. Rackelboom <sup>l</sup>, A. Rozenberg <sup>m</sup>, C. Telion <sup>m</sup>
+
+<sup>a</sup> Samu-69, groupement hospitalier Édouard-Herriot, 3, place d'Arsonval, 69437 Lyon cedex 03, France
+
+<sup>b</sup> Samu-21, hôpital général, 3, rue du Faubourg-Raines, BP 1519, 21033 Dijon cedex, France
+
+<sup>c</sup> Service de gynécologie obstétrique, hôpital Beaujon, 92110 Clichy, France
+
+<sup>d</sup> Samu-Cesu-80, hôpital Nord, 80054 Amiens cedex, France
+
+<sup>e</sup> Smur pédiatrique, CHRU de Lille, 59037 Lille cedex, France
+
+<sup>f</sup> Smur Beaujon, hôpital Beaujon, 92110 Clichy, France
+
+<sup>g</sup> Service de gynécologie obstétrique, centre hospitalier Lyon-Sud, 69495 Pierre-Bénite cedex, France
+
+<sup>h</sup> Samu-44, 8, quai Moncousu, 44093 Nantes cedex 1, France
+
+<sup>i</sup> Service de réanimation chirurgicale, hôpital de Haute-pierre, 67098 Strasbourg cedex, France
+
+<sup>j</sup> Cellule régionale des transferts périnataux Rhône-Alpes, groupement hospitalier Édouard-Herriot, 69437 Lyon cedex 03, France
+
+<sup>k</sup> Samu-38, CHU, BP 217, 38043 Grenoble cedex 9, France
+
+<sup>l</sup> Service d'anesthésie réanimation, groupe hospitalier Cochin St-Vincent-de-Paul, 75679 Paris cedex 14, France
+
+<sup>m</sup> Samu de Paris, hôpital Necker, 75743 Paris cedex 15, France
+
+Mots clés : Urgences obstétricales ; Extrahospitalière ; Recommandations
+
+Keywords: Obstetrics emergencies; Outside hospital; Guidelines
+
+## GROUPE DE TRAVAIL
+
+Gilles Bagou (président) : anesthésiste réanimateur, urgentiste, Lyon
+
+Valérie Hamel (secrétaire) : urgentiste, Nantes
+
+Bruno Cabrita : urgentiste, Dijon
+
+Pierre-François Ceccaldi<sup>1</sup> : gynécologue obstétricien, Clichy
+
+Gaële Comte : urgentiste, Lyon
+
+Marianne Corbillon-Soubeiran<sup>2</sup> : sage-femme, Amiens
+
+Jean-François Diependaele<sup>3</sup> : pédiatre néonatologue, Lille
+
+François-Xavier Duchateau : urgentiste, Clichy
+
+Olivier Dupuis : gynécologue obstétricien, Lyon
+
+Antoine Fily<sup>4</sup> : pédiatre néonatologue, Lille
+
+Anne Launoy : anesthésiste réanimateur, Strasbourg
+
+\* Auteur correspondant.
+
+Adresse e-mail : gilles.bagou@chu-lyon.fr (G. Bagou).
+
+<sup>1</sup> Représentant le Collège national des gynécologues obstétriciens de France.
+
+<sup>2</sup> Représentant le Collège national des sages-femmes.
+
+<sup>3</sup> Représentant le Groupe francophone de réanimation et urgences pédiatriques.
+
+<sup>4</sup> Participation au chapitre 2.Nathalie Laurenceau-Nicolle : sage-femme, Lyon  
+ Alexandre Mignon<sup>5</sup> : anesthésiste réanimateur, Paris  
+ Élisabeth Menthonnex : anesthésiste réanimateur, urgentiste, Grenoble  
+ Yann Penverne : urgentiste, Nantes  
+ Thibaut Rackelboom : anesthésiste réanimateur, Paris  
+ Alain Rozenberg : anesthésiste réanimateur, Paris  
+ Caroline Telion : anesthésiste réanimateur, Paris
+
+## LES NEUF CHAPITRES TRAITÉS
+
+Neuf chapitres ont été définis correspondant à neuf grandes situations obstétricales faisant chacune l'objet de recommandations. Cela explique notamment la longueur du texte de synthèse final qui sert également d'argumentaire aux textes courts :
+
+1. 1 Recours au samu centre 15 pour motif obstétrical
+2. 2 Accouchement inopiné hors maternité
+3. 3 Hémorragie des deuxième et troisième trimestres de la grossesse
+4. 4 Hémorragie post-partum
+5. 5 Traumatismes chez la femme enceinte
+6. 6 Hypertension artérielle gravidique, prééclampsie, éclampsie
+7. 7 Menace d'accouchement prématuré (MAP)
+8. 8 Transferts in utero interhospitaliers
+9. 9 Formation et évaluation des pratiques
+
+## MÉTHODOLOGIE
+
+La composition du groupe d'experts a été validée par le Comité des urgences de la Société française d'anesthésie et de réanimation (Sfar) en juin 2008.
+
+Ces recommandations sont destinées aux équipes soignantes non professionnelles de l'obstétrique confrontées aux problèmes spécifiques liés à la prise en charge des situations d'urgences obstétricales en dehors d'une maternité. Elles correspondent à des situations où la grossesse est connue et évolue, l'accouchement programmé à domicile est exclu. Chaque chapitre est traité indépendamment des autres. Les textes courts sont étayés par les textes longs dont la lecture est nécessaire à la compréhension générale. L'élaboration de ces textes a suivi la méthode GRADE, il faut cependant préciser que les études cliniques sur les urgences obstétricales extrahospitalières sont peu nombreuses. Après une recherche bibliographique sur chaque thème, deux à quatre auteurs ont rédigé un texte long ([www.sfar.org](http://www.sfar.org) et [www.sfmue.org](http://www.sfmue.org)) puis un texte court de synthèse sous forme de recommandations. Le texte court a été coté et commenté par chaque membre du groupe puis discuté par l'ensemble des membres en réunion plénière. Les discussions ont abouti à une formulation consensuelle pour chaque recommandation. La version corrigée du texte court a été cotée une seconde fois afin de définir la force de chaque recommandation. En dehors des très rares situations où le groupe n'a pu se prononcer, il s'agit toujours d'un accord fort.
+
+Les neuf textes courts sont colligés dans ce document. Leur lecture doit être accompagnée de celle des textes longs qui les explicitent. Ces recommandations ont été validées au troisième trimestre 2010.
+
+## 1. CHAPITRE 1 – RECOURS AU SAMU CENTRE 15 POUR MOTIFS OBSTÉTRICAUX (TRANSFERTS INTERHOSPITALIERS EXCLUS)
+
+En dehors des demandes de transferts interhospitaliers (TIH), la régulation des transports urgents de femmes enceintes doit être effectuée par le médecin régulateur du samu, le 15 est le seul numéro d'appel à composer.
+
+Lors d'un appel d'une femme enceinte ou ayant accouché récemment, le permanencier auxiliaire de régulation médicale doit identifier le motif de recours et le terme. Un appel concernant le troisième trimestre de la grossesse ou du post-partum précoce doit être préférentiellement réglé par un médecin régulateur urgentiste. Lorsque l'enfant est né ou l'accouchement en cours, l'appel doit bénéficier d'un départ réflexe d'une équipe Smur suivi d'une régulation médicale prioritaire.
+
+Le médecin régulateur doit rechercher lors de tout appel d'une femme enceinte les signes en faveur d'un accouchement réalisé, en cours ou imminent. L'utilisation des scores d'aide à la régulation est recommandée (scores de Malinas, SPIA et Prémat-SPIA). Le médecin régulateur doit rechercher, en fonction du terme de la grossesse, les signes évoquant une urgence gynéco-obstétricale qui justifient l'envoi d'une équipe Smur (Tableau 1). Lorsque l'accouchement est en cours, le médecin régulateur doit garder l'appelant au téléphone et le guider pour le bon déroulement de l'accouchement.
+
+Il faut orienter la femme enceinte ou la maman et le nouveau-né vers une maternité possédant un plateau technique adapté à leur état. En cas de grossesse à bas risque ou d'accouchement eutocique à terme, la maternité choisie par la maman est sollicitée. L'urgence vitale maternelle impose le recours à la maternité la plus proche quel que soit le terme. L'accueil de la patiente par l'obstétricien et l'anesthésiste réanimateur doit être organisé par le médecin régulateur. Toute femme enceinte victime d'un événement aigu mais ne justifiant pas d'un transport sanitaire urgent, doit bénéficier d'un examen obstétrical systématique dans un délai adapté à son état et convenu avec elle ou son entourage.
+
+Il est recommandé que les protocoles de prise en charge des urgences obstétricales soient écrits dans le cadre des réseaux en associant obstétriciens, anesthésistes réanimateurs, médecins urgentistes, médecins régulateurs du samu, néonatologues et radiologues interventionnels.
+
+Une femme enceinte au deuxième ou troisième trimestre doit être transportée ceinturée en décubitus latéral, gauche ou droit. Le transport en décubitus dorsal est proscrit.
+
+## 2. CHAPITRE 2 – ACCOUCHEMENT INOPINÉ EXTRAHOSPITALIER
+
+Il faut utiliser des scores d'aide à la régulation pour évaluer le risque et le délai de survenu de l'accouchement. L'association
+
+<sup>5</sup> Participation au chapitre 6.**Tableau I**
+
+Signes évoquant une urgence gynéco-obstétricale et justifiant l'envoi d'une équipe Smur, en fonction du terme de la grossesse.
+
+<table border="1">
+<thead>
+<tr>
+<th>Terme</th>
+<th>Symptômes</th>
+<th>Diagnostiques à évoquer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Post-partum<br/>(jusqu'à 15 jours)</td>
+<td>Hémorragie<br/>Convulsion</td>
+<td>Hémorragie de la délivrance<br/>Éclampsie</td>
+</tr>
+<tr>
+<td>3<sup>e</sup> trimestre</td>
+<td>L'enfant est né<br/>Contraction, douleur abdominale (lombaire), métrorragie, envie de pousser, perte des eaux<br/>Antécédent de césarienne ou notion de traumatisme majeur, douleur abdominale intense, baisse des mouvements foetaux actifs</td>
+<td>Accouchement réalisé<br/>Accouchement imminent<br/>Rupture utérine</td>
+</tr>
+<tr>
+<td>2<sup>e</sup>, 3<sup>e</sup> trimestres</td>
+<td>Métrorragie peu abondante de sang noir<br/>Douleur abdominale intense et permanente<br/>Absence de mouvements foetaux actifs<br/>Métrorragie abondante de sang rouge<br/>Avec caillots, contractions<br/>Céphalée, douleur abdominale, prise de poids, nausée, trouble visuel<br/>Convulsion</td>
+<td>Hématome rétroplacentaire<br/><br/>Placenta prævia hémorragique<br/><br/>Prééclampsie<br/>Éclampsie</td>
+</tr>
+<tr>
+<td>1<sup>er</sup> trimestre</td>
+<td>Malaise, douleur abdominale, métrorragie</td>
+<td>Grossesse extra-utérine rompue</td>
+</tr>
+</tbody>
+</table>
+
+du score de Malinas et du score prédictif de l'imminence de l'accouchement (SPIA, et Prémat-SPIA avant 33 SA) est recommandée en raison de leur complémentarité. Il faut engager des moyens médicalisés (Smur) auprès de la patiente si le risque d'accouchement inopiné avant l'admission en maternité est réel.
+
+Lors d'une complication maternelle connue ou patente, la mère sera dirigée dans le délai le plus court vers une structure de soins adaptée. Dans le cas contraire, la maternité de suivi doit être privilégiée. En cas d'accouchement avant 35 SA, de malformation avec prise en charge spécialisée ou de complication fœtale connue ou supposée, la parturiente sera préférentiellement dirigée vers une maternité dotée d'un centre périnatal de type 2 ou 3 en fonction du niveau de soins requis. En cas d'hémorragie de la délivrance, une maternité de proximité doit être sollicitée après avoir prévenu l'équipe obstétricale et l'anesthésiste notamment pour une révision utérine en urgence.
+
+Pour le transport, la mère doit être attachée et l'enfant placé dans un système fermé (lit-auto, incubateur) et fixé. Si l'enfant est prématuré, de petit poids de naissance, hypotherme et/ou si son état clinique nécessite une assistance médicale intensive, son transport en incubateur est préconisé assisté du Smur pédiatrique si les ressources médicales locales le permettent.
+
+La décision de transporter la patiente ou de l'accoucher sur place repose sur l'évaluation de la rapidité de la dilatation de fin de travail en réalisant deux touchers vaginaux à dix minutes d'intervalle. Le score de Malinas B indique la durée moyenne du travail dans une population générale. Dans l'accouchement physiologique, la dilatation complète et l'envie irrépressible de pousser imposent l'accouchement sur place.
+
+Une voie veineuse périphérique doit être posée systématiquement.
+
+Il est recommandé de favoriser les positions d'accouchement permettant à la parturiente d'hyperfléchir ses cuisses sur l'abdomen.
+
+La conduite des efforts expulsifs ne doit débuter que lorsqu'on commence tout juste à voir la présentation
+
+apparaître à la vulve. C'est la garantie d'une dilatation cervicale complète et de la survenue d'efforts expulsifs maternels irrépressibles.
+
+Il ne faut pas pratiquer d'épisiotomie de façon systématique. L'épisiotomie, médiolatérale, réalisée au moment d'une contraction, doit être pratiquée en situation préhospitale pour la présentation par le siège chez une primipare et pour des indications fœtales visant à l'accélération de l'expulsion du fœtus, lorsque le périnée postérieur constituerait un relatif obstacle à sa sortie.
+
+Une fois la tête totalement sortie de la filière génitale, il faut vérifier la présence ou non d'un circulaire du cordon autour du cou et le dégager. Si le circulaire est serré et gêne la poursuite de l'accouchement, il faut clamper le cordon et le sectionner entre deux pinces. Une fois la tête dégagée, la patiente doit reprendre les efforts expulsifs pour assurer le dégagement de l'épaule antérieure.
+
+Quatre règles sont à respecter pour la prévention de l'hémorragie de la délivrance : une vessie vide, un utérus vide pour permettre sa contraction, un utérus contracté pour permettre l'hémostase (massage utérin et ocytocine), et une compensation volémique rapide. Le clampage précoce du cordon ombilical participe également à la prévention de cette complication.
+
+Il est recommandé de pratiquer une délivrance dirigée. Pour cela, il faut administrer cinq unités d'ocytocine en intraveineuse directe lente à la sortie complète de l'enfant et au plus tard dans la minute qui suit son expulsion. La délivrance doit avoir lieu dans les 30 minutes qui suivent l'expulsion de l'enfant. Il faut repérer cliniquement le décollement placentaire, et une fois celui-ci confirmé, aider à l'expulsion placentaire, celle-ci étant exceptionnellement spontanée chez les patientes en décubitus. Un massage utérin doit être réalisé après l'expulsion du placenta par séquences répétées de plus de 15 secondes tout le temps du transport et jusqu'à la prise en charge en maternité. Après la délivrance, si le placenta est incomplet et dans l'attente d'une révision utérine, il ne faut pas recourir à l'ocytocine, sauf en cas de transport long avec une hémorragie objectivée.L'analgésie préhospitale dans un contexte d'accouchement inopiné hors maternité est possible par l'inhalation de MEOPA. En cas d'épisiotomie, l'infiltration locale du périnée est recommandée.
+
+Lors d'un accouchement par le siège, il est impératif d'attendre que le siège apparaisse à la vulve, seule garantie d'une dilatation cervicale complète, pour engager les réels efforts expulsifs, exclusivement au cours des contractions. La règle absolue est de ne jamais tirer sur un siège. Tant que les omoplates n'apparaissent pas à la vulve et que les épaules ne sont pas dégagées, l'opérateur se contente de soutenir l'enfant au niveau du siège. Quatre gestes doivent être réalisés lors d'un accouchement par le siège. L'épisiotomie doit être d'indication large en préhospitalier pour faciliter la sortie de la tête. Le dos doit tourner en avant. En cas de relèvement des bras, il faut réaliser une manœuvre de Lovset. En cas de rétention de la tête dernière, il faut réaliser la technique de Mauriceau.
+
+Une dystocie des épaules est le plus souvent une fausse dystocie, il faut réaliser la manœuvre de Mac Roberts.
+
+La procidence d'un bras est due à l'extériorisation d'un bras du fœtus en position transverse, elle est incompatible avec l'accouchement par voie basse. Le transport de la parturiente s'effectue alors dans les meilleurs délais, en décubitus latéral, sous oxygène, vers la maternité la plus proche avec un accueil au bloc opératoire obstétrical permettant d'extraire en urgence l'enfant souvent exposé à une hypoxie sévère.
+
+La procidence du cordon est une urgence vitale. Si le cordon bat, il faut remonter la présentation en la refoulant par un poing ou avec deux doigts introduits dans le vagin sans comprimer le cordon. La parturiente est alors placée dès la prise en charge et pendant le transport, en position de Trendelenburg et en décubitus latéral, genoux contre poitrine. Les contractions seront bloquées par une perfusion de tocolytiques. Le transport se fait le plus rapidement possible vers la maternité la plus proche qui aura été prévenue (obstétricien et anesthésiste). L'oxygénéthérapie est recommandée. Si la patiente est à dilatation complète, que le cordon batte ou non, il faut faire pousser la patiente pendant une contraction, qu'elle ressent ou non l'envie impérieuse de pousser et extraire l'enfant au plus vite, en prévoyant une réanimation du nouveau-né.
+
+Lors d'une grossesse jumeillaire, l'accouchement hors maternité est une situation à haut risque : risque anoxique et manœuvres plus fréquentes pour le second jumeau, et risque élevé d'hémorragie de la délivrance. La décision de transporter avant l'accouchement ou d'accoucher sur place est prise au cas par cas en fonction de la cinétique du travail, du délai d'acheminement dans une maternité de proximité et des possibilités de renfort médical sur place. Lorsque l'accouchement a lieu hors maternité, les demandes de renfort sont recommandées.
+
+La présence d'une sage-femme dans l'équipe est souhaitable, en priorité dans les situations à haut risque d'accouchement, avec l'exigence pour ce professionnel d'une adaptabilité nécessaire au contexte spécifique préhospitalier. Cette collaboration doit faire l'objet d'une procédure entre le Smur et le service d'obstétrique.
+
+Afin de prendre en charge le nouveau-né, il faut prévoir une zone d'accueil, bien éclairée, à l'abri des courants d'air, avec des champs chauds sur lesquels sera placé l'enfant.
+
+Il faut disposer d'un matériel adapté à la prise en charge d'un nouveau-né incluant notamment un système autonome d'aspiration des mucosités, un ballon autoremplisseur à valve unidirectionnelle (BAVU) de 500 mL muni d'une valve de sécurité ouverte, et d'un oxymètre de pouls.
+
+Tout en respectant l'asepsie, cinq règles sont à appliquer dès les premières minutes de vie et dans cet ordre : clamper, couper et vérifier le cordon ombilical (deux artères, une veine), prévenir l'hypothermie, évaluer l'état clinique, prévenir une hypoglycémie ( $< 2,2 \text{ mmol/L}$  à 30 minutes de vie) et favoriser le rapprochement de la mère et de son enfant par le contact peau à peau.
+
+La section stérile du cordon est réalisée entre deux clamps à au moins 10 cm de l'ombilic.
+
+Pour lutter contre l'hypothermie, il faut sécher l'enfant ou utiliser immédiatement un sac en polyéthylène sans séchage préalable, et toujours couvrir sa tête avec un bonnet. Le peau-à-peau avec la mère, doit être privilégié dans les suites de l'accouchement et avant le transport. Le nouveau-né doit être installé en décubitus latéral, en veillant à la liberté des voies aériennes supérieures, et bénéficier d'une surveillance rapprochée.
+
+Le médecin évalue l'état clinique du nouveau-né par sa vitalité (tonus), sa ventilation, sa couleur et/ou la mesure de la  $\text{SpO}_2$ , puis la circulation (fréquence cardiaque) à l'auscultation ou par la palpation du pouls ombilical. Le score d'Apgar n'a pas de valeur décisionnelle dans la réalisation de tel ou tel geste.
+
+Il est possible de stimuler l'enfant pour déclencher les premiers mouvements respiratoires, sans jamais le secouer.
+
+En cas d'hypoglycémie, l'administration de sérum glucosé à 10 % se fera préférentiellement par la bouche à la seringue si le nouveau-né est bien conscient et si le terme est supérieur à 34 SA. Dans tous les cas, le sérum glucosé à 30 % est contre-indiqué. Si la patiente le souhaite, la mise au sein est recommandée.
+
+Lorsque l'enfant naît sans signe de vie, sa prise en charge doit suivre les recommandations de l'ILCOR. Une demande de renfort est recommandée.
+
+Il ne faut pas désobstruer les voies aériennes supérieures d'un nouveau-né qui va bien. Si une désobstruction est nécessaire, il faut utiliser un aspirateur à dépression réglable inférieure à 150 mmHg (200  $\text{cmH}_2\text{O}$ ).
+
+La qualité de la ventilation prime sur la  $\text{FiO}_2$ . En cas de ventilation difficile, un apport supplémentaire d'oxygène n'est pas systématique. Chez un enfant prématuré, l'apport d'oxygène peut débuter par une  $\text{FiO}_2$  à 0,30 ou 0,40. L'objectif est d'obtenir une saturation correcte comprise entre 85 et 95 % ; le risque est surtout lié à l'hyperoxie chez le prématuré.
+
+L'intubation de sauvetage est possible par voie orale sans sédation. Une ventilation au BAVU avec masque reste préférable à des tentatives d'intubation maladroites et répétées.
+
+Un massage cardiaque externe associé à une ventilation efficace doit être pratiqué dès la constatation d'une bradycardieinférieure à 60 b/min. Chez le nouveau-né, le ratio est de deux ventilations pour six compressions thoraciques.
+
+Des protocoles de prise en charge au sein des samu et des réseaux de périnatalité doivent exister.
+
+Le certificat d'accouchement atteste que Madame X. a accouché d'un enfant de sexe masculin ou féminin, né vivant et viable ou bien mort-né, à (commune du lieu d'accouchement et non celle de la maternité où la patiente sera transportée), le (date) à (heure). Ce certificat est rédigé par le médecin ou la sage-femme qui a pratiqué l'accouchement ou qui a sectionné le cordon ombilical.
+
+Le médecin qui a réalisé l'accouchement doit rédiger le certificat de naissance et s'assurer que l'enfant est bien déclaré à l'état civil de la commune de naissance dans les trois jours ouvrables (quatre jours si dimanche ou jour férié). Il est souhaitable qu'une lettre d'information dans ce sens soit remise à la maman lors de son transport à la maternité, surtout si la mère est isolée.
+
+### 3. CHAPITRE 3 – HÉMORRAGIES DU DEUXIÈME ET DU TROISIÈME TRIMESTRE
+
+Les hémorragies du deuxième et troisième trimestre sont des urgences diagnostiques et thérapeutiques, car leur retentissement maternel et/ou fœtal peut être majeur et engager le pronostic vital.
+
+Les hémorragies du troisième trimestre de la grossesse sont essentiellement liées à deux étiologies : l'hématome rétroplacentaire et les anomalies d'insertion du placenta :
+
+- • devant une douleur abdominale intense, de survenue brutale avec hypertonie utérine « utérus de bois », associée à de petites métrorragies noirâtres, il faut évoquer le diagnostic d'hématome rétroplacentaire ;
+- • devant une hémorragie brutale de sang rouge avec des caillots, non douloureuse et parfois associée à des contractions utérines, il faut évoquer le diagnostic de placenta prævia.
+
+Les hémorragies de causes cervicales sont en général modérées et bénignes, elles surviennent principalement après un examen gynécologique ou un rapport sexuel. Les autres causes sont beaucoup plus rares : la rupture utérine, l'hémorragie de Benkiser et la rupture du sinus marginal.
+
+Tous les appels au samu concernant une métrorragie chez une femme enceinte au deuxième ou troisième trimestre doivent être régulés par un médecin urgentiste.
+
+Lors de la régulation médicale, l'interrogatoire doit faire préciser le terme, la notion de placenta prævia connu, d'hypertension artérielle connue, la couleur du saignement,
+
+la présence de caillots, l'importance et le retentissement de l'hémorragie, la présence de douleurs abdominales permanentes ou de contractions et la perception de mouvements fœtaux. En l'absence de contexte de placenta prævia connu, il faut rechercher et évoquer l'hypothèse d'un hématome rétroplacentaire jusqu'à la preuve du contraire. Les éléments diagnostiques permettant de différencier le placenta prævia de l'hématome rétroplacentaire sont résumés dans le **Tableau 2**.
+
+L'envoi d'une équipe Smur est la règle devant la moindre suspicion d'hématome rétroplacentaire ou de placenta prævia hémorragique. En cas d'hématome rétroplacentaire, la vie de la mère et celle de l'enfant sont en jeu en raison de la survenue rapide de troubles de la coagulation et d'un collapsus en rapport avec l'importance de l'hématome ; cela justifie l'envoi d'une équipe Smur dès que le diagnostic est évoqué puis le transfert dans la maternité possédant un plateau technique adapté la plus proche.
+
+Dans l'attente des secours, la parturiente doit être installée en décubitus latéral. En cas d'éloignement important, une convergence du Smur avec les sapeurs-pompiers ou une ambulance privée peut être envisagée pour raccourcir les délais de prise en charge médicale.
+
+Le bloc opératoire, l'obstétricien et l'anesthésiste réanimateur doivent être prévenus par la régulation du Samu et des produits sanguins doivent être disponibles dès l'arrivée à la maternité.
+
+Le traitement préhospitalier est celui de tout choc hémorragique ; le remplissage vasculaire avec des cristalloïdes ou des amidons, ayant obtenu l'autorisation de mise sur le marché pour les femmes enceintes, est recommandé, la transfusion en préhospitalier ne doit s'envisager que si son délai de mise en œuvre est compatible avec un transfert rapide vers la maternité. Une oxygénéothérapie de principe doit être administrée.
+
+La connaissance ou la suspicion d'un placenta prævia contre-indiquent formellement le toucher vaginal. En cas de placenta prævia, l'hémorragie s'arrête le plus souvent spontanément si la parturiente n'a pas de contraction utérine. Dans le cas contraire, des contractions utérines, un transport long et un saignement important peuvent justifier l'initialisation d'une tocolyse en préhospitalier en concertation avec l'obstétricien.
+
+La patiente doit être transportée en décubitus latéral.
+
+À condition de ne pas retarder le transfert vers l'hôpital, la recherche du rythme cardiaque fœtal en préhospitalier par un Doppler discontinu ou un cardiocographe peut permettre de diagnostiquer une souffrance fœtale afin d'optimiser l'orientation.
+
+**Tableau 2**
+
+Éléments diagnostiques permettant de différencier le placenta prævia de l'hématome rétroplacentaire.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Placenta prævia</th>
+<th>Hématome rétroplacentaire</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Facteurs favorisants</td>
+<td>Utérus cicatriciel</td>
+<td>HTA gravidique, prééclampsie, traumatisme abdominal</td>
+</tr>
+<tr>
+<td>Douleurs</td>
+<td>Absentes ou peu intenses</td>
+<td>Brutales, intenses, permanentes</td>
+</tr>
+<tr>
+<td>Utérus</td>
+<td>Souple, indolore en dehors des contractions</td>
+<td>Hypertonie, hypercinesie, « utérus de bois »</td>
+</tr>
+<tr>
+<td>Saignement</td>
+<td>Rouge, modéré à abondant, avec ou sans caillots</td>
+<td>Noir, peu abondant, incoagulable</td>
+</tr>
+</tbody>
+</table>Aucun examen ne doit retarder l'extraction fœtale si le fœtus est vivant.
+
+Le lieu d'accouchement des patientes ayant un placenta prævia recouvrant hémorragique ou une suspicion de placenta accreta doit être dans la maternité la plus proche, idéalement une structure avec prise en charge multidisciplinaire.
+
+Devant la présence ou la forte suspicion d'un hématome rétroplacentaire, que l'enfant soit vivant ou décédé, il faut transporter rapidement la patiente vers la maternité la plus proche pour une extraction fœtale en urgence.
+
+#### 4. CHAPITRE 4 – HÉMORRAGIES DU POST-PARTUM
+
+Les hémorragies du post-partum (HPP) représentent la première cause de mortalité maternelle en France. Les enquêtes montrent que plus de la moitié des morts maternelles peuvent être évitées.
+
+Bien que la majorité des HPP surviennent sans facteurs de risque identifiés, il faut les rechercher lors de la régulation médicale et de la prise en charge Smur : délivrance au-delà de 30 minutes, âge supérieur à 35 ans, distension utérine (notamment grossesse gemellaire), cicatrice utérine, hyperthermie pendant le travail, appartenance à une catégorie sociale défavorisée, hématome rétroplacentaire connu ou placenta prævia. Plusieurs causes sont souvent associées. Les plus fréquentes sont l'inertie utérine et les pathologies de la délivrance. Les autres causes sont les plaies de la filière génitale et les troubles de l'hémostase constitutionnels ou acquis.
+
+Des protocoles thérapeutiques standardisés multidisciplinaires, tels que la délivrance dirigée, doivent être appliqués avec rigueur et faire l'objet d'évaluations des pratiques professionnelles répétées afin de réduire les prises en charge non conformes.
+
+Le saignement peut atteindre 600 mL/min mettant en jeu le pronostic vital maternel en quelques minutes. Il est idéalement évalué par la mise en place d'un sac collecteur sous les fesses de la parturiente. Dans le cadre d'un accouchement hors maternité, le diagnostic d'HPP immédiate doit être évoqué lors de saignements extériorisés décrits comme anormaux. Les critères de gravité sont l'hémorragie intarissable, un sang incoagulable ou des signes de chocs. Une perte sanguine atteignant 1000 mL peut être relativement bien tolérée par une parturiente si bien que le retentissement clinique du saignement peut être tardif et parfois brutal. Cela impose une surveillance attentive du saignement et des paramètres vitaux après tout accouchement.
+
+La prise en charge d'une hémorragie de la délivrance fait appel à des mesures générales et des mesures spécifiques dont l'enchaînement doit suivre un protocole élaboré à partir des recommandations des sociétés savantes (Fig. 1). Le facteur temps est un élément primordial : les heures de naissance et de délivrance doivent être notées ainsi que les heures et la nature des gestes et traitements réalisés.
+
+Si l'accouchement n'a pas eu lieu avant l'arrivée du Smur, la prévention de l'HPP repose sur la délivrance dirigée : il faut injecter cinq unités d'ocytocine en intraveineuse directe lente, à
+
+défaut en intramusculaire, dans la minute qui suit la naissance. Après la naissance, la délivrance doit avoir lieu dans les 30 minutes. Si la traction douce sur le cordon, associée au refoulement de l'utérus, en revanche, pression sus-pubienne, pour constater le décollement placentaire est un facteur préventif reconnu des HPP, il ne faut jamais tirer fermement sur le cordon pour provoquer le décollement placentaire. Cette traction réalisée sans formation préalable n'est pas recommandée.
+
+Le placenta et les caillots doivent être expulsés de la filière génitale. Une bonne tonicité utérine doit être obtenue dès l'expulsion du placenta : elle repose sur la vacuité utérine, la vacuité vésicale, l'ocytocine et le massage utérin par séquences répétées de plus de 15 secondes sans limite de temps précise. Lorsque le délivre est expulsé et que l'utérus est vide, il faut administrer dix unités d'ocytocine en intraveineuse directe lente, renouvelées et/ou complétées par des débits de perfusion intraveineuse de cinq à dix unités par heure sans dépasser un total de 40 unités.
+
+En présence d'une HPP et si la délivrance n'a pas eu lieu, une délivrance artificielle est nécessaire. Sa réalisation par un opérateur non formé et isolé (geste technique et anesthésie) est périlleuse en extrahospitalier. Il est alors souvent nécessaire de procéder à un transport rapide vers un service adapté sous couvert d'un remplissage vasculaire adapté au contexte du choc hémorragique. La réalisation d'une délivrance artificielle ou d'une révision utérine impose une anesthésie avec induction en séquence rapide et intubation. La sédation et l'intubation doivent être maintenues jusqu'à la prise en charge hospitalière spécialisée. Tous les gestes endo-utérins requièrent une asepsie rigoureuse et une antibioprophylaxie à large spectre.
+
+Si l'hémorragie persiste, une lésion au niveau de l'épistomie, du périnée et du vagin doit être recherchée ; le méchage ou la compression doivent être réalisés et maintenus jusqu'à la prise en charge hospitalière spécialisée.
+
+L'utilisation des produits sanguins labiles peut être envisagée en préhospitalier en appliquant notamment les procédures de transfusion en urgence vitale immédiate. Elle ne doit pas retarder le transport. Il faut acheminer rapidement la patiente avec ses documents immunohématologiques vers une structure obstétricale ou une salle d'accueil des urgences vitales préalablement prévenues.
+
+Lorsque l'HPP se poursuit alors que la prise en charge initiale a été bien conduite, il faut avoir recours aux prostaglandines si la vacuité utérine est assurée. La posologie habituelle du sulprostone est de 100 à 500 µg/h. Les ocytociques doivent être arrêtés quand le sulprostone est débuté, le massage utérin doit être poursuivi.
+
+L'orientation de la patiente est déterminée en fonction de sa tolérance clinique, des moyens obstétricaux, chirurgicaux et d'anesthésie réanimation nécessaires, et des conditions géographiques et sanitaires.
+
+Le transfert interhospitalier en urgence d'une patiente présentant une HPP grave, principalement en vue de réaliser une embolisation artérielle, constitue une situation à haut risque justifiant une décision réfléchie et une médicalisation. L'indication thérapeutique est posée par les équipes obstétricale et```
+
+graph TD
+    Start[hémorragie > 500 mL ou saignements anormaux] --> Delivery{délivrance ?}
+    Delivery -- oui --> Vesicle[vacuité vésicale  
+ocytocine (10 u en 20 min ;  
+± bolus de 5u ; maxi 40u)  
+massage utérin continu]
+    Delivery -- non --> Placenta{décollement placentaire ?}
+    Placenta -- oui --> Expulsion[aide à l'expulsion]
+    Placenta -- non --> ArtDelivery[délivrance artificielle sous AG avec intubation]
+    Expulsion --> Vesicle
+    ArtDelivery -- oui --> Vesicle
+    ArtDelivery -- non "opérateur non formé" --> RapidTransport[transport rapide]
+    Vesicle --> Persistence{persistance de l'hémorragie ?}
+    Persistence -- oui --> UterineAtony[atonie utérine]
+    Persistence -- oui --> GenitalLesion[lésion filière génitale]
+    Persistence -- non --> Transport[transport]
+    UterineAtony --> OxytocinUterine[ocytocine (maxi 40u)  
+massage utérin continu]
+    GenitalLesion --> Episiotomy[examen épisiotomie, périnée, vagin]
+    Episiotomy --> CompressiveMethode[méchage compressif]
+    OxytocinUterine --> RU{possibilité de RU ?}
+    RU -- oui --> UterineRevision[révision utérine sous AG avec intubation]
+    RU -- non --> Sulprostone{sulprostone ?}
+    CompressiveMethode --> RapidTransport
+    Sulprostone --> RapidTransport
+    RapidTransport --> End
+  
+```
+
+The flowchart outlines the management of postpartum hemorrhage (hémorragie > 500 mL ou saignements anormaux) outside a maternity unit. It starts with a decision on delivery (délivrance ?). If delivery occurred (oui), the next step is bladder evacuation (vacuité vésicale) with oxytocin (10 u en 20 min; ± bolus de 5u; maxi 40u) and continuous uterine massage. If no delivery occurred (non), the next step is placental abruption (décollement placentaire ?). If abruption occurred (oui), assistance with expulsion (aide à l'expulsion) is provided. If no abruption occurred (non), artificial delivery (délivrance artificielle sous AG avec intubation) is performed. If the operator is not trained (non), rapid transport (transport rapide) is initiated. If the operator is trained (oui), the process continues to bladder evacuation. After bladder evacuation, the next step is persistence of hemorrhage (persistance de l'hémorragie ?). If persistence is confirmed (oui), the next step is uterine atony (atonie utérine) or genital tract lesion (lésion filière génitale). If uterine atony is confirmed, oxytocin (maxi 40u) and continuous uterine massage are administered. If genital tract lesion is confirmed, episiotomy (examen épisiotomie, périnée, vagin) is performed. If uterine atony is not confirmed (non), sulprostone (sulprostone ?) is administered. If genital tract lesion is not confirmed (non), compressive methode (méchage compressif) is performed. If uterine atony is confirmed (oui), uterine revision (révision utérine sous AG avec intubation) is performed. If uterine atony is not confirmed (non), sulprostone (sulprostone ?) is administered. If sulprostone is administered, rapid transport (transport rapide) is initiated. If compressive methode is performed, rapid transport (transport rapide) is initiated. Rapid transport (transport rapide) is initiated.
+
+Fig. 1. Mesures générales et mesures spécifiques de prise en charge d'une hémorragie post-partum survenant en dehors d'une maternité.anesthésique de la maternité d'origine en accord avec les praticiens (radiologues, anesthésistes, réanimateurs, obstétriciens) du service receveur. La faisabilité du transport est appréciée de manière consensuelle entre les équipes obstétricale et anesthésique du service demandeur et le médecin régulateur du samu. Une réévaluation du rapport bénéfice-risque du transport doit être faite au moment du départ conjointement avec le médecin transporteur du Smur. Lors de la régulation de la demande de transfert par le samu et au moment du transport, il faut s'assurer que les recommandations pour la pratique clinique sur les HPP ont été bien suivies.
+
+La réparation des lésions de la filière génitale doit être réalisée avant le transfert. Un état hémodynamique instable malgré une prise en charge bien conduite est une contre-indication au transport et impose une chirurgie d'hémostase sur place, si possible conservatrice.
+
+Il ne faut pas méconnaître une HPP survenant tardivement plusieurs jours après un accouchement ; certaines peuvent être graves. Face à une HPP survenant plus de trois jours après l'accouchement et associant douleur pelvienne, fièvre, lochies malodorantes, utérus mou non involué, il faut évoquer une endométrite hémorragique. Le retour de couches hémorragique est lié à une carence en estrogènes et survient brutalement plusieurs semaines après l'accouchement. L'examen est pauvre : pas de fièvre, pas de douleur, utérus involué, col utérin fermé, pertes inodores. Un placenta percreta ou accreta, réséqué partiellement ou laissé en place lors d'une césarienne, ou la chute d'escarre après hystérotomie peuvent être responsables d'une hémorragie secondaire. Une contraception progestative microdosée en post-partum peut provoquer des pertes sanguines relativement abondantes et prolongées. En dehors d'une exceptionnelle situation d'urgence vitale immédiate, ces HPP tardives sont orientées vers l'obstétricien qui a suivi la grossesse ou l'accouchement.
+
+## 5. CHAPITRE 5 – TRAUMATISMES CHEZ LA FEMME ENCEINTE
+
+En cas de traumatisme chez une femme enceinte, la majorité des morts fœtales est évitable. La morbi-mortalité fœtale est rarement liée à un traumatisme direct ou une hémorragie fœto-maternelle, mais plus souvent à une MAP avec son risque de prématurité, un décollement placentaire ou un hématome
+
+rétroplacentaire. Les causes de mort fœtale sont essentiellement le décollement placentaire, le choc hémorragique maternel (80 % de mort fœtale) et la mort maternelle.
+
+En voiture, le port correct d'une ceinture de sécurité homologuée à trois points de fixation est indispensable. Son association à des airbags améliore la sécurité des femmes enceintes.
+
+Lors de l'appel initial au samu, il faut essayer de faire préciser par l'appelant la notion de grossesse, son terme, le mécanisme du traumatisme, sa cinétique, une métrorragie, l'existence de contractions utérines ou une rupture de la poche des eaux. Il faut penser à la possibilité de grossesse chez toute femme en âge de procréer ayant subi un traumatisme important.
+
+Si le mécanisme d'un traumatisme n'est pas évident, il faut penser à rechercher des violences domestiques, notamment en présence de lésions de la face, du thorax et de l'abdomen.
+
+En présence de brûlures, les formules utilisées pour compenser les pertes hydriques doivent être majorées, car la surface corporelle maternelle est augmentée pendant la grossesse. Il peut être nécessaire d'envisager l'interruption de la grossesse en cas de surface corporelle maternelle brûlée supérieure à 50 %.
+
+Lors d'une intoxication oxycarbonée, le retentissement fœtal est retardé, plus long et plus sévère que le retentissement maternel. Si la patiente présente des symptômes ou un taux positif d'HbCO, l'oxygénéthérapie normobare est impérative en préhospitalier quel que soit l'âge de la grossesse. L'oxygénéthérapie hyperbare doit être systématique et organisée très précocement conjointement avec les médecins des centres d'hyperbarie et les obstétriciens.
+
+En cas d'électrisation et si le courant passe entre un membre supérieur et un membre inférieur, la surveillance fœtale doit être prolongée de 24 à 48 heures, car les lésions fœtales peuvent être retardées.
+
+La stratégie de prise en charge d'un traumatisme chez la femme enceinte est la même qu'en dehors de la grossesse avec priorité au diagnostic et au traitement des détresses vitales maternelles. Tout traumatisme même mineur chez une femme enceinte et dont le mécanisme peut avoir un retentissement sur le fœtus, impose un examen obstétrical. Il existe une classification en quatre groupes des traumatismes chez la femme enceinte qui peut permettre de mieux stratifier leur prise en charge (Tableau 3).
+
+**Tableau 3**
+
+Aide à la décision thérapeutique au cours des traumatismes pendant la grossesse, en fonction de l'âge de la grossesse et de l'état clinique de la mère.
+
+<table border="1">
+<thead>
+<tr>
+<th>Groupe 1</th>
+<th>Groupe 2</th>
+<th>Groupe 3</th>
+<th>Groupe 4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Début de grossesse ou grossesse ignorée</td>
+<td>Terme <math>\leq</math> 24 SA</td>
+<td>Terme <math>&gt;</math> 24 SA</td>
+<td>Détresse maternelle ou inefficacité circulatoire</td>
+</tr>
+<tr>
+<td>Test de grossesse positif chez une femme en période d'activité génitale ayant eu un traumatisme grave</td>
+<td>Fœtus non viable, bien protégé par le bassin maternel (peu de lésions)</td>
+<td>Fœtus viable, moins bien protégé par le bassin maternel</td>
+<td>Si traitement inefficace : césarienne post-mortem ?</td>
+</tr>
+<tr>
+<td>Adaptation diagnostique (radios) et thérapeutique</td>
+<td>Prise en charge essentiellement maternelle</td>
+<td>Prise en charge maternelle et fœtale (monitorage, échographie, extraction prématurée ?)</td>
+<td>Nécessité de délais très courts et problèmes éthiques</td>
+</tr>
+</tbody>
+</table>Le monitoring de la femme enceinte traumatisée grave doit reprendre les recommandations de la conférence d'expert sur le monitoring du traumatisé grave. Il faut tenir compte des modifications de l'ECG de base dans le diagnostic d'une ischémie ou d'une contusion myocardique, car il existe physiologiquement une déviation axiale gauche, des arythmies bénignes, des inversions du segment ST ou de l'onde T, et des ondes Q. Le dosage de l'hémoglobine par microméthode doit être interprété en fonction de l'hémodilution physiologique en fin de grossesse.
+
+Le monitoring des bruits du cœur fœtaux est possible en préhospitalier avec un cardiocopieur obstétrical portable. Il est susceptible d'apporter des informations permettant d'adapter la prise en charge et l'orientation de la patiente, car une souffrance fœtale est possible alors que l'état maternel est rassurant. Une vitalité fœtale correcte avec des bruits du cœur normaux et la présence de mouvements actifs peuvent rassurer sur l'état maternel mais doivent être réévaluées fréquemment.
+
+Il faut systématiquement prévenir un syndrome de compression de la veine cave inférieure par le décubitus latéral à toutes les étapes de la prise en charge jusqu'au bloc opératoire afin d'éviter une baisse de la pression artérielle qui entraînerait une baisse de la perfusion utérine et un risque de souffrance fœtale. Si la patiente ne peut pas être mobilisée, il est possible de surélever une hanche, préférentiellement la droite, ou récliner manuellement l'utérus vers la gauche.
+
+Il faut débuter un remplissage vasculaire précoce chez une femme enceinte ayant subi un traumatisme important, avant même que ne se manifestent des signes cliniques d'hypovolémie, car elle peut perdre entre 30 et 35 % de sa volémie sans présenter de signe clinique.
+
+Les indications d'oxygénéthérapie doivent être larges en raison de la sensibilité particulière du fœtus à l'hypoxie. L'hyperventilation physiologique de la grossesse, par augmentation du volume courant sans augmentation de la fréquence respiratoire, conduit à une diminution modérée de la  $\text{PaCO}_2$  vers 32 mmHg en fin de grossesse. Elle doit être respectée en cas de ventilation mécanique.
+
+Au cours d'un traumatisme chez une femme enceinte, il faut notamment rechercher :
+
+- • un décollement placentaire, fréquent même pour des traumatismes mineurs, et parfois retardé de 24 à 48 heures ;
+- • une rupture splénique qui est la lésion hémorragique intrapéritonéale la plus fréquente dans les traumatismes abdominaux fermés ;
+- • une rupture utérine, plus fréquente au troisième trimestre et lors d'un traumatisme violent ou d'un accident de la circulation à grande cinétique.
+
+La recherche d'une hémorragie maternelle d'origine obstétricale doit être systématique. Il faut évoquer un décollement placentaire devant une métrorragie, des douleurs abdominales permanentes ou une perte de liquide amniotique.
+
+La recherche de contractions utérines et de mouvements fœtaux doit compléter l'examen maternel. Il n'y a pas d'indication à réaliser un toucher vaginal chez une femme enceinte victime d'un traumatisme.
+
+Il n'y a pas de contre-indication à l'analgésie chez une femme enceinte. Le paracétamol est l'analgésique de palier 1 utilisable pendant toute la grossesse. L'analgésique de palier 2 à privilégier est le dextropropoxyphène, et celui de palier 3 la morphine, en rappelant pour cette dernière les risques de dépression respiratoire et de sevrage chez le nouveau-né en cas d'extraction fœtale. Le MEOPA peut être utilisé pour l'analgésie au cours de la grossesse.
+
+Le remplissage vasculaire précoce repose d'abord sur l'utilisation de cristalloïdes associés si nécessaire à des amidons ayant obtenu l'autorisation de mise sur le marché pour les femmes enceintes. Si une transfusion de globules rouges est nécessaire en préhospitalier, il faut utiliser des concentrés érythrocytaires du groupe O rhésus négatif si possible Kell négatif. Il faut utiliser les catécholamines en complément d'un remplissage vasculaire bien conduit même si elles peuvent détourner tout ou partie de la circulation fœtale vers la mère.
+
+Lors de l'induction anesthésique et de l'intubation trachéale, il faut tenir compte du risque accru d'inhalation du contenu gastrique chez toute femme enceinte, quelle que soit l'heure du dernier repas. L'intubation trachéale chez la femme enceinte doit toujours être considérée comme une intubation difficile et à estomac plein. Il faut toujours utiliser une technique d'induction anesthésique à séquence rapide avec une manœuvre de Sellick. La voie nasotrachéale doit être évitée. Il faut choisir des sondes d'intubation plus petites (diamètre 5,5 à 7), car la congestion muqueuse et le rétrécissement de la filière laryngotrachéale rendent l'intubation plus traumatique et plus hémorragique. Il faut avoir à disposition et savoir utiliser rapidement une technique alternative de contrôle des voies aériennes.
+
+## 6. CHAPITRE 6 – HYPERTENSION ARTÉRIELLE, PRÉÉCLAMPSIE, ÉCLAMPSIE
+
+L'utilisation des définitions suivantes est recommandée pour le diagnostic de pathologie hypertensive de la grossesse en préhospitalier :
+
+- • HTA gravidique : PA systolique supérieure ou égale à 140 mmHg et/ou PA diastolique supérieure ou égale à 90 mmHg survenant entre la 20<sup>e</sup> semaine d'aménorrhée et le 42<sup>e</sup> jour post-partum ;
+- • prééclampsie : association d'une HTA gravidique à une protéinurie supérieure à 0,3 g/24 heures ;
+- • prééclampsie sévère : prééclampsie avec au moins l'un des critères suivants :
+  - ◦ HTA sévère (PA systolique  $\geq 160$  mmHg et/ou PA diastolique  $\geq 110$  mmHg),
+  - ◦ oligurie inférieure à 500 mL/24 heures ou créatininémie supérieure à 135  $\mu\text{mol/L}$  ou protéinurie supérieure à 5 g/24 heures,
+  - ◦ œdème aigu du poumon ou barre épigastrique persistante ou *Hemolysis, Elevated Liver enzymes, Low Platelet count* (HELLP) syndrome
+  - ◦ éclampsie ou troubles neurologiques persistants (troubles visuels, céphalées, réflexes ostéotendineux [ROT] polycinétiques),- ○ thrombopénie inférieure à 100 G/L,
+- ○ hématome rétroplacentaire,
+- ○ retentissement fœtal ;
+- ● éclampsie : crise convulsive tonicoclonique dans un contexte de pathologie hypertensive de la grossesse ;
+- ● syndrome HELLP : association d'une hémolyse, d'une cytolyse hépatique et d'une thrombopénie.
+
+Le diagnostic de prééclampsie en préhospitalier se base principalement sur des critères cliniques. En raison des difficultés de mesure dans ce contexte, une vigilance particulière doit être apportée à la mesure de la pression artérielle : au repos, au mieux en décubitus latéral ou en position semi-assise. L'absence d'œdème localisé à des régions non déclives ou de prise de poids brutal n'élimine pas le diagnostic.
+
+Toute crise convulsive chez une femme enceinte doit faire évoquer une éclampsie jusqu'à preuve du contraire en prépartum, comme en post-partum. Des signes témoignant d'une forme sévère ou d'une complication de l'hypertension artérielle doivent être recherchés lors de la régulation médicale et pendant toute la prise en charge préhospitalière :
+
+- ● une hypertension artérielle sévère ;
+- ● des signes d'éclampsie imminente : céphalées rebelles, troubles visuels, ROT polycinétiques ;
+- ● des signes neurologiques évocateurs d'un accident vasculaire cérébral ;
+- ● des signes de choc, une contracture utérine, et des métrorragies faisant craindre un hématome rétroplacentaire ;
+- ● une dyspnée ou des signes cliniques d'œdème aigu du poumon témoignant de l'atteinte cardiorespiratoire ;
+- ● des douleurs abdominales ou thoraciques hautes, typiquement de siège épigastrique, inconstantes, en cas de lésions hépatiques (HELLP syndrome) ;
+- ● une oligurie voire une anurie, signant une atteinte rénale même si elles sont plus difficiles à objectiver dans ce contexte.
+
+L'envoi rapide d'une équipe médicale par le médecin régulateur est recommandé en cas de suspicion d'une forme sévère ou compliquée de prééclampsie étant donné la mise en jeu du pronostic maternel et fœtal.
+
+En intervention primaire, comme lors de TIH, l'orientation de la patiente doit se faire sur des critères à la fois maternels (possibilité d'une prise en charge des défaillances d'organes en unité de soins intensifs obstétricaux ou en réanimation adulte) et fœtaux (maternité de type adapté au niveau de soins requis en fonction de l'âge gestationnel).
+
+Lors d'un TIH maternel, d'indication maternelle ou fœtale, le médecin régulateur doit être étroitement impliqué dans la prise de décision, l'orientation et l'organisation avec les équipes des centres demandeur et receveur (obstétriciens, anesthésistes réanimateurs et néonatologues) en tenant compte des protocoles en vigueur au sein du réseau périnatal.
+
+Le TIH d'une patiente prééclamptique vers une maternité de type adapté est indiqué en présence de signes de sévérité ou de complications systémiques maternelles ou fœtales entre 24 et 36 SA.
+
+Les contre-indications, temporaires ou définitives, d'un TIH pour raison maternelle en cas de prééclampsie sévère sont :
+
+- ● un hématome rétroplacentaire connu ou suspecté ;
+- ● un état hémodynamique instable ;
+- ● une HTA non contrôlée par le traitement antihypertenseur ;
+- ● la présence d'une complication systémique, œdème aigu du poumon, éclampsie, hématome sous-capsulaire du foie.
+
+Elles imposent des mesures thérapeutiques sur site, avant un éventuel TIH ultérieur.
+
+Les anomalies sévères du rythme cardiaque fœtal contre-indiquent le TIH en cas de prééclampsie sévère, car elles imposent une extraction en urgence quel que soit le type de la maternité. Un Smur pédiatrique ou néonatal pourra être mobilisé secondairement pour le transfert du nouveau-né si son état le justifie.
+
+Le TIH n'est pas indiqué systématiquement en cas de prééclampsie sévère pour un âge gestationnel inférieur à 24 SA (indication d'interruption de grossesse à discuter) et supérieur à 36 SA (déclenchement d'indication médicale) ; il peut néanmoins se discuter.
+
+Le monitoring de la fréquence cardiaque, de la saturation en oxygène, de la fréquence respiratoire, la mesure non invasive de la pression artérielle, et la capnométrie en cas de ventilation mécanique, sont recommandés pendant toute la durée de la prise en charge préhospitalière.
+
+Le traitement antihypertenseur doit être débuté lorsque la pression artérielle systolique est supérieure à 160 mmHg ou la pression artérielle diastolique supérieure à 110 mmHg. Sa prescription est présentée sur la Fig. 2. Les baisses trop brutales ou trop importantes de la pression artérielle peuvent être délétères pour la perfusion des organes maternels et la circulation fœtale. L'administration par titration est recommandée. Il ne faut pas faire descendre la pression artérielle moyenne en dessous de 100 mmHg ou la pression artérielle systolique en dessous de 140 mmHg.
+
+Associée au décubitus latéral, l'expansion volémique est possible en cas d'hypotension significative à l'instauration du traitement antihypertenseur. Elle doit être prudente en raison du risque d'œdème aigu du poumon. Elle repose sur les cristalloïdes.
+
+Une détresse respiratoire est possible chez une patiente prééclamptique. Elle peut nécessiter une intubation. Dans ce cas, le risque d'intubation difficile est majoré, ainsi que celui d'une poussée hypertensive à l'induction anesthésique, ils doivent être anticipés et prévendus.
+
+Le traitement de l'éclampsie associe les mesures générales de prise en charge d'une crise convulsive généralisée, le traitement spécifique par sulfate de magnésium (2 à 4 g en intraveineuse lente, puis entretien intraveineux continu avec 1 g/h), et la correction de l'hypertension artérielle si elle est présente. En cas de récidive, une seconde dose de 1,5 à 2 g de sulfate de magnésium doit être injectée. Bien que moins efficaces que le sulfate de magnésium dans le traitement de l'éclampsie, les benzodiazépines injectables et la phénytoïne peuvent être utilisées en préhospitalier.
+
+En cas de prééclampsie sévère, le sulfate de magnésium en prévention primaire de l'éclampsie est indiqué devant l'apparition de troubles neurologiques persistants (céphalées, troubles```
+
+graph TD
+    Start["PAS > 160 mmHg  
+ou  
+PAM > 110 mmHg"]
+    Start --> Left["PAS > 180 mmHg  
+ou  
+PAM > 140 mmHg"]
+    Start --> Right["PAS < 180 mmHg  
+et  
+PAM < 140 mmHg"]
+    Left --> LeftTreat["traitement d'attaque :  
+nicardipine 0,5 à 1 mg IV puis  
+4 à 7 mg en 30 min"]
+    Right --> RightTreat["traitement d'entretien :  
+nicardipine 1 à 6 mg/h IV ou  
+labétalol 5 à 20 mg/h IV"]
+    LeftTreat --> Eval["évaluation de l'efficacité et de la tolérance du traitement après 30 min"]
+    RightTreat --> Eval
+    Eval --> LeftEval["PAS < 140 mmHg  
+et  
+PAM < 100 mmHg"]
+    Eval --> MidEval["140 < PAS < 160  
+ou  
+100 < PAM < 120"]
+    Eval --> RightEval["PAS > 160 mmHg  
+ou  
+PAM > 120 mmHg"]
+    Eval --> SideEval["effets secondaires :  
+céphalées,  
+palpitations..."]
+    LeftEval --> LeftAction["diminution voire arrêt  
+du traitement"]
+    MidEval --> MidAction["poursuite du  
+traitement  
+d'entretien :  
+nicardipine 1 à 6 mg/h  
+ou  
+labétalol 5 à 20 mg/h"]
+    RightEval --> RightAction["association de :  
+nicardipine 6 mg/h  
+avec :  
+labétalol 5 à 20 mg/h  
+ou  
+clonidine 15 à 40 µg/h  
+si C-I aux β-bloquants"]
+    SideEval --> SideAction["réduction de la  
+nicardipine  
+et association avec :  
+labétalol 5 à 20 mg/h  
+ou  
+clonidine 15 à 40 µg/h  
+si C-I aux β-bloquants"]
+    LeftAction --> FinalEval["Réévaluation du traitement après 30 minutes puis chaque heure"]
+    MidAction --> FinalEval
+    RightAction --> FinalEval
+    SideAction --> FinalEval
+  
+```
+
+Fig. 2. Traitement de l'hypertension artérielle de la grossesse. PAS : pression artérielle systolique ; PAM : pression artérielle moyenne ; C-I : contre-indications.
+
+visuels, ROT polycinétiques) et en l'absence de contre-indication connue (insuffisance rénale, pathologie neuromusculaire). L'administration d'un inhibiteur calcique pour le contrôle de l'hypertension artérielle ne doit pas retarder l'utilisation du sulfate de magnésium. Leur association justifie une adaptation des posologies.
+
+La surveillance du traitement par sulfate de magnésium est indispensable. Elle repose sur une évaluation répétée des ROT, de la fréquence respiratoire et de la conscience. En cas de signes d'hypermagnésémie (diminution ou abolition des ROT,
+
+FR < 10 min ou 12/min, troubles de conscience), il faut envisager l'arrêt de la perfusion et l'antagonisation par 1 g de gluconate de calcium par voie intraveineuse.
+
+## 7. CHAPITRE 7 –MENACE D'ACCOUCHEMENT PRÉMATURE
+
+La MAP représente la première cause d'hospitalisation pendant la grossesse. La morbi-mortalité néonatale est étroitement liée à l'âge gestationnel.Lors de la régulation, le médecin régulateur doit évoquer une MAP devant l'association de contractions utérines régulières et douloureuses survenant entre la 24<sup>e</sup> et la 36<sup>e</sup> semaine d'aménorrhée révolue. Il faut rechercher les facteurs de risque de MAP : antécédents d'accouchement prématuré, grossesse multiple, infection maternelle, métrorragies, notion de placenta prævia, de malformation utérine, de béance cervico-isthmique ou d'hydramnios.
+
+En dehors de l'accouchement imminent justifiant l'envoi d'une équipe médicalisée, la patiente doit être transportée en décubitus latéral en transport sanitaire vers la maternité la plus proche, de type adapté à l'âge gestationnel et selon l'organisation des réseaux régionaux. Il faut contacter l'équipe obstétricale de la maternité de suivi.
+
+La tocolyse peut être exceptionnellement initiée en préhospitalier en concertation avec l'équipe obstétricale devant recevoir la patiente. Le choix du tocolytique est fait en fonction des disponibilités locales et des protocoles établis au sein des réseaux régionaux.
+
+Lors d'un appel en régulation pour médicaliser le transfert d'une MAP, le médecin régulateur doit rechercher les contre-indications essentiellement représentées par le risque d'accouchement pendant le transport et la souffrance fœtale aiguë patente. Il doit également rechercher les non-indications médicales de transport : TIU avec âge gestationnel inférieur à 24 SA ou supérieur à 32 SA, demande de transfert entre deux établissements de même type. Il faut que le médecin régulateur rassemble les éléments objectifs justifiant le TIU : longueur du col et ouverture de l'orifice interne estimée par échographie endovaginale, recherche de la fibronectine.
+
+Avant tout transport, le médecin régulateur doit s'assurer de la réalisation de la première cure de corticothérapie pour la maturation pulmonaire fœtale.
+
+Au moment du transport d'une parturiente présentant une MAP, il faut demander à l'équipe obstétricale de réévaluer la situation afin de confirmer la faisabilité du transport (risque d'accouchement pendant le transport).
+
+Trois classes de tocolytiques ont une efficacité démontrée dans la prolongation des grossesses associée à un risque acceptable. L'atosiban, antagoniste de l'ocytocine, semble offrir un profil de tolérance intéressant et ne pas exposer à des effets secondaires indésirables graves, c'est le tocolytique de choix s'il doit être initié en préhospitalier. Les inhibiteurs calciques sont les produits les plus utilisés actuellement bien que hors autorisation de mise sur le marché ; ils exposent à des effets secondaires cardiovasculaires potentiellement graves : hypotension artérielle, œdème aigu du poumon. Les bêtamimétiques entraînent des effets indésirables hémodynamiques fréquents qui peuvent être graves. En cas de grossesse jumeau, les inhibiteurs calciques doivent être évités et les bêtamimétiques sont contre-indiqués. Dans le cadre d'un transfert interhospitalier médicalisé, il n'y a pas lieu d'effectuer un changement de tocolytique si le traitement instauré initialement est efficace. Il ne faut pas associer plusieurs tocolytiques.
+
+En cas d'indication de transport, il faut adapter le type de vecteur à l'état de la patiente selon la circulaire DHOS/01/2006/273 de juin 2006. Le type de tocolytique participe au
+
+**Tableau 4**
+
+Choix du vecteur selon l'état de la patiente (circulaire n° DHOS 2006-273 du 21 juin 2006 relative à l'organisation des transports périnataux des mères).
+
+<table border="1">
+<tbody>
+<tr>
+<td>Classe 1 : ambulance simple</td>
+</tr>
+<tr>
+<td>Rupture prématurée des membranes isolée</td>
+</tr>
+<tr>
+<td>MAP sans tocolyse IV, y compris les jumeaux</td>
+</tr>
+<tr>
+<td>MAP d'une grossesse simple avec tocolyse IV par antagoniste de l'ocytocine</td>
+</tr>
+<tr>
+<td>Classe 2 : transport infirmier interhospitalier (T2IH)</td>
+</tr>
+<tr>
+<td>MAP d'une grossesse simple avec tocolyse IV (médicalisation à discuter au cas par cas en fonction du tocolytique choisi)</td>
+</tr>
+<tr>
+<td>MAP jumeau avec tocolyse IV par antagoniste de l'ocytocine (à défaut classe 1, si vecteur 2 indisponible)</td>
+</tr>
+<tr>
+<td>Classe 3 : transport médicalisé (Smur)</td>
+</tr>
+<tr>
+<td>MAP avec tocolyse IV : médicalisation à discuter au cas par cas en fonction du tocolytique choisi</td>
+</tr>
+<tr>
+<td>MAP avec dilatation du col <math>\geq 4</math> cm et terme <math>&lt; 30</math> SA : à discuter avec le samu en conférence téléphonique avec demandeur et receveur</td>
+</tr>
+</tbody>
+</table>
+
+MAP : menace d'accouchement prématuré.
+
+choix du vecteur (Tableau 4). La patiente est transportée ceinturée en décubitus latéral.
+
+La fréquence cardiaque et la pression artérielle seront systématiquement monitorées avec recueil et transmission d'un rapport de surveillance écrit à joindre au dossier médical. Lors d'un transport de classe 3, une surveillance de la parturiente par tococardiographie pendant le transport est possible.
+
+## 8. CHAPITRE 8 – TRANSFERTS IN UTERO INTERHOSPITALIERS
+
+L'organisation des transferts in utero (TIU) doit être régionale et s'intégrer dans des réseaux de périnatalité tels que préconisés par la circulaire n° DHOS/01/2006/273 du 21 juin 2006 relative à l'organisation des transferts périnataux des mères.
+
+Une cellule de périnatalité doit permettre le développement, la formalisation et l'application de procédures. Elle facilite le travail de chaque intervenant en mettant en place des protocoles consensuels et validés entre les différents acteurs de la périnatalité : samu, obstétriciens, néonatologues, anesthésistes réanimateurs, sages-femmes. Elle permet la recherche de places d'hospitalisation adaptées en coordonnant les différents acteurs et en préconisant la classe de vecteur.
+
+Un TIU est indiqué lorsqu'il existe une inadéquation entre la structure d'hospitalisation d'une femme enceinte et la pathologie qu'elle ou son enfant présente. L'orientation d'une femme enceinte présentant une complication de la grossesse, doit tenir compte de l'environnement medicotechnique du service d'accueil. Le bénéfice du TIU pour l'enfant est d'autant plus élevé que le terme est précoce.
+
+En cas de transport maternel pour une pathologie non obstétricale, il est recommandé qu'une surveillance obstétricale adaptée puisse être réalisée dans la structure d'accueil.
+
+Les contre-indications au TIU sont :
+
+- • soit fœtales : anomalies du rythme cardiaque fœtal significatives qui imposent une extraction sur place en urgence avec, si possible, un engagement anticipé du Smurnéonatal en cas de terme inférieur à 32 SA ou de poids estimé inférieur à 1500 grammes ;
+
+- • soit maternelles :
+  - ◦ risque d'accouchement pendant le transport,
+  - ◦ suspicion d'hématome rétroplacentaire,
+  - ◦ hypertension artérielle gravidique sévère non contrôlée,
+  - ◦ instabilité hémodynamique,
+  - ◦ placenta prævia avec des métrorragies actives.
+
+En dehors de causes non liées à la grossesse, il n'y a pas d'indication de TIU avant 24 SA. Au-delà de 32 SA, le terme n'est pas en lui-même une justification à un transfert vers une maternité de type supérieur.
+
+Il n'y a pas d'indication médicale fœtale aux transferts entre établissements de même type (entre type 2 ou entre type 3).
+
+En cas de demande de TIU pour MAP, l'équipe obstétricale demandeuse doit évaluer la longueur du col par échographie endovaginale. Le risque principal du TIU est l'accouchement pendant le transport. Afin d'en limiter le risque, la décision de TIU sera prise en fonction de cinq éléments : la dilatation et la longueur du col, la présence de contractions utérines, le terme de la grossesse et le type de l'établissement demandeur.
+
+À partir de 32 SA, une dilatation du col à 4 cm ou plus est une contre-indication au transfert. En deçà de 32 SA, l'opportunité du transfert doit être discutée en fonction du type de l'établissement demandeur et de la durée du transport.
+
+L'indication du transfert est une décision médicale relevant d'un accord entre le médecin demandeur (qui doit être présent auprès de la patiente) et le médecin receveur puis, si le transport est médicalisé, avec le médecin régulateur du samu et le médecin transporteur du Smur. Dans le cadre des cellules de périnatalité, les sages-femmes participent activement à l'optimisation des transferts en appliquant notamment des protocoles validés au sein des réseaux périnataux.
+
+Une affection particulière diagnostiquée en anténatal peut justifier un TIU. Par ailleurs et concernant le terme, les critères d'orientation sont fonction de l'état clinique, de l'évolutivité et du plateau medicotechnique :
+
+- • TIU vers une maternité de type 2 : à partir de 32 SA et avec un poids fœtal estimé supérieur à 1500 grammes ;
+- • TIU vers une maternité de type 3 : menace d'accouchement très prématuré entre 24 SA et 31 SA + six jours ou poids fœtal estimé inférieur à 1500 grammes, grossesse triple.
+
+Les critères de surveillance ou de médicalisation d'un TIU sont liés aux risques d'aggravation de la pathologie maternelle et au niveau de soins nécessaires pendant le transport. Lors d'un TIU, les moyens qui peuvent être mis en œuvre correspondent à trois classes de transport :
+
+- • classe I : transport allongé en ambulance simple sans accompagnement paramédical ou médical. Elle est indiquée en cas de rupture prématurée isolée des membranes, de placenta prævia sans hémorragie active depuis plus de 12 heures, de diabète gestationnel sans insulinothérapie intraveineuse continue, de cholestase, de prééclampsie sans signe fonctionnel et avec une hémodynamique stabilisée sans antihypertenseur intraveineux continu, ou de MAP avec tocolyse intraveineuse par antagoniste de l'ocytocine pour
+
+les grossesses simples ou ne nécessitant pas encore de tocolyse pour les grossesses multiples ;
+
+- • classe 2 : correspondant au T2IH. Elle est indiquée si la patiente fait l'objet d'une surveillance ou de soins en rapport avec les compétences d'une sage-femme ou d'un infirmier (pathologie de la grossesse ou autre pathologie) : placenta prævia avec des métrorragies de moins de 12 heures sans saignement actif actuel et pour un transport de moins de 30 minutes, diabète gestationnel avec insulinothérapie intraveineuse continue, ou MAP avec tocolyse intraveineuse par antagoniste de l'ocytocine pour les grossesses multiples ou avec un autre tocolytique bien toléré pour les grossesses simples ;
+- • classe 3 : lorsque la médicalisation par le Smur se justifie par des soins médicaux spécialisés susceptibles d'être entrepris lors du transport en raison de la pathologie, en cas de placenta prævia avec des métrorragies de moins de 12 h sans saignement actif actuel et pour un transport de plus de 30 minutes, de prééclampsie avec traitement antihypertenseur intraveineux, de HELLP-syndrome, ou de MAP avec tocolyse intraveineuse mal tolérée au plan général. Une tocolyse avec des bêtamimétiques justifie une médicalisation du transport en raison du risque d'œdème aigu du poumon qu'ils peuvent provoquer. Lorsqu'une équipe du Smur est mobilisée pour un TIU, le médecin régulateur doit définir le type de vecteur routier ou aérien à utiliser en tenant compte des contraintes liées au vecteur et à l'organisation sanitaire.
+
+L'état clinique de la patiente doit être réévalué au moment du départ afin de confirmer la faisabilité du transport.
+
+La patiente doit être transportée ceinturée en décubitus latéral afin de prévenir systématiquement un syndrome de compression de la veine cave inférieure.
+
+Le dossier obstétrical doit accompagner la parturiente. Une traçabilité écrite de la surveillance, des événements intercurrents et des traitements pendant le transport doit toujours être assurée.
+
+## 9. CHAPITRE 9 –FORMATION, ÉVALUATION DES PRATIQUES PROFESSIONNELLES ET RÉSEAUX DE SOINS
+
+Il est souhaitable que l'ensemble des professionnels médicaux, paramédicaux et non médicaux travaillant dans les samu et les Smur reçoivent une formation initiale puis continue à la prise en charge des urgences obstétricales préhospitales en accord avec leurs compétences propres.
+
+Les objectifs des formations initiales et continues doivent viser la gestion des situations obstétricales hors maternité dans l'attente du relais par les équipes spécialisées, ainsi que la diminution de la morbidité notamment par la compréhension et le respect de la physiologie de la mère et du nouveau-né.
+
+Le référentiel des compétences des médecins urgentistes pour les urgences obstétricales en formation initiale et continue doit leur permettre de :
+
+- • prendre en charge un accouchement hors maternité ;
+- • prendre en charge la naissance d'un bébé hors maternité ;
+- • prendre en charge une complication de la grossesse et du post-partum précoce ;- • assurer la régulation médicale en périnatal ;
+- • assurer leur rôle au sein de l'équipe Smur.
+
+Les médecins urgentistes doivent chercher à maintenir leur compétence par des formations continues adaptées au contexte préhospitalier : stages en maternité avec tutorat, supports multimédias, formations pratiques utilisant la pédagogie active et de découverte en résolution de problème et en simulation sur mannequins. La formation des médecins urgentistes doit mettre l'accent, d'une part, sur l'accouchement physiologique et, d'autre part, sur les situations obstétricales complexes (procidence du cordon, dystocie des épaules, expulsion par le siège, hémorragies). La prise en charge des urgences obstétricales préhospitalières est axée à la fois sur des référentiels professionnels de différentes sociétés savantes (obstétrique, urgences, anesthésie et réanimation, pédiatrie) et sur des pratiques médicales des urgences obstétricales préhospitalières sous la forme de recommandations.
+
+Un programme d'évaluation des pratiques professionnelles consiste en l'analyse des pratiques professionnelles en référence à ces recommandations et selon une méthode élaborée ou validée par la Haute Autorité de santé. Il doit comporter des objectifs de qualité et des critères d'évaluation et d'amélioration des pratiques.
+
+Les objectifs de qualité en régulation médicale des samu sont :
+
+- • maintenir un niveau de formation des permanenciers auxiliaires de régulation médicale et des médecins régulateurs pour assurer la régulation médicale en obstétrique et en périnatalogie ;
+- • définir les items à retrouver systématiquement dans les dossiers de régulation, tels que l'utilisation d'un score, le terme, la cohérence entre l'orientation des patientes et l'évolution immédiate ;
+- • évaluer la régulation médicale en suivant des indicateurs prédéfinis tels que l'adéquation des effecteurs et les délais de prise en charge.
+
+Les objectifs de qualité en Smur sont :
+
+- • maintenir un niveau de formation des personnels médicaux, paramédicaux et des ambulanciers aux urgences obstétricales ;
+- • évaluer la prise en charge par le Smur des femmes enceintes et des nouveau-nés en préhospitalier (respect des recommandations) ;
+
+- • définir les critères d'optimisation de la prise en charge en fonction de la situation, tels que l'installation de la patiente pendant le transport, la prévention des chutes ou des troubles thermiques des nouveau-nés ;
+- • établir une liste de matériel et de médicaments nécessaires et spécifiques à la prise en charge des femmes enceintes, et définir la périodicité de l'entretien de ce matériel.
+
+Les critères d'évaluation et d'amélioration des pratiques en régulation médicale sont :
+
+- • le compte rendu de régulation qui doit comporter systématiquement l'âge de la parturiente, la parité, le terme, le suivi et les incidents de la grossesse, et les heures de naissance et de délivrance ;
+- • l'existence d'une fiche de régulation type rappelant les items cités ci-dessus ;
+- • une analyse des dossiers de régulation réalisée au sein de l'équipe médicale et permanencière de façon régulière ;
+- • une revue de morbi-mortalité qui doit permettre une discussion des problèmes avec l'ensemble des personnels.
+
+Les critères d'évaluation et d'amélioration des pratiques portant sur les Smur sont :
+
+- • l'établissement d'une liste de matériel spécifique à l'accouchement ;
+- • la mise en place d'une organisation pour la vérification du matériel ;
+- • l'élaboration de procédures de renfort, tels l'appel d'une sage-femme en collaboration avec un service d'obstétrique ou l'engagement d'un Smur pédiatrique.
+
+Les critères d'amélioration des pratiques portant sur la formation des équipes Smur sont :
+
+- • l'évaluation de la proportion des personnels formés ;
+- • l'évaluation des pratiques avant et après une formation.
+
+La création de réseaux périnataux doit permettre la mise en commun des moyens de soins et de transports au niveau régional. Ces structures doivent associer les obstétriciens, les sages-femmes, les néonatologues et les pédiatres, les anesthésistes réanimateurs et les médecins des Samu-Smur. Des protocoles doivent être établis au sein des réseaux pour la prise en charge des urgences obstétricales préhospitalières. Ces protocoles doivent être facilement accessibles par les médecins des samu-Smur et réévalués régulièrement afin de les actualiser.
+
+Les transferts périnataux médicalisés doivent être régulés par les Samu.

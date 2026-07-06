@@ -1,0 +1,764 @@
+**RECOMMANDATIONS FORMALISÉES D'EXPERTS****Prise en charge de l'arrêt cardiaque**
+
+Société française d'anesthésie et de réanimation  
+Société de réanimation de langue française
+
+Nouveaux guidelines ILCOR/ERC 2015 disponibles en Français
+
+**COMITÉ D'ORGANISATION**
+
+Coordonnateur : Pr Pierre Carli (Paris), coordonnateur adjoint : Dr Caroline Télon \* (Paris), pour le comité des référentiels Sfar : Dr Catherine Paugam et Dr Marc Alazia, pour le comité des référentiels SRLF : Dr Alain Cariou et Dr Stéphane Leteurtre
+
+**GROUPE D'EXPERTS**
+
+Dr Christophe Adrie (Saint-Denis), Dr Marc Alazia (Marseille), Pr Elie Azoulay (Paris), Dr Alain Cariou (Paris), Dr Pascal Cassan (Paris), Dr Pierre Canoui (Paris), Pr Gérard Chéron (Paris), Pr Jean-Emmanuel de La Cousaye (Nîmes), Dr Jean Stéphane David (Lyon), Dr Jean-François Diependale (Lille), Pr Pierre-Yves Gueugninaud (Lyon), Dr Vincent Hubert (Amiens), Dr Benoît Jardel (Rouen), Pr Xavier Joven (Paris), Dr K Klouche (Montpellier), Dr Gilbert Leclercq (Bobigny), Dr Stéphane Leteurtre (Lille), Pr Bruno Megarbane (Paris), Dr Daniel Meyran (Marseille), Dr Pierre Michelet (Marseille), Pr Patrick Plaisance (Paris), Pr Christian Spaulding (Paris), Dr Caroline Télon (Paris), Dr Benoît Vivien (Paris), Dr Éric Wiel (Lille)
+
+**I. INTRODUCTION ET PRÉSENTATION  
+DE LA MÉTHODOLOGIE DES  
+RECOMMANDATIONS  
+FORMALISÉES D'EXPERTS (RFE)**
+
+La réanimation des arrêts cardiaques (AC) est un domaine où les données scientifiques sont souvent limitées. Les études cliniques de bonne qualité sont peu nombreuses et, bien souvent, les pratiques sont basées sur des résultats expérimentaux qu'il est difficile d'extrapoler à l'homme. En 2005, l'ILCOR (Circulation décembre 2005 23 ; 110) a
+
+réuni un groupe d'experts internationaux qui a proposé des recommandations basées sur l'analyse de la littérature scientifique. Compte tenu des limites des travaux publiés et de la composition du groupe d'expert, ces recommandations ont validé un certain nombre de choix arbitraires reflétant plus un consensus sur les pratiques de certains pays anglo-saxons que des faits scientifiquement irréfutables. Dans un tel contexte, il est apparu comme très important que les conclusions internationales soient aussi revues par des experts français à la lumière de leurs pratiques et des travaux français. Ces recommandations formalisées ont été réalisées par un groupe de 27 experts réunis sur l'initiative de la Société française d'anesthésie et de réanimation (Sfar) et de la Société de réanimation de langue française (SRLF) et comprenant des membres représentatifs des sociétés savantes et des associations qui sont impliquées dans la prise en charge des AC : le Conseil français de réanimation cardiopulmonaire, le Samu de France, la Société française de médecine d'urgence, la Croix-Rouge française, la Société française de cardiologie. Le thème a été divisé en neuf champs. Les champs 1 à 8 concernent l'AC de l'adulte et le champ 9 concerne l'AC pédiatrique.
+
+La méthode utilisée a été celle d'un groupe nominal adapté de la RAND/UCLA. Les experts, par groupe de deux, ont réalisé dans le champ d'application qui leur a été attribué une analyse de la qualité et de la pertinence de la littérature, une synthèse des points importants, et la rédaction des propositions de recommandations. Ces propositions ont été ensuite exposées et discutées par l'ensemble du groupe d'expert, et modifiées pour répondre aux questions posées. Chaque recommandation a été cotée, sur une échelle de 1 à 9, par chacun des experts à l'aide d'une échelle discontinue graduée de 1 à 9 (1 signifie l'existence « d'un désaccord complet » ou d'une « absence totale de preuve » ou « d'une contre-indication formelle » et 9 celle« d'un accord complet » ou « d'une preuve formelle » ou « d'une indication formelle »).
+
+Trois zones ont ainsi été définies en fonction de la place de la médiane :
+
+- • la zone (1 à 3) correspond à la zone de « désaccord » ;
+- • la zone (4 à 6) correspond à la zone « d'indécision » ou d'accord faible ;
+- • la zone (7 à 9) correspond à la zone « d'accord » ou d'accord fort.
+
+L'accord est dit « fort » (F), si l'intervalle est situé à l'intérieur des bornes d'une des trois zones [1 à 3] ou [4 à 6] ou [7 à 9].
+
+L'accord est dit « faible » (f) si l'intervalle empiète sur une borne (intervalle [1 à 4] ou [6 à 8] par exemple).
+
+Suivant la méthodologie en vigueur, deux ou trois tours de cotation ont été effectués suivant les items, permettant ainsi au coordonnateur d'adapter les propositions au consensus du groupe. Même si le but n'est pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, de nombreux points de concordance forte ont été obtenus et sont venus confirmer ou modifier les recommandations internationales. La quasi-totalité des propositions du texte cours ont été ainsi l'objet d'un accord fort entre les membres du groupe.
+
+## 2. CHAMP 1 : ALERTE ET DIAGNOSTIC
+
+### 2.1. Chaîne de survie
+
+La chaîne de survie est un concept pédagogique qui identifie les différentes actions pour améliorer la survie des patients en AC (F).
+
+La chaîne de survie est composée des maillons suivants (f) :
+
+- • reconnaissance des signes précurseurs de l'AC et alerte précoce des secours, en France par le 15 ;
+- • réanimation cardiopulmonaire de base précoce par les premiers témoins ;
+- • défibrillation précoce ;
+- • réanimation cardiopulmonaire spécialisée précoce et réanimation post-AC débutée par le Smur et continuée en réanimation.
+
+Ces maillons sont interdépendants et c'est le plus faible qui détermine la solidité de cette chaîne. En France, les trois premiers maillons de la chaîne de survie doivent être renforcés (F).
+
+### 2.2. Reconnaissance et alerte (F)
+
+Pour le public et pour les sauveteurs, la reconnaissance de l'AC est simple et repose sur l'absence de signes de vie : victime inconsciente, ne bougeant pas, ne réagissant pas et ne respirant pas ou respirant de façon franchement anormale (gasps).
+
+Pour les secouristes et les professionnels de santé, la reconnaissance de l'AC repose sur l'absence de signes de
+
+circulation : absence de signe de vie et absence de pouls carotidien ou fémoral.
+
+La reconnaissance de l'AC doit être rapide (environ dix secondes). Elle impose le déclenchement des secours par une alerte au 15 (Samu) et le début de la réanimation cardiopulmonaire (RCP).
+
+### 2.3. RCP assistée par téléphone (F)
+
+Lors d'un appel au 15 pour AC, il faut inciter l'appelant à entreprendre les manœuvres de RCP.
+
+Les instructions données doivent privilégier la réalisation des compressions thoraciques.
+
+## 3. CHAMP 2 : LA RCP DE BASE
+
+### 3.1. RCP de base (F)
+
+En raison de l'effet négatif sur le pronostic, toute interruption des compressions thoraciques doit être limitée, en particulier lors des insufflations et des défibrillations.
+
+Pour réaliser un massage cardiaque externe (MCE), le talon de la main du sauveteur est placé sur le centre du thorax de la victime.
+
+Les compressions thoraciques doivent être effectuées à une fréquence de 100 b/min en assurant une dépression sternale de 4 à 5 cm.
+
+Lors de la décompression, les talons des mains doivent être soulevés légèrement du thorax. Les temps de compression et de décompression doivent être approximativement égaux.
+
+L'ouverture des voies aériennes supérieures (VAS) doit se faire par la bascule de la tête en arrière et par élévation du menton.
+
+Seule la présence d'un corps étranger visible dans l'oropharynx impose la désobstruction des voies aériennes par la méthode des doigts en crochet.
+
+La ventilation artificielle doit être réalisée par le bouche-à-bouche, le bouche-à-nez, le bouche à trachéotomie. Pour les professionnels, elle est réalisée de première intention à l'aide d'un insufflateur manuel et un masque, au mieux reliés à une source d'oxygène.
+
+Les compressions thoraciques sont prioritaires. Elles doivent être réalisées même en l'absence d'insufflation efficace.
+
+Quelle que soit la technique de ventilation utilisée, la durée de l'insufflation est d'une seconde. Le volume insufflé doit être suffisant pour soulever le thorax.
+
+La RCP de l'adulte commence par 30 compressions thoraciques.
+
+L'alternance compression-ventilation est de 30 compressions pour deux insufflations.
+
+Lorsque les sauveteurs ne veulent pas ou ne savent pas réaliser le bouche-à-bouche, il est recommandé qu'ils entrent le MCE seul.
+
+L'algorithme résume la RCP de base (Fig. 1).Si plus d'un sauveteur est présent, un relais de la RCP doit être effectué toutes les deux minutes afin de limiter la fatigue, cause d'inefficacité.
+
+### 3.2. MCE instrumental (F)
+
+Aucune technique instrumentale de MCE n'a permis d'améliorer de façon indiscutable la survie au long cours des patients en AC. Aucune ne peut donc être recommandée à titre systématique.
+
+Au sein d'équipes entraînées et disposant d'une organisation adéquate, certaines techniques facilitent la réalisation du MCE, améliorent son efficacité hémodynamique et ont permis d'améliorer le pronostic à court terme des patients.
+
+La compression/décompression active augmente l'efficacité hémodynamique du MCE ainsi que la survie. En conséquence, rien ne s'oppose à l'utilisation de cette technique par des équipes entraînées et avec des intervenants en nombre suffisant.
+
+L'utilisation de la valve d'impédance associée à la compression/décompression active améliore l'hémodynamique au cours de la réanimation des AC et la survie à court terme. Elle peut donc être utilisée en préhospitalier.
+
+La réalisation d'une compression abdominale intermittente au cours du MCE a permis d'améliorer la survie de certains patients à l'hôpital, mais est difficilement réalisable en préhospitalier ; elle n'est donc pas recommandée.
+
+L'utilisation d'un dispositif de MCE par une bande constrictrice (Auto-pulse<sup>®</sup>) améliore l'hémodynamique des patients et le retour à une circulation spontanée. Un tel dispositif peut être utilisé pour un MCE prolongé et le transport éventuel d'un AC préhospitalier vers l'hôpital.
+
+Le système Lucas<sup>®</sup> permet de réaliser une compression/décompression active mécanique. L'utilisation de ce dispositif est possible dans le contexte d'AC prolongé ou le transport vers l'hôpital d'AC préhospitalier. L'efficacité de ce dispositif sur la survie et son innocuité en termes de complications traumatiques ne sont pas connues.
+
+Le MCE mécanique par piston pneumatique permet expérimentalement de réaliser un MCE prolongé de bonne qualité. Cette méthode est très utilisée dans les modèles expérimentaux. Son utilisation chez l'homme est beaucoup plus limitée et n'a pas fait la preuve de son efficacité.
+
+Le MCE par thoracotomie améliore expérimentalement l'hémodynamique et la survie des AC. Son efficacité a été confirmée chez l'homme dans le contexte périopératoire. En conséquence, la réalisation d'un massage cardiaque interne peut être proposée en peropératoire lorsque le thorax ou l'abdomen est déjà ouvert ou en postopératoire immédiat d'une chirurgie cardiothoracique.
+
+## 4. CHAMP 3 : LA DÉFIBRILLATION
+
+### 4.1. Défibrillation automatisée externe (DAE) [F]
+
+La DAE est sûre et améliore le pronostic des AC.
+
+Le développement de programmes de défibrillation par le public est recommandé pour tous les sites où les AC survenant devant témoins sont fréquents. Une organisation rigoureuse et en conjonction avec les secours institutionnels est indispensable.
+
+La défibrillation doit être réalisée le plus rapidement possible. Cependant, la RCP doit être systématiquement débutée dans l'attente de disponibilité du défibrillateur.
+
+Lorsque la victime est restée pendant plus de quatre à cinq minutes sans RCP, deux minutes de RCP doivent être effectuées par les professionnels de santé et les secouristes, avant toute analyse du rythme cardiaque et tentative de défibrillation.
+
+L'utilisation des défibrillateurs à ondes biphasiques est recommandée. Le niveau d'énergie optimale ne peut être précisé actuellement, mais il est raisonnable d'utiliser une énergie de 150 à 200 J.
+
+Il est recommandé de réaliser un choc électrique externe (CEE) unique suivi immédiatement de deux minutes de RCP.
+
+Le rythme cardiaque et la présence d'un pouls ne sont vérifiés qu'après ces deux minutes de RCP.
+
+L'algorithme de la DAE est représenté sur la Fig. 2.
+
+```
+
+graph TD
+    A[La victime ne bouge pas et ne répond pas] --> B[Demander de l'aide 1]
+    A --> C[Libérer les voies aériennes]
+    C --> D[La victime ne respire pas ou « gaspe » 2]
+    D --> E[Appeler le 15  
+Faire chercher un DAE]
+    D --> F[30 compressions thoraciques]
+    F --> G[2 insufflations  
+30 compressions thoraciques]
+    G --> H[Continuer la RCP jusqu'à l'arrivée des secours ou de la mise en place DAE]
+  
+```
+
+(1) Demander de l'aide signifie demander à un autre intervenant de participer à l'alerte et à la RCP  
+ (2) La prise du pouls peut être effectuée par les secouristes et les professionnels de santé
+
+**Fig. 1.** Algorithme de la réanimation cardiopulmonaire de base.  
+ Cet algorithme est réalisable par tous les intervenants en attendant l'arrivée de secours dans le cadre de la chaîne de survie.```
+
+graph TD
+    A[La victime ne bouge pas, ne répond pas] --> B[Demander de l'aide]
+    A --> C[Libérer les voies aériennes]
+    C --> D[La victime ne respire pas ou « gaspe » Absence de pouls (1)]
+    D --> E[Chercher un DAE Appeler le 15]
+    D --> F[RCP 30 : 2 jusqu'à l'arrivée d'un DAE]
+    F --> G{DAE Analyse le rythme}
+    G --> H[Choc conseillé]
+    G --> I[Choc NON conseillé]
+    H --> J[1 choc 150 - 200 J biphasique]
+    J --> K[Reprendre immédiatement RCP 30 : 2 pendant 2 min]
+    K --> G
+    I --> L[Reprendre immédiatement RCP 30 : 2 pendant 2 min]
+    L --> G
+    I --> M[Continuer la RCP jusqu'à la reprise d'une ventilation spontanée efficace ou l'arrivée d'une équipe de réanimation]
+  
+```
+
+**Fig. 2.** Algorithme de la défibrillation automatisée externe.
+
+Cet algorithme est réalisable par tous les intervenants formés à la DAE en attendant l'arrivée de l'équipe de réanimation médicalisée. Les interruptions des compressions thoraciques doivent être les plus courtes possibles.
+
+## 5. CHAMP 4 : RCP MÉDICALISÉE
+
+### 5.1. Ventilation (F)
+
+Au cours de la RCP, l'oxygène doit être administré le plus rapidement possible.
+
+En France, en raison de la présence d'équipes médicales préhospitalières, l'intubation endotrachéale est la technique de référence pour contrôler les voies aériennes au cours de la RCP.
+
+Le temps nécessaire pour mettre en sécurité les voies aériennes doit être le plus court possible et ne doit pas faire interrompre plus de 30 secondes la RCP.
+
+En cas de difficulté d'intubation, une ventilation doit au minimum être assurée par un masque facial avec une canule de Guédel et un ballon autoremplisseur relié à une source d'oxygène.
+
+Le masque laryngé ou le Fastrach' sont des alternatives acceptables si l'intubation se révèle difficile.
+
+La bonne position de la sonde d'intubation doit être vérifiée systématiquement par plusieurs techniques. La fiabilité
+
+de la mesure du  $\text{CO}_2$  expiré n'est pas établie dans cette indication.
+
+Une fois l'intubation réalisée et vérifiée, l'usage d'un respirateur automatique est privilégié pour la ventilation mécanique.
+
+Les paramètres ventilatoires doivent être réglés en mode ventilation assistée contrôlée avec un volume courant de 6 à 7 ml/kg et une fréquence respiratoire de 10 c/min, avec une  $\text{FiO}_2 = 1$ .
+
+### 5.2. Vasoconstricteurs (F)
+
+Malgré l'absence d'études contrôlées versus placebo chez l'homme, l'adrénaline est le vasopresseur standard préconisé dans le traitement de l'AC, quelle qu'en soit l'étiologie.
+
+L'adrénaline doit être administrée à la dose de 1 mg tous les deux cycles de RCP, soit environ toutes les quatre minutes.
+
+En cas de FV/TV sans pouls, la première injection d'adrénaline doit être réalisée, après deux minutes de RCP, dès qu'une voie veineuse est obtenue, immédiatement avant ledeuxième ou le troisième choc électrique en l'absence de reprise d'activité circulatoire spontanée (RACS).
+
+Quand une voie d'abord vasculaire et/ou intraosseuse n'est pas immédiatement accessible, l'adrénaline peut être injectée au travers de la sonde d'intubation trachéale à la dose de 2 à 3 mg dilués dans 10 ml d'eau pour préparation injectable (une seule injection).
+
+Si les doses répétées de 1 mg d'adrénaline s'avèrent inefficaces en cas d'asystole réfractaire, une augmentation des doses jusqu'à 5 mg par injection est une alternative possible.
+
+Il n'existe pas de données scientifiques suffisantes pour recommander ou interdire l'utilisation de l'arginine-vasopressine en routine. Elle peut être envisagée seule ou en association avec l'adrénaline, en tant qu'alternative à l'adrénaline seule, notamment en cas d'asystole, sans dépasser deux injections de 40 UI.
+
+### 5.3. Antiarythmiques (F)
+
+L'amiodarone est recommandée en cas de fibrillation ventriculaire (FV) ou de tachycardie ventriculaire (TV) sans pouls, résistants aux chocs, immédiatement avant le troisième CEE ou le quatrième CEE à la dose de 300 mg injectée par voie intraveineuse directe diluée dans un volume de 20 ml de sérum physiologique.
+
+Une deuxième injection de 150 mg d'amiodarone doit être réalisée en cas de FV persistante ou récidivante. Elle peut éventuellement être suivie par une perfusion continue de 900 mg sur 24 heures.
+
+La lidocaine n'est plus l'antiarythmique de référence dans l'AC et ne doit être utilisée que si l'amiodarone n'est pas disponible.
+
+Le sulfate de magnésium à la dose de 2 g par voie intraveineuse directe est réservé aux FV résistantes au choc dans un contexte d'hypomagnésémie suspectée ou aux cas de torsades de pointes.
+
+### 5.4. Autres thérapeutiques (F)
+
+L'atropine n'est pas indiquée dans le traitement de l'asystole. Elle peut se discuter au cas par cas devant une activité électrique sans pouls apparaissant à la suite d'une bradycardie initialement efficace. Elle doit alors être administrée sous la forme d'un bolus unique de 3 mg intraveineux.
+
+L'alcalinisation n'est pas indiquée en routine lors de la RCP. Le soluté de bicarbonate de sodium équimolaire doit être réservé aux cas d'hyperkaliémie et/ou d'acidose métabolique préexistants ou en cas d'AC par overdose de substances à effet stabilisant de membrane, notamment les anti-dépresseurs tricycliques.
+
+L'aminophylline et le calcium ne sont pas indiqués en routine dans le traitement de l'AC.
+
+L'administration systématique d'un thrombolytique au cours de la RCP n'est pas recommandée en raison de données cliniques insuffisantes. La thrombolysie doit être considérée comme un traitement étiologique de l'AC : à réaliser
+
+en cas d'embolie pulmonaire cruroïque avérée ou suspectée, et à envisager au cas par cas lorsque la RCP spécialisée initiale est infructueuse et qu'une thrombose coronarienne est fortement suspectée.
+
+La thrombolysie ne contre-indique pas la poursuite de la RCP, mais doit faire prolonger celle-ci pendant 60 à 90 minutes, délai au cours duquel son efficacité peut apparaître.
+
+### 5.5. Solutés de perfusion (F)
+
+Le sérum salé isotonique est utilisé comme vecteur des médicaments intraveineux au cours de la RCP. Le volume utilisé doit être limité et son débit est accéléré uniquement pour purger la voie veineuse après chaque injection de substances.
+
+Une expansion volémique n'est indiquée que lorsque l'AC est associé à une hypovolémie.
+
+### 5.6. Voies d'administration (F)
+
+Au cours de l'AC, il est nécessaire de mettre en place un abord vasculaire. La voie veineuse périphérique, située dans le territoire cave supérieur, est aussi efficace que la voie veineuse centrale et offre l'avantage d'être mise en place sans interrompre le massage cardiaque.
+
+Si l'abord vasculaire est retardé ou ne peut être obtenu, l'abord intraosseux doit être envisagé et nécessite chez l'adulte un dispositif approprié.
+
+Si les deux abords précédents sont retardés ou impossibles, l'administration des médicaments peut être réalisée à travers la sonde d'intubation (administration intratrachéale). Les médicaments sont alors dilués dans de l'eau pour préparation injectable et injectés directement dans la sonde d'intubation.
+
+Algorithme de la réanimation médicalisée (F) (Fig. 3)
+
+## 6. CHAMP 5 : RÉANIMATION POST-AC (F)
+
+Après obtention d'une RACS, les soins spécifiques de la période post-AC doivent débuter immédiatement et se poursuivre tout au long du séjour en réanimation.
+
+Le syndrome post-AC est cliniquement caractérisé par un ensemble de manifestations viscérales, notamment neurologiques, cardiocirculatoires, respiratoires et rénales, qui peuvent conduire à des défaillances d'organes multiples et au décès.
+
+L'obtention et le maintien d'une homéostasie, en particulier sur le plan métabolique, représentent un objectif majeur de la réanimation post-arrêt AC.
+
+Lorsque la ventilation mécanique doit être poursuivie après la réanimation initiale, les objectifs gazométriques comportent l'obtention d'une saturation artérielle supérieure à 92 % et d'une normocapnie.```
+
+graph TD
+    A[Appliquer l'algorithme de RCP de base et/ou de DAE  
+RCP 30 : 2  
+Mettre en place l'électrocardioscope  
+défibrillateur] --> B[Analyser le rythme cardiaque]
+    B --> C[Rythme choquable  
+(FV/TV sans poul)]
+    B --> D[Rythme non choquable  
+(RSP, asystole)]
+    C --> E[Réaliser 1 choc  
+150-200 J  
+biphasique (2)]
+    E --> F[Repandre  
+immédiatement  
+RCP (30 : 2)  
+Jusqu'à 2 minutes (3)]
+    F --> B
+    D --> G[Repandre  
+immédiatement  
+RCP (30 : 2)  
+Pendant 2 minutes]
+    G --> B
+    
+```
+
+**Réanimation médicalisée  
+Pendant la RCP**
+
+- - Contrôler les voies aériennes et ventiler en oxygène pur
+- - Mettre en place un abord vasculaire
+- - Vérifier la position et le contact des électrodes
+- - Traitement éventuel d'une cause réversible (1)
+- - Réaliser les compressions thoraciques en continu dès que les voies aériennes sont contrôlées
+- - Injecter le vasopresseur : adrénaline 1 mg toutes les 3-5 minutes
+- - Envisager un anti-arythmique (amiodarone : 300 mg) et d'éventuels traitements spécifiques
+- - Monitorer et adapter :
+  - o CO<sub>2</sub> expiré,
+  - o température, glycémie, électrolytes (4)
+
+**(1) Causes réversibles**
+
+<table style="width: 100%; border: none;">
+<tr>
+<td style="vertical-align: top;">
+                Hypoxie<br/>
+                Hypovolémie<br/>
+                Hypo/hyperkaliémie - Métaboliques<br/>
+                Hypothermie
+            </td>
+<td style="vertical-align: top;">
+                Thrombose (coronaire ou pulmonaire)<br/>
+                Pneumothorax suffocant<br/>
+                Tamponnade<br/>
+                Intoxications
+            </td>
+</tr>
+</table>
+
+(2) ou énergie équivalente  
+(3) en fonction de la reprise d'une activité circulatoire  
+(4) après le retour à une circulation spontanée
+
+**Fig. 3.** Algorithme de la réanimation médicalisée. Cet algorithme est réalisé dès l'arrivée d'une équipe médicalisée de réanimation préhospitalière (déclenchée par le 15) ou hospitalière. Un rythme choquable signifie « pour lequel le choc électrique est indiqué ». Les indications des médicaments sont précisées dans le texte. Les interruptions des compressions thoraciques doivent être les plus courtes possibles. Si la défibrillation permet le retour à une circulation spontanée efficace le médecin peut abrégé la séquence suivante de deux minutes de RCP. Cet algorithme peut être modifié devant un AC en situation particulière.
+
+L'hypotension artérielle est délétrère. Le niveau de pression artérielle (PA) optimal dans cette situation doit être adapté au terrain et à la pression artérielle antérieure du patient
+
+Les manifestations épileptiques, lorsqu'elles surviennent au cours de la phase post-AC, doivent être traitées avec les molécules habituelles
+
+Au cours des premiers jours post-AC, il est nécessaire de traiter la fièvre et de rechercher une infection.
+
+Le syndrome coronaire aigu étant la cause la plus fréquente d'AC extrahospitalier, l'indication de coronarographie doit être évoquée en fonction du contexte clinique, dès la prise en charge préhospitalière.
+
+L'objectif prioritaire des soins apportés pendant la période post-AC réside dans l'obtention d'une survie
+
+s'accompagnant de peu ou pas de séquelles neurologiques post-anoxiques.
+
+Une hypothermie induite (entre 32 et 34° C pendant 12 à 24 heures) doit être réalisée, le plus tôt possible, chez les adultes victimes d'un AC extrahospitalier en rapport avec une FV, et qui sont toujours comateux au cours de la réanimation initiale. Lorsqu'une hypothermie thérapeutique est réalisée, il est nécessaire de pratiquer une curarisation en association avec la sédation.
+
+En dehors de la situation précédente (adulte comateux après FV extrahospitalière), l'hypothermie thérapeutique peut également être proposée, mais elle doit être discutée au cas par cas, en tenant compte du rapport bénéfice/risque individuel.Au cours de la période post-AC, la sédation n'a pas démontré d'effet neuroprotecteur et ne doit pas être systématique, sauf si celle-ci est rendue nécessaire par l'utilisation de l'hypothermie thérapeutique.
+
+Parmi les critères pronostiques qui sont cliniquement évaluables, la constatation au troisième jour post-AC d'une absence de réponse motrice à la douleur et/ou une perte du réflexe pupillaire permettent de prédire l'absence de récupération neurologique avec une excellente valeur prédictive.
+
+À l'exception de certains tracés péjoratifs (*burst suppression*, tracé plat, état de mal), l'aspect de l'électroencéphalogramme est mal corrélé à l'évolution neurologique ultérieure.
+
+Parmi les critères pronostiques électrophysiologiques, l'absence bilatérale de la composante N<sub>2</sub>O des potentiels évoqués somesthésiques permet de prédire l'absence de réveil avec une excellente valeur prédictive positive.
+
+Les dosages plasmatiques de marqueurs biologiques des lésions cérébrales ne permettent pas de prédire isolément et avec acuité le pronostic neurologique des victimes d'AC.
+
+La réalisation de travaux cliniques, visant à évaluer l'intérêt des procédures de monitoring cérébral, doit être encouragée dans le contexte du syndrome post-AC.
+
+## 7. CHAMP 6 : SITUATIONS PARTICULIÈRES (F)
+
+### 7.1. Prise en charge de l'AC intrahospitalier
+
+L'utilisation intrahospitalière de DAE est recommandée pour faciliter la défibrillation précoce des victimes en AC.
+
+Un DAE, si possible débrayable en mode manuel, doit être disponible sur un chariot d'urgence dans tous les services ou unités.
+
+L'organisation de la prise en charge intrahospitalière de l'AC repose sur une équipe spécifique médicalisée.
+
+Cette équipe est formée et entraînée à la RCP médicalisée. Elle est munie du matériel nécessaire à la réalisation d'une RCP médicalisée, en complément du matériel disponible sur place dans le chariot d'urgence.
+
+Dans l'attente de l'équipe médicale, la RCP doit être débutée et le chariot d'urgence doit être amené au chevet du patient.
+
+La DAE doit être mise en œuvre dès que possible. Tout médecin disponible à proximité doit être sollicité.
+
+Pour un patient hospitalisé, les méthodes orales de ventilation ne sont pas recommandées. La ventilation artificielle réalisée par les professionnels de santé est effectuée à l'aide d'un insufflateur manuel.
+
+L'absence de matériel de ventilation ou l'inefficacité de la ventilation impose de débuter la RCP par des compressions thoraciques en continu.
+
+### 7.2. Noyades
+
+Les noyés doivent être extraits du milieu aquatique le plus rapidement possible afin de bénéficier d'une réanimation cardiocirculatoire efficace. La ventilation peut être débutée dans l'eau par des sauveteurs entraînés.
+
+Compte tenu de la physiopathologie de la noyade, la RCP doit débuter par cinq insufflations.
+
+La stabilisation rachidienne ne doit pas être systématique. Elle est réservée à des circonstances évocatrices de traumatisme du rachis (plongeon, sport de glisse, signes neurologiques) et en cas d'intoxication alcoolique.
+
+La compression abdominale n'est pas indiquée en cas de noyade.
+
+### 7.3. Hypothermie accidentelle
+
+En cas d'hypothermie, la RCP doit être poursuivie jusqu'au réchauffement de la victime.
+
+Le diagnostic d'AC est difficile.
+
+La victime peut bénéficier d'un réchauffement invasif.
+
+L'administration de médicaments doit être limitée tant que la température est inférieure à 30° C.
+
+En cas d'AC par FV, la tentative de CEE doit être limitée à un essai dès lors que la température corporelle est inférieure à 30° C.
+
+### 7.4. Arrêt cardiaque et grossesse
+
+L'incidence de l'arrêt cardiaque chez la femme enceinte, dans les pays développés, est estimée à 1/30 000 accouchements.
+
+À partir de la 20<sup>e</sup> semaine de grossesse, pour favoriser le retour veineux, pendant le massage cardiaque, l'utérus doit être récliné vers la gauche de 15° soit manuellement soit en surélevant la fesse droite de la femme.
+
+À partir de la 20<sup>e</sup> semaine de grossesse, pour réaliser les compressions thoraciques, les talons des mains sont appliqués sur le sternum plus haut que pour la femme non enceinte.
+
+À cause du risque maximal de régurgitation, une pression cricoïdienne doit être maintenue jusqu'à la réalisation de l'intubation endotrachéale.
+
+La défibrillation suit les mêmes règles que pour tous les adultes, en effet, l'impédance transthoracique ne semble pas être modifiée. Les électrodes de défibrillation doivent être placées en transthoracique.
+
+L'intubation oro-trachéale précoce est indispensable, car il existe un risque majeur de régurgitation. Elle doit être réalisée avec une sonde d'intubation d'un diamètre interne inférieur de 0,5 à 1 mm à celui habituellement utilisé pour une femme non enceinte.
+
+Le pronostic fœtal dépend de la rapidité du succès de la RCP.
+
+Une extraction de sauvetage peut être proposée, en milieu spécialisé, après la 25<sup>e</sup> semaine de grossesse. Ellepeut améliorer le pronostic de la mère et de l'enfant si elle est réalisée dans les cinq minutes.
+
+### 7.5. Arrêt cardiaque et traumatisme
+
+La réanimation d'un AC d'origine traumatique doit en premier lieu suivre les mêmes recommandations que celles en vigueur pour la réanimation des AC d'origine « médicale ». La prise en charge du traumatisme vient en complément de la réanimation de l'AC, mais ne doit pas s'y substituer.
+
+Les chances de survie après un AC d'origine traumatique sont théoriquement extrêmement faibles (environ 2 %). Cependant, une réanimation doit toujours être tentée, et ce, d'autant plus que la prise en charge initiale est effectuée d'emblée par une équipe médicalisée, car des survies inespérées ont été décrites.
+
+Le pronostic vital après un AC traumatique semble être meilleur après un traumatisme pénétrant qu'après un traumatisme fermé, en particulier si le traumatisme est thoracique et isolé, en raison de la possibilité de pratiquer une thoracotomie de sauvetage. Cette thoracotomie est en général réalisée aux urgences de l'hôpital si le délai de transport est inférieur à 15 minutes.
+
+Certaines étiologies curables à l'origine d'un AC survenant dans le contexte d'un traumatisme doivent être rapidement identifiées, car leur traitement peut permettre de restaurer une activité cardiaque spontanée efficace :
+
+- • le pneumothorax compressif qui nécessite une ponction exsufflatrice à l'aiguille ou une thoracostomie ;
+- • le désamorçage hypovolémique lors d'un choc hémorragique qui nécessite un remplissage majeur et rapide, associé à l'administration d'un vasoconstricteur ;
+- • la FV survenant dans le cadre d'une *commotio cordis* nécessite un CEE.
+
+### 7.6. Arrêt cardiaque et intoxication
+
+Il n'existe pas pour l'AC d'origine toxique de spécificités concernant les modalités du MCE, de la prise en charge des voies aériennes supérieures et de la ventilation. Néanmoins, en cas d'intoxication par le cyanure, l'hydrogène sulfure, les produits caustiques ou organophosphorés, il convient d'éviter la ventilation par le bouche-à-bouche.
+
+En cas d'asystole d'origine toxique, l'adrénaline est la catécholamine de choix. Il n'existe pas de données suffisantes pour recommander l'usage d'un autre vasopresseur.
+
+La RCP doit être prolongée en cas d'AC d'origine toxique survenu devant témoin.
+
+La perfusion de bicarbonates molaires ou semi-molaires de sodium est recommandée au cours d'un AC en cas d'arythmie ventriculaire, de bradycardie ou d'hypotension induite par les toxiques avec effet stabilisant de membrane.
+
+Au cours d'un AC lié à une intoxication par inhibiteur calcique ou bêtabloquant, l'utilisation de certains antidotes (chlorure de calcium, glucagon, insuline) peut se révéler
+
+utile en cas de bradycardie ou d'hypotension sévère secondaire.
+
+Les fragments Fab des anticorps antidigoxine sont recommandés en première intention en association aux traitements symptomatiques, en cas d'AC lié à une intoxication aux digitaliques. L'entraînement électrosystolique externe systématique n'est plus indiqué.
+
+La contre-pulsion intra-aortique est inefficace au cours d'un AC toxique accompagné d'un trouble sévère de l'inotropisme cardiaque.
+
+La ventilation est le meilleur traitement en cas d'arrêt respiratoire dû aux opiacés. La réversion par la naloxone doit être réservée aux patients avec pouls palpable. La naloxone ne doit pas être poursuivie en cas de ventilation mécanique.
+
+L'assistance circulatoire périphérique doit être envisagée en cas d'AC ou d'état de choc toxique réfractaire au traitement médical conventionnel optimal.
+
+### 8. CHAMP 7 : ÉTHIQUE (F)
+
+Lorsque le patient a pu exprimer de son vivant sa volonté de ne pas être réanimé en cas d'AC, cette décision doit être respectée si elle a été formulée conformément à la réglementation française (directives anticipées, personne de confiance).
+
+En l'absence de reprise d'activité cardiaque spontanée, après 30 minutes de réanimation spécialisée, la réanimation peut être arrêtée, si aucun facteur de protection cérébrale n'est retrouvé. L'arrêt de la réanimation est une décision médicale.
+
+À l'issue de la réanimation de l'AC, une information concise et claire doit être donnée à la famille. En cas d'échec de la réanimation, elle s'accompagne d'une assistance médicale et administrative
+
+### 9. CHAMP 8 : ÉPIDÉMIOLOGIE
+
+L'AC inopiné (mort subite de l'adulte) reste un problème majeur de santé publique dans les pays industrialisés puisqu'il représente 50 % des décès d'origine coronaire (F).
+
+L'analyse des données françaises permet d'évaluer le nombre de morts subites à environ 40 000 par an. Le taux d'incidence brut des AC extrahospitaliers s'élève à 55 pour 100 000 chaque année, ce qui est similaire aux autres pays industrialisés (f).
+
+L'âge moyen est de 67 ans, les trois quarts des AC surviennent au domicile. L'AC inopiné survient deux fois sur trois chez un homme (f).
+
+Les délais de prise en charge des AC sont longs à tous les niveaux de la chaîne de survie (F).
+
+Seuls 21 % des patients sont en FV ou en TV, le reste étant en asystole. L'AC survient en présence d'un témoin dans plus de 70 % des cas, la RCP n'est réalisée par ce témoin que dans 13 % des cas (F).Pour augmenter la probabilité d'observer une TV ou une FV à l'arrivée des secours, permettant d'espérer une défi-brillation efficace, il est indispensable d'améliorer la prise en charge par les témoins. Il est nécessaire d'apprendre au témoin à reconnaître l'AC, à appeler rapidement les secours et à débuter la RCP (F).
+
+La simplification des manœuvres de RCP doit permettre de les rendre plus facilement réalisables par un témoin non expérimenté si besoin aidé par des conseils téléphoniques délivrés par le Samu-Centre 15 (F).
+
+La survie immédiate est de 14 %, la survie à un mois reste actuellement de 2,5 %. Pour augmenter la survie, une amélioration de la prise en charge portant sur le rôle des témoins et la rapidité d'intervention est nécessaire (F).
+
+## 10. CHAMP 9 : PRISE EN CHARGE DE L'AC PÉDIATRIQUE (F)
+
+### 10.1. Épidémiologie
+
+L'AC dans la tranche d'âge pédiatrique a des causes différentes de celles de l'adulte.
+
+Les AC surviennent selon deux pics de fréquence. Avant l'âge de deux ans, 50 % des décès sont liés à la mort subite du nourrisson. Après cet âge, les accidents dominent.
+
+Les causes principales des AC sont les accidents (traumatismes, noyades, corps étrangers inhalés), l'insuffisance respiratoire, la sepsis, une atteinte neurologique, une cardiopathie ou un trouble du rythme cardiaque congénital.
+
+Les enfants ayant une insuffisance respiratoire, une affection neurologique sévère convulsivante ou non, une cardio(myo)pathie, un syndrome polymalformatif connu sont plus à risque d'arrêt respiratoire ou cardiorespiratoire.
+
+L'arrêt survient le plus souvent au terme d'une période d'hypoxie. Il est respiratoire une fois sur quatre, cardiorespiratoire trois fois sur quatre.
+
+Le premier rythme cardiaque enregistré est trois fois sur quatre une asystole. Les rythmes défi-brillables (FV/TV sans pouls) représentent 10 % des AC.
+
+### 10.2. Reconnaissance et alerte
+
+Chez l'enfant, l'AC est plus souvent la conséquence d'une défaillance respiratoire ou circulatoire qu'un arrêt cardiaque primitif causé par une arythmie. De ce fait, il est important de reconnaître précocement les signes de ces défaillances afin de prévenir l'AC.
+
+Le diagnostic d'AC est établi sur l'association des signes suivants : absence de réactivité spontanée ou aux stimulations, absence de respiration normale, absence de circulation.
+
+Pour le public et pour les sauveteurs, la reconnaissance de l'AC est simple et repose sur l'absence de signes de vie : victime inconsciente, ne bougeant pas, ne réagissant pas et
+
+ne respirant pas ou respirant de façon franchement anormale.
+
+Pour les secouristes et les professionnels de santé, la reconnaissance de l'AC repose sur l'absence de signes de circulation : absence de signe de vie et absence de pouls : pouls brachial chez le nourrisson de moins d'un an et pouls carotidien au-delà d'un an.
+
+La recherche de ces signes ne doit pas excéder dix secondes avant d'entreprendre les manœuvres de RCP. En cas de doute, celles-ci sont entreprises.
+
+Pour choisir le type de RCP, la distinction entre adulte et enfant réside sur la présence ou l'absence des signes de puberté.
+
+Avant la puberté, l'appel au service d'aide médicale urgente (Samu-Centre 15) est fait après cinq insufflations et une minute de RCP si le sauveteur est seul. Toutefois, quel que soit son âge, si l'enfant présente un AC sans prodrome et s'effondre devant un témoin seul, le témoin appelle en premier puis débute la RCP de base.
+
+Si deux sauveteurs sont présents face à un enfant sans réponse, l'un appelle immédiatement les secours, l'autre commence la RCP.
+
+S'il s'agit d'un nourrisson de moins d'un an, la RCP est poursuivie autant que possible pendant l'appel.
+
+Le médecin régulateur, par téléphone, conseille à l'appelant de débuter au minimum un MCE et s'il en a la compétence, d'associer la ventilation pour réaliser la RCP de base.
+
+Après la puberté, la conduite à tenir est la même que chez l'adulte : appeler d'abord.
+
+### 10.3. RCP de base
+
+#### 10.3.1. Ventilation
+
+La technique d'insufflation chez l'enfant de plus d'un an est le bouche-à-bouche.
+
+La technique d'insufflation chez l'enfant de moins d'un an est le bouche-à-bouche-nez ou le bouche-à-bouche.
+
+Chaque insufflation dure 1 à 1,5 seconde et est effectuée avec une pression suffisante pour soulever le thorax.
+
+#### 10.3.2. Recherche du pouls
+
+Avant l'âge d'un an, le professionnel recherche le pouls brachial ou fémoral.
+
+Après l'âge d'un an, le professionnel recherche le pouls carotidien ou fémoral.
+
+#### 10.3.3. Massage cardiaque externe (MCE)
+
+Le rythme des compressions thoraciques est de 100/minute.
+
+Les compressions thoraciques sont réalisées sur le tiers inférieur du sternum avec une dépression du tiers de la hauteur du thorax.
+
+Le MCE est réalisé avec deux doigts chez le nourrisson, avec le talon d'une ou deux mains en fonction de la morphologie chez l'enfant plus grand.### 10.3.4. Rapport compressions/ventilation
+
+En présence d'un seul sauveteur, le rapport compressions/thoraciques/insufflations est de 30/2 chez le nourrisson, l'enfant et l'adulte.
+
+En présence de deux sauveteurs, le rapport compressions/thoraciques/insufflations est de 15/2 pour deux sauveteurs quel que soit l'âge de l'enfant, (nouveau-né exclu).
+
+Un seul sauveteur, face à un enfant sans réponse, commence par une minute de RCP puis alerte les secours en appelant le 15.
+
+Si l'enfant ne respire pas normalement, il faut pratiquer cinq ventilations. Après ces cinq insufflations, on recherche les signes de vie : mouvements, toux et pour le professionnel la prise du pouls brachial avant un an, carotidien après un an.
+
+En l'absence de signe de vie et si le pouls est inférieur à 60 b/min, il faut réaliser une minute de RCP avec un rapport compressions/insufflations adapté à l'âge et au nombre de sauveteurs. Au terme de cette minute, on appelle le 15 si cela n'a pas pu être fait précédemment.
+
+En présence de signes de vie ou si le pouls est supérieur à 60 b/min, il faut continuer d'assister la ventilation jusqu'à une reprise spontanée de celle-ci.
+
+L'algorithme de la RCP de base pédiatrique est représenté sur la Fig. 4
+
+### 10.3.5. Obstruction des voies aériennes supérieures
+
+Si l'enfant ne respire pas, on pratique cinq insufflations. En cas d'insufflation inefficace (le thorax ne se soulève pas), il faut suspecter une inhalation de corps étranger (CE) dans les voies aériennes.
+
+En cas d'inhalation devant témoin se manifestant par une toux inefficace, une suffocation (l'enfant ne peut plus parler), une détresse respiratoire brutale avec stridor, une cyanose, une perte de conscience, il faut pratiquer les manœuvres de désobstruction.
+
+Chez l'enfant inconscient, la séquence des manœuvres de désobstruction est la suivante : ouvrir les voies aériennes (regarder si présence de CE) et pratiquer cinq insufflations si pas de reprise de la ventilation, débuter la RCP avec insufflation puis MCE pendant une minute (si un seul sauveteur) avant d'appeler les secours et poursuivre la RCP.
+
+Chez l'enfant conscient, la séquence des manœuvres de désobstruction est la suivante : donner cinq tapes fermes dans le dos puis cinq compressions thoraciques. Il faut poursuivre ces manœuvres jusqu'à expulsion du CE.
+
+Les compressions abdominales (manœuvre d'Heimlich) ne doivent pas être pratiquées chez l'enfant jeune. Elles sont dangereuses chez l'enfant de moins d'un an.
+
+Chez l'enfant conscient qui tousse après inhalation d'un corps étranger, il faut encourager la toux pour qu'elle reste efficace et ensuite surveiller l'enfant jusqu'à l'arrivée des secours.
+
+### 10.3.6. Défibrillation
+
+La défibrillation peut être réalisée avec un DAE dès l'âge d'un an.
+
+Si le DAE n'est pas adapté à la pédiatrie, l'usage d'atténuateur d'énergie est recommandé chez l'enfant de moins de huit ans ou de 25 kg.
+
+Les électrodes adultes sont utilisables chez l'enfant de plus de 10 kg.
+
+Avec un défibrillateur manuel, l'énergie de chaque choc est de 4 J/kg.
+
+Une RCP doit être systématiquement débutée dans l'attente du défibrillateur.
+
+Tout CEE doit être suivi par deux minutes de RCP.
+
+## 10.4. RCP médicalisée
+
+### 10.4.1. Diagnostic
+
+Dès l'arrivée sur place, l'équipe médicale doit obtenir la confirmation du diagnostic d'AC avec absence de conscience, absence de ventilation et absence de pouls perçu en brachial chez l'enfant de moins d'un an, en carotidien chez l'enfant de plus d'un an.
+
+```
+
+graph TD
+    A[Absence de conscience  
+Absence de ventilation] --> B[Vérifier la perméabilité des voies aériennes]
+    B --> C[5 insufflations  
+1 minute de RCP]
+    C --> D[Vérifier conscience, ventilation,  
+signes de vie]
+    D --> E{Appeler le 15}
+    E --> F[Continuer la RCP  
+1 sauveteur : 30 compressions / 2  
+2 sauveteurs : 15 compressions / 2]
+  
+```
+
+Fig. 4. RCP de base de l'enfant.Chez l'enfant inconscient, une bradycardie inférieure à 60 b/min, associée à des troubles hémodynamiques périphériques, impose la mise en œuvre de la RCP.
+
+#### 10.4.2. Ventilation
+
+Une ventilation en oxygène pur, par masque relié à un insufflateur manuel, est instaurée ou poursuivie.
+
+Après la RACS, la  $FiO_2$  doit être adaptée à la  $SaO_2$ .
+
+L'intubation endotrachéale doit être réalisée précocement par une équipe entraînée.
+
+Il n'y a aucun inconvénient à utiliser des sondes à ballonnet. La sonde à ballonnet est préférable dans certaines situations. Le monitoring de la pression du ballonnet est indispensable. Il doit maintenir une pression inférieure à 20 cmH<sub>2</sub>O.
+
+Le masque laryngé est une alternative en cas d'intubation difficile, mais sa mise en place est plus délicate que chez l'adulte.
+
+Lorsque les voies aériennes sont sécurisées (intubation), il n'y a pas lieu d'interrompre le MCE pour ventiler.
+
+#### 10.4.3. Accès veineux
+
+L'obtention d'une voie veineuse périphérique est souvent difficile chez l'enfant. La voie intraosseuse est recommandée si la voie veineuse ne peut pas être immédiatement obtenue.
+
+La voie intratrachéale est une voie d'urgence utilisable uniquement pour la première dose d'adrénaline. La posologie de l'adrénaline intratrachéale est de 100 mg/kg dilué dans du sérum salé isotonique.
+
+Le sérum salé isotonique est le vecteur intraveineux ou intraosseux de l'ensemble des médicaments. Une expansion
+
+volémique ne doit être utilisée que pour compenser à une hypovolémie.
+
+#### 10.4.4. Médicaments de l'arrêt cardiaque
+
+L'adrénaline doit être administrée chez l'enfant à la dose de 10 mg/kg en intraveineux et intraosseux pour la première dose et pour les doses suivantes.
+
+Bien qu'il n'existe aucune étude dans l'AC de l'enfant en faveur de l'amiodarone, par analogie avec l'adulte, elle est le médicament à utiliser en première intention dans la FV/TV récidivante. Elle est utilisée en bolus à la dose de 5 mg/kg.
+
+Le magnésium ne peut être recommandé, comme pour l'adulte qu'en cas d'hypomagnésémie avérée ou de torsades de pointes.
+
+Le calcium n'a pas d'indication en cas d'AC, sauf s'il existe une hypocalcémie connue ou une intoxication aux inhibiteurs calciques.
+
+L'algorithme de la RCP spécialisé est représenté sur la Fig. 5.
+
+#### 10.4.5. Réanimation post-AC
+
+La prise en charge post-AC nécessite l'admission en service spécialisé.
+
+L'objectif de la ventilation après un AC est d'obtenir une normoxie et une normocapnie.
+
+Chez l'enfant, l'hyperventilation ne doit être utilisée que brièvement et comme thérapeutique de sauvetage.
+
+L'hyperthermie post-arrêt doit être combattue.
+
+L'objectif d'une homéostasie métabolique en particulier glucidique est un objectif majeur des premiers jours de réanimation post-AC.
+
+```
+
+graph TD
+    Start["RCP 15 : 2 avec FiO2 = 1  
+En attendant que le défibrillateur -  
+moniteur soit branché"] --> Decision{"Analyse du rythme"}
+    Decision --> Choquable["Choquable  
+FV/ TV sans pouls"]
+    Decision --> NonChoquable["NON Choquable  
+RSP, asystole"]
+    Choquable --> Shock["1 choc  
+4 J / kg bi- ou  
+monophasique"]
+    Shock --> Reprise1["Reprise immédiate de  
+la RCP 15:2  
+pendant 2 min"]
+    Reprise1 --> Decision
+    NonChoquable --> Reprise2["Reprise immédiate de  
+la RCP 15:2  
+pendant 2 min"]
+    Reprise2 --> Decision
+    Reprise1 <--> PendantRCP["Pendant RCP  
+Vérifier les électrodes  
+Mettre en place et vérifier :  
+- intubation et oxygène  
+- abord veineux  
+Adrénaline IV 0,01 mg/kg / 3- 5 min  
+MCE en continu après intubation  
+Envisager amiodarone, atropine,  
+magnésium, solutions tampons"]
+    Reprise2 <--> PendantRCP
+  
+```
+
+The flowchart illustrates the medicalized pediatric cardiac arrest (RCP médicalisée de l'enfant) algorithm. It begins with 'RCP 15 : 2 avec FiO<sub>2</sub> = 1' and 'En attendant que le défibrillateur - moniteur soit branché'. This leads to a decision diamond 'Analyse du rythme'. If 'Choquable FV/ TV sans pouls', the next step is '1 choc 4 J / kg bi- ou monophasique', followed by 'Reprise immédiate de la RCP 15:2 pendant 2 min', which loops back to the rhythm analysis. If 'NON Choquable RSP, asystole', the next step is 'Reprise immédiate de la RCP 15:2 pendant 2 min', which also loops back to the rhythm analysis. A central box 'Pendant RCP' contains instructions: 'Vérifier les électrodes', 'Mettre en place et vérifier : - intubation et oxygène, - abord veineux', 'Adrénaline IV 0,01 mg/kg / 3- 5 min', and 'MCE en continu après intubation Envisager amiodarone, atropine, magnésium, solutions tampons'. This box is connected to both the 'Reprise immédiate de la RCP 15:2 pendant 2 min' steps.
+
+Fig. 5. RCP médicalisée de l'enfant.En dehors d'un diabète insulinodépendant diagnostiqué, l'utilisation d'un traitement insulinique, pour assurer une normoglycémie, ne peut être actuellement recommandée chez l'enfant.
+
+En règle générale, l'arrêt des manœuvres de réanimation doit être envisagé après une durée de RCP de plus de 20 minutes, sans retour à un rythme cardiaque efficace.
+
+#### 10.4.6. Relation avec la famille
+
+En préhospitalier comme en intrahospitalier, la possibilité d'assister à la RCP devrait être proposée aux parents, si l'équipe médicale le permet, s'il existe une politique de service, si un membre de l'équipe peut encadrer la présence des parents.
+
+S'ils ne sont pas présents dès le départ, la présence des parents auprès d'un enfant qui va décéder devrait être facilitée en leur permettant d'entrer dans la chambre avant l'arrêt de la réanimation. Cela facilite leur processus de deuil.
+
+L'accueil, l'information orale et/ou écrite de ce qui est en train d'être effectué, la demande du consentement ou de l'assentiment des parents sont recommandés.
+
+#### GLOSSAIRE DES ABRÉVIATIONS UTILISÉES DANS LE TEXTE
+
+AC : arrêt cardiaque
+
+CEE : choc électrique externe
+
+DAE : défibrillateur ou défibrillation automatisée externe
+
+DSA : défibrillateur ou défibrillation semi-automatique
+
+FV : fibrillation ventriculaire
+
+IO : intra-osseux
+
+IV : intraveineux
+
+MCE : massage cardiaque externe
+
+RACS : reprise d'activité cardiaque spontanée
+
+RCP : réanimation cardio-pulmonaire
+
+TV : tachycardie ventriculaireErratum
+
+Prise en charge de l'arrêt cardiaque  
+(Ann Fr Anesth Réanim 2007;26:1008–19)
+
+Management of cardiac arrest  
+(Ann Fr Anesth Réanim 2007;26:1008-19)
+
+*Société française d'anesthésie et de réanimation  
+Société de réanimation de langue française*
+
+Disponible sur Internet le 19 mars 2008
+
+Une erreur s'est glissée à la page 1018 de l'article du cahier de formation/information, les posologies d'adrénaline doivent être lues en « µg » et non mg.
+
+10. Champ 9. Prise en charge de l'AC pédiatrique (F)
+
+10.4.3. Accès veineux
+
+L'obtention d'une voie veineuse périphérique est souvent difficile chez l'enfant. La voie intra-osseuse (IO) est recommandée si la voie veineuse ne peut pas être immédiatement obtenue.
+
+La voie intratrachéale est une voie d'urgence utilisable uniquement pour la première dose d'adrénaline. La posologie de l'adrénaline intratrachéale est de 100 µg/kg dilué dans du sérum salé isotonique.
+
+Le sérum salé isotonique est le vecteur intraveineux ou intraoseux de l'ensemble des médicaments. Une expansion volémique ne doit être utilisée que pour compenser à une hypovolémie.
+
+10.4.4. Médicaments de l'arrêt cardiaque
+
+L'adrénaline doit être administrée chez l'enfant à la dose de 10 µg/kg en i.v. et IO pour la première dose et pour les doses suivantes.
+
+Bien qu'il n'existe aucune étude dans l'AC de l'enfant en faveur de l'amiodarone, par analogie avec l'adulte, elle est le médicament à utiliser en première intention dans la FV/TV récidivante. Elle est utilisée en bolus à la dose de 5 mg/kg.
+
+Le magnésium ne peut être recommandé, comme pour l'adulte qu'en cas d'hypomagnésémie avérée ou de torsades de pointes.
+
+Le calcium n'a pas d'indication en cas d'AC, sauf s'il existe une hypocalcémie connue ou une intoxication aux inhibiteurs calciques.
+
+L'algorithme de la RCP spécialisé est représenté sur la Fig. 5.

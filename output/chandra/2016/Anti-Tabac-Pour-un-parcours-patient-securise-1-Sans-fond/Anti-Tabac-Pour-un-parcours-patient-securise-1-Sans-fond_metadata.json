@@ -1,0 +1,21 @@
+{
+  "file_name": "Anti-Tabac-Pour-un-parcours-patient-securise-1-Sans-fond.pdf",
+  "num_pages": 1,
+  "total_token_count": 942,
+  "total_chunks": 16,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        4678,
+        6614
+      ],
+      "token_count": 942,
+      "num_chunks": 16,
+      "num_images": 3
+    }
+  ]
+}

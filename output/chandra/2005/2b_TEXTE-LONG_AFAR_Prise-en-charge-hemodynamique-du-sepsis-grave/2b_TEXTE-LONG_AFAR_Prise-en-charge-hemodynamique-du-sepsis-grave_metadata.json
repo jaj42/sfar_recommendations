@@ -1,0 +1,165 @@
+{
+  "file_name": "2b_TEXTE-LONG_AFAR_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
+  "num_pages": 13,
+  "total_token_count": 26726,
+  "total_chunks": 253,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2289,
+      "num_chunks": 39,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2031,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2223,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2427,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2714,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2381,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2227,
+      "num_chunks": 25,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2128,
+      "num_chunks": 23,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 1790,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 2034,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 1399,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 1806,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2118
+      ],
+      "token_count": 1277,
+      "num_chunks": 15,
+      "num_images": 0
+    }
+  ]
+}

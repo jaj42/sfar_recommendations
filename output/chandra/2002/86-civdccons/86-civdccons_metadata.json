@@ -1,0 +1,81 @@
+{
+  "file_name": "86-civdccons.pdf",
+  "num_pages": 6,
+  "total_token_count": 7674,
+  "total_chunks": 113,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 632,
+      "num_chunks": 11,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 1153,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 1341,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 1345,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 1043,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1123,
+        1587
+      ],
+      "token_count": 2160,
+      "num_chunks": 48,
+      "num_images": 1
+    }
+  ]
+}

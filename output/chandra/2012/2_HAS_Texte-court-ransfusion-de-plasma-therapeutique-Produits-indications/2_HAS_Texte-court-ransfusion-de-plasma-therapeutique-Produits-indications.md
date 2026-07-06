@@ -1,0 +1,434 @@
+Recommandations
+
+# Transfusion de plasma thérapeutique : Produits, indications
+
+Actualisation 2012
+
+| Juin 2012## PLAN
+
+<table><tr><td><b>LISTE DES ABRÉVIATIONS .....</b></td><td><b>3</b></td></tr><tr><td><b>PRINCIPAUX MESSAGES.....</b></td><td><b>4</b></td></tr><tr><td><b>INTRODUCTION .....</b></td><td><b>5</b></td></tr><tr><td><b>1. LES DIFFÉRENTS PLASMAS DISPONIBLES .....</b></td><td><b>5</b></td></tr><tr><td>    □ LES PLASMAS HOMOLOGUES .....</td><td>5</td></tr><tr><td>    ORIGINE ET MÉTHODE DE PRÉPARATION DES DIFFÉRENTS PLASMAS HOMOLOGUES .....</td><td>5</td></tr><tr><td>    CONDITIONNEMENT DES DIFFÉRENTS PLASMAS HOMOLOGUES .....</td><td>6</td></tr><tr><td>    COMPOSITION DES DIFFÉRENTS PLASMAS HOMOLOGUES .....</td><td>6</td></tr><tr><td>    CONSERVATION, DÉCONGÉLATION OU RECONSTITUTION DES PLASMAS HOMOLOGUES.....</td><td>6</td></tr><tr><td>    □ LE PLASMA AUTOLOGUE.....</td><td>7</td></tr><tr><td>    □ LES TRANSFORMATIONS .....</td><td>7</td></tr><tr><td>    □ EFFETS INDÉSIRABLES CHEZ LE RECEVEUR .....</td><td>8</td></tr><tr><td>    □ CONTRE-INDICATIONS ET PRÉCAUTIONS D'EMPLOI.....</td><td>8</td></tr><tr><td>    □ AVANTAGES ET INCONVÉNIENTS RESPECTIFS DES DIFFÉRENTS PLASMAS<br/>    THÉRAPEUTIQUES.....</td><td>9</td></tr><tr><td>    □ AVANTAGES ET INCONVÉNIENTS DU RESPECT DE LA COMPATIBILITÉ ABO EN CAS DE<br/>    TRANSFUSION DE PLASMA THÉRAPEUTIQUE .....</td><td>9</td></tr><tr><td><b>2. INDICATIONS DU PLASMA HOMOLOGUE .....</b></td><td><b>10</b></td></tr><tr><td>    □ TESTS BIOLOGIQUES ET TRANSFUSION DE PLASMA.....</td><td>10</td></tr><tr><td>    □ INDICATIONS DU PLASMA THÉRAPEUTIQUE EN CHIRURGIE, TRAUMATOLOGIE ET<br/>    OBSTÉTRIQUE .....</td><td>10</td></tr><tr><td>    □ INDICATIONS DU PLASMA EN MÉDECINE .....</td><td>13</td></tr><tr><td>    □ INDICATIONS DU PLASMA THÉRAPEUTIQUE EN NÉONATOLOGIE ET PÉDIATRIE.....</td><td>14</td></tr><tr><td>    □ ANTIDOTE AU SURDOSAGE EN ANTIVITAMINE K : INDICATIONS DU PLASMA<br/>    THÉRAPEUTIQUE ET DES ALTERNATIVES (VITAMINE K, CONCENTRE DE COMPLEXE<br/>    PROTHROMBINIQUE) .....</td><td>15</td></tr><tr><td><b>3. INDICATIONS DE LA TRANSFUSION DE PLASMA AUTOLOGUE.....</b></td><td><b>15</b></td></tr></table>## **LISTE DES ABRÉVIATIONS**
+
+<table><tr><td>ADN :</td><td>acide désoxyribonucléique</td></tr><tr><td>ATNC :</td><td>agents transmissibles non conventionnels</td></tr><tr><td>AVK :</td><td>antivitamine K</td></tr><tr><td>CCP :</td><td>concentré de complexe prothrombinique (anciennement PPSB)</td></tr><tr><td>CEC :</td><td>circulation extra-corporelle</td></tr><tr><td>CGR :</td><td>concentré de Globules Rouges</td></tr><tr><td>CIVD :</td><td>coagulation intravasculaire disséminée</td></tr><tr><td>EP :</td><td>échange plasmatique</td></tr><tr><td>ETS :</td><td>établissement de transfusion sanguine</td></tr><tr><td>PLYO :</td><td>plasma lyophilisé préparé à partir du PFC-IA</td></tr><tr><td>HLA :</td><td><i>Human Leucocyte Antigen</i></td></tr><tr><td>INR :</td><td><i>International Normalized Ratio</i></td></tr><tr><td>MAT :</td><td>micro-angiopathies thrombotiques</td></tr><tr><td>PFC :</td><td>plasma frais congelé</td></tr><tr><td>PFC-Se :</td><td>plasma frais congelé d'aphérèse sécurisé déleucocyté</td></tr><tr><td>PFC-BM :</td><td>plasma frais congelé traité par bleu de méthylène</td></tr><tr><td>PFC-IA :</td><td>plasma frais congelé traité par amotosalen</td></tr><tr><td>PFC-SD :</td><td>plasma frais congelé traité par solvant-détergent</td></tr><tr><td>PSL :</td><td>produit sanguin labile</td></tr><tr><td>PTT :</td><td>purpura thrombotique thrombocytopénique</td></tr><tr><td>SD :</td><td>solvant-détergent</td></tr><tr><td>SHU :</td><td>dyndrome hémolytique et urémique</td></tr><tr><td>STEC :</td><td><i>Escherichia coli</i> à shiga toxine</td></tr><tr><td>TCA :</td><td>temps de céphaline activée</td></tr><tr><td>TIH :</td><td>thrombopénie induite par l'héparine</td></tr><tr><td>TP :</td><td>taux de prothrombine</td></tr><tr><td>TRALI :</td><td>syndrome de détresse respiratoire post-transfusionnelle (<i>Transfusion-Related Acute Lung Injury</i>)</td></tr><tr><td>VHB :</td><td>virus de l'hépatite B</td></tr><tr><td>VHC :</td><td>virus de l'hépatite C</td></tr><tr><td>VIH :</td><td>virus de immunodéficience humaine</td></tr></table>## PRINCIPAUX MESSAGES
+
+Il existe 4 types de plasma thérapeutique homologue :
+
+- - le plasma frais congelé traité par solvant-détergent : PFC-SD ;
+- - le plasma frais congelé traité par amotosalen : PFC-IA ;
+- - le plasma frais congelé sécurisé par quarantaine (au moins 60 jours) : PFC-Se ;
+- - le plasma lyophilisé destiné aux unités militaires déployées en opérations extérieures : PLYO.
+
+Prenant en compte les données d'efficacité et de sécurité (cliniques et toxicologiques) ainsi que le recul d'utilisation, il n'existe pas d'argument pour recommander un plasma par rapport à un autre.
+
+Les indications du plasma thérapeutique sont :
+
+- - **hémorragie d'intensité modérée, peu évolutive ou contrôlée** (guidée en priorité par les tests de laboratoire avec un ratio temps de Quick patient/témoin > 1,5) ;
+- - **choc hémorragique et situations à risque d'hémorragie massive**, en association à des concentrés de globules rouges avec un ratio PFC : CGR compris entre 1 : 2 et 1 : 1 ;
+- - **en neurochirurgie en l'absence de transfusion massive** (TP < 50 % lors de la surveillance du traumatisé crânien grave et < 60 % pour la pose d'un capteur de pression intracrânienne) ;
+- - **au cours de la chirurgie cardiaque, en cas de persistance d'un saignement microvasculaire et de déficit en facteurs de coagulation** (TP  $\leq$  40 % ou TCA >1,8/témoin en présence d'un temps de thrombine normal ou de facteurs de coagulation  $\leq$  40 %) ;
+- - **CIVD obstétricale**, lorsque le traitement étiologique ne permet pas de contrôler rapidement l'hémorragie ;
+- - **CIVD avec effondrement des facteurs de la coagulation** (TP inférieur à 35-40 %), associée à une hémorragie active ou potentielle (acte invasif) ;
+- - **micro-angiopathie thrombotique** (purpura thrombotique thrombocytopénique et syndrome hémolytique et urémique avec critères de gravité)
+  - . en cas de déficit en un facteur de la coagulation et impossibilité d'obtenir rapidement une préparation de facteur purifié, dans le cadre d'une situation d'urgence hémorragique,
+  - . en tant que produit de substitution et non de remplissage vasculaire, chez les patients sans facteur de risque hémorragique traités par des échanges plasmatiques rapprochés ;
+- - **chez le nouveau-né et l'enfant, les indications sont similaires à celles de l'adulte**. Chez l'enfant de moins de 29 semaines de gestation en détresse vitale, la transfusion de PFC est recommandée lorsque les facteurs de coagulation sont inférieurs à 20 %, même en l'absence de syndrome hémorragique clinique ;
+- - **en cas de surdosage grave en AVK**, dans deux rares situations :
+  - . absence de concentrés de complexe prothrombinique,
+  - . absence de CCP ne contenant pas d'héparine en cas d'antécédents de TIH.
+
+L'utilisation de plasma thérapeutique n'est pas recommandée dans les situations suivantes :
+
+- - comme prophylaxie du saignement en cas d'altération mineure ou modérée de l'hémostase ;
+- - comme soluté de remplissage en cas de brûlures ;
+- - en cas de chirurgie cardiaque, en l'absence d'un saignement ;
+- - en cas d'insuffisance hépatocellulaire chronique, en l'absence de saignement ;
+- - en cas d'insuffisance hépatique aiguë sévère, chez un sujet ne saignant pas et non exposé à un geste vulnérant, dans le seul but de corriger les anomalies de l'hémostase ;
+- - en cas de poussées aiguës d'œdème angioneurotique héréditaire (OAH) ;
+- - en cas d'hémorragie associée aux nouveaux anticoagulants oraux, il n'y a pas de données cliniques justifiant l'intérêt d'une transfusion de PFC dans le seul but d'antagoniser leurs effets ;
+- - chez l'enfant en cas de :
+  - . syndrome hémolytique et urémique typique post-diarrhéique (STEC+),
+  - . infection néonatale sans CIVD, à titre de traitement adjuvant au traitement antibiotique,
+  - . hypovolémie sans syndrome hémorragique et sans trouble de l'hémostase,
+  - . prévention des hémorragies intraventriculaires du prématuré en l'absence de coagulopathie,
+  - . nouveau-né sain avant acte chirurgical.## INTRODUCTION
+
+Les indications cliniques du plasma nécessitent d'être révisées pour tenir compte de l'évolution des données scientifiques acquises dans ce domaine depuis 2002.
+
+Depuis l'abrogation le 13 juillet 2011 de l'arrêté du 3 décembre 1991, les recommandations de l'ANSM constituent l'unique référence officielle pour ce qui concerne la prescription du plasma.
+
+En plus de l'évolution des indications cliniques, les données de la science ont conduit à de profondes modifications des caractéristiques des différents types de plasma disponibles : plasma frais congelé en majorité, et plasma lyophilisé (PLYO) aujourd'hui à l'usage exclusif de la médecine militaire.
+
+L'actualisation des recommandations s'est faite dans un contexte de réévaluation du bénéfice-risque d'une des méthodes de préparation des plasmas, la technique de viro-atténuation par le bleu de méthylène, mise en œuvre depuis 2008, et définitivement retirée du marché français en mars 2012.
+
+L'analyse des pratiques a montré de façon itérative au cours des 20 dernières années et encore de façon récente que l'emploi du plasma restait trop large, fréquemment inadapté et inutile, avec le risque de ses effets indésirables sans le bénéfice de son avantage clinique.
+
+De même, l'évaluation des connaissances des praticiens sur des données simples concernant les plasmas révèle souvent des lacunes importantes expliquant que ces recommandations doivent être associées à des efforts soutenus de formation médicale continue.
+
+C'est la raison pour laquelle la prescription justifiée du plasma est le fil conducteur de ces recommandations et maintient donc clairement la tendance déjà amorcée dans les recommandations de 2002.
+
+## 1. LES DIFFÉRENTS PLASMAS DISPONIBLES
+
+### • LES PLASMAS HOMOLOGUES
+
+#### Origine et méthode de préparation des différents plasmas homologues
+
+Le plasma est obtenu soit lors d'un don de sang total, soit lors d'un don d'aphérèse à partir d'un donneur dont la sélection a été faite conformément aux bonnes pratiques de prélèvement. Il est déleucocyté puis congelé dans des délais compatibles au maintien de l'activité biologique des facteurs de coagulation thermolabiles.
+
+Tous les dons de sang font l'objet de tests de dépistage des maladies infectieuses transmissibles majeures (recherche de l'antigène HBs et des anticorps anti-HBc, des anticorps anti-VIH-1 et anti-VIH-2, des anticorps anti-VHC, des anticorps anti-HTLV-I et anti-HTLV-II, sérologie de la syphilis). Depuis le 1<sup>er</sup> octobre 2001, la détection du génome du VIH et du VHC est obligatoire. Depuis 2010, la détection génomique virale du VHB est également réalisée sur tous les dons. Par ailleurs, chez certains donneurs, il est également effectué la recherche des anticorps antipaludéens et/ou anti-*Trypanosoma cruzi*.
+
+Le plasma bénéficie d'une sécurisation vis-à-vis du risque de transmission d'agents infectieux (sécurisation par quarantaine ou par élimination ou inactivation d'agents pathogènes par traitement physico-chimique).
+
+La possibilité de transmission par le PFC du prion responsable de la variante de la maladie de Creutzfeldt-Jakob et d'agents infectieux émergents ou non encore identifiés ne peut pas être totalement écartée et justifie à la fois les efforts de déleucocytation et de sécurisation dans la préparation du plasma ainsi qu'une grande attention dans le respect des indications.
+
+#### **Le plasma frais congelé traité par solvant-détergent : PFC-SD**
+
+Le plasma viro-atténué par solvant détergent (PFC-SD) est préparé en France à partir d'un mélange de plasmas d'aphérèse de 100 donneurs de même groupe sanguin ABO. L'inactivation des agents pathogènes est réalisée en utilisant un solvant (tri n-butyl phosphate : TnBP) et un détergent (Triton X100). L'élimination des inactivateurs s'opère par l'huile de ricin et la chromatographie.
+
+#### **Le plasma frais congelé traité par amotosalen : PFC-IA**
+
+Le PFC-IA est préparé à partir d'un plasma unitaire déleucocyté traité par un psoralène, l'amotosalen-HCl, puis illuminé par les UVA. L'amotosalen-HCl s'intercale de façon irréversible entre les régions hélicoïdales de l'ADN et de l'ARN. Lors de l'illumination par rayons UVA, l'amotosalen forme des liaisons covalentes avec les bases pyrimidiques des acides nucléiques. Les génomes ainsi réticulés des agents pathogènes et des leucocytes ne peuvent plus fonctionner ni se répliquer. L'amotosalen résiduel est éliminé par une filtrationspécifique qui permet de respecter le seuil de tolérance  $\leq 2 \mu\text{M}$  fixé par l'ANSM. Le PFC-IA est congelé dans les 8 heures qui suivent le prélèvement.
+
+#### ***Le plasma sécurisé par quarantaine : PFC-Se***
+
+Le plasma frais congelé sécurisé par quarantaine est issu d'aphérèse ou de sang total et congelé dans les 24 h suivant le prélèvement, sans subir aucun autre traitement physico-chimique. Comme tous les plasmas à finalité thérapeutique directe, il est déleucocyté. La sécurisation du plasma par quarantaine consiste à conserver un plasma pendant un minimum de 60 jours. Ce délai permet de couvrir la période de séroconversion pour les virus faisant l'objet d'un dépistage biologique systématique. Passé ce délai, sa libération est subordonnée à une nouvelle vérification de la conformité des examens biologiques réglementaires chez le donneur.
+
+#### ***Le plasma lyophilisé : PLYO***
+
+Le plasma lyophilisé (PLYO), préparé à partir de plasma frais congelé traité par amotosalen, est principalement distribué aux unités médico-chirurgicales militaires déployées en Opérations Extérieures (OPEX) pour répondre aux contraintes logistiques du contexte opérationnel et à la nécessité de disposer, sans délai, de plasma pour le traitement des blessés hémorragiques. En milieu civil, le PLYO pourrait être utilisé par les établissements de santé présentant des difficultés logistiques majeures ne permettant pas d'assurer une chaîne du froid négative ou au cours de situations d'extrême urgence avec nécessité d'un apport de plasma thérapeutique sans délai. Dans cette deuxième indication, le PLYO devrait être utilisé en attendant que le plasma frais congelé soit décongelé et disponible.
+
+Le PLYO provient des plasmas de 10 donneurs différents au maximum, de groupes sanguins A, B et AB, exempts d'anticorps immuns anti-A ou anti-B, mélangés dans des proportions choisies pour obtenir un plasma à usage universel pour le groupage sanguin.
+
+#### **Conditionnement des différents plasmas homologues**
+
+Le volume de chaque unité est indiqué sur l'étiquette du PSL. Il est compris entre 200 mL et 300 mL pour le PFC-IA, entre 200 mL et 850 mL pour le PFC-Se et égal à 200 mL pour le PFC-SD.
+
+Le PLYO doit être reconstitué au chevet du patient avec 200 mL d'eau pour préparation injectable (eau PPI), pour obtenir 210 mL d'un liquide iso-osmotique.
+
+#### **Composition des différents plasmas homologues**
+
+La déleucocytation des plasmas élimine la quasi-totalité des éléments cellulaires du sang : leucocytes  $\leq 1 \times 10^4/\text{L}$ , plaquettes  $\leq 25 \times 10^9/\text{L}$ , globules rouges  $\leq 6 \times 10^9/\text{L}$ .
+
+Les plasmas apportent l'ensemble des protéines plasmatiques en particulier les facteurs de la coagulation et les fractions du complément. La préservation de l'activité des facteurs de coagulation est contrôlée par la mesure de la concentration de facteur VIII et du fibrinogène. La norme française pour le facteur VIII exige qu'elle soit d'au moins 0,7 UI/mL pour le PFC-Se et d'au moins 0,5 UI/mL pour le PFC-IA, le PFC-SD et le PLYO. Par ailleurs, la norme française pour le PFC-IA exige qu'il renferme après décongélation au minimum 2g/L de fibrinogène.
+
+Les plasmas sont les seuls produits capables d'apporter du facteur V, de la protéine S, du plasminogène et de la métalloprotéase clivant le facteur Von Willebrand (ADAMTS 13), ainsi que certaines fractions du complément. Ces facteurs ne sont pas disponibles sous forme purifiée stable parmi les médicaments dérivés du sang.
+
+Tous les traitements pour atténuation des agents pathogènes induisent une perte d'activité de certaines protéines plasmatiques. Cependant, celle-ci reste acceptable pour une utilisation thérapeutique, comme illustré par les données sur la composition des différents plasmas (extraites des dossiers d'évaluation soumis à l'ANSM).
+
+#### **Conservation, décongélation ou reconstitution des plasmas homologues**
+
+Les PFC doivent être conservés à une température inférieure ou égale à  $-25^\circ\text{C}$ . La durée de conservation est de 1 an après la date de prélèvement pour le PFC-IA et PFC-Se, et de 1 an après la date de préparation pour le PFC-SD.Les conditions de décongélation doivent respecter des règles strictes afin de préserver la qualité fonctionnelle des facteurs de coagulation et la sécurité microbiologique. La décongélation des PFC est effectuée au bain-marie à  $+ 37^{\circ}\text{C} \pm 2$  degrés ou par toute autre méthode approuvée par l'ANSM. La décongélation au bain-marie se fait en 30 minutes maximum pour les produits de volume inférieur à 400 mL, 40 minutes maximum pour les produits de volume compris entre 400 et 600 mL, et 50 minutes maximum pour les produits de volume supérieur ou égal à 600 mL. Après décongélation, une vérification visuelle est effectuée sur chaque unité au moment de la distribution et de la délivrance, afin d'éliminer les poches présentant des défauts ou dont l'aspect du contenu serait suspect. Le PFC décongelé doit être maintenu à température ambiante et transfusé le plus rapidement possible et au plus tard dans les 6 heures après décongélation. La recongélation est interdite.
+
+La décongélation est effectuée préférentiellement dans le site transfusionnel ou les dépôts de sang autorisés. Pour assurer la qualité des PFC, la réglementation impose aux établissements de soins qui voudraient effectuer eux-mêmes la décongélation le respect d'un protocole visé par le site transfusionnel.
+
+Le PLYO est conservé à l'abri de la lumière dans son emballage d'origine à une température comprise entre  $+ 2^{\circ}\text{C}$  et  $+ 25^{\circ}\text{C}$  pendant une durée maximale de 2 ans après lyophilisation.
+
+Sa reconstitution est obtenue par addition de 200 mL d'eau pour préparation injectable. Elle doit être complète en moins de 6 minutes. *La solution obtenue se présente comme un liquide limpide ou trouble.*
+
+Le PLYO doit être utilisé immédiatement après reconstitution, au plus tard dans les 6 heures.
+
+## • LE PLASMA AUTOLOGUE
+
+### Préparation
+
+Le PFC autologue (destiné à être transfusé au même sujet) peut être issu d'un don de sang total ou d'un don d'aphérèse. Il est utilisable sans mise en œuvre d'une méthode de sécurisation pour réduire le risque viral.
+
+### Caractéristiques
+
+Le PFC autologue issu de sang total a un volume minimal de 120 mL pour « l'unité adulte » et de 50 mL pour « l'unité enfant ». Quel que soit le mode de prélèvement du plasma, la déleucocytation n'est pas systématique.
+
+### Conservation et décongélation
+
+La limite de conservation du PFC autologue congelé correspond à la date de péremption des concentrés de globules rouges (CGR) prélevés chez le même patient (soit habituellement 42 jours), sauf protocole explicite préalablement défini entre l'établissement de soins et le site transfusionnel, qui peut porter cette limite à 1 an maximum. Après décongélation, s'il est utilisé pour corriger l'hémostase, le plasma autologue congelé ne doit pas être conservé au-delà de 6 heures.
+
+Réglementairement, le PFC autologue peut être conservé pendant 72 heures à une température comprise entre  $+ 2^{\circ}\text{C}$  et  $+ 6^{\circ}\text{C}$ . La recongélation est interdite. Comme les autres plasmas, il est recommandé de l'utiliser en moins de 6 heures.
+
+## • LES TRANSFORMATIONS
+
+### Transformation « préparation pédiatrique »
+
+Elle consiste à préparer avant congélation plusieurs « unités pédiatriques » d'un volume d'au moins 50 mL à partir d'un PFC homologue.
+
+### Transformation « sang reconstitué à usage pédiatrique »
+
+Elle consiste à mélanger un CGR à un PFC homologue décongelé. En pratique, le volume de PFC décongelé est adapté au volume de CGR de façon à disposer d'un produit dont l'hématocrite correspond à l'indication. Le produit est périmé au bout de 6 heures. Cette « reconstitution » est réglementairement aussi possible avec de l'albumine à une concentration physiologique à la place du PFC.## **Transformation « mélange de plasmas frais congelés sécurisés »**
+
+Elle consiste à mélanger après décongélation plusieurs unités de plasmas homologues de même groupe sanguin ABO et ayant subi le même type de sécurisation (12 au maximum).
+
+### **• EFFETS INDÉSIRABLES CHEZ LE RECEVEUR**
+
+Les effets indésirables survenant chez les receveurs de produits sanguins labiles doivent faire l'objet d'un signalement et d'une déclaration dans le cadre de l'hémovigilance. Dans l'ensemble des fiches de déclaration d'effet indésirable receveur (FEIR) d'imputabilité probable ou certaine et quel qu'en soit le degré de gravité, le plasma est le produit le moins souvent impliqué.
+
+De l'analyse des données de la période 2006-2010, on observe 2 types de complications potentiellement graves à l'occasion de transfusions de plasma : les syndromes de détresse respiratoire aiguë (TRALI pour *Transfusion Related Acute Lung Injury*) et les manifestations allergiques.
+
+## **Prévention du risque TRALI « TRALI immunologique »**
+
+Le TRALI immunologique est en rapport avec la présence d'anticorps anti leucocytes dans le plasma transfusé. Le rôle de ces anticorps acquis au cours de la grossesse est bien établi dans la physiopathologie du TRALI. La prévalence de ces anticorps chez les donneuses augmente avec le nombre de grossesses et l'immunisation persiste à distance de la grossesse.
+
+La prévention maximale consisterait à ne sélectionner que des hommes ou des femmes nulligestes comme donneurs de plasma. Cette stratégie peut cependant générer un risque de rupture d'approvisionnement. En 2010, l'EFS a adopté la stratégie suivante : seuls les hommes, les femmes nullipares et les femmes avec enfant dont la recherche d'anticorps anti-HLA I et II est négative sont admis comme donneurs de plasma à finalité thérapeutique directe.
+
+## **Prévention du risque allergique**
+
+Des réactions d'hypersensibilité immédiate peuvent être observées lors de la transfusion de plasma, comme on en observe avec l'ensemble des PSL. Elles peuvent être liées à 3 mécanismes différents :
+
+- - la présence chez le receveur d'anticorps qui vont réagir avec un allergène contenu dans le PSL ;
+- - la présence dans le PSL d'anticorps ou de lymphocytes provenant d'un donneur sensibilisé, qui vont déclencher une réaction chez le receveur ;
+- - la présence dans le PSL de substances accumulées au cours de sa conservation, susceptibles de déclencher une réaction chez le receveur.
+
+Les conclusions actuelles concernant le lien entre réaction allergique grave et transfusion de plasma sont les suivantes :
+
+- - les réactions allergiques graves aux plasmas sont rares ;
+- - toute réaction d'hypersensibilité immédiate grave survenant en cours de transfusion de plasma, comme pour tous les PSL, doit faire l'objet d'explorations allergologiques immédiates (dosages d'histamine et de tryptase) afin de contribuer à l'identification du mécanisme de la réaction et d'explorations allergologiques à distance (4 à 6 semaines).
+
+Dans l'attente des résultats de ces explorations allergologiques, les recommandations de choix du plasma à utiliser sont décrites dans le chapitre suivant.
+
+### **• CONTRE-INDICATIONS ET PRÉCAUTIONS D'EMPLOI**
+
+La seule contre-indication absolue au plasma quel qu'en soit le type est l'exceptionnelle présence d'un anticorps anti-IgA chez un sujet déficitaire en IgA. Ces anticorps peuvent provoquer des réactions allergiques graves de type anaphylactique lors d'une transfusion de plasma. La connaissance de cette immunisation doit être gérée de manière pluridisciplinaire pour choisir une thérapeutique alternative en cas de situation clinique relevant d'une transfusion de plasma.
+
+## **Contre-indications et précautions d'emploi du PFC-IA**
+
+### ***Antécédents d'allergie à l'amotosalen ou aux psoralènes***
+
+L'utilisation de PFC-IA est contre-indiquée chez les patients présentant des antécédents de réponse allergique à l'amotosalen ou aux psoralènes.### ***Réaction allergique après transfusion de PFC-IA***
+
+Après une première réaction allergique associée à une transfusion comportant du PFC-IA, il est recommandé de ne pas transfuser à nouveau ce produit avant que les explorations complémentaires aient permis d'éliminer une sensibilisation aux composants du PFC-IA, et notamment à l'amotosalen et aux psoralènes.
+
+### ***Utilisation chez le nouveau-né***
+
+Les nouveau-nés nécessitant une transfusion de plasma durant un traitement de l'hyperbilirubinémie par photothérapie doivent être pris en charge au moyen de dispositifs de photothérapie n'émettant pas de rayonnements d'une longueur d'onde inférieure à 425 nm, afin d'éviter la potentialisation théorique d'une interaction entre la lumière UVA et l'amotosalen, pouvant conduire à un érythème.
+
+### **Précautions d'emploi du PFC-SD**
+
+### ***Réaction allergique après transfusion de PFC-SD***
+
+Après une première réaction allergique associée à une transfusion comportant du PFC-SD, il est recommandé d'utiliser un lot différent de PFC-SD ou d'un autre type de plasma lors de transfusions ultérieures.
+
+### **Précautions d'emploi du PLYO**
+
+Il n'y a pas de précautions d'emploi spécifiques en dehors de celles décrites pour le PFC-IA.
+
+### **Précautions d'emploi du PFC-Se**
+
+### ***Réaction allergique après transfusion de PFC-Se***
+
+Le PFC-Se ne subissant pas de traitement physico-chimique, les réactions allergiques qu'il est susceptible de déclencher sont liées aux protéines plasmatiques et ont habituellement un caractère donneur-dépendant. Après une première réaction allergique associée à une transfusion comportant du PFC-Se, il est recommandé d'utiliser du PFC-Se issu d'un autre don ou un autre type de plasma lors de transfusions ultérieures.
+
+## **• AVANTAGES ET INCONVÉNIENTS RESPECTIFS DES DIFFÉRENTS PLASMAS THÉRAPEUTIQUES**
+
+Il existe peu d'études cliniques comparatives de méthodologie satisfaisante entre les plasmas sécurisés par agent physico-chimique et le plasma de référence non traité.
+
+Lorsqu'une indication à transfuser du plasma thérapeutique est posée dans un contexte homologue, aucun argument ni aucune étude ne démontre la supériorité d'une préparation plutôt qu'une autre en termes d'efficacité (Grade B).
+
+Aucune étude comparative, aucune donnée épidémiologique n'est venue à ce jour apporter des arguments objectifs pour ou contre l'une des préparations de plasma thérapeutique en termes de sécurité transfusionnelle.
+
+## **• AVANTAGES ET INCONVÉNIENTS DU RESPECT DE LA COMPATIBILITÉ ABO EN CAS DE TRANSFUSION DE PLASMA THÉRAPEUTIQUE**
+
+La règle est de transfuser des plasmas isogroupe ABO. Cette règle est habituellement respectée dans la mesure où, à la différence des CGR, d'autres critères de choix ne viennent pas compliquer la sélection du produit (notamment en matière de phénotypes complémentaires).
+
+Des données récentes confirment cette règle : dans une étude de cohorte de grande ampleur de 86 .082 patients, la transfusion de plasma compatible mais non isogroupe est apparue comme un facteur modeste de risque accru de mortalité.
+
+En cas d'indisponibilité de plasma isogroupe ABO, et notamment en situation d'urgence vitale, les règles de compatibilité ABO tiennent compte des anticorps (anti-A et/ou anti-B) apportés par le plasma et sont en miroir par rapport aux règles de compatibilité des transfusions de CGR : le plasma AB est utilisable quel que soit le groupe du receveur et le plasma A ou B est utilisable pour un receveur O.
+
+En revanche, le plasma O n'est compatible qu'avec un receveur de groupe O. La présence dans le plasma d'anticorps anti-A et/ou anti-B hémolysants qui rend le respect de cette compatibilité absolument impératif est indiquée sur l'étiquette par la mention « Réservé exclusivement à une transfusion isogroupe ABO ».## 2. INDICATIONS DU PLASMA HOMOLOGUE
+
+- • **TESTS BIOLOGIQUES ET TRANSFUSION DE PLASMA**
+
+Le monitoring biologique de la coagulation en cours de transfusion de PFC reste nécessaire mais semble permettre davantage la surveillance de l'évolution du patient que le suivi de l'efficacité du traitement transfusionnel.
+
+### **Test classique : le temps de Quick**
+
+C'est le temps qui explore la voie dite extrinsèque, en présence de quantités telles de facteur tissulaire que les facteurs anti-hémophiliques ne sont pas pris en compte. C'est le test essentiel de détection de la très grande majorité des coagulopathies acquises.
+
+#### ***INR***
+
+L'INR n'est utilisable que pour les patients traités par antagoniste de la vitamine K (AVK). L'évaluation d'un trouble de l'hémostase par l'INR, en dehors de tout traitement par AVK, ne peut être recommandée.
+
+#### ***Taux de prothrombine***
+
+Ce mode d'expression du temps de Quick est très imparfait et le résultat est influencé de manière complexe par les variations multiples des concentrations des facteurs de la coagulation impliqués. Son éventuelle utilisation doit être faite en pleine connaissance de ces limites.
+
+#### ***Ratio temps de Quick patient/ temps de Quick témoin***
+
+Malgré les différences de sensibilité des couples réactifs-appareils, il s'agit de la meilleure expression du résultat du temps de Quick dans le contexte de l'hémorragie massive et en dehors d'un traitement par AVK, pour interpréter les données publiées et permettre une comparaison des résultats entre les laboratoires.
+
+### **Tests de biologie délocalisée au lit du patient**
+
+Le temps de Quick en biologie délocalisée montre une corrélation acceptable avec les valeurs du laboratoire, mais il y a un effet utilisateur. Ce test pourrait aider au suivi de la coagulopathie lors d'une hémorragie grave.
+
+Le thromboélastogramme est réalisé avec du sang total. Il apporte une réponse plus rapide que les tests classiques réalisés en laboratoire. Son intérêt est surtout documenté pour le suivi des concentrations de fibrinogène et pour la mise en évidence d'une hyperfibrinolyse. Son intérêt potentiel pour guider la transfusion de plasma est peu documenté et l'interprétation de ses résultats le réserve à des équipes entraînées.
+
+- • **INDICATIONS DU PLASMA THÉRAPEUTIQUE EN CHIRURGIE, TRAUMATOLOGIE ET OBSTÉTRIQUE**
+
+Le développement d'un partenariat fort entre les médecins, les biologistes et les correspondants des sites transfusionnels est recommandé pour raccourcir et simplifier les circuits.
+
+Des moniteurs de l'hémostase utilisables au lit du malade doivent pouvoir être mis en place dans les services prenant en charge des hémorragies massives, dans le cadre prévu par l'article L. 6211-18 de l'ordonnance n°2010-49 du 13 janvier 2010 relative à la biologie médicale.
+
+### **Altérations mineures ou modérées de l'hémostase préexistantes à la décision de prescription et situations à risque hémorragique**
+
+Il est recommandé de ne pas utiliser le plasma thérapeutique comme soluté de remplissage (grade C). L'administration prophylactique de plasma thérapeutique avant la survenue du saignement chez un patient ayant des concentrations normales ou modérément altérées de facteurs n'est pas indiquée (accord professionnel).
+
+### **Hémorragie d'intensité modérée, peu évolutive ou contrôlée**
+
+Le ratio du temps de Quick patient/témoin supérieur à 1,5 est potentiellement associé à un risque hémorragique (soit un TP de l'ordre de 40 %). Il est recommandé que l'administration de plasma thérapeutique soit guidée en priorité par les tests de laboratoire et ne soit réalisée qu'en dessous de cesvaleurs (grade C).
+
+Le volume initial de plasma à prescrire est de 10 à 15 mL/kg (accord professionnel). Il n'y a pas d'argument pour transfuser plus précocement ou plus massivement du plasma dans cette indication.
+
+### **Choc hémorragique et situations à risque de transfusion massive**
+
+La transfusion massive peut être définie par exemple par la transfusion de plus de 5 CGR en 3 heures, avec un débit de saignement initialement élevé.
+
+Il existe un risque de coagulopathie précoce qui augmente la morbi-mortalité. Il est recommandé de transfuser le plasma en association avec les concentrés de globules rouges avec un ratio PFC : CGR compris entre 1 : 2 et 1 : 1 (grade C).
+
+Il est recommandé que la transfusion de plasma débute au plus vite, idéalement en même temps que celle des concentrés de globules rouges (grade C).
+
+Il est également recommandé de mettre en œuvre une transfusion plaquettaire précoce, généralement lors de la deuxième prescription transfusionnelle (grade C).
+
+L'initiation sans délai de la transfusion de plasma nécessite la mise en place de protocoles de transfusion massive dans les centres prenant en charge habituellement des patients présentant une hémorragie massive (grade C). Ces protocoles visent à réduire les délais d'initiation de la transfusion (coursiers, décongélation sur appel du SAMU).
+
+Il est également recommandé de surveiller l'évolution de la concentration de fibrinogène au cours de la prise en charge transfusionnelle afin de maintenir sa concentration à 1,5-2 g/L (grade C).
+
+Des outils biologiques adaptés aux contraintes de délai liées à l'infrastructure du centre doivent faire l'objet d'une validation multidisciplinaire et peuvent intégrer, là où les délais l'imposent et dans les structures à haut volume d'activité, l'utilisation des outils de biologie délocalisée.
+
+Dans les centres plus rarement confrontés à ce type de patients, une réflexion doit être menée pour permettre une transfusion précoce de plasma en cas d'hémorragie massive. Le plasma lyophilisé, déjà utilisé par l'armée française, est une piste de réflexion. Le maintien de la concentration de fibrinogène à l'aide de concentrés de fibrinogène pourrait être envisagé dans ces situations, dans l'attente de la réception des plasmas. L'efficacité des CCP dans cette indication n'a pas été démontrée. L'usage du concentré de fibrinogène et de CCP expose potentiellement à un risque thrombotique.
+
+Le PFC lyophilisé n'est pour l'instant accessible que dans les opérations militaires extérieures.
+
+### **Transfusion de plasma en obstétrique**
+
+Les règles modernes de prise en charge d'une hémorragie obstétricale sont les mêmes que celles énoncées ci-dessus. En cas d'hémorragie massive, l'apport précoce et intensif de plasma est indiqué.
+
+L'administration de plasma est recommandée dans le traitement de la coagulopathie obstétricale lorsque le traitement étiologique ne permet pas de contrôler rapidement l'hémorragie (accord professionnel).
+
+La concentration de fibrinogène doit être mesurée précocement à la fois pour prédire la gravité de l'hémorragie (grade C) et pour décider de la stratégie permettant de maintenir une concentration de fibrinogène supérieure ou égale à 2 g/L (accord professionnel). Le monitoring biologique de l'évolution doit être répété régulièrement (au moins toutes les 2 à 3 heures).
+
+### **Transfusion de plasma en neurochirurgie**
+
+Le risque de coagulopathie est présent dans la majorité des situations de neurotraumatologie et de neurochirurgie, le cerveau contenant de fortes concentrations de facteur tissulaire qui peuvent être responsables d'une coagulopathie.
+
+En l'absence d'hémorragie massive, la transfusion de plasma est indiquée lorsque la valeur de TP est < 50 % lors de la surveillance du traumatisé crânien grave et < 60 % pour la pose d'un capteur de pression intracrânienne (accord professionnel).Les règles modernes de prise en charge d'une transfusion massive s'appliquent en neurotraumatologie et doivent comporter l'apport précoce et intensif de plasma.
+
+### **Transfusion de plasma en chirurgie cardiaque**
+
+L'indication de plasma thérapeutique dans le cadre de la chirurgie cardiaque n'est envisagée que devant l'association de deux éléments : persistance d'un saignement microvasculaire et déficit en facteurs de coagulation (TP  $\leq 40$  % ou TCA  $>1,8$ /témoins en présence d'un temps de thrombine normal ou facteurs de coagulation  $\leq 40$  %) (accord professionnel).
+
+La prise en charge des hémorragies de cause mécanique entraînant un débit de saignement élevé et nécessitant une reprise chirurgicale immédiate n'est pas discutée ici.
+
+La prescription prophylactique de plasma thérapeutique n'est pas justifiée car elle n'apporte aucun bénéfice en termes de saignement et elle augmente les risques transfusionnels. En l'absence d'un saignement, il n'y a pas d'indication au plasma (accord professionnel).
+
+L'association d'un saignement non chirurgical et d'un déficit en facteur de coagulation se rencontre le plus souvent en cas de cumul des facteurs hémorragiques. L'identification périopératoire des patients à haut risque doit être réalisée. Elle est facilitée par l'utilisation de scores clinico-biologiques. Cette identification permet d'anticiper la prise en charge transfusionnelle de ces patients.
+
+L'utilisation d'algorithmes décisionnels de prise en charge du saignement a démontré une diminution de la consommation de PSL, et une réduction des complications postopératoires et de la durée de séjour. Par conséquent, chaque centre de chirurgie cardiaque doit établir son propre algorithme décisionnel (grade B). Cet algorithme doit intégrer les outils biologiques adaptés aux contraintes de délai liées à l'infrastructure du centre. Cet algorithme doit faire l'objet d'une validation multidisciplinaire intégrant la validation clinico-biologique des outils de biologie délocalisée s'ils sont utilisés et des procédures de délivrance de PFC adaptées au degré d'urgence. L'utilisation systématique d'algorithmes prenant en compte des délais brefs doit permettre d'éviter la prescription de plasma par anticipation.
+
+C'est ainsi que les outils de biologie délocalisée peuvent trouver une place dans ces algorithmes pour réduire le délai d'obtention de résultats guidant la prise en charge. Chaque équipe doit choisir les outils adaptés à sa pratique.
+
+Une posologie initiale de 15 mL/kg est utilisée (accord professionnel). Cette dose doit être augmentée en cas de saignement majeur. La répétition de cette dose est donc guidée par une réévaluation clinico-biologique.
+
+Il n'existe pas de données propres à la chirurgie cardiaque concernant le ratio CGR : PFC. Dans le seul cadre de la rupture d'anévrysme de l'aorte abdominale, une prise en charge transfusionnelle intensive et précoce avec une augmentation du ratio, jusqu'à 1 : 1 en peropératoire, s'accompagne d'une amélioration de la survie (grade C).
+
+### **Transfusion de plasma en cas d'insuffisance hépatocellulaire**
+
+En cas d'insuffisance hépatocellulaire chronique, la pratique consistant à traiter systématiquement par du PFC un chiffre de TP abaissé en prévision d'un geste à risque hémorragique n'est pas justifiée. L'efficacité sur les paramètres biologiques est médiocre et son utilité est très loin d'être établie. La transfusion de PFC n'est pas recommandée en l'absence de saignement (accord professionnel).
+
+En cas d'insuffisance hépatique aiguë sévère, la transfusion de PFC systématique et préventive dans le seul but de corriger les anomalies des facteurs de coagulation n'est pas recommandée chez un sujet ne saignant pas et non exposé à un geste vulnérant (accord professionnel). Il n'existe aucune preuve de son bénéfice. Elle perturbe la valeur pronostique de cet indicateur comme critère de décision d'une transplantation hépatique, et pourrait être délétère. Elle peut être envisagée, parmi d'autres traitements hémostatiques et en fonction des anomalies prédominantes des examens de coagulation, avant une éventuelle pose de capteur de pression intracrânienne et après décision de transplantation hépatique.
+
+Les variations de réponses importantes au cours des transplantations hépatiques, non expliquées par la gravité des cas traités, doivent inviter les praticiens à une réflexion, au cas par cas, sur la pertinence de la transfusion de plasma dans cette indication.## **Transfusion de plasma en cas de brûlures**
+
+La transfusion de plasma comme soluté de remplissage chez le brûlé, n'est pas justifiée (accord professionnel).
+
+- • **INDICATIONS DU PLASMA EN MÉDECINE**
+
+### **Syndrome de coagulation intravasculaire disséminée**
+
+La transfusion de plasma thérapeutique (10 à 15 mL/kg) est indiquée dans les CIVD avec effondrement des facteurs de la coagulation (TP inférieur à 35-40 %), associées à une hémorragie active ou potentielle (acte invasif) (grade B).
+
+### **Déficits en protéines plasmatiques intervenant dans l'hémostase**
+
+Le plasma thérapeutique est le seul produit capable d'apporter, entre autres, du facteur V, de la protéine S, et du plasminogène, car il n'existe pas de fraction purifiée stable de ces facteurs. Le plasma thérapeutique est donc logiquement indiqué s'il faut corriger spécifiquement un déficit en l'un de ces facteurs. Pour les autres facteurs, des fractions purifiées stables sont disponibles.
+
+Il convient de préciser que les déficits rares en facteurs de coagulation ne justifient *a priori* la transfusion de plasma thérapeutique que s'il existe un syndrome hémorragique ou dans la perspective d'un geste invasif.
+
+En cas de déficit en un facteur de la coagulation pour lequel une préparation de facteur purifié existe mais sans possibilité d'obtention rapide du produit, il peut être licite d'apporter du plasma thérapeutique dans le cadre d'une situation d'urgence hémorragique (accord professionnel). La dose de plasma thérapeutique à transfuser est alors de 10 à 15 mL/kg de poids corporel.
+
+### **Micro-angiopathies thrombotiques**
+
+Au cours des micro-angiopathies thrombotiques (purpura thrombotique thrombocytopénique [PTT] et syndrome hémolytique et urémique avec critères de gravité), le plasma a un effet thérapeutique reconnu à des volumes importants, compris entre 40 et 60 mL/kg, soit 1 à 1,5 masse plasmatique (grade B). Ce volume permet d'assurer dans le PTT l'apport d'une quantité importante de la molécule ADAMTS 13 et dans le SHU l'apport de protéines du complément. C'est la raison pour laquelle l'administration du plasma se fait préférentiellement par échange plasmatique.
+
+Les échanges plasmatiques sont poursuivis quotidiennement jusqu'à disparition des défaillances d'organe d'une part, et jusqu'à normalisation stable du taux de plaquettes ( $> 150 \times 10^9/L$  pendant au moins 48 heures) d'autre part. Il faut veiller à ce que les taux de réticulocytes et de LDH soient en cours de décroissance. La durée du traitement peut être très variable : plusieurs dizaines d'échanges plasmatiques peuvent être nécessaires pour obtenir une rémission complète durable. Cependant, l'utilisation croissante de traitements immunomodulateurs peut diminuer la durée du traitement chez les patients en réponse sub-optimale (grade B). Par ailleurs, une plasmathérapie au long cours peut être nécessaire dans les PTT héréditaires récurrents (accord professionnel).
+
+Dans le SHU atypique, outre le traitement symptomatique (similaire à celui du SHU typique), les échanges plasmatiques constituent à ce jour le traitement de première ligne (accord professionnel), bien que cette recommandation ne repose pas sur des essais thérapeutiques.
+
+### **Anomalies de l'hémostase induites par les échanges plasmatiques (EP) utilisant les colloïdes**
+
+Dans plus de 80 % des échanges plasmatiques, les produits de substitution utilisés sont des colloïdes. Chez les patients sans facteur de risque hémorragique traités par des EP rapprochés, il est nécessaire de maintenir une concentration de fibrinogène supérieure ou égale à 1 g/L. Le PFC est alors utilisé en tant que produit de substitution et non de remplissage vasculaire. On peut donc être amené, en fonction de la baisse du taux de fibrinogène observée à chaque séance d'EP réalisée avec des colloïdes, à utiliser quelques unités de plasma en fin de séance (10 à 20 mL/kg).
+
+Chez les patients présentant un risque hémorragique lié à leur pathologie, il faut utiliser le plasma plus précocement et en plus grande quantité (30 mL/kg). Enfin, chez les patients pour lesquels une interventionchirurgicale à fort risque hémorragique est envisagée à court terme, il faut utiliser du PFC lorsque des échanges plasmatiques sont réalisés (accord professionnel).
+
+### **Cœdème angioneurotique héréditaire**
+
+Les poussées aiguës d'œdème angioneurotique héréditaire (OAH) ne sont pas une indication de traitement par le plasma thérapeutique. Le traitement des crises sévères (laryngées) repose sur l'administration intraveineuse de concentré d'inhibiteur de la C1-estérase (C1-INH) ou sur l'administration sous-cutanée d'icatibant. L'utilisation de plasma thérapeutique dans cette indication ne peut se concevoir qu'en l'absence de disponibilité immédiate des traitements spécifiques.
+
+## **• INDICATIONS DU PLASMA THÉRAPEUTIQUE EN NÉONATALOGIE ET PÉDIATRIE**
+
+### **Indications chez le nouveau-né et l'enfant**
+
+L'utilisation du plasma thérapeutique est similaire à celle de l'adulte dans le cadre d'une CIVD, d'une hémorragie massive, ou d'une insuffisance hépatique.
+
+Concernant la CIVD avec syndrome hémorragique grave, la transfusion de plasma thérapeutique à la dose de 10 à 20 mL/kg est recommandée, parallèlement au traitement de la cause.
+
+En cas de CEC, il est recommandé d'utiliser du sang reconstitué avec du plasma thérapeutique pour l'amorçage des circuits (grade B).
+
+### **Indications spécifiques au nouveau-né**
+
+Chez l'enfant grand prématuré de moins de 29 SA en détresse vitale, la transfusion de plasma thérapeutique est fréquemment utilisée lorsque les taux des facteurs de coagulation sont inférieurs à 20 %, même en l'absence de syndrome hémorragique clinique (grade C).
+
+La prophylaxie de la maladie hémorragique du nouveau-né par déficit en vitamine K doit être systématique chez tous les nouveau-nés :
+
+- - le jour de la naissance : 2 mg de vitamine K chez le nouveau-né à terme (ou 1 mg/kg chez le prématuré) non alimenté par voie orale ou intraveineuse directe ; cette dose doit être renouvelée entre le 2<sup>e</sup> et le 7<sup>e</sup> jour de vie ;
+- - chez le nouveau-né en allaitement maternel exclusif : 2 mg par voie orale une fois par semaine jusqu'au sevrage.
+
+Le traitement curatif fait appel à l'injection de vitamine K. Le recours à la transfusion de PFC peut être nécessaire en cas de syndrome hémorragique sévère dans l'attente de l'effet du traitement par la vitamine K (grade C).
+
+On doit faire appel au plasma thérapeutique dans les déficits complexes rares de la coagulation lorsque les fractions coagulantes ne sont pas disponibles.
+
+L'association d'une CIVD à un geste à risque hémorragique est une indication à la transfusion de plasma.
+
+Pour les exsanguino-transfusions, le sang est reconstitué en mélangeant un CGR et du plasma.
+
+### **Non-indications chez le nouveau-né et l'enfant**
+
+Dans le SHU typique post-diarrhéique (STEC+) de l'enfant, la plasmathérapie n'est pas recommandée en première intention dans les formes sans critère de gravité.
+
+### **Non-indications spécifiques au nouveau-né**
+
+Les indications suivantes ne sont pas justifiées :
+
+- - infections néonatales en l'absence de CIVD, à titre de traitement adjuvant au traitement antibiotique ;
+- - hypovolémie sans syndrome hémorragique et sans trouble de l'hémostase ;
+- - prévention des hémorragies intraventriculaires de l'enfant prématuré en l'absence de coagulopathie ;
+- - nouveau-né sain avant acte chirurgical.### **Modalités spécifiques d'utilisation du plasma en néonatologie**
+
+L'utilisation de PFC sécurisé avec transformation pédiatrique est possible.
+
+En cas de transfusions répétées, l'utilisation de PFC sécurisé issu du même don est à privilégier. Les règles de compatibilité sont identiques à celles de l'adulte. La posologie est de 10 à 20 mL/kg sur 1 à 3 heures par voie intraveineuse au moyen d'un perfuseur électrique afin d'assurer un débit constant. Le plasma apporte en moyenne 170 mmoles/L de sodium, à prendre en compte dans le maintien de l'équilibre hydroélectrolytique du nouveau-né.
+
+- • **ANTIDOTE AU SURDOSAGE EN ANTIVITAMINE K : INDICATIONS DU PLASMA THÉRAPEUTIQUE ET DES ALTERNATIVES** (VITAMINE K, CONCENTRE DE COMPLEXE PROTHROMBINIQUE)
+
+La prise en charge des hémorragies et traumatismes chez des patients traités par AVK est encadrée par les recommandations professionnelles de la HAS publiées en 2008.
+
+Ces recommandations, qui demeurent parfaitement valides, stipulent qu'en cas d'hémorragie grave, la vitamine K et les concentrés de complexe prothrombinique (CCP, aussi appelés PPSB) sont les moyens médicamenteux les plus appropriés. La place des PFC dans cette indication est exceptionnelle et se limite à deux rares situations :
+
+- - absence de disponibilité des concentrés de complexe prothrombinique (CCP) pour antagoniser les AVK en cas d'hémorragie grave (grade B) ;
+- - absence de disponibilité de CCP ne contenant pas d'héparine pour antagoniser les AVK en cas d'hémorragie grave chez un patient aux antécédents de thrombopénie induite par l'héparine (TIH).
+
+Une hémorragie grave ou potentiellement grave, qui nécessite une prise en charge hospitalière, est définie par la présence d'au moins un des critères suivants :
+
+- - hémorragie extériorisée non contrôlable par les moyens usuels ;
+- - instabilité hémodynamique : PAS < 90 mmHg ou diminution de 40 mmHg par rapport à la PAS habituelle, ou PAM < 65 mmHg, ou tout signe de choc ;
+- - nécessité d'un geste hémostatique urgent : chirurgie, radiologie interventionnelle, endoscopie ;
+- - nécessité de transfusion de concentrés de globules rouges ;
+- - localisation menaçant le pronostic vital ou fonctionnel.
+
+### **3. INDICATIONS DE LA TRANSFUSION DE PLASMA AUTOLOGUE**
+
+Il n'existe pas d'étude définissant les indications du plasma autologue. Lorsqu'on n'escompte pas de perte volémique importante au cours de l'intervention, et donc lorsque le recours à du plasma n'est pas envisagé, le prélèvement pour transfusion autologue peut être envisagé par érythrocytaphérèse puisqu'il ne fournit pas de plasma autologue (accord professionnel).
+
+Lorsque le plasma autologue est disponible, le recours à son emploi plutôt qu'aux cristalloïdes ou aux colloïdes doit être pesé au cas par cas en tenant compte des risques relatifs de chacune des techniques. En l'absence de différence de fréquence des risques respectifs (notamment, risque allergique avec les colloïdes et risque d'erreur d'attribution ou d'identité avec le plasma autologue), l'emploi systématique de plasma autologue comme produit de remplissage ne peut être recommandé.

@@ -1,0 +1,263 @@
+## INFORMATION PROFESSIONNELLE
+
+# Recommandations formalisées d'experts 2008. Prise en charge de la douleur postopératoire chez l'adulte et l'enfant<sup>☆</sup>
+
+Comité douleur-anesthésie locorégionale et le comité des référentiels de la Sfar
+
+Disponible sur Internet le 21 novembre 2008
+
+### GROUPE DE TRAVAIL
+
+*Coordonnateur* : D. Fletcher ([dominique.fletcher@rpc.ac-hop-paris.fr](mailto:dominique.fletcher@rpc.ac-hop-paris.fr))
+
+*Coordonnateur adjoint* : F. Aubrun ([frederic.aubrun@ps-l.aphp.fr](mailto:frederic.aubrun@ps-l.aphp.fr))
+
+*Experts* : F. Adam, F. Aubrun, G. Aya, M. Beaussier, A. Belbachir, H. Beloeil, M. Chauvin, C. Dadure, L. Delaunay, JP. Estebe, D. Fletcher, R. Fuzier, E. Gaertner, O. Gall, M. Gentili, H. Keita, F. Larue, P. Lehete, C. Lejus, P. Macaire, E. Marret, P. Richebé, J. Ripart, F. Sztark, E. Vassort (représentant de la Société française d'étude et de traitement de la douleur-SFETD) ; V. Gaudé (infirmière référente douleur).
+
+### I. INTRODUCTION
+
+Le Comité douleur ALR de la Société française d'anesthésie et de réanimation (Sfar) a souhaité organiser, avec le soutien du Comité des référentiels, une réactualisation de la conférence de consensus sur la prise en charge de la douleur postopératoire (DPO) pour deux raisons principales. D'abord, parce que la conférence de consensus date de plus de dix ans et que des évolutions importantes sont apparues concernant la prise en charge de la DPO. Elles concernent, entre autres, l'utilisation des morphiniques, de l'analgésie locorégionale (ALR), les données objectives sur l'intérêt des associations analgésiques, l'émergence du concept d'hyperalgésie et sa possible prévention, les données nouvelles sur la douleur chronique postchirurgicale (DCPC) et les enjeux de l'analgésie après chirurgie ambulatoire. Deuxièmement, l'audit national sur la prise en charge de la DPO, organisé par le comité douleur ALR de la Sfar, soutenu par la Sfar et la DHOS et dont les résultats ont été publiés récemment, a permis d'identifier globalement une amélioration dans la prise
+
+en charge de la DPO, mais également quelques insuffisances persistantes.
+
+La méthodologie de la recommandation formalisée d'experts (RFE), explicitée plus loin, est plus légère que celle de la conférence de consensus de 1997 et permet de proposer une révision de la conférence de consensus sur huit aspects identifiés comme prioritaires : la qualité, l'utilisation des morphiniques, l'utilisation des antalgiques non morphiniques, l'intérêt des antihyperalgésiques, la prévention de la DCPC, les indications des infiltrations, la place de l'anesthésie locorégionale en postopératoire et l'analgésie après chirurgie en ambulatoire.
+
+### 2. POURQUOI AVOIR CHOISI UN RÉFÉRENTIEL DE TYPE « RECOMMANDATIONS FORMALISEES D'EXPERTS (RFE) » ?
+
+Une RFE peut s'appliquer lorsque les données scientifiques sont absentes ou peu nombreuses, d'un niveau de preuve peu élevé ou conflictuel ou lorsque les éléments de réponse sont indirects ou traités seulement partiellement dans les différents travaux disponibles. Dans ce cas, le vocable « accord professionnel fort » est utilisé sans réelle quantification du niveau ni du degré de convergence des avis. Or les sujets concernés correspondent souvent à des domaines pour lesquels les pratiques s'avèrent peu ou mal codifiées, voire d'une grande variabilité. En raison même de l'absence de données scientifiques indiscutables, une prise de position à un temps donné par un groupe d'experts dans le domaine concerné apparaît donc nécessaire. C'est la principale caractéristique d'une RFE.
+
+### 3. JUSTIFICATION DU CHOIX DE LA MÉTHODE GRADE POUR L'ÉLABORATION DES RECOMMANDATIONS
+
+Pour chaque thème sélectionné par le Comité d'organisation de la RFE, les experts déterminent, grâce à une revue
+
+<sup>☆</sup> Actualisation de la conférence de consensus de 1997.systématique de la littérature, différents sujets dignes d'intérêt. Pour chacun des sujets, des « critères de jugement cruciaux et importants » sont décidés avec un classement du niveau de preuve et l'appréciation de la balance bénéfice–risque. Trois niveaux de preuve sont déterminés : essai randomisé (haut niveau de preuve), étude observationnelle (bas niveau de preuve) et autres sources de données (très bas niveau de preuve). L'originalité de la méthode GRADE tient au fait que la seule caractérisation du type d'étude (essai randomisé ou étude observationnelle, par exemple) ne suffit pas à attribuer un niveau de preuve à l'étude. Les différents aspects méthodologiques, selon qu'ils sont jugés satisfaisants ou non, servent à « monter ou descendre le curseur ». Il s'agit donc de coter le niveau de preuve de chacune des études sélectionnées en fonction de leurs qualités et de leurs faiblesses évaluées méthodiquement par les experts. Des tableaux récapitulatifs (jointes dans certains textes longs) peuvent aider les experts dans leur cotation du niveau global de preuve : les études sont classées et synthétisées avec rigueur.
+
+Le principe de l'élaboration des recommandations, à partir du système GRADE, est d'aboutir ensuite à une formulation simple, parfaitement lisible et compréhensible, et pour ce faire, binaire. Ainsi, on ne prévoit de formuler que des « recommandations fortes » (« il faut faire ou ne pas faire ou nous recommandons fortement de... ») et des recommandations « optionnelles » (« il est possible ou probable de faire ou de ne pas faire ou nous proposons d'éventuellement faire... »). Une recommandation forte ne signifie pas que tous les patients doivent être traités de façon identique, mais elle doit faciliter la prise de décision et est censée indiquer l'option que choisirait la très grande majorité des praticiens et patients dûment informés.
+
+Dans certaines circonstances, une recommandation ne peut être formulée, soit parce que la balance bénéfices/risques n'est pas claire, soit parce qu'il n'y a pas d'accord entre les différentes personnes chargées de la formulation.
+
+Les recommandations, proposées par les experts, sont soumises à une cotation à plusieurs tours par l'ensemble des experts, ce qui permet de ne garder, en les affinant, que les recommandations qui recueillent un accord « fort ». Dans le cadre de cette RFE, quatre tours de cotations ont été nécessaires pour élaborer 124 recommandations consensuelles.
+
+Ce référentiel a été un travail collectif avec la recherche d'un consensus le plus large possible sur des thématiques ciblées et essentielles, se traduisant par la sélection d'un nombre volontairement limité de recommandations. Le texte court est la synthèse de cette réflexion commune, alors que le texte long est le fruit du travail exhaustif de chaque expert ou groupe d'experts.
+
+Les thèmes suivants ont été traités :
+
+- • comment évaluer et améliorer les pratiques de prise en charge (PEC) de la DPO ? (14 recommandations) ;
+- • comment utiliser les morphiniques en périopératoire ? (26 recommandations) ;
+- • quels bénéfices et risques liés à l'utilisation des antalgiques non morphiniques ? (16 recommandations) ;
+
+- • quelle utilisation des agents antihyperalgésiques ? (9 recommandations) ;
+- • peut-on prévenir la chronicisation de la douleur ? (6 recommandations) ;
+- • pourquoi, comment et quand faire une infiltration du site opératoire ? (16 recommandations) ;
+- • place de l'ALR dans l'analgésie postopératoire ? (30 recommandations) ;
+- • comment organiser l'analgésie en chirurgie ambulatoire ? (7 recommandations).
+
+#### 4. COMMENT ÉVALUER ET AMÉLIORER LES PEC DE LA DPO ?
+
+##### 4.1. Quelle est l'organisation proposée ?
+
+###### 4.1.1. Améliorer l'organisation de la structure
+
+Pour améliorer l'organisation de la structure, il est recommandé d'insister sur l'importance d'une implication institutionnelle avec des objectifs concernant la prise en charge de la douleur dans le projet de l'établissement. Il est recommandé d'inscrire la qualité de la prise en charge de la DPO plus largement dans la réhabilitation postopératoire qui vise à offrir une récupération fonctionnelle rapide en postopératoire. Pour améliorer l'organisation des équipes dans la prise en charge de la DPO, une démarche concertée multidisciplinaire est recommandée avec définition de référents et responsabilisation des acteurs. Il est recommandé d'aborder conjointement l'organisation d'équipes, la formation des personnels, la désignation de personnel référent, l'information du patient, l'évaluation de la douleur et la mise en place de procédures de soins. Il est recommandé de développer des postes d'infirmier référent douleur pour améliorer la prise en charge de la DPO.
+
+###### 4.1.2. Améliorer la prise en charge de la DPO
+
+Pour améliorer la prise en charge de la DPO, il est recommandé d'informer le patient oralement en pré-, puis postopératoire en s'aidant également d'un support écrit. Une trace de cette information doit rester dans le dossier. Il est également recommandé d'évaluer l'intensité de la douleur avec une autoévaluation chiffrée, utilisant une échelle numérique ou verbale. Cette évaluation doit être faite en préopératoire, en salle de soins postinterventionnelle (SSPI). Le niveau de douleur est un critère de sortie de SSPI. L'évaluation doit être poursuivie régulièrement en postopératoire, au repos, au mouvement et après traitement. Cette évaluation doit être associée à une évaluation de la sédation et de la ventilation. L'évaluation de la douleur doit être tracée dans le dossier. L'incidence de la DCPC doit aussi être évaluée. Il est enfin recommandé de développer des protocoles de traitement, utilisant les techniques analgésiques efficaces, comme l'analgésie autocontrôlée (ACP) morphinique, l'analgésie multimodale et l'ALR. Ces protocoles doivent intégrer la surveillance, la prévention et le traitement des effets secondaires. La prescription à la demande n'est pas recommandée. En plus des analgésiques administrés systématiquement, des doses desecours doivent être prescrites sur des critères fiables comme un score d'intensité douloureuse. La standardisation, la prérédaction, voire l'informatisation des prescriptions dans le cadre de procédures thérapeutiques sont recommandées.
+
+## 4.2. Quelle évaluation de la qualité ?
+
+### 4.2.1. Mesurer la qualité de la prise en charge de la DPO
+
+Pour mesurer la qualité de la prise en charge de la DPO, il est recommandé d'évaluer parallèlement la structure, les procédures et les résultats pour le patient. Ce processus d'évaluation doit être continu et prolongé. Pour évaluer la structure, il est recommandé de recenser le nombre d'infirmières référentes douleur, les moyens financiers, matériels et humains mis à disposition ainsi que les formations dispensées. Il est recommandé de faire participer l'équipe à toutes les étapes de la démarche qualité. La restitution des résultats est une étape clé pour l'élaboration des plans d'action. Il est recommandé d'utiliser également d'autres méthodes d'évaluation des pratiques professionnelles (EPP), comme le chemin clinique, l'intégration du thème douleur dans des réunions de morbi-mortalité, le suivi d'indicateurs, la réalisation de staffs EPP. L'utilisation d'indicateurs validés comme ceux de la HAS peut permettre une analyse comparative. Enfin, il est recommandé de réaliser des enquêtes « patients » pour évaluer les résultats chez le patient. La satisfaction est un critère insuffisamment spécifique. L'évaluation doit associer l'intensité douloureuse et les effets indésirables.
+
+## 5. COMMENT UTILISER LES MORPHINIQUES EN PÉRIOPÉRATEOIRE ?
+
+### 5.1. Place des morphiniques oraux
+
+La voie parentérale est largement utilisée dans la période périopératoire. Il est toutefois recommandé de réserver les voies sous-cutanée et intraveineuse (i.v.) aux patients pour lesquels la voie orale n'est pas disponible. Il est recommandé d'utiliser la morphine à libération immédiate par voie orale, en postopératoire immédiat ou en relais de la voie parentérale. En pratique, le traitement peut débuter en même temps qu'une reprise de l'alimentation orale. En revanche, il n'y a pas de place pour la titration morphinique par voie orale en postopératoire immédiat. La titration i.v. est préférable.
+
+Les morphiniques oraux sont un traitement de secours efficace en association avec l'analgésie multimodale. À titre d'exemple, l'oxycodone per os peut être une alternative à la morphine en postopératoire de chirurgie douloureuse (hors AMM). Concernant les antalgiques de palier II, il n'est pas recommandé d'utiliser le dextropropoxyphène dans l'analgésie postopératoire. La codéine est probablement efficace après chirurgie à douleur faible ou modérée. Cependant, l'efficacité et la tolérance sont imprévisibles, notamment, du fait de variations génétiques. Quant au tramadol, il est recommandé seul ou en association avec les antalgiques non morphiniques, en cas de
+
+chirurgie à douleur modérée. Il n'est pas contre-indiqué en association avec la morphine.
+
+### 5.2. Bénéfices–risques de la titration intraveineuse
+
+La titration consiste à adapter la dose d'opioïde aux besoins du patient et atteindre la concentration plasmatique efficace analgésique en évitant les sous-dosages et les surdosages. La morphine est l'opioïde recommandé pour une titration i.v. en période postopératoire immédiate. Il est recommandé de réaliser une titration i.v. en morphine à partir d'une valeur seuil d'intensité douloureuse, déterminée sur une échelle d'auto- ou d'hétéroévaluation chez les patients non somnolents. Des bolus de 2 ou 3 mg toutes les cinq minutes sont probablement recommandés.
+
+La surveillance des patients en SSPI est neurologique (état de conscience, score de douleur), respiratoire (fréquence respiratoire et saturation capillaire en oxygène :  $SpO_2$ ) et hémodynamique (pression artérielle et fréquence cardiaque). Il est recommandé d'interrompre la titration en cas d'apparition d'une somnolence et il est recommandé de surveiller les patients pendant la titration et jusqu'à une heure après la fin de la titration car ce délai correspond au pic d'action de la morphine et à la possibilité d'apparition des effets dépresseurs respiratoires. Une titration i.v. postopératoire en morphine n'est pas recommandée dans les unités d'hospitalisation chirurgicale conventionnelle.
+
+### 5.3. Indications et limites de l'ACP morphine ?
+
+En cas de chirurgie à douleur modérée ou sévère prédictible, pour laquelle les morphiniques sont nécessaires, il est recommandé d'utiliser l'ACP pour prendre en charge la DPO. La morphine est l'opiacé de choix. Il n'existe aucun avantage à remplacer la morphine par le tramadol. Concernant la programmation du dispositif, l'association d'une perfusion continue au mode bolus n'améliore pas la qualité de l'analgésie, mais majeure le risque de dépression respiratoire. La seule indication de ce type d'association est la substitution d'un traitement morphinique préopératoire. L'ACP doit être associée à une analgésie multimodale. En prophylaxie des nausées–vomissements (effet indésirable le plus fréquent), il est recommandé d'associer en première intention le dropéridol à la morphine dans la pompe d'ACP. En cas de chirurgie à douleur modérée ou sévère prédictible, l'efficacité du dispositif analgésique transdermique iontophorétique est comparable à celle d'une ACP morphine. Il est alors recommandé d'appliquer des modalités de surveillance identique à celle de l'ACP morphine.
+
+### 5.4. Spécificité des morphiniques chez le sujet âgé et chez l'enfant
+
+Il existe des modifications physiologiques, pharmacocinétiques et pharmacodynamiques chez le sujet âgé. Ces modifications pharmacologiques s'expriment certainement moins en SSPI. Il est donc probablement recommandé de réaliser unetitration selon les mêmes modalités chez le sujet âgé que chez le sujet plus jeune. La dose titrée doit être toutefois réduite au-delà de 85 ans, en cas d'altération de la fonction rénale ou hépatique ou de troubles des fonctions supérieures. Dans les suites opératoires, il est recommandé de réduire les doses unitaires de morphine en injection sous-cutanée et/ou d'augmenter l'intervalle entre les injections. Dans tous les cas, il sera important de prendre en compte les scores de douleur. L'ACP n'est pas contre-indiquée chez le patient âgé. La programmation n'est pas différente, mais une oxygénéthérapie systématique est indiquée ainsi qu'une dose limite horaire. Parmi les antalgiques de palier II, il n'est pas recommandé d'utiliser le dextropropoxyphène chez le sujet âgé.
+
+Il est recommandé d'utiliser la morphine plutôt que les agonistes de palier II après chirurgie majeure chez le nouveau-né, le nourrisson et l'enfant. Les doses de morphine, adaptées au poids de l'enfant, sont réduites chez le nouveau-né et le nourrisson de moins de trois mois en raison de l'immaturité hépatique.
+
+L'ACP est recommandée dès que le niveau de participation est suffisant, en pratique dès l'âge de six ou sept ans. Il n'est pas recommandé d'utiliser la morphine par voie sous-cutanée chez l'enfant, principalement du fait du caractère douloureux de l'injection.
+
+## 6. QUELS BÉNÉFICES ET RISQUES LIÉS À L'UTILISATION DES ANTALGIQUES NON MORPHINIQUES ?
+
+L'utilisation conjointe d'un antalgique non morphinique (ANM) à la morphine repose sur le concept de l'analgesie multimodale ou balancée apparu dans les années 1990. Le principe repose sur la combinaison de plusieurs analgésiques, afin d'obtenir une association au moins additive, voire synergique. L'analgesie multimodale a ainsi pour but d'associer différentes molécules ayant un mécanisme d'action différent dans l'espoir de renforcer l'analgesie postopératoire et/ou diminuer les besoins en analgésiques et leurs effets secondaires, cela concernant principalement les morphiniques. Il est ainsi recommandé d'associer au moins un analgésique non morphinique lorsque la morphine est utilisé en postopératoire par voie systémique.
+
+### 6.1. Spécificité adulte
+
+#### 6.1.1. AINS et inhibiteurs sélectifs des cyclo-oxygénases de type II (coxibs)
+
+Il est recommandé d'associer un AINS à la morphine en l'absence de contre-indications. En revanche, il ne faut pas utiliser les AINS ou les coxibs dans les situations d'hypoperfusion rénale. Il est également recommandé de prendre en compte la majoration du risque hémorragique lors de la prescription d'AINS non sélectif. En cas de prescription de coxibs, il est recommandé de prendre en compte les facteurs de risque athérotrombotique en respectant les contre-indications et précautions d'emploi définies par l'Afssaps.
+
+#### 6.1.2. Paracétamol
+
+Il n'est pas recommandé d'utiliser seul le paracétamol en association avec la morphine dans les chirurgies à douleur modérée à sévère ni d'administrer le paracétamol par voie i.v. dès que la voie orale est utilisable.
+
+#### 6.1.3. Néfopam
+
+Le Néfopam est probablement recommandé après chirurgie à douleur modérée à sévère en association avec les morphiniques. Toutefois, il faut probablement utiliser avec prudence le néfopam chez le patient coronarien, en raison du risque de tachycardie.
+
+## 6.2. Spécificité pédiatrique
+
+### 6.2.1. AINS et inhibiteurs sélectifs des cyclo-oxygénases de type II (coxibs)
+
+En dehors du syndrome de Fernand-Widal, on peut administrer des AINS aux enfants asthmatiques. Il est recommandé de corriger les états de déshydratation et d'hypovolémie avant l'administration d'AINS. On peut probablement utiliser le kétoprofène par voie i.v. dès l'âge d'un an (hors AMM). Il est probablement recommandé d'utiliser le diclofénac plutôt que l'acide niflumique par voie rectale. En revanche, du fait du manque de données actuelles, on ne peut pas donner de recommandations concernant l'utilisation des coxibs chez l'enfant.
+
+Il n'est pas recommandé de prescrire un AINS pour assurer l'analgesie postamygdalectomie, en raison d'une majoration du risque hémorragique conduisant à une reprise chirurgicale.
+
+#### 6.2.2. Paracétamol
+
+Comme pour l'adulte, il n'est pas recommandé d'administrer le paracétamol par voie i.v. dès que la voie orale est utilisable. Il n'est pas recommandé d'administrer le paracétamol par voie rectale compte tenu de la biodisponibilité faible et imprévisible. Il est recommandé d'administrer le paracétamol de façon systématique et non « à la demande ».
+
+## 7. QUELLE UTILISATION DES AGENTS ANTIHYPERALGÉSIQUES ?
+
+### 7.1. Quelles conséquences cliniques des phénomènes d'hyperalgésie ?
+
+La DPO partage avec la douleur inflammatoire le risque de développement d'un état d'hypersensibilité liée à la douleur avec l'apparition d'une hyperalgésie et d'une allodynie. On distingue l'hyperalgésie périphérique ou primaire (hyperexcitabilité du système nerveux périphérique) et l'hyperalgésie secondaire ou centrale (hyperexcitabilité du système nerveux central). Les trois principales conséquences de l'hyperalgésie postopératoire sont la majoration des douleurs postopératoires, la majoration de la consommation d'opioïdes ou d'analgésiques postopératoires et l'incidence accrue des douleurs chroniques résiduelles.## 7.2. Quels moyens de prévention de l'hyperalgésie postopératoire ?
+
+L'hyperalgésie postopératoire est la traduction clinique des phénomènes de sensibilisation du système nerveux qui exacerbent la DPO. Les fortes doses peropératoires d'opioïdes majorent la douleur, l'hyperalgésie et favorisent le développement de la tolérance aiguë à la morphine. Il est probablement recommandé de limiter la consommation d'opioïdes peropératoires afin de réduire le risque de tolérance aiguë à la morphine en postopératoire immédiat.
+
+Le récepteur N-méthyl-D-aspartate (NMDA) étant impliqué dans les phénomènes de sensibilisation du système nerveux, l'administration d'un inhibiteur du récepteur NMDA permet de limiter l'hyperalgésie postopératoire. La kétamine est l'antagoniste compétitif du récepteur NMDA le plus efficace dans cette indication. Durant l'anesthésie, les règles d'administration de la kétamine recommandées sont les suivantes : bolus peropératoire compris entre 0,15 et 0,50 mg/kg suivi d'un relais à la dose de 0,125 à 0,25 mg/kg par heure en cas de chirurgie supérieure à deux heures. La perfusion sera arrêtée 30 minutes avant la fin de l'anesthésie. Au cours d'une anesthésie générale, il est recommandé d'administrer le premier bolus de kétamine après l'induction, afin d'éviter les effets indésirables psychodysleptiques. Dans la période postopératoire, il n'est pas recommandé d'utiliser l'association morphine et kétamine dans la PCA.
+
+Parmi les autres traitements possibles, l'administration i.v. de magnésium n'est pas recommandée car elle ne limite pas les douleurs et la consommation de morphine postopératoires.
+
+De même, l'utilisation de clonidine, en prévention des hyperalgésies postopératoires, ne peut être recommandée car ses effets indésirables hémodynamiques sont trop marqués.
+
+En revanche, il est probablement recommandé d'utiliser la gabapentine en prémédication pour obtenir un effet d'épargne morphinique et une réduction des scores de douleur en postopératoire.
+
+En l'absence d'ALR, la lidocaïne i.v. est probablement recommandée pour l'analésie après chirurgie abdominale.
+
+L'analésie péridurale permet une réduction de l'allodynie péricicatricielle autour de la cicatrice de laparotomie.
+
+## 8. PEUT-ON PRÉVENIR LA CHRONICISATION DE LA DPO ?
+
+### 8.1. Quelle incidence, facteurs de risques et caractéristiques de la douleur chronique postchirurgicale ?
+
+La douleur chronique postchirurgicale (DCPC) est définie par une douleur persistant plus de deux mois après une chirurgie, sans étiologie identifiée et sans continuité avec un problème préopératoire. L'incidence des DCPC est difficile à estimer, tant il existe une grande variabilité dans la méthodologie des études et donc une disparité dans la prévalence, y compris pour un même type de chirurgie. Il est, par conséquent, recommandé de prendre en compte la
+
+possibilité d'une chronicisation de la douleur postchirurgicale et il est probablement recommandé de rechercher, en préopératoire, les facteurs de risque de chronicisation que sont notamment l'intensité de la douleur préopératoire, le type de chirurgie, mais aussi la technique opératoire.
+
+Comme pour la préexistence d'une douleur préopératoire, une forte DPO, en particulier neuropathique, est prédictive d'un risque élevé de DCPC. Il est, par conséquent, recommandé de diagnostiquer et de prendre en charge rapidement une douleur neuropathique postopératoire. Il est probablement recommandé d'utiliser le questionnaire DN4 comme outil de dépistage.
+
+### 8.2. Quels moyens de prévention de la DCPC ?
+
+Trois moyens de prévention ont été retenus et font l'objet de recommandations :
+
+- • en cas de chirurgie très ou modérément douloureuse, il est recommandé d'utiliser en peropératoire de faibles doses de kétamine pour prévenir l'apparition de douleurs postopératoires chroniques ;
+- • l'infiltration d'anesthésiques locaux dans le site chirurgical limite probablement l'apparition de DCPC dans la chirurgie de prise de greffon osseux iliaque ;
+- • le bloc paravertébral est probablement recommandé pour réduire la DCPC après chirurgie majeure du sein.
+
+## 9. POURQUOI, QUAND ET COMMENT FAIRE UNE INFILTRATION DU SITE OPÉRATOIRE ?
+
+L'infiltration cicatricielle est une technique d'analésie locale. Elle consiste à administrer un agent analgésique directement dans les berges d'une cicatrice chirurgicale ou à distance, afin de bloquer la transmission des influx douloureux par les terminaisons distales. Certaines techniques d'infiltration sont communément appelées « blocs » (par exemple, ilio-inguinal/iliohypogastrique ou bloc du plexus cervical superficiel), alors qu'il s'agit d'injecter l'agent analgésique, sans repérage d'un nerf, dans un espace de diffusion où se situent les terminaisons distales des nerfs impliqués dans la sensibilité de la région opérée, ce qui rejoint la définition de l'infiltration locale.
+
+Les techniques d'infiltration constituent une alternative aux autres techniques d'ALR, comme les blocs nerveux périphériques et l'analésie péridurale. L'utilisation de l'infiltration doit toutefois respecter les recommandations concernant les doses maximales d'anesthésiques locaux.
+
+### 9.1. Infiltrations en injection unique
+
+Il est recommandé d'infiltrer la cicatrice de cholécystectomie par laparotomie et d'utiliser le bloc des droits pour l'anesthésie et l'analésie lors de la cure de hernie ombilicale. Concernant l'analésie après cholécystectomie et chirurgie gynécologique par laparoscopie, l'infiltration des orifices de trocarts et l'instillation intrapéritonéale sont recommandées. Pour les autres laparotomies abdominales, l'intérêt de l'infiltration cicatricielle en injection unique n'apparaît passignificatif en dehors du *Transversus Abdominal Plane block* (TAP block).
+
+Il est recommandé d'utiliser l'infiltration pour la cure de hernie inguinale avec un anesthésique local à longue durée d'action. L'injection dans les plans profonds ou le bloc ilio-inguinal sont plus efficaces que l'injection sous-cutanée. Cela s'applique également aux cicatrices transversales basses (par exemple, après césarienne sous anesthésie générale). Il est recommandé d'utiliser l'infiltration périanale « en quadrants » ou le bloc pudendal avec neurostimulation pour l'analgésie après chirurgie hémorroïdaire.
+
+Il est recommandé d'infiltrer la cicatrice de thyroïdectomie avec des anesthésiques locaux à longue durée d'action.
+
+## 9.2. Infiltrations continues
+
+Il est recommandé d'utiliser la perfusion continue cicatricielle sur la cicatrice des laparotomies sous-costales et médianes. Le cathéter de perfusion doit être placé dans les plans profonds de la paroi (préperitonéal). Il est recommandé d'utiliser l'infiltration continue dans les plans profonds après hystérectomie par voie abdominale et césarienne. Il est probablement recommandé d'utiliser la perfusion continue cicatricielle après la chirurgie majeure du sein et dans les cicatrices de curage axillaire. Cette technique est une alternative au bloc paravertébral qui est toutefois recommandé en priorité. En revanche, il n'est probablement pas utile d'utiliser une perfusion continue cicatricielle pour l'analgésie après cure de hernie inguinale bien que l'efficacité soit démontrée.
+
+Il est recommandé d'utiliser l'infiltration continue cicatricielle après chirurgie cardiaque. Le cathéter doit être placé sur la face antérieure du sternum. En chirurgie orthopédique et traumatologique, il est recommandé d'utiliser l'infiltration continue d'un anesthésique local par voie subacromiale après chirurgie de l'épaule. En chirurgie ouverte, le cathéter peut être placé en sous-cutané. L'efficacité est toutefois inférieure à celle d'une ALR plexique. De même, lors de la prise de greffon iliaque, il est recommandé d'utiliser l'infiltration continue à proximité de l'os. En revanche, il n'est probablement pas recommandé d'utiliser le cathéter intra-articulaire après chirurgie du genou. Les données actuelles suggèrent une efficacité analgésique limitée et un risque pour le cartilage.
+
+## 10. PLACE DE L'ALR DANS L'ANALGÉSIE POSTOPÉRATOIRE ?
+
+### 10.1. Règles générales d'utilisation d'une ALR
+
+Il est recommandé, chaque fois que possible, de proposer une technique d'analgésie utilisant les anesthésiques locaux et de préférer les blocs périphériques aux blocs centraux dès que possible, car ils sont associés à un meilleur rapport bénéfice/risque.
+
+Il est probablement recommandé d'utiliser de préférence la ropivacaïne ou la lévobupivacaïne pour l'analgésie péridurale ou les blocs nerveux périphériques du fait d'une moindre toxicité cardiaque que la bupivacaïne.
+
+Les recommandations pour la pratique clinique de l'ALR doivent être respectées pour l'information, la pose et la surveillance des cathéters nerveux ou périduraux pour l'analgésie postopératoire.
+
+Le repérage échographique est une alternative pour la localisation des nerfs périphériques. Il est recommandé de respecter les règles d'asepsie chirurgicale.
+
+Il est probablement recommandé d'associer une analgésie multimodale à une ALR, afin de compléter l'efficacité et/ou prévenir la douleur à la levée du bloc.
+
+### 10.2. Indications, techniques, avantages et risques des blocs du tronc
+
+Deux blocs font l'objet de recommandations pour certaines indications chirurgicales. Il s'agit du bloc paravertébral et du bloc interpleural. Les techniques périmédullaires sont abordées en Section 10.4. Les blocs ilio-inguinal et paraombilical sont abordés dans le chapitre « infiltrations ».
+
+Il est recommandé d'utiliser le bloc paravertébral, en injection unique, voire par cathéter, pour diminuer les scores de douleur et l'incidence des NVPO après chirurgie thoracique. Il représente une alternative utile à l'analgésie péridurale. Il est probablement recommandé d'utiliser le bloc paravertébral après chirurgie majeure du sein.
+
+Le bénéfice analgésique limité du bloc interpleural ne permet pas de contrebalancer le risque de résorption systémique des anesthésiques locaux. En conséquence, ce bloc ne peut être recommandé.
+
+### 10.3. Indications de l'analgésie par les blocs nerveux périphériques
+
+L'analgésie par cathéter nerveux périphérique est recommandée dès lors que la douleur prévisible modérée à sévère dure plus de 24 heures. Concernant les modalités de l'analgésie postopératoire, il est probablement recommandé d'utiliser le mode continu plus ACP périnerveuse pour l'administration d'anesthésiques locaux.
+
+Le risque de survenue d'un syndrome des loges n'est pas une contre-indication à la réalisation d'un bloc, sous réserve d'une surveillance adaptée, car la douleur n'est pas le seul critère diagnostique. En revanche, il n'est pas recommandé de mettre un cathéter en cas d'immobilisation plâtrée postopératoire.
+
+#### 10.3.1. Chirurgie du membre supérieur
+
+Pour l'analgésie postopératoire de la chirurgie de l'épaule, le bloc interscalénique est recommandé. En cas de contre-indication, des techniques alternatives sont probablement recommandées, comme le bloc suprascapulaire et les infiltrations intra-articulaires.
+
+Pour l'analgésie postopératoire de la chirurgie du bras et du coude, les blocs supraclavicaire ou infraclavicaire sont probablement recommandés.
+
+Pour l'analgésie postopératoire de la chirurgie de l'avant-bras, du poignet et de la main, les blocs axillaire ou au canal huméral sont probablement recommandés.Pour l'analgésie de la chirurgie des doigts, pour laquelle une rééducation active est nécessaire, les blocs tronculaires distaux sont probablement recommandés.
+
+### 10.3.2. Chirurgie du membre inférieur
+
+Il n'est pas recommandé d'utiliser l'analgésie péridurale car les blocs périphériques sont aussi efficaces, mais avec moins d'effets indésirables.
+
+Pour l'analgésie postopératoire après chirurgie de la hanche, il est probablement recommandé de réaliser un bloc fémoral. Pour l'analgésie postopératoire après chirurgie ou traumatisme de la diaphyse fémorale chez l'adulte et l'enfant, le bloc fémoral est recommandé.
+
+Pour l'analgésie postopératoire après chirurgie invasive du genou, telle que la prothèse totale de genou, il est recommandé d'utiliser un cathéter fémoral. Le bloc du nerf sciatique en injection unique est probablement recommandé en complément du bloc du nerf fémoral. Pour la chirurgie ligamentaire du genou, il est probablement recommandé de réaliser un bloc fémoral avec cathéter ou au moins une injection unique.
+
+En cas de chirurgie arthroscopique mineure du genou, l'administration intra-articulaire d'anesthésique local plus ou moins adjuvant ou un bloc fémoral en injection unique sont recommandés.
+
+Pour l'analgésie postopératoire après chirurgie de la jambe, de la cheville et du pied chez l'adulte et l'enfant, un bloc sciatique est recommandé.
+
+Il est probablement recommandé d'utiliser le bloc de cheville pour l'analgésie postopératoire après chirurgie mineure du pied. Un cathéter peut être inséré au niveau du nerf tibial à la cheville.
+
+### 10.4. Surveillance d'une analgésie sous-arachnoïdienne et indications de l'analgésie péridurale
+
+La surveillance d'une injection intrathécale de morphine peut être réalisée en secteur traditionnel si la dose injectée est inférieure ou égale à 0,1 mg chez le sujet ASA I ou II.
+
+Il est recommandé pour l'analgésie péridurale d'utiliser des anesthésiques locaux à faible concentration avec un morphinique et d'insérer le cathéter au milieu de la zone des dermatomes à bloquer.
+
+Il est recommandé d'utiliser l'analgésie périmédullaire après chirurgie thoracique ou intra-abdominale majeure (gastrique, pancréatique, colique, chirurgie du grêle, œsophage, cystectomie), afin d'améliorer l'analgésie, réduire la durée de l'iléus postopératoire et raccourcir le délai d'extubation.
+
+Il n'est probablement pas recommandé d'utiliser l'analgésie péridurale après chirurgie vasculaire périphérique car elle n'a aucun impact sur l'analgésie, la morbidité respiratoire et cardiovasculaire.
+
+## 10.5. Spécificités de l'anesthésie locorégionale chez l'enfant
+
+Chez l'enfant, une anesthésie locorégionale peut être réalisée chez un patient sédaté ou sous anesthésie générale.
+
+Il est recommandé de réaliser un bloc pénien pour assurer l'analgésie après circoncision chez l'enfant.
+
+## II. COMMENT ORGANISER L'ANALGÉSIE EN CHIRURGIE AMBULATOIRE ?
+
+### II.1. Quelles particularités de l'analgésie en ambulatoire et quelle organisation ?
+
+Il est recommandé que les établissements ayant une activité chirurgicale ambulatoire développent une stratégie spécifique de l'évaluation et du traitement de la DPO à domicile. Les protocoles de lutte contre la DPO doivent être évalués de manière régulière et pluridisciplinaire. Il est recommandé, pour les patients devant subir une intervention en ambulatoire, que les éléments prédictifs de la DPO et de la tolérance aux analgésiques prescrits à domicile soient appréciés et que les modalités de l'analgésie orale soient expliquées dès la consultation spécialisée préopératoire (chirurgie, anesthésie). Il est recommandé que les ordonnances d'antalgiques soient remises au patient dès la consultation de chirurgie ou d'anesthésie. Ces ordonnances d'antalgiques doivent préciser les horaires de prise d'antalgiques systématique et les conditions de recours aux antalgiques de niveau plus élevé si nécessaire. Il est recommandé pour les patients bénéficiant d'une prise en charge de la DPO à domicile par voie locorégionale que le médecin traitant en soit informé par avance et prévenu de la sortie du patient de la structure hospitalière.
+
+### II.2. Quelles modalités analgésiques spécifiques ?
+
+Il est recommandé, lorsque l'indication opératoire s'y prête, d'utiliser les infiltrations et les blocs périphériques en injection unique pour la chirurgie ambulatoire. La sortie du patient, malgré l'absence de levée du bloc, est possible si une analgésie de secours, le port d'attelles, une information écrite aux patients, une assistance à domicile et des procédures précises d'appel ont été prévus. Il est recommandé, lorsque des cathéters périnerveux sont envisagés pour traiter la DPO à domicile, que ces dispositifs soient réservés aux interventions dont la DPO est totalement, ou dans sa plus grande partie, couverte par le bloc périnerveux. Il est recommandé lorsque des cathéters périphériques sont utilisés pour traiter la DPO à domicile qu'un contact téléphonique quotidien soit réalisé.

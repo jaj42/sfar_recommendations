@@ -1,0 +1,105 @@
+{
+  "file_name": "2_AFAR_Prise-en-charge-des-sujets-en-etat-de-mort-encephalique-dans-loptique-dun-prelevement-dorganes.pdf",
+  "num_pages": 8,
+  "total_token_count": 15026,
+  "total_chunks": 93,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1782,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1974,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1844,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1917,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 2067,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 2203,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1813,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1426,
+      "num_chunks": 7,
+      "num_images": 0
+    }
+  ]
+}

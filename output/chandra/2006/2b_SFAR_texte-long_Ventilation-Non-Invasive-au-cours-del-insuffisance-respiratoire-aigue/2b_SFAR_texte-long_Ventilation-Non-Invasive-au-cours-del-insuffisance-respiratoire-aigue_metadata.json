@@ -1,0 +1,81 @@
+{
+  "file_name": "2b_SFAR_texte-long_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
+  "num_pages": 6,
+  "total_token_count": 6266,
+  "total_chunks": 41,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1110,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1205,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1004,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1095,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 902,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 950,
+      "num_chunks": 3,
+      "num_images": 0
+    }
+  ]
+}

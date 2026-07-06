@@ -1,0 +1,45 @@
+{
+  "file_name": "2_AFAR_Gestion-du-traitement-anti-plaquettaire-.pdf",
+  "num_pages": 3,
+  "total_token_count": 5181,
+  "total_chunks": 31,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2117
+      ],
+      "token_count": 1753,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2117
+      ],
+      "token_count": 1979,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2117
+      ],
+      "token_count": 1449,
+      "num_chunks": 6,
+      "num_images": 0
+    }
+  ]
+}

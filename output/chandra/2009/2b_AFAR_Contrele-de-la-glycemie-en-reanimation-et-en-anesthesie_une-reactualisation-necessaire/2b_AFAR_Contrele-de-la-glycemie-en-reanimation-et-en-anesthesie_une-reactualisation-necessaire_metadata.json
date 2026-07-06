@@ -1,0 +1,81 @@
+{
+  "file_name": "2b_AFAR_Contrele-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
+  "num_pages": 6,
+  "total_token_count": 14036,
+  "total_chunks": 153,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1605,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2277,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2197,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2755,
+      "num_chunks": 32,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2648,
+      "num_chunks": 36,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2554,
+      "num_chunks": 29,
+      "num_images": 0
+    }
+  ]
+}

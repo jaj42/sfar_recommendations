@@ -1,0 +1,33 @@
+{
+  "file_name": "2a_AFAR_UPDATE_Controle-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
+  "num_pages": 2,
+  "total_token_count": 3701,
+  "total_chunks": 42,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1828,
+      "num_chunks": 25,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1873,
+      "num_chunks": 17,
+      "num_images": 0
+    }
+  ]
+}

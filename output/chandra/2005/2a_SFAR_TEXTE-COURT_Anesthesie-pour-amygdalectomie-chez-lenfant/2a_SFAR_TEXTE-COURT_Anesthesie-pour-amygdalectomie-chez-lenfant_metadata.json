@@ -1,0 +1,105 @@
+{
+  "file_name": "2a_SFAR_TEXTE-COURT_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf",
+  "num_pages": 8,
+  "total_token_count": 9056,
+  "total_chunks": 85,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 568,
+      "num_chunks": 9,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1611,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1462,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1159,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1134,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1115,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 1101,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1274,
+        1818
+      ],
+      "token_count": 906,
+      "num_chunks": 6,
+      "num_images": 0
+    }
+  ]
+}

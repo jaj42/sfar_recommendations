@@ -1,0 +1,105 @@
+{
+  "file_name": "RFE-ACCPM-Eye-protection-in-anaesthesia-and-intensive-care.pdf",
+  "num_pages": 8,
+  "total_token_count": 18093,
+  "total_chunks": 144,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 3277,
+      "num_chunks": 52,
+      "num_images": 4
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2536,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2616,
+      "num_chunks": 32,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1427,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2117,
+        1588
+      ],
+      "token_count": 1820,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2117,
+        1588
+      ],
+      "token_count": 1718,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2117,
+        1588
+      ],
+      "token_count": 1874,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2825,
+      "num_chunks": 4,
+      "num_images": 0
+    }
+  ]
+}

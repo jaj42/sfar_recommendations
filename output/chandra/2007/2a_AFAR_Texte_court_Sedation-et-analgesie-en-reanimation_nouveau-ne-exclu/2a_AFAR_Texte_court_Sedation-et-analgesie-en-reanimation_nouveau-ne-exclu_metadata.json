@@ -1,0 +1,57 @@
+{
+  "file_name": "2a_AFAR_Texte_court_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf",
+  "num_pages": 4,
+  "total_token_count": 8521,
+  "total_chunks": 95,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1777,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2996,
+      "num_chunks": 33,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2434,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1314,
+      "num_chunks": 9,
+      "num_images": 0
+    }
+  ]
+}

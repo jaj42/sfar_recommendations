@@ -1,0 +1,45 @@
+{
+  "file_name": "2_AFAR_echographie-en-anesthesie-locoregionale.pdf",
+  "num_pages": 3,
+  "total_token_count": 4297,
+  "total_chunks": 45,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1600,
+      "num_chunks": 21,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2173,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 524,
+      "num_chunks": 6,
+      "num_images": 0
+    }
+  ]
+}

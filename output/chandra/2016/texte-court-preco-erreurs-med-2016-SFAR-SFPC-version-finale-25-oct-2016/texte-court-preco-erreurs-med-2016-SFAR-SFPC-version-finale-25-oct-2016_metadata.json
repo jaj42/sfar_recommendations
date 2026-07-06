@@ -1,0 +1,153 @@
+{
+  "file_name": "texte-court-preco-erreurs-med-2016-SFAR-SFPC-version-finale-25-oct-2016.pdf",
+  "num_pages": 12,
+  "total_token_count": 14471,
+  "total_chunks": 157,
+  "total_images": 14,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 597,
+      "num_chunks": 10,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2014,
+      "num_chunks": 37,
+      "num_images": 1
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1269,
+      "num_chunks": 13,
+      "num_images": 1
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1296,
+      "num_chunks": 13,
+      "num_images": 1
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1309,
+      "num_chunks": 11,
+      "num_images": 1
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1384,
+      "num_chunks": 16,
+      "num_images": 1
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1213,
+      "num_chunks": 15,
+      "num_images": 1
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1402,
+      "num_chunks": 12,
+      "num_images": 1
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1592,
+      "num_chunks": 18,
+      "num_images": 1
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1289,
+      "num_chunks": 4,
+      "num_images": 1
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 942,
+      "num_chunks": 5,
+      "num_images": 1
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 164,
+      "num_chunks": 3,
+      "num_images": 1
+    }
+  ]
+}

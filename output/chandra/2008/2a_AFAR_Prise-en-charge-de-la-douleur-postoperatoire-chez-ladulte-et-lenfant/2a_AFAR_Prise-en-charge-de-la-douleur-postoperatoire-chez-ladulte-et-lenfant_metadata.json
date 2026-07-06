@@ -1,0 +1,93 @@
+{
+  "file_name": "2a_AFAR_Prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant.pdf",
+  "num_pages": 7,
+  "total_token_count": 14864,
+  "total_chunks": 156,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1803,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2060,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2050,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2273,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2345,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2318,
+      "num_chunks": 28,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2015,
+      "num_chunks": 24,
+      "num_images": 0
+    }
+  ]
+}

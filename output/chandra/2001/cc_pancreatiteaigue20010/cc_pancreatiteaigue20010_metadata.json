@@ -1,0 +1,213 @@
+{
+  "file_name": "cc_pancreatiteaigue20010.pdf",
+  "num_pages": 17,
+  "total_token_count": 14785,
+  "total_chunks": 155,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 943,
+      "num_chunks": 21,
+      "num_images": 2
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 1467,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 435,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 716,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 264,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 896,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 882,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 980,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 1120,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 1257,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 742,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 806,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 801,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 909,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 867,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 917,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1590,
+        2246
+      ],
+      "token_count": 783,
+      "num_chunks": 7,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "file_name": "2_REANIMATION_epuration-extrarenale-en-reanimation-adulte-et-pediatrique.pdf",
+  "num_pages": 24,
+  "total_token_count": 52501,
+  "total_chunks": 400,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1627,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1692,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1995,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2197,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2107,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1934,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2051,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2121,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2081,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2033,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2048,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1997,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1862,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1999,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2129,
+      "num_chunks": 31,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2342,
+      "num_chunks": 33,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2224,
+      "num_chunks": 30,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2352,
+      "num_chunks": 28,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 1896,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2877,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2938,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 21,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2785,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 22,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2911,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 23,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2109
+      ],
+      "token_count": 2303,
+      "num_chunks": 4,
+      "num_images": 0
+    }
+  ]
+}

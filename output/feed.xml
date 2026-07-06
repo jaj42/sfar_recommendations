@@ -1,0 +1,2640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SFAR — Recommandations</title>
+  <id>https://sfar.org/recommandations/</id>
+  <link rel="self" href="feed.xml" />
+  <link rel="alternate" href="https://sfar.org/les-referentiels/" />
+  <updated>2026-01-01T00:00:00Z</updated>
+  <author>
+    <name>SFAR</name>
+  </author>
+  <entry>
+    <title>Gestion des anticoagulants pour une procédure invasive programmée</title>
+    <id>https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Place de l’ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l’adulte et modalités de traitement en cas de colonisation</title>
+    <id>https://www.urofrance.org/wp-content/uploads/2026/03/RecoCIAFU_ECBU_Note-de-cadrage_10.10.2024.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandation-de-bonne-pratique-place-de-lecbu-avant-une-prise-en-charge-urologique-chirurgicale-ou-interventionnelle-chez-ladulte-et-modalites-de-traitement-en-cas-de-coloni/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Place de l’ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l’adulte et modalités de traitement en cas de colonisation</title>
+    <id>https://www.urofrance.org/wp-content/uploads/2026/03/Reco_ECBU_Synthese_23.02.2023_MEL.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandation-de-bonne-pratique-place-de-lecbu-avant-une-prise-en-charge-urologique-chirurgicale-ou-interventionnelle-chez-ladulte-et-modalites-de-traitement-en-cas-de-coloni/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Place de l’ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l’adulte et modalités de traitement en cas de colonisation</title>
+    <id>https://www.urofrance.org/wp-content/uploads/2026/03/Reco_ECBU_Argumentaire_23.02.2026_MEL.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandation-de-bonne-pratique-place-de-lecbu-avant-une-prise-en-charge-urologique-chirurgicale-ou-interventionnelle-chez-ladulte-et-modalites-de-traitement-en-cas-de-coloni/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Place de l’ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l’adulte et modalités de traitement en cas de colonisation</title>
+    <id>https://www.urofrance.org/wp-content/uploads/2026/03/Tableau-de-synthese_23.02.2026_MEL.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandation-de-bonne-pratique-place-de-lecbu-avant-une-prise-en-charge-urologique-chirurgicale-ou-interventionnelle-chez-ladulte-et-modalites-de-traitement-en-cas-de-coloni/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Diagnostic et prise en charge des réactions d’hypersensibilité immédiate périopératoires</title>
+    <id>wpdmdl:103153</id>
+    <link rel="alternate" href="https://sfar.org/diagnostic-et-prise-en-charge-des-reactions-dhypersensibilite-immediate-perioperatoires/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Décisions de limitation et d’arrêt de traitements (LAT) en soins critiques de l’adulte</title>
+    <id>wpdmdl:123089</id>
+    <link rel="alternate" href="https://sfar.org/decisions-de-limitation-et-darret-de-traitements-lat-en-soins-critiques-de-ladulte/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Intubation en urgence d’un adulte hors bloc opératoire et hors unité des soins critiques</title>
+    <id>wpdmdl:103152</id>
+    <link rel="alternate" href="https://sfar.org/intubation-en-urgence-dun-adulte-hors-bloc-operatoire-et-hors-unite-des-soins-critiques/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la douleur de l’accouchement : analgésie périmédullaire et alternatives médicamenteuses</title>
+    <id>wpdmdl:106109</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-douleur-de-laccouchement-analgesie-perimedullaire-et-alternatives-medicamenteuses/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la douleur de l’accouchement : analgésie périmédullaire et alternatives médicamenteuses</title>
+    <id>wpdmdl:106110</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-douleur-de-laccouchement-analgesie-perimedullaire-et-alternatives-medicamenteuses/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du patient diabétique en péri opératoire</title>
+    <id>wpdmdl:122568</id>
+    <link rel="alternate" href="https://sfar.org/download/prise-en-charge-du-patient-diabetique-en-peri-operatoire/?wpdmdl=122568" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du sepsis du nouveau-né, de l’enfant et de l’adulte – HAS 2025</title>
+    <id>wpdmdl:75093</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-sepsis-du-nouveau-ne-de-lenfant-et-de-ladulte-has-2025/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="HAS" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>HAS · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du sepsis du nouveau-né, de l’enfant et de l’adulte – HAS 2025</title>
+    <id>wpdmdl:75097</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-sepsis-du-nouveau-ne-de-lenfant-et-de-ladulte-has-2025/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="HAS" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>HAS · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du sepsis du nouveau-né, de l’enfant et de l’adulte – HAS 2025</title>
+    <id>wpdmdl:75094</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-sepsis-du-nouveau-ne-de-lenfant-et-de-ladulte-has-2025/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="HAS" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>HAS · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du sepsis du nouveau-né, de l’enfant et de l’adulte – HAS 2025</title>
+    <id>wpdmdl:75095</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-sepsis-du-nouveau-ne-de-lenfant-et-de-ladulte-has-2025/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="HAS" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>HAS · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge neurochirurgicales des traumatismes cranio-encéphaliques de l’adulte et de l’enfant à la phase initiale</title>
+    <id>wpdmdl:123224</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-neurochirurgicales-des-traumatismes-cranio-encephaliques-de-ladulte-et-de-lenfant-a-la-phase-initiale/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge neurochirurgicales des traumatismes cranio-encéphaliques de l’adulte et de l’enfant à la phase initiale</title>
+    <id>wpdmdl:123225</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-neurochirurgicales-des-traumatismes-cranio-encephaliques-de-ladulte-et-de-lenfant-a-la-phase-initiale/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge péri-opératoire du patient adulte lors d’une résection hépatique</title>
+    <id>wpdmdl:123091</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-peri-operatoire-du-patient-adulte-lors-dune-resection-hepatique/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge péri-opératoire du patient adulte lors d’une résection hépatique</title>
+    <id>wpdmdl:123093</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-peri-operatoire-du-patient-adulte-lors-dune-resection-hepatique/" />
+    <updated>2025-01-01T00:00:00Z</updated>
+    <published>2025-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2025" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2025</summary>
+  </entry>
+  <entry>
+    <title>Gestion de l’anticoagulation dans un contexte d’urgence</title>
+    <id>wpdmdl:62045</id>
+    <link rel="alternate" href="https://sfar.org/gestion-de-lanticoagulation-dans-un-contexte-durgence/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Gestion de l’anticoagulation dans un contexte d’urgence</title>
+    <id>wpdmdl:62059</id>
+    <link rel="alternate" href="https://sfar.org/gestion-de-lanticoagulation-dans-un-contexte-durgence/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Optimisation hémodynamique périopératoire – Adulte dont obstétrique</title>
+    <id>wpdmdl:62044</id>
+    <link rel="alternate" href="https://sfar.org/optimisation-hemodynamique-perioperatoire-adulte-dont-obstetrique/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Optimisation hémodynamique périopératoire – Pédiatrie</title>
+    <id>wpdmdl:62046</id>
+    <link rel="alternate" href="https://sfar.org/optimisation-hemodynamique-perioperatoire-pediatrie/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Prévention des erreurs médicamenteuses</title>
+    <id>wpdmdl:68460</id>
+    <link rel="alternate" href="https://sfar.org/prevention-des-erreurs-medicamenteuses-en-anesthesie-reanimation/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Préconisations pour les ressources humaines médicales en anesthésie programmée</title>
+    <id>wpdmdl:72905</id>
+    <link rel="alternate" href="https://sfar.org/preconisations-pour-les-ressources-humaines-medicales-en-anesthesie-programmee/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Prévention de la maladie thromboembolique veineuse péri-opératoire</title>
+    <id>wpdmdl:62247</id>
+    <link rel="alternate" href="https://sfar.org/prevention-de-la-maladie-thromboembolique-veineuse-peri-operatoire/" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2024</summary>
+  </entry>
+  <entry>
+    <title>Recommandations de bonne pratique relatives aux démarches anticipées en vue de don d’organes et de tissus</title>
+    <id>https://sfar.org/wp-content/uploads/2024/10/RBP-deimarches-anticipeies_12_10_24.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2024/10/RBP-deimarches-anticipeies_12_10_24.pdf" />
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2024" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie | Reanimation · 2024</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie pour chirurgie non cardiaque des patients adultes porteurs de cardiopathie congénitale</title>
+    <id>wpdmdl:50052</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-pour-chirurgie-non-cardiaque-des-patients-adultes-porteurs-de-cardiopathie-congenitale/" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2023" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2023</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie pour chirurgie non cardiaque des patients adultes porteurs de cardiopathie congénitale</title>
+    <id>wpdmdl:50051</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-pour-chirurgie-non-cardiaque-des-patients-adultes-porteurs-de-cardiopathie-congenitale/" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2023" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2023</summary>
+  </entry>
+  <entry>
+    <title>Antibioprophylaxie en chirurgie et médecine interventionnelle</title>
+    <id>wpdmdl:68362</id>
+    <link rel="alternate" href="https://sfar.org/antibioprophylaxie-en-chirurgie-et-medecine-interventionnelle/" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2023" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2023</summary>
+  </entry>
+  <entry>
+    <title>Organisation de l’anesthésie pédiatrique</title>
+    <id>wpdmdl:43179</id>
+    <link rel="alternate" href="https://sfar.org/organisation-de-lanesthesie-pediatrique/" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2023" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2023</summary>
+  </entry>
+  <entry>
+    <title>Épanchement pleural liquidien de l’adulte en soins critiques</title>
+    <id>wpdmdl:50053</id>
+    <link rel="alternate" href="https://sfar.org/epanchement-pleural-liquidien-de-ladulte-en-soins-critiques/" />
+    <updated>2023-01-01T00:00:00Z</updated>
+    <published>2023-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2023" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie | Reanimation · 2023</summary>
+  </entry>
+  <entry>
+    <title>Facteurs humains en situations critiques</title>
+    <id>wpdmdl:37888</id>
+    <link rel="alternate" href="https://sfar.org/facteurs-humains-en-situations-critiques/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge anesthésique péri procédurale d’une revascularisation cérébrale par thrombectomie</title>
+    <id>wpdmdl:37892</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-anesthesique-peri-procedurale-dune-revascularisation-cerebrale-par-thrombectomie/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Reanimation · 2022</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des patients présentant un traumatisme crânien léger de l’adulte</title>
+    <id>wpdmdl:37891</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-patients-presentant-un-traumatisme-cranien-leger-de-ladulte/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Reanimation · 2022</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des urgences obstétricales en médecine d’urgence</title>
+    <id>wpdmdl:36656</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-urgences-obstetricales-en-medecine-durgence/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Programme d’optimisation périopératoire du patient adulte</title>
+    <id>wpdmdl:37889</id>
+    <link rel="alternate" href="https://sfar.org/programme-doptimisation-perioperatoire-du-patient-adulte/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Préconisations pour l’adaptation de l’offre de soins en anesthésie-réanimation dans le contexte de pandémie de COVID-19 /Version Avril 2022</title>
+    <id>wpdmdl:46999</id>
+    <link rel="alternate" href="https://sfar.org/preconisations-pour-ladaptation-de-loffre-de-soins-en-anesthesie-reanimation-dans-le-contexte-de-pandemie-de-covid-19/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Préconisations pour l’adaptation de l’offre de soins en anesthésie-réanimation dans le contexte de pandémie de COVID-19 /Version Avril 2022</title>
+    <id>wpdmdl:36924</id>
+    <link rel="alternate" href="https://sfar.org/preconisations-pour-ladaptation-de-loffre-de-soins-en-anesthesie-reanimation-dans-le-contexte-de-pandemie-de-covid-19/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Réduction de l’impact environnemental de l’anesthésie générale</title>
+    <id>wpdmdl:37890</id>
+    <link rel="alternate" href="https://sfar.org/reduction-de-limpact-environnemental-de-lanesthesie-generale/" />
+    <updated>2022-01-01T00:00:00Z</updated>
+    <published>2022-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2022" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2022</summary>
+  </entry>
+  <entry>
+    <title>Choix du soluté pour le remplissage vasculaire en situation critique</title>
+    <id>wpdmdl:35406</id>
+    <link rel="alternate" href="https://sfar.org/choix-du-solute-pour-le-remplissage-vasculaire-en-situation-critique/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Urgences · 2021</summary>
+  </entry>
+  <entry>
+    <title>Gestion des patients sous AOD (dabigatran) en urgence</title>
+    <id>wpdmdl:34412</id>
+    <link rel="alternate" href="https://sfar.org/download/gestion-perioperatoire-des-patients-sous-aod-en-urgence/?wpdmdl=34412" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Gestion perioperatoire des patients sous AAP en urgence</title>
+    <id>wpdmdl:34414</id>
+    <link rel="alternate" href="https://sfar.org/download/gestion-perioperatoire-des-patients-sous-aap-en-urgence/?wpdmdl=34414" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Gestion perioperatoire des patients sous AOD pour un acte programmé</title>
+    <id>wpdmdl:33608</id>
+    <link rel="alternate" href="https://sfar.org/download/gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/?wpdmdl=33608" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Gestion périopératoire des AOD en urgence</title>
+    <id>wpdmdl:34804</id>
+    <link rel="alternate" href="https://sfar.org/download/gestion-perioperatoire-des-aod-en-urgence/?wpdmdl=34804" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Insuffisance d’analgésie au cours de la césarienne sous anesthésie périmédullaire</title>
+    <id>wpdmdl:32629</id>
+    <link rel="alternate" href="https://sfar.org/download/preconisations-insuffisance-danalgesie-au-cours-de-la-cesarienne-sous-anesthesie-perimedullaire-prevention-prise-en-charge-immediate-et-differee/?wpdmdl=32629" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Pancréatite aigüe du patient adulte en soins critiques</title>
+    <id>wpdmdl:35411</id>
+    <link rel="alternate" href="https://sfar.org/pancreatite-aigue-grave-du-patient-adulte-en-soins-critiques/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2021</summary>
+  </entry>
+  <entry>
+    <title>Réhabilitation améliorée après chirurgie cardiaque adulte sous CEC ou à cœur battant</title>
+    <id>wpdmdl:35416</id>
+    <link rel="alternate" href="https://sfar.org/rehabilitation-amelioree-apres-chirurgie-cardiaque-adulte-sous-cec-ou-a-coeur-battant/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Tenue vestimentaire au bloc opératoire</title>
+    <id>wpdmdl:35399</id>
+    <link rel="alternate" href="https://sfar.org/tenue-vestimentaire-au-bloc-operatoire/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Tests viscoélastiques</title>
+    <id>wpdmdl:34421</id>
+    <link rel="alternate" href="https://sfar.org/download/tests-viscoelastiques-2018/?wpdmdl=34421" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Téléconsultation d’anesthésie</title>
+    <id>wpdmdl:34983</id>
+    <link rel="alternate" href="https://sfar.org/teleconsultation-danesthesie/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Téléconsultation d’anesthésie</title>
+    <id>wpdmdl:34984</id>
+    <link rel="alternate" href="https://sfar.org/teleconsultation-danesthesie/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Téléconsultation d’anesthésie</title>
+    <id>wpdmdl:34986</id>
+    <link rel="alternate" href="https://sfar.org/teleconsultation-danesthesie/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Téléconsultation d’anesthésie</title>
+    <id>wpdmdl:34987</id>
+    <link rel="alternate" href="https://sfar.org/teleconsultation-danesthesie/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Téléconsultation d’anesthésie</title>
+    <id>wpdmdl:34988</id>
+    <link rel="alternate" href="https://sfar.org/teleconsultation-danesthesie/" />
+    <updated>2021-01-01T00:00:00Z</updated>
+    <published>2021-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2021" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · Anesthesie · 2021</summary>
+  </entry>
+  <entry>
+    <title>Indications de transfusion de plasmas lyophilisés (PLYO) chez un patient en choc hémorragique ou à risque de transfusion massive en milieu civil</title>
+    <id>wpdmdl:30312</id>
+    <link rel="alternate" href="https://sfar.org/indications-de-transfusion-de-plasmas-lyophilises-plyo-chez-un-patient-en-choc-hemorragique-ou-a-risque-de-transfusion-massive-en-milieu-civil/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RPP" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RPP · Anesthesie · 2020</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la patiente avec une pré-éclampsie sévère</title>
+    <id>wpdmdl:34698</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-patiente-avec-une-pre-eclampsie-severe/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2020</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la patiente avec une pré-éclampsie sévère</title>
+    <id>wpdmdl:30302</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-patiente-avec-une-pre-eclampsie-severe/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2020</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des patients présentant un traumatisme sévère de membre(s)</title>
+    <id>wpdmdl:30307</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-patients-presentant-un-traumatisme-severe-de-membres/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2020</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des patients présentant un traumatisme sévère de membre(s)</title>
+    <id>wpdmdl:30308</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-patients-presentant-un-traumatisme-severe-de-membres/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2020</summary>
+  </entry>
+  <entry>
+    <title>Évaluation du risque Covid-19 et impact sur la prise en charge en endoscopie digestive</title>
+    <id>wpdmdl:26319</id>
+    <link rel="alternate" href="https://sfar.org/evaluation-du-risque-covid-19-et-impact-sur-la-prise-en-charge-en-endoscopie-digestive/" />
+    <updated>2020-01-01T00:00:00Z</updated>
+    <published>2020-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2020" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2020</summary>
+  </entry>
+  <entry>
+    <title>Diagnostic et prise en charge d’une thrombopénie induite par l’héparine</title>
+    <id>wpdmdl:34610</id>
+    <link rel="alternate" href="https://sfar.org/download/diagnostic-et-prise-en-charge-dune-thrombopenie-induite-par-lheparine/?wpdmdl=34610" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="Preconisation" scheme="https://sfar.org/ns/type" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>Preconisation · 2019</summary>
+  </entry>
+  <entry>
+    <title>Gestion et prévention de l’anémie (hors hémorragie aigüe) chez le patient adulte de soins critiques</title>
+    <id>wpdmdl:24462</id>
+    <link rel="alternate" href="https://sfar.org/gestion-et-prevention-de-lanemie-hors-hemorragie-aigue-chez-le-patient-adulte-de-soins-critiques/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2019</summary>
+  </entry>
+  <entry>
+    <title>Gestion et prévention de l’anémie (hors hémorragie aigüe) chez le patient adulte de soins critiques</title>
+    <id>wpdmdl:24482</id>
+    <link rel="alternate" href="https://sfar.org/gestion-et-prevention-de-lanemie-hors-hemorragie-aigue-chez-le-patient-adulte-de-soins-critiques/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2019</summary>
+  </entry>
+  <entry>
+    <title>Intérêts de l’apprentissage par simulation en soins critiques</title>
+    <id>https://sfar.org/wp-content/uploads/2019/05/rfe-interets-de-lapprentissage-par-simulation-en-soins-critiques.pdf</id>
+    <link rel="alternate" href="https://sfar.org/interets-de-lapprentissage-par-simulation-en-soins-critiques/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’Hyperthermie Maligne</title>
+    <id>wpdmdl:24495</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-lhyperthermie-maligne/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’Hyperthermie Maligne</title>
+    <id>wpdmdl:24496</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-lhyperthermie-maligne/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des patients présentant, ou à risque, de traumatisme vertébromédullaire</title>
+    <id>wpdmdl:24464</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-patients-presentant-ou-a-risque-de-traumatisme-vertebromedullaire/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des patients présentant, ou à risque, de traumatisme vertébromédullaire</title>
+    <id>wpdmdl:24487</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-patients-presentant-ou-a-risque-de-traumatisme-vertebromedullaire/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant</title>
+    <id>wpdmdl:24465</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant</title>
+    <id>wpdmdl:24489</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant</title>
+    <id>wpdmdl:24491</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du traumatisme abdominal grave de l’adulte : les 48 premières heures</title>
+    <id>wpdmdl:24463</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-traumatisme-abdominal-grave-de-ladulte-les-48-premieres-heures/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du traumatisme abdominal grave de l’adulte : les 48 premières heures</title>
+    <id>wpdmdl:24485</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-traumatisme-abdominal-grave-de-ladulte-les-48-premieres-heures/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Propositions du GIHP et du GFHT pour le diagnostic et la prise en charge d’une thrombopénie induite par l’héparine</title>
+    <id>wpdmdl:24461</id>
+    <link rel="alternate" href="https://sfar.org/propositions-tih-gihp-gfht-sfar/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prévention et prise en charge des effets indésirables pouvant survenir après une ponction lombaire</title>
+    <id>https://www.has-sante.fr/upload/docs/application/pdf/2019-07/fm_ponction_lombaire.pdf</id>
+    <link rel="alternate" href="https://www.has-sante.fr/upload/docs/application/pdf/2019-07/fm_ponction_lombaire.pdf" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="HAS" scheme="https://sfar.org/ns/type" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>HAS · 2019</summary>
+  </entry>
+  <entry>
+    <title>Réhabilitation améliorée après chirurgie orthopédique lourde du membre inférieur (Arthroplastie de hanche et de genou hors fracture)</title>
+    <id>wpdmdl:24459</id>
+    <link rel="alternate" href="https://sfar.org/rehabilitation-amelioree-chirurgie-orthopedique-lourde-membre-inferieur/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2019</summary>
+  </entry>
+  <entry>
+    <title>Réhabilitation améliorée après lobectomie pulmonaire</title>
+    <id>wpdmdl:24440</id>
+    <link rel="alternate" href="https://sfar.org/rehabilitation-amelioree-apres-lobectomie-pulmonaire/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2019</summary>
+  </entry>
+  <entry>
+    <title>Antibioprophylaxie en chirurgie et médecine interventionnelle (patients adultes)</title>
+    <id>https://sfar.org/wp-content/uploads/2018/07/Antibioprophylaxie-RFE-mise-a-jour-2018.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antibioprophylaxie-en-chirurgie-et-medecine-interventionnelle-patients-adultes-maj2018/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Curarisation et décurarisation en anesthésie</title>
+    <id>https://sfar.org/wp-content/uploads/2018/10/2_RFE-CURARE-3.pdf</id>
+    <link rel="alternate" href="https://sfar.org/curarisation-et-decurarisation-en-anesthesie/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Gestion des agents antiplaquettaires en cas de procédure invasive non programmée ou d’hémorragie</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/management-of-antiplatelet-therapy-for-non-elective-invasive-procedures-or-bleeding-complications.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-des-agents-antiplaquettaires-en-cas-de-procedure-invasive-non-programmee-ou-dhemorragie/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Gestion des agents antiplaquettaires en cas de procédure invasive non programmée ou d’hémorragie</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-gestion-des-agents-antiplaquettaires.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-des-agents-antiplaquettaires-en-cas-de-procedure-invasive-non-programmee-ou-dhemorragie/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Gestion des agents antiplaquettaires pour une procédure invasive programmée</title>
+    <id>https://sfar.org/wp-content/uploads/2018/03/ACCPM-335.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-agents-antiplaquettaires-procedure-invasive-programmee/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Gestion des agents antiplaquettaires pour une procédure invasive programmée</title>
+    <id>https://sfar.org/wp-content/uploads/2018/03/2_Gestion-des-agents-antiplaquettaires-pour-une-procedure-invasive-programmee.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-agents-antiplaquettaires-procedure-invasive-programmee/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Gestion des voies aériennes de l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-gestion-des-voies-aeriennes-de-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-des-voies-aeriennes-de-lenfant/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Insuffisance hépatique en soins critiques</title>
+    <id>https://sfar.org/wp-content/uploads/2018/09/RFE-IH-soins-critiques.pdf</id>
+    <link rel="alternate" href="https://sfar.org/insuffisance-hepatique-en-soins-critiques/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2018</summary>
+  </entry>
+  <entry>
+    <title>Optimisation du traitement par Bêta-Lactamines chez le patient de soins critiques</title>
+    <id>https://sfar.org/wp-content/uploads/2018/09/RPP_beta-lactamines-en-soins-critiques_041018_logoSFPT.pdf</id>
+    <link rel="alternate" href="https://sfar.org/optimisation-du-traitement-par-beta-lactamines-chez-le-patient-de-soins-critiques/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2018</summary>
+  </entry>
+  <entry>
+    <title>Prévention de l’hypothermie peropératoire accidentelle au bloc opératoire chez l’adulte</title>
+    <id>https://sfar.org/wp-content/uploads/2018/09/2_RFE-Hypothermie-Version-Finale-_-Validee-CRC120618.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prevention-de-lhypothermie-peroperatoire-accidentelle-au-bloc-operatoire-chez-ladulte/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2018</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour la prise en charge du SDRA</title>
+    <id>https://sfar.org/wp-content/uploads/2018/03/2_Recos-SDRA.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-prise-charge-sdra/" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2018</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour le fonctionnement des USC dans les établissements de santé</title>
+    <id>https://sfar.org/wp-content/uploads/2018/05/EXTE-USC-CNP.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2018/05/EXTE-USC-CNP.pdf" />
+    <updated>2018-01-01T00:00:00Z</updated>
+    <published>2018-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2018" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2018</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie du sujet âgé : l’exemple de fracture de l’extrémité supérieure du fémur</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-anesthesie-du-sujet-age.pdf</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-du-sujet-age-lexemple-de-fracture-de-lextremite-superieure-du-femur/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2017</summary>
+  </entry>
+  <entry>
+    <title>Antibioprophylaxie en chirurgie et médecine interventionnelle (patients adultes)</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-antibioprophylaxie-in-surgery-and-interventional-medicine.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antibioprophylaxie-en-chirurgie-et-medecine-interventionnelle-patients-adultes-2017/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2017</summary>
+  </entry>
+  <entry>
+    <title>Antibioprophylaxie en chirurgie et médecine interventionnelle (patients adultes)</title>
+    <id>https://sfar.org/wp-content/uploads/2018/08/Antibioprophylaxie-version-2017-CRC_CA_MODIF.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antibioprophylaxie-en-chirurgie-et-medecine-interventionnelle-patients-adultes-2017/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2017</summary>
+  </entry>
+  <entry>
+    <title>Intubation difficile et extubation en anesthésie chez l’adulte</title>
+    <id>https://sfar.org/wp-content/uploads/2017/09/RFE-ANREA-Intubation-difficile-et-extubation-en-anesthesie-chez-l-adulte.pdf</id>
+    <link rel="alternate" href="https://sfar.org/actualisation-de-recommandations-intubation-difficile-et-extubation-en-anesthesie-chez-ladulte/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2017</summary>
+  </entry>
+  <entry>
+    <title>Pertinence de la prescription des examens biologiques et de la radiographie thoracique en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2017/01/2_RFE-EC-en-rea-version-15-12-16.pdf</id>
+    <link rel="alternate" href="https://sfar.org/pertinence-de-la-prescription-des-examens-biologiques-et-de-la-radiographie-thoracique-en-reanimation/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2017</summary>
+  </entry>
+  <entry>
+    <title>Pneumonies associées aux soins de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2017/09/RFE-Hospital-acquired-pneumonia-in-ICU.pdf</id>
+    <link rel="alternate" href="https://sfar.org/pneumonies-associees-aux-soins-de-reanimation/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2017</summary>
+  </entry>
+  <entry>
+    <title>Pneumonies associées aux soins de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2017/09/Pneumonies-associees-au-soins-de-reanimation-ANREA.pdf</id>
+    <link rel="alternate" href="https://sfar.org/pneumonies-associees-aux-soins-de-reanimation/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2017</summary>
+  </entry>
+  <entry>
+    <title>Prise en charges des traumatises pelviens graves à la phase précoce (24 premières heures)</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-early-management-of-severe-pelvic-injury.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-charges-traumatises-pelviens-graves-a-phase-precoce-24-premieres-heures/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2017</summary>
+  </entry>
+  <entry>
+    <title>Prise en charges des traumatises pelviens graves à la phase précoce (24 premières heures)</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-prise-en-charge-des-traumatises-pelviens-graves-a-la-phase-precoce.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-charges-traumatises-pelviens-graves-a-phase-precoce-24-premieres-heures/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2017</summary>
+  </entry>
+  <entry>
+    <title>Trachéotomie en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2017/01/Tracheotomy-in-the-ICU-ACCPM.pdf</id>
+    <link rel="alternate" href="https://sfar.org/tracheotomie-en-reanimation/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2017</summary>
+  </entry>
+  <entry>
+    <title>Trachéotomie en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2017/01/Tracheotomie-en-reanimation-ANREA.pdf</id>
+    <link rel="alternate" href="https://sfar.org/tracheotomie-en-reanimation/" />
+    <updated>2017-01-01T00:00:00Z</updated>
+    <published>2017-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2017" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2017</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie Loco-Régionale périnerveuse</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-anesthesie-loco-regionale-perinerveuse.pdf</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-loco-regionale-perinerveuse/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Contrôle cible de la température en réanimation (hors nouveau-nés)</title>
+    <id>https://sfar.org/wp-content/uploads/2016/05/RFE-Targeted-temperature-management-in-the-ICU-Guidelines-from-a-French-expert-panel.pdf</id>
+    <link rel="alternate" href="https://sfar.org/controle-cible-de-la-temperature-en-reanimation-hors-nouveau-nes/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2016</summary>
+  </entry>
+  <entry>
+    <title>Contrôle cible de la température en réanimation (hors nouveau-nés)</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-controle-cible-de-la-temperature-en-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/controle-cible-de-la-temperature-en-reanimation-hors-nouveau-nes/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2016</summary>
+  </entry>
+  <entry>
+    <title>Intubation et extubation du patient de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/09/RFE-Intubation-and-extubation-of-the-ICU-patient.pdf</id>
+    <link rel="alternate" href="https://sfar.org/intubation-et-extubation-du-patient-de-reanimation/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Intubation et extubation du patient de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/09/Intubation-et-extubation-du-patient-en-reanimation-ANREA.pdf</id>
+    <link rel="alternate" href="https://sfar.org/intubation-et-extubation-du-patient-de-reanimation/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Organisation de l’Anesthésie-Réanimation Obstétricale</title>
+    <id>https://sfar.org/wp-content/uploads/2018/03/RFE-ANREA-Organisation-de-l-anesthesie-reanimation-obstetricale.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2018/03/RFE-ANREA-Organisation-de-l-anesthesie-reanimation-obstetricale.pdf" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des traumatisés crâniens graves à la phase précoce (24 premières heures)</title>
+    <id>https://sfar.org/wp-content/uploads/2016/09/RFE-Management-of-severe-traumatic-brain-injury.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-traumatises-craniens-graves-a-la-phase-precoce/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2016</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des traumatisés crâniens graves à la phase précoce (24 premières heures)</title>
+    <id>https://sfar.org/wp-content/uploads/2017/09/RFE-ANREA-Prise-en-charge-des-traumatises-craniens-graves-a-la-phase-precoce.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-traumatises-craniens-graves-a-la-phase-precoce/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2016</summary>
+  </entry>
+  <entry>
+    <title>Protection oculaire en Anesthésie et Réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/03/RFE-ACCPM-Eye-protection-in-anaesthesia-and-intensive-care.pdf</id>
+    <link rel="alternate" href="https://sfar.org/protection-oculaire-en-anesthesie-et-reanimation/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Protection oculaire en Anesthésie et Réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/03/Protection-oculaire-en-Anesthesie-et-Reanimation-1.pdf</id>
+    <link rel="alternate" href="https://sfar.org/protection-oculaire-en-anesthesie-et-reanimation/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Préparation colique et anesthésie générale</title>
+    <id>https://sfar.org/wp-content/uploads/2019/04/preparation-colique-anesthesie-generale.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2019/04/preparation-colique-anesthesie-generale.pdf" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Prévention des erreurs médicamenteuses en A-R</title>
+    <id>https://sfar.org/wp-content/uploads/2016/11/texte-court-preco-erreurs-med-2016-SFAR-SFPC-version-finale-25-oct-2016.pdf</id>
+    <link rel="alternate" href="https://sfar.org/preconisations-2016-prevention-des-erreurs-medicamenteuses-en-a-r/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Prévention des erreurs médicamenteuses en A-R</title>
+    <id>https://sfar.org/wp-content/uploads/2016/11/texte-long-Preconisations-2016-erreurs-med-SFAR-SFPC-version-finale-25-oct-2016.pdf</id>
+    <link rel="alternate" href="https://sfar.org/preconisations-2016-prevention-des-erreurs-medicamenteuses-en-a-r/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>wpdmdl:53010</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>wpdmdl:53268</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>wpdmdl:53011</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>wpdmdl:53272</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2016/09/RFE-Guidelines-on-smoking-management-during-the-perioperative-period.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la prise en charge du tabagisme en période péri opératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2016/08/2-SFAR-RFE-tabac_proposition-CRC.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-prise-en-charge-du-tabagisme-en-periode-perioperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2016</summary>
+  </entry>
+  <entry>
+    <title>Réactualisation de la recommandation sur la douleur postopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2019/10/rfe-revision-of-expert-panel-guidelines-on-postoperative-pain-management.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Réactualisation de la recommandation sur la douleur postopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2016/09/RFE-ANREA-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Réactualisation de la recommandation sur la douleur postopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2016/08/3-Tableaux-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire/" />
+    <updated>2016-01-01T00:00:00Z</updated>
+    <published>2016-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2016" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2016</summary>
+  </entry>
+  <entry>
+    <title>Insuffisance rénale aiguë en périopératoire et en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/RFE-IRA-anglais.pdf</id>
+    <link rel="alternate" href="https://sfar.org/insuffisance-renale-aigue/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2015</summary>
+  </entry>
+  <entry>
+    <title>Insuffisance rénale aiguë en périopératoire et en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/05/ANREA_132_RFE-IRA-.pdf</id>
+    <link rel="alternate" href="https://sfar.org/insuffisance-renale-aigue/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2015</summary>
+  </entry>
+  <entry>
+    <title>La gestion périopératoire des patients sous AOD pour un acte programmé</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/Reactualisation-GIHP_AOD_actes-programmes_Septembre-20151.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2015/09/Reactualisation-GIHP_AOD_actes-programmes_Septembre-20151.pdf" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2015</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des infections intra-abdominales</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/RFE-Guidelines-for-management-of-intra-abdominal-infections.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-infections-intra-abdominales/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2015</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des infections intra-abdominales</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Prise-en-charge-des-infections-intra-abdominales.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-infections-intra-abdominales/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2015</summary>
+  </entry>
+  <entry>
+    <title>Recommandations SNFCP/ ANAP / SFAR sur la Chirurgie ambulatoire en proctologie</title>
+    <id>https://sfar.org/wp-content/uploads/2016/08/RECOCHIRAMBUSNFCP-120315.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-snfcp-anap-sfar-sur-la-chirurgie-ambulatoire-en-proctologie/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2015</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur l’utilisation de l’échographie lors de la mise en place des accès vasculaires</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/RFE-Guidelines-on-the-use-of-ultrasound-guidance-for-vascular-access.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-lutilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Urgences · 2015</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur l’utilisation de l’échographie lors de la mise en place des accès vasculaires</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_AFAR_utilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-lutilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires/" />
+    <updated>2015-01-01T00:00:00Z</updated>
+    <published>2015-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2015" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Urgences · 2015</summary>
+  </entry>
+  <entry>
+    <title>Epuration extrarénale continue en réanimation (à l’exclusion de la dialyse péritonéale)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_REANIMATION_epuration-extrarenale-en-reanimation-adulte-et-pediatrique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/epuration-extrarenale-en-reanimation-adulte-et-pediatrique/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2014</summary>
+  </entry>
+  <entry>
+    <title>Nutrition artificielle en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Nutrition-artificielle-en-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/nutrition-artificielle-en-reanimation%E2%80%A8/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2014</summary>
+  </entry>
+  <entry>
+    <title>Recommandations sur la réanimation du choc hémorragique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Recommandations-sur-la-reanimation-du-choc-hemorragique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-la-reanimation-du-choc-hemorragique/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2014</summary>
+  </entry>
+  <entry>
+    <title>Réhabilitation rapide après une chirurgie colorectale programmée</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee.pdf</id>
+    <link rel="alternate" href="https://sfar.org/rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2014</summary>
+  </entry>
+  <entry>
+    <title>Stratégies de réduction de l’utilisation des antibiotiques à visée curative en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_SPILF_Strategies-de-reduction-de-lutilisation-des-antibiotiques-a-visee-curative-en-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/strategies-de-reduction-de-lutilisation-des-antibiotiques-a-visee-curative-en-reanimation-adulte-et-pediatrique/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2014</summary>
+  </entry>
+  <entry>
+    <title>Transfusion de globules rouges homologues : produits, indications alternatives</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_HAS_transfusion_de_globules_rouges_homologues_-_produits_indications_alternatives_-_recommandations.pdf</id>
+    <link rel="alternate" href="https://sfar.org/transfusion-de-globules-rouges-homologues-produits-indications-alternatives/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2014</summary>
+  </entry>
+  <entry>
+    <title>Traumatisme Thoracique : Prise en charge des 48 premières heures</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/RFE-Chest-trauma-First-48-hours-management.pdf</id>
+    <link rel="alternate" href="https://sfar.org/traumatisme-thoracique-prise-en-charge-des-48-premieres-heures/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2014</summary>
+  </entry>
+  <entry>
+    <title>Traumatisme Thoracique : Prise en charge des 48 premières heures</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Traumatisme-thoracique-_prise-en-charge-des-48-premieres-heures.pdf</id>
+    <link rel="alternate" href="https://sfar.org/traumatisme-thoracique-prise-en-charge-des-48-premieres-heures/" />
+    <updated>2014-01-01T00:00:00Z</updated>
+    <published>2014-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2014" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2014</summary>
+  </entry>
+  <entry>
+    <title>Recommandations AFU/SFAR/AFCA/ANAP sur la Chirurgie Ambulatoire en Urologie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_PUROL_Recommandations-chirurgie-ambulatoire-en-urologie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-afusfarafcaanap-chirurgie-ambulatoire-en-urologie/" />
+    <updated>2013-01-01T00:00:00Z</updated>
+    <published>2013-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2013" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2013</summary>
+  </entry>
+  <entry>
+    <title>Recommandations d’Experts pour le Risque d’HYPERTHERMIE MALIGNE en Anesthésie Réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_HyperthermieMaligne.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-dexperts-pour-le-risque-dhyperthermie-maligne-en-anesthesie-reanimation/" />
+    <updated>2013-01-01T00:00:00Z</updated>
+    <published>2013-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2013" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2013</summary>
+  </entry>
+  <entry>
+    <title>Techniques analgésiques locorégionales et douleur chronique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Techniques-analgesiques-locoregionales-et-douleur-chronique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/techniques-analgesiques-locoregionales-et-douleur-chronique/" />
+    <updated>2013-01-01T00:00:00Z</updated>
+    <published>2013-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2013" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2013</summary>
+  </entry>
+  <entry>
+    <title>Techniques analgésiques locorégionales et douleur chronique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_Annexe_SFAR_TableauxRFEDCALR2.pdf</id>
+    <link rel="alternate" href="https://sfar.org/techniques-analgesiques-locoregionales-et-douleur-chronique/" />
+    <updated>2013-01-01T00:00:00Z</updated>
+    <published>2013-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2013" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2013</summary>
+  </entry>
+  <entry>
+    <title>Bris dentaires périanesthésiques</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_AFAR_COURT_Bris-dentaires-perianesthesiques-copie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/bris-dentaires-perianesthesiques/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2012</summary>
+  </entry>
+  <entry>
+    <title>Bris dentaires périanesthésiques</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/3_AFAR_LONG_Bris-dentaires-perianesthesiques-copie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/bris-dentaires-perianesthesiques/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2012</summary>
+  </entry>
+  <entry>
+    <title>Examens pré-interventionnels systématiques</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/AFAR_Examens-preinterventionnels-systematiques.pdf</id>
+    <link rel="alternate" href="https://sfar.org/examens-preinterventionnels-systematiques/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2012</summary>
+  </entry>
+  <entry>
+    <title>Stratégie du remplissage vasculaire périopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_ANGLAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/strategie-du-remplissage-vasculaire-perioperatoire-2/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2012</summary>
+  </entry>
+  <entry>
+    <title>Stratégie du remplissage vasculaire périopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2a_AFAR_FRANCAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/strategie-du-remplissage-vasculaire-perioperatoire-2/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2012</summary>
+  </entry>
+  <entry>
+    <title>Transfusion de plasma thérapeutique : produits, indications</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_HAS_Texte-court-ransfusion-de-plasma-therapeutique-Produits-indications.pdf</id>
+    <link rel="alternate" href="https://sfar.org/transfusion-de-plasma-therapeutique-produits-indications/" />
+    <updated>2012-01-01T00:00:00Z</updated>
+    <published>2012-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2012" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2012</summary>
+  </entry>
+  <entry>
+    <title>Prévention de la maladie thromboembolique veineuse postopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-actualisation-2011-texte-court/" />
+    <updated>2011-01-01T00:00:00Z</updated>
+    <published>2011-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2011" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2011</summary>
+  </entry>
+  <entry>
+    <title>Prévention du risque allergique peranesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-du-risque-allergique-peranesthesique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prevention-du-risque-allergique-peranesthesique-2/" />
+    <updated>2011-01-01T00:00:00Z</updated>
+    <published>2011-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2011" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2011</summary>
+  </entry>
+  <entry>
+    <title>Transport intra-hospitalier des patients à risque vital</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Transport-intrahospitalier-des-patients-a-risque-vital.pdf</id>
+    <link rel="alternate" href="https://sfar.org/transport-intrahospitalier-des-patients-a-risque-vital-nouveau-ne-exclu/" />
+    <updated>2011-01-01T00:00:00Z</updated>
+    <published>2011-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2011" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2011</summary>
+  </entry>
+  <entry>
+    <title>Échographie en anesthésie locorégionale</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_echographie-en-anesthesie-locoregionale.pdf</id>
+    <link rel="alternate" href="https://sfar.org/echographie-en-anesthesie-locoregionale/" />
+    <updated>2011-01-01T00:00:00Z</updated>
+    <published>2011-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2011" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2011</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie loco-régionale en pédiatrie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Anesthesie-loco-regionale-en-pediatrie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-loco-regionale-en-pediatrie/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2010</summary>
+  </entry>
+  <entry>
+    <title>Délivrance de l’information à la personne sur son état de santé</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_HAS_Texte_Long-Delivrance-de-l-information-a-la-personne-sur-son-etat-de-sante.pdf</id>
+    <link rel="alternate" href="https://sfar.org/delivrance-de-linformation-a-la-personne-sur-son-etat-de-sante/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2010</summary>
+  </entry>
+  <entry>
+    <title>Délivrance de l’information à la personne sur son état de santé</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_HAS_texte-court_Delivrance-de-linformation-a-la-personne-sur-son-etat-de-sante.pdf</id>
+    <link rel="alternate" href="https://sfar.org/delivrance-de-linformation-a-la-personne-sur-son-etat-de-sante/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2010</summary>
+  </entry>
+  <entry>
+    <title>Monitorage de l’adéquation / profondeur de l’anesthésie à partir de l’analyse de l’EEG cortical</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Monitorage-de-ladequation-profondeur-de-lanesthesie-a-partir-de-lanalyse-de-lEEG-cortical.pdf</id>
+    <link rel="alternate" href="https://sfar.org/monitorage-de-ladequation-profondeur-de-lanesthesie-a-partir-de-lanalyse-de-leeg-cortical/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2010</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’interruption volontaire de grossesse jusqu’à 14 semaines</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_ANAES_Prise-en-charge-de-l-interruption-volontaire-de-grossesse-jusqu-a-14-semaines.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-linterruption-volontaire-de-grossesse-jusqua-14-semaines/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2010</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du coronarien qui doit être opéré en chirurgie non cardiaque</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-du-coronarien-qui-doit-etre-opere-en-chirurgie-non-cardiaque.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-coronarien-opere-en-chirurgie-non-cardiaque/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2010</summary>
+  </entry>
+  <entry>
+    <title>Recommandations de bonnes pratiques cliniques sur la nutrition périopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Nutrition-artificielle-perioperatoire-en-chirurgie-programmee-de-ladulte.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-de-bonnes-pratiques-cliniques-sur-la-nutrition-perioperatoire-actualisation-2010-de-la-conference-de-consensus-de-1994-sur-la-nutrition-artificielle-perioperatoire-en-chirurgie/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2010</summary>
+  </entry>
+  <entry>
+    <title>Sédation et analgésie en Structures d’Urgence</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/2_AFAR_Sedation-analgesie-en-structure-d-urgence.pdf</id>
+    <link rel="alternate" href="https://sfar.org/sedation-analgesie-structure-durgence/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Urgences · 2010</summary>
+  </entry>
+  <entry>
+    <title>Urgences Obstétricales Extrahospitalières</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Urgences-Obstetricales-Extrahospitalieres.pdf</id>
+    <link rel="alternate" href="https://sfar.org/urgences-obstetricales-extrahospitalieres/" />
+    <updated>2010-01-01T00:00:00Z</updated>
+    <published>2010-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2010" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2010</summary>
+  </entry>
+  <entry>
+    <title>Accident vasculaire cérébral : prise en charge précoce (alerte, phase préhospitalière, phase hospitalière initiale, indications de la thrombolyse)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_HAS_Accident-vasculaire-cerebral-prise-en-charge-precoce.pdf</id>
+    <link rel="alternate" href="https://sfar.org/accident-vasculaire-cerebral-prise-en-charge-precoce/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2009</summary>
+  </entry>
+  <entry>
+    <title>Contrôle de la glycémie en réanimation et en anesthésie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_UPDATE_Controle-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/controle-de-la-glycemie-en-reanimation-et-en-anesthesie/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2009</summary>
+  </entry>
+  <entry>
+    <title>Contrôle de la glycémie en réanimation et en anesthésie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_Contrele-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/controle-de-la-glycemie-en-reanimation-et-en-anesthesie/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2009</summary>
+  </entry>
+  <entry>
+    <title>Gestion périopératoire des traitements chroniques et dispositifs médicaux</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Gestion-perioperatoire-des-traitements-chroniques-et-dispositifs-medicaux.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-perioperatoire-des-traitements-chroniques-et-dispositifs-medicaux-anti-infectieux-immunosuppresseurs/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2009</summary>
+  </entry>
+  <entry>
+    <title>Mieux vivre la réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Mieux-vivre-la-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/mieux-vivre-la-reanimation/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2009</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge anesthésique des patients en hospitalisation ambulatoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-anesthesique-des-patients-en-hospitalisation-ambulatoire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-anesthesique-des-patients-en-hospitalisation-ambulatoire/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2009</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge multidisciplinaire des formes graves de prééclampsie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Prise-en-charge-pre-et-interhospitaliere-des-formes-graves-de-preeclampsie.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-multidisciplinaire-des-formes-graves-de-preeclampsie/" />
+    <updated>2009-01-01T00:00:00Z</updated>
+    <published>2009-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2009" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2009</summary>
+  </entry>
+  <entry>
+    <title>Indications de l’assistance circulatoire dans le traitement des arrêts cardiaques réfractaires</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Recommandations-sur-les-indications-de-lassistance-circulatoire-dans-le-traitement-des-arrets-cardiaques-refractaires.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-sur-les-indications-de-lassistance-circulatoire-dans-le-traitement-des-arrets-cardiaques-refractaires/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2008</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la douleur postopératoire chez l’adulte et l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_ANGLAISEExpert-panel-guidelines-2008.-Postoperative-pain-management-in-adults-and-children.-SFAR-Committees-on-Pain-and-Local-Regional-Anaesthesia-and-on-Standards..pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant-2/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2008</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de la douleur postopératoire chez l’adulte et l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2a_AFAR_Prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant-2/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2008</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge en situation d’urgence et en réanimation des états de mal épileptiques de l’adulte et de l’enfant (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/3_REANIMATION_Prise-en-charge-en-situation-durgence-et-en-reanimation-des-etats-de-mal-epileptiques-de-ladulte-et-de-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-en-situation-durgence-et-en-reanimation-des-etats-de-mal-epileptiques-de-ladulte-et-de-lenfant-nouveau-ne-exclu/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2008</summary>
+  </entry>
+  <entry>
+    <title>Prévention des infections nosocomiales en réanimation – transmission croisée et nouveau-né exclus</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-des-infections-nosocomiales-en-reanimation-transmission-croisee-et-nouveau-ne-exclus.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prevention-des-infections-nosocomiales-en-reanimation-transmission-croisee-et-nouveau-ne-exclus/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2008</summary>
+  </entry>
+  <entry>
+    <title>Recommandations AVK</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_HAS_Prise-en-charge-des-surdosages-en-antivitamines-K.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-surdosages-en-antivitamines-k-des-situations-a-risque-hemorragique-et-des-accidents-hemorragiques-chez-les-patients-traites-par-antivitamines-k-en-ville-et-en-milieu-hospitalier/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2008</summary>
+  </entry>
+  <entry>
+    <title>Sécurisation des procédures à risques en réanimation : risque infectieux exclu</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_texte-long_Securisation-des-procedures-a-risques-en-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/securisation-des-procedures-a-risques-en-reanimation-risque-infectieux-exclu/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2008</summary>
+  </entry>
+  <entry>
+    <title>Sécurisation des procédures à risques en réanimation : risque infectieux exclu</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Texte_court_Securisation-des-procedures-a-risques-en-reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/securisation-des-procedures-a-risques-en-reanimation-risque-infectieux-exclu/" />
+    <updated>2008-01-01T00:00:00Z</updated>
+    <published>2008-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2008" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2008</summary>
+  </entry>
+  <entry>
+    <title>Organisation et Structuration de l’hôpital en cas de pandémie de grippe aviaire. Aspects spécifiques inhérents à l’activité de Réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/Organisation-et-Structuration-de-l-Hopital-en-cas-de-pandemie-de-grippe-aviaire-Aspects-specifiques-inherents-a-lactivite-de-Reanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2016/01/Organisation-et-Structuration-de-l-Hopital-en-cas-de-pandemie-de-grippe-aviaire-Aspects-specifiques-inherents-a-lactivite-de-Reanimation.pdf" />
+    <updated>2007-01-01T00:00:00Z</updated>
+    <published>2007-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2007" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Urgences · 2007</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des nausées et vomissements postopératoires</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-des-nausees-et-vomissements-postoperatoires.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-nausees-et-vomissements-postoperatoires/" />
+    <updated>2007-01-01T00:00:00Z</updated>
+    <published>2007-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2007" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2007</summary>
+  </entry>
+  <entry>
+    <title>Sédation et analgésie en réanimation (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2c_AFAR_Texte_long_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf</id>
+    <link rel="alternate" href="https://sfar.org/sedation-et-analgesie-en-reanimation-nouveau-ne-exclu/" />
+    <updated>2007-01-01T00:00:00Z</updated>
+    <published>2007-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2007" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2007</summary>
+  </entry>
+  <entry>
+    <title>Sédation et analgésie en réanimation (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_aspet-pediatriques.pdf</id>
+    <link rel="alternate" href="https://sfar.org/sedation-et-analgesie-en-reanimation-nouveau-ne-exclu/" />
+    <updated>2007-01-01T00:00:00Z</updated>
+    <published>2007-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2007" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2007</summary>
+  </entry>
+  <entry>
+    <title>Sédation et analgésie en réanimation (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Texte_court_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf</id>
+    <link rel="alternate" href="https://sfar.org/sedation-et-analgesie-en-reanimation-nouveau-ne-exclu/" />
+    <updated>2007-01-01T00:00:00Z</updated>
+    <published>2007-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2007" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2007</summary>
+  </entry>
+  <entry>
+    <title>Gestion du traitement antiplaquettaire oral chez les patients porteurs d’endoprothèses coronaires</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Gestion-du-traitement-anti-plaquettaire-.pdf</id>
+    <link rel="alternate" href="https://sfar.org/gestion-du-traitement-anti-plaquettaire-oral-chez-les-patients-porteurs-dendoprotheses-coronaires/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2006</summary>
+  </entry>
+  <entry>
+    <title>Les blocs périmédullaires chez l’adulte</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Blocs-perimedullaires-chez-ladulte.pdf</id>
+    <link rel="alternate" href="https://sfar.org/les-blocs-perimedullaires-chez-ladulte/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2006</summary>
+  </entry>
+  <entry>
+    <title>Monitorage du patient traumatisé grave en préhospitalier</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_texte-court_Monitorage-du-patient-traumatise-grave-en-prehospitalier.pdf</id>
+    <link rel="alternate" href="https://sfar.org/monitorage-du-patient-traumatise-grave-en-prehospitalier/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’arrêt cardiaque</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-de-larret-cardiaque-1.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-larret-cardiaque/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’infarctus du myocarde à la phase aiguë en dehors des services de cardiologie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_HAS_TEXTE-LONG_Prise-en-charge-de-linfarctus-du-myocarde.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-linfarctus-du-myocarde-a-la-phase-aigue-en-dehors-des-services-de-cardiologie/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge de l’infarctus du myocarde à la phase aiguë en dehors des services de cardiologie</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_HAS_TEXTE-COURT_Prise-en-charge-de-linfarctus-du-myocarde.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-de-linfarctus-du-myocarde-a-la-phase-aigue-en-dehors-des-services-de-cardiologie/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge initiale des états septiques graves de l’adulte et de l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-initiale-des-etats-septiques-graves-de-ladulte-et-de-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-initiale-des-etats-septiques-graves-de-ladulte-et-de-lenfant/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Prévention des erreurs médicamenteuses en anesthésie</title>
+    <id>https://sfar.org/wp-content/uploads/2014/04/preverreurmedic_recos.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2014/04/preverreurmedic_recos.pdf" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2006</summary>
+  </entry>
+  <entry>
+    <title>Ventilation Non Invasive au cours de l’insuffisance respiratoire aiguë (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_SFAR_texte-long_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf</id>
+    <link rel="alternate" href="https://sfar.org/ventilation-non-invasive%E2%80%A8au-cours-de-linsuffisance-respiratoire-aigue-nouveau-ne-exclu/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Ventilation Non Invasive au cours de l’insuffisance respiratoire aiguë (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_texte-court_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf</id>
+    <link rel="alternate" href="https://sfar.org/ventilation-non-invasive%E2%80%A8au-cours-de-linsuffisance-respiratoire-aigue-nouveau-ne-exclu/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Ventilation Non Invasive au cours de l’insuffisance respiratoire aiguë (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2C_SFAR_EPP_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf</id>
+    <link rel="alternate" href="https://sfar.org/ventilation-non-invasive%E2%80%A8au-cours-de-linsuffisance-respiratoire-aigue-nouveau-ne-exclu/" />
+    <updated>2006-01-01T00:00:00Z</updated>
+    <published>2006-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2006" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2006</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie pour amygdalectomie chez l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_TEXTE-LONG_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-pour-amygdalectomie-chez-lenfant/" />
+    <updated>2005-01-01T00:00:00Z</updated>
+    <published>2005-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2005" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2005</summary>
+  </entry>
+  <entry>
+    <title>Anesthésie pour amygdalectomie chez l’enfant</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_TEXTE-COURT_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-pour-amygdalectomie-chez-lenfant/" />
+    <updated>2005-01-01T00:00:00Z</updated>
+    <published>2005-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2005" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2005</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des sujets en état de mort encéphalique dans l’optique d’un prélèvement d’organes</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-des-sujets-en-etat-de-mort-encephalique-dans-loptique-dun-prelevement-dorganes.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-sujets-en-etat-de-mort-encephalique-dans-loptique-dun-prelevement-dorganes/" />
+    <updated>2005-01-01T00:00:00Z</updated>
+    <published>2005-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2005" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2005</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge hémodynamique du sepsis sévère (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_TEXTE-LONG_AFAR_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-hemodynamique-du-sepsis-grave-nouveau-ne-exclu/" />
+    <updated>2005-01-01T00:00:00Z</updated>
+    <published>2005-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2005" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2005</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge hémodynamique du sepsis sévère (nouveau-né exclu)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_TEXTE-COURT_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-hemodynamique-du-sepsis-grave-nouveau-ne-exclu/" />
+    <updated>2005-01-01T00:00:00Z</updated>
+    <published>2005-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2005" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2005</summary>
+  </entry>
+  <entry>
+    <title>Antibiothérapie probabiliste des états septiques graves</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Antibiotherapie-probabiliste-des-etats-septiques-graves.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antibiotherapie-probabiliste-des-etats-septiques-graves/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2004</summary>
+  </entry>
+  <entry>
+    <title>Hémorragie sous-arachnoïdienne grave</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_texte-long_Hemorragies-sous-arachnoidienne.pdf</id>
+    <link rel="alternate" href="https://sfar.org/hemorragie-sous-arachnoidienne-hsa-grave/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2004</summary>
+  </entry>
+  <entry>
+    <title>Hémorragie sous-arachnoïdienne grave</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_texte-court_Hemorragies-sous-arachnoidienne.pdf</id>
+    <link rel="alternate" href="https://sfar.org/hemorragie-sous-arachnoidienne-hsa-grave/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2004</summary>
+  </entry>
+  <entry>
+    <title>Hémorragies du post-partum immédiat</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Traitement-des-urgences-transfusionnelles-obstetricales.pdf</id>
+    <link rel="alternate" href="https://sfar.org/le-traitement-des-urgences-transfusionnelles-obstetricales/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation | Urgences · 2004</summary>
+  </entry>
+  <entry>
+    <title>Pratique des anesthésies locales et locorégionales par des médecins non spécialisés en anesthésie-réanimation, dans le cadre des urgences</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/2_AFAR_Pratique-des-anesthesies-locales-et-locoregionales-par-des-medecins-non-specialises-en-anesthesie-reanimation-dans-le-cadre-des-urgences.pdf</id>
+    <link rel="alternate" href="https://sfar.org/pratique-des-anesthesies-locales-et-locoregionales-par-des-medecins-non-specialises-en-anesthesie-reanimation/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Urgences · 2004</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des candidoses et aspergilloses invasives de l’adulte</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Prise-en-charge-des-candidoses-et-aspergilloses-invasives-de-ladulte.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-candidoses-et-aspergilloses-invasives-de-ladulte/" />
+    <updated>2004-01-01T00:00:00Z</updated>
+    <published>2004-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2004" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2004</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes en anesthésie adulte à l’exception de l’intubation difficile</title>
+    <id>https://sfar.org/wp-content/uploads/2016/12/2b_AFAR_Texte-Long_.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-en-anesthesie-adulte-a-lexception-de-lintubation-difficile/" />
+    <updated>2003-01-01T00:00:00Z</updated>
+    <published>2003-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2003" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2003</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes en anesthésie adulte à l’exception de l’intubation difficile</title>
+    <id>https://sfar.org/wp-content/uploads/2016/12/1-2a_SFAR_Texte-court-Controle-des-voies-aeriennes-en-anesthesie-en-dehors-de-l-intubation-difficile.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-en-anesthesie-adulte-a-lexception-de-lintubation-difficile/" />
+    <updated>2003-01-01T00:00:00Z</updated>
+    <published>2003-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2003" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2003</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge d’un blessé adulte présentant un traumatisme vertébro-médullaire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-d-un-blesse-adulte-presentant-un-traumatisme-vertebro-medullaire.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-dun-blesse-adulte-presentant-un-traumatisme-vertebromedullaire/" />
+    <updated>2003-01-01T00:00:00Z</updated>
+    <published>2003-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2003" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2003</summary>
+  </entry>
+  <entry>
+    <title>Recommandations concernant la mise en place, la gestion, l’utilisation et l’évaluation d’une salle d’Accueil des Urgences vitales (SAUV)</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/Recommandations-concernant-la-mise-en-place-la-gestion-l-utilisation-et-l-evaluation-d-une-salle-d-accueil-des-urgences-vitales.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2016/01/Recommandations-concernant-la-mise-en-place-la-gestion-l-utilisation-et-l-evaluation-d-une-salle-d-accueil-des-urgences-vitales.pdf" />
+    <updated>2003-01-01T00:00:00Z</updated>
+    <published>2003-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2003" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Urgences · 2003</summary>
+  </entry>
+  <entry>
+    <title>Coagulations Intra-Vasculaires Disséminées (CIVD) en réanimation – Définition, classification et traitement</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/86-civdccons.pdf</id>
+    <link rel="alternate" href="https://sfar.org/coagulations-intra-vasculaires-disseminees-civd-en-reanimation/" />
+    <updated>2002-01-01T00:00:00Z</updated>
+    <published>2002-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2002" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2002</summary>
+  </entry>
+  <entry>
+    <title>Infections liées aux cathéters veineux centraux en réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/1-s2.0-S1624069303000513-main.pdf</id>
+    <link rel="alternate" href="https://sfar.org/infections-liees-aux-catheters-veineux-centraux-en-reanimation-3/" />
+    <updated>2002-01-01T00:00:00Z</updated>
+    <published>2002-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2002" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2002</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des crises d’asthme aiguës graves de l’adulte et de l’enfant (à l’exclusion du nourrisson)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/REANIMATION_Prise-en-charge-des-crises-dasthme-aigues-graves-de-ladulte-et-de-lenfant-.pdf</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-crises-dasthme-aigues-graves-de-ladulte-et-de-lenfant-a-lexclusion-du-nourrisson/" />
+    <updated>2002-01-01T00:00:00Z</updated>
+    <published>2002-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2002" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2002</summary>
+  </entry>
+  <entry>
+    <title>Thrombopénie induite par l’héparine</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Thrombopenie-induite-par-lheparine.pdf</id>
+    <link rel="alternate" href="https://sfar.org/thrombopenie-induite-par-lheparine/" />
+    <updated>2002-01-01T00:00:00Z</updated>
+    <published>2002-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie | Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2002" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie | Reanimation · 2002</summary>
+  </entry>
+  <entry>
+    <title>****Les blocs périphériques des membres chez l’adulte</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Les-blocs-peripheriques-des-membres-chez-l-adulte.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-pour-la-pratique-clinique-les-blocs-peripheriques-des-membres-chez-ladulte/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · 2001</summary>
+  </entry>
+  <entry>
+    <title>Dossier anesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/Dossier-AnesthRea-SFAR.pdf</id>
+    <link rel="alternate" href="https://sfar.org/dossier-anesthesique/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Dossier anesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/art54_dossierarannpre.pdf</id>
+    <link rel="alternate" href="https://sfar.org/dossier-anesthesique/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Dossier anesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/art54_dossieraranninform.pdf</id>
+    <link rel="alternate" href="https://sfar.org/dossier-anesthesique/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Dossier anesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/art54_dossierarannperpost.pdf</id>
+    <link rel="alternate" href="https://sfar.org/dossier-anesthesique/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Dossier anesthésique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/art54_dossieraranncomplet.pdf</id>
+    <link rel="alternate" href="https://sfar.org/dossier-anesthesique/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Les traumatisés crâniens adultes en médecine physique et réadaptation : du coma à l’éveil</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/Annales-de-Readaptation-et-de-Medecine-Physique_Les-traumatises-craniens-adultes-en-medecine-physique-et-readaptation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/traumatises-craniens-adultes-en-medecine-physique-et-readaptation/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2001</summary>
+  </entry>
+  <entry>
+    <title>Pancréatite aiguë</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/cc_pancreatiteaigue20010.pdf</id>
+    <link rel="alternate" href="https://sfar.org/pancreatite-aigue/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2001</summary>
+  </entry>
+  <entry>
+    <title>Recommandations concernant les relations entre anesthésistes-réanimateurs et chirurgiens, autres spécialistes ou professionnels de santé</title>
+    <id>https://sfar.org/wp-content/uploads/2014/04/196-reco-anesth-chir-autres-2001.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2014/04/196-reco-anesth-chir-autres-2001.pdf" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2001</summary>
+  </entry>
+  <entry>
+    <title>Sevrage de la ventilation mécanique (à l’exclusion du nouveau-né et du réveil d’anesthésie)</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Sevrage-de-la-ventilation-mecanique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/sevrage-de-la-ventilation-mecanique-2/" />
+    <updated>2001-01-01T00:00:00Z</updated>
+    <published>2001-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2001" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2001</summary>
+  </entry>
+  <entry>
+    <title>Corticothérapie au cours du choc septique et du SDRA</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Corticotherapie-au-cours-du-choc-septique-et-du-SDRA.pdf</id>
+    <link rel="alternate" href="https://sfar.org/corticotherapie-au-cours-du-choc-septique-et-du-sdra/" />
+    <updated>2000-01-01T00:00:00Z</updated>
+    <published>2000-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <category term="2000" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation · 2000</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour les structures et le matériel de l’anesthésie pédiatrique</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Recommandations-pour-les-structures-et-le-materiel-de-lanesthesie-pediatrique.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-pour-les-structures-et-le-materiel-de-lanesthesie-pediatrique/" />
+    <updated>2000-01-01T00:00:00Z</updated>
+    <published>2000-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2000" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2000</summary>
+  </entry>
+  <entry>
+    <title>Agents antiplaquettaires et période périopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2b_SFAR-Anglais.pdf</id>
+    <link rel="alternate" href="https://sfar.org/agents-antiplaquettaires-et-periode-perioperatoire/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Agents antiplaquettaires et période périopératoire</title>
+    <id>https://sfar.org/wp-content/uploads/2015/10/2a_SFAR-Francais.pdf</id>
+    <link rel="alternate" href="https://sfar.org/agents-antiplaquettaires-et-periode-perioperatoire/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Délivrance de l’information à la personne sur son état de santé</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/recommandations_-_delivrance_de_linformation_a_la_personne_sur_son_etat_de_sante.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2016/01/recommandations_-_delivrance_de_linformation_a_la_personne_sur_son_etat_de_sante.pdf" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+  <entry>
+    <title>Guide d’aide à la mise en place et à la gestion d’une « Réanimation Ephémère »</title>
+    <id>wpdmdl:27872</id>
+    <link rel="alternate" href="https://sfar.org/download/guide-daide-a-la-mise-en-place-et-a-la-gestion-dune-reanimation-ephemere/?wpdmdl=27872" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Intubation difficile</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/BJA-2015-reco-ventilation-et-IOT1.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-conference-dexperts-sur-lintubation-difficile/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+  <entry>
+    <title>Intubation difficile</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_Texte-Long_Intubation-difficile.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-conference-dexperts-sur-lintubation-difficile/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+  <entry>
+    <title>Intubation difficile</title>
+    <id>https://sfar.org/wp-content/uploads/2015/09/2a_SFAR_texte_court_Intubation-difficile.pdf</id>
+    <link rel="alternate" href="https://sfar.org/reactualisation-de-la-conference-dexperts-sur-lintubation-difficile/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge en urgence Thromboses post vaccination anticovid</title>
+    <id>wpdmdl:34433</id>
+    <link rel="alternate" href="https://sfar.org/download/prise-en-charge-en-urgence-thromboses-post-vaccination-anticovid/?wpdmdl=34433" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge en urgence des TVC dans un contexte de vaccination antiCOVID</title>
+    <id>wpdmdl:33812</id>
+    <link rel="alternate" href="https://sfar.org/download/prise-en-charge-en-urgence-des-tvc-dans-un-contexte-de-vaccination-anticovid/?wpdmdl=33812" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Prévention du risque thromboembolique veineux et surveillance de l’hémostase chez les patients hospitalisés pour covid-19 : propositions réactualisées (avril 2021) groupe d’intérêt en hémostase périoperatoire (gihp) et groupe d’étude sur l’hémostase et la thrombose (gfht)</title>
+    <id>wpdmdl:34830</id>
+    <link rel="alternate" href="https://sfar.org/download/prevention-du-risque-thromboembolique-veineux-et-surveillance-de-lhemostase-chez-les-patients-hospitalises-pour-covid-19-propositions-reactualisees-avril-2021-groupe-dinteret-en-hemosta/?wpdmdl=34830" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Recommandations Antalgiques en chirurgie ORL</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/Recommandation_Prise_en_charge_douleurs_induites_par_traitement_cancers_VADS_2014_TC11.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antalgiques-en-chirurgie-orl/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Anesthesie</summary>
+  </entry>
+  <entry>
+    <title>Recommandations Antalgiques en chirurgie ORL</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/Recommandation_antalgique_post_amygdalectomie_2014_TC2.pdf</id>
+    <link rel="alternate" href="https://sfar.org/antalgiques-en-chirurgie-orl/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Anesthesie</summary>
+  </entry>
+  <entry>
+    <title>Recommandations SFAR-SRLF d’organisation des unités de surveillance continue</title>
+    <id>https://sfar.org/wp-content/uploads/2016/10/200502-Recommandations_SFAR_SRLF-OrganisationDesUSC.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2016/10/200502-Recommandations_SFAR_SRLF-OrganisationDesUSC.pdf" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <summary>RFE</summary>
+  </entry>
+  <entry>
+    <title>Recommandations de bonnes pratiques cliniques concernant l’application de la loi n° 2005-370 du 22 avril 2005</title>
+    <id>https://sfar.org/wp-content/uploads/2014/04/122-recosfdv0606.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2014/04/122-recosfdv0606.pdf" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Anesthesie</summary>
+  </entry>
+  <entry>
+    <title>Recommandations d’experts portant sur la prise en charge en réanimation des patients en période d’épidémie à SARS-CoV2</title>
+    <id>wpdmdl:25387</id>
+    <link rel="alternate" href="https://sfar.org/download/recommandations-dexperts-portant-sur-la-prise-en-charge-en-reanimation-des-patients-en-periode-depidemie-a-sars-cov2/?wpdmdl=25387" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour la pratique des blocs moteurs périphériques en Médecine Physique et de Réadaptation (MPR)</title>
+    <id>https://sfar.org/wp-content/uploads/2018/12/2_Recos-Org-Blocs-moteurs-SOFMER-SFAR.pdf</id>
+    <link rel="alternate" href="https://sfar.org/recommandations-pour-la-pratique-des-blocs-moteurs-peripheriques-en-medecine-physique-et-de-readaptation-mpr/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Anesthesie</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour une formation spécifique et une reconnaissance du métier d’infirmier de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/livretadaptationIDEReanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/une-formation-specifique-et-une-reconnaissance-du-metier-dinfirmier-de-reanimation/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour une formation spécifique et une reconnaissance du métier d’infirmier de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/MANIFESTEformationIDEReanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/une-formation-specifique-et-une-reconnaissance-du-metier-dinfirmier-de-reanimation/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Recommandations pour une formation spécifique et une reconnaissance du métier d’infirmier de réanimation</title>
+    <id>https://sfar.org/wp-content/uploads/2015/11/ReferentielcompetencesIDEReanimation.pdf</id>
+    <link rel="alternate" href="https://sfar.org/une-formation-specifique-et-une-reconnaissance-du-metier-dinfirmier-de-reanimation/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Traitement anticoagulants patients COVID-19</title>
+    <id>wpdmdl:34409</id>
+    <link rel="alternate" href="https://sfar.org/download/traitement-anticoagulants-patients-covid-19/?wpdmdl=34409" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Reanimation</summary>
+  </entry>
+  <entry>
+    <title>Urgences Obstétricales Extrahospitalières</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/Urgences-obstetricales-extrahospitalieres.pdf</id>
+    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2016/01/Urgences-obstetricales-extrahospitalieres.pdf" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+  <entry>
+    <title>Échographie en anesthésie locorégionale</title>
+    <id>https://sfar.org/wp-content/uploads/2016/01/2_AFAR_echographie-en-anesthesie-locoregionale.pdf</id>
+    <link rel="alternate" href="https://sfar.org/echographie-en-anesthesie-locoregionale-2/" />
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Urgences" scheme="https://sfar.org/ns/discipline" />
+    <summary>RFE · Urgences</summary>
+  </entry>
+</feed>

@@ -1,0 +1,93 @@
+{
+  "file_name": "Annales-de-Readaptation-et-de-Medecine-Physique_Les-traumatises-craniens-adultes-en-medecine-physique-et-readaptation.pdf",
+  "num_pages": 7,
+  "total_token_count": 12169,
+  "total_chunks": 132,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 1645,
+      "num_chunks": 25,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 1898,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 2180,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 1798,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 1927,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 1881,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1547,
+        2040
+      ],
+      "token_count": 840,
+      "num_chunks": 12,
+      "num_images": 0
+    }
+  ]
+}

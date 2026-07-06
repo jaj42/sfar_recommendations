@@ -1,0 +1,87 @@
+============================================================
+COMPLETENESS REPORT
+============================================================
+Unique documents:        251
+Rows with no target:     7
+
+MISS — index rows that resolved to zero PDFs:
+  - [None] Recommandations concernant l’appareil d’anesthésie et sa vérification  (200) https://sfar.org/lappareil-danesthesie-et-sa-verification-avant-utilisation/
+  - [2000] Information des patients. Recommandations destinées aux médecins (404) https://www.has-sante.fr/portail/jcms/c_272040/informations-des-patients-recommandations-destinees-aux-medecins?xtmc=information%20patients&xtcr=7
+  - [None] La gestion périopératoire des patients sous AOD pour un acte programmé (200) https://sfar.org/reactualisation-des-propositions-du-gihp/
+  - [None] Coagulations Intra-Vasculaires Disséminées (CIVD) en réanimation – Déf (404) https://sfar.org/espace-professionel-anesthesiste-reanimateur/outils-professionnels/boite-a-outils/reactualisation-des-propositions-du-gihp-pour-la-gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/
+  - [None] Recommandations concernant l’appareil d’anesthésie et sa vérification  (200) https://sfar.org/lappareil-danesthesie-et-sa-verification-avant-utilisation/
+  - [None] La gestion périopératoire des patients sous AOD pour un acte programmé (404) https://sfar.org/espace-professionel-anesthesiste-reanimateur/outils-professionnels/boite-a-outils/reactualisation-des-propositions-du-gihp-pour-la-gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/
+  - [None] Information des patients. Recommandations destinées aux médecins (404) https://www.has-sante.fr/portail/jcms/c_272040/informations-des-patients-recommandations-destinees-aux-medecins?xtmc=information%20patients&xtcr=7
+
+Downloaded OK:           246
+Download errors:         5
+
+ERROR — documents that failed to download cleanly:
+  - source returned HTML (file missing upstream?): Antibioprophylaxie en chirurgie et médecine interventionnell [https://sfar.org/download/ordonnance-type-tobramycine-metronidazole-avant-chirurgie-colo-rectale/?wpdmdl=53071]
+  - source returned HTML (file missing upstream?): Guide de la réserve soignante en soins critiques [https://sfar.org/download/guide-de-la-reserve-soignante-en-soins-critiques/?wpdmdl=33517]
+  - source returned HTML (file missing upstream?): Préconisations pour l’adaptation de l’offre de soins en anes [https://sfar.org/download/preconisations-pour-ladaptation-de-loffre-de-soins-en-anesthesie-reanimation-dans-le-contexte-de-pandemie-de-covid-19/?wpdmdl=34738]
+  - source returned HTML (file missing upstream?): Préconisations pour l’adaptation de l’offre de soins en anes [https://sfar.org/download/recommandations-de-pratiques-professionnelles-preconisations-pour-ladaptation-de-loffre-de-soins-en-anesthesie-reanimation-dans-le-contexte-de-pandemie-de-covid-19-version-mai-2020/?wpdmdl=26224]
+  - source returned HTML (file missing upstream?): Indications de transfusion de plasmas lyophilisés (PLYO) che [https://sfar.org/download/modalites-de-prescription-du-plyo/?wpdmdl=30313]
+
+File types:
+  pdf: 246
+
+Externally hosted documents (not on sfar.org): 5
+  - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
+  - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
+  - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
+  - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
+  - [2019] Prévention et prise en charge des effets indésirables p → www.has-sante.fr
+
+Per-year document counts:
+  unknown: 22
+  2026: 5
+  2025: 14
+  2024: 8
+  2023: 6
+  2022: 10
+  2021: 16
+  2020: 7
+  2019: 17
+  2018: 12
+  2017: 11
+  2016: 22
+  2015: 8
+  2014: 8
+  2013: 4
+  2012: 6
+  2011: 4
+  2010: 9
+  2009: 7
+  2008: 8
+  2007: 5
+  2006: 11
+  2005: 5
+  2004: 6
+  2003: 4
+  2002: 4
+  2001: 10
+  2000: 2
+
+Reference titles:        156
+Reference titles missing from discovery: 12
+  - Évaluation du risque Covid-19 et impact sur la prise en charge en endoscopi
+  - Prise en charge des patients présentant, ou à risque, de traumatisme vertéb
+  - Prise en charge du brûlé grave à la phase aiguë chez l'adulte et l'enfantRé
+  - Prise en charges des traumatismes pelviens graves à la phase précoce (24 pr
+  - Recommandations sur la prise en charge du tabagisme en période périopératoi
+  - Plasma thérapeutique: nouvelles recommandations
+  - Prévention de la maladie thromboembolique veineuse postopératoire ^Transpor
+  - Monitoring de l'adéquation / profondeur de l'anesthésie à partir de l'analy
+  - Accident vasculaire cérébral : prise en charge précoce (alerte, phase prého
+  - Monitoring du patient traumatisé grave en préhospitalier
+  - Information des patients. Recommandations destinées aux médecins
+  - Recommandations concernant l'appareil d'anesthésie et sa vérification avant
+
+Curated ../pdfs basenames:            87
+Curated basenames not re-downloaded:  24
+Genuinely new basenames:              182
+
+============================================================
+RESULT: ❌ NOT COMPREHENSIVE — see MISS/ERROR above
+============================================================

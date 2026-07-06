@@ -1,0 +1,259 @@
+![Logo of the Groupe d'intérêt en hémostase péri-opératoire (GIHP). The logo consists of a red circle containing the white letters 'GIHP'. To the right of the circle, the text 'Groupe d'intérêt en hémostase péri-opératoire' is written in a smaller, grey font.](357c238b2e3aca5b84b36a73ab563152_1_img.webp)
+
+## **Gestion des Anticoagulants Oraux Directs pour la chirurgie et les actes invasifs programmés : propositions réactualisées du Groupe d'Intérêt en Hémostase Périopératoire (GIHP)-Septembre 2015**
+
+Pierre Albaladejo, Fanny Bonhomme, Normand Blais, Jean Philippe Collet, David Faraoni, Pierre Fontana, Anne Godier, Juan Llau, Dan Longrois, Patrick Mismetti, Emmanuel Marret, Nadia Rosencher, Stéphanie Roulet, Charles Marc Samama, Pierre Sié, Jean François Schved, Annick Steib, Sophie Susen et le Groupe d'Intérêt en Hémostase Périopératoire.
+
+### **Résumé**
+
+Depuis 2011, l'expérience et les données concernant les patients traités par anticoagulants oraux directs (AOD) et bénéficiant d'un acte invasif programmé se sont enrichies. Dans le même temps, un accroissement du risque hémorragique lors de la réalisation de relais anticoagulants préopératoires a été mis en évidence, sans réduction du risque thrombotique. Ces données nouvelles conduisent à adapter les propositions émises par le GIHP en 2011. Pour les actes programmés à risque hémorragique faible, il est proposé de ne pas prendre d'AOD la veille au soir ni le matin de l'intervention, quel que soit le schéma thérapeutique du patient ; et de reprendre le traitement selon le schéma habituel du patient et au moins 6 heures après la fin du geste invasif. Pour les actes invasifs à risque hémorragique élevé, il est proposé une dernière prise à J-3 pour le rivaroxaban, l'apixaban et l'edoxaban ; une dernière prise de dabigatran à J-4 si la clairance de la créatinine est supérieure à 50 ml/min, à J-5 si la clairance est comprise entre 30 et 50 ml/min. Dans le cas de la neurochirurgie intracrânienne et de l'anesthésie neuraxiale, des délais plus longs sont conseillés. Il n'y a plus de place pour les relais anticoagulants ni pour la mesure des concentrations d'AOD sauf situations exceptionnelles.## 1. Introduction
+
+En 2011, le GIHP a publié des propositions pour la gestion périopératoire des anticoagulants oraux directs (AOD)<sup>1, 2</sup>. Ces propositions étaient le fruit d'une réflexion pragmatique qui a permis d'intégrer dans notre pratique de médecine périopératoire l'arrivée des premiers AOD. Ces propositions étaient très prudentes compte tenu du manque d'expérience dans le maniement de ces molécules.
+
+Depuis 2011, plusieurs éléments ont évolué:
+
+- - L'expérience dans la prise en charge du patient traité par AOD est plus grande. La prescription des AOD a progressé très rapidement depuis leur autorisation de mise sur le marché<sup>3</sup>. Or, chaque année, 10 à 15% des patients traités par anticoagulants nécessitent une chirurgie ou un acte invasif.
+
+- - Des données nouvelles émanant de sous-analyses des larges essais randomisés<sup>4-7</sup> mais aussi de la pratique quotidienne de terrain, au travers de registres ont été publiées<sup>8-10</sup>. Une expérience a ainsi été acquise sur le suivi biologique, la disponibilité des tests, ainsi que leurs intérêts et limites dans la prise de décision<sup>11</sup>.
+
+- - A côté du rivaroxaban (Xarelto®) et du dabigatran (Pradaxa®), d'autres molécules ont été mises sur le marché (apixaban, Eliquis®) ou sont en cours d'enregistrement (edoxaban, Lixiana®).
+
+- - Des publications récentes ont mis en évidence une augmentation du risque hémorragique lors du relais des antivitamine-K (AVK) ou des AOD par des héparines (héparine non fractionnée, HNF ou héparines de bas poids moléculaire, HBPM), sans bénéfice sur le risque thrombo-embolique chez les patients en fibrillation atriale<sup>7, 8, 12, 13</sup>.La réactualisation de ces recommandations pour la gestion des AOD en cas de chirurgies ou actes invasifs programmés répond donc aux objectifs suivants:
+
+- - Limiter les relais anticoagulants préopératoires à des situations exceptionnelles, et ainsi réduire le risque hémorragique péri-interventionnel lié à ces relais.
+- - Réduire la durée d'arrêt préopératoire des AOD pour limiter le risque thrombotique en l'absence de relais anticoagulant, sans augmenter le risque hémorragique péri-interventionnel.
+- - Tenir compte des caractéristiques pharmacocinétiques propres à chaque AOD (- xabans et dabigatran)
+- - Préciser la place de la mesure des concentrations plasmatiques des AOD.
+
+**Le tableau 1 résume les schémas de gestion périopératoire. L'argumentaire suivant a pour objet de décrire précisément les différentes étapes.**
+
+## **2. Gestes à risque hémorragique faible**
+
+### *2.1 Le risque hémorragique faible*
+
+Les actes invasifs à risque hémorragique faible sont définis selon les termes des recommandations de la Haute Autorité de Santé de 2008 pour la gestion périopératoire des AVK <sup>14</sup>. Ils correspondent aux actes responsables de saignements peu fréquents, de faible intensité ou aisément contrôlés, pouvant être réalisés chez des patients anticoagulés à taux thérapeutiques. Des exemples concernant les actes les plus courants sont disponibles sur le site de la HAS indiqué plus haut et incluent la chirurgie cutanée, la chirurgie de la cataracte, certains actes de rhumatologie à faible risque hémorragique, certains actes de chirurgiebucco-dentaire, certains actes d'endoscopie digestive (liste non limitative). Lorsque le patient est traité par un AVK, ces gestes sont réalisés sans interruption du traitement. Par extension, ces gestes peuvent être réalisés sous AOD. Différentes sociétés ont publié des propositions pour la gestion des gestes invasifs les concernant chez les patients traités par AOD : les sociétés françaises d'endoscopie digestive, d'ophtalmologie, de chirurgie odontologique.
+
+### *2.2 En préopératoire : pas de prise la veille au soir ni le matin de l'intervention*
+
+Cette proposition s'applique quel que soit le schéma thérapeutique du patient (figure 1).
+
+Si le patient prend un AOD en 2 prises par jour, il prend donc son traitement le matin de la veille de l'intervention et saute 2 prises avant l'intervention.
+
+Si le patient prend un AOD en une prise le matin, il prend donc son traitement la veille au matin et saute 1 prise avant l'intervention.
+
+Si le patient prend un AOD en une prise le soir, il prend donc son traitement l'avant-veille de l'intervention et saute 1 prise avant l'intervention.
+
+### *2.3 Pas de relais, pas de dosage*
+
+Dans ce schéma, il n'y a aucune place pour la réalisation d'un relais préopératoire par HNF ou HBPM. Il n'y a aucune indication à la mesure de la concentration de l'AOD avant l'intervention. L'objectif de ce schéma est d'éviter des concentrations plasmatiques élevées d'AOD pendant le geste, et non d'obtenir des concentrations négligeables.
+
+### *2.4 Reprise à l'heure habituelle et au moins 6 h après la fin de l'acte invasif*En l'absence d'événement hémorragique particulier et/ou de contre-indication chirurgicale, la reprise du traitement peut avoir lieu au moins 6 heures après la fin du geste invasif, selon le schéma habituel du patient (figure 1):
+
+- - le soir de l'acte pour un AOD en une prise quotidienne, pris habituellement le soir,
+- - le lendemain matin pour un AOD en une prise quotidienne, pris habituellement le matin,
+- - le soir de l'acte pour un AOD en deux prises quotidiennes.
+
+En cas d'accident hémorragique peropératoire, le schéma postopératoire à appliquer correspond à celui appliqué en cas de chirurgie à risque hémorragique élevé : la reprise du traitement anticoagulant doit être retardée, et dans l'attente, une thromboprophylaxie veineuse (mécanique ou médicamenteuse) sera prescrite en cas de risque thromboembolique veineux.
+
+### **3. Gestes à risque hémorragique élevé**
+
+#### *3.1 Le risque hémorragique élevé*
+
+Un acte invasif à risque hémorragique élevé est défini, ici, comme un geste qui ne peut être raisonnablement réalisé en présence d'anticoagulant<sup>15</sup>. Il s'agit donc, comme pour les AVK, de faire une fenêtre sans anticoagulant pour que l'hémostase du geste soit optimale. Cette classe regroupe donc les interventions parfois séparées dans la littérature comme « interventions à risque hémorragique modéré » et « interventions à risque hémorragique majeur »<sup>16</sup>.
+
+#### *3.2 En préopératoire*
+
+Les stratégies d'arrêt sont résumées dans le tableau 1.Les délais d'arrêt proposés supposent que le patient est traité au long cours selon le bon schéma posologique en tenant compte de sa clairance de la créatinine (ClCr) actuelle calculée selon la formule de Cockcroft et Gault, de son âge, et d'éventuelles interactions médicamenteuses susceptibles d'augmenter les concentrations plasmatiques d'AOD (inhibiteurs de la P-glycoprotéine pour tous les AOD, inhibiteurs du cytochrome CYP3A4 pour les -xabans). Les indications et posologies usuelles et adaptées aux situations cliniques à risque telles que l'insuffisance rénale ou l'âge avancé sont rappelées dans le tableau 2.
+
+Le schéma proposé pour le risque hémorragique élevé s'applique indistinctement pour le rivaroxaban, l'apixaban, et l'edoxaban en raison des grandes similitudes dans la pharmacocinétique de ces médicaments. Ainsi, et en tenant compte de l'élimination partiellement rénale de ces médicaments, une dernière prise à J-3 avant le geste est proposée pour des clairances supérieures à 30 ml/min.
+
+Compte tenu de l'élimination principalement rénale du dabigatran, une durée d'arrêt différente est proposée en fonction de la ClCr calculée selon la formule de Cockcroft et Gault: dernière prise à J-4 si ClCr  $\geq$  50 ml/min et dernière prise à J-5 si ClCr comprise entre 30 et 50 ml/min. Ceci suppose que l'on dispose d'une créatininémie récente (moins d'un an en l'absence d'événement intercurrent) lors de la consultation d'anesthésie. Celle-ci doit être disponible car régulièrement surveillée par le médecin référent en charge du patient<sup>17</sup>.
+
+#### Procédures à très haut risque hémorragique
+
+Pour les procédures à très haut risque hémorragique telles que la neurochirurgie intracrânienne ou les ponctions/anesthésies neuraxiales, un schéma adapté peut être proposé par une équipe multidisciplinaire référente. Un délai d'arrêt plus long des AOD peut être appliqué en préopératoire, avec une dernière prise à J-5 pour les -xabans et ledabigatran en l'absence d'insuffisance rénale. Cette stratégie doit s'appliquer sans relais par une héparine. Quel que soit l'AOD, si une accumulation ou une élimination prolongée est suspectée (par exemple : insuffisance rénale sévère), une mesure de la concentration de l'AOD peut être discutée.
+
+L'ensemble du groupe déconseille la réalisation de techniques d'anesthésies rachidiennes ou de blocs profonds chez les patients pour lesquelles une concentration détectable de l'AOD est possible (délai d'arrêt insuffisant) ; notamment chez les patients traités par dabigatran âgés de plus de 80 ans ou avec une insuffisance rénale.
+
+#### Phase précoce d'un événement thrombo-embolique veineux
+
+Pour les patients traités à la phase précoce d'une thrombose veineuse profonde ou d'une embolie pulmonaire, les doses de rivaroxaban sont de 15 mg x 2 pendant 3 semaines, les doses d'apixaban sont de 10 mg x 2 pendant 10 jours. Pendant cette période où la nécessité de programmer une chirurgie est une éventualité rare et doit être évitée, le schéma proposé dans le tableau 1 ne s'applique pas. Une stratégie personnalisée doit être discutée par une équipe multidisciplinaire référente.
+
+Chez les patients devant bénéficier d'une intervention à risque hémorragique élevé, et ayant un risque thrombotique particulièrement élevé, une stratégie alternative peut être envisagée par une équipe multidisciplinaire référente.
+
+#### *3.3 Pas de relais, pas de dosage*
+
+Avec les schémas préopératoires proposés pour les -xabans et le dabigatran, afin de ne pas augmenter le risque hémorragique, il n'y a pas lieu de réaliser un relais par héparine (HNF ou HBPM) en préopératoire, sauf cas exceptionnels à très haut risque thrombotique dont laprise en charge relève d'une équipe multidisciplinaire référente. Dans ces situations, les AOD et les héparines ne doivent pas être administrés simultanément.
+
+En dehors de circonstances exceptionnelles (cf supra), ou à des fins de recherche clinique (registres), il n'y a pas lieu de faire un dosage ou des tests d'hémostase standard pour vérifier la concentration résiduelle pour des gestes électifs lorsque les délais d'arrêt préconisés sont respectés et qu'une accumulation ou une élimination prolongée ne sont pas suspectées.
+
+### *3.4 Reprise de l'anticoagulation*
+
+Anticoagulation à dose « prophylactique » au moins 6 heures après l'acte invasif, si une thromboprophylaxie veineuse est indiquée.
+
+S'il existe une indication à une thromboprophylaxie veineuse (risque lié à la chirurgie, facteurs de risque individuel), une héparine (HNF ou HBPM) ou le fondaparinux est administré(e) au moins 6 heures après la fin de l'acte invasif.
+
+Les AOD dans leur schémas posologiques adaptés à la prévention de la maladie thromboembolique veineuse pourront être prescrits dans les indications autorisées en évitant tout chevauchement lors des changements de molécules.
+
+Anticoagulation à dose « curative » dès que l'hémostase le permet (à titre indicatif: entre 24 et 72 heures).
+
+Dès que l'hémostase chirurgicale le permet et en l'absence de cathéter périmédullaire, l'AOD prescrit initialement peut être re conduit à dose adaptée à la fibrillation atriale ou au traitement de la maladie thromboembolique veineuse. Habituellement, une dose « curative » d'anticoagulant peut être envisagée entre la 24ème et la 72ème heure postopératoire. Cette première dose « curative » fera suite à une anticoagulation à doseprophylactique si indiquée (cf supra), en évitant tout chevauchement de molécules (la première dose d'AOD sera administrée 12 heures après la dernière administration sous-cutanée d'HBPM à dose « prophylactique »).
+
+En présence d'un cathéter d'analésie périmédullaire, l'anticoagulation thérapeutique doit se faire par héparine afin de permettre le retrait du cathéter en toute sécurité (il existe des recommandations spécifiques de gestion des cathéters périmédullaires en cas d'anticoagulation à doses « prophylactiques »<sup>18</sup>).
+
+La créatininémie sera mesurée en postopératoire si l'acte invasif et/ou l'état médical du patient font craindre une altération de la fonction rénale. Une réduction de la clairance de la créatinine en postopératoire (selon la formule de Cockcroft et Gault) imposera de prescrire une dose d'AOD adaptée ou une autre molécule anticoagulante.
+
+#### **4. Conclusion**
+
+Cette réactualisation propose de raccourcir les délais d'interruption préopératoire des AOD dans une démarche sécuritaire. Les délais proposés assurent, dans la grande majorité des cas, une concentration d'AOD compatible avec la réalisation de l'acte invasif tout en évitant la prescription de relais par des héparines en préopératoire. La reprise postopératoire de l'anticoagulation curative reprend les principes généraux qui s'appliquent à tous les anticoagulants et qui tiennent compte du risque de saignement, du type de médicament, du risque thrombo-embolique veineux et artériel.Figure 1. Gestes invasifs à faible risque hémorragique
+
+The diagram illustrates three different dosing schedules for Antiplatelet Drugs (AOD) relative to an intervention, which occurs at day J0. The timeline is divided into days J-2, J-1, J0, and J+1. Green hexagons represent AOD doses, and red 'X' marks indicate doses that should be withheld.
+
+- **AOD en deux prises par jour:** Doses are taken on J-2, J-1, and J+1. On J0, there are two doses, both marked with a red 'X'. A double-headed arrow between the two doses on J0 is labeled "minimum 6h".
+- **AOD en une prise le matin:** Doses are taken on J-2, J-1, and J+1. On J0, there is one dose marked with a red 'X'.
+- **AOD en une prise le soir:** Doses are taken on J-2, J-1, and J+1. On J0, there is one dose marked with a red 'X'. A double-headed arrow between the dose on J-1 and the dose on J+1 is labeled "minimum 6h".
+
+**INTERVENTION**
+
+**AOD en deux prises par jour**
+
+**AOD en une prise le matin**
+
+**AOD en une prise le soir**
+
+minimum 6h
+
+J-2 J-1 J0 J+1Tableau 1. Gestion périopératoire des AOD en fonction du risque hémorragique.
+
+<table border="1">
+<thead>
+<tr>
+<th data-bbox="122 161 218 208">
+<br/>Groupe d'intérêt<br/>en hémostase<br/>péri-opératoire
+        </th>
+<th data-bbox="218 161 491 208">Risque hémorragique faible</th>
+<th colspan="3" data-bbox="491 161 855 208">Risque hémorragique élevé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="122 208 218 391" rowspan="3">
+<b>Avant<br/>le geste</b>
+</td>
+<td data-bbox="218 208 491 348" rowspan="3">
+<b>Pas de prise la veille au soir ni le<br/>matin de l'acte invasif</b>
+</td>
+<td data-bbox="491 208 598 264">
+                    rivaroxaban<br/>apixaban<br/>edoxaban
+                </td>
+<td data-bbox="598 208 700 264">
+                    Cockcroft<br/>≥ 30 ml/mn
+                </td>
+<td data-bbox="700 208 855 264">
+                    Dernière prise à J-3
+                </td>
+</tr>
+<tr>
+<td data-bbox="491 264 598 348" rowspan="2">
+                    dabigatran
+                </td>
+<td data-bbox="598 264 700 308">
+                    Cockcroft<br/>≥ 50 ml/mn
+                </td>
+<td data-bbox="700 264 855 308">
+                    Dernière prise à J-4
+                </td>
+</tr>
+<tr>
+<td data-bbox="598 308 700 348">
+                    Cockcroft<br/>30-49 ml/mn
+                </td>
+<td data-bbox="700 308 855 348">
+                    Dernière prise à J-5
+                </td>
+</tr>
+<tr>
+<td data-bbox="122 348 218 391"></td>
+<td data-bbox="218 348 491 391"></td>
+<td colspan="3" data-bbox="491 348 855 391">
+                    Pas de relais<br/>Pas de dosage
+                </td>
+</tr>
+<tr>
+<td data-bbox="122 391 218 504" rowspan="2">
+<b>Après<br/>le geste</b>
+</td>
+<td data-bbox="218 391 491 504" rowspan="2">
+<b>Reprise à l'heure habituelle et<br/>au moins 6 h après la fin de<br/>l'acte invasif</b>
+</td>
+<td colspan="3" data-bbox="491 391 855 448">
+<b>Anticoagulant à dose « prophylactique »</b><br/>
+                    au moins 6 heures après l'acte invasif, si une<br/>thromboprophylaxie veineuse est indiquée
+                </td>
+</tr>
+<tr>
+<td colspan="3" data-bbox="491 448 855 504">
+<b>Anticoagulant à dose « curative »</b><br/>
+                    dès que l'hémostase le permet<br/>
+                    (à titre indicatif: entre 24 et 72 heures)
+                </td>
+</tr>
+</tbody>
+</table>Tableau 2. Indications et posologies usuelles des AOD.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>dabigatran<br/>Pradaxa®</th>
+<th>rivaroxaban<br/>Xarelto®</th>
+<th>apixaban<br/>Eliquis®</th>
+<th>edoxaban<br/>Lixiana®</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prévention de la TVP après chirurgie orthopédique majeure</td>
+<td>220 mg x 1/j<br/>ou<br/>150 mg x 1/j si : ClCr 30-50 ml/min,<br/>inhibiteurs P-gp, âge ≥ 75 ans<br/><br/>PTH : 28-35 jours<br/>PTG : 10 jours</td>
+<td>10 mg x 1/j<br/><br/>PTH : 5 semaines<br/>PTG : 2 semaines</td>
+<td>2,5 mg x 2/j<br/><br/>PTH : 32-38 jours<br/>PTG : 10-14 jours</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Traitement de la TVP ou EP<br/>Prévention de la MTEV au long cours</td>
+<td>150 mg x 2/j<br/>ou<br/>110 mg x 2/j si : âge ≥ 80 ans ou prise de verapamil</td>
+<td>15 mg x 2/j (3 semaines),<br/>puis 20 mg x 1/j</td>
+<td>10 mg x 2/j pendant 7 jours,<br/>puis 5 mg x 2/j<br/>puis 2,5 mg x 2/j en prévention des récidives après 6 mois de traitement d'une TVP ou EP</td>
+<td>60 mg x 1/j<br/>ou<br/>30 mg x 1/j si : ClCr 15-50 ml/min, poids ≤ 60kg,<br/>inhibiteurs P-gp</td>
+</tr>
+<tr>
+<td>Prévention des AVC et embolies dans la FA non valvulaire</td>
+<td>150 mg x 2/j<br/>ou<br/>110 mg x 2/j si : âge ≥ 80 ans ou prise de verapamil</td>
+<td>20 mg x 1/j<br/>ou<br/>15 mg x 1/j si: ClCr 30-49 ml/min</td>
+<td>5 mg x 2/j<br/>ou<br/>2,5 mg x 2/j si: 2 critères : âge ≥ 80 ans, poids ≤ 60kg, créatinine ≥ 133µmol/l</td>
+<td>60 mg x 1/j<br/>ou<br/>30 mg x 1/j si: ClCr 15-50 ml/min, poids ≤ 60kg,<br/>inhibiteurs P-gp</td>
+</tr>
+</tbody>
+</table>
+
+TVP : thrombose veineuse profonde ; EP : embolie pulmonaire ; MTEV : maladie thromboembolique veineuse ; AVC : accident vasculaire cérébral ; FA : fibrillation atriale ; ClCr : clairance de la créatinine selon la formule de Cockcroft et Gault ; P-gp : p glycoprotéine## References
+
+1. 1. Sie P, Samama CM, Godier A, Rosencher N, Steib A, Llau JV, Van der Linden P, Pernod G, Lecompte T, Gouin-Thibault I, Albaladejo P. Surgery and invasive procedures in patients on long-term treatment with direct oral anticoagulants: Thrombin or factor-xa inhibitors. Recommendations of the working group on perioperative haemostasis and the french study group on thrombosis and haemostasis. *Archives of cardiovascular diseases*. 2011;104:669-676
+2. 2. Sie P, Samama CM, Godier A, Rosencher N, Steib A, Llau JV, van der Linden P, Pernod G, Lecompte T, Gouin-Thibault I, Albaladejo P. Chirurgies et actes invasifs chez les patients traités au long cours par un anticoagulant oral anti-iiia ou anti-xa direct propositions du groupe d'intérêt en hemostase perioperatoire (gihp) et du groupe d'études sur l'hemostase et la thrombose (geht). *Annales françaises d'anesthésie et de réanimation*. 2011;30:645-650
+3. 3. Agence Nationale de Sécurité du Médicament. Les anticoagulants en France en 2014 : État des lieux, synthèse et surveillance.
+4. 4. Garcia D, Alexander JH, Wallentin L, Wojdyla DM, Thomas L, Hanna M, Al-Khatib SM, Dorian P, Ansell J, Commerford P, Flaker G, Lanas F, Vinereanu D, Xavier D, Hylek EM, Held C, Verheugt FW, Granger CB, Lopes RD. Management and clinical outcomes in patients treated with apixaban vs warfarin undergoing procedures. *Blood*. 2014;124:3692-3698
+5. 5. Healey JS, Eikelboom J, Douketis J, Wallentin L, Oldgren J, Yang S, Themeles E, Heidbuchel H, Avezum A, Reilly P, Connolly SJ, Yusuf S, Ezekowitz M. Peri-procedural bleeding and thromboembolic events with dabigatran compared with warfarin: Results from the randomized evaluation of long-term anticoagulation therapy (re-ly) randomized trial. *Circulation*. 2012;126:343-348
+6. 6. Sherwood MW, Douketis JD, Patel MR, Piccini JP, Hellkamp AS, Lokhnygina Y, Spyropoulos AC, Hankey GJ, Singer DE, Nessel CC, Mahaffey KW, Fox KA, Califf RM, Becker RC. Outcomes of temporary interruption of rivaroxaban compared with warfarin in patients with nonvalvular atrial fibrillation: Results from the rivaroxaban once daily, oral, direct factor xa inhibition compared with vitamin k antagonism for prevention of stroke and embolism trial in atrial fibrillation (rocket af). *Circulation*. 2014;129:1850-1859
+7. 7. Douketis JD, Healey JS, Brueckmann M, Eikelboom JW, Ezekowitz MD, Fraessdorf M, Noack H, Oldgren J, Reilly P, Spyropoulos AC, Wallentin L, Connolly SJ. Perioperative bridging anticoagulation during dabigatran or warfarin interruption among patients who had an elective surgery or procedure. Substudy of the re-ly trial. *Thrombosis and haemostasis*. 2015;113:625-632
+8. 8. Beyer-Westendorf J, Gelbricht V, Forster K, Ebertz F, Kohler C, Werth S, Kuhlisch E, Stange T, Thieme C, Daschkow K, Weiss N. Peri-interventional management of novel oral anticoagulants in daily care: Results from the prospective dresden noac registry. *European heart journal*. 2014;35:1888-1896
+9. 9. Schulman S, Carrier M, Lee AY, Shivakumar S, Blostein M, Spencer FA, Solymoss S, Barty R, Wang G, Heddle N, Douketis JD. Perioperative management of dabigatran: A prospective cohort study. *Circulation*. 2015;132:167-173
+10. 10. Winkle RA, Mead RH, Engel G, Kong MH, Patrawala RA. Peri-procedural interrupted oral anticoagulation for atrial fibrillation ablation: Comparison of aspirin, warfarin, dabigatran, and rivaroxaban. *Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology*. 2014;16:1443-1449
+11. 11. Godier A, Martin AC, Leblanc I, Mazoyer E, Horellou MH, Ibrahim F, Flaujac C, Golmard JL, Rosencher N, Gouin-Thibault I. Peri-procedural management of dabigatran and rivaroxaban: Duration of anticoagulant discontinuation and drug concentrations. *Thrombosis research*. 2015
+12. 12. Douketis JD, Spyropoulos AC, Kaatz S, Becker RC, Caprini JA, Dunn AS, Garcia DA, Jacobson A, Jaffer AK, Kong DF, Schulman S, Turpie AG, Hasselblad V, Ortel TL. Perioperative bridging anticoagulation in patients with atrial fibrillation. *The New England journal of medicine*. 2015;373:823-833
+13. 13. Siegal D, Yudin J, Kaatz S, Douketis JD, Lim W, Spyropoulos AC. Peri-procedural heparin bridging in patients receiving vitamin k antagonists: Systematic review and meta-analysis of bleeding and thromboembolic rates. *Circulation*. 2012;126:1630-1639
+14. 14. Haute Autorité de Santé. Prise en charge des surdosages en antivitamines k, des situations à risque hémorragique et des accidents hémorragiques chez les patients traités par antivitamines k en ville et en milieu hospitalier. 2008.
+15. 15. Douketis JD, Spyropoulos AC, Spencer FA, Mayr M, Jaffer AK, Eckman MH, Dunn AS, Kunz R. Perioperative management of antithrombotic therapy: Antithrombotic therapy and prevention ofthrombosis, 9th ed: American college of chest physicians evidence-based clinical practice guidelines. *Chest*. 2012;141:e326S-350S
+
+1. 16. Heidbuchel H, Verhamme P, Alings M, Antz M, Diener HC, Hacke W, Oldgren J, Sinnaeve P, Camm AJ, Kirchhof P. Updated european heart rhythm association practical guide on the use of non-vitamin k antagonist anticoagulants in patients with non-valvular atrial fibrillation. *Europace : European pacing, arrhythmias, and cardiac electrophysiology : journal of the working groups on cardiac pacing, arrhythmias, and cardiac cellular electrophysiology of the European Society of Cardiology*. 2015
+2. 17. Heidbuchel H, Verhamme P, Alings M, Antz M, Hacke W, Oldgren J, Sinnaeve P, Camm AJ, Kirchhof P. Ehra practical guide on the use of new oral anticoagulants in patients with non-valvular atrial fibrillation: Executive summary. *European heart journal*. 2013;34:2094-2106
+3. 18. Rosencher N, Bonnet MP, Sessler DI. Selected new antithrombotic agents and neuraxial anaesthesia for major orthopaedic surgery: Management strategies. *Anaesthesia*. 2007;62:1154-1160

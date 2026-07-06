@@ -1,0 +1,57 @@
+{
+  "file_name": "2_AFAR_COURT_Bris-dentaires-perianesthesiques-copie.pdf",
+  "num_pages": 4,
+  "total_token_count": 7527,
+  "total_chunks": 91,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2184,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2061,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2009,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1273,
+      "num_chunks": 18,
+      "num_images": 0
+    }
+  ]
+}

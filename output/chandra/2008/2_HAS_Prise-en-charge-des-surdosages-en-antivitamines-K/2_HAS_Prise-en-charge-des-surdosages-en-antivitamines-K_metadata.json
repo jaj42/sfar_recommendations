@@ -1,0 +1,261 @@
+{
+  "file_name": "2_HAS_Prise-en-charge-des-surdosages-en-antivitamines-K.pdf",
+  "num_pages": 21,
+  "total_token_count": 24536,
+  "total_chunks": 253,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 412,
+      "num_chunks": 7,
+      "num_images": 2
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 344,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1180,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 620,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1381,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1232,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1704,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1560,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1402,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1418,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1420,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1651,
+      "num_chunks": 24,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1485,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1437,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 938,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 950,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 730,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 866,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1357,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1278,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1171,
+      "num_chunks": 5,
+      "num_images": 0
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+## **VENTILATION NON INVASIVE AU COURS DE L'INSUFFISANCE RESPIRATOIRE AIGUE (NOUVEAU-NE EXCLU)**
+
+3<sup>ème</sup> conférence de consensus commune SFAR/SPLF/SRLF – le 12 octobre 2006
+
+*Jean Paul Viale  
+Hôpital de la Croix Rousse – 69317 Lyon*
+
+La 3<sup>ème</sup> conférence de consensus sur la ventilation non invasive (VNI) a été tenue le 12 octobre 2006 avec pour mission la détermination de la place et les modalités de ventilation non invasive dans l'insuffisance respiratoire aiguë.
+
+### **1- LA METHODE**
+
+La méthodologie de conférence de consensus a été choisie de préférence à la méthodologie « recommandations pour la pratique clinique » en raison du caractère bien défini du thème à traiter, qui peut être décliné en quatre questions précises. Les deux premières conférences de consensus sur le même thème avaient été tenues en 1994 et 2001, l'abondance récente de la littérature a justifié une nouvelle mise au point sur les quatre questions suivantes :
+
+- ▪ Quels patients relèvent ou ne relèvent pas de la VNI ?
+- ▪ Quels sont les critères cliniques pour instaurer la VNI et avec quel mode ?
+- ▪ Quels sont les moyens requis pour la mise en œuvre de la VNI ?
+- ▪ Quels sont les critères d'efficacité, d'échec et les risques encourus ?
+
+Cette conférence de consensus avait en outre deux originalités. La première est la méthodologie retenue pour la cotation des recommandations, la seconde est la mission confiée aux sociétés savantes de fournir, après la conférence de consensus, un référentiel et des indicateurs permettant d'évaluer les pratiques professionnelles relatives à la mise en œuvre de la VNI. Le système de cotation choisi est le système GRADE <sup>[1]</sup>. Cette évaluation, adoptée par des sociétés savantes de plus en plus nombreuses, présente trois modifications principales par rapport au système classique :
+
+- ▪ Le niveau de la recommandation est découpé du niveau de la qualité de la preuve. Le système de cotation initial établissait en effet un lien systématique entre la qualité de la preuve et le niveau de la recommandation qui s'ensuivait. On pouvait ainsi aboutir à l'effet paradoxal suivant, une pratique clinique évidente telle que l'administration d'antibiotiques lors des pneumopathies communautaires ne bénéficiait pas d'un niveau de recommandation élevé, parce qu'aucune étude contrôlée randomisée en double aveugle n'avait été faite sur ce sujet étant donné son caractère trivial et potentiellement non éthique. En revanche, l'administration de protéine C au cours du choc septique bénéficiait d'un niveau de recommandation élevé, parce qu'il existe une étude contrôlée randomisée en double aveugle sur le sujet. On connaît cependant les discussions actuelles à ce sujet.
+- ▪ Le niveau de recommandation prend en compte la balance bénéfice/effet délétère. Il convient d'inclure dans ces effets délétères les risques du traitement, son coût, ainsi que la charge qu'il représente pour le patient. Ce dernier élément peut conduire à diminuer un niveau de recommandation initialement placé haut. Ainsi par exemple, dans lesrecommandations concernant la prise en charge des cancers non à petites cellules ne pouvant bénéficier d'une chirurgie, de nombreux essais contrôlés randomisés en double aveugle montrent un bénéfice de l'adjonction de chimiothérapie à la radiothérapie comparativement à la radiothérapie seule. Cependant, le bénéfice est de quelques mois en terme de médiane de survie, alors que la chimiothérapie adjuvante est une contrainte lourde pour le patient. Malgré l'existence d'études de bonne qualité, la recommandation d'une chimiothérapie adjuvante ne peut être forte.
+
+- ▪ L'analyse des qualités de niveau de preuve peut conduire à dégrader des niveaux classés initialement élevés, ou au contraire à reconsidérer vers le haut des niveaux classés bas. Il est, en effet, d'expérience courante de constater qu'une étude contrôlée randomisée de malades sélectionnés conduit à un résultat qui n'est pas confirmé par les études ultérieures prenant en compte l'efficacité d'une thérapeutique ou d'une stratégie exécutée dans la « vraie vie » de nos pratiques médicales. A l'inverse, une étude d'observation incluant un grand nombre de malades peut avoir un intérêt pour la pratique clinique, alors que ce niveau de preuve est considéré généralement comme bas.
+
+## **2- LA LECTURE DE LA CONFERENCE DE CONSENSUS**
+
+Ne sont présentés ici que les résultats principaux de cette conférence de consensus. Le texte intégral, court ou long, peut être consulté sur le site des différentes sociétés savantes parties prenantes (SFAR[[www.sfar.org](http://www.sfar.org)]/SPLF[[www.splf.org](http://www.splf.org)]/SRLF[[www.srlf.org](http://www.srlf.org)]).
+
+### **2.1- Quels patients relèvent ou ne relèvent pas de la VNI ?**
+
+Les contre-indications de la VNI sont nombreuses et issues de la réflexion de bon sens du clinicien, tel que coma, épuisement respiratoire, sepsis sévère. On doit noter cependant une contre-indication d'expertise insuffisante de l'équipe soignante. Les différentes indications quant à elles, ont été rassemblées dans trois groupes :
+
+- ▪ Indications pour lesquelles la VNI présente un intérêt certain et qui constitue un traitement de première ligne. Il n'est plus à démontrer que le traitement de première intention de la décompensation d'un malade BPCO est la VNI, cette proposition s'appuie sur quinze essais randomisés et quatre méta-analyses. La VNI diminue les signes cliniques de décompensation (fréquence respiratoire, dyspnée, amélioration du pH), l'incidence de l'intubation de 60%, et la mortalité de 50%. De même, quinze essais randomisés et trois méta-analyses ont montré que la VNI diminuait l'incidence de l'intubation et la mortalité lors de la prise en charge initiale de l'oedème aigu pulmonaire d'origine cardiogénique.
+- ▪ Un certain nombre d'indications pour lesquelles l'intérêt de la VNI n'a pas été établi de façon sûre mais dont les patients peuvent en tirer avantage. Il faut ranger dans ce groupe l'insuffisance respiratoire aiguë des patients immunodéprimés <sup>[2,3]</sup>, la décompensation respiratoire post opératoire de la chirurgie thoracique <sup>[4]</sup> et abdominale <sup>[5]</sup>, la pratique de la VNI comme stratégie de sevrage des patients BPCO <sup>[6,7]</sup>, enfin la prévention de l'insuffisance respiratoire aiguë post extubation <sup>[8,9]</sup>. Cette dernière indication mérite d'être précisée car l'utilisation de la VNI en période post extubation peut être envisagée dans trois circonstances différentes :
+  - - la VNI conçue comme stratégie dans une procédure d'extubation, le patient étant extubé alors qu'il ne remplit pas les critères de sevrabilité, maisimmédiatement pris en charge par VNI. Seuls les patients BPCO bénéficient d'une telle stratégie.
+
+- - La VNI conçue comme traitement préventif après extubation chez les patients à risque de décompensation. Dans un tel contexte, deux études contrôlées déjà mentionnées plus haut montrent l'intérêt de la VNI en terme de mortalité en soins intensifs chez des malades sélectionnés sur leur risque de décompensation post extubation, en pratique principalement les patients hypercapniques.
+- - Enfin l'utilisation de la VNI dans les cas de décompensation respiratoire survenant après une extubation. Une étude réalisée dans ce type d'indication montre que la VNI ne diminue pas la nécessité de ré intubation par rapport à un traitement standard <sup>[10]</sup>. Il existe même une mortalité plus élevée dans le groupe pris en charge par VNI, probablement par un délai de ré intubation plus long dans ce dernier groupe.
+
+- ▪ Des pathologies pour lesquelles aucun avantage de la VNI n'est démontrée et qu'il ne faut probablement pas entreprendre dans ces situations : la pneumopathie hypoxémiante, le syndrome de détresse respiratoire aiguë, le traitement de l'insuffisance respiratoire aiguë post extubation comme vu précédemment, enfin les maladies neuromusculaires aiguës réversibles.
+- ▪ Il existe un dernier groupe, pour lequel il n'a pas été possible, au vu de la documentation scientifique actuelle, de déterminer l'attitude, tel que l'asthme aigu grave, le syndrome d'obésité hypoventilation.
+
+## **2.2- Quels sont les critères cliniques pour instaurer la VNI et avec quel mode ?**
+
+Concernant les décompensations de la BPCO, le mode à utiliser est le mode aide inspiratoire avec pression expiratoire positive (PEP), à l'exclusion de la ventilation spontanée avec PEP. Cette VNI est à entreprendre dans les décompensations avec acidose respiratoire ( $pH < 7.35$ ). Quant à la pratique de la VNI dans l'œdème pulmonaire cardiogénique, elle doit être associée à un traitement médical optimisé, et ne doit en aucune façon retarder la prise en charge d'un traitement spécifique d'un syndrome coronarien aigu. Aucun des deux modes disponibles (ventilation spontanée avec PEP, aide inspiratoire avec PEP) n'a démontré de supériorité dans le traitement de l'OAP cardiogénique. La question de la VNI doit être posée en présence de signes cliniques de détresse respiratoire, d'hypercapnie ou de non réponse au traitement médical initial.
+
+La VNI pratiquée en post opératoire ne présente aucune particularité. En post opératoire de chirurgie de résection pulmonaire, la VNI (aide inspiratoire de faible niveau) est indiquée en cas d'insuffisance respiratoire aiguë. En chirurgie abdominale, la pratique de la VNI ne doit pas retarder la recherche et la prise en charge d'une complication chirurgicale. La pratique de la VNI n'est pas recommandée en première intention pour les pneumopathies hypoxémiantes. Si une telle stratégie est employée, elle peut l'être sous forme d'aide inspiratoire avec pression expiratoire positive, mais surtout dans une ambiance de réanimation permettant une prise en charge avec intubation immédiate. En effet, le risque d'échec est important (environ 70%) et précoce survenant dans les deux premiers jours.### **2.3- Quels sont les moyens requis pour la mise en œuvre de la VNI en terme de matériel ?**
+
+La mise en œuvre d'une VNI nécessite le choix du matériel:
+
+- 2.3-1. Concernant l'interface, le masque facial est recommandé en première intention par rapport au masque nasal ou à l'embout buccal. La survenue potentielle de complications cutanées conduit à utiliser d'autres modèles de masques qui doivent être disponibles en unités de soins.
+- 2.3-2. L'humidification de l'air inspiré peut améliorer la tolérance de la VNI, elle peut être réalisée avec un filtre échangeur de chaleur et d'humidité, ou un humidificateur chauffant en cas d'hypercapnie sévère.
+- 2.3-3. Les modes ventilatoires sont de deux types : la ventilation spontanée avec PEP et la ventilation en aide inspiratoire avec PEP. Ces derniers nécessitent un respirateur permettant de régler le trigger inspiratoire, la pente de montée en pression, le temps inspiratoire maximal et, sur certains appareils, le cyclage expiratoire. Le monitoring de ces modes doit inclure l'affichage du volume courant expiré, et les pressions maximales d'inspiration.
+- 2.3-4. Quant aux réglages initiaux, ils sont habituellement les suivants :
+  - - le niveau de PEP est compris entre 5 et 10cm d'H<sub>2</sub>O.
+  - - le niveau d'aide inspiratoire est progressivement adapté afin d'obtenir un volume courant expiré cible autour de 6 à 8ml/kg, le niveau de départ de l'aide est habituellement entre 6 et 8cm d'H<sub>2</sub>O. Le niveau maximal inspiratoire ne doit pas dépasser 20cm d'H<sub>2</sub>O, au-delà, l'aide inspiratoire peut majorer les fuites et provoquer l'insufflation d'air dans l'estomac. L'assistance peut être effectuée en ventilation assistée contrôlée au lieu d'être effectuée en aide inspiratoire, elle est cependant moins bien tolérée.
+
+La surveillance de cette VNI est essentiellement clinique pendant la première heure, avec mesure de la fréquence respiratoire, de la pression artérielle et de l'oxymétrie de pouls. La réalisation d'une gazométrie artérielle est pratiquée après au moins une heure de VNI. Cette pratique de VNI doit être réalisée au sein d'une équipe ayant reçu une formation spécifique, et disposant de protocoles de mise en route et de surveillance.
+
+### **2.4- Quels sont les critères d'efficacité, d'échec et les risques encourus ?**
+
+Le succès de la VNI dépend grandement de l'environnement soignant. En pré hospitalier, sa pratique se limite à la ventilation spontanée avec PEP dans l'œdème aigu pulmonaire cardiogénique. La prise en charge de décompensation de BPCO en aide inspiratoire nécessite une équipe formée et entraînée. Cette prise en charge peut parfaitement être réalisée en unité médicale, à condition que la décompensation de BPCO soit modérée, avec en pratique un pH > 7.30. Quelque soit le lieu de réalisation de la VNI, elle doit être réalisée par un personnel compétent, disposant du matériel nécessaire et de protocoles. Cette équipe doit être formée à l'identification et au traitement précoce des risques d'échec de la VNI.
+
+Le tableau suivant résume les critères prédictifs d'échec spécifiques pour deux indications principales de VNI.## Critères associés à un risque d'échec de VNI
+
+<table border="1">
+<thead>
+<tr>
+<th>Indication</th>
+<th>A l'admission</th>
+<th>Réévaluation précoce</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Décompensation de BPCO</td>
+<td>
+<ul style="list-style-type: none;">
+<li>• pH &lt; 7,25</li>
+<li>• FR &gt; 35 cycles/min</li>
+<li>• Score de Glasgow &lt; 11</li>
+<li>• Pneumopathie</li>
+<li>• Comorbidités cardio-vasculaires</li>
+<li>• Score d'activité quotidienne défavorable</li>
+</ul>
+</td>
+<td>
+          A la 2<sup>ème</sup> heure
+          <ul style="list-style-type: none;">
+<li>• pH &lt; 7,25</li>
+<li>• FR &gt; 35 cycles/min</li>
+<li>• Score de Glasgow &lt; 11</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>IRA hypoxémique sur cœur et poumons antérieurement sains</td>
+<td>
+<ul style="list-style-type: none;">
+<li>• Age &gt; 40 ans</li>
+<li>• FR &gt; 38 cycles/min</li>
+<li>• Pneumopathie communautaire</li>
+<li>• Sepsis</li>
+<li>• IRA post-opératoire par complication chirurgicale</li>
+</ul>
+</td>
+<td>
+          A la 1<sup>ère</sup> heure
+          <ul style="list-style-type: none;">
+<li>• PaO<sub>2</sub>/FIO<sub>2</sub> &lt; 200 mmHg</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+## CONCLUSION
+
+Au total, les mérites essentiels de cette conférence de consensus ont été les suivants :
+
+- - Confirmer les deux indications principales de VNI qui représentent le traitement de première ligne de ces détresses respiratoires. Un service accueillant ces patients doit disposer de la pratique de la VNI.
+- - Préciser les indications dans lesquelles la VNI mérite d'être essayée, entourée de précautions de réalisations, permettant de changer rapidement de stratégie : insuffisance respiratoire post opératoire, stratégie de sevrage, prévention des insuffisances respiratoires post extubation.
+- - Enfin, mettre en évidence le caractère potentiellement délétère de pratique de la VNI dans le syndrome de détresse respiratoire aigu ou les pneumopathies hypoxémiantes graves, la prise en charge de détresse respiratoire post extubation.## REFERENCES
+
+- [1] Grading quality of evidence and strength of recommendations. *BMJ* 2004; **328**: 1490-8.
+- [2] Hilbert G, Gruson D, Vargas F, Valentino R, Gbikpi-Benissan G, Dupon M, et al.: Noninvasive ventilation in immunosuppressed patients with pulmonary infiltrates, fever, and acute respiratory failure. *N Engl J Med* 2001; **344**: 481-7.
+- [3] Antonelli M, Conti G, Bufi M, Costa MG, Lappa A, Rocco M, et al.: Noninvasive ventilation for treatment of acute respiratory failure in patients undergoing solid organ transplantation: a randomized trial. *Jama* 2000; **283**: 235-41.
+- [4] Auriant I, Jallot A, Herve P, Cerrina J, Le Roy Ladurie F, Fournier JL, et al.: Noninvasive Ventilation Reduces Mortality in Acute Respiratory Failure following Lung Resection. *Am. J. Respir. Crit. Care Med.* 2001; **164**: 1231-5.
+- [5] Squadrone V, Coha M, Cerutti E, Schellino MM, Biolino P, Occella P, et al.: Continuous Positive Airway Pressure for Treatment of Postoperative Hypoxemia: A Randomized Controlled Trial. *JAMA* 2005; **293**: 589-95.
+- [6] Nava S, Ambrosino N, Clini E, Prato M, Orlando G, Vitacca M, et al.: Noninvasive mechanical ventilation in the weaning of patients with respiratory failure due to chronic obstructive pulmonary disease. A randomized, controlled trial. *Ann Intern Med* 1998; **128**: 721-8.
+- [7] Ferrer M, Esquinas A, Arancibia F, Bauer TT, Gonzalez G, Carrillo A, et al.: Noninvasive Ventilation during Persistent Weaning Failure: A Randomized Controlled Trial. *Am. J. Respir. Crit. Care Med.* 2003; **168**: 70-6.
+- [8] Ferrer M, Valencia M, Nicolas JM, Bernadich O, Badia JR, Torres A: Early noninvasive ventilation averts extubation failure in patients at risk: a randomized trial. *Am J Respir Crit Care Med* 2006; **173**: 164-70.
+- [9] Nava S, Gregoretti C, Fanfulla F, Squadrone E, Grassi M, Carlucci A, et al.: Noninvasive ventilation to prevent respiratory failure after extubation in high-risk patients. *Crit Care Med* 2005; **33**: 2465-70.
+- [10] Esteban A, Frutos-Vivar F, Ferguson ND, Arabi Y, Apezteguia C, Gonzalez M, et al.: Noninvasive positive-pressure ventilation for respiratory failure after extubation. *N Engl J Med* 2004; **350**: 2452-60.

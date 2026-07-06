@@ -1,0 +1,81 @@
+{
+  "file_name": "2_AFAR_Prise-en-charge-anesthesique-des-patients-en-hospitalisation-ambulatoire.pdf",
+  "num_pages": 6,
+  "total_token_count": 11653,
+  "total_chunks": 127,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2586,
+      "num_chunks": 48,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1955,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2205,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2136,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1954,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 817,
+      "num_chunks": 13,
+      "num_images": 0
+    }
+  ]
+}

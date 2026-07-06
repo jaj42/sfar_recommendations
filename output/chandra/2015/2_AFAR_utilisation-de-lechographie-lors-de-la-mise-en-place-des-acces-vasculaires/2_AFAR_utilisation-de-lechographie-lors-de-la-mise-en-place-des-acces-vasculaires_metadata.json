@@ -1,0 +1,93 @@
+{
+  "file_name": "2_AFAR_utilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires.pdf",
+  "num_pages": 7,
+  "total_token_count": 15212,
+  "total_chunks": 175,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1606,
+      "num_chunks": 16,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2575,
+      "num_chunks": 28,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2494,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2412,
+      "num_chunks": 29,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2374,
+      "num_chunks": 34,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 2262,
+      "num_chunks": 32,
+      "num_images": 1
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2117
+      ],
+      "token_count": 1489,
+      "num_chunks": 7,
+      "num_images": 0
+    }
+  ]
+}

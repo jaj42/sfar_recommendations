@@ -1,0 +1,293 @@
+## INFORMATION PROFESSIONNELLE
+
+# Expert panel guidelines (2008). Postoperative pain management in adults and children<sup>☆</sup>
+
+SFAR Committees on Pain and Local Regional Anaesthesia and on Standards
+
+Available online 2 April 2009
+
+### WORKING GROUP
+
+*Coordinator:* D. Fletcher ([dominique.fletcher@rpc.aphp.fr](mailto:dominique.fletcher@rpc.aphp.fr))<sup>1</sup>.  
+*Deputy coordinator:* F. Aubrun ([frederic.aubrun@psl.aphp.fr](mailto:frederic.aubrun@psl.aphp.fr)).  
+*Experts:* F. Adam, F. Aubrun, G. Aya, M. Beaussier, A. Belbachir, H. Beloeil, M. Chauvin, C. Dadure, L. Delaunay, J.P. Estebe, D. Fletcher, R. Fuzier, E. Gaertner, O. Gall, M. Gentili, H. Keita, F. Larue, P. Lehet, C. Lejus, P. Macaire, E. Marret, P. Richebé, J. Ripart, F. Sztark.  
+E. Vassort (representative of the French Society for the Study and Treatment of Pain – Société française d'étude et de traitement de la douleur; SFETD); V. Gaudé (dedicated pain nurse).
+
+### I. INTRODUCTION
+
+Two reasons prompted the Committee on Pain and Regional Anaesthesia of the French Society of Anaesthesia and Intensive Care (Société française d'anesthésie et de réanimation; Sfar) to update the consensus conference guidelines on postoperative pain management, with the support of the Sfar Committee on Standards:
+
+- • several important developments have occurred since the 1997 consensus conference. They concern, for instance, the use of strong opioids, regional anaesthesia, the value of combining analgesics, hyperalgesia and its prevention, new data on postoperative chronic pain, and analgesia after day case surgery;
+- • the recently published results of the national audit on postoperative pain management conducted by this Committee and supported by the Sfar and the French Ministry of Health (Direction de l'hospitalisation et de l'organisation des soins) indicated an overall improvement
+
+in postoperative pain management but also certain persistent shortcomings.
+
+The expert panel consensus method (see below) for producing guidelines is simpler than the consensus conference method employed in 1997. We used it to update eight priority guideline topics: quality, use of strong opioids, use of non-opioid analgesics, the value of anti-hyperalgesics, postoperative chronic pain prevention, indications for infiltrations, use of postoperative regional anaesthesia techniques, and analgesia after day case surgery.
+
+### 2. CHOICE OF THE EXPERT PANEL CONSENSUS METHOD
+
+The expert panel consensus method is used to produce guidelines when there are no or few evidence-based data, or when the evidence is of a low level, conflicting, indirect, or only answers part of the question. The term "strong consensus" is usually used, without the strength or scope of agreement among opinions being quantified. The method is often used to answer questions relating to domains with non-codified, poorly codified, or even highly variable practices. It explains the necessity of the expert panel's viewpoint at a given point in time when evidence-based data are lacking. This is its main characteristic.
+
+### 3. CHOICE OF THE "GRADE" SYSTEM TO DEFINE THE RECOMMENDATIONS
+
+For each topic selected by the Steering Committee of the expert panel, the experts performed a systematic review of the literature and identified the questions to be addressed. For each of these questions, they determined relevant important outcomes, judged the quality of the evidence, and evaluated the balance of benefits and harms. There are three evidence levels: evidence given by randomised trials (high), observational studies (low), and other data sources (very low). A characteristic of the GRADE system is that the study design
+
+<sup>☆</sup> Update of the 1997 consensus conference guidelines.
+
+<sup>1</sup> Service d'anesthésie réanimation, hôpital Raymond-Poincaré, 104, boulevard Raymond-Poincaré, 92380 Garches, France.per se is not sufficient to grade evidence. Various attributes of the method are used to “adjust the cursor”. The experts methodically assessed the quality of the evidence of each study selected, i.e. its strengths and weaknesses. Evidence tables summarising and ranking studies (included in the full evidence review) helped the experts determine the overall quality of the evidence.
+
+The purpose of the GRADE system is to reach a clear, easily understandable judgement that may be either a strong recommendation (“Should or should not do it”) or an optional recommendation (“Probably should or should not do it”, “probably recommended”). A strong recommendation does not mean that all patients should receive the same treatment. It is a decision aid meant to indicate the treatment strategy that would be chosen by most practitioners and well-informed patients.
+
+In some cases, a recommendation could not be drafted either because the balance of benefits and harms was not clear, or because the reviewers could not reach an agreement on the wording.
+
+The recommendations put forward were rated by all the experts in several rounds. They were revised after each round, and only those on which strong agreement was reached were kept. In the present case, four rounds were necessary to reach the widest possible consensus on 124 recommendations relating to the chosen topics. The number of recommendations selected was intentionally limited. The text of the guidelines (short text) summarises the work done by the panel; the supporting document (long text) is the work of each expert or group of experts.
+
+The following topics were addressed:
+
+- • how to assess and improve postoperative pain management? (14 recommendations);
+- • how to use strong opioids perioperatively? (26 recommendations);
+- • what are the benefits and harms in using non-opioid analgesics? (16 recommendations);
+- • when to use antihyperalgesics? (nine recommendations);
+- • can pain be prevented from becoming chronic? (six recommendations);
+- • infiltration of the surgical site: why, how, and when? (16 recommendations);
+- • use of regional anaesthesia for postoperative pain control (30 recommendations);
+- • management of analgesia in day-case surgery (seven recommendations).
+
+## 4. ASSESSING AND IMPROVING POSTOPERATIVE PAIN MANAGEMENT
+
+### 4.1. Proposed healthcare management
+
+#### 4.1.1. Improving healthcare management
+
+To improve the organisation of the hospital department and postoperative pain teams:
+
+- • the establishment should include their objectives on pain management in the establishment's healthcare plan;
+
+- • the quality of postoperative pain management should be a part of a postoperative rehabilitation program aiming at rapid recovery of function;
+- • a multidisciplinary joint approach to pain management should be implemented;
+- • persons with overall responsibility for the pain teams should be nominated and the responsibility of all team members should be established;
+- • joint consideration should be given to issues such as pain team membership, staff training, nomination of key staff providing specialist advice, information for patients, pain assessment, and implementation of care procedures;
+- • the position of pain team nurse should be created.
+
+#### 4.1.2. Improving postoperative pain management
+
+To improve postoperative pain management:
+
+- • the patient should be given verbal information, supported by written information, before and after surgery. Its provision should be recorded in the patient's file;
+- • the patient should perform a self-assessment of pain intensity using a numerical or verbal rating scale, before surgery and in the recovery room. Pain intensity is a criterion for discharge from the recovery room. Routine, regular postoperative pain assessment should be implemented (at rest, on movement, and after treatment), and accompanied by an assessment of sedation and ventilation. Pain assessment should be plotted in the patient's file;
+- • the incidence of chronic postoperative pain should be assessed;
+- • treatment protocols using effective analgesia techniques such as patient-controlled strong opioid analgesia, balanced (multimodal) analgesia and local regional anaesthesia should be developed, and should include monitoring, prevention, and treatment of adverse effects;
+- • drugs should not be prescribed “on request”. Like routinely administered analgesics, rescue doses should be prescribed using reliable criteria such as pain intensity score;
+- • prescriptions should be standardised, predrafted, and even computer generated and should be part of treatment protocols.
+
+### 4.2. Assessing quality
+
+#### 4.2.1. Assessing the quality of postoperative pain management
+
+To assess the quality of postoperative pain management:
+
+- • the hospital unit, the procedures implemented, and patient outcomes should undergo parallel, continuous, and long-term appraisal;
+- • a record should be made of the number of pain team nurses, of available financial, material and human resources, and of the training provided; the pain team should participate in all steps of this quality initiative and should be informed of the results of the appraisal as this is crucial to the drawing up of action plans;
+- • other practice appraisal methods should also be used (e.g. critical care pathway, morbidity–mortality meetings thatinclude pain, monitoring of indicators, staff meetings). Indicators such as those of the French National Authority for Health (Haute Autorité de santé) can be used for comparisons and benchmarking;
+
+- • patient surveys should be conducted to assess patient outcomes. Satisfaction is not a sufficiently specific outcome; assessment should include pain intensity and adverse events.
+
+## 5. PERIOPERATIVE USE OF OPIOIDS
+
+### 5.1. Oral administration of opioids
+
+The parenteral route is widely used perioperatively. The subcutaneous and intravenous (IV) routes should be reserved for patients in whom the oral route cannot be used. Orally administered fast-release morphine should be used immediately after surgery or after the parenteral route. In practice, treatment can start at the same time as oral food intake. On the other hand, titration of strong opioids by the oral route should not be used immediately after surgery; IV titration should be preferred.
+
+Oral opioids combined with balanced (multimodal) analgesia are an effective rescue treatment. For example:
+
+- • oral oxycodone may be used instead of morphine after painful surgery (use outside of marketing authorisation);
+- • dextropropoxyphen, a level 2 analgesic in the World Health Organisation (WHO) classification, should not be used in postoperative analgesia;
+- • codeine is probably effective for weak or moderate post-operative pain. However, its efficacy and tolerability are unpredictable mainly because of genetic variability;
+- • tramadol may be used alone or combined with non-opioid analgesics for moderate intensity pain. It is not contraindicated in combination with morphine.
+
+### 5.2. Benefits and harms of intravenous titration
+
+Titration means adapting the opioid dose to the patient's needs and reaching an effective plasma concentration of analgesic whilst avoiding under- or overdosing. Morphine is the opioid of choice for IV titration in the immediate postoperative period. The titration should be performed on the basis of a threshold pain score (either self-assessed or assessed by someone else) in non-somnolent patients. A bolus (2 or 3 mg) administered every 5 minutes is probably recommended.
+
+The following functions should be monitored in the recovery room: neurological (consciousness, pain score), respiratory (respiratory rate and capillary oxygen saturation  $SpO_2$ ) and haemodynamic (blood pressure and heart rate). Titration should be interrupted if the patient becomes somnolent. Patients should be monitored during titration and up to one hour after titration as this corresponds to peak morphine activity and to the possible onset of respiratory depression. Postoperative IV morphine titration is not recommended on the surgical wards.
+
+### 5.3. Indications and limitations of patient-controlled morphine use
+
+Patient-controlled analgesia (PCA) should be used to manage pain after surgery associated with predictable moderate or severe intensity pain requiring the administration of an opioid. Morphine is the opiate of choice. Tramadol provides no benefit over morphine. Combining continuous infusion and a bolus does not improve analgesia but enhances the risk of respiratory depression. The combination is indicated as a substitute for preoperative opioid treatment only. Patient-controlled morphine should be combined with balanced (multimodal) analgesia. First-line droperidol should be added to the morphine in the pump to prevent nausea and vomiting (the most common adverse effect). An iontophoretic transdermal system is as effective as a morphine pump and the monitoring modalities are the same.
+
+### 5.4. Morphine use in elderly subjects and in children
+
+Elderly patients present differences in physiology, and in drug pharmacokinetics and pharmacodynamics. However, because these pharmacological differences manifest themselves less in the recovery room, titration in the elderly should probably be as in younger subjects. Nevertheless, the titrated dose should be reduced in patients over 85 years old, in patients with impaired renal or hepatic function, or with mental disorders. After surgery, unit doses of subcutaneous morphine should be reduced and/or the interval between injections should be increased. Pain scores should always be taken into account. PCA is not contraindicated in the elderly subject. It is programmed as in younger subjects but routine oxygen therapy and a maximum hourly dose are indicated. Dextropropoxyphen should not be used in the elderly subject.
+
+In the newborn, infants, and children, morphine should be used instead of WHO level 2 analgesics after major surgery. The morphine doses should be adjusted to the child's weight and reduced in the newborn and in infants less than three months old because of liver immaturity.
+
+PCA analgesia should be used as soon as the child can cooperate (i.e. 6 or 7 year-old). Morphine should not be administered subcutaneously to children as the injection is painful.
+
+## 6. BENEFITS AND HARMS ASSOCIATED WITH THE USE OF NON-OPIOID ANALGESICS
+
+The concept of combining a non-opioid analgesic with morphine - balanced or multimodal analgesia - was introduced in the 1990's. The aim is to obtain an additive, and preferably a synergistic effect, by combining several analgesics with different mechanisms of action. The idea is to achieve a superior postoperative analgesic effect without increasing adverse events and/or a dose-sparing effect in particular with regardto opioids. At least one non-opioid analgesic should be combined with morphine when systemic morphine is used postoperatively.
+
+### 6.1. Adult patients
+
+#### 6.1.1. Non-steroidal anti-inflammatory drugs (NSAIDs) and type II selective cyclooxygenase inhibitors (COX-2 inhibitors)
+
+Unless contraindicated, a NSAID should be combined with morphine. However, neither a NSAID nor COX-2 inhibitor should be used in cases of renal hypoperfusion. When non-selective NSAIDs are prescribed, the increase in the risk of bleeding should be taken into account. When COX-2 inhibitors are prescribed, atherothrombotic risk factors should be taken into account (see contraindications and precautions of use of the French Healthcare Products Safety Agency (Agence française de sécurité sanitaire des produits de santé)).
+
+#### 6.1.2. Paracetamol (acetaminophen)
+
+Paracetamol should not be the sole agent combined with morphine for surgery associated with moderate to severe intensity pain. It should not be administered intravenously once the oral route can be used.
+
+#### 6.1.3. Nefopam
+
+Nefopam use in combination with opioids should probably be recommended after surgery associated with moderate to severe intensity pain. However, it should be used with caution in a patient with heart disease because of the risk of tachycardia.
+
+### 6.2. Paediatric patients
+
+#### 6.2.1. Non-steroidal anti-inflammatory drugs (NSAIDs) and type II selective cyclooxygenase inhibitors (COX-2 inhibitors)
+
+NSAIDs can be given to children with asthma except those with Fernand-Widal syndrome. Any dehydration or hypovolemia should be corrected before NSAID administration. Ketoprofen can probably be used IV as from the age of one year (outside marketing authorisation). Diclofenac should probably be preferred to niflumic acid by the rectal route. Because of the lack of data, no recommendations can be made on the use of COX-2 inhibitors in children.
+
+A NSAID should not be prescribed for pain after tonsillectomy because of the enhanced risk of bleeding requiring repeat surgery.
+
+#### 6.2.2. Paracetamol (acetaminophen)
+
+As in adults, paracetamol should not be administered iv once the oral route can be used. Paracetamol should not be administered by the rectal route because of its low and unpredictable bioavailability. Paracetamol should be administered on a routine basis and not on request.
+
+## 7. USE OF ANTIHYPERALGESICS
+
+### 7.1. Clinical consequences of hyperalgesia
+
+Like the pain due to inflammation, postoperative pain may give rise to hypersensitivity, with onset of hyperalgesia and allodynia. There are two types of hyperalgesia: peripheral or primary hyperalgesia (sensitisation of the peripheral nervous system) and secondary or central hyperalgesia (sensitisation of the central nervous system). The three main consequences of postoperative hyperalgesia are: increased postoperative pain, increased postoperative opioid or analgesic consumption, and increased incidence of residual chronic pain.
+
+### 7.2. Preventing postoperative hyperalgesia
+
+Postoperative hyperalgesia is the clinical manifestation of sensitisation of the nervous system exacerbating postoperative pain. High peroperative opioid doses enhance pain and hyperalgesia, and promote the development of acute tolerance to morphine. Intraoperative opioid consumption should probably be diminished in order to reduce the risk of acute tolerance to morphine during the immediate postoperative period.
+
+The N-methyl-D-aspartate (NMDA) receptor is involved in sensitisation of the nervous system. The administration of an NMDA receptor antagonist lessens postoperative hyperalgesia. Ketamine is the most effective non-competitive antagonist in this indication. Ketamine should be administered during anaesthesia as a peroperative bolus (between 0.15 and 0.50 mg/kg) followed by an infusion of 0.125 to 0.25 mg/kg per hour for surgery lasting for more than two hours. The infusion is stopped 30 minutes before the end of anaesthesia. In the case of general anaesthesia, the first ketamine bolus should be administered after induction in order to avoid adverse psychodysleptic effects. During the postoperative period, the combination morphine plus ketamine should not be used in a PCA device.
+
+Among other options for preventing postoperative hyperalgesia, neither IV magnesium should be used, as it does not reduce postoperative pain and spare morphine consumption, nor clonidine as it has marked haemodynamic adverse effects. On the other hand, gabapentine may be used as premedication in order to spare postoperative morphine and decrease the pain intensity score.
+
+In the absence of local regional anaesthesia, the use of IV lidocaine should probably be recommended for abdominal surgery.
+
+Peridural anaesthesia enables allodynia around a laparotomy wound to be reduced.
+
+## 8. PREVENTING POSTOPERATIVE PAIN BECOMING CHRONIC
+
+### 8.1. Incidence, risk factors, and characteristics of chronic postoperative pain
+
+Chronic postoperative pain is defined as pain persisting for more than two months after surgery, without a cause or arelationship with a preoperative problem being identified. Its incidence is difficult to estimate. Discordant prevalence rates have been recorded, even for the same type of surgery, in particular as study methods vary. The possibility of pain becoming chronic has to be taken into account. Predictive risk factors that should probably be looked for preoperatively are pain intensity, type of surgery, and surgical procedure.
+
+Like pre-existing preoperative pain, high-intensity postoperative pain, in particular neuropathic pain, indicates a high risk of chronic pain. Any postoperative neuropathic pain should therefore be diagnosed and managed promptly. The DN4 questionnaire may be used to detect pain.
+
+### 8.2. Preventing chronic pain
+
+Three methods of prevention were agreed upon. Recommendations are as follows:
+
+- • for high or moderate intensity pain, low ketamine doses should be administered intraoperatively to prevent onset of chronic postoperative pain;
+- • infiltration of the surgical site with local anaesthetics probably reduces the onset of chronic pain in iliac bone graft surgery;
+- • a paravertebral block is probably recommended to reduce chronic pain after major breast surgery.
+
+## 9. INFILTRATION OF THE SURGICAL SITE: WHY, WHEN, AND HOW
+
+Wound infiltration is a local analgesia technique. An analgesic is administered directly into the wound margins or at a distance in order to block pain transmission by distal nerve endings. Some infiltration techniques are known as “blocks” (e.g. ilio-inguinal/iliohypogastric block or superficial cervical plexus block). The analgesic is injected, without identifying a nerve, into the drug diffusion area around the distal nerve endings involved in the sensitivity of the operated area. This procedure thus meets the definition of local infiltration.
+
+Infiltration techniques are an alternative to other local regional anaesthesia techniques such as peripheral nerve blocks and peridural anaesthesia. Recommendations on maximum local anaesthetic dose apply to infiltrations.
+
+### 9.1. “Single shot” infiltration
+
+Wound infiltration should be used in laparoscopic cholecystectomy, and rectus sheath block for anaesthesia and analgesia in umbilical hernia repair. Infiltration of trocar orifices and intraperitoneal instillation are recommended for analgesia after cholecystectomy and gynaecological laparoscopic surgery. Single-shot wound infiltration does not apply to other types of abdominal laparotomy except for Transversus Abdominal Plane Block (TAP block).
+
+Infiltration with a long-acting local anaesthetic should be used for inguinal hernia repair. Injection into deep subcuta-
+
+neous layers or ilio-inguinal block are more effective than subcutaneous injection. This is also the case for low transverse wounds (e.g. after caesarean section under general anaesthesia). “Four quadrant” perianal infiltration or pudendal block with neurostimulation should be used after haemorrhoid surgery.
+
+The wound after thyroidectomy should be infiltrated with long-acting local anaesthetics.
+
+### 9.2. Continuous infiltration
+
+Continuous wound infiltration should be used:
+
+- • for subcostal and median laparotomy wounds (the catheter should be inserted into the deep wound layers [pre-peritoneal]);
+- • after hysterectomy by the abdominal route and caesarean section (insertion into deep layers);
+- • after heart surgery (the catheter should be placed on the anterior face of the sternum);
+- • after shoulder surgery. A local anaesthetic should be continuously infused by the subacromial route. In open surgery, the catheter may be placed subcutaneously. Its efficacy is, however, lower than that of a plexus block;
+- • after harvesting an iliac graft (infusion near the bone).
+
+Continuous wound infiltration may be useful:
+
+- • after major breast surgery and for lymph node dissection wounds, and is an alternative to paravertebral block which, however, remains the preferred option.
+
+Continuous wound infiltration is probably not useful:
+
+- • in inguinal hernia repair even though it has been shown to be effective;
+- • after knee surgery. According to current data, the analgesic efficacy of an intra-articular catheter is limited and there is a risk to the cartilage.
+
+## 10. USE OF POSTOPERATIVE LOCAL REGIONAL ANAESTHESIA
+
+### 10.1. General rules on the use of local regional anaesthesia
+
+- • whenever possible, preference should be given to local anaesthetics and a peripheral rather than a central block as their benefit/risk ratio is better;
+- • Ropivacaine or levobupivacaine should probably be preferred to bupivacaine for peridural anaesthesia or peripheral nerve block because of their lower cardiac toxicity;
+- • clinical practice guidelines for patient information provision and for placement and monitoring of peripheral nerve catheters or peridural catheters for postoperative analgesia should be complied with;
+- • ultrasound may be used to locate peripheral nerves. Guidelines on surgical asepsis should be complied with;
+- • multimodal analgesia should probably be combined with local regional anaesthesia in order to enhance efficacy and/or prevent pain as the block wears off.## 10.2. Indications, techniques, advantages and risks of trunk blocks
+
+Recommendations were made for the use of two types of block for certain surgical indications: paravertebral block and interpleural block. Perimedullar techniques are addressed in Section 10.4 and ilio-inguinal and para-umbilical blocks in Section 9 on infiltrations.
+
+A paravertebral block, using a single shot or even a catheter, should be used to reduce pain intensity scores and incidence of postoperative nausea and vomiting after thoracic surgery, and is a useful alternative to peridural anaesthesia. Its use is probably recommended after major breast surgery.
+
+The limited analgesic benefit of an interpleural block does not counterbalance the risk of systemic resorption of local anaesthetics. An interpleural block is therefore not recommended.
+
+## 10.3. Indications of analgesia by peripheral nerve block
+
+Analgesia by peripheral nerve catheter should be used whenever pain of moderate to severe intensity is expected to last for more than 24 hours. It is probably recommended to administer postoperative local anaesthetics by continuous peripheral nerve block plus PCA.
+
+The risk of compartment syndrome is not a contraindication to blockade as long as monitoring is appropriate, as pain is not the only diagnostic criterion. On the other hand, a catheter should not be placed in cases of postoperative plaster cast immobilisation.
+
+### 10.3.1. Surgery of the upper limb
+
+An interscalene block should be used for postoperative analgesia after shoulder surgery. When it is contraindicated, use of other techniques such as supra/infraclavicular blocks is probably recommended.
+
+Axillary blocks or a humeral block are probably recommended for postoperative analgesia after forearm, wrist and hand surgery.
+
+Distal trunk blocks are probably recommended for finger surgery requiring active rehabilitation.
+
+### 10.3.2. Surgery of the lower limb
+
+Peridural anaesthesia should not be used as peripheral nerve blocks are as effective and have fewer adverse effects.
+
+A femoral block is probably recommended for postoperative analgesia after hip surgery. It should be used for postoperative analgesia after surgery or trauma of the femoral diaphysis in adult and paediatric patients.
+
+A femoral catheter should be used for postoperative analgesia after invasive knee surgery, such as total knee replacement, probably accompanied by a single shot to block the sciatic nerve. A femoral block using a catheter, or a single shot at least, is probably recommended for knee ligament surgery.
+
+Intra-articular administration of a local anaesthetic, with or without an adjuvant or a single shot femoral block, should be used for minor knee arthroscopy.
+
+A sciatic block should be used for postoperative analgesia after leg, ankle and foot surgery in adult and paediatric patients.
+
+An ankle block is probably recommended for postoperative analgesia after minor foot surgery. A catheter may be inserted adjacent to the tibial nerve at the ankle.
+
+## 10.4. Monitoring of subarachnoid analgesia and indications of peridural analgesia
+
+Monitoring of ASA class I or II patients after an intrathecal morphine injection can occur outside a PACU if the injected dose is less than or equal to 0.1 mg.
+
+Low concentration local anaesthetics and a strong opioid should be used for peridural analgesia. The catheter should be inserted in the zone of dermatomes to be blocked.
+
+Peridural analgesia should be used after major thoracic or intra-abdominal surgery (stomach, pancreas, colon, bowel, oesophagus, cystectomy) in order to improve analgesia, reduce the duration of postoperative ileus, and hasten extubation.
+
+Peridural analgesia is probably not recommended after peripheral vascular surgery as it has no impact on analgesia, nor on respiratory and cardiovascular morbidity.
+
+## 10.5. Regional anaesthesia in paediatric patients
+
+Regional anaesthesia may be used in sedated children or children under general anaesthesia.
+
+A penile nerve block should be used to provide analgesia after circumcision in children.
+
+## 11. MANAGEMENT OF ANALGESIA IN DAY CASE SURGERY
+
+### 11.1. Features and management of analgesia in day case surgery
+
+Establishments performing day case surgery should develop a specific strategy for assessing and treating postoperative pain in the home. Protocols for postoperative pain should be regularly assessed by a pluridisciplinary team. Predictive risk factors for postoperative pain and tolerability to the analgesics prescribed at home should be determined in candidates for day case surgery. The type of oral analgesia should be explained during a preoperative discussion with the surgeon and/or anaesthetist. The prescriptions for analgesics should be given to the patient at the surgery or anaesthesia consultation. They should specify the times at which the analgesics should be regularly taken and the conditions of use of any rescue analgesics. The family doctor should be informed if a patient is to be managed for postoperative pain at home by the local regional route, and should be notified of the patient's discharge from hospital.### 11.2. Types of analgesia for use in day case surgery
+
+When the surgical indication allows it, infiltrations and single shot peripheral blocks should be used in day case surgery. The patient may be discharged even if the block has not worn off if the following have been arranged: rescue
+
+analgesia, splints, written patient information, home assistance, and precise call procedures. Peripheral nerve catheters, when used to treat postoperative pain at home, should be used only in cases of total or extensive peripheral nerve block. In these cases, daily contact with the patient should be maintained by telephone.

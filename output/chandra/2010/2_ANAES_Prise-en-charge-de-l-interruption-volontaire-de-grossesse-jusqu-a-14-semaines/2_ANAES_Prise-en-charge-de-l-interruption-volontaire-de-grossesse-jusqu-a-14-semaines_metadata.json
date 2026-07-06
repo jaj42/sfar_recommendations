@@ -1,0 +1,153 @@
+{
+  "file_name": "2_ANAES_Prise-en-charge-de-l-interruption-volontaire-de-grossesse-jusqu-a-14-semaines.pdf",
+  "num_pages": 12,
+  "total_token_count": 12151,
+  "total_chunks": 118,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 373,
+      "num_chunks": 5,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 887,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 798,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1052,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1362,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1287,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 989,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 945,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1585,
+      "num_chunks": 23,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1222,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 1163,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        2112,
+        3264
+      ],
+      "token_count": 488,
+      "num_chunks": 8,
+      "num_images": 0
+    }
+  ]
+}

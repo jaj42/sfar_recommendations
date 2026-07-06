@@ -1,0 +1,1355 @@
+**RECOMMANDATIONS FORMALISÉES D'EXPERTS**
+
+**Prise en charge du coronarien opéré en chirurgie non cardiaque**
+
+**Perioperative assessment of cardiac risk patient in non-cardiac surgery**
+
+Société française d'anesthésie et de réanimation (Sfar)<sup>1</sup>
+
+Société française de cardiologie (SFC)
+
+**GROUPE DE TRAVAIL**
+
+Coordinateurs :
+
+Geneviève Derumeaux (SFC) ([genevieve.derumeaux@chu-lyon.fr](mailto:genevieve.derumeaux@chu-lyon.fr)).
+
+Vincent Piriou (Sfar) ([vincent.piriou@chu-lyon.fr](mailto:vincent.piriou@chu-lyon.fr)).
+
+Aide méthodologique : Emmanuel Marret.
+
+**Question 1 : quantification du risque**
+
+Coordinateurs : Claude Girard (Sfar), Gérald Vanzetto (SFC).
+
+Rédacteurs : Christophe Chauvel, Jean-Philippe Collet, Jean-Marc Davy, Jean-Luc Fellahi, Claude Girard, Gilles Godet, Marjorie Meyer, Karine Nouette-Gaulain, Gérald Vanzetto.
+
+**Question 2 : les examens complémentaires**
+
+Coordinateurs : Erwan Donal (SFC), Dan Longrois (Sfar).
+
+Rédacteurs : Bernard Cholley, Meyer Elbaz, Jean-Nicolas Dacher, Alain Manrique, Jérôme Gareau, Daniela Filipescu, Geneviève Derumeaux, Vincent Piriou.
+
+**Question 3 : revascularisation et médicaments**
+
+Coordinateurs : Emmanuel Samain (Sfar), Meyer Elbaz (SFC).
+
+Rédacteurs : Loïc Belle, Maxime Cannesson, Jean-Jacques Dujardin, Meyer Elbaz, Alexandre Ouattarra, Patrick Jourdain, Emmanuel Samain.
+
+**Question 4 : stratégies globales multidisciplinaires concernant la prise en charge du coronarien qui doit être opéré d'une chirurgie non cardiaque**
+
+Coordinateurs : J. Machecourt (SFC), V Piriou (Sfar).
+
+Rédacteurs : J. Machecourt, V. Piriou, P. Albaladejo, E. Marret, M. Elbaz, E. Donal, G. Derumeaux, C. Girard, E. Samain.
+
+**GROUPES DE LECTURE**
+
+Sfar : Conseil d'administration (17 décembre 2010) (L. Jouffroy, D. Benhamou, C. Ecoffey, Y. Auroy, E. Gaertner, F. Bonnet, M. Gentili, C.-M. Arnaud, H. Bouaziz, X. Capdevila, P. Carli, M.-P. Chariot, M.-L. Cittanova-Pansard, L. Delaunay, A. Delbos, J.-M. Dumaix, B. Garrigues, H. Le Hetet, M. Levy, A. Lienhart, C. Martin, C.-M. Samama, M. Sfez, P.-G. Yavordios).
+
+SFC : Conseil d'administration (octobre 2010) (E. Aliot, J.-Y. Artigoud, D. Blanchard, R. Brion, N. Danchin, J.-M. Davy, G. Derumeaux, O. Dubourg, J.-J. Dujardin, H. Eltchaninoff,
+
+<sup>1</sup> 74, rue Raynouard, 75016 Paris, France.
+
+Adresse e-mail : [vincent.piriou@chu-lyon.fr](mailto:vincent.piriou@chu-lyon.fr) (V. Piriou).J. Ferrières, J. Garot, P. Gueret, G. Habib, A.A. Hagege, B. lung, Y. Juillière, S. Kownator, C. Leclercq, J.-Y. Le Heuzey, G. Loirand, P. Mabo, M.-C. Malergue, J. Pinet, R. Roudaut, P.G. Steg, C.J. Ziccarelli).
+
+## INTRODUCTION
+
+La Société française de cardiologie (SFC) et la Société française d'anesthésie et de réanimation (Sfar) ont débuté en 2008 une réflexion commune concernant la prise en charge des patients coronariens devant être opérés d'une chirurgie non cardiaque. L'originalité des recommandations issues de ce travail est qu'il reflète un dialogue de deux ans entre la SFC et la Sfar et donc la réalité d'un terrain partagé entre anesthésistes-réanimateurs et cardiologues dans la prise en charge de ces patients. Ces recommandations se distinguent en cela des différentes versions des recommandations américaines de l'ACC/AHA et à la parution récente des recommandations de l'ESC endossées par l'ESA en 2009.
+
+Les recommandations initiales ACC/AHA de 1996 revues en 2002 proposaient des recommandations complexes à appliquer faisant une place importante aux examens non invasifs sans qu'un bénéfice de cette stratégie n'apparaisse clairement. De plus, la littérature disponible à cette époque provenait d'essais essentiellement réalisés chez des patients de chirurgie vasculaire qui représentent une population spécifique, présentant un risque particulier, dont la stratégie préopératoire ne peut pas être appliquée à toute la population de patients opérés. Depuis, la littérature a évolué, et les stratégies de stratification préopératoires se sont modifiées, faisant évoluer le concept, en réservant les examens de stress non invasifs à certains patients particulièrement à risque, en restreignant considérablement les indications de revascularisation préopératoires, et en privilégiant l'optimisation du traitement médical.
+
+Des recommandations de l'ACC/AHA et de l'ESC/ESA concernant la prise en charge de ces patients ont donc été publiées récemment, en portant des messages légèrement différents : les recommandations européennes, qui sont très en faveur des traitements prophylactiques par bêtabloquants et statines, offrent une place particulièrement large à ces traitements prophylactiques.
+
+Alors, pourquoi proposer des recommandations françaises alors que des recommandations européennes ou américaines existent et que celles-ci apparaissent tout à fait raisonnables ? Tout d'abord parce que c'est le rôle de nos sociétés de faire des recommandations qui sont applicables en tenant compte du contexte national (contexte économique, disponibilité des examens, habitudes de travail). Le but de ces recommandations n'est pas nécessairement de se démarquer des recommandations étrangères, mais de les reprendre en partie tout en proposant une version plus adaptée au contexte médical dans lequel nous travaillons. Par ailleurs, ces recommandations en français seront accompagnées d'un programme d'EPP permettant aux praticiens des deux disciplines, cardiologie et anesthésie-réanimation, de mettre en pratique et d'évaluer ces recommandations dans leur pratique quotidienne. En effet, on connaît bien le décalage entre la publication de recommanda-
+
+tions et les modifications de pratique clinique. Par rapport aux recommandations européennes et américaines, ces recommandations françaises ont la particularité d'être écrites sous la responsabilité de binômes anesthésiste-réanimateur et cardiologue et de pouvoir être appliquées par les deux disciplines, quel que soit leur mode d'exercice. En effet, le système de santé français rend obligatoire la consultation d'anesthésie préopératoire par les anesthésistes, donnant un rôle particulier aux anesthésistes, qui n'existe pas à l'étranger, en ce qui concerne l'évaluation préopératoire. Lors de ces recommandations, nous avons souhaité insister particulièrement sur la communication entre ces deux disciplines, et avons proposé des outils permettant de faciliter ces interactions.
+
+Ces recommandations sont divisées en quatre parties :
+
+- • la partie I consacrée à la quantification du risque : caractéristiques, moyens diagnostiques et incidence des événements coronariens périopératoires et scores cliniques ;
+- • la partie II dédiée aux examens préopératoires : VPP/VPN/Se/Sp disponibilité, coût, morbidité, description, critères de choix ;
+- • la partie III traite du traitement médical ou interventionnel : revascularisation,  $\beta$ -bloquants, statines, aspirine,  $\alpha 2$ -agonistes, nitrés, Ca-bloquants, inhibiteurs de l'enzyme de conversion ;
+- • la partie IV qui propose une stratégie globale multidisciplinaire sous forme d'un algorithme commenté.
+
+## MÉTHODOLOGIE
+
+La méthode Grade of Recommendation Assessment, Development and Evaluation (GRADE) a été utilisée pour la cotation des recommandations formalisées par le groupe des experts. Un des objectifs de la méthode GRADE est de dissocier le niveau de la recommandation (GRADE 1 ou 2) du niveau sur lequel repose la preuve scientifique (méta-analyse, essai randomisé, étude de cohorte, étude cas-témoins). Des études avec une méthodologie de haut niveau (essai randomisé, méta-analyse) ne conduisent pas toujours à une recommandation forte (GRADE 1) et peuvent ainsi aboutir à des recommandations faibles ou optionnelles (GRADE 2). À titre d'exemple, si un traitement n'est pas facilement disponible, difficile à mettre en place, associé à une mauvaise observance ou très coûteux, celui-ci peut être intégré dans une recommandation optionnelle (GRADE 2) même s'il a été évalué avec des études ayant une méthodologie à fort niveau de preuve (essai randomisé avec de grand collectif ou méta-analyses). À l'inverse, des études de bas de niveau preuve (étude de cohorte, étude cas-témoins) peuvent aboutir à une recommandation forte (GRADE 1) si, par exemple, des arguments économiques ou une forte association cause effet sur un critère majeur (mortalité) sont mis en évidence. Un autre but des recommandations avec la méthode GRADE est d'améliorer la clarté et de faciliter l'applicabilité des recommandations dans la pratique quotidienne. Cela a conduit à limiter les différents niveaux de recommandations. La formulation des recommandations est donc simplifiée en reposant sur deux niveaux : le GRADE 1 est une recommandation forte (ex. : *il faut faire ou il est fortement recommandé de réaliser*) et le GRADE 2 estune recommandation optionnelle ou faible (ex. : *il faut éventuellement faire ou il est peut-être recommandé de réaliser*). En plus, une deuxième information est apportée si la recommandation est positive (*il faut faire GRADE I+*) ou négative (*il ne faut pas faire GRADE I–*).
+
+Les recommandations du texte sont donc de quatre types :
+
+- • Grade I+ : recommandation forte positive – *il est recommandé de faire* ;
+- • Grade 2+ : recommandation optionnelle positive – *il faut probablement faire* ;
+- • Grade I– : recommandation forte négative – *il est recommandé de ne pas faire* ;
+- • Grade 2– : recommandation optionnelle négative – *il faut probablement ne pas faire*.
+
+Chaque recommandation a été évaluée par tous les experts et soumise à leur appréciation à l'aide d'une échelle allant de 1 à 9 (1 : pas du tout d'accord et 9 : tout à fait d'accord) selon la méthode DELPHI. Si tous les experts (sauf un) ont coté la recommandation entre la note 7 et 9, un accord fort est alors associé à la recommandation. Si tous les experts (sauf un) ont coté la recommandation entre 4 et 9 avec une majorité entre 7 et 9, un accord faible est alors associé à la recommandation.
+
+## QUESTION 1.- QUANTIFICATION DU RISQUE
+
+### Caractéristiques et moyens diagnostiques des accidents cardiaques périopératoires
+
+#### Définition des événements cardiaques après chirurgie non cardiaque
+
+Les événements ayant un impact pronostique à distance du geste chirurgical sont : un infarctus du myocarde, une ascension significative des troponines Ic ou T ou des CPK-MB, et une ischémie myocardique prolongée attestée par un sus- ou un sous-décalage durable du segment ST sur le monitoring électrocardiogramme (ECG).
+
+Doivent donc être retenus comme événements cardiaques postopératoires : le décès, le décès d'origine cardiovasculaire (CV), l'infarctus du myocarde, une montée significative de la troponine associée à un contexte clinique ou électrique évocateur d'une complication cardiaque.
+
+Le décès CV est défini par un décès secondaire à un infarctus du myocarde, une insuffisance cardiaque ou une arythmie, ou une mort subite, ou par défaut par un décès sans cause extracardiaque documentée.
+
+L'infarctus du myocarde périopératoire est défini par :
+
+- • une élévation significative des troponines ( $> 99^{\text{e}}$  percentile des valeurs normales) ;
+- • associée à au moins un des éléments suivants :
+  - ◦ douleur thoracique de type ischémique,
+  - ◦ modifications dynamiques du segment ST à l'ECG ou apparition d'un bloc de branche gauche,
+  - ◦ apparition de nouvelles ondes Q à l'ECG,
+  - ◦ preuve par imagerie de nécrose myocardique (échographie, scintigraphie ou imagerie par résonance magnétique).
+
+La troponine Ic est spécifique du myocarde, cependant, son élévation postopératoire n'est pas spécifique d'un infarctus de
+
+myocarde périopératoire. En période périopératoire, une élévation de la troponine peut être observée dans d'autres circonstances pathologiques que l'infarctus, notamment : l'embolie pulmonaire, le sepsis grave, la poussée hypertensive, le choc hypovolémique, un stress sur un myocarde hypertrophique, voire normal. . .
+
+#### Incidences de ces événements en fonction du type de chirurgie et du risque lié au patient
+
+Risque lié à la chirurgie : la mortalité en chirurgie vasculaire est de l'ordre de 3 à 5 %, pratiquement toujours d'origine CV. Pour les autres types de chirurgie, la mortalité CV apparaît faible, de l'ordre de 0,2 à 0,3 %. L'incidence des infarctus postopératoires est probablement du même ordre (3 à 5 %) après une chirurgie vasculaire. Une élévation de troponine est observée dans 20 à 30 % des cas après une chirurgie pour fracture de hanche. Dans la fracture de hanche, la mortalité CV postopératoire à moyen et long terme est particulièrement élevée. Dans le cadre de la chirurgie non vasculaire, les études ayant spécifiquement étudié l'incidence de l'infarctus postopératoire sont rares, ne permettant pas de chiffrer de façon fiable sa survenue.
+
+Risque lié au patient : en dehors des situations cardiologiques instables à haut risque (syndrome coronarien aigu récent, insuffisance cardiaque décompensée, arythmie cardiaque sévère et valvulopathie symptomatique), l'incidence des complications cardiaques majeures est fonction du nombre de marqueurs de risque. Les marqueurs les plus souvent pris en compte sont :
+
+- • la présence d'une cardiopathie ischémique connue ;
+- • des antécédents d'insuffisance cardiaque ;
+- • des antécédents de pathologie cérébrovasculaire ;
+- • un diabète (surtout insulinodépendant) ;
+- • une insuffisance rénale (créatinine  $> 177 \mu\text{mol/L}$ ) ;
+- • l'âge (essentiellement au-dessus de 70 ans) ;
+- • une capacité fonctionnelle réduite.
+
+#### Rappel des mécanismes physiopathologiques et des caractéristiques des événements CV
+
+Un tiers des accidents coronariens aigus surviennent dans des territoires en l'absence de lésion significative sur les troncs épicardiques. Les sténoses dites critiques n'interviennent que rarement dans la physiopathologie des infarctus périopératoires.
+
+La fracture d'une plaque instable reste un mécanisme classique de thrombose coronaire aiguë postopératoire, mais il n'est pas isolé. La survenue d'épisodes répétés d'ischémie myocardique peut également être liée à l'augmentation de la thrombogénicité, l'augmentation de la concentration en facteur tissulaire, et aux facteurs qui déséquilibrent la balance entre les apports et les besoins en  $\text{O}_2$ , tels que l'hyperactivité sympathique, l'anémie, l'hypoxie, les variations tensionnelles, la tachycardie, le frisson. . .
+
+Les nécroses myocardiques postopératoires précoces seraient plutôt liées à une classique thrombose coronaire sur plaques hautement instables qui se rompent lors du stress périopératoire. À l'inverse, les nécroses myocardiquesdifférées au-delà de 48 heures ou les relargages prolongés de troponine seraient davantage expliqués par des facteurs extracardiaques (instabilité hémodynamique, inflammation).
+
+### Moyens diagnostiques des accidents cardiaques périopératoires
+
+Il est recommandé de réaliser de manière répétée dans les 48 premières heures postopératoires, chez le patient coronarien ou à risque de maladie coronaire (Lee clinique  $\geq 2$ ) et opéré d'une intervention de chirurgie non cardiaque à risque intermédiaire ou élevé (GRADE I+ Accord fort) :
+
+- • la pratique d'un ECG ;
+- • le dosage de la troponine Ic ;
+- • la mesure du taux d'hémoglobine.
+
+Il n'est pas recommandé de réaliser chez le patient à risque de maladie coronaire et opéré d'une intervention de chirurgie à risque élevé, le dosage sanguin postopératoire (GRADE I – Accord fort) :
+
+- • de la myoglobine ;
+- • de l'isoenzyme CK-MB ;
+- • du BNP et/ou de NT-proBNP ;
+- • de la CRP et/ou de la hsCRP.
+
+### Implications pronostiques à court et long terme des accidents cardiaques périopératoires
+
+La survenue d'une ischémie myocardique postopératoire est souvent asymptomatique. Elle est associée à une mortalité postopératoire précoce faible, mais multiplie par neuf le risque de complications cardiaques (insuffisance coronaire aiguë, insuffisance ventriculaire gauche, troubles du rythme) et par deux la mortalité cardiaque dans les années qui suivent la chirurgie.
+
+Une augmentation postopératoire de la troponine est un facteur indépendant de complication CV à la phase hospitalière et à deux à trois ans (infarctus du myocarde, angor instable, troubles du rythme, insuffisance cardiaque, mortalité cardiaque). La mortalité à long terme des patients ayant présenté une élévation de troponine en postopératoire est proportionnelle à la valeur du pic de troponine.
+
+Une élévation postopératoire de la troponine, a fortiori avec des modifications électriques, doit justifier d'un avis cardiologique spécialisé dans un délai qui doit tenir compte de la symptomatologie du patient et de la valeur du pic de troponine.
+
+Toute élévation postopératoire de troponine doit conduire à une surveillance particulière et à la réalisation de dosages itératifs de troponine de façon à obtenir une cinétique. Des ECG réguliers doivent être associés, des examens d'imagerie
+
+(échocardiographie) peuvent être envisagés pour stratifier le risque et affirmer le diagnostic d'infarctus.
+
+### Scores de risque
+
+#### Marqueurs cliniques et scores de risque
+
+L'évaluation du risque cardiaque périopératoire doit être systématiquement réalisée en consultation d'anesthésie. L'évaluation de ce risque est réalisée grâce à des scores de risques, à l'évaluation de la capacité fonctionnelle, à l'interrogatoire du patient sur ses antécédents cardiaques et sur la stabilité de ses pathologies. Cette évaluation doit tenir compte du traitement préopératoire. La question d'un traitement médical optimisé sera régulièrement évoquée. L'objectif de cette évaluation préopératoire en consultation d'anesthésie est de diminuer la morbi-mortalité périopératoire avec une dépense minimale en ce qui concerne les examens préopératoires, et de concentrer les moyens économiques sur les patients à haut risque chez lesquels les examens préopératoires modifient la prise en charge et améliore la survie à long terme.
+
+Il est recommandé d'évaluer le risque périopératoire, chez un patient à risque de maladie coronaire et opéré d'une intervention de chirurgie non cardiaque sur les critères suivants (GRADE I+ Accord fort) :
+
+- • risque lié à l'intervention chirurgicale ;
+- • risque lié à l'état cardiaque du patient ;
+- • capacité à effectuer un effort.
+
+#### Risque lié à la chirurgie
+
+Chez un patient coronarien ou présentant plusieurs facteurs de risque CV et opéré d'une intervention de chirurgie non cardiaque, sont considérées comme chirurgie à faible risque (fréquence d'événements cardiaques périopératoires inférieure à 1 %) les chirurgies superficielles, mammaires, ophtalmologiques, tout acte de chirurgie ambulatoire et les procédures endoscopiques.
+
+Chez un patient coronarien ou présentant plusieurs facteurs de risque CV et opéré d'une intervention de chirurgie non cardiaque, sont considérées comme chirurgie à risque intermédiaire (fréquence d'événements cardiaques périopératoires entre 1 et 5 %) les chirurgies intra- ou rétropéritonéales, thoraciques, carotidiennes, de la tête et du cou, orthopédiques, prostatiques et les chirurgies à fort potentiel hémorragique.
+
+Chez un patient coronarien ou présentant plusieurs facteurs de risque CV et opéré d'une intervention de chirurgie générale, sont considérées comme chirurgie à risque majeur (fréquence d'événements cardiaques périopératoires supérieure à 5 %) les chirurgies aortiques (y compris par voie endoluminale), vasculaires majeures et vasculaires périphériques. Dans lecadre de l'urgence, la chirurgie de fracture de hanche du sujet âgé peut être considérée comme une chirurgie à haut risque de complication cardiaque postopératoire en raison de la fréquence élevée de l'ascension de troponine postopératoire et de la mortalité postopératoire à moyen et long terme d'origine CV.
+
+#### Risque lié au patient
+
+Un coronarien devant être opéré d'une intervention de chirurgie non cardiaque est à haut risque d'événements cardiaques périopératoires s'il présente une des situations suivantes :
+
+- • un syndrome coronarien aigu de moins d'un mois ;
+- • un angor invalidant (Classe III ou IV CCS) ;
+- • une insuffisance cardiaque non compensée ou classe III–IV de la NYHA ;
+- • des troubles significatifs du rythme (fibrillation ou flutter atrial à fréquence ventriculaire rapide [ $> 100$  b/min], extrasystoles ventriculaires polymorphes, salves de tachycardie ventriculaire) ou troubles de la conduction cardiaque (bloc trifasciculaire, bloc atrioventriculaire du deuxième ou troisième degré) ;
+- • une valvulopathie mitrale ou aortique sténosante jugée sévère en échocardiographie ou symptomatique (classe NYHA  $> II$ ).
+
+Un coronarien devant être opéré d'une intervention de chirurgie non cardiaque peut être considéré à faible risque d'événements cardiaques périopératoires s'il est asymptomatique pour des activités physiques modérées ou intenses (marche plus de 2 km, montée plus d'un à deux étages), ou s'il a bénéficié récemment d'un test fonctionnel maximal négatif.
+
+Un coronarien devant être opéré d'une intervention de chirurgie non cardiaque peut être considéré à risque intermédiaire ou élevé (selon le nombre de facteurs cumulés) d'événements cardiaques périopératoires s'il présente un ou plusieurs des critères suivants :
+
+- • candidat à une chirurgie aortique, vasculaire majeure, ou vasculaire périphérique ;
+- • capacité physique faible (incapacité à marcher 2 km ou à monter un à deux étages) ou non évaluable ;
+- • antécédents d'insuffisance cardiaque ;
+- • antécédents cérébrovasculaires ;
+- • diabète ;
+- • insuffisance rénale ;
+- • une anémie.
+
+L'âge est considéré comme un facteur aggravant.
+
+Chez un patient coronarien connu, la stabilité de la maladie est un facteur essentiel à considérer, le traitement médical doit être optimisé avant la chirurgie (un traitement associant statine et bêtabloquant a dû ou doit être envisagé). En cas de stabilité de la maladie (absence de gêne fonctionnelle), la connaissance du dossier médical par les équipes de chirurgie/anesthésie est importante.
+
+En cas de pathologie instable, ou de haut risque, l'intervention doit être décalée si possible, de façon à pouvoir stabiliser le patient en optimisant son traitement.
+
+L'évaluation du risque lié au patient peut ainsi être réalisée de manière simple et relativement fiable au moyen d'un simple score clinique. Le score de Lee est actuellement le plus utilisé (Tableau I). Dans l'étude princeps de Lee, l'incidence des complications cardiaques majeures après une chirurgie non cardiaque programmée chez des patients de plus de 50 ans est de 0,4 ; 0,9 ; 7 et 11 % respectivement en présence de zéro, un, deux ou trois des facteurs de risque clinique suscités.
+
+#### Risque lié à la capacité à l'effort
+
+Chez un patient coronarien connu, la tolérance à l'effort est un facteur essentiel à considérer. L'état fonctionnel et les capacités physiques du patient sont de bons marqueurs pronostiques de la survenue d'événements cardiaques périopératoires et à distance. Chez les patients asymptomatiques
+
+**Tableau I**
+
+Paramètres du score de risque cardiaque de Lee.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">Score de risque cardiaque de Lee</th>
+</tr>
+<tr>
+<th>Calcul du score de Lee classique</th>
+<th>Facteur de risque</th>
+<th>Calcul du score de Lee clinique</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 point</td>
+<td>Chirurgie à haut risque définie par une chirurgie vasculaire supra-inguinale, intrathoracique ou intrapéritonéale</td>
+<td></td>
+</tr>
+<tr>
+<td>1 point</td>
+<td>Coronaropathie définie par un antécédent d'infarctus du myocarde, un angor clinique, une utilisation de nitrés, une onde Q sur l'ECG ou un test non invasif de la circulation coronaire positif</td>
+<td>1 point</td>
+</tr>
+<tr>
+<td>1 point</td>
+<td>Insuffisance cardiaque définie par un antécédent d'insuffisance cardiaque congestive, d'œdème pulmonaire, une dyspnée nocturne paroxystique, des crépitants bilatéraux ou un galop B3, ou une redistribution vasculaire radiologique</td>
+<td>1 point</td>
+</tr>
+<tr>
+<td>1 point</td>
+<td>Antécédent d'accident vasculaire cérébral ischémique ou d'accident cérébral ischémique transitoire</td>
+<td>1 point</td>
+</tr>
+<tr>
+<td>1 point</td>
+<td>Diabète avec insulinothérapie</td>
+<td>1 point</td>
+</tr>
+<tr>
+<td>1 point</td>
+<td>Insuffisance rénale chronique définie par une créatinine <math>&gt; 2,0</math> mg/dL (<math>177 \mu\text{mol/L}</math>)</td>
+<td>1 point</td>
+</tr>
+</tbody>
+</table>
+
+Le score de risque clinique (colonne de droite) ne prend en compte que les facteurs liés au patient, à l'exclusion de la nature de la chirurgie.**Tableau 2**
+
+Estimation de la capacité à l'effort (adapté de l'échelle de Dukes).
+
+<table border="1">
+<thead>
+<tr>
+<th>Aptitude physique (échelle de Dukes)</th>
+<th>Met</th>
+<th>VO<sub>2</sub> estimée (mL/kg/min)</th>
+<th>Activité physique réalisable sans symptôme</th>
+<th>Risque chirurgical estimé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Excellente</td>
+<td>&gt; 10</td>
+<td>&gt; 35</td>
+<td>Natation<br/>Tennis en simple<br/>Ski de fond<br/>Athlétisme<br/>Basketball</td>
+<td>Faible</td>
+</tr>
+<tr>
+<td>Très bonne à bonne</td>
+<td>7–10</td>
+<td>24,5–35,0</td>
+<td>Jouer au tennis en double, au football<br/>Danser<br/>Gros travaux d'entretien dans la maison<br/>Courir sur une courte distance<br/>Monter en haut d'une colline<br/>Monter 2 étages ou plus<br/>Marcher rapidement sur terrain plat</td>
+<td></td>
+</tr>
+<tr>
+<td>Modérée</td>
+<td>4–7</td>
+<td>14,0–24,5</td>
+<td>Monter 1 à 2 étages<br/>Faire du ménage</td>
+<td></td>
+</tr>
+<tr>
+<td>Faible</td>
+<td>&lt; 4</td>
+<td>&lt; 14</td>
+<td>Marcher sur terrain plat à 3–5 km/h<br/>Marcher à l'intérieur de son domicile<br/>Faire sa toilette, s'habiller, manger</td>
+<td>Intermédiaire à élevé</td>
+</tr>
+<tr>
+<td>Non évaluable</td>
+<td>?</td>
+<td>?</td>
+<td>Aucune</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+avec une bonne capacité physique ( $\geq 4$  Met), la prise en charge chirurgicale est peu influencée par le résultat d'éventuels tests complémentaires. Il paraît donc licite de procéder dans ce cas d'emblée à la chirurgie envisagée. Chez les patients présentant une coronaropathie avérée qui n'ont pas bénéficié récemment d'un test fonctionnel, il est possible d'estimer la capacité physique par l'interrogatoire en fonction des activités de la vie courante que le patient est en mesure d'accomplir sans ressentir de symptômes. Cette capacité fonctionnelle peut être exprimée en équivalents métaboliques ou Met, 1 Met correspondant à une consommation en oxygène (VO<sub>2</sub>) de 3,5 mL/kg par minute pour un homme de 40 ans de 70 kg.
+
+Il est en effet démontré que le risque cardiaque périopératoire et à long terme est augmenté chez les patients à faible aptitude physique ( $< 4$  Met = patients incapables de marcher approximativement 2 km ou de monter d'une traite un à deux étages sans symptômes).
+
+Le **Tableau 2** donne une correspondance approximative entre les activités de la vie courante et l'évaluation de la capacité physique en Met, ainsi qu'une estimation du risque opératoire correspondant en cas de chirurgie lourde.
+
+### Nouveaux marqueurs biologiques du risque
+
+Malgré la capacité du BNP à intégrer les conséquences de différentes causes de dysfonction cardiaque périopératoire, il n'est pour l'instant pas licite de recommander chez le patient coronarien opéré d'une intervention de chirurgie générale l'utilisation systématique des dosages sanguins préopératoires de BNP et/ou de NT-proBNP. Le dosage de ce biomarqueur pourrait être utile pour affiner la stratification d'un patient présentant un risque important ; il pourrait aussi être proposé pour suivre l'effet du traitement médical en cas de chirurgie reportée du fait d'un risque trop important, notamment en cas d'insuffisance cardiaque.
+
+*Il n'est pas recommandé de réaliser, chez le patient à risque de maladie coronaire, des dosages sanguins préopératoires de BNP et/ou de NT-proBNP, de troponine, de CRP et/ou de hsCRP pour évaluer le risque périopératoire (GRADE 1 – Accord fort).*
+
+## QUESTION 2.- LES EXAMENS COMPLÉMENTAIRES
+
+### Préambule
+
+#### Que faut-il attendre des examens complémentaires ?
+
+La réalisation d'examens complémentaires doit se justifier par le fait que les résultats de ces examens modifieront la quantification du risque et/ou la stratégie de prise en charge périopératoire.
+
+Trois marqueurs de risque seront à prendre en compte dans les résultats de ces examens :
+
+- • l'altération de la fraction d'éjection ventriculaire gauche (FEVG) ;
+- • le dépistage et la quantification de l'ischémie myocardique ;
+- • les facteurs associés et aggravants tels que les valvulopathies et l'existence d'une hypertension artérielle pulmonaire (HTAP).
+
+Ces examens ne se justifient que chez les patients à haut risque clinique périopératoire (plus de deux facteurs de risque selon le score clinique de Lee), et que s'ils entraînent une modification de la stratégie de la prise en charge périopératoire.Lorsque l'indication opératoire a un certain degré d'urgence (par exemple chirurgie carcinologique), le retard entraîné par d'éventuels examens complémentaires cardiologiques doit être mis en balance avec le bénéfice escompté de ces examens et des changements de prise en charge qu'il serait susceptible d'entraîner.
+
+*Il n'est pas recommandé de réaliser des examens complémentaires spécialisés (échocardiographie dobutamine et scintigraphie thallium persantine) lorsque les résultats de ces examens ne sont pas susceptibles de modifier la stratégie périopératoire (GRADE I – Accord fort).*
+
+### Complications ischémiques myocardiques périopératoires
+
+L'incidence des complications CV postopératoires dépend de l'interaction entre le type de chirurgie (risque faible, intermédiaire, élevé) et les facteurs de risque cliniques. La fréquence d'une coronaropathie documentée ou suspectée peut varier de moins de 10 à 60 % des patients en fonction du type de chirurgie et des populations de patients étudiées. La prévalence d'une pathologie dans une population donnée influence les valeurs prédictives positives et négatives des tests destinés à identifier cette pathologie. Il conviendra donc de proposer et d'interpréter un examen complémentaire en fonction de la probabilité pré-test de complications cardiaques postopératoires. Les stratégies destinées à diminuer la fréquence des complications CV graves peuvent différer en chirurgie vasculaire par rapport à d'autres types de chirurgies majeures, du fait de l'incidence élevée des coronaropathies en chirurgie vasculaire.
+
+L'athérome, en particulier coronarien, évolue de l'adolescence à la fin de la vie plus ou moins vite selon les traditionnels facteurs de risque (tabac, diabète, dyslipidémie, hypertension artérielle, antécédents familiaux...) et parfois d'autres facteurs moins bien connus. De fait, l'athérosclérose coronaire reste longtemps infraclinique et évolue à bas bruit, sur tout l'arbre artériel, en particulier dans les zones de turbulences comme les bifurcations artérielles. Elle s'exprimera de deux façons :
+
+- • le syndrome coronarien aigu : événement aigu secondaire à l'évolution brutale d'une ou plusieurs plaques d'athérome instables, qui s'ulcèrent et deviennent hautement thrombogènes ;
+- • l'angor : syndrome douloureux d'apparition plus progressive à l'effort et reflétant une inadéquation entre les besoins et les apports dans un territoire myocardique donné.
+
+La plupart des examens complémentaires décrits dans le texte qui suit détectent l'ischémie myocardique en aval d'une sténose coronarienne. Aucun des examens complémentaires décrits plus loin n'est capable de détecter spécifiquement une plaque d'athérome coronarien vulnérable et possiblement non sténosante.
+
+### Stratégie générale de prescription des examens complémentaires pouvant contribuer à améliorer la prédiction du risque de complications ischémiques myocardiques périopératoires
+
+Les principaux examens complémentaires préopératoires susceptibles d'être proposés pour améliorer la stratégie de prise en charge d'un patient à risque coronarien sont :
+
+- • l'ECG de repos 12 dérivations ;
+- • l'ECG d'effort ;
+- • l'échocardiographie de repos ;
+- • l'échocardiographie de stress ;
+- • la scintigraphie myocardique ;
+- • la coronarographie ;
+- • l'angio-TDM coronaire et l'IRM.
+
+La question I (quantification du risque) permet, au terme de la démarche, de stratifier le risque de complications cardiaques périopératoires. Ces patients peuvent avoir :
+
+- • un risque très faible ou nul d'athérome coronarien et être asymptomatiques (bonne tolérance à l'effort) ;
+- • un risque d'athérome coronarien non documenté (estimé par la présence des facteurs de risque énumérés plus haut), sans symptôme angineux (ou tolérance à l'effort non évaluable) ;
+- • un athérome coronarien documenté (symptomatique et/ou imagerie) ;
+- • un angor déstabilisé.
+
+Ces examens complémentaires peuvent être prescrits pour :
+
+- • faire le diagnostic positif d'ischémie myocardique (ou l'informer) ;
+- • évaluer le degré de sévérité et le niveau de stress auquel cette ischémie s'exprime ;
+- • affiner la stratégie thérapeutique.
+
+*Il n'est pas recommandé d'effectuer de manière systématique, quelle que soit la chirurgie, un examen de dépistage de la coronaropathie chez un patient asymptomatique (GRADE I – Accord fort).*
+
+Un examen complémentaire peut être proposé quand il existe un consensus entre anesthésiste, cardiologue et chirurgien pour penser que le résultat peut amener à proposer une amélioration de la prise en charge des patients : éventuelle optimisation du traitement médical ou revascularisation coronaire (angioplastie ou pontage chirurgical) avant la chirurgie non cardiaque prévue. Le choix précis du type d'examen à réaliser pour prendre cette décision dépend de l'expertise locale (échocardiographie dobutamine ou scintigraphie myocardique au dipyridamole) et doit privilégier les techniques non irradiantes<sup>1</sup>.
+
+<sup>1</sup> European Commission Referral Guidelines for imaging. Rad Protect 2001;118:1–125. Available at: <http://europa.eu.int/comm/environment/rad-prot/118/rp-118-en.pdf> (accessed 28 July 2007).**Tableau 3**
+
+Indication d'un ECG préopératoire en fonction du risque lié au patient et du risque lié à la chirurgie.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">Risque patient</th>
+</tr>
+<tr>
+<th>Faible</th>
+<th>Intermédiaire</th>
+<th>Majeur</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Risque chirurgical</th>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Faible</td>
+<td>Non</td>
+<td>Non</td>
+<td>À discuter</td>
+</tr>
+<tr>
+<td>Intermédiaire</td>
+<td>À discuter<br/>si âge <math>\geq 50</math> ans</td>
+<td>À discuter<br/>si âge <math>\geq 50</math> ans</td>
+<td>Faire</td>
+</tr>
+<tr>
+<td>Majeur</td>
+<td>Faire</td>
+<td>Faire</td>
+<td>Faire</td>
+</tr>
+</tbody>
+</table>
+
+### Moyens de prédiction d'une complication ischémique myocardique postopératoire
+
+#### Électrocardiogramme 12 dérivations de repos
+
+Toutes les études sont en faveur de la pratique préopératoire d'un ECG 12 dérivations de repos chez les patients ayant plus d'un facteur de risque du score de Lee (une histoire coronarienne, un diabète insulinodépendant, une insuffisance rénale, un antécédent neurovasculaire, une insuffisance cardiaque) à partir du moment où la chirurgie est une chirurgie à risque intermédiaire ou élevé. Cet ECG sert d'examen de référence pour les éventuels ECG postopératoires. Un ECG préopératoire de routine systématique chez les patients opérés d'une chirurgie à bas risque n'est pas justifié. Un ECG préopératoire de référence peut être justifié chez les patients à risque ou porteurs d'une coronaropathie sévère en cas de chirurgie à bas risque.
+
+Cet ECG peut mettre en évidence des anomalies sans que soit établi clairement de lien entre les anomalies détectées à l'ECG et les complications cardiaques postopératoires.
+
+Si une chirurgie à bas risque est programmée, il n'est pas démontré même au-delà de 70 ans de valeur pronostique de l'ECG préopératoire.
+
+Pour la chirurgie à risque intermédiaire ou à risque élevé, l'âge à partir duquel l'ECG peut être recommandé est supérieur ou égal à 50 ans, en tenant compte du risque lié au patient (Tableau 3).
+
+Il n'est pas recommandé, si un bilan cardiologique et un ECG effectués dans l'année écoulée sont disponibles chez un patient coronarien, de refaire un ECG ou une autre exploration, en l'absence d'événement intercurrent ou d'élément pouvant le laisser craindre. En ce cas, l'ECG doit être transmis lors de la consultation d'anesthésie (GRADE 1+ Accord fort).
+
+Il est recommandé de faire un ECG de repos 12 dérivations chez les patients devant bénéficier d'une chirurgie vasculaire artérielle pour maladie athéromateuse et présentant des facteurs de risque cliniques (score de Lee) (GRADE 1+ Accord fort).
+
+Il est suggéré de faire un ECG de repos 12 dérivations chez les patients devant bénéficier d'une chirurgie vasculaire pour maladie athéromateuse même lorsqu'ils
+
+n'ont pas de facteurs de risque dans le score de Lee, afin d'avoir un ECG de référence (GRADE 2+ Accord fort). Il est recommandé d'effectuer un ECG de repos 12 dérivations à tout patient de plus de 50 ans ayant plus d'un facteur de risque (score de Lee) et devant bénéficier d'une chirurgie à risque intermédiaire ou élevé (GRADE 1+ Accord fort).
+
+Il n'est pas recommandé de réaliser systématiquement un ECG pour une chirurgie à risque faible (GRADE 1– Accord fort).
+
+Il est recommandé de réaliser un ECG 12 dérivations en périopératoire (accompagné de V3R, V4R, V7-V9) chez tout patient ayant une symptomatologie cardiologique dont le diagnostic étiologique n'est pas évident (GRADE 1+ Accord fort).
+
+Limites : l'ECG 12 dérivations de repos n'a que 50 % de sensibilité pour diagnostiquer une ischémie myocardique en particulier dans le territoire de la coronaire droite.
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne comporte aucun risque ou contre-indication.
+
+Coût : l'ECG d'au moins 12 dérivations coûte 13,52 € (code CCAM : DEQP003).
+
+#### Enregistrement ambulatoire continu de l'ECG de 24 ou 48 heures
+
+Le Holter ECG pour surveillance des variations du segment ST a été proposé. Une méta-analyse à propos de 893 patients permet de retenir que dans 25 % des cas, le Holter retrouve des anomalies de la dynamique du segment ST. Il en ressort une valeur prédictive positive de l'ordre de 10 % et une valeur prédictive négative de ce test de  $\pm 7$  % pour la prédiction d'un infarctus ou d'un décès en périopératoire de chirurgie vasculaire.
+
+Il n'est pas recommandé de prescrire un Holter ECG pour la prédiction du risque d'événement cardiaque périopératoire (GRADE 1– Accord fort).
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne comporte aucun risque ou contre-indication.
+
+Coût : le Holter ECG sur au moins deux dérivations, avec enregistrement pendant au moins 24 heures coûte 77,01 € (code CCAM : DEQP005).
+
+#### Électrocardiogramme d'effort
+
+Il s'agit d'un examen complémentaire facile d'accès et physiologique, utilisé couramment par tout cardiologue dans le dépistage de la maladie coronaire. Les performances en termes de pronostic de l'ECG d'effort sont médiocres et mal évaluées dans le contexte périopératoire.
+
+Ce test d'effort ne se conçoit donc qu'après une évaluation clinique des capacités fonctionnelles du patient.En effet, cet examen a une faible sensibilité (74 %) et une faible spécificité (69 %) pour la prédiction des complications cardiaques postopératoires, en plus des difficultés qui peuvent être rencontrées en pratique clinique pour atteindre 85 % de la fréquence maximale théorique (FMT = 220- âge) requise pour avoir un examen pleinement interprétable. Lorsque la FMT est atteinte (ce qui est rarement le cas), il faut tout de même retenir la bonne valeur prédictive négative de cet examen.
+
+*Il n'est pas recommandé de réaliser un ECG d'effort, en particulier si celui-ci risque d'être sous-maximal (< 85 % FMT), pour la prédiction du risque de complications ischémiques myocardiques périopératoires (GRADE I – Accord fort).*
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne doit être pratiqué que dans un environnement adapté avec possibilité de réanimation. Il doit être réalisé en présence de deux personnes dont un cardiologue, chez un patient cliniquement stable et n'ayant pas une pathologie associée symptomatique telle qu'une cardiomyopathie hypertrophique, un rétrécissement aortique, une HTA supérieure à 220/120 mmHg, ou un trouble de conduction de haut degré non appareillé. Cet examen se révèle souvent impossible dans le cadre de la chirurgie orthopédique ou vasculaire.
+
+Coût : code CCAM : DKRP004 : 76,80 €.
+
+### Échocardiographie de repos
+
+L'étude de la FEVG au repos ne permet pas de prédire le risque d'événement coronarien périopératoire, en revanche une FEVG préopératoire basse est un facteur de risque de complications postopératoires.
+
+L'échocardiographie de repos peut être proposée en fonction des données de l'interrogatoire (notion de dyspnée) ou de l'examen clinique (souffle cardiaque), mais pas dans le cadre de l'évaluation du risque coronaire.
+
+Une échographie cardiaque de repos considérée comme normale (notamment FEVG normale) n'exclut pas la présence d'un athérome coronarien et de sténoses hémodynamiquement significatives.
+
+*Il n'est pas recommandé de prescrire une échocardiographie de repos pour évaluer le risque coronaire périopératoire d'un patient (GRADE I – Accord fort).*
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne comporte aucun risque ou contre-indication.
+
+Coût : 95,66 € (code : DZQM006).
+
+### Échocardiographie de stress
+
+Une échographie peut être réalisée au cours d'un stress physiologique (épreuve d'effort) ou un stress dit non physiologique (échocardiographie de stress à la dobutamine), qui paraît plus adapté au cadre de l'évaluation préopératoire.
+
+La dobutamine est couramment utilisée en France pour réaliser ce stress, cependant, l'adénosine ou le dipyridamole ont aussi été proposés. Ces deux derniers agents pharmacologiques pourraient s'avérer intéressants pour l'étude de la perfusion. Il n'y cependant pas d'étude convaincante avec cette technique pour le dépistage de l'ischémie périopératoire et l'étude de la perfusion myocardique avec infusion continue de produit de contraste n'est pas autorisée en France.
+
+La dobutamine est donc l'agent pharmacologique de choix pour induire un stress myocardique. Les doses de dobutamine sont augmentées de manière progressive. La dobutamine sera associée à des bolus d'atropine 0,25 mg, pour atteindre 40 µg/kg par minute (palier de deux à trois minutes), avec 85 % de la fréquence maximale théorique. Cet examen impose, en 2009–2010, l'utilisation d'un échocardiographe muni de l'imagerie d'harmonique, d'un logiciel dédié, avec une possibilité de relecture des fichiers numériques. Il apparaît aussi utile de pouvoir, le cas échéant, recourir à l'injection de produit de contraste pour améliorer la visualisation des contours endocardiaques.
+
+Le ou les médecins pratiquant ces échocardiographies de stress doivent le faire dans un environnement adéquat et avoir l'expérience et la pratique requise par les recommandations de l'EA [1]. La valeur prédictive négative attendue est élevée (~98 %) et la valeur prédictive positive attendue est faible, de l'ordre de 14 % pour prédire des complications postopératoires. L'efficacité diagnostique est de 82 %. L'échocardiographie de stress, en particulier lorsqu'il s'agit d'un examen réalisé sous dobutamine et atropine, possède une excellente valeur prédictive négative, comme cela a été démontré en particulier pour le dépistage des événements périopératoires de chirurgie vasculaire.
+
+L'interprétation de l'échocardiographie de stress doit être réalisée de façon adéquate. Une hypcontractilité segmentaire à l'acmé du stress aura d'autant plus de pertinence pronostique que celle-ci est étendue (> 3 segments), voire associée à une dilatation ventriculaire gauche et à une dégradation de la FEVG. En effet, dans cette situation, une coronarographie à la recherche de lésions pluritronculaires ou du tronc commun pourra être discutée en vue d'une éventuelle revascularisation, en préopératoire, de préférence par pontage chirurgical en tenant compte du contexte opératoire.
+
+*Il est recommandé de prescrire une échocardiographie de stress, si le niveau de risque impose un dépistage et si cet examen peut être réalisé et interprété selon les recommandations de l'EA dans le centre en question (GRADE I+ Accord fort).*
+
+*Il est recommandé de rediscuter l'indication de la chirurgie et de proposer un complément d'investigation si l'échocardiographie de stress est anormale sur un nombre de segments supérieur à quatre sur 17, avec ou sans dysfonction ou dilatation VG, car il s'agit d'une information en faveur d'un risque majeur (GRADE I+ Accord fort).*Risques et contre-indications : il s'agit d'un examen non invasif, mais avec un risque iatrogène grave inférieur à 2 %, qui ne doit être pratiqué que dans un environnement adapté avec possibilité de réanimation. Il doit être réalisé en présence de deux personnes, dont un cardiologue, chez un patient cliniquement stable et n'ayant pas une pathologie associée symptomatique telle qu'une cardiomyopathie hypertrophique ou un rétrécissement aortique, une HTA supérieure à 220/120 mmHg, un trouble de conduction de haut degré non appareillé.
+
+Coût : 165,31 € (code : DAQM003).
+
+### Scintigraphie myocardique
+
+Il s'agit aussi d'une technique largement étudiée et disponible. Elle impose l'injection d'un marqueur radioactif (donc une exposition à une irradiation). La pratique actuelle avec les marqueurs « technécies » permet une étude de la perfusion et des mouvements des parois ventriculaires gauches après un exercice physique ou un stress pharmacologique. L'adénosine ou le dipyridamole sont plus utilisés que la dobutamine.
+
+Plusieurs méta-analyses sont disponibles, mais ne tiennent pas compte pour la plupart d'entre elles des progrès récents de la technique, en particulier du couplage de l'analyse des mouvements, par rapport aux classiques études de la perfusion.
+
+Il est rapporté une sensibilité de 83 % associée à une plus faible spécificité (43 %) pour la détection de sténoses. Il est aussi rapporté un pronostic sans événement coronaire significativement différent que la scintigraphie soit normale ( $\leq 3$  segments/17) ou très pathologique ( $> 3$  segments/17). Cependant ces données n'ont pas été acquises à partir d'une population spécifiquement évaluée en préopératoire de chirurgie à risque.
+
+Il est important que la réalisation de la scintigraphie soit standardisée. Il faut respecter la classification en 17 segments et analyser en parallèle la perfusion et la cinétique du ventricule gauche. Il a été montré qu'un déficit perfusionnel de moins de 20 % du ventricule gauche est associé à un risque faible d'événements. En revanche, une hypoperfusion de plus de 20 % du ventricule gauche est corrélée au risque de décès cardiaque ou d'infarctus, et ce, de manière proportionnelle à la taille du déficit. Cette taille du déficit perfusionnel conditionnera au cas par cas, la stratégie thérapeutique : les plus larges déficits justifiant sans doute en plus du traitement bêtabloquant de discuter de la réalisation d'une coronarographie en vue de proposer une revascularisation. Il convient de garder à l'esprit que l'irradiation occasionnée par la scintigraphie est peu ou prou équivalente à celle d'un angioscanner cardiaque 64 barrettes.
+
+Il est recommandé de prescrire une scintigraphie, si le niveau de risque impose un dépistage et si cet examen peut être réalisé et interprété dans le centre en question avec un niveau d'expertise suffisant (GRADE 1+ Accord fort).
+
+Il est recommandé de proposer un complément d'investigation, en tenant compte du contexte chirurgical, si la scintigraphie retrouve un défaut perfusionnel supérieur à 20 % GRADE 1+ Accord fort).
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne doit être pratiqué que dans un environnement adapté avec possibilité de réanimation. Il doit être réalisé en présence de deux personnes dont un cardiologue, chez un patient cliniquement stable et n'ayant pas une pathologie associée symptomatique telle qu'une cardiomyopathie hypertrophique ou un rétrécissement aortique, une HTA supérieure à 220/120 mmHg, un trouble de conduction de haut degré non appareillé.
+
+Coût : 494,99 € (code : DAQL009).
+
+### Scintigraphie ou échocardiographie de stress ?
+
+L'échographie de stress à la dobutamine a été rapportée comme ayant de meilleures performances prédictives du décès d'origine cardiaque et du risque d'infarctus du myocarde postopératoires que la scintigraphie myocardique.
+
+L'échocardiographie de stress présente un meilleur rapport coût/valeur diagnostique que la scintigraphie. Cependant, ce qui peut être écrit chez le coronarien connu et dans un centre expert doit bien entendu être adapté aux considérations spécifiques à chaque centre médicochirurgical.
+
+Lorsque l'échocardiographie de stress est disponible avec un niveau d'expertise suffisant (possibilité d'utiliser des produits de contraste, relecture numérisée, analyse quantitative), en l'absence de contre-indications, cet examen doit être l'examen à effectuer en priorité chez les patients qui doivent bénéficier d'une chirurgie vasculaire ou à risque. Sa sensibilité pour détecter des lésions monotronculaires est moins bonne, cependant le dépistage des lésions monotronculaires est peu pertinent dans ce contexte, puisque ce sont les lésions du tronc commun ou les atteintes pluritronculaires qui conduiront à discuter une revascularisation.
+
+Il est recommandé de discuter l'indication d'un test d'ischémie (échocardiographie de stress ou scintigraphie) en fonction des disponibilités et des compétences locales. Il faudra aussi tenir compte du caractère irradiant de l'examen scintigraphique comparativement à l'échocardiographie dobutamine, dont la valeur prédictive négative est au moins égale. L'utilisation d'une feuille de liaison est encouragée afin de permettre aux chirurgiens, anesthésistes-réanimateurs et cardiologues d'échanger les informations concernant le patient et son traitement de manière précise et pratique. L'anesthésiste doit préciser au minimum l'indication opératoire, le risque du patient (score de Lee), sa tolérance à l'effort, les traitements en cours, la justification du test d'ischémie, et le cardiologue qui réalise l'examen les résultats de celui-ci et l'attitude pratique proposée (GRADE 1+ Accord fort).Il est recommandé que le cardiologue qui a réalisé l'examen propose à l'équipe d'anesthésie- réanimation des éléments de la prise en charge (optimisation du traitement médical, discussion d'une éventuelle revascularisation, report de la chirurgie...) en tenant compte du contexte opératoire (GRADE I+ Accord fort).
+
+### Coronarographie
+
+La coronarographie doit être discutée lorsqu'un test non invasif a mis en évidence des anomalies suffisamment sévères permettant de suspecter une lésion du tronc commun, ou une atteinte tritronculaire. La confirmation d'une telle atteinte doit logiquement conduire à discuter une revascularisation préopératoire, préférentiellement par pontages aortocoronaires.
+
+Coût : 259,2 € (code : DDQH015).
+
+Il n'est pas recommandé de prescrire et réaliser de première intention, une coronarographie comme examen complémentaire pour prédire le risque de complication ischémique myocardique postopératoire (GRADE I+ Accord fort).
+
+Il est recommandé que toute décision de coronarographie chez un patient programmé pour une chirurgie non cardiaque soit le fruit d'une décision collégiale dont l'argumentation sera tracée dans le dossier (GRADE I+ Accord fort).
+
+### Angioscanner coronaire, IRM et tomographie par émission de positons
+
+Aucune étude n'a spécifiquement analysé l'intérêt du coro-scanne ou de l'IRM cardiaque dans l'évaluation du risque coronaire en préopératoire de chirurgie lourde.
+
+Les études pronostiques font défaut. Cependant, il est à noter qu'en cas d'examen non invasif litigieux, le coro-scanne semble avoir une valeur prédictive négative suffisante pour pouvoir être discuté en complément d'un examen non invasif, si celui-ci est insuffisamment contributif pour détecter des lésions athéromateuses de l'arbre coronaire.
+
+Risques et contre-indications : il s'agit d'un examen non invasif qui ne doit être pratiqué que par des médecins expérimentés et ayant la technologie permettant l'analyse du réseau coronaire. Le patient doit avoir une fonction rénale autorisant l'injection d'un produit iodé, il ne doit pas être allergique à ces produits. Les traitements par biguanides devront être interrompus. Le caractère irradiant de cet examen est non négligeable. S'il est réalisé après une scintigraphie et qu'on est amené à faire une coronarographie au cours, le patient aura reçu une quantité très importante de radiations ionisantes en peu de temps. Il ne pourra pas être proposé à un patient en arythmie ou ayant une fréquence cardiaque trop rapide ( $> 75$  b/min). Aussi, le patient doit être cliniquement stable.
+
+Coût : 25,27 € (code : ECQH010).
+
+L'IRM peut être pratiquée au repos et lors d'un stress à la dobutamine. Il ne s'agit pas d'une technique validée en préopératoire, il peut éventuellement s'agir d'une technique alternative ou complémentaire à la scintigraphie ou à l'échocardiographie à la dobutamine en l'absence de données prospectives publiées, en particulier dans l'indication de l'évaluation préopératoire d'une potentielle coronaropathie. Il en est de même pour la tomographie à émissions de positons qui, en France, n'est pas indiquée dans l'indication de la recherche de coronaropathie.
+
+Il n'est pas recommandé de proposer un coro-scanne, une IRM, une tomographie à émission de positons pour dépister le risque coronaire d'un patient pendant la période préopératoire (GRADE I – Accord fort).
+
+Risques et contre-indications : l'IRM est un examen non invasif qui ne doit être pratiqué que par des médecins expérimentés et ayant la technologie permettant l'analyse du cœur. Le patient ne doit pas être claustrophobe et être porteur d'un implant métallique tel un pacemaker, un défibrillateur ou une valve mécanique. Il ne pourra pas être proposé à un patient en arythmie ou ayant une fréquence cardiaque trop rapide ( $> 75$  b/min). Le patient doit être cliniquement stable.
+
+Coût de l'IRM : 69,00 € (code : DZQN002).
+
+### Conclusion
+
+Aucune étude basée sur une bonne méthodologie n'a démontré l'intérêt d'une stratégie de revascularisation coronaire avant chirurgie non cardiaque pour réduire les complications ischémiques myocardiques postopératoires. Par conséquent, le dépistage de l'ischémie silencieuse chez les patients à risque avec l'objectif d'une revascularisation préopératoire n'a pas fait la preuve de son utilité.
+
+Il semble pouvoir être retenu dans l'état actuel de nos connaissances, qu'un ECG de repos est utile comme examen de référence en cas de coronaropathie connue ou de facteurs de risque lorsque le patient doit bénéficier d'une chirurgie à risque intermédiaire ou élevé. Une échocardiographie de repos isolée est inutile pour évaluer le risque coronarien périopératoire. Si l'on veut rechercher une ischémie silencieuse, on devra réaliser une échocardiographie stress à la dobutamine ou bien une scintigraphie avec épreuve de « stress » pharmacologique. L'une comme l'autre comporte des avantages et des inconvénients, c'est donc, en privilégiant la stratégie la moins irradiante, le niveau d'expertise, la disponibilité et l'interaction possible dans chaque centre, qui doit faire préférer l'un ou l'autre de ces deux examens. L'objectif de la prescription de cette échographie de stress ou de cette scintigraphie sera de dépister une coronaropathie avec un objectif : optimiser le traitement cardiologique avant un acte chirurgical. Une coronarographie pourra être discutée si plus de trois sur 17 segments sont pathologiques en tenant compte du contexte opératoire, et des complications issues des thérapeutiques.employées si la coronarographie incite à une revascularisation. Il faudra cependant systématiquement évoquer des alternatives à la revascularisation, telle qu'une optimisation, des traitements pharmacologiques (bêtabloquants, statines, antiagrégants plaquettaires, règles hygiénodiététiques) en gardant à l'esprit que plus de 50 % des syndromes coronariens périopératoires correspondent à la physiopathologie du syndrome coronarien aigu, c'est-à-dire la rupture de plaque avec activation de la thrombose in situ, et que ces plaques « instables » sont souvent non protrusives, donc indétectables par les moyens évoqués ci-dessus. Ces recommandations insistent particulièrement sur les interactions anesthésiste–cardiologue et sur le partage des informations concernant le patient.
+
+### QUESTION 3.- REVASCULARISATION ET MÉDICAMENTS
+
+Afin d'améliorer la prise en charge des patients, une stratification préopératoire doit être réalisée afin de déterminer le risque opératoire de ces patients. À l'issue de cette stratification, se pose la question de l'optimisation du traitement médical ou d'une éventuelle revascularisation préopératoire afin de réduire au maximum le risque du patient. La prise en charge périopératoire des traitements chroniques a fait l'objet de recommandations précédentes de la Sfar et ne sera pas développée ici.
+
+#### Revascularisation myocardique préopératoire
+
+##### Indications de la revascularisation préopératoire
+
+Les indications de la revascularisation coronaire préopératoire se limitent aux syndromes coronaires aigus préopératoires avec une indication opératoire semi-urgente formelle, et aux patients à haut risque clinique ayant une ischémie authentifiée à très haut risque, dans le cadre de chirurgies à risque élevé ou intermédiaire.
+
+Plusieurs études ont montré que les syndromes coronaires postopératoires surviennent fréquemment au niveau de lésions préalablement peu ou modérément sténosantes, non identifiées par les examens de stress. La coronarographie a donc un caractère prédictif faible dans ce cadre.
+
+La revascularisation constitue donc un choix de nécessité devant une situation coronaire considérée à très haut risque dans le contexte chirurgical. Cette décision de revascularisation préopératoire doit être prise à l'issue des étapes initiales de stratification du risque, complétées par les investigations non invasives visant à objectiver l'ischémie et à quantifier le territoire myocardique à risque.
+
+À l'issue de l'exploration coronarographique, ultime étape avant une décision de revascularisation coronaire, une nouvelle évaluation du risque doit être réalisée. Cette évaluation ne correspond plus à la nécessité de stratification du risque de coronaropathie, mais à l'intégration :
+
+- • des risques pris à réaliser un geste chirurgical pour un patient chez lequel a été authentifiée une coronaropathie ;
+- • des conséquences qu'induiraient de différer la chirurgie initialement programmée ;
+
+- • du degré d'urgence et du niveau de risque chirurgical (notamment hémorragique) qui doivent être parfaitement précisés par l'équipe chirurgicale et d'anesthésie.
+
+À chaque étape, la discussion doit être pluridisciplinaire impliquant de façon optimale, les équipes anesthésiques, cardiologiques et l'équipe chirurgicale. Ces décisions et leur discussion doivent être tracées dans le dossier en explicitant les bénéfices attendus, les risques et les alternatives, et doivent être clairement expliquées au patient.
+
+La décision d'une revascularisation coronaire préopératoire doit être systématiquement discutée en termes de bénéfices/risques en incluant l'alternative représentée par une optimisation préopératoire du traitement médical suivi ou non d'une revascularisation postopératoire. L'existence de sténoses coronaires ne peut suffire seule à justifier d'une revascularisation qui induira fréquemment un report chirurgical ou une augmentation du risque hémorragique et/ou thrombotique.
+
+*La décision de revascularisation myocardique avant une chirurgie non cardiaque doit être consensuelle entre les différents praticiens prenant en charge le patient et être tracée dans le dossier (bénéfices/risques/alternatives avec optimisation du traitement médical) et clairement expliquée au patient (GRADE 1+ Accord fort).*
+
+*La revascularisation myocardique en préalable à un geste de chirurgie non cardiaque doit rester exceptionnelle (GRADE 1+ Accord fort).*
+
+*Les situations devant faire envisager une revascularisation peuvent être différenciées en :*
+
+- • situations cliniques : (Accord faible) :
+  - ◦ la survenue d'un syndrome coronaire aigu préopératoire, avec ou sans sus-décalage du segment ST (GRADE 1+),
+  - ◦ l'existence d'une coronaropathie stable avec statut anatomique ou ischémique mettant en jeu un territoire myocardique important (GRADE 2+) ;
+- • situations anatomiques (Accord fort) :
+  - ◦ l'existence d'une atteinte du tronc commun coronaire gauche ou des trois troncs coronaires si le patient est symptomatique et/ou si une ischémie a été authentifiée sur au moins trois segments myocardiques (GRADE 1+),
+  - ◦ l'existence d'une occlusion d'un tronc coronaire s'intégrant dans un statut anatomique général particulier, notamment en cas d'atteinte du tronc commun ou d'un statut pluritronculaire impliquant l'IVA (GRADE 1+).
+
+*En dehors de ces situations, il n'est pas recommandé de réaliser une revascularisation, notamment en cas d'occlusion artérielle chronique associée à une ischémie et/ou une viabilité modérées, en raison de l'absence de dé-*onstration du bénéfice de la revascularisation préopératoire (GRADE 1 – Accord fort).
+
+### Choix de la technique de revascularisation préopératoire
+
+La chirurgie de pontage aortocoronaire est la technique de revascularisation de référence avant une chirurgie cardiaque (GRADE 1+ Accord faible) :
+
+- • dans les situations anatomiques justifiant d'un tel geste (atteinte du tronc commun gauche ou tritronculaire) ;
+- • en cas d'altération de la fonction ventriculaire gauche ;
+- • si le geste peut être différé de quelques semaines.
+
+L'angioplastie coronaire préopératoire n'est pas recommandée dans la prévention des événements ischémiques périopératoires en dehors des situations cliniques instables du fait des difficultés périopératoires de gestion des antiplaquettaires (GRADE 1 – Accord fort). En cas de syndrome coronaire aigu préopératoire, une angioplastie coronaire peut néanmoins être envisagée.
+
+Si une revascularisation par angioplastie coronaire est réalisée avant une chirurgie non cardiaque (Accord fort) :
+
+- • il est recommandé de mettre en place une endoprothèse nue, car elle ne nécessite que quatre à six semaines de double antiagrégation plaquettaire, limitant le report de la chirurgie (GRADE 1+) ;
+- • la chirurgie après mise en place d'une endoprothèse nue doit être réalisée au minimum six semaines plus tard, idéalement trois mois plus tard (GRADE 1+) ;
+- • il n'est pas recommandé de mettre en place une endoprothèse recouverte, car elle impose une double antiagrégation plaquettaire prolongée (au moins un an, voire plus) (GRADE 1–).
+
+Cette attitude peut être reconsidérée (Grade 2+ Accord fort) en cas :
+
+- • de chirurgie fonctionnelle non vitale pouvant être différée d'au moins un an ;
+- • de chirurgie ou geste à très faible risque hémorragique pouvant être réalisée sous double antiagrégation plaquettaire.
+
+Dans des cas tout à fait exceptionnels, une angioplastie au ballon simple pourrait être pratiquée. La chirurgie non cardiaque peut être pratiquée sous monothérapie antiagrégante 14 à 28 jours après l'angioplastie. Cela correspond
+
+notamment à une chirurgie semi-urgente ou urgente à haut risque hémorragique, devant être réalisée au cours d'un syndrome coronaire aigu. L'urgence chirurgicale et/ou le risque hémorragique ne laissent pas de place aux endoprothèses (y compris non couvertes) qui nécessiteraient une double antiagrégation plaquettaire prolongée pendant au moins six semaines. Les délais courts avant chirurgie non cardiaque ne permettent pas dans ce cas d'envisager un geste de revascularisation coronaire par pontage aortocoronaire.
+
+Le choix (bénéfices/risques/alternatives) de la technique de revascularisation doit être discuté de façon consensuelle, tracé dans le dossier et expliqué au patient.
+
+Si le choix d'une endoprothèse coronaire est fait, la conduite à tenir en ce qui concerne le traitement périopératoire par antiplaquettaire doit être discutée et transmise aux équipes anesthésie et chirurgicale en tenant compte du risque hémorragique et du risque thrombotique (GRADE 1+ Accord fort).
+
+### Les médicaments
+
+Généralités sur la gestion du traitement périopératoire :
+
+- • la décision de mettre en route un traitement en préopératoire peut être prise par l'anesthésiste-réanimateur ou par le cardiologue ;
+- • les modalités d'administration devraient faire l'objet d'un protocole écrit, établi entre cardiologues et anesthésistes et d'une évaluation régulière si possible en réunion multidisciplinaire ;
+- • lorsqu'un traitement a été débuté en préopératoire, le suivi cardiologique du patient après la période périopératoire immédiate réévalue la nécessité de ce traitement et le suivi à mettre en œuvre dans la période postopératoire.
+
+### Les bêtabloquants
+
+#### Rationnel d'utilisation des bêtabloquants
+
+Les bêtabloquants diminuent la consommation en oxygène du myocarde par leurs effets inotrope et chronotrope négatifs et améliorent la perfusion des zones sous-endocardiques, les plus sensibles à l'ischémie. Lors d'une stimulation adrénergique, ils exercent un effet protecteur vis-à-vis de la déstabilisation des plaques d'athérome vulnérables, et élèvent le seuil d'arythmie.
+
+#### Risques liés aux bêtabloquants en périopératoire
+
+Les méta-analyses des essais randomisés ont mis en avant le retentissement hémodynamique peropératoire des bêtabloquants lorsqu'ils sont prescrits dans le but de réduire les événements coronariens périopératoires : le taux de bradycardie est augmenté ainsi que celui d'hypotension. Les conséquences de cet effet hémodynamique, en l'absence de mesure de correction, sont une augmentation de l'incidence des AVC périopératoires.### Indications des bêtabloquants
+
+L'insuffisance coronarienne est une indication à un traitement bêtabloquant au long cours, indépendamment de toute intervention chirurgicale. Ce traitement peut être débuté ou adapté en préopératoire dans cette indication, si le patient coronarien n'est pas traité ou ne suit pas correctement son traitement.
+
+Les études randomisées et une étude de cohorte montrent que les patients à risque élevé peuvent bénéficier d'un traitement bêtabloquant périopératoire lorsqu'ils sont opérés de chirurgie à haut risque, principalement vasculaire.
+
+L'indication des bêtabloquants est plus discutable chez les patients à risque élevé ou intermédiaire pour les actes de chirurgie exposant à un risque périopératoire intermédiaire. Les bêtabloquants réduisent le risque d'IDM périopératoire (–28 à –35 %) et le risque d'ischémie myocardique (–64 %), mais restent sans effet sur la mortalité CV. L'étude POISE a montré que les bêtabloquants pouvaient être responsables d'une augmentation significative de la mortalité globale (+28 %) et de l'incidence d'AVC postopératoire (1,0 % vs 0,5 %). L'existence d'une hypotension peropératoire est un facteur associé à la survenue d'un AVC. De ce fait, ce débat n'est donc pas clos, car des facteurs liés au choix de la molécule, de sa dose, de l'objectif thérapeutique, du moment du début du traitement et de la gestion de l'hypotension induite par le traitement peuvent jouer un rôle dans le résultat observé sur la morbi-mortalité périopératoire.
+
+Lorsque les patients à risque élevé ou intermédiaire sont opérés d'une chirurgie à faible risque CV, un traitement bêtabloquant n'améliore pas le devenir du patient. Ceux-ci sont alors exposés au risque de mauvaise tolérance du traitement. La mise en route d'un traitement spécifiquement pour la période périopératoire n'est donc pas indiquée.
+
+Les patients sans facteurs de risque CV périopératoire ne bénéficient pas d'un traitement par bêtabloquants, et ils sont exposés aux potentielles complications des bêtabloquants.
+
+### Gestion du traitement bêtabloquant
+
+Il existe un risque de syndrome de sevrage avec hyperactivité sympathique à l'arrêt brutal d'un traitement chronique par bêtabloquants, caractérisé par une augmentation de la fréquence cardiaque, de la pression artérielle et un risque d'arythmie ou d'ischémie myocardique.
+
+Lorsque la mise en route d'un traitement bêtabloquant est décidée, un agent cardio- ou  $\beta 1$ -sélectif sans activité sympathomimétique intrinsèque est recommandé. Les agents qui ont été étudiés dans la période périopératoire sont l'aténolol, le métoprolol et le bisoprolol.
+
+Il faut probablement différencier les effets des bêtabloquants sur l'équilibre énergétique du myocarde, rapidement obtenus, de leurs effets plus tardifs sur l'évolution des plaques d'athérome. Les résultats des études publiées en termes de morbidité CV ne permettent pas d'évaluer le bénéfice d'un traitement débuté à distance de la chirurgie. Cependant, il est probable qu'un délai préopératoire d'une semaine à un mois facilite l'obtention d'une cible de fréquence cardiaque adaptée.
+
+L'administration doit être adaptée à l'objectif thérapeutique. Le contrôle strict de la fréquence cardiaque améliore le pronostic des patients, mais le traitement ne doit induire ni bradycardie ni hypotension. Un objectif de fréquence cardiaque de 60 à 70 b/min peut être recommandé.
+
+La mise en évidence du retentissement hémodynamique des bêtabloquants dans la période opératoire et des conséquences de l'hypotension artérielle, notamment au niveau cérébral, impose que la FC et la PA soient surveillées de façon stricte et suggère qu'une hypotension artérielle et/ou une bradycardie soient corrigées par les mesures appropriées.
+
+Une fois débuté, le traitement doit être poursuivi en postopératoire, car il existe probablement un risque d'hyperactivité sympathique (bien que celui-ci ait été moins bien étudié dans la période périopératoire) à l'interruption brutale du traitement. Les mêmes recommandations que celles données pour la gestion d'un traitement habituel par un bêtabloquant peuvent être formulées. Un suivi cardiologique postopératoire, pouvant être réalisé à distance de la chirurgie, sera proposé afin de définir la poursuite ou non du traitement.
+
+Pour tout traitement par un bêtabloquant, la posologie doit être ajustée pour obtenir une cible de fréquence cardiaque préopératoire entre 60 et 70 b/min, sans hypotension artérielle (GRADE 1+ Accord fort).
+
+Il est recommandé de continuer dans la période périopératoire un traitement bêtabloquant lorsqu'il est prescrit pour une insuffisance coronaire, associée ou non à un antécédent de troubles du rythme ou une insuffisance cardiaque (GRADE 1+ Accord fort).
+
+La mise en route en préopératoire d'un traitement bêtabloquant est recommandée chez les patients ayant une insuffisance coronaire clinique ou des signes d'ischémie myocardique sur un examen non invasif (GRADE 1+ Accord fort).
+
+Chez les patients stratifiés à risque CV élevé ou intermédiaire, estimé par un score de Lee clinique (hors facteur lié à la chirurgie) supérieur ou égal à 2 :
+
+- • il peut être recommandé de débuter un traitement bêtabloquant si le patient est opéré de chirurgie à haut risque. L'indication doit tenir compte du risque lié à l'hypotension et aux bradycardies peropératoires (GRADE 2+ Accord fort) ;
+- • lorsque ces patients sont opérés de chirurgie à risque intermédiaire, la décision de mise en route d'un traitement bêtabloquant est plus discutable et doit tenir compte du risque lié à l'hypotension et aux bradycardies peropératoires.
+
+Il n'est pas recommandé de débuter un traitement bêtabloquant si le patient est opéré de chirurgie à faible risque (GRADE 1 – Accord fort).Chez les patients stratifiés à faible risque, la mise en route préopératoire d'un traitement bêtabloquant n'est pas indiquée (GRADE 1 – Accord fort).
+
+Lorsqu'un traitement est débuté en préopératoire, un agent cardioselectif sans activité sympathique intrinsèque est recommandé (GRADE 1+ Accord fort).
+
+Le délai optimal entre le début du traitement et la chirurgie n'est pas connu. Cependant, il est probable qu'un délai préopératoire d'une semaine à un mois facilite l'obtention d'une cible de fréquence cardiaque adaptée.
+
+Le traitement doit être administré lors de la prémédication, à la dose habituelle (GRADE 1+ Accord fort).
+
+En périopératoire, il est recommandé de surveiller la FC et la PA de manière stricte (GRADE 1+ Accord fort). Il est recommandé de traiter une hypotension artérielle et/ou une bradycardie par les mesures appropriées.
+
+Après l'intervention, si les données hémodynamiques le permettent, le traitement bêtabloquant doit être repris dans les heures qui suivent par voie orale, si elle est disponible, à la posologie habituelle. S'il existe un iléus postopératoire, la voie intraveineuse doit être utilisée en relais. Une surveillance par un ECG quotidien est indiquée.
+
+## Les alpha 2-agonistes
+
+### Rationnel d'utilisation des alpha 2-agonistes
+
+Les agonistes alpha 2-adrénergiques (clonidine, dextrométhomidine et mivazérol) limitent l'augmentation de l'activité adrénergique en réponse au stress, et préviennent la tachycardie et l'hypertension postopératoires. Ces agents sont également efficaces pour réduire le frisson postopératoire et entraînent un certain degré d'analgésie.
+
+### Risques liés aux alpha 2-agonistes en périopératoire
+
+La réduction de la stimulation alpha-adrénergique périphérique expose à des épisodes d'hypotension artérielle périopératoire. De plus, les interférences entre les  $\alpha$ 2-agonistes et d'autres médicaments administrés chez le coronarien (bêtabloquants, IEC) en termes de retentissement hémodynamique ne sont pas bien évaluées. La clonidine et la dextrométhomidine entraînent une sédation.
+
+### Indications des alpha 2-agonistes en périopératoire
+
+Dans une étude randomisée ayant inclus 1897 patients coronariens ou ayant des facteurs de risque d'athérome opérés de chirurgie générale, vasculaire ou orthopédique, le mivazérol administré pendant trois jours par voie intraveineuse n'a pas réduit le nombre de décès de cause cardiaque ou les complications cardiaques graves périopératoires. Dans le sous-groupe des patients de chirurgie vasculaire, le mivazérol réduisait significativement les décès de cause cardiaque. Cet effet des alpha 2-agonistes chez les patients à risque, opérés en
+
+chirurgie vasculaire, est confirmé dans une méta-analyse de 23 essais randomisés, mais l'ensemble de ces données ne permet pas de confirmer l'intérêt de ces agents dans la période périopératoire. Un essai de grande envergure est actuellement en cours avec la dextrométhomidine, ses résultats pourraient changer les conclusions de ces recommandations.
+
+### Recommandations
+
+Bien que les alpha 2-agonistes réduisent le risque de décès et d'IDM postopératoire chez les coronariens opérés de chirurgie vasculaire, leur administration n'est probablement pas à recommander en raison de leur retentissement hémodynamique (GRADE 2 – Accord faible).
+
+Il n'est probablement pas recommandé d'administrer un alpha 2-agoniste chez les patients coronariens ou à risque CV périopératoire pour réduire le risque de complications cardiaques périopératoires en chirurgie non vasculaire (GRADE 2 – Accord faible).
+
+## Statines et hypolipémiants
+
+### Rationnel d'utilisation et indications des statines
+
+Les statines diminuent la synthèse hépatique du cholestérol par inhibition de la HMG-Coa réductase. Ces molécules ont démontré une efficacité importante dans la prévention secondaire, mais aussi primaire, des événements CV dans de grands essais randomisés (infarctus du myocarde, accidents vasculaires cérébraux, nécessité de revascularisation coronaire par angioplastie ou pontage, décès). Ces effets bénéfiques ne sont pas attribués uniquement à une réduction des LDL-cholestérol mais impliquent des effets pléiotropes de ces agents médicamenteux.
+
+De nombreuses études rétrospectives ou observationnelles ont démontré un bénéfice à l'utilisation des statines chez les patients devant subir une chirurgie non cardiaque, essentiellement vasculaire. La réduction du risque d'infarctus ou de décès périopératoires rapportée dans ces essais est de 20 à 80 %. Une étude cas-témoïn ayant intégré les données de plus de 300 hôpitaux a évalué le bénéfice à un décès intrahospitalier évité pour 85 patients traités (un pour 30 dans la population à plus haut risque vasculaire). Deux études randomisées, prospectives, dont la plus récente a utilisé la fluvastatine, ont confirmé ces données (réduction risque de décès : –53 %) chez des patients devant subir une chirurgie vasculaire. Dans cette étude le traitement était débuté en moyenne cinq semaines avant la chirurgie. Il n'y a pas d'effets indésirables rapportés.
+
+Il faut souligner que dans le cas de la chirurgie vasculaire, les patients ont un profil de risque proche de celui des patients coronariens avérés puisque l'association atteinte vasculaire périphérique et coronaire est fréquente. L'artériopathie des membres inférieurs s'accompagne d'une mortalité cardiaque élevée à cinq ans. Le bénéfice d'une prescription des statines en préalable à la chirurgie est donc attendu.
+
+Les données issues d'essais randomisés contrôlés sont limitées en chirurgie non vasculaire et il apparaît un peuprématuré d'extrapoler les résultats de la chirurgie vasculaire à l'ensemble des chirurgies non cardiaques.
+
+La relation entre bénéfice attendu et moment d'initiation du traitement n'est pas clairement établie ainsi que la posologie à utiliser. Un délai minimal d'une semaine paraît raisonnable compte tenu des connaissances actuelles. Soulignons qu'une étude observationnelle démontre un effet dose-dépendant de la réduction des événements CV en chirurgie vasculaire.
+
+En dehors des statines, aucun autre traitement hypolipémiant n'a montré de bénéfice en préopératoire.
+
+#### Risques liés à l'utilisation des statines en périopératoire
+
+L'administration d'une statine expose à un risque très faible d'atteinte musculaire, pouvant conduire exceptionnellement à une rhabdomyolyse aiguë. Le risque ne semble pas majoré dans la période périopératoire. De ce fait, les règles d'administration et les contre-indications générales des statines ne sont pas différentes dans le contexte périopératoire.
+
+Les patients ayant une coronaropathie avérée doivent bénéficier d'un traitement par statine dans le cadre des recommandations habituelles.
+
+*Si un traitement par statine est indiqué, mais non prescrit au patient, il est recommandé de le débuter avant une chirurgie vasculaire, si possible au moins une semaine auparavant (GRADE 1+ Accord fort).*
+
+*Les patients devant subir une chirurgie vasculaire artérielle pourraient bénéficier de l'introduction d'un traitement par statine (GRADE 2+ Accord fort).*
+
+*Un traitement par statine doit être poursuivi dans la période périopératoire lorsqu'il est prescrit de façon chronique. Celui-ci doit être administré le soir précédant l'intervention et repris le soir de l'intervention (GRADE 1+ Accord fort).*
+
+*Il n'y a pas d'indication ni de bénéfice démontré à la prescription périopératoire d'un hypolipémiant autre qu'une statine (GRADE 1– Accord fort).*
+
+## Agents antiplaquelettaires (AAP)
+
+### Indications des AAP
+
+La prescription des AAP en préalable d'une chirurgie non cardiaque ne concerne que les patients ayant des antécédents vasculaires, généralement coronaires. Il s'agit d'une population dans laquelle ces molécules constituent un traitement de fond.
+
+Les antiplaquelettaires concernés, l'aspirine et les thiényridines, sont responsables d'une augmentation modérée du risque hémorragique, contrebalancée par la diminution du risque thrombotique. Chez les patients coronariens connus, indépendamment d'une revascularisation récente, l'arrêt de l'aspirine s'accompagne d'une augmentation du risque thrombotique dans la période postopératoire. Chez les patients ayant bénéficié d'une angioplastie récente avec mise en place
+
+d'endoprothèse, l'arrêt de la bithérapie est le premier facteur retrouvé de thrombose de stent (facteur 10 à 70).
+
+Dans les cas d'une double antiagrégation plaquettaire il faut différencier trois situations de prescription :
+
+- • le syndrome coronaire aigu récent : une double antiagrégation est recommandée d'un mois à un an. Il n'y a pas d'études évaluant l'impact de l'arrêt d'un des deux antiagrégants plaquettaires. La situation doit être discutée au cas par cas ;
+- • l'endoprothèse nue : au moins quatre à six semaines de double antiagrégation plaquettaire sont nécessaires ;
+- • l'endoprothèse recouverte : il est recommandé de maintenir la double antiagrégation plaquettaire pendant au moins un an même si le bon usage de ces prothèses préconise une durée inférieure (exemple : stent Cypher trois mois ; stent Taxus six mois).
+
+Il faut insister sur le très haut risque thrombotique induit par l'interruption d'un ou de deux AAP chez les patients ayant bénéficié d'une angioplastie avec endoprothèse recouverte dans l'année précédente. Certaines publications rapportent la permanence d'un risque accrue de thromboses aiguës postopératoires, y compris au-delà de la première année post-implantation.
+
+### Gestion du traitement par AAP
+
+La décision de poursuivre ces traitements ou de les arrêter en préopératoire prend en compte les éléments suivants :
+
+- • risque hémorragique de la chirurgie (élevé, faible ou intermédiaire) ;
+- • risque thrombotique en cas d'arrêt des antiplaquelettaires, dépendant :
+  - ◦ de la gravité et de la stabilité de la coronaropathie (syndrome coronaire aigu dans les 12 derniers mois),
+  - ◦ des antécédents de revascularisation par chirurgie ou angioplastie,
+  - ◦ dans le cas d'une angioplastie, du type d'endoprothèse utilisée (nue ou couverte), du nombre d'endoprothèses, de leur site d'implantation, et du délai entre la pose de l'endoprothèse et la chirurgie.
+
+Les principales situations cliniques et les propositions de conduite à tenir sont synthétisées dans le **Tableau 4**.
+
+Dans les années à venir de nouveaux agents antiagrégants plaquettaires seront utilisés, en premier le prasugrel. L'efficacité antiagrégante du prasugrel est d'après les essais randomisés supérieure à celle du clopidogrel mais la mise sur le marché du prasugrel ne devrait pas modifier les recommandations en 2010. En cas d'implantation de d'endoprothèse recouverte, il n'est pas envisageable d'arrêter précocement une double antiagrégation. En cas de syndrome coronaire aigu, la durée d'une double antiagrégation avec le prasugrel n'est pas connue.
+
+*La mise en place d'une endoprothèse recouverte dans les 12 mois précédents implique la poursuite de la double thérapie par AAP (GRADE 1+ Accord fort).***Tableau 4**
+
+Gestion des agents antiplaquettaires (AAP) dans la période périopératoire.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3"></th>
+<th colspan="3">Risque hémorragique : chirurgie sous agents antiplaquettaires<sup>b</sup></th>
+</tr>
+<tr>
+<th>Élevé</th>
+<th>Intermédiaire</th>
+<th>Faible</th>
+</tr>
+<tr>
+<th>Déterminé par une liste ou ne pouvant pas être réalisé sous agents antiplaquettaires</th>
+<th>Déterminé par une liste ou réalisable sous un agent antiplaquettaire</th>
+<th>Déterminé par une liste ou réalisable sous bithérapie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Risque thrombotique<sup>c</sup></b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Élevé<sup>a</sup></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stent nu (&lt; 4–6 semaines)</td>
+<td>(a) Retarder le geste</td>
+<td>Retarder le geste</td>
+<td>Retarder le geste</td>
+</tr>
+<tr>
+<td>Stent actif (&lt; 1 an)</td>
+<td>(b) Réaliser le geste sous au moins un agent antiplaquettaire (considérer que le sur-risque hémorragique est acceptable)</td>
+<td>Réaliser le geste sous 1 AAP</td>
+<td>Réaliser le geste sous bithérapie</td>
+</tr>
+<tr>
+<td>Syndrome coronaire aigu (&lt; 1 an)</td>
+<td>(c) Arrêt du clopidogrel &lt; 5 j en préopératoire et arrêt de l'aspirine &lt; 3 jours, sans substitution<sup>d</sup></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Patient traité par bithérapie</td>
+<td>Dans tous les cas, reprise postopératoire dès que l'hémostase est jugée satisfaisante</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Intermédiaire</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Prévention secondaire sous monothérapie</td>
+<td>(a) Réaliser le geste sous 1 AAP<br/>(b) Remplacer le clopidogrel par de l'aspirine en l'absence de CI<br/>(c) Arrêt de l'aspirine &lt; 3 j<sup>d</sup><br/>Dans tous les cas, reprise postopératoire dès que l'hémostase est jugée satisfaisante</td>
+<td>Réaliser le geste sous clopidogrel ou aspirine</td>
+<td>Réaliser le geste sous clopidogrel ou aspirine</td>
+</tr>
+</tbody>
+</table>
+
+<sup>a</sup> Le risque thrombotique est particulièrement élevé dans les quatre à six semaines suivant la survenue d'un syndrome coronaire aigu, même en cas de traitement par double antiagrégation bien conduit.
+
+<sup>b</sup> Le risque hémorragique est élevé, intermédiaire ou faible : ce risque est défini a priori lorsque les sociétés savantes ont déterminé une liste de gestes réalisables sous agents antiplaquettaires. En l'absence d'une telle liste, le risque hémorragique doit être jugé acceptable ou inacceptable face au risque lié à l'arrêt des agents antiplaquettaires.
+
+<sup>c</sup> Le risque thrombotique est défini comme le risque qu'un événement thrombotique survienne à l'arrêt des agents antiplaquettaires.
+
+<sup>d</sup> Les recommandations (a–c) ne sont pas optionnelles, elles sont hiérarchiques : (c) est une recommandation dégradée par rapport à (b) et (b) est une recommandation dégradée par rapport à (a).
+
+La mise en place d'une endoprothèse nue implique une double antiagrégation pendant quatre à six semaines (GRADE 1+ Accord fort).
+
+La survenue d'un syndrome coronaire aigu implique si possible une double antiagrégation pendant un an. Dans le cas de risque hémorragique périopératoire élevé, l'interruption du clopidogrel avec poursuite de l'aspirine peut être indiquée (GRADE 2+ Accord fort).
+
+En cas d'arrêt d'un AAP (aspirine, clopidogrel), il est recommandé de réaliser la chirurgie après cinq jours d'arrêt, de façon à réduire le risque hémorragique tout en limitant le risque thrombotique (maximal au-delà du huitième jour d'arrêt) (GRADE 1+ Accord fort).
+
+En cas de traitement par aspirine seule, il est recommandé de poursuivre le traitement, sauf en cas de contre-indication liée à un très haut risque hémorragique chirurgical (GRADE 1+ Accord fort).
+
+Si le patient reçoit du clopidogrel en monothérapie et que la chirurgie ne peut pas être réalisée sous ce médicament, il est recommandé de le remplacer par de l'aspirine, en l'absence de contre-indication (GRADE 1+ Accord fort). Si le patient est sous bithérapie par AAP, il est recommandé de conserver au moins un AAP, idéalement
+
+l'aspirine, sauf contre-indication liée à un risque hémorragique chirurgical (GRADE 1+ Accord fort).
+
+Il n'existe pas d'études démontrant un bénéfice de la prescription d'une héparine de bas poids moléculaire ou d'une antivitamine K en substitution de l'aspirine ou d'une thiénypyridine pour diminuer le risque ischémique.
+
+Après la chirurgie et en concertation avec le chirurgien, il est recommandé de faire une reprise précoce du traitement AAP s'il a été interrompu. Une dose de charge peut être indiquée en cas de risque thrombotique élevé (GRADE 2+ Accord fort).
+
+La gestion périopératoire des AAP doit faire l'objet d'une traçabilité dans le dossier et d'une information au patient.
+
+**Inhibiteur de l'enzyme de conversion (IEC), antagoniste du récepteur de l'angiotensine 2 (ARA2), dérivés nitrés, inhibiteur calcique.**
+
+**IEC et ARA2**
+
+En plus de leur effet sur la pression artérielle, les inhibiteurs de l'enzyme de conversion (IEC) et les antagonistes des récepteurs à l'angiotensine II (ARA2) améliorèrent le devenir des patients coronariens ayant présenté un infarctus du myocardeet des patients ayant une insuffisance cardiaque. Ils constituent donc un traitement de fond chez ces patients. En revanche, aucun effet bénéfique n'a été montré de l'administration d'un de ces médicaments spécifiquement dans la période périopératoire. Par ailleurs, il existe un risque clairement démontré d'hypotension artérielle chez les patients traités pour une hypertension artérielle dans les situations de vasoplégie et/ou d'hypovolémie aiguë vraie ou relative, notamment lors de l'induction de l'anesthésie, d'hémorragie peropératoire ou lors de la réalisation d'une rachianesthésie. Ce risque est limité par une interruption du traitement au moins 12 heures avant l'intervention. Il apparaît moins marqué si le traitement est administré pour une insuffisance cardiaque. Un traitement au long cours par un IEC ou un ARA2 est recommandé chez le coronarien ayant une altération de la fonction ventriculaire gauche.
+
+*Chez les patients coronariens, il est recommandé de maintenir les IEC ou les ARA2 dans la période périopératoire, lorsque ceux-ci sont prescrits dans le cadre d'une insuffisance cardiaque (GRADE 1+ Accord fort). Si le traitement est maintenu, le risque d'hypotension artérielle en cas de chirurgie majeure ou de rachianesthésie doit alors être pris en compte.*
+
+*Il est recommandé d'interrompre un IEC ou un ARA2 au moins 12 heures avant une intervention lorsque ceux-ci constituent un traitement de fond de l'hypertension artérielle (GRADE 1+ Accord fort).*
+
+#### Dérivés nitrés
+
+Les dérivés nitrés diminuent la demande myocardique en oxygène et augmentent la perfusion coronaire. Ils pourraient également exercer une action cardioprotectrice directe.
+
+L'efficacité des nitrés dans la phase périopératoire est controversée : une réduction par la nitroglycérine intraveineuse de l'ischémie myocardique peropératoire a pu être montrée chez des patients coronariens très sévères, mais cet effet n'a pas été retrouvé dans d'autres groupes de patients. Ces médicaments restent plus difficiles à manier en périopératoire en raison de leur effet vasodilatateur veineux préférentiel et de l'hypotension artérielle induite.
+
+*L'administration pour la prévention de complications cardiaques périopératoires de dérivés nitrés, quelle que soit la voie d'administration, n'est pas recommandée (GRADE 1 – Accord fort).*
+
+L'administration périopératoire d'un dérivé nitré par voie intraveineuse est réservée au traitement curatif de certaines formes d'ischémie myocardique, en tenant compte de son effet sur la pression artérielle.
+
+#### Inhibiteurs calciques
+
+*Il n'est pas recommandé d'administrer un inhibiteur calcique pour la prévention des complications cardiaques périopératoires (GRADE 1 – Accord fort).*
+
+### QUESTION 4.- STRATÉGIES GLOBALES MULTIDISCIPLINAIRES CONCERNANT LA PRISE EN CHARGE DU CORONARIEN QUI DOIT ÊTRE OPÉRÉ D'UNE CHIRURGIE NON CARDIAQUE
+
+La prise en charge des patients coronariens en chirurgie non cardiaque représente un problème de santé majeur : le texte des recommandations européennes de 2009 [2] nous apprend qu'environ sept millions de procédures chirurgicales par an sont réalisées en Europe chez des patients « à risque cardiaque ». Comme le taux d'événements graves CV périopératoires (décès, infarctus du myocarde, AVC) est situé entre 1,7 et 6 % chez ces patients à risque, c'est 150 000 à 200 000 complications cardiaques majeures par an qu'il faut éviter ou prévenir. Le vieillissement de la population va aggraver le problème dans les années à venir (chirurgie après 75 ans : +24 % en dix ans). Rapporté à l'hexagone on estime que 500 000 à un million d'interventions chirurgicales dites à haut risque d'accidents cardiaques sont réalisées par an, ce qui conduirait à 5000 à 10 000 décès en phase hospitalière. De plus la survenue d'un syndrome coronarien aigu ou d'un infarctus périopératoire non fatal, même limité, impacte sévèrement le pronostic à moyen et à long terme du patient. La stratégie de prise en charge pré- et périopératoire (détection du risque opératoire, optimisation des traitements, respect de l'équilibre entre les besoins et les apports myocardiques en oxygène) a pour but de réduire la fréquence d'apparition de ces événements précoces. La collaboration entre le cardiologue et l'anesthésiste a pour objectif aussi d'améliorer le pronostic du patient au-delà de la phase opératoire.
+
+L'objectif de cette question de synthèse est de proposer, en tenant compte de chacune des trois questions spécifiques précédentes, un algorithme simple de prise en charge des patients coronariens ou à risque, devant être opéré de chirurgie non cardiaque, destiné aux équipes d'anesthésie-réanimation ou de cardiologie impliquées dans la prise en charge de ces patients.
+
+#### Les données sur lesquelles s'appuie l'arbre décisionnel
+
+Parmi les points extrêmement importants développés dans les trois chapitres précédents, et sur lesquels repose la stratégie d'évaluation par étapes des patients, on rappellera en préambule l'importance de l'analyse des paramètres permettant la mesure du risque individuel de l'acte chirurgical que va subir le patient considéré, mais aussi l'intérêt et souvent les```
+
+graph TD
+    Urgente[Chirurgie urgente] --> Final[Optimisation du traitement médical préopératoire]
+    NonUrgente[Chirurgie non urgente] --> RisqueInter[Chirurgie à risque intermédiaire ou élevé]
+    NonUrgente --> BasRisque[Chirurgie à bas risque]
+    
+    RisqueInter --> Stable1[Patient stable]
+    RisqueInter --> Instable[Patient instable]
+    
+    Stable1 --> LeeClinique[Score de Lee clinique 0-1 (vasculaire) ou 0-2 (non vasculaire)]
+    Stable1 --> LeeNonVasc[Score de Lee ≥ 2 (vasculaire) ou ≥ 3 (non vasculaire)]
+    
+    Instable --> Retarder[Retarder la chirurgie]
+    Instable --> Discussion[Discussion collégiale]
+    Instable --> Traitements[Traitements spécifiques]
+    
+    LeeClinique --> MET[Capacité fonctionnelle MET]
+    LeeNonVasc --> MET
+    
+    MET --> Bonne[Bonne]
+    MET --> Mauvaise[Mauvaise]
+    
+    Mauvaise --> Tests[Tests d'ischémie]
+    
+    Tests --> Minus[-]
+    Tests --> Plus[+]
+    
+    Minus --> Final
+    Plus --> Discuter[Discuter l'opportunité d'une éventuelle revascularisation]
+    Plus --> Traitement[Traitement médical optimisé]
+    Plus --> Surveillance[Surveillance per- et postopératoire rapprochée]
+    
+    BasRisque --> Stable2[Patient stable]
+    Stable2 --> Final
+    
+    Final --> Optimisation[Optimisation du traitement médical préopératoire]
+  
+```
+
+Fig. 1. Algorithme général de prise en charge du coronarien avant chirurgie non cardiaque. Pour explications détaillées et définitions, voir texte. \* Score de Lee modifié, voir texte.
+
+limites des différentes stratégies thérapeutiques, qu'elles soient médicamenteuses ou interventionnelles, pour réduire de manière prophylactique ce risque opératoire. Cela conduit au concept que la collaboration anesthésistes–cardiologues ne doit pas se limiter à la seule stratégie préopératoire, mais doit aussi se poursuivre durant la phase périopératoire, puis à distance de l'intervention. En effet le but ultime n'est pas de « passer » le cap de la période opératoire, mais d'assurer l'utilité à distance de la prise en charge (dans le sens de l'amélioration du pronostic et de la qualité de vie du patient).
+
+Dans les trois chapitres précédents, les niveaux de recommandations ont été établis à partir d'une analyse collégiale du niveau des preuves dans la littérature : de G1+ (« il faut faire »), G1– (« il ne faut pas faire »), à G2+ (« il faut probablement faire ») ou G2– (« il ne faut probablement pas faire »).
+
+#### Neuf points consécutifs sont à la base de la stratégie de prise en charge préopératoire du patient coronarien, suspecté ou avéré
+
+##### La définition du patient à situation cardiaque évolutive
+
+La définition du patient à situation cardiaque évolutive chez qui toute chirurgie non vitale doit être repoussée, voire contre-
+
+indiquée (Question 1, et patients définis comme « instable » dans l'algorithme Fig. 1). Il s'agit de situations cliniques qui sous-tendent une aggravation récente de l'état cardiaque et fonctionnel du patient, et pour laquelle la chirurgie pourrait représenter un facteur d'évolutivité et d'aggravation. Le rôle du praticien pour cette évaluation clinique préopératoire est fondamental : les patients qui, au moment de l'évaluation, présentent un syndrome coronarien aigu ou un angor sévère de classe 3 ou 4 (selon la classification canadienne, Annexe 1). La chirurgie réglée est aussi contre-indiquée en cas d'insuffisance cardiaque décompensée, de valvulopathie sévère (par exemple rétrécissement aortique avec un gradient supérieur à 40 mmHg ou une surface inférieure à 1 cm<sup>2</sup>/m<sup>2</sup>) ou d'arythmie ventriculaire ou supraventriculaire (incluant une fibrillation auriculaire à réponse ventriculaire trop rapide ou une bradycardie excessive).
+
+##### La classification du risque de la chirurgie programmée
+
+La classification du risque de la chirurgie programmée, stratifiée en risque élevé, intermédiaire ou bas (cf. Question 1).
+
+Nous rappellerons ici deux points développés précédemment :
+
+- • les chirurgies vasculaires (hormis l'endartérectomie carotidienne) sont toutes considérées comme à haut risque CV(> 5 % de risque combiné de décès ou de survenue d'un infarctus du myocarde). La chirurgie de la fracture de hanche, réalisée dans le cadre de l'urgence ou de la semi-urgence pourrait, au vu des données de la littérature récente, faire partie des chirurgies comportant un risque de complications cardiaques élevé (20 à 30 % des patients présentant un dosage positif de la troponine postopératoire) ;
+
+- • les patients opérés d'une chirurgie mineure doivent pouvoir se passer d'examens complémentaires dans le contexte périopératoire.
+
+### Importance pronostique de l'évaluation de la capacité fonctionnelle du patient
+
+La capacité fonctionnelle des patients doit être systématiquement évaluée par l'interrogatoire lors de la consultation d'anesthésie. Nous renvoyons le lecteur au **Tableau 2**, présenté dans la Question 1, qui permet très simplement de quantifier la capacité fonctionnelle des patients.
+
+Il faudra retenir que les patients à bonne capacité fonctionnelle ( $\geq 4$  Met sans symptôme) pourront supporter le stress opératoire et se passer ainsi d'examen complémentaire.
+
+Dans l'impossibilité d'évaluer la capacité fonctionnelle chez certains patients du fait de leur pathologie chirurgicale (vasculaire et orthopédique), on pourra recourir à un bilan préopératoire en fonction du risque de la chirurgie.
+
+### Définition du risque lié au patient (cf. Question 1)
+
+Cette définition repose sur la mesure de scores cliniques. Un score clinique repose toujours sur l'évaluation de la présence ou non chez le patient de différents paramètres d'obtention simple, qui ont démontré, sur des séries prospectives de patients opérés, leur valeur prédictive de survenue d'événements, selon la présence ou non de plusieurs de ces facteurs. Le chapitre 1 décrit la valeur de ces scores. Celui de Lee, datant de 1999, est probablement le plus simple et le plus discriminatif.
+
+Les marqueurs de risques plus « mineurs », en particulier l'âge du patient, la notion d'un bloc de branche gauche d'une HVG ou de modifications du segment ST ont été omis, mais doivent être pris en considération dans le cadre de la confrontation multidisciplinaire du cardiologue, de l'anesthésiste et du chirurgien. Comme le propose l'ESC en 2009 dans ses dernières recommandations la prise en compte, en plus des critères de Lee, de l'âge est particulièrement utile.
+
+### Indication d'un test fonctionnel d'effort
+
+L'indication d'un test fonctionnel d'effort dépend en partie du nombre de facteurs de risque du patient. Plus ceux-ci sont nombreux, plus la prévalence de la maladie coronarienne est élevée chez le patient considéré, a fortiori si ce patient est porteur d'une autre atteinte macrovasculaire.
+
+Les trois tests qui ont une valeur prédictive suffisante et validée (cf. Question 2) sont l'épreuve d'efforts conventionnelle (ECG effort), la scintigraphie myocardique de perfusion (sous effort ou sous agent pharmacologique) et l'échocardiographie de stress.
+
+Lorsqu'un test est indiqué, l'échographie de stress et la scintigraphie myocardique sont à privilégier avant chirurgie vasculaire, dès que le score de Lee clinique est supérieur ou égal à 2, avec une préférence pour les examens les moins irradiants. L'ECG d'effort peut représenter une alternative avant chirurgie non cardiaque lourde non vasculaire, chez des patients qui cumulent trois facteurs de risque CV ou plus puisque la probabilité a priori de présence d'une maladie coronaire sous-jacente est alors bien plus basse que chez le patient présentant déjà une artériopathie connue. Toutefois, la mauvaise capacité fonctionnelle des patients éligibles en limite la pratique au quotidien.
+
+### Une meilleure connaissance des résultats d'une revascularisation myocardique prophylactique (cf. Question 3)
+
+Les résultats de l'étude CARP et de certaines des études DECREASE montrent l'absence de bénéfices sur la population globale des patients avant chirurgie vasculaire ou chirurgie lourde. Cependant après analyse de certains sous-groupes de patients de ces études, ou de certaines études spécifiques, il est raisonnable de proposer cette revascularisation préalable en cas d'ischémie myocardique étendue. Des pontages pourront être proposés plutôt qu'une angioplastie qui pose ensuite la délicate question de gestion des agents antiplaqueulaires en périopératoire. La recherche de l'ischémie myocardique par les tests fonctionnels se trouve donc limitée aux patients cumulant une capacité fonctionnelle limitée et un score de Lee (ou équivalent) élevé, et essentiellement avant chirurgie à haut risque, surtout vasculaire. L'indication de revascularisation myocardique n'est alors justifiée que lorsque l'ischémie myocardique est étendue (> 20 % du myocarde à la scintigraphie myocardique, ou touchant au moins quatre territoires myocardiques sur 17 à l'échographie de stress). Cela est bien en accord avec les indications actuelles de revascularisation myocardique d'emblée chez les patients à angor stable, où l'analyse des sous-groupes des patients de l'étude COURAGE suggère aussi que seuls les patients ayant une ischémie myocardique étendue pourraient bénéficier de la revascularisation myocardique. Ainsi il n'y a pas d'indication spécifique de revascularisation myocardique dans l'unique perspective de réaliser une chirurgie non cardiaque, même à haut risque, car les indications de la revascularisation myocardique sont alors les mêmes que celles conseillées chez tous les patients stables (et a fortiori chez les patients à maladie coronarienne instable). Dans tous les cas, la décision d'une revascularisation prophylactique préopératoire doit faire l'objet d'une analyse bénéfice/risque dans le cadre d'un consensus multidisciplinaire impliquant les équipes d'anesthésie-réanimation, de chirurgie et de cardiologie.
+
+### Place du traitement bêtabloquant en préopératoire (cf. Question 3)
+
+Concernant l'usage des bêtabloquants, les études randomisées récentes, en particulier l'étude POISE, n'ont pas confirmé les données plus favorables de deux séries plus anciennes, mais limitées réalisées avec le bisoprolol et lemétoprolol, notamment lorsque ce traitement est initié juste avant la chirurgie. Une méta-analyse des principales études suggère toutefois un bénéfice au moins pour réduire le risque de survenue d'une ischémie myocardique ou d'un infarctus du myocarde péri- ou postopératoire, et possiblement pour diminuer la mortalité plus à distance chez les patients coronariens à haut risque. Il est certain que les bêtabloquants doivent être poursuivis chez les patients déjà traités quelle que soit la chirurgie programmée. L'introduction d'un traitement bêtabloquant est licite chez les patients devant bénéficier d'une chirurgie vasculaire ou présentant une ischémie myocardique sur les tests préopératoires, mais le niveau de cette recommandation est moins fort que précédemment. Surtout une titration doit alors être réalisée de manière à ce que la fréquence cardiaque du patient soit ramenée progressivement aux alentours de 70 b/min ou un peu moins, ainsi qu'une surveillance de cette introduction, et une prévention ou correction immédiate de toute hypovolémie ou hypotension peropératoire, pour éviter l'apparition d'effets délétères, tel que la survenue d'un AVC. Dans ces conditions le traitement bêtabloquant reste certainement utile chez les patients à risque soumis à une chirurgie à haut risque, vasculaire ou non (étude DECREASE IV). L'introduction du traitement bêtabloquant n'est probablement pas utile chez les patients devant bénéficier d'une chirurgie non cardiaque à risque intermédiaire (à l'exception de la chirurgie carotidienne) ou bas. Un des enseignements des dernières études à prendre en compte est le risque d'hypotension artérielle pouvant survenir lors de la période périopératoire chez les patients sous bêtabloquants.
+
+#### Place des statines (cf. Question 3)
+
+Il a été montré que leur interruption en postopératoire augmente le risque de survenue de nécrose ; une méta-analyse suggère même un effet globalement positif de leur introduction en préopératoire. Des arguments physiopathologiques plaident en faveur de cette introduction (effets « pléiotropes », qui pourraient contrebalancer l'hyperagrégabilité ou le syndrome inflammatoire postopératoire, source de thrombose coronaire). Cependant, les données factuelles restent partielles, souvent reposant sur des études non randomisées, ou sur de petites séries (étude DECREASE III). Leur introduction est probablement utile chez le coronarien avéré, ou le patient avant chirurgie vasculaire ; la question de leur introduction systématique avant chirurgie lourde reste ouverte. Il est recommandé de ne pas les arrêter en préopératoire si le patient était déjà traité.
+
+#### Importance de la surveillance multidisciplinaire per- et postopératoire
+
+Malgré les progrès de l'anesthésie, la fréquence de survenue (en pourcentage et nombre absolu) d'accidents ou d'incidents cardiaques per- et postopératoires reste élevée chez les patients à risque. Les méthodes de prophylaxie de ces accidents que nous venons d'étudier, ont un impact limité soit parce qu'elles s'appliquent à une toute petite fraction des patients avant chirurgie non cardiaque (comme la contre-indication temporaire à la chirurgie chez les patients en angor instable, ou
+
+la revascularisation myocardique préalable de quelques patients avec ischémie myocardique étendue), soit parce qu'elles ont un impact modéré sur une population plus large (utilisation des bêtabloquants, statines). En revanche, une notion importante et nouvelle, développée dans le chapitre I, est que la survenue d'une ischémie ou d'une nécrose myocardique en périopératoire a un impact négatif sur le pronostic ultérieur du patient. Il apparaît donc important de détecter l'apparition éventuelle de cette ischémie périopératoire dans le but de mettre en place en postopératoire des stratégies (médicamenteuses ou interventionnelles) susceptibles d'améliorer le pronostic à distance. Trois examens apparaissent ici utiles : l'ECG (pré- et postopératoire), le monitoring continu du segment ST en peropératoire et en SSPI, et le dosage répété des troponines cardiaques. Le groupe de travail recommande la réalisation d'un ECG préopératoire chez la majorité des patients à risque avant chirurgie (Tableau 3), et de répéter ces ECG en postopératoire en cas de chirurgie à haut risque chez un patient présentant des facteurs de risque CV. L'intérêt du dosage de la troponine Ic a d'abord été noté en chirurgie vasculaire réglée ou en urgence, mais également en chirurgie viscérale, orthopédique, pédiatrique, urologique ou gynécologique. Ces élévations de troponine sont rencontrées fréquemment, jusqu'à un quart des patients, y compris après chirurgie lourde non vasculaire. Le pronostic à distance de ces patients est alors directement relié au degré d'élévation de la troponine postopératoire (de la même façon que cela avait été démontré au cours d'un syndrome coronarien aigu « spontané »). Il apparaît licite de réaliser, chez le patient coronarien ou présentant plusieurs facteurs de risque CV, et opéré d'une intervention de chirurgie générale notamment à haut risque, le dosage systématique et répété de la troponine en postopératoire. Le niveau de cette proposition sera plus élevé lorsqu'une étude d'intervention randomisée sera disponible. Toute élévation de troponine devra ainsi être prise en compte dans le traitement médical du patient et dans son suivi à long terme.
+
+#### Algorithme de prise en charge préopératoire avant chirurgie non cardiaque
+
+L'algorithme de prise en charge du patient, en préopératoire, présenté sur la Fig. 1, découle d'une approche par étapes successives, développée initialement par K. Eagle, reprise ensuite dans les recommandations publiées par l'ACC/AHA (mises à jour en 2007), et dans les récentes recommandations de 2009 de la Société européenne de cardiologie, et adaptée à la situation française par le groupe de travail. Cette démarche par étapes a pour objectif de reconnaître les patients les plus à risque de survenue d'une complication cardiaque, pour leur faire bénéficier d'une stratégie préventive : surveillance renforcée, mesures thérapeutiques, voire contre-indication à la chirurgie. Il est d'emblée capital de souligner que cette prise en charge doit être multidisciplinaire, avec comme couple principal la synergie entre le cardiologue et l'anesthésiste qui définissent le risque opératoire, mais aussi en collaboration avec le chirurgien qui va opérer ce patient.L'étape n° 1 est de décider si cette chirurgie est urgente ou non. En cas de chirurgie urgente et vitale, celle-ci doit être réalisée quelle que soit la condition du patient, et le rôle de l'évaluation sera de mettre en garde sur l'importance du risque péri- ou postopératoire, et bien entendu d'optimiser les traitements et la surveillance périopératoires. Le patient pourra alors être exploré et traité à l'issue de la chirurgie.
+
+Étape 2 : si la chirurgie est élective (c'est-à-dire non urgente), il convient d'écarter l'existence d'une pathologie cardiaque « instable » comme nous l'avons déjà défini antérieurement. Si tel est le cas le patient doit être traité selon les recommandations de la pathologie en cours avant d'envisager la chirurgie non cardiaque élective.
+
+La troisième étape chez les patients ne présentant donc pas une pathologie cardiaque « instable » est d'estimer le niveau de risque de la chirurgie à réaliser. En cas de chirurgie à risque bas, comme défini précédemment, celle-ci peut être effectuée sans investigation complémentaire. Par exemple les examens de stress ne sont pas indiqués avant une telle chirurgie.
+
+Avant la réalisation d'une chirurgie à risque intermédiaire ou élevée, la quatrième étape a pour objectifs : l'estimation de la capacité fonctionnelle du patient et le calcul du score de risque (Lee ou équivalent).
+
+Lorsque le patient présente une bonne capacité fonctionnelle à l'effort ( $> 4$  Met), toutes ces chirurgies peuvent être réalisées d'emblée, quelle que soit la valeur du score de Lee. Cette chirurgie possible d'emblée ne signifie pas l'absence de prise en charge optimisée ou d'adaptation du traitement médical. Chez un coronarien stable ( $CCS < 2$ ), outre la réalisation d'un ECG, la poursuite d'un traitement bêtabloquant ou statine en cours est recommandée. L'introduction en préopératoire de tels traitements, en suivant les règles édictées plus haut semble plus discutable. La réalisation de tests fonctionnels de stress n'est pas indiquée avant une telle chirurgie.
+
+Lorsque le patient a une capacité d'effort diminuée ( $< 4$  Met), ou une capacité fonctionnelle non évaluable, intervient alors le nombre des facteurs (marqueurs) de risque clinique (score de Lee) du patient, modulé aussi par le type de chirurgie programmée (chirurgie générale à risque intermédiaire, chirurgie vasculaire à risque intermédiaire, ou chirurgie à risque élevé) :
+
+- • lorsque ce patient n'a pas ou a un seul de facteurs de risque clinique, les chirurgies sus-citées peuvent être réalisées. Toutefois lorsque cet angor de classe fonctionnelle I ou 2 est découvert pour la première fois lors de la consultation d'anesthésie, une consultation cardiologique doit alors être demandée. Selon la situation clinique et le type d'intervention programmée, il sera alors décidé de concert si le bilan complémentaire fonctionnel d'effort sera réalisé après la chirurgie, ou si celle-ci peut être reportée. Dans les deux cas, un traitement médical adapté sera proposé (aspirine, bêtabloquants, voire introduction de statine) ;
+- • lorsque ce patient présente deux facteurs de risque ou plus et doit bénéficier d'une chirurgie vasculaire, ou s'il présente trois facteurs de risque ou plus avant chirurgie non vasculaire à risque intermédiaire ou élevé, les recommandations
+
+européennes préconisent deux stratégies possibles : soit réaliser cette chirurgie en se contentant de contrôler le rythme cardiaque (bêtabloquants), soit réaliser un test fonctionnel de recherche de l'ischémie myocardique.
+
+Les recommandations françaises Sfar/SFC privilègient cette seconde stratégie de recherche de l'ischémie qui doit être discutée de façon collégiale, si cette recherche peut être suivie au besoin d'une revascularisation myocardique.
+
+Bien entendu, le patient coronarien à risque opéré en chirurgie vasculaire doit aussi bénéficier du maintien voire de l'introduction du traitement par bêtabloquants ou statine. Chez le patient non coronarien non vasculaire, l'introduction d'un traitement par statine semble devoir exiger des études de niveau de preuve supérieure pour pouvoir être définitivement validée. De même, les patients non traités qui se présentent en consultation d'anesthésie préopératoire avec un angor symptomatique de classe fonctionnelle I ou 2 doivent être adressés en consultation de cardiologie dans le but d'introduire un traitement médical préopératoire et de définir une stratégie de réalisation d'un bilan fonctionnel d'effort en fonction de la date d'intervention.
+
+La réalisation d'un test d'ischémie en préopératoire est donc limitée aux patients qui présentent à la fois une capacité fonctionnelle diminuée, deux facteurs de risque ou plus avant une chirurgie vasculaire ou trois facteurs de risque ou plus avant chirurgie non vasculaire à risque intermédiaire ou élevé. Selon l'expertise du centre, il peut s'agir soit d'une scintigraphie de perfusion, soit d'une échographie sous dobutamine, les solutions les moins irradiantes devant être privilégiées. Selon l'importance de l'ischémie notée (classiquement plus de 20 % du myocarde à la scintigraphie myocardique, ou plus de quatre segments pathologiques sur 17 à l'échographie de stress) une revascularisation myocardique préalable peut être justifiée. Le niveau de cette recommandation reste modéré, suite aux résultats en demi-teinte des études CARP ou DECREASE 5, mais, comme cela est déjà montré dans des études médicales, et par analogie, les sous-groupes de patients à ischémie étendue semblent pouvoir tirer un bénéfice d'une telle revascularisation prophylactique.
+
+### Autres situations pathologiques rencontrées chez le coronarien
+
+#### Hypertension artérielle
+
+Elle n'est pas une contre-indication formelle à la chirurgie non cardiaque, et une étude randomisée ne montre pas de bénéfice à attendre en cas d'HTA modérée, car généralement l'utilisation d'antihypertenseur intraveineux d'action rapide suffit à maîtriser le patient. Cette recommandation de la Société européenne d'hypertension doit être adaptée cas par cas selon la sévérité de l'hypertension artérielle et l'urgence de la chirurgie. À noter que les IEC doivent être arrêtés la veille de la chirurgie et n'être repris que lorsque le patient est de nouveau en normovolémie. Il en est de même pour les patients sous IEC dans le cadre d'une insuffisance cardiaque ancienne, d'une dysfonction VG ou de la prévention secondaire chez un patient coronarien.### Patient présentant un rétrécissement aortique
+
+Situation non exceptionnelle vu le vieillissement de la population, associée une fois sur deux à la présence d'une coronaropathie, il s'agit en effet d'une pathologie cardiaque « instable », exposant à une mortalité opératoire de 10 % voire plus si ce rétrécissement aortique n'est pas corrigé. Ces patients supportent particulièrement mal la vasoplégie induite par l'anesthésie, et a fortiori par une anesthésie rachidienne. Chez les patients à forte comorbidité, la réalisation d'une angioplastie aortique percutanée préopératoire peut apparaître « raisonnable » chez les patients hémodynamiquement instables, mais dont l'état clinique ne permet pas de remplacement valvulaire aortique chirurgical du fait des comorbidités. La chirurgie non cardiaque sera réalisée alors dans les toutes premières semaines après cette valvuloplastie aortique.
+
+### Chez les patients en fibrillation auriculaire à haut risque embolique
+
+Chez les patients en fibrillation auriculaire à haut risque embolique (exemple prothèse mécanique notamment mitrale) un relais par héparine (héparine de bas poids moléculaire préférentiellement) doit être réalisé. Des recommandations récentes (2008) ont été émises par la HAS sur la gestion périopératoire des AVK.
+
+En somme cette évaluation préopératoire est une excellente opportunité, parfois la première pour le patient, de bénéficier d'une évaluation clinique de son risque CV et d'une optimisation de son traitement médical. Il n'apparaît que rarement nécessaire de pousser cette évaluation jusqu'à la réalisation de tests fonctionnels, et a fortiori invasifs, sauf si par ailleurs, indépendamment de la prochaine chirurgie, l'état cardiaque de ce patient impose la réalisation d'un bilan complémentaire. Il en est exactement de même quant aux indications d'une revascularisation myocardique préalable avant chirurgie non cardiaque : ces indications sont calquées sur celles des patients de la vie courante, essentiellement pour les patients présentant un syndrome coronarien aigu en cours ou récent, ou un angor stable invalidant associé à la présence d'une ischémie myocardique étendue.
+
+### De l'importance de détecter les accidents coronariens péri- et postopératoires
+
+Les stratégies diagnostiques et thérapeutiques développées en préopératoire ont réduit l'incidence des complications CV les plus graves, parfois létales, en donnant une opportunité de détecter une catégorie de patients qui justifiaient d'une stratégie de revascularisation préalable à la chirurgie programmée (syndromes coronariens aigus, détection d'une ischémie étendue chez certains patients), et/ou en réduisant l'incidence ou la gravité des complications grâce à l'utilisation des bêtabloquants ou statines chez certains patients. Toutefois la situation péri- et postopératoire cumule pour le patient coronarien plusieurs des mécanismes déclencheurs du syndrome coronarien aigu : à la fois des facteurs de vulnérabilité d'un athérome coronarien préexistant (inflammation), et de thrombose coronaire à partir d'une plaque instable ou déstabilisée. Ces accidents coronariens aigus restent fréquents et, comme dans la population générale, se déclenchent à partir d'une sténose préexistante serrée ou non, et entraînent à distance un risque accru de récidive ischémique et de décès. Il est donc important d'identifier tous les patients présentant un syndrome coronarien aigu péri- ou postopératoire. Cette identification est cliniquement difficile, car le symptôme douleur thoracique est souvent pris en défaut. Ainsi, la prise en charge de ces patients doit s'intégrer dans un parcours de soin visant à détecter les accidents coronariens périopératoires. Ce chemin intégrera, par exemple : (1) la réalisation d'un ECG préopératoire avant toute chirurgie à risque élevé ou intermédiaire, pour pouvoir ensuite le confronter au besoin avec des ECG postopératoires ; (2) le monitoring de l'ECG (monitorage automatisé du segment ST) lors de la période peropératoire, et si possible postopératoire, des patients bénéficiant d'une chirurgie à haut risque ou d'une chirurgie vasculaire et (3) le dosage répété de la troponine, qui apparaît le marqueur le plus prédictif de l'évolution à distance.
+
+La mise en évidence d'une ischémie péri- ou postopératoire justifie alors un retour vers l'équipe cardiologique pour proposer une prise en charge adaptée, médicamenteuse et
+
+```
+
+graph TD
+    A[Angioplastie préalable  
+(SCA, CCS 3-4)] --> B[chirurgie à faible risque  
+hémorragique]
+    B --> C[chirurgie sous  
+aspirine ± clopidogrel]
+    B --> D[chirurgie < 14 jours]
+    B --> E[14-30 jours]
+    B --> F[40 jours-1 an]
+    B --> G[après 1 an]
+    D --> H[contre-indiquer  
+(sauf urgence)  
+chirurgie sous aspirine]
+    E --> I[angioplastie  
+au ballon  
+chirurgie sous aspirine]
+    F --> J[Stent nu  
+chirurgie sous aspirine*]
+    G --> K[stent actif possible  
+chirurgie sous aspirine]
+  
+```
+
+The flowchart illustrates the management of antiplatelet treatment after a preoperative angioplasty (SCA, CCS 3-4) for a non-cardiac surgery. It starts with 'Angioplastie préalable (SCA, CCS 3-4)', which leads to 'chirurgie à faible risque hémorragique'. From this point, the path splits into four time-based categories: 'chirurgie < 14 jours' (leading to 'contre-indiquer (sauf urgence) chirurgie sous aspirine'), '14-30 jours' (leading to 'angioplastie au ballon chirurgie sous aspirine'), '40 jours-1 an' (leading to 'Stent nu chirurgie sous aspirine\*'), and 'après 1 an' (leading to 'stent actif possible chirurgie sous aspirine'). An additional path from 'chirurgie à faible risque hémorragique' leads to 'chirurgie sous aspirine ± clopidogrel'.
+
+Fig. 2. Gestion du traitement antiagrégant plaquettaire après angioplastie préalable à une chirurgie non cardiaque.parfois interventionnelle de ce syndrome coronarien aigu, et plus généralement de mettre en œuvre une stratégie de prévention secondaire de la maladie coronarienne.
+
+### Gestion des patients ayant bénéficié d'une revascularisation myocardique – pontage ou angioplastie coronaire – avant la chirurgie non cardiaque
+
+L'irruption des stents actifs (endoprotèses recouvertes) dans l'arsenal thérapeutique du coronarien a compliqué le problème (Fig. 2). Il n'y a aucune place pour l'angioplastie ou les pontages préventifs avant la chirurgie non cardiaque dans le seul but de réaliser cette chirurgie ; en revanche cette angioplastie (ou ce pontage) peut être nécessaire si indiquée par l'état du patient (en particulier après un syndrome coronarien aigu ou présence d'une ischémie myocardique étendue).
+
+Lorsqu'une revascularisation myocardique préalable par angioplastie est nécessaire avant une chirurgie non cardiaque, la technique de l'angioplastie dépend de la date de cette chirurgie : aucune chirurgie programmée ne doit être réalisée dans les 15 jours après une angioplastie, sinon le risque d'évolution « catastrophique » est élevé ; si cette chirurgie programmée est indispensable entre 15 et 30 jours après l'angioplastie, une angioplastie au ballon seul est préconisée ; si circonstance plus fréquente en pratique on peut attendre au moins six semaines, l'utilisation d'un stent nu est préférable associé à un traitement antiagrégant double pour quatre semaines ; la chirurgie est
+
+réalisée une semaine à dix jours plus tard. L'utilisation des stents actifs est contre-indiquée chez des patients pour lesquels une chirurgie non cardiaque est programmée dans l'année qui suit l'implantation. La confrontation pluridisciplinaire présente un deuxième aspect positif : elle permet souvent de constater que la chirurgie non cardiaque programmée est à risque hémorragique suffisamment faible ou modérée, pour que le rapport risques/bénéfices soit en faveur du maintien du traitement antiagrégant plaquettaire. Il est préférable alors de la réaliser sous l'association clopidogrel-aspirine, même après angioplastie au ballon ou au stent nu.
+
+La seconde situation est le patient qui nécessite une chirurgie non cardiaque non planifiée urgente alors qu'il a eu précédemment une angioplastie coronaire. La recommandation est la suivante : lorsque cette chirurgie doit être réalisée dans le mois après implantation d'un stent nu, ou dans l'année qui suit la pose d'un stent actif, et lorsque cette chirurgie ne permet pas la poursuite du traitement antiagrégant double par clopidogrel-aspirine, l'aspirine doit être maintenue et le clopidogrel arrêté trois à cinq jours avant l'intervention, puis repris aussi rapidement que possible après celle-ci (dans les 48 heures), avec une dose de charge si possible. Sur ces bases l'indispensable confrontation entre le cardiologue, l'anesthésiste et le chirurgien évaluera, cas par cas, le rapport risque/bénéfice de l'arrêt ou non du traitement antiagrégant, et de la date de sa reprise, car ces règles reposent plus sur des avis d'experts que sur des données factuelles randomisées.
+
+## ANNEXE I. EXEMPLE DE FICHE DE LIAISON ENTRE L'ANESTHÉSISTE-RÉANIMATEUR ET LE CARDIOLOGUE
+
+Étiquette du patient : ..... Coordonnées du patient : .....  
+ Date de demande : .....  
+ Nom et téléphone de l'anesthésiste : .....  
+ Antécédents cardiaques connus (préciser et joindre les comptes rendus, cardiologue traitant) :  
+ • Coronaires : .....  
+ • Autres : RA, autres valves, HTA, FA, antécédents vasculaires...  
+ Présence d'un stent coronaire : Oui  Non  Si oui, détails (type, date, actif ?, correspondant) : .....  
+ Interrogatoire :  
+     Angor : Non  Oui  Possible   
+     Dyspnée : Non  Oui, Stade NYHA : 1 2 3 4  
+     Capacité à l'effort : (le patient peut-il monter 2 étages ?)  
+ Examen clinique : FC TA Autre information utile : .....  
+ ECG (à joindre) : .....  
+ Type d'intervention programmée : ..... Date prévue : .....  
+ Chirurgie risque : élevé  intermédiaire  faible   
+ Motif de l'intervention (oncologie, hémorragie, menace vitale, fracture, fonctionnelle, etc.) : .....  
+ .....  
+ La chirurgie peut-elle être repoussée ? : Oui  Non   
+ Traitement actuel (dont antiagrégants, bêtabloquant, médicaments de l'IC, statines...) : .....  
+ Si traitement par antiplaquettaire, la chirurgie peut-elle être réalisée sous aspirine et/ou clopidogrel ?  
+ Score de risque (à remplir par l'anesthésiste) : .....ANNEXE I (SUITE)
+
+Score de Lee :
+
+Chirurgie à haut risque
+
+Cardiopathie ischémique
+
+ATCD AVC/AIT
+
+Diabète
+
+ATCD IC congestive
+
+Insuffisance Rénale
+
+**Total**
+  
+  
+  
+  
+  
+
+
+Motif spécifique de la demande : .....
+
+CONSULTATION DE CARDIOLOGIE (joindre le compte rendu)
+
+Nom du cardiologue : ..... Coordonnées du cardiologue : .....
+
+Date de consultation : .....
+
+Des examens ont-ils été réalisés en consultation ?
+
+Des examens complémentaires sont-ils recommandés ?
+
+ECG d'effort : .....
+
+Scintigraphie myocardique : .....
+
+Échographie sous dobutamine : .....
+
+Coronarographie : .....
+
+Autres : .....
+
+Prévoir le dosage de la troponine I postopératoire : Oui  Non 
+
+Recommandations thérapeutiques :
+
+Bêtabloquants : .....
+
+Statines : .....
+
+Antiagrégants plaquettaires : .....
+
+Autres : .....
+
+ANNEXE 2. CLASSIFICATION CANADIENNE FONCTIONNELLE DE L'ANGINE DE POITRINE [3]
+
+<table border="1">
+<thead>
+<tr>
+<th>Classe</th>
+<th>Définition</th>
+<th>Activités spécifiques</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td>Les efforts physiques de la vie courante (par exemple marcher ou monter les escaliers) n'entraînent pas d'angor. L'angine de poitrine n'apparaît que lors d'efforts intenses, abrupts, ou extrêmement prolongés à l'occasion du travail ou des loisirs</td>
+<td>Le ski, la course à pied à vitesse modérée ou pelleter la neige n'entraîne pas d'angine de poitrine</td>
+</tr>
+<tr>
+<td>II</td>
+<td>Il existe une limitation légère lors de certaines activités de la vie courante : l'angine de poitrine apparaît à la marche rapide ou à la montée rapide des escaliers, à la marche en côte, notamment après les repas, au froid ou à l'occasion d'une émotion, au primo décubitus, ou encore à vitesse habituelle à la marche de plus de 2 blocs, où après 2 à 3 étages. L'angine de poitrine n'apparaît pas pour une marche à vitesse modérée, à plat ou lors d'un acte sexuel</td>
+<td>Possibilité de jardinage, roller, marche à 6 km/h à plat, activité sexuelle</td>
+</tr>
+<tr>
+<td>III</td>
+<td>Il existe une limitation marquée pour les efforts de la vie courante. Ainsi l'angine de poitrine apparaît à un ou 2 blocs de marche à plat, ou à un étage de montée des escaliers à vitesse normale</td>
+<td>Possibilité de réaliser des efforts d'habillage, de toilette, marche lente (4 km/h), ou les activités domestiques ou sportives de faible intensité</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>Impossibilité de réaliser tout effort physique sans l'apparition de l'angine de poitrine. Cette angine de poitrine peut apparaître même au repos</td>
+<td>Le patient est incapable de réaliser sans apparition de l'angor des efforts demandant plus de deux équivalents métaboliques</td>
+</tr>
+</tbody>
+</table>
+
+RÉFÉRENCES
+
+[1] Sicari R, Nihoyannopoulos P, Evangelista A. Stress Echocardiography Expert Consensus Statement-Executive Summary: European Association of Echocardiography (EAE) (a registered branch of the ESC). *Eur Heart J* 2009;30:278–89.
+
+[2] Poldermans D, et al. Guidelines for pre-operative cardiac risk assessment and perioperative cardiac management in non-cardiac surgery the task
+
+force for preoperative cardiac risk assessment and perioperative cardiac management in non-cardiac surgery of the European Society of Cardiology (ESC) and endorsed by the European Society of Anaesthesiology (ESA). *Eur J Anaesthesiol* 2010;27:92–137 [*Eur Heart J* 2009;30:2769–812].
+
+[3] Goldman L, Hashimoto B, Cook EF, Loscalzo A. Comparative reproducibility and validity of systems for assessing cardiovascular functional class: advantages of a new specific activity scale. *Circulation* 1981;64:1227–34.## Annexe I.- Exemple de fiche de liaison entre l'anesthésiste-réanimateur et le cardiologue
+
+Étiquette du patient :
+
+Coordonnées du patient :
+
+Date de demande :
+
+Nom et téléphone de l'anesthésiste :
+
+Antécédents cardiaques connus (préciser et joindre les comptes rendus, cardiologue traitant) :
+
+- • Coronaires :
+- • Autres : RA, autres valves, HTA, FA, antécédents vasculaires...
+
+Présence d'un stent coronaire : Oui  Non
+
+si oui, détails (type, date, actif ?, correspondant) :
+
+Interrogatoire :
+
+Angor :
+
+Non
+
+Oui
+
+Possible
+
+Dyspnée :
+
+Non
+
+Oui, Stade NYHA : 1
+
+2
+
+3
+
+4
+
+Capacité à l'effort : (le patient peut-il monter 2 étages ?)
+
+Examen clinique :
+
+FC
+
+TA
+
+Autre information utile :
+
+ECG (à joindre) :
+
+Type d'intervention programmée :
+
+Date prévue :
+
+Chirurgie risque : élevé  intermédiaire  faible
+
+Motif de l'intervention (oncologie, hémorragie, menace vitale, fracture, fonctionnelle, etc.) :
+
+La chirurgie peut-elle être repoussée ? : Oui  Non
+
+Traitement actuel (dont antiagrégants, bêtabloquant, médicaments de l'IC, statines...):
+
+Si traitement par antiplaquettaire, la chirurgie peut-elle être réalisée sous aspirine et /ou clopidogrel ?
+
+Score de risque (à remplir par l'anesthésiste) :
+
+Score de Lee :
+
+Chirurgie à haut risque
+
+Cardiopathie ischémique
+
+ATCD AVC/AIT
+
+Diabète
+
+ATCD IC congestive
+
+Insuffisance Rénale
+
+Total :
+
+Motif spécifique de la demande :
+
+## CONSULTATION DE CARDIOLOGIE (joindre le compte rendu)
+
+Nom du cardiologue :
+
+Coordonnées du cardiologue :
+
+Date de consultation :
+
+Des examens ont-ils été réalisés en consultation ?
+
+Des examens complémentaires sont-ils recommandés ?
+
+ECG d'effort :
+
+Scintigraphie myocardique :
+
+Echographie sous dobutamine :
+
+Coronarographie :
+
+Autres :
+
+Prévoir le dosage de la troponine I postopératoire : Oui  Non
+
+Recommandations thérapeutiques :
+
+Bêtabloquants :
+
+Statines :
+
+Antiagrégants plaquettaires :
+
+Autres :

@@ -1,0 +1,105 @@
+{
+  "file_name": "2_SFAR_Prise-en-charge-des-candidoses-et-aspergilloses-invasives-de-ladulte.pdf",
+  "num_pages": 8,
+  "total_token_count": 10605,
+  "total_chunks": 124,
+  "total_images": 8,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 667,
+      "num_chunks": 13,
+      "num_images": 5
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1103,
+      "num_chunks": 10,
+      "num_images": 1
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1497,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1279,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1990,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1416,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1173,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1134,
+        1587
+      ],
+      "token_count": 1480,
+      "num_chunks": 32,
+      "num_images": 2
+    }
+  ]
+}
