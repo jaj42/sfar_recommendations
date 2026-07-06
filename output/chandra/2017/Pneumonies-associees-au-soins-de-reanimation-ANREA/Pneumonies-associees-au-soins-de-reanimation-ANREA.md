@@ -1,0 +1,1092 @@
+![Check for updates icon](996324bd8236b547ae1e30f63ea1fdf9_4_img.webp)
+
+## Pneumonies associées aux soins de réanimation<sup>☆,☆☆</sup>
+
+Marc Leone<sup>1</sup>, Lila Bouadma<sup>2</sup>, Belaïd Bouhemad<sup>3</sup>, Olivier Brissaud<sup>4</sup>, Stéphane Dauger<sup>5</sup>, Sébastien Gibot<sup>6</sup>, Sami Hraiech<sup>7</sup>, Boris Jung<sup>8,9</sup>, Eric Kipnis<sup>10,11</sup>, Yoann Launey<sup>12</sup>, Charles-Edouard Luyt<sup>13</sup>, Dimitri Margetis<sup>14</sup>, Fabrice Michel<sup>15</sup>, Djamel Mokart<sup>16</sup>, Philippe Montravers<sup>17</sup>, Antoine Monsel<sup>18</sup>, Saad Nseir<sup>19</sup>, Jérôme Pugin<sup>20</sup>, Antoine Roquilly<sup>21</sup>, Lionel Velly<sup>22</sup>, Jean-Ralph Zahar<sup>23,24</sup>, Rémi Bruyère<sup>25</sup>, Gérald Chanques<sup>26,27</sup>
+
+Disponible sur internet le :  
+8 août 2018
+
+1. 1. Service d'anesthésie réanimation, hôpital Nord, Aix-Marseille université, AP-HM, 13015 Marseille, France
+2. 2. Service de réanimation médicale, hôpital Bichat-Claude-Bernard, 46, rue Henri-Huchard, 75018 Paris, France
+3. 3. Service d'anesthésie réanimation, CHU de Dijon, BP 77908, 21709 Dijon cedex, France
+4. 4. Unité de réanimation pédiatrique, hôpital Pellegrin-Enfants, université Bordeaux II, CHU Pellegrin, place Amélie-Raba-Léon 33076 Bordeaux, France
+5. 5. Inserm U1141, PICU, Robert-Debré University Hospital, Paris Diderot-Paris 7 University, Assistance publique-hôpitaux de Paris, 48, boulevard Sérurier 75019 Paris, France
+6. 6. Service de réanimation médicale, hôpital Central, 29, avenue de Lattre-de-Tassigny, 54035 Nancy cedex, France
+7. 7. Service de réanimation des détresses respiratoires et des infections sévères, hôpital Nord, Assistance publique-hôpitaux de Marseille, 13015 Marseille, France
+8. 8. Department of Anaesthesia and Intensive Care, Montpellier University Saint-Eloi Hospital, 34000 Montpellier, France
+9. 9. Inserm U1046, CNRS UMR 9214, PhyMedExp, University of Montpellier, 34000 Montpellier, France
+10. 10. Surgical Critical Care Unit, Department of Anesthesiology and Critical Care, CHU de Lille, 59000 Lille, France
+11. 11. EA 7366, Host-pathogen translational research, université de Lille, 59000 Lille, France
+12. 12. Department of Anesthesia and Critical Care Medicine, Rennes University Hospital, 35000 Rennes, France
+13. 13. Institut de cardiologie, service de réanimation médicale, groupe hospitalier Pitié-Salpêtrière, université Paris 6-Pierre et Marie Curie, Assistance publique-hôpitaux de Paris, 75000 Paris, France
+14. 14. Service de réanimation médicale, hôpital Saint-Antoine, Assistance publique-hôpitaux de Paris, 184, rue du faubourg Saint-Antoine, 75012 Paris, France
+15. 15. Anesthesia and Intensive Care Unit, Timone Children's Hospital, Assistance publique-hôpitaux de Marseille, 13005 Marseille, France
+16. 16. Intensive Care Unit, Paoli-Calmettes Institute, 232, boulevard de Sainte-Marguerite, 13009 Marseille, France
+17. 17. Département d'anesthésie-réanimation, université Paris VII Sorbonne Cité, CHU Bichat-Claude-Bernard, AP-HP, 46, rue Henri-Huchard, 75018 Paris, France
+18. 18. Department of Anesthesiology and Critical Care, University Pierre and Marie Curie, 75000 Paris, France
+19. 19. Department of Intensive Care Medicine, Critical Care Center, CHU of Lille, 59000 Lille, France
+20. 20. Hôpitaux universitaires de Genève, 27230 Geneva, GE, Switzerland
+
+☆ RFE commune Société française d'anesthésie et de réanimation - Société de réanimation de langue française (SFAR - SRLF) en collaboration avec les Sociétés association des anesthésistes réanimateurs pédiatriques d'expression française et Groupe francophone de réanimation et urgences pédiatriques (ADARPEF et GFRUP).  
+☆☆ Texte validé par le Conseil d'administration de la SFAR (29/06/2017) et de la SRLF (08/06/2017).1. 21. Anaesthesia Intensive Care Unit, centre hospitalier universitaire, 44000 Nantes, France
+2. 22. Département d'anesthésie réanimation, hôpital de la Timone, 13000 Marseille, France
+3. 23. Unité de contrôle et de prévention, du risque infectieux, département de microbiologie clinique, groupe hospitalier Paris Seine Saint-Denis, CHU Avicenne, AP-HP, 125, rue de Stalingrad, 93000 Bobigny, France
+4. 24. Infection Control Unit, IAME, UMR 1137, université Paris 13, Sorbonne Paris Cité, 75000 Paris, France
+5. 25. Service de réanimation, centre hospitalier de Bourg en Bresse, 900, route de Paris, 01000 Bourg-en-Bresse, France
+6. 26. Département d'anesthésie réanimation, hôpital Saint-Eloi, CHU de Montpellier, 80, avenue Augustin-Fliche, 34295 Montpellier cedex 5, France
+7. 27. Inserm U1046, CNRS UMR 9214, PhyMedExp, université de Montpellier, 34295 Montpellier cedex 5, France
+
+**Correspondance :**
+
+**Marc Leone**, Service d'anesthésie réanimation, hôpital Nord, Aix-Marseille université, AP-HM, 13015 Marseille, France.  
+[marc.leone@ap-hm.fr](mailto:marc.leone@ap-hm.fr)
+
+**Mots clés**
+
+Pneumonie  
+ Aspiration  
+ Intubation  
+ Prévention  
+ Antibiotique
+
+**Résumé**
+
+La Société française d'anesthésie et de réanimation et la Société de réanimation de langue française ont publié des recommandations se concentrant sur les pneumonies associées aux soins de réanimation. Le but de ces seize experts francophones était de produire un cadre permettant une meilleure prise de décision pour les médecins réanimateurs. Ces recommandations sont liées à trois sujets précis (la prévention, le diagnostique et le traitement) chez quatre types de patients (BPCO, neutropénie, postopération et pédiatrique). L'analyse littéraire et la formulation des recommandations ont été conduites selon le système GRADE. Une recherche littéraire extensive a été conduite sur 10 ans sur les publications indexées sur les bases de données Cochrane et Pubmed. Les pneumonies associées aux soins doivent être évitées grâce à une approche multimodale standardisée et en utilisant la décontamination digestive là où la prévalence des bactéries multi résistantes aux médicaments était inférieure à 20 %. Le diagnostique se base sur l'évaluation clinique et les analyses microbiologiques. En l'absence de facteurs de risques pour les bactéries multi résistantes, de bacille à gram-négatif non-fermentant et/ou d'une mortalité accrue (choc septique, défaillance organique), la monothérapie est fortement recommandée. Après documentation microbiologique, il est recommandé de réduire le spectre et de préférer la monothérapie pour l'antibiothérapie des pneumonies associées aux soins de réanimation, y compris les bacilles à gram-négatif non-fermentant.
+
+**Summary**
+
+**Healthcare associated pneumonia in the intensive care unit**
+
+*The French Society of Anaesthesia and Intensive Care Medicine and the French Society of Intensive Care edited guidelines focused on hospital-acquired pneumonia (HAP) in intensive care unit (ICU). The goal of 16 French-speaking experts was to produce a framework enabling an easier decision-making process for intensivists. The guidelines were related to 3 specific areas related to HAP (prevention, diagnosis and treatment) in 4 identified patient populations (COPD, neutropenia, postoperative and paediatric). The literature analysis and the formulation of the guidelines were conducted according to the Grade of Recommendation Assessment, Development and Evaluation methodology. An extensive literature research over the last 10 years was conducted based on publications indexed in Pubmed and Cochrane databases. HAP should be prevented by a standardized multimodal approach and the use of selective digestive decontamination in units where multidrug-resistant bacteria prevalence was below 20 %. Diagnosis relies on clinical*
+
+**Keywords**
+
+Pneumonia  
+ Aspiration  
+ Intubation  
+ Prevention  
+ Antibiotics*assessment and microbiological findings. Monotherapy, in the absence of risk factors for multi-drug-resistant bacteria, non-fermenting Gram negative bacilli and/or increased mortality (septic shock, organ failure), is strongly recommended. After microbiological documentation, it is recommended to reduce the spectrum and to prefer monotherapy for the antibiotic therapy of HAP, including for non-fermenting Gram-negative bacilli.*
+
+## Coordonnateurs d'experts
+
+SFAR : Marc Leone, Aix marseille université, service d'anesthésie réanimation, hôpital Nord, AP-HM, 13015 Marseille, France.
+
+SRLF : Lila Bouadma, réanimation médicale, hôpital Bichat-Claude Bernard, 46, rue Henri-Huchard, 75018 Paris, France.
+
+## Organisateurs
+
+SFAR : Gérald Chanques, département d'anesthésie réanimation, hôpital Saint-Éloi, CHU de Montpellier, 80, avenue Augustin-Fliche, 34295 Montpellier cedex 5, France; PhyMedExp, université de Montpellier, Inserm U1046, CNRS UMR 9214, 34295 Montpellier cedex 5, France.
+
+Lionel Velly, département d'anesthésie réanimation, hôpital de la Timone, 13000 Marseille, France.
+
+SRLF : Rémi Bruyère, service de réanimation, CH de Bourg en Bresse, 900 route de Paris, 01000 Bourg de Bresse, France.
+
+## Groupe d'experts de la SFAR
+
+B. Bouhemad, E. Kipnis, D. Mokart, P. Montravers, A. Monsel, A. Roquilly.
+
+## Groupe d'experts de la SRLF
+
+S. Gibot, S. Hraiech, B. Jung, CE. Luyt, S. Nseir, J. Pugin, JR. Zahar.
+
+## Groupe d'experts pédiatriques (ADARPEF et GFRUP)
+
+O. Brissaud, S. Dauger, F. Michel.
+
+## Groupe d'experts chargés de bibliographie
+
+Y. Launey, D. Margetis.
+
+## Groupes de lecture
+
+### Comité des référentiels cliniques de la SFAR
+
+D. Fletcher (Président), L. Velly (Secrétaire), J. Amour, S. Ausset, G. Chanques, V. Compere, F. Espitalier, M. Garnier, E. Gayat, P. Cuvillon, J-M. Malinovsky, B. Rozec.
+
+### Commission des référentiels et de l'évaluation de la SRLF
+
+M. Guillot (Secrétaire), N. Bigé, L. Bodet-Contentin, R. Bruyère, H. Faure, E. L'Her, E. Mariotte, V. Maxime, C. Mossadegh, V. Peigne, F. Plouvier, E. Zogheib.
+
+## Introduction
+
+La pneumonie associée aux soins est l'infection la plus fréquente en réanimation. Cette infection comprend deux entités différentes : la pneumonie associée à la ventilation mécanique (PAVM) et la pneumonie sévère acquise à l'hôpital. L'incidence des PAVM se situe entre 1,9 et 3,8 par 1000 jours de ventilation mécanique aux États-Unis et excède 18 pour 1000 jours de ventilation mécanique en Europe [1].
+
+En réanimation, cette infection est associée à un taux de décès d'environ 20 % [2]. Cependant, la mortalité attribuable à cette infection reste débattue, étant estimée entre 5 et 13 % [2,3]. La mortalité attribuable est probablement plus importante dans certaines populations spécifiques comme les patients atteints de bronchopneumopathie chronique obstructive (BPCO) [1]. Elle tend à être nulle chez les traumatisés [1]. Bien que l'impact direct de cette infection sur la mortalité soit controversé, elle est associée à un surcroît de morbidité, du fait de la prolongation de la durée de ventilation mécanique et de la durée de séjour (en réanimation et à l'hôpital) [1]. Elle est également à l'origine d'une grande part de la consommation d'antibiotiques en réanimation. Au final, elle est associée à un surcoût du séjour hospitalier [4].
+
+La Société française d'anesthésie et de réanimation (SFAR) et la Société de réanimation de langue française (SRLF) n'avaient jusqu'à ce jour jamais proposé de référentiel centré sur la pneumonie associée aux soins. Seize experts francophones sélectionnés par un comité d'organisation désigné par les comités en charge des référentiels sous l'approbation des conseils d'administration des deux sociétés ont eu pour mission de produire un référentiel couvrant trois champs spécifiques : prévention, diagnostic et traitement. Les spécificités de différentes populations pré-déterminées (BPCO, neutropénique, postopératoire et pédiatrie) ont été analysées par des experts identifiés. Deux experts bibliographiques ont analysé la littérature des 10 dernières années sur le domaine en utilisant des mots clés prédéfinis.
+
+## Objectif des recommandations
+
+L'objectif de ces recommandations formalisées d'experts est de produire un cadre facilitant la prise de décision pour les médecins exerçant en réanimation face à un patient suspect deTABLEAU I
+
+**Critères de définition d'une pneumonie**
+
+**Signes radiologiques**
+
+Deux clichés radiologiques successifs à partir desquels l'apparition d'un foyer de pneumonie est suspecté
+
+En l'absence d'antécédents de cardiopathie ou de maladie pulmonaire sous-jacentes, un seul examen radiologique suffit
+
+**Et au moins un des signes suivants**
+
+Température corporelle > 38,3 °C sans autre cause
+
+Leucocytes < 4000/mm<sup>3</sup> ou ≥ 12 000/mm<sup>3</sup>
+
+**Et au moins deux des signes suivants**
+
+Sécrétions purulentes
+
+Toux ou dyspnée
+
+Désaturation ou besoin accru en oxygène ou nécessité d'assistance ventilatoire
+
+pneumonie associée aux soins. Le groupe s'est efforcé de produire un nombre minimal de recommandations afin de mettre en exergue les points forts à retenir dans les trois champs prédéfinis. Dans les situations de doute, le poids de la littérature a été considéré de façon prépondérante par rapport à l'avis des experts. Les règles de base des bonnes pratiques médicales universelles – hygiène, antibiothérapie, soins globaux – étant considérées connues ont été exclues des recommandations.
+
+**Définitions**
+
+Les critères pour retenir le diagnostic de pneumonie sont regroupés dans le *tableau I*. En pratique clinique, une pneumonie associée aux soins est évoquée devant de la fièvre, une altération des paramètres d'oxygénation et des sécrétions purulentes.
+
+La pneumonie sévère acquise à l'hôpital et la PAVM sont des infections survenant après 48 h d'hospitalisation ou de ventilation mécanique, respectivement [5]. Par définition, elles ne sont ni présentes ni en incubation au début de l'hospitalisation ou de la mise en ventilation mécanique. Parmi ces dernières, on distingue les pneumonies précoces (apparues dans un délai < 5 jours) et tardives (≥ 5 jours). La pneumonie associée aux soins microbiologiquement confirmée a été définie comme une pneumonie avec un microorganisme isolé au sein d'échantillons respiratoires ou dans des hémocultures chez un patient avec une suspicion d'infection pulmonaire.
+
+**Confirmation microbiologique**
+
+Les pathogènes responsables de pneumonie associée aux soins sont les *Enterobacteriaceae*, *Staphylococcus aureus*, *Pseudomonas aeruginosa* et *Acinetobacter baumannii* [1]. L'infection est polymicrobienne dans 30 % des cas. Le caractère précoce est associé à un plus grand nombre de *S. aureus* méthiciline-
+
+sensible, de *Streptococcus pneumoniae* et d'*Haemophilus influenzae* [1].
+
+La confirmation microbiologique est une étape importante du diagnostic de la pneumonie associée aux soins. En routine, elle repose sur le prélèvement d'échantillons respiratoires. Les cultures sont qualitatives ou quantitatives. Un pathogène est identifié dans environ 70 % des cas suspectés, avec une variation de la documentation microbiologique de 40 à 90 % selon les réanimations [1]. D'autres examens peuvent être réalisés pour étayer le diagnostic microbiologique : hémocultures, antigénuries. Les techniques de biologie moléculaire sont en cours d'évaluation.
+
+**Méthode**
+
+**Organisation générale**
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la SFAR et la SRLF. Chaque expert a rempli une déclaration de conflits d'intérêts avant de débuter le travail
+
+TABLEAU II
+
+**Agenda de la RFE pneumonies associées aux soins de réanimation**
+
+<table border="1">
+<tr>
+<td>5 décembre 2016</td>
+<td>Réunion de mise en place</td>
+</tr>
+<tr>
+<td>6 mars 2017</td>
+<td>Vote : premier tour</td>
+</tr>
+<tr>
+<td>13 mars 2017</td>
+<td>Réunion délibération post-vote</td>
+</tr>
+<tr>
+<td>1<sup>er</sup> avril 2017</td>
+<td>Vote : second tour</td>
+</tr>
+<tr>
+<td>16 avril 2017</td>
+<td>Amendement de deux recommandations</td>
+</tr>
+<tr>
+<td>28 avril 2017</td>
+<td>Vote des deux recommandations amendées</td>
+</tr>
+<tr>
+<td>10 mai 2017</td>
+<td>Réunion de finalisation</td>
+</tr>
+</table>d'analyse. L'agenda du groupe a été fixé en amont (*tableau II*). Dans un premier temps, le comité d'organisation a défini les questions à traiter avec les coordonnateurs. Il a ensuite désigné les experts en charge de chacune d'entre elles. Les questions ont été formulées selon un format Patients Intervention Comparaison Outcome (PICO) après une première réunion du groupe d'experts. L'analyse de la littérature et la formulation des recommandations ont ensuite été conduites selon la méthodologie Grade of Recommendation Assessment, Development and Evaluation (GRADE). Un niveau de preuve a été défini pour chacune des références bibliographiques citées en fonction du type de l'étude. Ce niveau de preuve pouvait être réévalué en tenant compte de la qualité méthodologique de l'étude. Un niveau global de preuve était déterminé pour chaque critère de jugement en tenant compte des niveaux de preuve de chacune des références bibliographiques, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, et de l'analyse de coût. Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » (il faut faire, ne pas faire... GRADE 1+ ou 1-). Un niveau global de preuve modéré, faible ou très faible aboutissait à l'écriture d'une recommandation « optionnelle » (il faut probablement faire ou probablement ne pas faire... GRADE 2+ ou 2-). Lorsque la littérature était inexistante, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'expert (les experts suggèrent...). Les propositions de recommandations étaient présentées et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation était alors évaluée par chacun des experts et soumise à leurs cotations individuelles à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La cotation collective était établie selon une méthodologie GRADE grid. Pour valider une recommandation sur un critère, au moins 50 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. Pour qu'une recommandation soit forte, au moins 70 % des participants devaient avoir une opinion qui allait globalement dans la même direction. En l'absence d'accord fort, les recommandations étaient reformulées et, de nouveau, soumises à cotation dans l'objectif d'aboutir à un consensus.
+
+### Champs des recommandations
+
+Trois champs ont été définis : prévention, diagnostic et traitement avec des éléments spécifiques proposés. Quatre situations ont été spécifiquement analysées (BPCO, neutropénie, postopératoire et pédiatrie). Une recherche bibliographique extensive sur les 10 dernières années a été réalisée à partir des bases de données Pubmed<sup>TM</sup> et Cochrane<sup>TM</sup>. Pour être
+
+retenues dans l'analyse, les publications devaient être rédigées en langue anglaise ou française. Il a été décidé en amont de l'analyse de limiter le nombre d'avis d'experts et de ne pas produire de recommandations non étayées par la littérature. L'analyse a été centrée sur les données récentes selon un ordre d'appréciation allant des méta-analyses, essais randomisés aux études observationnelles. La taille des effectifs et la pertinence de la recherche ont été considérées au niveau de chaque étude.
+
+### Synthèse des résultats
+
+Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 15 recommandations (et deux recommandations spécifiques de la population pédiatrique) et quatre protocoles de soins. Parmi les 15 recommandations formalisées chez l'adulte, trois ont un niveau de preuve élevé (GRADE 1 ±) et 11 un niveau de preuve faible (GRADE 2 ±). Pour une recommandation, la méthode GRADE ne pouvait pas s'appliquer, aboutissant à un avis d'experts. Les deux recommandations pédiatriques avaient un niveau de preuve faible (GRADE 2). Les quatre protocoles de soins, donnés à titre indicatif, reposent sur des avis d'experts. Après deux tours de cotation et un amendement, un accord fort a été obtenu pour l'ensemble des recommandations et des protocoles.
+
+### Prévention
+
+#### Quels moyens de prévention des pneumonies associées aux soins faut-il utiliser pour diminuer la morbidité des patients de réanimation ?
+
+R1.1 – Il faut utiliser une approche standardisée multimodale de prévention des pneumonies associées aux soins pour diminuer la morbidité des patients hospitalisés en réanimation.
+
+GRADE 1+, ACCORD Fort
+
+### Argumentaire
+
+L'implémentation et l'application de protocoles de soins standardisés sont associées à une diminution de la morbidité en réanimation [6-10]. Dans des études de type avant/après, l'implémentation d'une stratégie de prévention multimodale et l'application d'une approche standardisée multimodale ont été associées à une diminution d'incidence des pneumonies associées aux soins [11] et à une diminution de la durée de ventilation mécanique quand les recommandations associent une stratégie de sevrage précoce [12]. Les experts suggèrent d'intensifier les mesures des préventions, notamment d'appliquer les mesures coûteuses, aux populations à risque élevé depneumonies et de décès telles que les patients atteints de BPCO [13] ou les sujets immunodéprimés.
+
+R1.1 Pédiatrique – Il faut probablement utiliser une approche standardisée multimodale visant la prévention des pneumonies associées aux soins pour diminuer la morbidité des patients hospitalisés en réanimation pédiatrique.
+
+GRADE 2+, ACCORD FORT
+
+#### Argumentaire
+
+Huit études monocentriques, de type avant-après ou de cohorte, suggèrent l'intérêt de l'implémentation et de l'application de protocoles de soins standardisés en réanimation pédiatrique pour limiter l'apparition de pneumonies associées aux soins et la morbidité liée à leur survenue [14-21].
+
+R1.2 – Dans les unités où la prévalence des bactéries multirésistantes est faible (< 20 %), il faut probablement appliquer une décontamination digestive sélective associant un topique antiseptique par voie entérale et une antibiothérapie par voie systémique pour une durée inférieure à 5 jours pour diminuer la mortalité.
+
+GRADE 2+, ACCORD FORT
+
+#### Argumentaire
+
+Dans les méta-analyses d'essais randomisés contrôlés comparant la décontamination digestive sélective à une prise en charge standard, une diminution significative de la mortalité hospitalière, des durées de ventilation mécanique et de l'incidence des pneumonies associées aux soins chez les patients de réanimation est obtenue [22]. Dans une analyse de sous-groupe extraite d'un essai multicentrique, l'effet de la décontamination digestive sélective sur la baisse de mortalité était identique entre les patients médicaux et les patients chirurgicaux [23]. Dans l'analyse en sous-groupe d'une méta-analyse regroupant des essais randomisés contrôlés sur les méthodes de prévention des pneumonies, l'effet de la décontamination digestive sélective sur la baisse de mortalité n'était observé que pour les protocoles associant un topique antiseptique par voie entérale et une antibiothérapie systémique [24]. L'effet de la décontamination digestive sélective sur la baisse de mortalité était plus prononcé chez les patients ayant une mortalité élevée, démontrant une meilleure efficacité chez les patients les plus graves [24]. Dans l'analyse en sous-groupe d'un large essai multicentrique, la décontamination digestive sélective était associée à une réduction de l'acquisition de bactéries résistantes aux antibiotiques [25]. Aucune relation entre la décontamination digestive sélective
+
+et le développement de bactéries résistantes aux antibiotiques chez les patients de réanimation n'a été mise en évidence dans une méta-analyse d'essais randomisés contrôlés comparant la décontamination digestive sélective à une prise en charge standard [26].
+
+Il faut probablement limiter la durée de l'antibiothérapie systémique des protocoles de décontamination digestive inférieure à 5 jours, une durée d'antibiothérapie supérieure étant un facteur de risque de d'émergence de bactérie résistante [27].
+
+Les principales études ayant démontré l'efficacité de la décontamination digestive sélective ont été réalisées dans des environnements où la prévalence de bactéries multirésistantes était faible [25]. Il est donc recommandé de suivre régulièrement l'impact de cette stratégie de prévention sur l'écologie bactérienne locale. De ce fait, on ne peut pas recommander une telle stratégie dans des unités où la prévalence des bactéries multirésistantes est élevée.
+
+R1.3 – Dans le cadre d'une prévention multimodale des pneumonies associées aux soins, il faut probablement associer certaines des méthodes suivantes pour diminuer la morbidité des patients de réanimation :
+
+- • favoriser le recours à la ventilation non invasive pour éviter l'intubation trachéale (notamment en postopératoire de chirurgie digestive et chez les patients ayant une BPCO) ;
+- • limiter les doses et les durées des sédatifs et analgésiques liées à la ventilation mécanique (adaptation aux échelles de sédation/douleur/confort, arrêts quotidiens) ;
+- • initier précocement une nutrition entérale ;
+- • contrôler régulièrement la pression du ballonnet de la sonde endotrachéale ;
+- • réaliser une aspiration sous-glottique (toutes les 6-8 heures) à l'aide de sonde endotrachéale adaptée ;
+- • préférer la voie orotrachéale pour l'intubation.
+
+GRADE 2+, ACCORD FORT
+
+#### Argumentaire
+
+Dans le cadre de la prévention multimodale des pneumonies associées aux soins, il faut privilégier l'association de mesures ayant un effet sur la morbidité des patients, notamment les durées de ventilation mécanique, d'hospitalisation en réanimation et sur la consommation d'antibiotique.
+
+Pour les méthodes proposées ici, une diminution significative du risque de pneumonies associées aux soins et de la durée de ventilation mécanique et/ou de durée d'hospitalisation en réanimation a été reportée dans :
+
+- • une méta-analyse d'essais randomisés contrôlés comparant la ventilation non invasive sur la ventilation invasive [28], uneétude randomisée incluant des patients en postopératoire de chirurgie digestive [29] et deux méta-analyses centrées sur le sevrage de la ventilation mécanique des patients atteints d'une BPCO [30,31] ;
+
+- • deux études de type avant/après, l'implémentation d'un protocole de sédation titrée par les infirmiers [32,33] ;
+- • trois méta-analyses d'essais randomisés contrôlés comparant une nutrition entérale précoce (initiée avant 48 h) versus une nutrition retardée [34-36] ;
+- • des études randomisées comparant le contrôle continu de la pression du ballonnet de la sonde d'intubation trachéale à un monitoring discontinue [37-39] ;
+- • deux méta-analyses comparant l'aspiration sous-glottique à une prise en charge standard [40,41]. Les sondes d'intubation trachéales avec aspiration sous-glottique pourraient également avoir un rapport coût-bénéfice positif [42] ;
+- • une étude randomisée comparant l'intubation nasotrachéale et l'intubation orotrachéale [43].
+
+R1.4 – Dans le cadre d'une prévention multimodale des pneumonies associées aux soins, il ne faut probablement pas utiliser les méthodes suivantes pour diminuer la morbidité des patients de réanimation :
+
+- • trachéotomie précoce systématique (hors indication spécifique) ;
+- • prophylaxie anti-ulcéreuse (hors indication spécifique) ;
+- • nutrition entérale post-pylorique (hors indication spécifique) ;
+- • administration de probiotiques et/ou synbiotiques ;
+- • changement précoce (hors recommandations du constructeur) des filtres humidificateurs en systématique ;
+- • utilisation des systèmes clos d'aspiration endotrachéale ;
+- • utilisation de sonde d'intubation imprégnée avec un antiseptique, ou à forme « optimisée » du ballonnet ;
+- • décontamination oropharyngée à la polyvidone iodée ;
+- • utilisation d'une antibioprophylaxie par aérosols ;
+- • décontamination cutanée quotidienne par antiseptique.
+
+GRADE 2-, ACCORD FORT
+
+### Argumentaire
+
+Bien que certaines stratégies soient associées à une diminution significative du risque de pneumonie associée aux soins, aucune réduction de la morbidité (durée de ventilation mécanique ou durée d'hospitalisation) ou de la mortalité n'a été démontrée avec ces stratégies utilisées seules. Il est toutefois possible que leur utilisation en association procure un bénéfice sur la morbidité des patients. Aucune donnée disponible dans littérature ne permet de démontrer cette hypothèse. Les experts ne se positionnent pas contre l'utilisation de ces moyens de prévention, mais leur utilisation n'est pas proposée en première intention du fait soit de leur coût, soit de leur risque potentiel.
+
+L'impact positif en termes de pneumonie associée aux soins n'a pas été retrouvé pour :
+
+- • la trachéotomie précoce (avant j5) comparée à la trachéotomie tardive (après j14) en dehors d'indications spécifiques [44,45] ;
+- • le recours à une décontamination oropharyngée par polyvidone iodée (stratégie inefficace et exposition à de potentiels effets toxiques) [46] ;
+- • la prophylaxie anti-ulcéreuse (hors indication spécifique) comparée à l'absence de protection gastrique [47] ;
+- • la nutrition entérale post-pylorique comparée à la nutrition entérale par voie gastrique [48] ;
+- • l'administration entérale de probiotiques ou de synbiotiques [49-51] ;
+- • l'utilisation comparée de systèmes d'aspiration clos et de systèmes d'aspiration trachéale classique [52] ;
+- • l'utilisation comparée de sondes d'intubation imprégnées d'argent et de sondes d'intubation sans antiseptique [53] et de ballonnets à forme conique comparés aux ballonnets standards [54] ;
+- • l'effet d'une antibioprophylaxie administrée par des aérosols lors de la ventilation invasive [24] ;
+- • le changement systématique des filtres humidificateurs [55,56] ;
+- • l'effet de bains antiseptiques réguliers chez les patients de réanimation [57,58].
+
+R1.5 – Au cours du sevrage des patients BPCO, il faut probablement utiliser la ventilation non invasive pour réduire la durée de ventilation mécanique invasive, l'incidence des pneumonies associées aux soins et la morbi-mortalité.
+
+GRADE 2+, ACCORD FORT
+
+### Argumentaire
+
+La ventilation mécanique invasive est le premier facteur de risque de PAVM. Plusieurs études ont analysé le rôle de la ventilation non-invasive (VNI) dans le cadre du sevrage de la ventilation mécanique. Leurs objectifs étaient les réductions de la durée de la ventilation mécanique invasive et de l'incidence des PAVM. Deux méta-analyses [30,31] ont évalué l'impact de la VNI, comme moyen de sevrage rapide de la ventilation mécanique invasive, sur l'incidence de la PAVM.
+
+Dans la première méta-analyse (9 études, 632 patients atteints de BPCO), la VNI réduit le risque de mortalité (risque ratio (RR) : 0,36 ; (intervalle de confiance (IC) à 95 %) [0,24-0,56] ;  $I^2 = 0\%$ ), d'échec du sevrage de la ventilation mécanique (RR : 0,52 ; IC 95 % [0,36-0,74] ;  $I^2 = 0\%$ ) et de PAVM (RR : 0,22 ; IC 95 % [0,13-0,37] ;  $I^2 = 3\%$ ) (30). La seconde méta-analyse a inclus 17 études (959 patients atteints de BPCO). Elle aretrouvé une diminution significative de la mortalité (RR : 0,27 ; IC 95 % [0,17-0,42] ;  $I^2 = 0\%$ ), du taux d'échec du sevrage de la ventilation mécanique (RR : 0,25 ; IC 95 % [0,14-0,45] ;  $I^2 = 0\%$ ) et du risque de PAVM (RR : 0,18 ; IC 95 % [0,12-0,27] ;  $I^2 = 0\%$ ) [31]. Cependant, quelques points sont à souligner :
+
+- • plusieurs études incluses dans ces méta-analyses n'étaient pas randomisées ;
+- • le nombre de patients inclus dans la majorité des études était inférieur à 50 ;
+- • la définition de la PAVM était différente selon les études (figure 1).
+
+Protocole de soin n° 2 suggéré par les experts : décontamination digestive sélective (AVIS D'EXPERTS).
+
+Application oropharyngée d'une pate ou d'un gel contenant ( $\times 4/j$ , jusqu'à sortie de réanimation) :
+
+- • Polymyxine E (2 %) ;
+- • Tobramycine (2 %) ;
+- • Amphotéricine B (2 %).
+
++
+
+Administration via une sonde nasogastrique de 10 mL d'une suspension contenant ( $\times 4/j$ , jusqu'à sortie de réanimation) :
+
+- • 100 mg Polymyxine E ;
+- • 80 mg Tobramycine ;
+
+- • 500 mg Amphotéricine B.
+
++
+
+Administration intraveineuse d'une antibioprophylaxie pendant 48 à 72 heures chez les patients ne nécessitant pas d'antibiothérapie curative (posologie indicative en l'absence d'insuffisance rénale) :
+
+- • Céfazoline 1 g  $\times 3/j$
+- • En cas d'allergie aux céphalosporines :
+  - - ofloxacine 200 mg  $\times 2/j$  ;
+  - - ciprofloxacine 400 mg  $\times 2/j$  (tableau III).
+
+## Diagnostic
+
+**Quels moyens de diagnostic des pneumonies associées aux soins faut-il utiliser pour diminuer la morbi-mortalité des patients de réanimation ?**
+
+R2.1 – Il ne faut probablement pas utiliser les scores cliniques (CPIS, CPIS modifié) pour le diagnostic des pneumonies associées aux soins.
+
+GRADE 2-, ACCORD FORT
+
+Protocole de soin n°1 suggéré par les experts : Protocole multimodal de prévention des pneumonies associées aux soins (AVIS D'EXPERTS)
+
+**Protocole multimodal de prévention des pneumonies associées aux soins**
+
+```
+
+    graph TD
+        A[1 - Favoriser la ventilation non-invasive (notamment en post-opératoire de chirurgie digestive et chez le BPCO)] --> B[En cas de nécessité de ventilation invasive]
+        B --> C[2 - Appliquer un protocole de décontamination digestive sélective avec une antibiothérapie systémique < 5 jours si prévalence de BMR faible (< 20%)]
+        C --> D[3 - Associer certaines des méthodes suivantes (1ère intention) :]
+        D --> E[NB: l'association d'un proclive > 30° et/ou d'une décontamination oro-pharyngée à la chlorhexidine 0,12 ou 0,2% pourraient être proposées en association à ces mesures malgré une faible efficacité car elles sont peu coûteuses et bien tolérées]
+        D --> F[4- Eviter d'utiliser les méthodes suivantes :]
+        F --> G[Trachéotomie précoce systématique (hors indication spécifique)]
+        F --> H[Prophylaxie anti-ulcéreuse (hors indication spécifique)]
+        F --> I[Nutrition entérale post-pylorique (hors indication spécifique)]
+        F --> J[Administration de probiotiques]
+        F --> K[Changement précoce (hors recommandation du constructeur) des filtres humidificateurs en systématique]
+        F --> L[Utilisation des systèmes clos d'aspiration endo-trachéale]
+        F --> M[Utilisation de sonde d'intubation imprégnée avec un antiseptique, ou à forme « optimisée » du ballonnet]
+        F --> N[Décontamination oro-pharyngée à la polyvidone iodée]
+        F --> O[Utilisation d'une antibioprophylaxie par aérosols]
+        F --> P[Décontamination cutanée quotidienne par antiseptique]
+    
+```
+
+**1 - Favoriser la ventilation non-invasive (notamment en post-opératoire de chirurgie digestive et chez le BPCO)**
+
+**En cas de nécessité de ventilation invasive**
+
+**2 - Appliquer un protocole de décontamination digestive sélective avec une antibiothérapie systémique < 5 jours si prévalence de BMR faible (< 20%)**
+
+**3 - Associer certaines des méthodes suivantes (1ère intention) :**
+
+- ▪ Favoriser le recours à la VNI pour éviter l'intubation
+- ▪ Limiter les doses et la durée d'administration de sédatifs et analgésiques liés à la ventilation mécanique
+- ▪ Initier précocement une nutrition entérale
+- ▪ Contrôler régulièrement la pression du ballonnet de la sonde endotrachéale
+- ▪ Réaliser une aspiration sous-glottique (/6-8 heures) à l'aide de sonde endotrachéale adaptée
+- ▪ Préferer la voie oro-trachéale pour l'intubation
+
+*NB: l'association d'un proclive > 30° et/ou d'une décontamination oro-pharyngée à la chlorhexidine 0,12 ou 0,2% pourraient être proposées en association à ces mesures malgré une faible efficacité car elles sont peu coûteuses et bien tolérées*
+
+**4- Eviter d'utiliser les méthodes suivantes :**
+
+- ▪ Trachéotomie précoce systématique (hors indication spécifique)
+- ▪ Prophylaxie anti-ulcéreuse (hors indication spécifique)
+- ▪ Nutrition entérale post-pylorique (hors indication spécifique)
+- ▪ Administration de probiotiques
+- ▪ Changement précoce (hors recommandation du constructeur) des filtres humidificateurs en systématique
+- ▪ Utilisation des systèmes clos d'aspiration endo-trachéale
+- ▪ Utilisation de sonde d'intubation imprégnée avec un antiseptique, ou à forme « optimisée » du ballonnet
+- ▪ Décontamination oro-pharyngée à la polyvidone iodée
+- ▪ Utilisation d'une antibioprophylaxie par aérosols
+- ▪ Décontamination cutanée quotidienne par antiseptique
+
+FIGURE 1
+
+Protocole de soin n° 1 suggéré par les experts : protocole multimodal de prévention des pneumonies associées aux soins (AVIS D'EXPERTS)TABLEAU III**Préparation officinale pour décontamination digestive sélective (Information donnée à titre indicatif)**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Gel oral<br/>(pots 125 mL)</th>
+<th>Suspension<br/>(bouteilles 15 mL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Polymyxine E</td>
+<td>4 g</td>
+<td>1 g</td>
+</tr>
+<tr>
+<td>Gentamicine</td>
+<td>4 g</td>
+<td>0,8 g</td>
+</tr>
+<tr>
+<td>Amphotéricine B</td>
+<td>4 g</td>
+<td>5 g</td>
+</tr>
+<tr>
+<td>Eau stérile</td>
+<td>134 mL</td>
+<td>100 mL</td>
+</tr>
+<tr>
+<td>Méthylcarboxycellulose</td>
+<td>6 g</td>
+<td></td>
+</tr>
+<tr>
+<td>Méthylparahydroxybenzoate</td>
+<td>0,3 g</td>
+<td></td>
+</tr>
+<tr>
+<td>Propylène glycol</td>
+<td>50 mL</td>
+<td></td>
+</tr>
+<tr>
+<td>Alcool mentholé</td>
+<td>6 mL</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Argumentaire**
+
+La performance du Clinical Pulmonary Infection Score (CPIS) dans le diagnostic de la pneumonie dépend du compareteur utilisé. Ses sensibilité et spécificité varient de 60 à 80 % par comparaison à des prélèvements bactériologiques obtenus par un lavage bronchoalvéolaire [59-62]. Les performances diagnostiques sont moindres quand le compareteur est l'histologie pulmonaire dans les séries autopsiques [63]. La performance du CPIS dépend de la probabilité pré-test de pneumonie [64]. La variation du CPIS au cours du temps a montré une certaine utilité dans la résolution de la pneumonie [65] et dans la désescalade antibiotique [66,67]. Le CPIS initial n'a que peu d'utilité pour le pronostic du patient en comparaison aux scores de gravité [68].
+
+R2.2 - Il faut probablement réaliser des prélèvements microbiologiques des voies aériennes, quel que soit le type, avant toute introduction ou modification de l'antibiothérapie.
+
+GRADE 2+, ACCORD FORT
+
+**Argumentaire**
+
+Dans une méta-analyse comparant différentes stratégies, le type de prélèvement (aspiration endotrachéale, brosse protégée, lavage bronchoalvéolaire) et de culture (quantitative ou non) n'a aucun effet significatif sur le devenir du patient (mortalité à j28, durée de ventilation, durée de séjour) et sur l'antibiothérapie [69]. Par conséquent, les types de prélèvement et de culture sont laissés au libre choix du clinicien, à établir en fonction de choix stratégiques à l'échelle d'un service ou d'un établissement. Il n'y a que peu de données spécifiques dans les études comparant les types de prélèvement et de culture quant
+
+à la durée de l'antibiothérapie et/ou la consommation d'antibiotiques. Une étude met en évidence une différence approximative de deux jours d'antibiothérapie en moins avec les prélèvements invasifs versus non-invasifs [70]. Les performances diagnostiques en comparaison avec le diagnostic établi par une technique histologique/anatomopathologie dans des séries autopsiques, en l'absence d'autre compareteur, suggèrent une discrète supériorité de la culture quantitative, quel que soit le type de prélèvement. En effet, dans les séries autopsiques résumées dans les recommandations émises par l'IDSA/ATS en 2016 [71] et dans une méta-analyse dédiée [72] : a) toutes les méthodes quantitatives, quel que soit le type de prélèvement, ont un *odds ratio* diagnostic > 1, donc la capacité à poser le diagnostic en présence de pneumonie, mais avec une grande variabilité d'*odds ratio* diagnostic peu différent de 1 jusqu'à très > 1, alors que b) les cultures qualitatives (semi ou non-quantitatives), quel que soit le type de prélèvement, ont un *odds ratio* diagnostic faible et parfois inférieur à 1 (intervalle de confiance à 95 % de 0,42 à 15), donc une probabilité élevée de poser le diagnostic en l'absence de pneumonie, c) tous les rapports de vraisemblance positifs (PLR) sont faibles, donc même en cas de haute prévalence, il y a une faible probabilité (40-50 %) de poser le diagnostic en post-test par rapport à la suspicion pré-test, quel que soit le type de prélèvement et le type/seuil de culture. Il y aurait donc un possible avantage aux cultures quantitatives pour poser le diagnostic et un possible avantage aux prélèvements invasifs pour raccourcir la durée de traitement. Ces prélèvements microbiologiques ne doivent pas retarder le traitement antibiotique urgent des formes graves et/ou en cas de syndrome de détresse respiratoire aigu (SDRA) (c.f R3.1) et servent à l'adaptation du traitement en cas de documentation de l'infection (c.f R3.6).
+
+Chez le patient d'oncohématologie admis en réanimation pour détresse respiratoire aiguë, l'absence de diagnostic est associée à une surmortalité [73]. Une étiologie infectieuse est cependant retrouvée dans 67 % des cas [74]. Dans un essai randomisé incluant 119 patients d'oncohématologie, dont 31 % étaient neutropéniques, admis en réanimation pour détresse respiratoire aiguë, la comparaison d'une stratégie diagnostique invasive incluant un lavage bronchoalvéolaire dans les 24 premières heures à une stratégie non invasive montrait que la stratégie invasive n'était pas associée à un risque accru d'intubation orotrachéale ni à une surmortalité. La rentabilité diagnostique des deux stratégies était comparable, de l'ordre de 80 % [75].
+
+R2.2 Pédiatrique - Il faut probablement réaliser des prélèvements microbiologiques des voies aériennes, quel que soit le type, avant toute introduction ou modification de l'antibiothérapie.
+
+GRADE 2+, ACCORD FORT**Argumentaire**
+
+Labenne et al. ont comparé les prélèvements distaux protégés (PDP) par brossage et par lavage bronchoalvéolaire à l'aveugle (B-LBA) pour la pertinence du diagnostic de PAVM [76]. Sur les 103 patients inclus, 29 avaient une PAVM. La combinaison brossage + culture du B-LBA associée à l'index bactériologique (IB) permettait d'obtenir une sensibilité (Se) de 90 % et une spécificité (Sp) à 88 % pour le diagnostic de PAVM. Gauvin et al. utilisant les critères diagnostiques du CDC 1988 de PAVM, ont comparé plusieurs types de prélèvements microbiologiques pour le diagnostic de PAVM : PDP + culture quantitative versus PDP + IB > 5 versus PDP + coloration de Gram versus PDP + présence de bactéries intracellulaires versus culture non quantitative des prélèvements trachéaux [77]. Le test plus pertinent était l'IB > 5 pour le diagnostic de PAVM (Se 78 %, Sp 86 %, valeur prédictive positive [VPP] 70 %, valeur prédictive négative [VPN] 90 %) mais le nombre de PAVM était faible. Sachdev et al. ont montré chez 30 patients, de manière prospective, une supériorité des PDP par rapport aux prélèvements trachéaux pour diagnostiquer les pneumonies associées aux soins [78]. Les mêmes auteurs ont confirmé chez 34 enfants ayant une PAVM l'excellente reproductibilité du PDP tant pour l'analyse cellulaire que pour le diagnostic bactériologique [79]. À partir de 335 prélèvements obtenus de façon prospective chez 61 enfants, Willson et al. ont rapporté l'absence d'intérêt des prélèvements trachéaux pour le diagnostic de PAVM, suggérant que la distinction entre colonisation et infection est difficile [80]. En résumé, la colonisation de la sonde survenant rapidement après intubation trachéale, l'utilisation de PDP pour identifier le pathogène responsable semble avoir une spécificité supérieure aux prélèvements trachéaux. Le choix de la technique utilisée dépend de l'environnement et des habitudes du service, en tenant compte systématiquement du seuil de significativité de la méthode choisie.
+
+R2.3 – Il ne faut probablement pas mesurer les concentrations plasmatiques de procalcitonine ou alvéolaires de TREM-1 soluble pour diagnostiquer une pneumonie associée aux soins.  
+GRADE 2-, ACCORD FORT
+
+**Argumentaire**
+
+Huit études ont évalué l'apport de la mesure de la concentration plasmatique de la procalcitonine (PCT) dans le diagnostic des pneumonies associées aux soins, seule ou en association avec des critères cliniques [81-88]. Au total, 589 patients ont été inclus pour une prévalence de pneumonie de 55 % : la Se était de 54 % (48-59 %), la Sp de 67 % (61-73 %), la VPP de 67 % et la VPN de 54 %. Le ratio de vraisemblance positive (LR + ) était
+
+de 1,65 et de vraisemblance négative de 0,68 (LR-). Ces performances sont insuffisantes pour participer à la décision de diagnostic. Les seuils retenus variaient de 0,15 à 3,9 ng/mL. Sept études ont évalué l'apport de la mesure des concentrations alvéolaires de la forme soluble du *Triggering Receptor Expressed on Myeloid cells-1* (sTREM-1) dans le diagnostic des pneumonies associées aux soins [88-94]. Au total, 317 patients ont été inclus pour une prévalence de 48 %. La Se de sTREM-1 était de 83 % (76-89 %) et la Sp de 77 % (69-83 %) conduisant à une VPP de 77 % et une VPN de 83 %. Le LR+ était de 3,56 et le LR- de 0,22. Même si ces performances semblent intéressantes, notamment pour l'exclusion du diagnostic, les seuils retenus étaient de nouveau variables allant de 5 à 900 pg/mL. Ceci était expliqué par des techniques de dosages différentes et non standardisées excluant la possibilité de l'emploi de ce test en pratique clinique pour l'instant. Il est surprenant de constater la faiblesse du nombre de patients inclus dans ces études (PCT ou sTREM-1) rendant les conclusions très fragiles (figure 2).
+
+**Traitement****Quels moyens thérapeutiques des pneumonies associées aux soins faut-il utiliser pour diminuer la morbi-mortalité des patients de réanimation ?**
+
+R3.1 – Il faut probablement réaliser les prélèvements et initier le traitement antibiotique en tenant compte des facteurs de risque de bactéries résistantes aux antibiotiques immédiatement en cas de suspicion de pneumonie avec signes de gravité hémodynamique (choc), respiratoire (syndrome de détresse respiratoire aigu) ou de terrain fragile (immunodépression).  
+GRADE 2+, ACCORD FORT
+
+**Argumentaire**
+
+L'introduction en urgence d'une antibiothérapie devant un état de choc septique est hors du cadre de la RFE. Il est nécessaire toutefois de se référer aux recommandations sur la prise en charge du choc septique. Le patient immunodéprimé est traité spécifiquement.
+
+Dans la pneumonie associée aux soins, aucune étude prospective et randomisée n'a comparé une stratégie basée sur une antibiothérapie probabiliste immédiate versus une antibiothérapie après documentation microbiologique et antibiogramme sur le devenir des patients avec stratification sur la probabilité diagnostique pré-test et la gravité clinique. Cependant, plusieurs études observationnelles et une méta-analyse ont montré qu'une antibiothérapie initiale inadaptée, c'est-à-dire inefficace sur le pathogène responsable de l'infection, était associée à une aggravation du pronostic (durée de ventilation mécanique,**Protocole de soin n°3 suggéré par les experts : Procédure diagnostique (AVIS D'EXPERTS)**
+
+```
+
+graph TD
+    Start["≥48h de l'admission en milieu de soins  
+ou de l'exposition au risque invasif (intubation)"] --> Suspicion["Suspicion clinique = apparition/aggravation de signes évocateurs  
+  
+• fièvre (≥ 38,3°C)  
+• expectorations/aspirations purulentes ou d'aspect modifié  
+• hyperleucocytose (≥12000/mm³) ou leucopénie (≤ 4000/mm³)  
+• hypoxémie ou oxygène-dépendance  
+• signes auscultatoires en foyer  
+  
+• sepsis ou choc septique sans autre foyer évident"]
+    Suspicion --> Radiography{"Radiographie(s)  
+de thorax*"}
+    Radiography --> Differentials["Diagnostics différentiels  
+• atélectasie(s)  
+• intubation sélective  
+• épanchements pleuraux  
+Complications associées  
+• abcès pulmonaires  
+• pleurésie purulente"]
+    Radiography --> Opacities["Opacité(s) en foyer(s)  
+- nouvellement apparue(s)  
+- évolutive(s)  
+= diagnostic radiographique"]
+    Opacities --> Sampling["Prélèvements puis Traitement probabiliste"]
+    Sampling --> SamplingDecision{"Prélèvement  
+voies respiratoires  
+(invasif ou non)  
++  
+culture"}
+    SamplingDecision --> Negative["Négative"]
+    SamplingDecision --> Positive["Positive (culture non-quantitative)  
+≥ seuil selon prélèvement (culture quantitative)  
+= diagnostic microbiologique"]
+    Negative --> Stop["Arrêt traitement probabiliste"]
+    Positive --> AdaptationID["Adaptation / désescalade selon identification"]
+    AdaptationID --> Antibiogramme{"Antibiogramme"}
+    Antibiogramme --> AdaptationSens["Adaptation / désescalade selon sensibilité(s)"]
+    
+```
+
+FIGURE 2
+
+**Protocole de soin n° 3 suggéré par les experts : procédure diagnostique (AVIS D'EXPERTS)**
+
+En cas de doute diagnostique à la radiographie, un foyer peut être recherché en utilisant la tomodensitométrie thoracique sans et avec injection de produit de contraste ou l'échographie.durée de séjour et mortalité) suggérant que l'introduction d'une antibiothérapie probabiliste adaptée est associée à un meilleur pronostic [95-100].
+
+R3.2 – Il faut traiter par monothérapie en probabiliste les pneumonies associées aux soins du patient immunocompétent sous ventilation mécanique, en dehors de la présence de facteurs de risque de bactéries multirésistantes, de bacilles à Gram négatif non fermentants, et/ou de facteurs de risque élevé de mortalité (choc septique, défaillances d'organes).
+
+GRADE 1+, ACCORD FORT
+
+### Argumentaire
+
+Nous avons identifié trois études contrôlées randomisées publiées durant les 10 dernières années [101-103] et une méta-analyse [104] regroupant ces trois études (associées à une autre étude plus ancienne [105]) incluant 1163 patients ayant comparé monothérapie versus bithérapie. Les quatre études ont rapporté l'impact de la bithérapie sur la mortalité. Seulement deux d'entre elles ont rapporté la guérison clinique et l'incidence des effets secondaires [101,105]. Aucune différence n'a été mise en évidence entre la monothérapie et la bithérapie en termes de mortalité (*odds ratio* (OR) : 0,97 ; IC 95 % [0,73-1,30]), de guérison clinique (OR : 0,88 ; IC 95 % [0,56-1,36]), de durée de séjour en réanimation (OR : 0,65 ; IC 95 % [0,07-1,23]), ou d'effets secondaires (OR : 0,93 ; IC 95 % [0,68-1,26]). La qualité méthodologique modérée provient principalement de l'imprécision des résultats et/ou de l'hétérogénéité des études incluses dans la méta-analyse. Nous avons décidé de classer cette recommandation comme forte malgré une qualité globale méthodologique modérée, devant la convergence des études publiées vers l'absence de bénéfice de la bithérapie sur la monothérapie, l'importance des critères de jugement évalués et l'existence d'arguments démontrant l'impact néfaste de la bithérapie en termes d'augmentation de la toxicité, de l'émergence de résistance bactérienne et des coûts induits [106,107].
+
+Plusieurs éléments pondèrent cependant la recommandation :
+
+- • la qualité méthodologique des essais analysés dans la méta-analyse varie de modérée (mortalité, durée de séjour en réanimation, effets secondaires) à très basse (guérison clinique) ;
+- • le nombre et la taille des études sont limités. En effet, si l'analyse de la mortalité est basée sur quatre études ( $n = 1163$ ), les autres critères de jugements sont analysés sur deux études ( $n = 350$  pour la guérison clinique ;  $n = 921$  pour les effets secondaires ;  $n = 813$  pour la durée de séjour en réanimation) ;
+
+- • des études observationnelles et quelques études contrôlées ont suggéré qu'en présence de bactéries multirésistantes [103] ou des bacilles à Gram négatif non fermentants [108-111], une antibiothérapie probabiliste inappropriée était associée à un risque augmenté de mortalité, de durée de séjour en réanimation et à l'hôpital. La bithérapie probabiliste augmente la proportion d'antibiothérapie probabiliste appropriée dans les PAVM causées par des bactéries multirésistantes [103,110]. Il faut rechercher systématiquement la présence de facteurs de risque de développer une infection à ou le portage d'une bactérie multirésistante ou d'un bacille à Gram négatif non fermentant, notamment *P. aeruginosa*.
+
+Les facteurs de risque classiquement reconnus pour développer une pneumonie à *P. aeruginosa* sont la BPCO, la dilatation des bronches et la mucoviscidose. Les facteurs de risque associés au portage et donc au développement d'une pneumonie à germes multirésistants sont [71] :
+
+- • une antibiothérapie dans les 90 jours précédant l'épisode de pneumonie ;
+- • une hospitalisation de plus de 5 jours précédant l'épisode de pneumonie ;
+- • le recours à une séance d'épuration extra-rénale lors du diagnostic de pneumonie ;
+- • le choc septique ;
+- • le SDRA.
+
+En présence d'au moins un de ces facteurs de risque, la bithérapie lors du traitement probabiliste est indiquée. Cependant, dès que l'antibiogramme est connu, aucune étude n'a démontré de bénéfice à poursuivre l'administration d'une bithérapie dans les PAVM, y compris à *P. aeruginosa* [71,104,112].
+
+- • Enfin, pour un patient donné, un taux de mortalité prédictible > 25 % reste probablement une indication d'association lors de l'antibiothérapie probabiliste. Dans une méta-analyse incluant des études randomisées et observationnelles, un bénéfice à la bithérapie est retrouvé en termes de mortalité (31 % versus 41 % ; hazard ratio : 0,71 ; IC 95 % [0,57-0,89]) chez les patients ayant un sepsis d'origine pulmonaire [113]. Les résultats sont à nuancer en fonction du spectre de la molécule pivot utilisée ; l'association perdait son intérêt pour les antibiotiques à spectre large. Cette méta-analyse montrait qu'une bithérapie chez les patients ayant un risque de mortalité attendue inférieur à 10 % avait des conséquences délétères. La recommandation est donc relativement restreinte puisqu'elle s'applique aux patients immunocompétents, sans facteurs de risque de bactéries résistantes aux antibiotiques avec un risque de mortalité faible. En cas de présence d'un ou de plusieurs de ces facteurs de risque, une bithérapie probabiliste est probablement indiquée avant une réadaptation par une monothérapie selon les résultats de l'antibiogramme.R3.3 – Les experts suggèrent de ne pas utiliser de manière probabiliste et systématique un antibiotique actif contre *S. aureus* résistant à la méticilline dans le traitement des pneumonies associées aux soins.
+
+AVIS D'EXPERTS, ACCORD FORT
+
+R3.4 – Il faut probablement réduire le spectre et privilégier une monothérapie pour l'antibiothérapie des pneumonies associées aux soins après documentation, y compris pour les bacilles à Gram négatif non fermentants.
+
+GRADE 2+, ACCORD FORT
+
+### Argumentaire
+
+Une étude randomisant les patients traités en probabiliste par une antibiothérapie incluant ou non un antibiotique actif contre *S. aureus* résistant à la méticilline (SARM) n'a pas montré de différence en termes de durée de séjour et de mortalité entre les deux groupes [114]. Une étude observationnelle et prospective retrouvait une diminution de la mortalité dans le groupe de patients ayant reçu une antibiothérapie probabiliste incluant la vancomycine [115]. La prévalence des PAVM à SARM (15 %) donne un éclairage à ce résultat. L'analyse de la littérature suggère que le caractère inapproprié de l'antibiothérapie probabiliste a un rôle majeur sur la mortalité des patients ayant une pneumonie à SARM [116]. Toutefois, une étude a identifié une augmentation de la durée de séjour en réanimation des patients ayant une PAVM à SARM, indépendamment de l'adéquation du traitement probabiliste [117]. L'adéquation de l'antibiothérapie probabiliste est un déterminant majeur de la survie et de la durée de séjour [114,118]. Une étude randomisée et contrôlée a mis en évidence une augmentation de l'émergence de SARM dans le groupe de patients traités en probabiliste par de la vancomycine [114]. Ceci invite à une sélection rigoureuse des patients traités en probabiliste par un antibiotique dirigé contre le SARM.
+
+En conclusion, une seule étude réalisée dans un environnement où la prévalence de SARM est élevée (15 % des épisodes de PAVM) a montré une association entre l'utilisation en probabiliste d'un antibiotique dirigé contre le SARM et une amélioration du pronostic pour les pneumonies associées aux soins. Il n'existe donc pas d'argument pour une utilisation systématique d'un antibiotique dirigé contre le SARM en France, la prévalence étant < 3 % [119]. Cependant, la prise en compte de l'écologie locale est importante. Certains facteurs de risque incitent à introduire un antibiotique dirigé contre le SARM dans l'antibiothérapie probabiliste des pneumonies associées aux soins, sans qu'une liste exhaustive ne soit possible à établir (avis d'experts) :
+
+- • prévalence locale de SARM élevée ;
+- • colonisation récente du patient à SARM ;
+- • lésion cutanée chronique ;
+- • dialyse chronique.
+
+### Argumentaire
+
+Réduire le spectre et privilégier une monothérapie pour l'antibiothérapie des pneumonies associées aux soins après documentation est défini en routine par le terme « désescalader ». La désescalade est possible dès réception des résultats microbiologiques. Neuf études et une méta-analyse abordent cette question. La méta-analyse de Silva et al. n'apporte pas de conclusion quant à la sécurité et l'efficacité de la désescalade [120]. Deux études randomisées contrôlées en ouvert ont comparé la mortalité dans un groupe « désescalade » versus un groupe « contrôle » [114,121]. Ces deux études n'ont pas retrouvé de différence significative de mortalité globale entre les deux stratégies.
+
+Kim et al. ont montré une augmentation de la mortalité dans le groupe désescalade pour les patients ayant une PAVM documentée à SARM. Sept études observationnelles ont également comparé la désescalade et le maintien de l'antibiothérapie initiale en termes de mortalité. Dans trois études prospectives [115,122,123] et une étude rétrospective [124], la mortalité diminuait dans le groupe désescalade. Enfin, trois études rétrospectives [125-128] ne retrouvaient pas de différence de mortalité entre les deux stratégies. La durée de séjour en réanimation était prolongée (non-infériorité non obtenue) dans le groupe désescalade d'une étude randomisée [121]. Au contraire, une étude observationnelle prospective mettait en évidence une association entre une diminution de la durée de séjour en réanimation et la désescalade [123].
+
+Le risque de récidive associée à la désescalade était inchangé dans deux études observationnelles [127,128] et augmenté dans une étude randomisée [121] et une étude rétrospective [125]. Dans une étude randomisée, la désescalade était associée à une augmentation du nombre jours de traitement par des antibiotiques, bien que moins d'antibiotiques actifs contre *P. aeruginosa* aient été utilisés dans le groupe désescalade [121]. Il faut cependant noter que dans cette étude les pneumonies représentaient 48 % des patients inclus [121]. Une analyse de sous-groupe sur les 56 pneumonies ne retrouvait pas de différence sur ces objectifs.
+
+Au total, aucune donnée ne permet d'affirmer qu'une stratégie de désescalade s'accompagne d'un risque de surmortalité. Il est impossible de conclure sur le risque d'augmentation de la duréede séjour, de consommation d'antibiotiques et de récidives infectieuses. Néanmoins, dans une stratégie d'usage raisonné et d'épargne des antibiotiques à large spectre, de lutte contre l'émergence de bactéries multirésistantes, et en l'absence d'effet négatif sur la survie, une stratégie de désescalade semble raisonnable.
+
+R3.5 – Il ne faut pas prolonger plus de 7 jours la durée du traitement antibiotique pour les pneumonies associées aux soins, y compris pour les pneumonies à bacille à Gram négatif non fermentant en dehors de certaines situations (immunodépression, empyème, pneumonie nécrosante ou abcédée).
+
+GRADE 1-, ACCORD FORT
+
+#### Argumentaire
+
+Il existe deux méta-analyses comparant une durée de traitement  $\leq 8$  jours versus une durée  $> 9$  jours [129,130]. Des données ne sont disponibles que dans le champ des PAVM. La première de ces méta-analyses repose sur six études randomisées contrôlées, incluant un résumé de congrès non reporté ici [66,131-134]. Cette méta-analyse incluait 508 patients. La mortalité à j28, en réanimation et à l'hôpital et les durées de séjour et de ventilation mécanique ne différaient pas en fonction de la durée de traitement. Les patients dans le groupe de durée courte avaient une augmentation de leur nombre de jours vivants sans antibiotiques à j28 (différence moyenne de 4,02 j ; IC 95 % = 2,26 à 5,78 j) et une réduction des épisodes infectieux secondaires documentés avec bactéries multirésistantes. En revanche, cette méta-analyse soulignait une tendance à l'augmentation du nombre de récidives et à une augmentation significative du nombre de récidives de pneumonies chez les patients ayant une infection à bacille à Gram négatif non fermentant. Le poids d'une étude multicentrique était essentiel pour expliquer ce résultat [131]. L'augmentation des récidives n'était pas associée à une surmortalité. La seconde méta-analyse retrouvait des résultats similaires en s'appuyant sur trois études randomisées représentant 883 patients [131,133,134]. L'augmentation du risque de récidives pour les PAVM liées aux bacilles à Gram négatif non fermentants n'était pas confirmée. Aucune étude médicoéconomique n'a comparé les coûts et efficacité des deux durées de traitement. Au total, il n'existe pas de bénéfice à l'utilisation d'une antibiothérapie prolongée ( $> 7$  jours) au cours des PAVM. Une durée de traitement réduite limite l'exposition aux antibiotiques et les récidives infectieuses à bactéries multirésistantes. Il existe probablement un risque potentiel de récidive pour les PAVM liées aux bacilles à Gram négatif non fermentants. Les études ont exclu les patients immunodéprimés (virus de
+
+l'immunodéficience humaine, neutropénie, immunosupresseurs, corticoïdes  $> 0,5$  mg/kg/j pendant plus d'un mois, muco-viscidose) et les situations exigeant une antibiothérapie prolongée (empyème, pneumonie nécrosante ou abcédée) [66,131,133]. Il ne faut donc pas étendre la recommandation à ces populations, une durée de traitement plus courte n'ayant pas été évaluée.
+
+R3.6 – Dans le cadre des pneumonies documentées à bacilles à Gram négatif multirésistants, définis comme sensibles à la colimycine et/ou aux aminosides et lorsque aucun autre antibiotique n'est efficace, il faut probablement administrer la colimycine (colistiméthate sodique) et/ou un aminoside par voie nébulisée.
+
+GRADE 2+, ACCORD FORT
+
+#### Argumentaire
+
+Parmi les études publiées ces 10 dernières années, quatre études contrôlées et randomisées [135-138] (de qualité méthodologique faible à modérée) sur sept [135-141] ont conclu à un impact favorable de l'administration nébulisée d'aérosols d'antibiotiques en termes de guérison clinique [135,138] et microbiologique [136-138] dans le cadre des PAVM. Par la suite, trois méta-analyses [71,142,143] (de qualité méthodologique allant de très bas à modérée) ont conclu à un bénéfice de l'utilisation des antibiotiques en aérosol pour la guérison clinique ([RR : 1,29 IC 95 % (1,13-1,47)] [71] ; [RR : 1,57 ; IC 95 % (1,14-2,15)] [142] ; [RR : 1,23 ; IC 95 % (1,05-1,43)] [143]). Une seule méta-analyse a conclu à une supériorité des antibiotiques nébulisés en termes de réponse microbiologique [142]. Deux études positives (en termes de guérison clinique et microbiologique pour la première [139] et de guérison microbiologique uniquement pour la seconde [136]) n'étaient pas incluses dans les méta-analyses. Aucune des méta-analyses n'a démontré un effet favorable des antibiotiques inhalés sur la mortalité. Cependant, Valachis et al. ont montré un bénéfice sur la mortalité induite par le sepsis (RR : 0,58 ; IC 95 % [0,34-0,96] ; qualité méthodologique très faible).
+
+Les bénéfices en termes de réduction d'émergence de bactéries multirésistantes sous traitement ont été montrés dans cinq études [136-139,144] dont quatre études randomisées et contrôlées [136-139]. La réduction de l'émergence des bactéries multirésistantes en cours de traitement est significative dans trois études [136-138]. L'effet sur la réduction d'émergence de bactéries multirésistantes est à prendre en compte selon le contexte épidémiologique. Malgré les résultats favorables des méta-analyses, il est à noter que :
+
+- • le champ d'investigation est restreint aux PAVM liées aux bacilles à Gram négatif, notamment entérobactéries oubacilles à Gram négatif non fermentants, impliquant un traitement par amikacine et/ou colimycine. En effet, six des sept études randomisées et contrôlées ont testé l'administration d'aminosides nébulisés. Les germes responsables des PAVM étaient majoritairement [137,138] ou exclusivement [135,136,139-141] des bacilles à Gram négatif. Trois de ces sept études ont spécifiquement testé l'efficacité des antibiotiques nébulisés dans le cadre des PAVM causées par *Pseudomonas* spp. et *Acinetobacter* spp. [135,139,141] ;
+
+- • une hétérogénéité existe parmi les études contrôlées incluses dans les trois méta-analyses sur les modalités de nébulisation, les posologies des antibiotiques nébulisés, l'existence ou non d'une antibiothérapie administrée par voie systémique, les critères de jugement composites non consensuels pour le statut de guérison clinique et/ou microbiologique ;
+- • la méta-analyse de Valachis et al. a inclus sept études observationnelles et une étude randomisée et contrôlée, entraînant une évaluation de son niveau de qualité méthodologique variant de faible à très faible selon les critères de jugement étudiés [142] ;
+- • la littérature ne démontre pas la supériorité d'une bithérapie probabiliste comportant un des deux antibiotiques administrés par voie nébulisée ;
+- • des effets délétères des antibiotiques nébulisés ont été décrits, notamment chez les patients les plus hypoxémiques [145].
+
+En termes d'éradication microbiologique de bacilles à Gram négatif multirésistants, les aérosols d'antibiotiques ont démontré une supériorité dans deux études contrôlées [137,138] et une non-infériorité dans une étude observationnelle [144] et une étude contrôlée [141]. Dans ce contexte, une méta-analyse incluant six études randomisées contrôlées et cinq études observationnelles a conclu à un bénéfice thérapeutique des antibiotiques nébulisés par rapport aux antibiotiques systémiques sur la mortalité (RR : 0,64 ; IC 95 % [0,44-0,94]). Une réduction du risque de néphrotoxicité a été également observée avec la voie nébulisée (RR : -0,33 ; IC 95 % [-0,54, -0,12]). Par conséquent, malgré la qualité méthodologique faible de cette méta-analyse, due à son hétérogénéité, et compte-tenu que :
+
+- • les études évaluant la cinétique d'éradication des bactéries à l'origine des PAVM [136-139,144] et des indices de PK/PD [136,140] ont montré une bactéricidie rapide, avec l'obtention de concentrations élevées de colimycine et/ou d'aminosides au niveau alvéolaire chez les patients ayant reçu les antibiotiques par voie inhalée [146-148] ;
+- • les données expérimentales montrant que le passage pulmonaire des aminosides et de la colimycine est nul ou très faible lorsqu'ils sont administrés par voie parentérale [149-151], la balance bénéfice-risque des antibiotiques nébulisés est probablement favorable dans le cadre des PAVM documentées à bacilles à Gram négatif multirésistants ayant conservé une sensibilité à la colimycine et/ou aux aminosides. La spécificité
+
+du matériel utilisé (nébuliseur à plaque vibrante ou ultrasonique, circuits respiratoires, position de la chambre d'inhalation, galénique spécifique des antibiotiques nébulisés) et les modalités spécifiques de ventilation mécanique associées à la voie nébulisée imposent la formation préalable des équipes médicales et soignantes, afin de reproduire les conditions décrites dans les études positives.
+
+R3.7 - Il ne faut pas administrer des statines comme traitement adjuvant des pneumonies associées aux soins.
+
+GRADE 1-, ACCORD FORT
+
+### Argumentaire
+
+Cinq études randomisées et contrôlées [152-156] incluses dans une méta-analyse ( $n = 867$ ) [157] et une étude observationnelle ( $n = 349$ ) [158] ont été analysées. Parmi ces études, trois études contrôlées ont inclus des patients avec une pneumonie associée aux soins en dehors des services de réanimation [153,154,156], deux études contrôlées [152,155] et une étude observationnelle [158] ont inclus des patients admis en réanimation sous ventilation mécanique [155,158] ou non [152]. Papazian et al. [155] et Bruyère et al. [158] ont inclus uniquement des patients ayant une PAVM. Les quatre autres études [152-154,156] ont inclus des patients avec des sepsis de toute origine, dont la pneumonie représentait en moyenne 50 % des effectifs globaux. Aucun bénéfice en termes de mortalité, de durée de séjour en réanimation ou à l'hôpital et de durée de ventilation mécanique n'a été démontré en faveur des statines. Devant la qualité méthodologique globalement élevée (haute des études contrôlées [152-156] et de la méta-analyse [157]), l'importance des critères de jugement testés, la relative diversité des populations (hors réanimation, réanimation, ventilation mécanique ou non) et des régimes thérapeutiques variés (atorvastatine ou simvastatine, faible ou forte dose), nous obtenons une recommandation forte couvrant un champ d'application large. Seul le sous-groupe de 27 études observationnelles de la méta-analyse suggère un effet bénéfique des statines sur la mortalité [157]. L'hétérogénéité importante, les biais de publication et les limites inhérentes aux formats des études observationnelles publiées sur un intervalle de plusieurs dizaines d'années limitent la pertinence de ce résultat. Cet effet n'a donc pas été retenu comme interprétable par les experts. Enfin, il faut noter la bonne tolérance du traitement par statines, quelle que soit la molécule ou la dose, sans augmentation du risque de rhabdomyolyse ou de cytolyse hépatique.
+
+Nous n'avons pas identifié d'études publiées sur le rôle éventuel des corticoïdes administrés dans le cadre des pneumonies associées aux soins chez des patients de réanimation. Aucune recommandation n'a donc été proposée.En ce qui concerne l'impact éventuel de l'administration d'immunoglobulines dans le cadre des pneumonies associées aux soins chez des patients de réanimation, la seule étude publiée ayant testé des anticorps monoclonaux anti-lipopolysaccharide comme traitement adjuvant est une analyse a posteriori [159] d'une précédente étude de phase IIa [160] comparant 17 patients dans le bras traitement et 17 patients dans le bras placebo. Le caractère « a posteriori », le faible effectif de l'analyse, ajouté à des caractéristiques
+
+démographiques non homogènes des deux groupes, et des critères de jugement non cruciaux (résolution clinique de la pneumonie), ne permettent pas de conclure à un effet de ce type de thérapeutique. Aucune recommandation n'a donc été formulée sur l'administration adjuvante de ce type de thérapeutique dans le cadre des pneumonies associées aux soins des patients adultes de réanimation (tableau IV).
+
+Ce texte a été publié dans *Anaesthesia, Critical Care and Pain Medicine* en février 2018 [161].
+
+TABLEAU IV
+
+**Protocole de soin n° 4 suggéré par les experts : schémas thérapeutiques (AVIS D'EXPERTS)**
+
+<table border="1">
+<thead>
+<tr>
+<th>Cadre nosologique</th>
+<th>Classes thérapeutiques</th>
+<th>Molécules</th>
+<th>Posologies<sup>a</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pneumonie précoce</td>
+<td>Béta-lactamine inactive contre</td>
+<td>Amoxicilline/acide clavulanique</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td>&lt; 5 jours</td>
+<td><i>P. aeruginosa</i></td>
+<td>ou C3G type Céfotaxime</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td>En l'absence de choc septique ou de facteurs de risque de BMR</td>
+<td></td>
+<td>Si allergie aux Béta-lactamines<br/>Lévofloxacine</td>
+<td></td>
+</tr>
+<tr>
+<td>Pneumonie précoce</td>
+<td>Béta-lactamine inactive contre</td>
+<td>Amoxicilline/acide clavulanique</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td>&lt; 5 jours</td>
+<td><i>P. aeruginosa</i></td>
+<td>ou C3G type Céfotaxime</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td>Et choc septique, en l'absence de facteurs de risque de BMR</td>
+<td>+ Aminoside<sup>b</sup></td>
+<td>Exemple : Gentamicine</td>
+<td>8 mg/kg/j</td>
+</tr>
+<tr>
+<td></td>
+<td>ou + Fluoroquinolone</td>
+<td>ou Exemple : Ofloxacine</td>
+<td>200 mg × 2/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Si allergie aux Béta-lactamines<br/>Lévofloxacine</td>
+<td>500 mg × 2/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>+ Gentamicine</td>
+<td>8 mg/kg/j</td>
+</tr>
+<tr>
+<td>Pneumonie tardive</td>
+<td>Béta-lactamine active contre</td>
+<td>Ceftazidime</td>
+<td>6 g/j</td>
+</tr>
+<tr>
+<td>≥ 5 jours</td>
+<td><i>P. aeruginosa</i></td>
+<td>ou Céfépime</td>
+<td>4 à 6 g/j</td>
+</tr>
+<tr>
+<td>Ou autre facteur de risque de bacille à Gram négatif non fermentant</td>
+<td></td>
+<td>ou Pipéracilline-tazobactam ou si portage de BLSE<sup>c</sup></td>
+<td>16 g/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Imipenem-cilastatine</td>
+<td>3 g/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ou Méropénème</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td></td>
+<td>+ Aminoside<sup>b</sup></td>
+<td>+ Amikacine<sup>d</sup></td>
+<td>30 mg/kg/j</td>
+</tr>
+<tr>
+<td></td>
+<td>ou Fluoroquinolone</td>
+<td>ou Ciprofloxacine</td>
+<td>400 mg × 3/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Si allergie aux Béta-lactamines<br/>Aztréonam</td>
+<td>3 à 6 g/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>+ Clindamycine</td>
+<td>600 mg × 3 à 4/j</td>
+</tr>
+<tr>
+<td>Facteurs de risque de SARM</td>
+<td>Ajout d'un antibiotique actif contre le SARM</td>
+<td>Vancomycine</td>
+<td>15 mg/kg puis 30 à 40 mg/kg/j</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ou Linézolide</td>
+<td>600 mg × 2/j</td>
+</tr>
+</tbody>
+</table>
+
+BMR : bactérie multirésistante ; BLSE : bêta-lactamase à spectre étendu ; Facteurs de risque de bacille à Gram négatif non fermentant : antibiothérapie dans les 90 jours précédant l'épisode de pneumonie, hospitalisation de plus de 5 jours précédant l'épisode de pneumonie, recours à une séance d'épuration extra-rénale lors du diagnostic de pneumonie, choc septique, syndrome de détresse respiratoire aigu ; Facteurs de risque de SARM : prévalence locale de SARM élevée, colonisation récente du patient à SARM, lésion cutanée chronique, dialyse chronique.
+
+<sup>a</sup>Posologies données à titre indicatif pour un patient avec fonction rénale normale et poids standard.
+
+<sup>b</sup>Privilégier l'usage des aminosides par rapport aux fluoroquinolones pour limiter l'émergence de BMR.
+
+<sup>c</sup>Selon les critères de la RFE « Réduire l'utilisation des antibiotiques en réanimation ».
+
+<sup>d</sup>Utiliser en priorité l'amikacine par rapport à la gentamicine en raison de son activité sur les bacilles à Gram négatif non-fermentants.**Déclaration de liens d'intérêts :** Sébastien Gibot : Inotrem S.A ; Eric Kipnis : Astellas ; LFB ; Pfizer ; Marc Leone : MSD ; Basilea ; Charles-Edouard Luyt : Bayer Healthcare ; Thermo Fisher BRAHMS ; MSD ; Biomerieux ; Djamel Mokart : Gilead ; Basilea ; MSD ; Philippe Montravers : Pfizer ; MSD ; Basilea ; AstraZeneca ; Bayer ; Menari ;
+
+Parexel ; CubistSaad Nseir : Medtronic ; Cielmedical ; Bayer ; Jérôme Pugin : Bayer ; *part of the scientific committee for the Amikacin Inhale study* ; Jean-Ralph Zahar : MSD ; Bard. Les autres auteurs déclarent ne pas avoir de liens d'intérêts.
+
+## Références
+
+1. [1] Koulenti D, Tsigou E, Rello J. Nosocomial pneumonia in 27 ICUs in Europe : perspectives from the EU-VAP/CAP study. *Eur J Clin Microbiol Infect Dis* 2017;36(11):1999-2006. <http://dx.doi.org/10.1007/s10096-016-2703-z>.
+2. [2] Melsen WG, Rovers MM, Groenwold RH, Bergmans DC, Camus C, Bauer TT, et al. Attributable mortality of ventilator-associated pneumonia: a meta-analysis of individual patient data from randomised prevention studies. *Lancet Infect Dis* 2013;13(8):665-71.
+3. [3] Bekaert M, Timsit JF, Vansteelandt S, Depuydt P, Vésin A, Garrouste-Orgeas M, et al. Attributable mortality of ventilator-associated pneumonia: a reappraisal using causal analysis. *Am J Respir Crit Care Med* 2011;184(10):1133-9.
+4. [4] Branch-Elliman W, Wright SB, Howell MD. Determining the Ideal Strategy for Ventilator-associated Pneumonia Prevention. Cost-Benefit Analysis. *Am J Respir Crit Care Med* 2015;192(1):57-63.
+5. [5] Niederman MS. Hospital-acquired pneumonia health care-associated pneumonia, ventilator-associated pneumonia, and ventilator-associated tracheobronchitis: definitions and challenges in trial design. *Clin Infect Dis* 2010;51(Suppl 1):S12-7.
+6. [6] Zwarenstein M, Goldman J, Reeves S. Inter-professional collaboration: effects of practice-based interventions on professional practice and healthcare outcomes. *Cochrane Database Syst Rev* 2009;3:CD000072.
+7. [7] Ferrer R, Artigas A, Levy MM, Blanco J, González-Díaz G, Garnacho-Montero J, et al. Improvement in process of care and outcome after a multicenter severe sepsis educational program in Spain. *JAMA* 2008;299(19):2294-303.
+8. [8] Klompas M, Li L, Kleinman K, Szumita PM, Massaro AF. Associations Between Ventilator Bundle Components and Outcomes. *JAMA Intern Med* 2016;176(9):1277-83.
+9. [9] Leisman DE, Doerfler ME, Ward MF, Masick KD, Wie BJ, Gribben JL, et al. Survival Benefit and cost savings from compliance with a simplified 3-hour sepsis bundle in a series of prospective, multisite, observational cohorts. *Crit Care Med* 2017;45(3):395-406.
+10. [10] Lilly CM, Cody S, Zhao H, Landry K, Baker SP, McIlwaine J, et al. Hospital mortality, length of stay, and preventable complications among critically ill patients before and after tele-ICU reengineering of critical care processes. *JAMA* 2011;305(21):2175-83.
+11. [11] Bouadma L, Deslandes E, Lolom I, Le Corre B, Mourvillier B, Regnier B, et al. Long-term impact of a multifaceted prevention program on ventilator-associated pneumonia in a medical intensive care unit. *Clin Infect Dis* 2010;51(10):1115-22.
+12. [12] Roquilly A, Cinotti R, Jaber S, Vourc'h M, Pengam F, Mahe PJ, et al. Implementation of an evidence-based extubation readiness bundle in 499 brain-injured patients. A before-after evaluation of a quality improvement project. *Am J Respir Crit Care Med* 2013;188(8):958-66.
+13. [13] Nseir S, Di Pompeo C, Soubrier S, Cavestri B, Jozefowicz E, Saulnier F, et al. Impact of ventilator-associated pneumonia on outcome in patients with COPD. *Chest* 2005;128(3):1650-6.
+14. [14] Bigham MT, Amato R, Bondurant P, Fridriksson J, Krawczeski CD, Raake J, et al. Ventilator-associated pneumonia in the pediatric intensive care unit: characterizing the problem and implementing a sustainable solution. *J Pediatr* 2009;154(4):582-7 [e2].
+15. [15] Cheema AA, Scott AM, Shambaugh KJ, Shaffer-Hartman JN, Dechert RE, Hieber SM, et al. Rebound in ventilator-associated pneumonia rates during a prevention checklist washout period. *BMJ Qual Saf* 2011;20(9):811-7.
+16. [16] Morinec J, Iacoboni J, McNett M. Risk factors and interventions for ventilator-associated pneumonia in pediatric patients. *J Pediatr Nurs* 2012;27(5):435-42.
+17. [17] Brierley J, Highe L, Hines S, Dixon G. Reducing VAP by instituting a care bundle using improvement methodology in a UK paediatric intensive care unit. *Eur J Pediatr* 2012;171(2):323-30.
+18. [18] Rosenthal VD, Rodríguez-Calderón ME, Rodríguez-Ferrer M, Singhal T, Pawar M, Sobryra-Oropeza M, et al. Findings of the International Nosocomial Infection Control Consortium (INICC). Part II: Impact of a multidimensional strategy to reduce ventilator-associated pneumonia in neonatal intensive care units in 10 developing countries. *Infect Control Hosp Epidemiol* 2012;33(7):704-10.
+19. [19] Gupta A, Kapil A, Kabra SK, Lodha R, Sood S, Dhawan B, et al. Assessing the impact of an educational intervention on ventilator-associated pneumonia in a pediatric critical care unit. *Am J Infect Control* 2014;42(2):111-5.
+20. [20] De Cristofano A, Peuchot V, Canepari A, Franco V, Perez A, Eulmesekian P. Implementation of a Ventilator-Associated Pneumonia Prevention Bundle in a Single PICU. *Pediatr Crit Care Med* 2016;17(5):451-6.
+21. [21] Peña-López Y, Pujol M, Campins M, González-Antelo A, Rodrigo JÁ, Balcells J, et al. Implementing a care bundle approach reduces ventilator-associated pneumonia and delays ventilator-associated tracheobronchitis in children: differences according to endotracheal or tracheostomy devices. *Int J Infect Dis* 2016;52:43-8.
+22. [22] Liberati A, D'Amico R, Pifferi S, Torri V, Brazzi L, Parmelli E. Antibiotic prophylaxis to reduce respiratory tract infections and mortality in adults receiving intensive care. *Cochrane Database Syst Rev* 2009;(4):CD000022.
+23. [23] Melsen WG, de Smet AM, Kluytmans JA, Bonten MJ, Dutch SOD-SDD, Trialists' Group. Selective decontamination of the oral and digestive tract in surgical versus non-surgical patients in intensive care in a cluster-randomized trial. *Br J Surg* 2012;99(2):232-7.
+24. [24] Roquilly A, Marret E, Abraham E, Asehnoune K. Pneumonia prevention to decrease mortality in intensive care unit: a systematic review and meta-analysis. *Clin Infect Dis* 2015;60(1):64-75.
+25. [25] de Smet AM, Kluytmans JA, Cooper BS, Mascini EM, Benus RF, van der Werf TS, et al. Decontamination of the digestive tract and oropharynx in ICU patients. *N Engl J Med* 2009;360(1):20-31.
+26. [26] Daneman N, Sarwar S, Fowler RA, Cuthbertson BH, Canadian Study SuDDICU Group. Effect of selective decontamination on antimicrobial resistance in intensive care units: a systematic review and meta-analysis. *Lancet Infect Dis* 2013;13(4):328-41.
+27. [27] Roquilly A, Feuillet F, Seguin P, Lasocki S, Cinotti R, Launey Y, et al. Empiric antimicrobial therapy for ventilator-associated pneumonia after brain injury. *Eur Respir J* 2016;47(4):1219-28.
+28. [28] Cabrini L, Landoni G, Oriani A, Plumari VP, Nobile L, Greco M, et al. Noninvasive ventilation and survival in acute care settings: a comprehensive systematic review and metaanalysis of randomized controlled trials. *Crit Care Med* 2015;43(4):880-8.
+29. [29] Jaber S, Lescot T, Futier E, Paugam-Burtz C, Seguin P, Ferrandiere M, et al. Effect of noninvasive ventilation on tracheal reintubation among patients with hypoxemic respiratory failure following abdominal surgery: a randomized clinical trial. *JAMA* 2016;315(13):1345-53.[30] Burns KE, Meade MO, Premji A, Adhikari NK. Noninvasive ventilation as a weaning strategy for mechanical ventilation in adults with respiratory failure: a Cochrane systematic review. *CMAJ* 2014;186(3):E112-22.
+
+[31] Peng L, Ren PW, Liu XT, Zhang C, Zuo HX, Kang DY, et al. Use of noninvasive ventilation at the pulmonary infection control window for acute respiratory failure in AECOPD patients: a systematic review and meta-analysis based on GRADE approach. *Medicine (Baltimore)* 2016;95(24):e3880.
+
+[32] Quenot JP, Ladoire S, Devoucoux F, Doise JM, Cailliod R, Cunin N, et al. Effect of a nurse-implemented sedation protocol on the incidence of ventilator-associated pneumonia. *Crit Care Med* 2007;35(9):2031-6.
+
+[33] De Jonghe B, Bastuji-Garin S, Fangio P, Lacherade JC, Jabot J, Appéré-De-Vecchi C, et al. Sedation algorithm in critically ill patients without acute brain injury. *Crit Care Med* 2005;33(1):120-7.
+
+[34] Marik PE, Zaloga GP. Early enteral nutrition in acutely ill patients: a systematic review. *Crit Care Med* 2001;29(12):2264-70.
+
+[35] Doig GS, Heighes PT, Simpson F, Sweetman EA, Davies AR. Early enteral nutrition, provided within 24 h of injury or intensive care unit admission, significantly reduces mortality in critically ill patients: a meta-analysis of randomised controlled trials. *Intensive Care Med* 2009;35(12):2018-27.
+
+[36] Reintam Blaser A, Starkopf J, Alhazzani W, Berger MM, Casaer MP, Deane AM, et al. Early enteral nutrition in critically ill patients: ESICM clinical practice guidelines. *Intensive Care Med* 2017;43(3):380-98.
+
+[37] Lorente L, Lecuona M, Jiménez A, Lorenzo L, Roca I, Cabrera J, et al. Continuous endotracheal tube cuff pressure control system protects against ventilator-associated pneumonia. *Crit Care* 2014;18(2):R77.
+
+[38] Valencia M, Ferrer M, Farre R, Navajas D, Badia JR, Nicolas JM, et al. Automatic control of tracheal tube cuff pressure in ventilated patients in semirecumbent position: a randomized trial. *Crit Care Med* 2007;35(6):1543-9.
+
+[39] Nseir S, Zerimech F, Fournier C, Lubret R, Ramon P, Durocher A, et al. Continuous control of tracheal cuff pressure and micro-aspiration of gastric contents in critically ill patients. *Am J Respir Crit Care Med* 2011;184(9):1041-7.
+
+[40] Caroff DA, Li L, Muscedere J, Klompos M. Subglottic secretion drainage and objective outcomes: a systematic review and meta-analysis. *Crit Care Med* 2016;44(4):830-40.
+
+[41] Muscedere J, Rewa O, McKechnie K, Jiang X, Laporta D, Heyland DK. Subglottic secretion drainage for the prevention of ventilator-associated pneumonia: a systematic review and meta-analysis. *Crit Care Med* 2011;39(8):1985-91.
+
+[42] Branch-Elliman W, Wright SB, Howell MD. Determining the ideal strategy for ventilator-associated pneumonia prevention. *Cost-benefit analysis. Am J Respir Crit Care Med* 2015;192(1):57-63.
+
+[43] Holzapfel L, Chastang C, Demingon G, Bohe J, Piralla B, Coupry A. A randomized study assessing the systematic search for maxillary sinusitis in nasotracheally mechanically ventilated patients. Influence of nosocomial maxillary sinusitis on the occurrence of ventilator-associated pneumonia. *Am J Respir Crit Care Med* 1999;159(3):695-701.
+
+[44] Siempson II, Ntaidou TK, Filippidis FT, Choi AM. Effect of early versus late or no tracheostomy on mortality and pneumonia of critically ill patients receiving mechanical ventilation: a systematic review and meta-analysis. *Lancet Respir Med* 2015;3(2):150-8.
+
+[45] Young D, Harrison DA, Cuthbertson BH, Rowan K, TracMan Collaborators. Effect of early vs late tracheostomy placement on survival in patients receiving mechanical ventilation: the TracMan randomized trial. *JAMA* 2013;309(20):2121-9.
+
+[46] Seguin P, Laviolle B, Dahyot-Fizelier C, Dumont R, Veber B, Gergaud S, et al. Effect of oropharyngeal povidone-iodine preventive oral care on ventilator-associated pneumonia in severely brain-injured or cerebral hemorrhage patients: a multicenter, randomized controlled trial. *Crit Care Med* 2014;42(1):1-8.
+
+[47] Krag M, Perner A, Wetterslev J, Wise MP, Hylander Møller M. Stress ulcer prophylaxis versus placebo or no prophylaxis in critically ill patients. A systematic review of randomised clinical trials with meta-analysis and trial sequential analysis. *Intensive Care Med* 2014;40(1):11-22.
+
+[48] Alkhawaja S, Martin C, Butler RJ, Gwadry-Sridhar F. Post-pyloric versus gastric tube feeding for preventing pneumonia and improving nutritional outcomes in critically ill adults. *Cochrane Database Syst Rev* 2015;(8):CD008875.
+
+[49] Manzanares W, Lemieux M, Langlois PL, Wischmeyer PE. Probiotic and symbiotic therapy in critical illness: a systematic review and meta-analysis. *Crit Care* 2016;19:262.
+
+[50] Bo L, Li J, Tao T, Bai Y, Ye X, Hotchkiss RS, et al. Probiotics for preventing ventilator-associated pneumonia. *Cochrane Database Syst Rev* 2014;(10):CD009066.
+
+[51] Wang J, Liu KX, Ariani F, Tao LL, Zhang J, Qu JM. Probiotics for preventing ventilator-associated pneumonia: a systematic review and meta-analysis of high-quality randomized controlled trials. *PLoS One* 2013;8(12):e83934.
+
+[52] Siempson II, Vardakas KZ, Falagas ME. Closed tracheal suction systems for prevention of ventilator-associated pneumonia. *Br J Anaesth* 2008;100(3):299-306.
+
+[53] Tokmaji G, Vermeulen H, Müller MC, Kwakman PH, Schultz MJ, Zaaf SA. Silver-coated endotracheal tubes for prevention of ventilator-associated pneumonia in critically ill patients. *Cochrane Database Syst Rev* 2015;(8):CD009201.
+
+[54] Philippart F, Gaudry S, Quinquis L, Lau N, Ouanes I, Touati S, et al. Randomized intubation with polyurethane or conical cuffs to prevent pneumonia in ventilated patients. *Am J Respir Crit Care Med* 2015;191(6):637-45.
+
+[55] Kelly M, Gillies D, Todd DA, Lockwood C. Heated humidification versus heat and moisture exchangers for ventilated adults and children. *Cochrane Database Syst Rev* 2010;(4):CD004711.
+
+[56] Meneguetti MG, Auxiliadora-Martins M, Nunes AA. Effectiveness of heat and moisture exchangers in preventing ventilator-associated pneumonia in critically ill patients: a meta-analysis. *BMC Anesthesiol* 2014;14:115.
+
+[57] Noto MJ, Domenico HJ, Byrne DW, Talbot T, Rice TW, Bernard GR, et al. Chlorhexidine bathing and health care-associated infections: a randomized clinical trial. *JAMA* 2015;313(4):369-78.
+
+[58] Swan JT, Ashton CM, Bui LN, Pham VP, Shirkey BA, Blackshear JE, et al. Effect of chlorhexidine bathing every other day on prevention of hospital-acquired infections in the surgical ICU: a single-center, randomized controlled trial. *Crit Care Med* 2016;44(10):1822-32.
+
+[59] Pugin J, Auckenthaler R, Mili N, Janssens JP, Lew PD, Suter PM. Diagnosis of ventilator-associated pneumonia by bacteriologic analysis of bronchoscopic and nonbronchoscopic "blind" bronchoalveolar lavage fluid. *Am Rev Respir Dis* 1991;143(5 Pt 1):1121-9.
+
+[60] Papazian L, Thomas P, Garbe L, Guignon I, Thirion X, Charrel J, et al. Bronchoscopic or blind sampling techniques for the diagnosis of ventilator-associated pneumonia. *Am J Respir Crit Care Med* 1995;152(6 Pt 1):1982-91.
+
+[61] Fartoukh M, Maitre B, Honoré S, Cerf C, Zahar JR, Brun-Buisson C. Diagnosing pneumonia during mechanical ventilation: the clinical pulmonary infection score revisited. *Am J Respir Crit Care Med* 2003;168(2):173-9.
+
+[62] Schurink CA, Van Nieuwenhoven CA, Jacobs JA, Rozenberg-Arska M, Joore HC, Buskens E, et al. Clinical pulmonary infection score for ventilator-associated pneumonia: accuracy and inter-observer variability. *Intensive Care Med* 2004;30(2):217-24.
+
+[63] Fàbregas N, Ewig S, Torres A, El-Ebiary M, Ramirez J, de La Bellacasa JP, et al. Clinical diagnosis of ventilator associated pneumonia revisited: comparative validation using immediate post-mortem lung biopsies. *Thorax* 1999;54(10):867-73.
+
+[64] Lauzier F, Ruest A, Cook D, Dodek P, Albert M, Shorr AF, et al. The value of pretest probability and modified clinical pulmonary infection score to diagnose ventilator-associated pneumonia. *J Crit Care* 2008;23(1):50-7.[65] Luna CM, Blanzaco D, Niederman MS, Matarucco W, Baredes NC, Desmery P, et al. Resolution of ventilator-associated pneumonia: prospective evaluation of the clinical pulmonary infection score as an early clinical predictor of outcome. *Crit Care Med* 2003;31(3):676-82.
+
+[66] Singh N, Rogers P, Atwood CW, Wagener MM, Yu VL. Short-course empiric antibiotic therapy for patients with pulmonary infiltrates in the intensive care unit. A proposed solution for indiscriminate antibiotic prescription. *Am J Respir Crit Care Med* 2000;162(2 Pt 1):505-11.
+
+[67] Luyt CE, Chastre J, Fagon JY. Value of the clinical pulmonary infection score for the identification and management of ventilator-associated pneumonia. *Intensive Care Med* 2004;30(5):844-52.
+
+[68] Larsson J, Itenov TS, Bestle MH. Risk prediction models for mortality in patients with ventilator-associated pneumonia: A systematic review and meta-analysis. *J Crit Care* 2017;37:112-8.
+
+[69] Berton DC, Kalil AC, Teixeira PJ. Quantitative versus qualitative cultures of respiratory secretions for clinical outcomes in patients with ventilator-associated pneumonia. *Cochrane Database Syst Rev* 2014;(10):CD006482.
+
+[70] Fagon JY, Chastre J, Wolff M, Gervais C, Parer-Aubas S, Stéphan F, et al. Invasive and noninvasive strategies for management of suspected ventilator-associated pneumonia. A randomized trial. *Ann Intern Med* 2000;132(8):621-30.
+
+[71] Kalil AC, Metersky ML, Klompas M, Muscedere J, Sweeney DA, Palmer LB, et al. Executive summary: management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society. *Clin Infect Dis* 2016;63(5):575-82.
+
+[72] Klompas M. Does this patient have ventilator-associated pneumonia? *JAMA* 2007;297(14):1583-93.
+
+[73] Contejean A, Lemiale V, Resche-Rigon M, Mokart D, Pène F, Kouatchet A, et al. Increased mortality in hematological malignancy patients with acute respiratory failure from undetermined etiology: a Groupe de Recherche en Réanimation Respiratoire en Onco-Hématologique (Grrr-OH) study. *Ann Intensive Care* 2016;6(1):102.
+
+[74] Azoulay E, Mokart D, Rabbat A, Pene F, Kouatchet A, Bruneel F, et al. Diagnostic bronchoscopy in hematology and oncology patients with acute respiratory failure: prospective multicenter data. *Crit Care Med* 2008;36(1):100-7.
+
+[75] Azoulay E, Mokart D, Lambert J, Lemiale V, Rabbat A, Kouatchet A, et al. Diagnostic strategy for hematology and oncology patients with acute respiratory failure: randomized controlled trial. *Am J Respir Crit Care Med* 2010;182(8):1038-46.
+
+[76] Labenne M, Poyart C, Rambaud C, Goldfarb B, Pron B, Jouvet P, et al. Blind protected specimen brush and bronchoalveolar lavage in ventilated children. *Crit Care Med* 1999;27(11):2537-43.
+
+[77] Gauvin F, Dassa C, Chaibou M, Proulx F, Farrell CA, Lacroix J. Ventilator-associated pneumonia in intubated children: comparison of different diagnostic methods. *Pediatr Crit Care Med* 2003;4(4):437-43.
+
+[78] Sachdev A, Chugh K, Sethi M, Gupta D, Wattal C, Menon G. Diagnosis of ventilator-associated pneumonia in children in resource-limited setting: a comparative study of bronchoscopic and nonbronchoscopic methods. *Pediatr Crit Care Med* 2010;11(2):258-66.
+
+[79] Sachdev A, Chugh K, Raghunathan V, Gupta D, Wattal C, Menon GR. Diagnosis of bacterial ventilator-associated pneumonia in children: reproducibility of blind bronchial sampling. *Pediatr Crit Care Med* 2013;14(1):e1-7.
+
+[80] Willson DF, Conaway M, Kelly R, Hendley JO. The lack of specificity of tracheal aspirates in the diagnosis of pulmonary infection in intubated children. *Pediatr Crit Care Med* 2014;15(4):299-305.
+
+[81] Ramirez P, Garcia MA, Ferrer M, Aznar J, Valencia M, Sahuquillo JM, et al. Sequential measurements of procalcitonin levels in diagnosing ventilator-associated pneumonia. *Eur Respir J* 2008;31(2):356-62.
+
+[82] Luyt CE, Combes A, Reynaud C, Hekimian G, Nieszkowska A, Tonnellier M, et al. Usefulness of procalcitonin for the diagnosis of ventilator-associated pneumonia. *Intensive Care Med* 2008;34(8):1434-40.
+
+[83] Charles PE, Kus E, Aho S, Prin S, Doise JM, Olsson NO, et al. Serum procalcitonin for the early recognition of nosocomial infection in the critically ill patients: a preliminary report. *BMC Infect Dis* 2009;9:49.
+
+[84] Jung B, Embriaco N, Roux F, Forel JM, Demory D, Allard-Servent J, et al. Microbiological data, but not procalcitonin improve the accuracy of the clinical pulmonary infection score. *Intensive Care Med* 2010;36(5):790-8.
+
+[85] Dallas J, Brown SM, Hock K, Scott MG, Skrupsky LP, Boyle WA, et al. Diagnostic utility of plasma procalcitonin for nosocomial pneumonia in the intensive care unit setting. *Respir Care* 2011;56(4):412-9.
+
+[86] Su LX, Meng K, Zhang X, Wang HJ, Yan P, Jia YH, et al. Diagnosing ventilator-associated pneumonia in critically ill patients with sepsis. *Am J Crit Care* 2012;21(6):e110-9.
+
+[87] Habib SF, Mukhtar AM, Abdelreheem HM, Khorshied MM, El Sayed R, Hafez MH, et al. Diagnostic values of CD64, C-reactive protein and procalcitonin in ventilator-associated pneumonia in adult trauma patients: a pilot study. *Clin Chem Lab Med* 2016;54(5):889-95.
+
+[88] Gibot S, Cravoisy A, Dupays R, Barraud D, Nace L, Levy B, et al. Combined measurement of procalcitonin and soluble TREM-1 in the diagnosis of nosocomial sepsis. *Scand J Infect Dis* 2007;39(6-7):604-8.
+
+[89] Gibot S, Cravoisy A, Levy B, Bene MC, Faure G, Bollaert PE. Soluble triggering receptor expressed on myeloid cells and the diagnosis of pneumonia. *N Engl J Med* 2004;350(5):451-8.
+
+[90] Determann RM, Millo JL, Gibot S, Korevaar JC, Vroom MB, van der Poll T, et al. Serial changes in soluble triggering receptor expressed on myeloid cells in the lung during development of ventilator-associated pneumonia. *Intensive Care Med* 2005;31(11):1495-500.
+
+[91] Horonenko G, Hoyt JC, Robbins RA, Singarajah CU, Umar A, Pattengill J, et al. Soluble triggering receptor expressed on myeloid cell-1 is increased in patients with ventilator-associated pneumonia: a preliminary report. *Chest* 2007;132(1):58-63.
+
+[92] Anand NJ, Zuick S, Klesney-Tait J, Kollef MH. Diagnostic implications of soluble triggering receptor expressed on myeloid cells-1 in BAL fluid of patients with pulmonary infiltrates in the ICU. *Chest* 2009;135(3):641-7.
+
+[93] Palazzo SJ, Simpson TA, Simmons JM, Schnapp LM. Soluble triggering receptor expressed on myeloid cells-1 (sTREM-1) as a diagnostic marker of ventilator-associated pneumonia. *Respir Care* 2012;57(12):2052-8.
+
+[94] Ramirez P, Kot P, Marti V, Gomez MD, Martinez R, Saiz V, et al. Diagnostic implications of soluble triggering receptor expressed on myeloid cells-1 in patients with acute respiratory distress syndrome and abdominal diseases: a preliminary observational study. *Crit Care* 2011;15(1):R50.
+
+[95] Dupont H, Mentec H, Sollet JP, Bleichner G. Impact of appropriateness of initial antibiotic therapy on the outcome of ventilator-associated pneumonia. *Intensive Care Med* 2001;27(2):355-62.
+
+[96] Teixeira PJ, Seligman R, Hertz FT, Cruz DB, Fachel JM. Inadequate treatment of ventilator-associated pneumonia: risk factors and impact on outcomes. *J Hosp Infect* 2007;65(4):361-7.
+
+[97] Leone M, Garcin F, Bouvenot J, Boyadjev I, Visintini P, Albanese J, et al. Ventilator-associated pneumonia: breaking the vicious circle of antibiotic overuse. *Crit Care Med* 2007;35(2):379-85.
+
+[98] Leroy O, d'Escriván T, Devos P, Dubreuil L, Kipnis E, Georges H. Hospital-acquired pneumonia in critically ill patients: factors associated with episodes due to imipenem-resistant organisms. *Infection* 2005;33(3):129-35.
+
+[99] Muscedere JG, Shorr AF, Jiang X, Day A, Heyland DK, Canadian Critical Care Trials Group. The adequacy of timely empiric antibiotic therapy for ventilator-associatedpneumonia: an important determinant of outcome. *J Crit Care* 2012;27(3):322 [e7-14].
+
+[100] Kuti EL, Patel AA, Coleman CI. Impact of inappropriate antibiotic therapy on mortality in patients with ventilator-associated pneumonia and blood stream infection: a meta-analysis. *J Crit Care* 2008;23(1):91-100.
+
+[101] Awad SS, Rodriguez AH, Chuang YC, Marjanez Z, Pareigis AJ, Reis G, et al. A phase 3 randomized double-blind comparison of ceftobiprole medocaryl versus ceftazidime plus linezolid for the treatment of hospital-acquired pneumonia. *Clin Infect Dis* 2014;59(1):51-61.
+
+[102] Damas P, Garweg C, Monchi M, Nys M, Canivet JL, Ledoux D, et al. Combination therapy versus monotherapy: a randomised pilot study on the evolution of inflammatory parameters after ventilator associated pneumonia [ISRCTN31976779]. *Crit Care* 2006;10(2):R52.
+
+[103] Heyland DK, Dodek P, Muscedere J, Day A, Cook D, Canadian Critical Care Trials Group. Randomized trial of combination versus monotherapy for the empiric treatment of suspected ventilator-associated pneumonia. *Crit Care Med* 2008;36(3):737-44.
+
+[104] Arthur LE, Kizor RS, Selim AG, van Driel ML, Seoane L. Antibiotics for ventilator-associated pneumonia. *Cochrane Database Syst Rev* 2016;10:CD004267.
+
+[105] Alvarez Lerma F, Serious Infection Study Group. Efficacy of meropenem as monotherapy in the treatment of ventilator-associated pneumonia. *J Chemother* 2001;13(1):70-81.
+
+[106] Paul M, Shani V, Muchtar E, Kariv G, Robenshtok E, Leibovici L. Systematic review and meta-analysis of the efficacy of appropriate empiric antibiotic therapy for sepsis. *Antimicrob Agents Chemother* 2010;54(11):4851-63.
+
+[107] Swanson JM, Wells DL. Empirical antibiotic therapy for ventilator-associated pneumonia. *Antibiotics (Basel)* 2013;2(3):339-51.
+
+[108] Garnacho-Montero J, Sa-Borges M, Sole-Violan J, Barcenilla F, Escoresca-Ortega A, Ochoa M, et al. Optimal management therapy for *Pseudomonas aeruginosa* ventilator-associated pneumonia: an observational, multicenter study comparing monotherapy with combination antibiotic therapy. *Crit Care Med* 2007;35(8):1888-95.
+
+[109] Park SY, Park HJ, Moon SM, Park KH, Chong YP, Kim MN, et al. Impact of adequate empirical combination therapy on mortality from bacteremic *Pseudomonas aeruginosa* pneumonia. *BMC Infect Dis* 2012;12:308.
+
+[110] Deconinck L, Meybeck A, Patoz P, Van Grunderbeeck N, Boussekey N, Chiche A, et al. Impact of combination therapy and early de-escalation on outcome of ventilator-associated pneumonia caused by *Pseudomonas aeruginosa*. *Infect Dis (Lond)* 2017;49(5):396-404.
+
+[111] Fernández-Barat L, Ferrer M, De Rosa F, Gabarrús A, Esperatti M, Terraneo S, et al. Intensive care unit-acquired pneumonia due to *Pseudomonas aeruginosa* with and without multidrug resistance. *J Infect* 2017;74(2):142-52.
+
+[112] Vardakas KZ, Tansarli GS, Bliziotis IA, Falagas ME.  $\beta$ -Lactam plus aminoglycoside or fluoroquinolone combination versus  $\beta$ -lactam monotherapy for *Pseudomonas aeruginosa* infections: a meta-analysis. *Int J Antimicrob Agents* 2013;41(4):301-10.
+
+[113] Kumar A, Safdar N, Kethireddy S, Chateau D. A survival benefit of combination antibiotic therapy for serious infections associated with sepsis and septic shock is contingent only on the risk of death: a meta-analytic/meta-regression study. *Crit Care Med* 2010;38(8):1651-64.
+
+[114] Kim JW, Chung J, Choi SH, Jang HJ, Hong SB, Lim CM, et al. Early use of imipenem/cilastatin and vancomycin followed by de-escalation versus conventional antimicrobials without de-escalation for patients with hospital-acquired pneumonia in a medical ICU: a randomized clinical trial. *Crit Care* 2012;16(1):R28.
+
+[115] Kollef MH, Morrow LE, Niederman MS, Leeper KV, Anzueto A, Benz-Scott L, et al. Clinical characteristics and treatment patterns among patients with ventilator-associated pneumonia. *Chest* 2006;129(5):1210-8.
+
+[116] Athanassa Z, Siempos II, Falagas ME. Impact of methicillin resistance on mortality in *Staphylococcus aureus* VAP: a systematic review. *Eur Respir J* 2008;31(3):625-32.
+
+[117] Shorr AF, Combes A, Kollef MH, Chastre J. Methicillin-resistant *Staphylococcus aureus* prolongs intensive care unit stay in ventilator-associated pneumonia, despite initially appropriate antibiotic therapy. *Crit Care Med* 2006;34(3):700-6.
+
+[118] Rello J, Ulldemolins M, Lisboa T, Koulenti D, Mañez R, Martin-Loeches I, et al. Determinants of prescription and choice of empirical therapy for hospital-acquired and ventilator-associated pneumonia. *Eur Respir J* 2011;37(6):1332-9.
+
+[119] Surveillance des infections nosocomiales en réanimation adulte, Réseau REA-Raisin, France. Résultats 2015. Saint-Maurice: Santé publique France; 201766.
+
+[120] Silva BN, Andriolo RB, Atallah AN, Salomão R. De-escalation of antimicrobial treatment for adults with sepsis, severe sepsis or septic shock. *Cochrane Database Syst Rev* 2013;3:CD007934.
+
+[121] Leone M, Bechis C, Baumstarck K, Lefrant JY, Albanèse J, Jaber S, et al. De-escalation versus continuation of empirical antimicrobial treatment in severe sepsis: a multicenter non-blinded randomized noninferiority trial. *Intensive Care Med* 2014;40(10):1399-408.
+
+[122] Garnacho-Montero J, Gutiérrez-Pizarraya A, Escoresca-Ortega A, Corcia-Palomo Y, Fernández-Delgado E, Herrera-Melero I, et al. De-escalation of empirical therapy is associated with lower mortality in patients with severe sepsis and septic shock. *Intensive Care Med* 2014;40(1):32-40.
+
+[123] Giantsou E, Liratzopoulos N, Efraimidou E, Panopoulou M, Alepopoulou E, Kartali-Ktenidou S, et al. De-escalation therapy rates are significantly higher by bronchoalveolar lavage than by tracheal aspirate. *Intensive Care Med* 2007;33(9):1533-40.
+
+[124] Joung MK, Lee JA, Moon SY, Cheong HS, Joo EJ, Ha YE, et al. Impact of de-escalation therapy on clinical outcomes for intensive care unit-acquired pneumonia. *Crit Care* 2011;15(2):R79.
+
+[125] Morel J, Casoetto J, Jospé R, Aubert G, Terrana R, Dumont A, et al. De-escalation as part of a global strategy of empiric anti-biotherapy management. A retrospective study in a medico-surgical intensive care unit. *Crit Care* 2010;14(6):R225.
+
+[126] Khasawneh FA, Karim A, Mahmood T, Ahmed S, Jaffri SF, Mehmood M. Safety and feasibility of antibiotic de-escalation in bacteremic pneumonia. *Infect Drug Resist* 2014;7:177-82.
+
+[127] Eachempati SR, Hydo LJ, Shou J, Barie PS. Does de-escalation of antibiotic therapy for ventilator-associated pneumonia affect the likelihood of recurrent pneumonia or mortality in critically ill surgical patients? *J Trauma* 2009;66(5):1343-8.
+
+[128] Joffe AR, Muscedere J, Marshall JC, Su Y, Heyland DK, Canadian Critical Care Trials Group. The safety of targeted antibiotic therapy for ventilator-associated pneumonia: a multicenter observational study. *J Crit Care* 2008;23(1):82-90.
+
+[129] Pugh R, Grant C, Cooke RP, Dempsey G. Short-course versus prolonged-course antibiotic therapy for hospital-acquired pneumonia in critically ill adults. *Cochrane Database Syst Rev* 2015;8:CD007577.
+
+[130] Dimopoulos G, Poulakou G, Pneumatikos IA, Armaganidis A, Kollef MH, Matthaiou DK. Short- vs long-duration antibiotic regimens for ventilator-associated pneumonia: a systematic review and meta-analysis. *Chest* 2013;144(6):1759-67.
+
+[131] Chastre J, Wolff M, Fagon JY, Chevret S, Thomas F, Wermert D, et al. Comparison of 8 vs 15 days of antibiotic therapy for ventilator-associated pneumonia in adults: a randomized trial. *JAMA* 2003;290(19):2588-98.
+
+[132] Kollef MH, Chastre J, Clavel M, Restrepo MI, Michiels B, Kaniga K, et al. A randomized trial of 7-day doripenem versus 10-day imipenem-cilastatin for ventilator-associated pneumonia. *Crit Care* 2012;16(6):R218.
+
+[133] Capellier G, Mockly H, Charpentier C, Annane D, Blasco G, Desmettre T, et al. Early-onset ventilator-associated pneumonia in adults randomized clinical trial: comparison of 8 versus 15 days of antibiotic treatment. *PLoS One* 2012;7(8):e41290.[134] Fekih Hassen M, Ayed S, Ben Sik Ali H, Gharbi R, Marghli S, Elatrous S. Duration of antibiotic therapy for ventilator-associated pneumonia: comparison of 7 and 10 days. A pilot study. *Ann Fr Anesth Reanim* 2009;28(1):16-23.
+
+[135] Hallal A, Cohn SM, Namias N, Habib F, Baracco G, Manning RJ, et al. Aerosolized tobramycin in the treatment of ventilator-associated pneumonia: a pilot study. *Surg Infect (Larchmt)* 2007;8(1):73-82.
+
+[136] Kollef MH, Ricard JD, Roux D, Francois B, Ischaki E, Rozgonyi Z, et al. A randomized trial of the amikacin fosfomycin inhalation system for the adjunctive therapy of Gram-negative ventilator-associated pneumonia: IASIS Trial. *Chest* 2017;151(6):1239-46. <http://dx.doi.org/10.1016/j.chest.2016.11.026> [pii: S0012-3692(16)62463-7].
+
+[137] Palmer LB, Smaldone GC. Reduction of bacterial resistance with inhaled antibiotics in the intensive care unit. *Am J Respir Crit Care Med* 2014;189(10):1225-33.
+
+[138] Palmer LB, Smaldone GC, Chen JJ, Baram D, Duan T, Monteforte M, et al. Aerosolized antibiotics and ventilator-associated tracheobronchitis in the intensive care unit. *Crit Care Med* 2008;36(7):2008-13.
+
+[139] Lu Q, Yang J, Liu Z, Gutierrez C, Aymard G, Rouby JJ, et al. Nebulized ceftazidime and amikacin in ventilator-associated pneumonia caused by *Pseudomonas aeruginosa*. *Am J Respir Crit Care Med* 2011;184(1):106-15.
+
+[140] Niederman MS, Chastre J, Corkery K, Fink JB, Luyt CE, García MS. BAY41-6551 achieves bactericidal tracheal aspirate amikacin concentrations in mechanically ventilated patients with Gram-negative pneumonia. *Intensive Care Med* 2012;38(2):263-71.
+
+[141] Rattanaumpawan P, Lortsutthitham J, Ungprasert P, Angkasekwinai N, Thamlikitkul V. Randomized controlled trial of nebulized colistimethate sodium as adjunctive therapy of ventilator-associated pneumonia caused by Gram-negative bacteria. *J Antimicrob Chemother* 2010;65(12):2645-9.
+
+[142] Valachis A, Samonis G, Kofteridis DP. The role of aerosolized colistin in the treatment of ventilator-associated pneumonia: a systematic review and metaanalysis. *Crit Care Med* 2015;43(3):527-33.
+
+[143] Zampieri FG, Nassar Jr AP, Gusmao-Flores D, Taniguchi LU, Torres A, Ranzani OT. Nebulized antibiotics for ventilator-associated pneumonia: a systematic review and meta-analysis. *Crit Care* 2015;19:150.
+
+[144] Lu Q, Luo R, Bodin L, Yang J, Zahr N, Aubry A, et al. Efficacy of high-dose nebulized colistin in ventilator-associated pneumonia caused by multidrug-resistant *Pseudomonas aeruginosa* and *Acinetobacter baumannii*. *Anesthesiology* 2012;117(6):1335-47.
+
+[145] Solé-Leonart C, Rouby JJ, Blot S, Poulakou G, Chastre J, Palmer LB, et al. Nebulization of antiinfective agents in invasively mechanically ventilated adults: a systematic review and meta-analysis. *Anesthesiology* 2017;126(5):890-908.
+
+[146] Boselli E, Breilh D, Djabarouti S, Guillaume C, Rimmelé T, Gordien JB, et al. Reliability of mini-bronchoalveolar lavage for the measurement of epithelial lining fluid concentrations of tobramycin in critically ill patients. *Intensive Care Med* 2007;33(9):1519-23.
+
+[147] Carcas AJ, García-Satué JL, Zapater P, Frias-Iniesta J. Tobramycin penetration into epithelial lining fluid of patients with pneumonia. *Clin Pharmacol Ther* 1999;65(3):245-50.
+
+[148] Luyt CE, Clavel M, Guntupalli K, Johannigman J, Kennedy JJ, Wood C, et al. Pharmacokinetics and lung delivery of PDDS-aerosolized amikacin (NKTR-061) in intubated and mechanically ventilated patients with nosocomial pneumonia. *Crit Care* 2009;13(6):R200.
+
+[149] Goldstein I, Wallet F, Nicolas-Robin A, Ferrari F, Marquette CH, Rouby JJ. Lung deposition and efficiency of nebulized amikacin during *Escherichia coli* pneumonia in ventilated piglets. *Am J Respir Crit Care Med* 2002;166(10):1375-81.
+
+[150] Goldstein I, Wallet F, Robert J, Becquemini MH, Marquette CH, Rouby JJ. Lung tissue concentrations of nebulized amikacin during mechanical ventilation in piglets with healthy lungs. *Am J Respir Crit Care Med* 2002;165(2):171-5.
+
+[151] Lu Q, Girardi C, Zhang M, Bouhemad B, Louchahi K, Petitjean O, et al. Nebulized and intravenous colistin in experimental pneumonia caused by *Pseudomonas aeruginosa*. *Intensive Care Med* 2010;36(7):1147-55.
+
+[152] Kruger P, Bailey M, Bellomo R, Cooper DJ, Harward M, Higgins A, et al. A multicenter randomized trial of atorvastatin therapy in intensive care patients with severe sepsis. *Am J Respir Crit Care Med* 2013;187(7):743-50.
+
+[153] Kruger PS, Harward ML, Jones MA, Joyce Q, Kostner KM, Roberts MS, et al. Continuation of statin therapy in patients with presumed infection: a randomized controlled trial. *Am J Respir Crit Care Med* 2011;183(6):774-81.
+
+[154] Novack V, Eisinger M, Frenkel A, Terblanche M, Adhikari NK, Douvdevani A, et al. The effects of statin therapy on inflammatory cytokines in patients with bacterial infections: a randomized double-blind placebo controlled clinical trial. *Intensive Care Med* 2009;35(7):1255-60.
+
+[155] Papazian L, Roch A, Charles PE, Penot-Ragon C, Perrin G, Roulier P, et al. Effect of statin therapy on mortality in patients with ventilator-associated pneumonia: a randomized clinical trial. *JAMA* 2013;310(16):1692-700.
+
+[156] Patel JM, Snaith C, Thickett DR, Linhartova L, Melody T, Hawkey P, et al. Randomized double-blind placebo-controlled trial of 40 mg/day of atorvastatin in reducing the severity of sepsis in ward patients (ASEPSIS Trial). *Crit Care* 2012;16(6):R231.
+
+[157] Wan YD, Sun TW, Kan QC, Guan FX, Zhang SG. Effect of statin therapy on mortality from infection and sepsis: a meta-analysis of randomized and observational studies. *Crit Care* 2014;18(2):R71.
+
+[158] Bruyere R, Vigneron C, Prin S, Pechinot A, Quenot JP, Aho S, et al. Impact of prior statin therapy on the outcome of patients with suspected ventilator-associated pneumonia: an observational study. *Crit Care* 2014;18(2):R83.
+
+[159] Que YA, Lazar H, Wolff M, François B, Laterre PF, Mercier E, et al. Assessment of panobacumab as adjunctive immunotherapy for the treatment of nosocomial *Pseudomonas aeruginosa* pneumonia. *Eur J Clin Microbiol Infect Dis* 2014;33(10):1861-7.
+
+[160] Lu Q, Rouby JJ, Laterre PF, Eggmann P, Dugard A, Giamarellos-Bourboulis EJ, et al. Pharmacokinetics and safety of panobacumab: specific adjunctive immunotherapy in critical patients with nosocomial *Pseudomonas aeruginosa* O11 pneumonia. *J Antimicrob Chemother* 2011;66(5):1110-6.
+
+[161] Leone M, Bouadma L, Bouehmad B, et al. *Anaesth Crit Care Pain Med* 2018;37(1):83-98. <http://dx.doi.org/10.1016/j.accpm.2017.11.006> [Epub 2017 Nov 15].

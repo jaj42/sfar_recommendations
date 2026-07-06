@@ -1,0 +1,597 @@
+## Recommandations Formalisées d'Experts
+
+### PERTINENCE DE LA PRESCRIPTION DES EXAMENS BIOLOGIQUES ET DE LA RADIOGRAPHIE THORACIQUE EN REANIMATION
+
+#### RFE commune SFAR-SRLF
+
+#### ***RELEVANCE OF BIOLOGICAL AND CHEST RADIOGRAPH IN INTENSIVE CARE UNIT***
+
+**Auteurs :** JJ. Lehot, C. Clec'h, F. Bonhomme, M. Brauner, F. Chemouni, M. de Mesmay, E. Gayat, B. Guidet, G. Hejblum, R. Hernu, F. Jauréguy, C. Martin, R. Rousson, M. Samama, C. Schwebel, H. Van de Putte, V. Lemiale, S. Ausset.
+
+**Coordonnateurs d'experts :**
+
+Jean-Jacques Lehot – SFAR. Fédération hospitalo-universitaire d'anesthésie-réanimation, Hôpital P Wertheimer, Hospices Civils de Lyon et Université C Bernard Lyon 1, Lyon.
+
+Christophe Clec'h – SRLF. Service de réanimation, CHU Avicenne, 125 route de Stalingrad, Bobigny Cedex 09.
+
+**Organisateurs :**
+
+Sylvain Ausset (commission des référentiels de la SFAR), Paris.
+
+Virginie Lemiale (commission des référentiels de la SRLF), Paris.
+
+**Groupe d'experts de la SFAR :**
+
+Sylvain Ausset (Clamart), Fanny Bonhomme (Genève), Etienne Gayat (Paris), Romain Hernu (Lyon)  
+Jean-Jacques Lehot (Lyon), Virginie Lemiale (Paris), Claude Martin (Marseille), Marine de Mesmay (Paris), Robert Rousson (Lyon), Marc Samama (Paris), Carole Schwebel (Grenoble), Hervé Van de Putte(Lens).**Groupe d'experts de la SRLF :**
+
+Michel Brauner (Bobigny), Frank Chemouni (Paris), Christophe Clec'h (Bobigny), Bertrand Guidet (Paris), Gilles Hejblum (Paris), Françoise Jaureguy (Bobigny).
+
+**Chargés de bibliographie**
+
+Lionel Bapteste (Lyon), Guillaume Van der Meersch (Bobigny).
+
+**Groupe de Lecture**
+
+Comité des Référentiels Cliniques de la SFAR : Dominique Fletcher, Lionel Velly, Julien Amour, Sylvain Ausset, Gérald Chanques, Vincent Compere, Fabien Espitalier, Marc Garnier, Etienne Gayat, Philippe Cuvillon, Jean-Marc Malinovski, Bertrand Rozec.
+
+Commission des Référentiels et de l'Evaluation de la SRLF : Laurence Donetti, Mikael Alves, Olivier Brissaud, Remi Bruyere, Vincent Das, Laure De Saint Blanquat, Max Guillot, Erwan L'her, Eric Mariotte, Cyrille Mathien, Chirine Mossadegh, Vincent Peigne, Fabienne Plouvier, David Schnell.
+
+Texte validé par le Conseil d'Administration de la SFAR (15/12/2016) et de la SRLF (13/12/2016).## Préambule
+
+Les dépenses des services de réanimation représentent environ 20% des coûts hospitaliers dont 62% résultent de frais de personnel [1]. La part liée à la prescription des examens complémentaires dépasse quant à elle 15% du coût total. Ainsi, des économies significatives pourraient probablement être réalisées en limitant ces prescriptions, sans compromettre la qualité des soins ni la sécurité des patients. Une rationalisation des prescriptions d'examens biologiques et radiologiques pourrait même s'avérer intéressante en termes de réduction de la spoliation sanguine et des risques liés à l'irradiation et au transport des patients.
+
+Plusieurs études récentes vont dans ce sens. Concernant les examens biologiques, Kumwilaisak et al. [2] ont comparé les prélèvements sanguins 6 mois avant et 6 mois après l'édition de recommandations en réanimation chirurgicale à Boston. Les prescriptions biologiques étaient réparties en plusieurs catégories : 1) examens à pratiquer quotidiennement, 2) biomarqueurs de souffrance myocardique dosés systématiquement durant les premières heures d'admission, 3) absence de gazométries et de bilans de coagulation systématiques, 4) examens discutés de manière pluridisciplinaire. Les prescriptions médicales devaient être écrites. Ces recommandations faisaient l'objet d'informations répétées chez les médecins, résidents et infirmiers. Alors que la durée de séjour médiane est restée de 2 jours, le nombre d'examens est passé de 115 à 73 par patient (- 37%). Ces résultats se maintenaient 12 mois plus tard. Il n'y avait pas de modification du devenir des patients (morbimortalité, réadmissions, réintubations, hémorragies, infarctus myocardiques, arythmies...). Il n'y avait pas non plus d'augmentation des valeurs biologiques extrêmes pouvant témoigner de souffrances viscérales ou de situations à risque. Ces auteurs insistent sur la justification des examens plutôt que la prescription de routine, sur la vigilance clinique et l'allégement de la charge en soins si l'on diminue les prélèvements. Une baisse non significative des transfusions de produits sanguins labiles était par ailleurs constatée. A Brest, Prat et al. [3] ont institué une politique de prescription encadrée (vérification des prescriptions informatisées précédentes, prises-en compte des données du monitoring non invasif, connaissance des coûts, groupage des demandes d'examens) aboutissant à une réduction des examens biologiques d'environ 50% et des radiographies thoraciques au lit de 40,8%. Lehot et al. [4], de leur côté, ont rapporté qu'en réanimation cardio-chirurgicale à Lyon, une méthodologie similaire mais tenant compte de l'avis des biologistes et des radiologues et plus progressive permettait de diminuer de 30% les dépenses de biologie en 3 ans sans altérer les résultats cliniques. Une économie de 20 732 € par an et par lit était ainsi réalisée. San Miguel et al. [5], en demandant la justification explicite des examens et en favorisant leur prescription détaillée (par exemple, Na, K... au lieu de ionogramme complet) ont diminué le nombre d'examens biologiques de 60% sans effet indésirable grave.D'autres auteurs [6,7] ont insisté sur l'intérêt de limiter les prélèvements sanguins pour préserver le capital érythrocytaire des patients, la quantité moyenne de prélèvements allant de 25 à 65 ml par jour, et s'élevant même à 85 ml durant les premiers jours de l'admission.
+
+Concernant les radiographies thoraciques au lit, une méta-analyse portant sur 9 études (dont seulement 3 randomisées) ne montre pas d'effet délétère d'une politique restrictive [8]. Leur prescription n'est pas recommandée lors du suivi des patients stables non ventilés [9]. Concernant la place respective de l'échographie et de la tomodensitométrie thoracique, le débat évolue et doit intégrer la notion de radioprotection, en particulier pour les patients jeunes et faisant l'objet de nombreux examens d'imagerie. La tomodensitométrie reste l'examen de référence pour diagnostiquer les atteintes pulmonaires en réanimation mais l'échographie prend une place croissante, tendant à remplacer la radiographie dans de nombreuses situations et même parfois la tomodensitométrie, ce qui limite les risques liés au transport et à l'irradiation.
+
+Malgré ces données, le volume d'examens complémentaires reste considérable. Leur prescription résulte d'un processus complexe et mal connu, dans lequel la formation initiale et continue des médecins joue un rôle important, auquel s'ajoutent le type de pathologies rencontrées et les habitudes locales. De plus, la croyance que les patients critiques nécessitent davantage d'examens complémentaires, la facilité de prélèvements liée à la présence d'un cathéter central et artériel ainsi que la crainte de se voir reprocher une prise en charge sous-optimale n'incitent pas à changer les pratiques. A cet égard, les services de CHU ont une responsabilité particulière pour la formation des jeunes médecins à la prescription. Il existe un consensus pour diffuser le coût de ces examens à tous les prescripteurs et pour souligner l'importance de la stratégie destinée à pérenniser l'optimisation des prescriptions dans un service.
+
+Outre la nature des examens complémentaires prescrits, le délai d'obtention des résultats peut influencer sur la qualité de la prise en charge et le pronostic des patients. Ces délais devraient faire l'objet d'accords entre cliniciens et prestataires et être pris en compte pour définir la place de la biologie délocalisée.
+
+Enfin, ces réductions ne doivent pas mettre en jeu la qualité des soins et un contrôle des complications est généralement préconisé par les auteurs.
+
+Les enjeux de ces RFE, qui visent à proposer aux praticiens un cadre raisonné et raisonnable de prescriptions, sont donc fondamentaux. Nous remercions les collègues qui ont bien voulu y participer en faisant appel à la littérature et à leur expérience clinique.## Méthodologie
+
+La méthode de travail utilisée pour l'élaboration de ces recommandations s'est inspirée à chaque fois que cela a été possible de la méthode GRADE®. Cette méthode a pour but d'exprimer de manière simple et intelligible la qualité des preuves ayant conduit à formuler une recommandation. Cette qualité des preuves n'est rien d'autre que le niveau de confiance que l'on s'accorde à reconnaître à l'effet d'une intervention thérapeutique ou diagnostique. La qualité des preuves se répartit en quatre catégories [10] :
+
+**Haute** : les recherches futures ne changeront très probablement pas la confiance dans l'estimation de l'effet.
+
+**Modérée** : les recherches futures changeront probablement la confiance dans l'estimation de l'effet et pourraient modifier l'estimation de l'effet lui-même.
+
+**Basse** : les recherches futures auront très probablement un impact sur la confiance dans l'estimation de l'effet et modifieront probablement l'estimation de l'effet lui-même.
+
+**Très basse** : l'estimation de l'effet est très incertaine.
+
+L'analyse de la qualité des preuves est réalisée pour chaque étude puis un niveau global de preuve est défini pour une question et un critère donné.
+
+Les recommandations sont toujours formulées de manière binaire soit positive soit négative et soit forte soit faible :
+
+**Forte** : Il faut faire ou ne pas faire (GRADE 1+ ou 1-)
+
+**Faible** : Il faut probablement faire ou ne pas faire (GRADE 2+ ou 2-)
+
+La force de la recommandation est déterminée en fonction de facteurs clés, validée par les experts après un vote, en utilisant la méthode *Delphi* et la *GRADE Grid* :
+
+- - Estimation de l'effet de l'intervention
+- - Le niveau global de preuve : plus il est élevé, plus probablement la recommandation sera forte
+- - La balance entre effets désirables et indésirables : plus celle-ci est favorable, plus probablement la recommandation sera forte
+- - Les valeurs et les préférences : en cas d'incertitudes ou de grande variabilité, plus probablement la recommandation sera faible ; ces valeurs et préférences doivent être obtenues au mieux directement auprès des personnes concernées (patient, médecin, décisionnaire)
+- - Coûts : plus les coûts ou l'utilisation des ressources sont élevés, plus probablement la recommandation sera faible
+- - Pour faire une recommandation, au moins 50 % des participants ont une opinion et moins de 20 % préfèrent la proposition contraire.- - Pour faire une recommandation forte, au moins 70% des participants sont d'accord.
+
+Huit champs d'applications des recommandations ont été identifiés par les experts, puis divisés en autant de questions qu'il était identifié d'interventions possibles dans différentes populations ainsi que le décrit la méthode « PICO » (population, intervention, comparaison, *outcome*) [11]. Cette méthode permet de cibler les questions sur des populations déterminées et d'exprimer ses réponses en fonction de critères « cruciaux ». Par exemple, la question « Comment utiliser les troponines en dehors de modifications du segment ST en postopératoire de chirurgie non cardiaque ? » a fait l'objet du questionnement « PICO » présenté dans le tableau ci-dessous :
+
+<table border="1">
+<thead>
+<tr>
+<th>Patients</th>
+<th>Intervention</th>
+<th>Comparaison</th>
+<th>Outcome</th>
+<th>Importance*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3"><b>Postopératoire de chirurgie non cardiaque</b></td>
+<td rowspan="3">Dosage systématique de la troponine</td>
+<td rowspan="3">Moyens traditionnels de diagnostic (clinique/ECG)</td>
+<td>Gain diagnostique</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Gradation du risque patient</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Diminution de la morbid-mortalité</td>
+<td>9</td>
+</tr>
+<tr>
+<td colspan="5"><b>*Crucial (7-9) - Important (4-6) - Pas important (1-3)</b></td>
+</tr>
+</tbody>
+</table>
+
+Les huit champs d'applications des recommandations identifiés par les experts étaient :
+
+1. 1. Faut-il faire un bilan d'entrée systématique en réanimation ?
+2. 2. Faut-il faire un bilan quotidien systématique en réanimation ?
+3. 3. Quels biomarqueurs du sepsis utiliser en réanimation ?
+4. 4. Comment utiliser les troponines en dehors de modifications du segment ST ?
+5. 5. Quelle est la place du dosage des peptides natriurétiques en réanimation ?
+6. 6. Quand prescrire un bilan d'hémostase en réanimation ?
+7. 7. Quand prescrire des examens bactériologiques standards ?
+8. 8. Quand prescrire une radiographie thoracique (RT) au lit ?
+
+Après synthèse du travail des experts et application de la méthode GRADE, 49 recommandations ont été formalisées. Les experts sont parvenus à un accord fort pour 40 d'entre elles, et à un accord faible pour 1 d'entre elles. Dans 3 cas, ni l'analyse de la littérature ni l'avis des experts (pas d'accord trouvé) n'ont permis de répondre à la question posée et aucune recommandation n'a donc été formulée.## Champ 1. Faut-il faire un bilan d'entrée systématique en réanimation ?
+
+<table border="1"><tr><td><b>R1.1 - Les experts proposent de réduire autant que possible le nombre de prélèvements sanguins chez le patient de réanimation à l'admission et au quotidien afin de réduire la spoliation sanguine et le coût lié aux examens.</b></td></tr><tr><td style="text-align: right;"><b>Avis d'expert</b></td></tr><tr><td><b>R1.2 - Les experts proposent de rechercher systématiquement une éventuelle grossesse à l'admission en réanimation soit par l'interrogatoire, soit par un dosage de bêta-hCG urinaire ou quantitatif sanguin.</b></td></tr><tr><td style="text-align: right;"><b>Avis d'expert</b></td></tr><tr><td><b>Argumentaire :</b><br/>Les études réalisées jusqu'alors ont un faible niveau de preuve et sont essentiellement des études visant à implémenter des guidelines de réalisation d'examens. Ces études utilisent le plus souvent un algorithme de prescription concernant l'admission et le séjour en réanimation et il n'existe pas de données spécifiques concernant la réalisation des examens à l'admission. Néanmoins elles montrent toutes une diminution notable du coût liée à la réduction du nombre d'examens sans augmentation de la mortalité ni de la durée de séjour en réanimation. Une étude montre que la proportion de valeurs anormales retrouvées sur les examens n'augmente pas après réduction de leur nombre [2]. Aucune étude n'a cependant montré qu'il existait une corrélation entre le taux de transfusion et la quantité de prélèvements réalisés.<br/>Concernant le dosage de bêta-hCG, Il n'existe pas d'article dans la littérature mais l'impact des traitements ou les éventuelles complications graves liées à une grossesse évolutive en réanimation justifient cet examen.</td></tr></table>
+
+## Champ 2. Faut-il faire un bilan quotidien systématique en réanimation ?
+
+<table border="1"><tr><td><b>R2.1 - Il ne faut probablement pas réaliser de façon systématique et quotidienne l'ensemble des examens biologiques (numération formule sanguine, ionogrammes sanguin et urinaire, gazométrie, bilan hépatique) en réanimation.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2-) Accord fort</b></td></tr><tr><td><b>R2.2 - Il faut discuter la réalisation des examens biologiques à chaque évaluation clinique en vue de restreindre le nombre d'examens biologiques.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>R2.3 - Il faut probablement réaliser un ionogramme sanguin et urinaire, une numération sanguine et des gaz du sang artériels quotidiennement chez les patients instables sur les plans hémodynamique, rénal ou respiratoire.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td></tr><tr><td><b>R2.4 - Il faut probablement écrire un protocole de service afin de réduire le nombre d'examens biologiques et faire connaître le coût des prescriptions.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td></tr><tr><td><b>Argumentaire :</b><br/>Les études montrant une réduction du nombre d'examens sans augmentation du risque pour les patients ont évalué soit la réduction du nombre de gazométries ou de ionogrammes pluriquotidiens soit la réduction du nombre d'examens systématiques quotidiens. En ce sens, aucune étude n'a décrit de prise en charge sans examen quotidien. Néanmoins, certains protocoles distinguent les examens tels que le ionogramme ou la numération qui</td></tr></table>sont réalisés une fois par jour, des examens tels que la formule sanguine, les gazométries ou les marqueurs cardiaques qui sont moins systématiques et réalisés sur demande [2]. La réalisation non systématique des examens biologiques n'entraîne pas de morbidité ni de mortalité dans l'ensemble des études. Les études ayant permis de réduire le nombre d'examen biologiques réalisés reposaient sur la réalisation d'un protocole définissant les règles de prescription et adopté par l'ensemble de l'équipe [3,4]. Dans le protocole, les examens biologiques étaient prescrits après l'examen clinique et les données du monitoring.
+
+### Champ 3. Quels biomarqueurs du sepsis utiliser en réanimation ?
+
+**R3.1 - Les experts proposent que la procalcitonine (PCT), comme tout biomarqueur, ne doit pas être utilisée ni interprétée indépendamment de l'ensemble des éléments cliniques et paracliniques mais s'intégrer au contraire dans une démarche globale de prise en charge des patients.**
+
+**Avis d'expert**
+
+**R3.2 - Les experts proposent que compte tenu de son manque de spécificité, l'utilisation de la CRP n'est pas recommandée chez tous les patients de réanimation.**
+
+**Avis d'expert**
+
+**R3.3 - Il ne faut pas doser la PCT dans les sepsis évidents dans le seul but d'en étayer le diagnostic. Toutefois, une valeur précoce peut servir de référence pour la gestion ultérieure de l'antibiothérapie (arrêt plus rapide ou modification).**
+
+**(Grade 1-) Accord fort**
+
+**R3.4 - Dans certaines situations particulières (patients chirurgicaux, infections intra-abdominales), l'intérêt de la PCT n'est pas clairement établi et son utilisation n'est pas recommandée en routine.**
+
+**(Grade 1-) Accord fort**
+
+#### **Argumentaire :**
+
+Plusieurs études reprises secondairement dans des méta-analyses ont démontré la supériorité de la PCT par rapport à la CRP comme biomarqueur du sepsis, tant pour différencier les syndromes de réaction inflammatoire systémique (SIRS) infectieux des SIRS non infectieux que pour différencier les SIRS d'origine bactérienne des SIRS d'origine virale [12,13].
+
+Dans les SIRS d'allure infectieuse sans foyer identifié ni documentation microbiologique, baser la décision d'introduire une antibiothérapie uniquement en cas d'élévation de la PCT au-delà d'un certain seuil s'est avéré une stratégie efficace et sûre, dans la mesure où les patients qui n'avaient pas reçu d'antibiotiques sur la foi d'une absence d'élévation de la PCT avaient un pronostic similaire aux patients traités en termes de mortalité et de durée de séjour [14-16]. Dans ces situations de SIRS d'allure infectieuse sans foyer identifié ni documentation microbiologique, une attitude prudente et rationnelle consiste à introduire une antibiothérapie probabiliste que l'on peut arrêter à 48 ou 72 heures si la PCT reste basse et les prélèvements microbiologiques stériles.
+
+Par ailleurs, la cinétique de la PCT a pu être utilisée dans les infections confirmées ou fortement suspectées pour réduire la durée de l'antibiothérapie, là encore sans risque d'échec thérapeutique ou de surmortalité pour les patients [15-19], les économies liées à la moindre consommation antibiotique compensant le surcoût lié aux dosages répétés de PCT [20].
+
+Notons que dans certaines situations, l'intérêt de la PCT reste incertain. Ainsi en contexte postopératoire de chirurgie lourde, en particulier digestive, des valeurs de PCT élevées ont été observées en dehors de toute complication infectieuse [21] et, dans les infections intra abdominales, l'utilisation d'un algorithme basé sur la cinétique de la PCT n'a pas permis de réduire la durée d'antibiothérapie [16]. Dans les 5 jours après chirurgie cardiaque, l'élévation de la PCT est liée à la survenue d'un SIRS quelle qu'en soit l'origine [22].Enfin, comme cela est le cas quel que soit le biomarqueur considéré, l'utilisation de la PCT doit bien évidemment s'intégrer dans une démarche diagnostique, thérapeutique et médico-économique globale tenant compte de l'ensemble des éléments cliniques et paracliniques.
+
+#### **Champ 4 : Comment utiliser les troponines en dehors de modifications du segment ST ?**
+
+Les populations de patients en phase postopératoire ont été étudiées séparément des patients de réanimation hors contexte postopératoire. Les études retenues pour l'analyse comparaient l'utilisation du dosage systématique de la troponine aux moyens traditionnels de diagnostic (clinique/ECG). Les critères de jugement cruciaux choisis par les experts ont été le gain diagnostique, le gain pronostique et l'amélioration de la morbi-mortalité. Pour la classification du risque cardiaque périopératoire, le lecteur est renvoyé aux recommandations européennes (Kristensen SD et al. Eur Heart J. 2014; 35: 2383-431)
+
+#### **En contexte postopératoire (hors chirurgie cardiaque) :**
+
+**R4.1 - Il ne faut pas doser systématiquement la troponine en postopératoire pour les chirurgies à faible risque cardiaque (<1%). Pour les chirurgies à risque intermédiaire ou élevé, il ne faut pas doser systématiquement la troponine en postopératoire chez les patients à faible risque cardiaque (Revised cardiac risk index de Lee (RCRI) à 1).**
+
+**(Grade 1-) Accord fort**
+
+**R4.2 - Lorsque le motif d'admission en réanimation ou en surveillance continue est la gestion du risque cardiaque postopératoire, il faut doser systématiquement la troponine. La période s'étendant du jour de l'opération au troisième jour postopératoire constitue la meilleure opportunité de détection.**
+
+**(Grade 1+) Accord fort**
+
+##### **Argumentaire :**
+
+Cette recommandation repose, en ce qui concerne le gain diagnostique et le gain pronostic, sur les résultats d'une méta-analyse [23] (14 études – 3 318 patients), une vaste étude de cohorte rétrospective [24] (51 701 patients) et un vaste essai multicentrique [25] (15 133 patients). Le niveau de preuve a été considéré comme haut en raison de la cohérence des données, de la force de l'association et d'une corrélation entre le taux de troponine et les paramètres étudiés (courbe « dose – réponse »). En ce qui concerne l'amélioration de la morbi-mortalité cette recommandation repose sur deux études de cohorte [26,27] (667 et 8351 patients) et le niveau de preuve a été considéré comme faible.
+
+La recommandation est de type G1+ du fait de la faisabilité et du faible potentiel iatrogène (faible taux de faux négatifs) du dosage systématique de la troponine dans une population bien ciblée.
+
+Le groupe d'expert n'a pas fait de différence entre troponine T et I suivant ainsi l'avis d'expert de l'American College of Cardiology sur l'usage pratique des dosages de troponine [28] et de la National Academy of Clinical Biochemistry [29] qui recommandent d'utiliser comme valeur seuil le 99ème percentile d'une population normale quel que soit la nature de la Troponine dosée en sachant que cette valeur varie d'un kit de dosage à l'autre. Pendant des années, aucun test n'a satisfait aux exigences analytiques d'un coefficient de variation (CV) < 10% pour les valeurs faibles rendant difficile l'adoption du seuil du 99ème percentile. Des kits ayant pu satisfaire à cette exigence sont commercialisés depuis 2011 et ont adopté la terminologie de « troponine ultrasensible » (Tn-us, hs-cTnT) [30]. Ils présentent pour avantage de détecter très tôt après le début d'une suspicion d'ischémie myocardique des valeurs très faibles de troponine [31].
+
+Une mise au point sur l'utilisation du dosage de la troponine dans la phase postopératoire est disponible sur le site de la SFAR (<http://www.sfar.org/accueil/article/1170/troponine-en-medecine-perioperatoire>).## Hors du contexte postopératoire :
+
+**Il n'est pas possible de formuler de recommandation sur le dosage systématique de la troponine en réanimation en dehors du contexte postopératoire.**
+
+### Argumentaire :
+
+Cette recommandation repose, pour le gain diagnostique, sur deux petites études de cohorte prospectives menées par la même équipe montrant une meilleure performance diagnostique pour un dosage systématique de la troponine comparée aux moyens usuels (ECG, examen clinique) [32,33]. En ce qui concerne la valeur pronostique, cette recommandation repose sur une méta-analyse publiée en 2006 [34] (23 études - 4492 patients) suivie par trois études de cohorte rétrospectives incluant entre 290 et 1657 patients [35-37] qui retrouvaient toutes une valeur pronostique indépendante au dosage de la troponine. Cependant, la valeur pronostique additionnelle du dosage de la troponine aux éléments pronostiques usuels tels que les scores de gravité n'est pas connue, et il n'a pas été trouvé d'argument indiquant un bénéfice clinique au dosage systématique de la troponine. Les experts ne peuvent donc émettre de recommandation.
+
+## Champ 5. Quelle est la place du dosage des peptides natriurétiques en réanimation ?
+
+### En contexte postopératoire (hors chirurgie cardiaque) :
+
+**R5.1 - Il ne faut pas doser systématiquement les peptides natriurétiques en période postopératoire des types de chirurgies à faible risque cardiaque (<1%). Pour les types de chirurgie à risque intermédiaire ou élevé, il ne faut pas doser systématiquement les peptides natriurétiques en période postopératoire chez les patients à faible risque cardiaque (RCRI<2) ou à très haut risque cardiaque (RCRI>3).**
+
+**(Grade 1-) Accord fort**
+
+### Argumentaire :
+
+Plusieurs auteurs ont avancé l'hypothèse que le dosage des peptides natriurétiques pourrait permettre un diagnostic précoce des ischémies myocardiques. Cette hypothèse résultait de la constatation que ces marqueurs apparaissaient très précocement dans la circulation dès lors que le flux coronarien était interrompu comme lors d'une angioplastie transcutanée [38]. De la même manière, une élévation des peptides natriurétiques est fréquemment observée dans les syndromes coronariens, elle est alors un marqueur de gravité [39-41]. Il n'existe cependant pas dans la littérature d'éléments factuels permettant d'affirmer que le dosage des peptides natriurétiques facilite le diagnostic des ischémies myocardiques postopératoires.
+
+En ce qui concerne la gradation du risque postopératoire, une méta-analyse a identifié 18 études incluant 2051 patients analysant le rôle du dosage systématique des peptides natriurétiques en postopératoire de chirurgie non cardiaque [42]. Les patients présentant une élévation de ces marqueurs avaient un sur-risque de décès ou d'infarctus à 30 jours, de mortalité intra-hospitalière et d'insuffisance cardiaque. Une corrélation avec la mortalité à 6 mois était également trouvée. L'accroissement du risque était proportionnel à la valeur absolue des taux de peptides natriurétiques détectés, mais n'était pas corrélé à la variation de ce taux entre les valeurs pré et postopératoires. Cette variation était une augmentation pour les trois quarts des patients, de 66 ng/l en moyenne pour le BNP et de 323 pour le NT-proBNP (écart interquartile de 123 et 874 ng/l respectivement). Le taux de patients ayant présenté une complication (décès à 30 jours ou infarctus postopératoire) ayant été reclassés dans une catégorie de risque supérieure par rapport à une stratification basée sur des facteurs de risque cliniques associés à un dosage préopératoire était de 19,6% et le taux de patients exempts de complications ayant été reclassés dans une catégorie de risque inférieure était de 0,6%. L'ajout d'un dosage systématique postopératoire à un dosage préopératoire aboutissait donc à un gain pronostique de 20,2% pour les complications à 30 jours. Pour les 612/2051 patients ayant un risque mesuré entre 5 et 15% par les données cliniques et biologiques préopératoires (RCRI + peptides natriurétiques), le gain pronostique s'élevait à 64,7% [43].## Hors contexte postopératoire :
+
+**La littérature actuelle ne permet de formuler aucune recommandation sur l'utilisation du BNP en réanimation hors contexte postopératoire. En particulier l'intérêt du BNP dans le cadre du dépistage d'une dysfonction cardiaque induite par le sepsis ou dans le cadre de la détection d'une cause cardiaque à un échec de sevrage de la ventilation mécanique n'est pas établi, bien que certaines études ouvrent des perspectives intéressantes.**
+
+### Argumentaire :
+
+#### *BNP et sepsis*
+
+Il existe des arguments pour penser que les changements de concentration de BNP chez les patients présentant un sepsis sévère ou un choc septique pourraient conduire à identifier les patients à risque de développer une dépression myocardique induite par le sepsis. Toutefois, l'association entre le niveau de BNP atteint par ces patients et leur devenir n'est pas clairement établie. Plusieurs mécanismes, incluant le stress de la paroi ventriculaire, la surcharge ventriculaire droite, le traitement par catécholamines exogènes ou encore l'activation de l'inflammation, pourraient contribuer à la sécrétion de BNP dans cette situation.
+
+Certaines études ont montré une corrélation positive entre le niveau d'élévation du BNP, la destruction cardiomyocytaire et la mortalité [44-46]. En revanche, d'autres études, principalement rétrospectives, n'ont pas réussi à mettre en évidence de relation entre le niveau de BNP et le développement d'une cardiomyopathie septique et n'ont pas non plus mis en relation ce niveau et le devenir des patients [47-49].
+
+#### *BNP et sevrage de la ventilation mécanique*
+
+Il a été montré à de nombreuses reprises que l'élévation des taux de BNP au cours d'une épreuve de ventilation spontanée était associée à un échec clinique de l'épreuve de sevrage [50-55]. Le dosage du BNP semble supérieur à celui du NT-pro-BNP dans cette indication [56].
+
+Certains travaux ont permis de démontrer que des taux élevés de BNP [57] et une augmentation importante des taux de BNP [57,58] et de NT-pro-BNP [59] au cours de l'épreuve de sevrage étaient associés à une dysfonction cardiaque responsable de l'échec de l'épreuve de sevrage.
+
+Enfin, certains auteurs ont retrouvé une corrélation entre les dosages uniques [56] ou des variations [51] de peptides natriurétiques et les échecs d'extubation.
+
+Ainsi, Chien et al. ont suggéré qu'une augmentation < 20% des taux de BNP après une épreuve de ventilation spontanée de deux heures associé à un succès clinique de l'épreuve permettrait peut-être de diminuer le risque de réintubation [51]. Cependant, cette stratégie n'est pour le moment pas validée par une étude interventionnelle et sa supériorité n'a pas été établie par rapport au contrôle de la balance hydrosodée.
+
+Mekontso-Dessap et al. ont quant à eux proposé une stratégie permettant de raccourcir la durée de sevrage de la ventilation mécanique en guidant la stratégie diurétique selon le taux de BNP [60]. Dans ce travail, cette stratégie paraît efficace. Cependant, encore une fois, il n'est pas possible de déterminer si elle est supérieure à une stratégie de contrôle strict de la balance hydrosodée.
+
+## Champ 6. Quand prescrire un bilan d'hémostase en réanimation ?
+
+Le libellé de la question retenue par les experts a été : *Quand prescrire un bilan d'hémostase en réanimation : temps de Quick le plus souvent exprimé en « taux de prothrombine » (TP), temps de céphaline-activateur (TCA) et numération plaquettaire (Plaq) ?*
+
+*Cette question a été subdivisée en :*
+
+- - Faut-il faire un bilan systématique à l'admission en réanimation (TP, TCA, Plaq)?
+- - Faut-il répéter ce bilan au cours de l'hospitalisation en réanimation ? A quelle fréquence ? Selon quels critères ?
+- - Quels examens prescrire et à quelle fréquence pour la surveillance d'un traitement par héparine à doses prophylactiques ou thérapeutiques ?<table border="1">
+<tr>
+<td><b>R6.1 - Il faut probablement disposer d'un bilan d'hémostase comprenant TP, TCA, Plaq chez tout patient admis en réanimation.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R6.2 - Il ne faut probablement pas répéter systématiquement les examens d'hémostase, une fois le bilan initial prélevé.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2-) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R6.3 - Il faut répéter les examens d'hémostase au cours du séjour en cas d'anomalies ou de survenue d'une affection aiguë pouvant interférer avec l'hémostase.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R6.4 - Il ne faut pas effectuer systématiquement de surveillance biologique de l'activité anticoagulante des traitements anticoagulants utilisés à dose préventive (prophylaxie de la maladie thrombo-embolique veineuse), en dehors de la surveillance plaquettaire lorsque cette dernière est indiquée.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1-) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R6.5 - Il faut probablement surveiller l'effet anticoagulant d'un traitement par héparine non fractionnée à doses thérapeutiques par la mesure de l'activité anti-Xa plutôt que par la mesure du TCA.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>Argumentaire :</b></p>
+<p><i>Plaquettes</i></p>
+<p>La prévalence des thrombopénies à l'admission est variable selon les études, en fonction de la définition retenue par les auteurs (thrombopénie &lt; 150G/l, modérée &lt; 100G/l, ou sévère &lt; 50G/l, ou thrombopénie relative &gt; 30% de diminution). Elle se situe entre 8,3% à 67,6%, et peut être considérée globalement élevée, plus importante chez les patients « médicaux » que « chirurgicaux » [61]. L'incidence des thrombopénies survenant pendant le séjour en réanimation est également variable, de 13,0% à 44,1%. Les étiologies des thrombopénies en réanimation sont nombreuses. Les causes les plus fréquentes sont les infections (sepsis, sepsis sévère et choc septique), la CIVD, les thrombopénies d'origine médicamenteuse, et les thrombopénies dilutionnelles [62]. La numération plaquettaire entre dans le calcul de certains scores de gravité : SOFA (Sequential Organ Failure Assessment), MODS (Multiple Organ Dysfunction Score), LODS (Logistic Organ Dysfunction System). La présence d'une thrombopénie en réanimation est associée à une augmentation de la durée de séjour en soins intensifs [63,64], à une augmentation de la durée de ventilation mécanique [65] et à une augmentation de la mortalité [61,66,67]. Deux études ont rapporté l'importance de la cinétique de la numération plaquettaire comme marqueur pronostique de mortalité [68,69]. La thrombopénie est également un facteur de risque indépendant de saignements [63] et de saignements majeurs [70].</p>
+<p><i>Temps de coagulation</i></p>
+<p>La présence d'anomalies de la coagulation (le plus souvent un allongement des temps de coagulation TP et TCA) est fréquente chez les patients de réanimation, même en l'absence de traitement anticoagulant. Entre 20% et 40% des patients admis en réanimation auraient au moins une perturbation du TP et/ou du TCA [71-73]. La présence d'une coagulopathie est associée à une augmentation de la durée de séjour en soins intensifs et à une augmentation de la mortalité. Un allongement du TCA et une thrombopénie sont des facteurs de risque indépendants de saignements majeurs [74]. L'étude de Walsh et al. [72] montre que 22,8% des patients admis en réanimation ont un INR&gt;1,5 ; pendant le séjour en réanimation, 30% des patients ont au moins un épisode avec</p>
+</td>
+</tr>
+</table>INR > 1,5, 73% sont compris entre 1,6 et 2,5 INR. En l'absence de traitement anti-vitamine K, l'INR seul ne permet pas d'apprécier le risque de saignement [75].
+
+*Surveillance d'un traitement par héparine*
+
+La corrélation entre le TCA et la mesure de l'activité anti-Xa par un test chromogénique est mauvaise : lors d'un traitement par héparine non fractionnée, les résultats du TCA et de l'activité anti-Xa sont discordants dans près de la moitié des cas [76,77]. Les facteurs pouvant influencer la mesure du TCA sont très nombreux (variations des protéines plasmatiques de l'inflammation - facteur VIII, fibrinogène, survenue d'un déficit en facteurs, apparition d'anticoagulants circulants de type lupique, etc.), rendant ce test moins fiable que l'activité anti-Xa, surtout chez les patients instables en réanimation.
+
+La thrombopénie induite par l'héparine (TIH) est un effet indésirable compliquant jusqu'à 5% des traitements par héparine non fractionnée et 0,1 à 0,2% des traitements par héparine de bas poids moléculaire, quelle que soit la dose. En cas de traitement par HNF, quelle que soit la dose administrée, la numération plaquettaire doit être surveillée 2 fois par semaine pendant 21 jours.
+
+Pour la surveillance d'un traitement par HBPM, le lecteur se référera au document de l'HAS : Modification des recommandations sur la surveillance plaquettaire d'un traitement par Héparine de Bas Poids Moléculaire ([ansm.sante.fr/var/ansm.../58af9a851799004cfc1317baf34a70c9.pdf](https://ansm.sante.fr/var/ansm.../58af9a851799004cfc1317baf34a70c9.pdf)).(Dans un contexte chirurgical ou traumatique ,la surveillance plaquettaire doit être systématique )avant traitement ou au plus tard 24h après le début du traitement, puis 2 fois par semaine pendant 1 mois, puis 1 fois par semaine jusqu'à l'arrêt du traitement, en cas de traitement prolongé). Dans un contexte non chirurgical/non traumatique, à l'exclusion des patients à risque, la surveillance plaquettaire est non systématique (avant traitement ou au plus tard 24 h après le début du traitement, en cas de manifestation clinique évocatrice de thrombopénie induite par l'héparine).
+
+## Champ 7. Quand prescrire des examens bactériologiques standards ?
+
+### Les Hémocultures :
+
+<table border="1"><tr><td><b>R7.1 - Il faut prélever des hémocultures devant tout sepsis</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>R7.2 - Il ne faut probablement pas répéter ces prélèvements de manière systématique</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2-) Accord fort</b></td></tr><tr><td><b>R7.3 - Il faut probablement prélever de nouvelles hémocultures 24 heures après la première série dans les cas suivants : suspicion d'endocardite et syndrome infectieux persistant avec premières hémocultures restant négatives après 24 heures d'incubation.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>R7.4 - Il faut probablement réduire le nombre de paires d'hémocultures à 2 ou 3 par épisode clinique et par tranche de 24h en réanimation afin de réduire les coûts liés aux examens et la spoliation sanguine.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td></tr><tr><td><b>R7.5 - Il faut prélever par ponction veineuse directe, en une seule fois, un volume minimum de 40 à 60 mL de sang et le répartir dans 4 à 6 flacons (2 à 3 flacons aérobies et 2 à 3 flacons anaérobies) pour minimiser le risque de faux positifs (contamination par défaut d'antisepsie) et de faux négatifs (volume prélevé insuffisant).</b></td></tr></table>**(Grade 1+) Accord fort**
+
+**Aucune recommandation ne peut être faite sur le prélèvement d'hémocultures systématiques en cas de traitements interférant avec le monitoring de la température (tels que l'hypothermie thérapeutique ou l'épuration extra-rénale continue).**
+
+**Argumentaire :**
+
+Le sang est normalement stérile. L'hémoculture permet de faire le diagnostic d'une bactériémie ou d'une fongémie. La bactériémie ou la fongémie sont définies par la présence de bactéries ou de champignons dans le sang. Les hémocultures doivent être prélevées devant toute fièvre d'origine indéterminée d'autant plus si elle est accompagnée de signes évocateurs de bactériémie (frissons, hypothermie, tachycardie, hypotension).
+
+La ponction veineuse directe est la seule méthode fiable pour prélever du sang en vue d'une culture bactériologique. Les autres sites de prélèvement (cathéters veineux ou artériels) augmentent de façon significative la fréquence des contaminants.
+
+C'est le volume de sang prélevé et non le nombre de ponctions qui importe. Il existe une relation directe entre le volume de sang inoculé dans les flacons d'hémoculture et le rendement de la technique, donc la sensibilité de la détection de la positivité par un automate. La densité des bactéries présentes dans le sang est généralement très faible chez l'adulte au cours des épisodes bactériémiques (de l'ordre de 1 UFC/mL) (1). Un volume de 20 mL de sang prélevé augmente le pourcentage de positivité de 30%, comparativement à un volume de 10 mL qui est le minimum souhaitable chez l'adulte [78]. Un volume insuffisant peut entraîner des résultats faussement négatifs. Le volume optimal est de 40 à 60 mL. Un volume supérieur n'améliore la sensibilité que de manière négligeable. Il y a un consensus pour limiter le nombre d'hémocultures à trois par épisode clinique et par tranche de 24h au total. En effet, trois paires d'hémocultures permettent de détecter 98% des bactériémies contre 73% avec une paire et 90% avec deux paires [79,80]. L'intervalle entre deux prélèvements importe peu en ce qui concerne la sensibilité de détection qui est équivalente.
+
+Puisque c'est le volume de sang prélevé qui est important, il faut prélever tout le sang en une seule fois, et le répartir dans les 4 ou 6 flacons (2 à 3 flacons aérobies et 2 à 3 flacons anaérobies), ce qui réduit par 2 à 3 les contaminations liées à la répétition des ponctions veineuses [78,81]. Cette méthode, cependant, n'est pas recommandée en cas de suspicion d'infection liée à un dispositif intravasculaire (DIV) [78]. Pour le diagnostic d'infection liée à un DIV, il serait préférable que les deux prélèvements (périphérique et par DIV) soient réalisés simultanément et avec la même quantité de sang [81].
+
+**Prélèvements pulmonaires (pneumonies nosocomiales uniquement, patients immunodéprimés exclus)**
+
+**R7.6 - Il faut réaliser des prélèvements microbiologiques pulmonaires uniquement en cas de suspicion de pneumonie nosocomiale et respecter les conditions de prélèvement et d'acheminement des prélèvements au laboratoire pour pouvoir en interpréter les résultats de façon fiable.**
+
+**(Grade 1+) Accord fort**
+
+**R7.7 - Il faut probablement réaliser des prélèvements microbiologiques pulmonaires devant toute suspicion de pneumonie nosocomiale pour identifier le germe responsable et adapter au mieux l'antibiothérapie.**
+
+**(Grade 2+) Accord fort**
+
+**R7.8 - Il ne faut pas répéter les prélèvements microbiologiques pulmonaires en cas d'évolution favorable d'une pneumonie nosocomiale.**<table border="1">
+<tr>
+<td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R7.9 - Il ne faut probablement pas réaliser de prélèvements microbiologiques pulmonaires de « dépistage » systématiques, y compris chez les patients en SDRA.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2-) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R7.10 - Il faut probablement dépister la grippe, même en situation nosocomiale, en cas de contexte épidémique ou de notion de contagie, en particulier chez les patients avec comorbidités respiratoires ou cardiovasculaires.</b></td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td>
+</tr>
+<tr>
+<td><b>R 7.2.5 concernant les modes de prélèvement, les experts renvoient à la recommandation Q2 de la recommandation SRLF-SFAR « Stratégies de réduction de l'utilisation des antibiotiques à visée curative en réanimation » disponible sur : <a href="http://sfar.org/wp-content/uploads/2015/09/2_SPILF_Strategies-de-reduction-de-l'utilisation-des-antibiotiques-a-visee-curative-en-reanimation.pdf">http://sfar.org/wp-content/uploads/2015/09/2_SPILF_Strategies-de-reduction-de-l'utilisation-des-antibiotiques-a-visee-curative-en-reanimation.pdf</a></b></td>
+</tr>
+<tr>
+<td>
+<p><b>Argumentaire :</b></p>
+<p>Les pneumonies nosocomiales représentent la première cause d'infection en réanimation et touchent environ un malade sur quatre sous ventilation mécanique invasive [82,83]. Elles sont souvent dues à des bactéries multi-résistantes et, bien que les patients meurent peut-être davantage de leurs comorbidités que de la pneumonie elle-même [84], une antibiothérapie adaptée précoce est probablement bénéfique. Il faut donc disposer autant que possible d'une documentation microbiologique pour adapter au mieux l'antibiothérapie. Les différentes techniques diagnostiques microbiologiques disponibles sont dites « invasives » ou « non invasives » selon que les prélèvements sont faits dans les voies aériennes basses ou hautes. Les techniques invasives regroupent notamment le lavage broncho-alvéolaire et la brosse protégée réalisés sous fibroscopie bronchique ainsi que le prélèvement télescopique protégé « à l'aveugle » ; les techniques non invasives sont quant à elles représentées par les aspirations trachéales. Aucune de ces techniques n'a fait la preuve de sa supériorité par rapport aux autres en termes de rendement diagnostique ou thérapeutique ni en terme d'impact pronostique [85]. On peut donc les utiliser indifféremment en fonction des habitudes et des disponibilités locales, sous réserve toutefois de respecter les conditions pré-analytiques indispensables à une interprétation correcte des résultats. En particulier, les prélèvements microbiologiques pulmonaires ne peuvent s'interpréter que s'il existe une suspicion clinique, biologique et radiologique suffisante [86] et que si les modalités de prélèvement et d'acheminement au laboratoire sont correctes.</p>
+<p>La réalisation de prélèvements systématiques de dépistage d'une éventuelle colonisation chez les patients sous ventilation mécanique ne se justifie pas, y compris chez les patients en SDRA [87]. En effet, l'adéquation entre le micro-organisme trouvé en colonisation et le micro-organisme retrouvé au moment de la pneumonie ultérieure est trop faible, de l'ordre de deux tiers des cas, et diminue avec le délai séparant le prélèvement de dépistage du prélèvement diagnostique [88]. De plus, cette stratégie ne semble pas faire mieux qu'un traitement probabiliste basé sur les recommandations internationales et adapté à l'épidémiologie locale [88].</p>
+<p>Afin de ne pas administrer des antibiotiques par excès, des seuils de positivité ont été proposés pour les différents prélèvements dans le but de distinguer les infections vraies des simples colonisations. Si cela paraît logique, aucune étude n'a pu cependant confirmer la supériorité des techniques quantitatives par rapport aux techniques qualitatives en termes de bénéfices pour le patient [85], probablement parce qu'il est en pratique difficile de distinguer infections et colonisations, des prélèvements effectués simultanément dans des territoires pulmonaires contigus donnant des résultats qualitatifs identiques mais quantitatifs souvent différents [89].</p>
+<p>Enfin, des cas de grippe nosocomiale aux conséquences souvent graves ont été observés, en particulier chez les patients avec comorbidités respiratoires ou cardiovasculaires, justifiant d'une recherche spécifique en cas de contexte épidémique ou de notion de contagie [90-92].</p>
+</td>
+</tr>
+</table>## Examen cytobactériologique des urines (ECBU)
+
+<table border="1"><tr><td><b>R7.12 - Il faut réaliser un ECBU à visée diagnostique dans les situations suivantes :</b><ul><li>- en présence de signes cliniques d'infection urinaire compliquée (pyélonéphrite aiguë, prostatite)</li><li>- en cas de sepsis sans autre porte d'entrée identifiée</li></ul></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>R7.13 - Il ne faut pas réaliser un ECBU de contrôle 48-72 heures après le début de l'antibiothérapie sauf en cas de non réponse clinique au traitement.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1-) Accord fort</b></td></tr><tr><td><b>R7.14 - Il ne faut pas dépister de manière systématique les colonisations urinaires ni par bandelette urinaire ni par ECBU, en dehors de certaines situations à risque (femmes enceintes ou intervention chirurgicale sur les voies urinaires).</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>Argumentaire :</b><p>L'ECBU est l'analyse microbiologique qui permet de confirmer l'infection urinaire (IU) et d'identifier l'agent responsable [78,93]. Il est indiqué dans toutes les situations d'IU, à l'exception des cystites aiguës simples d'évolution favorable [78,93].</p><p>Les tests de dépistage rapide telle que la bandelette urinaire n'ont qu'une valeur présomptive et peuvent être pris en défaut du fait de l'absence de production de nitrate-réductase par les microorganismes fréquemment isolés en cas d'IU sur sonde (<i>Pseudomonas spp</i>, <i>Acinetobacter spp</i>, <i>Enterococcus spp</i>, <i>Candida spp</i>) [78]. Le dépistage systématique par bandelette urinaire en réanimation n'est donc pas recommandé.</p><p>En revanche, le dépistage par ECBU des colonisations urinaires est indiqué pour certaines populations présentant des risques élevés de complications justifiant d'un traitement, telles que les femmes enceintes ou les patients devant avoir une intervention chirurgicale sur les voies urinaires [78,94].</p></td></tr></table>
+
+## Coproculture
+
+<table border="1"><tr><td><b>R7.15 - Il faut réaliser une coproculture standard en cas de selles diarrhéiques uniquement si le patient est hospitalisé depuis moins de 3 jours.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td></tr><tr><td><b>R7.16 - Il ne faut pas réaliser de coproculture standard de contrôle en cas de première coproculture négative même si les diarrhées persistent, toutes les diarrhées n'étant pas, loin s'en faut, d'origine infectieuse.</b></td></tr><tr><td style="text-align: right;"><b>(Grade 2-) Accord faible</b></td></tr><tr><td><b>R7.17 - Il faut rechercher d'autres bactéries entéropathogènes si les résultats de la coproculture standard sont négatifs en cas de contexte particulier qui doit obligatoirement être précisé dès la coproculture d'entrée :</b><ul><li>- Notion de voyage récent en pays tropical (<i>Vibrio cholerae</i>, <i>Aeromonas spp</i>)</li><li>- Toxi-infection alimentaire collective (<i>Staphylococcus aureus</i>, <i>Bacillus cereus</i>)</li></ul></td></tr></table><table border="1">
+<tr>
+<td>
+<p>- Syndrome cholériforme ou diarrhée hémorragique (Escherichia coli entéro-hémorragique et entéro-toxinogène, Vibrio cholerae, Aeromonas spp, Plesiomonas shigelloides)</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>R7.18 - Il ne faut pas réaliser de coproculture standard chez le patient hospitalisé depuis plus de 3 jours, excepté en cas d'immunodépression.</b></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 2+) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>R7.19 - Il faut rechercher des micro-organismes particuliers en cas de diarrhée secondaire à un traitement antibiotique : Clostridium difficile, Klebsiella oxytoca, Pseudomonas aeruginosa, Candida albicans, Clostridium perfringens producteur d'entérotoxine.</b></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>R7.20 - Il faut rechercher le Clostridium difficile de façon spécifique et ne pas l'associer à la demande d'une coproculture standard (le contexte étant totalement différent).</b></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1+) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>R7.21 - Il ne faut pas réitérer la recherche de Clostridium difficile lorsqu'elle est positive.</b></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1-) Accord fort</b></td>
+</tr>
+<tr>
+<td>
+<p><b>Argumentaire :</b><br/>
+L'objectif principal est d'isoler un nombre limité de bactéries réputées pathogènes au sein d'une flore digestive. La stratégie repose actuellement sur la réalisation d'une coproculture standard « a minima » avec la recherche des agents les plus fréquents, en dehors d'un contexte clinique particulier [78]. Cette coproculture standard comprend la recherche de Salmonella sp, Shigella sp, Campylobacter et Yersinia. Les autres pathogènes incluant les virus, ne sont recherchés que dans certaines circonstances [78]. Si le patient est hospitalisé depuis plus de 3 jours, il n'est pas recommandé de rechercher Salmonella sp, Shigella sp, Campylobacter et Yersinia sauf en cas d'immunodépression [95].<br/>
+Pour ce qui est de Clostridium difficile, il n'est pas recommandé de le rechercher chez les patients asymptomatiques car d'une part les patients qui sont porteurs de Clostridium difficile à l'admission ne sont pas plus à risque d'infection que les non porteurs et, d'autre part, ni la vancomycine ni le métronidazole ne permettent l'éradication du portage de Clostridium difficile. En général la prescription d'une seule coproculture est suffisante. De nombreuses études ont montré que le gain diagnostique à répéter cette recherche dans les 7 jours suivant un 1er résultat négatif est relativement faible (0,9 à 3,8 %) et ce quelle que soit la méthode diagnostique utilisée. La recherche de Clostridium difficile ou de ses toxines à la fin du traitement de l'infection ne présente pas non plus d'intérêt. En effet, 30 à 40 % des patients ayant cliniquement bien répondu à un traitement adapté présenteront encore des résultats positifs à l'issue du traitement. Les critères de guérison sont uniquement cliniques [96].</p>
+</td>
+</tr>
+</table>
+
+## Champ 8. Prescrire une radiographie thoracique (RT) au lit ?
+
+<table border="1">
+<tr>
+<td>
+<p><b>R8.1 - Il ne faut pas faire de RT au lit quotidienne systématique chez les patients intubés et ventilés.</b></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;"><b>(Grade 1-) Accord fort</b></td>
+</tr>
+</table>**R8.2 - Il faut probablement réaliser une RT en cas d'altération des échanges gazeux, d'augmentation des pressions d'insufflation (pression de plateau) ou de modifications auscultatoires faisant suspecter l'apparition ou l'aggravation d'une anomalie parenchymateuse ou pleurale, bien que le rendement diagnostique du scanner thoracique (voire de l'échographie pulmonaire) soit sans doute supérieur.**
+
+**(Grade 2+) Accord fort**
+
+**R8.3 - Il faut probablement faire une RT au cours de la mise en place de dispositifs invasifs (sonde d'intubation, canule de trachéotomie, cathéter veineux central en territoire cave supérieur, drain thoracique, sonde gastrique) pour en vérifier la bonne position et vérifier l'absence de complications liées à la pose.**
+
+**(Grade 2+) Accord fort**
+
+**R8.4 - Il faut probablement envisager l'échographie thoracique comme alternative à la RT pour la détection d'anomalies pleurales (pneumothorax, pleurésie) voire parenchymateuses (foyer, atélectasie).**
+
+**(Grade 2+) Accord fort**
+
+**Argumentaire :**
+
+Longtemps pratiquée [97,98], la RT au lit quotidien systématique chez les patients intubés et ventilés ne se justifie plus. En effet plusieurs études récentes regroupées dans des méta-analyses [8,99-101] ont montré clairement qu'une stratégie de prescription des RT à la demande est une stratégie efficace et sûre qui permet d'augmenter significativement le rendement diagnostique et thérapeutique des RT sans compromettre la sécurité des patients (pas de différence de durée de ventilation mécanique ni de mortalité). Cette stratégie à la demande consiste à ne prescrire une RT qu'en présence de critères cliniques ou gazométriques objectifs faisant suspecter l'apparition ou l'aggravation d'une anomalie parenchymateuse (infiltrat, atélectasie) ou pleurale (pneumothorax, pleurésie). Bien que le scanner thoracique soit à l'évidence supérieur, la RT peut néanmoins dans ces situations apporter des éléments diagnostiques et entraîner des modifications thérapeutiques en s'affranchissant des risques liés au transport et en diminuant l'exposition aux radiations ionisantes. L'échographie pulmonaire peut par ailleurs constituer une alternative intéressante, et même plus performante, dans ces situations [102-104].
+
+La RT systématique à l'admission des patients en détresse respiratoire ne se justifie pas non plus, le scanner thoracique étant plus performant et l'échographie (à la fois cardiaque et pulmonaire) étant facilement et rapidement accessible et apportant, là encore, des éléments diagnostiques plus précis que la RT [105]. La RT à l'admission doit donc être réservée aux situations où le scanner et l'échographie ne peuvent être réalisés (patients jugés non transportables, équipement ou opérateurs non disponibles).
+
+Enfin, même si le niveau de preuve est relativement faible, la RT reste indiquée après la pose d'un dispositif invasif (sonde d'intubation, canule de trachéotomie, cathéter veineux central en territoire cave supérieur, drain thoracique, sonde gastrique) en raison du risque de malposition (position trachéo-bronchique de la sonde gastrique, trajet aberrant des cathéters veineux centraux...) et de complications (pneumothorax voire hemothorax après pose de cathéter veineux central, pneumomédiastin après trachéotomie...) [106].## Références
+
+- [1] Moerer O, Plock E, Mgbor U, Schmid A, Schneider H, Wischnewsky MB, et al. A German national prevalence study on the cost of intensive care: an evaluation from 51 intensive care units. *Crit Care* 2007;11:R69.
+- [2] Kumwilaisak K, Noto A, Schmidt UH, Beck CI, Crimi C, Lewandrowski K, et al. Effect of laboratory testing guidelines on the utilization of tests and order entries in a surgical intensive care unit. *Crit Care Med* 2008;36:2993–9.
+- [3] Prat G, Lefèvre M, Nowak E, Tonnelier J-M, Renault A, L’Her E, et al. Impact of clinical guidelines to improve appropriateness of laboratory tests and chest radiographs. *Intensive Care Med* 2009;35:1047–53.
+- [4] Lehot J-J, Heuclin C, Neidecker J, Cartier R, Ffrench P, Reverdy ME, et al. [How can we optimize medical orderings in intensive care unit (ICU)?]. *Ann Fr D’anesthésie Réanimation* 2010;29:682–6.
+- [5] San Miguel A, Coz S, Boyer A, Clouzeau B, Gaillard N, Tacaille C, et al. Réduction des coûts en réanimation par une rationalisation des prescriptions d’examens complémentaires. *Réanimation* 2012;21:278.
+- [6] Vincent JL, Baron J-F, Reinhart K, Gattinoni L, Thijs L, Webb A, et al. Anemia and blood transfusion in critically ill patients. *JAMA* 2002;288:1499–507.
+- [7] Alazia M, Colavolpe JC, Botti G, Corda N, Francois G. Spoliations sanguines liées aux prélèvements en réanimation. Etude préliminaire = Blood loss from blood sample removals in intensive care. A preliminary study. *Ann Fr Anesth Reanim* 1996;15:1003–7.
+- [8] Ganapathy A, Adhikari NKJ, Spiegelman J, Scales DC. Routine chest x-rays in intensive care units: a systematic review and meta-analysis. *Crit Care* 2012;16:R68.
+- [9] Haute Autorité de Santé. Document de bon usage: Quand ne pas prescrire une radiographie du thorax 2009.
+- [10] Balshem H, Helfand M, Schünemann HJ, Oxman AD, Kunz R, Brozek J, et al. GRADE guidelines: 3. Rating the quality of evidence. *J Clin Epidemiol* 2011;64:401–6.
+- [11] Zaugg V, Savoldelli V, Sabatier B, Durieux P. Améliorer les pratiques et l’organisation des soins : méthodologie des revues systématiques. *Sante Publique (Paris)* 2014;4:655–67.
+- [12] Simon L, Gauvin F, Amre DK, Saint-Louis P, Lacroix J. Serum procalcitonin and C-reactive protein levels as markers of bacterial infection: a systematic review and meta-analysis. *Clin Infect Dis* 2004;39:206–17.
+- [13] Uzzan B, Cohen R, Nicolas P, Cucherat M, Perret G-Y. Procalcitonin as a diagnostic test for sepsis in critically ill adults and after surgery or trauma: a systematic review and meta-analysis. *Crit Care Med* 2006;34:1996–2003.
+- [14] Annane D, Maxime V, Faller JP, Mezher C, Clec’h C, Martel P, et al. Procalcitonin levels to guide antibiotic therapy in adults with non-microbiologically proven apparent severe sepsis: a randomised controlled trial. *BMJ Open* 2013;3.
+- [15] Bouadma L, Luyt C-E, Tubach F, Cracco C, Alvarez A, Schwebel C, et al. Use of procalcitonin to reduce patients’ exposure to antibiotics in intensive care units (PRORATA trial): a multicentrerandomised controlled trial. *Lancet* (London, England) 2010;375:463–74.
+
+[16] Schuetz P, Müller B, Christ-Crain M, Stolz D, Tamm M, Bouadma L, et al. Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections. *Cochrane Database Syst Rev* 2012:CD007498.
+
+[17] Nobre V, Harbarth S, Graf J-D, Rohner P, Pugin J. Use of procalcitonin to shorten antibiotic treatment duration in septic patients: a randomized trial. *Am J Respir Crit Care Med* 2008;177:498–505.
+
+[18] Kopterides P, Siempos II, Tsangaris I, Tsantes A, Armaganidis A. Procalcitonin-guided algorithms of antibiotic therapy in the intensive care unit: a systematic review and meta-analysis of randomized controlled trials. *Crit Care Med* 2010;38:2229–41.
+
+[19] Agarwal R, Schwartz DN. Procalcitonin to guide duration of antimicrobial therapy in intensive care units: a systematic review. *Clin Infect Dis* 2011;53:379–87.
+
+[20] Heyland DK, Johnson AP, Reynolds SC, Muscedere J. Procalcitonin for reduced antibiotic exposure in the critical care setting: a systematic review and an economic evaluation. *Crit Care Med* 2011;39:1792–9.
+
+[21] Dorizzi RM, Polati E, Sette P, Ferrari A, Rizzotti P, Luzzani A. Procalcitonin in the diagnosis of inflammation in intensive care units. *Clin Biochem* 2006;39:1138–43.
+
+[22] Aouifi A, Piriou V, Blanc P, Bouvier H, Bastien O, Chiari P, et al. Effect of cardiopulmonary bypass on serum procalcitonin and C-reactive protein concentrations. *Br J Anaesth* 1999;83:602–7.
+
+[23] Levy M, Heels-Ansdell D, Hiralal R, Bhandari M, Guyatt G, Yusuf S, et al. Prognostic Value of Troponin and Creatine Kinase Muscle and Brain Isoenzyme Measurement after Noncardiac Surgery: A Systematic Review and Meta-analysis. *Anesthesiology* 2011;114:796–806.
+
+[24] Beattie WS, Karkouti K, Tait G, Steel A, Yip P, McCluskey S, et al. Use of clinically based troponin underestimates the cardiac injury in non-cardiac surgery: a single-centre cohort study in 51,701 consecutive patients. *Can J Anaesth* 2012;59:1013–22.
+
+[25] Devereaux PJ, Chan MT, Alonso-Coello P, Walsh M, Berwanger O, Villar JC, et al. Association between postoperative troponin levels and 30-day mortality among patients undergoing noncardiac surgery. *JAMA* 2012;307:2295–304.
+
+[26] Fournier A, Rodseth R, Aissaoui M, Ibanes C, Goarin J-P, Landais P, et al. The Long-Term Impact of Early Cardiovascular Therapy Intensification for Postoperative Troponin Elevation after Major Vascular Surgery. *Anesth Analg* 2014;119:1053–63.
+
+[27] Devereaux PJ, Xavier D, Pogue J, Guyatt G, Sigamani A, Garutti I, et al. Characteristics and short-term prognosis of perioperative myocardial infarction in patients undergoing noncardiac surgery: a cohort study. *Ann Intern Med* 2011;154:523–8.
+
+[28] Newby LK, Jesse RL, Babb JD, Christenson RH, De Fer TM, Diamond G a, et al. ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents. *J Am Coll Cardiol* 2012;60:2427–63.
+
+[29] Apple FS, Jesse RL, Newby LK, Wu AHB, Christenson RH, Cannon CP, et al. National Academy of Clinical Biochemistry and IFCC Committee for Standardization of Markers of CardiacDamage Laboratory Medicine Practice Guidelines: analytical issues for biochemical markers of acute coronary syndromes. *Clin Chem* 2007;53:547–51.
+
+[30] Thygesen K, Mair J, Giannitsis E, Mueller C, Lindahl B, Blankenberg S, et al. How to use high-sensitivity cardiac troponins in acute cardiac care. *Eur Heart J* 2012;33:2252–7.
+
+[31] Reichlin T, Hochholzer W, Bassetti S, Steuer S, Stelzig C, Hartwiger S, et al. Early diagnosis of myocardial infarction with sensitive cardiac troponin assays. *N Engl J Med* 2009;361:858–67.
+
+[32] Lim W, Whitlock R, Khera V, Devereaux PJ, Tkaczyk A, Heels-Ansdell D, et al. Etiology of troponin elevation in critically ill patients. *J Crit Care* 2010;25:322–8.
+
+[33] Lim W, Holinski P, Devereaux PJ, Tkaczyk A, McDonald E, Clarke F, et al. Detecting myocardial infarction in critical illness using screening troponin measurements and ECG recordings. *Crit Care* 2008;12:R36.
+
+[34] Lim W, Qushmaq I, Devereaux PJ, Heels-Ansdell D, Lauzier F, Ismaila AS, et al. Elevated cardiac troponin measurements in critically ill patients. *Arch Intern Med* 2006;166:2446–54.
+
+[35] Babuin L, Vasile VC, Rio Perez JA, Alegria JR, Chai H-S, Afessa B, et al. Elevated cardiac troponin is an independent risk factor for short- and long-term mortality in medical intensive care unit patients. *Crit Care Med* 2008;36:759–65.
+
+[36] Reynolds T, Cecconi M, Collinson P, Rhodes A, Grounds RM, Hamilton MA. Raised serum cardiac troponin I concentrations predict hospital mortality in intensive care unit patients. *Br J Anaesth* 2012;109:219–24.
+
+[37] Stein R, Gupta B, Agarwal S, Golub J, Bhutani D, Rosman A, et al. Prognostic implications of normal (<0.10 ng/ml) and borderline (0.10 to 1.49 ng/ml) troponin elevation levels in critically ill patients without acute coronary syndrome. *Am J Cardiol* 2008;102:509–12.
+
+[38] Tateishi J, Masutani M, Ohyanagi M, Iwasaki T. Transient increase in plasma brain (B-type) natriuretic peptide after percutaneous transluminal coronary angioplasty. *Clin Cardiol* 2000;23:776–80.
+
+[39] de Lemos JA, Morrow DA, Bentley JH, Omland T, Sabatine MS, McCabe CH, et al. The prognostic value of B-type natriuretic peptide in patients with acute coronary syndromes. *N Engl J Med* 2001;345:1014–21.
+
+[40] Sabatine MS, Morrow DA, de Lemos JA, Gibson CM, Murphy SA, Rifai N, et al. Multimarker approach to risk stratification in non-ST elevation acute coronary syndromes: simultaneous assessment of troponin I, C-reactive protein, and B-type natriuretic peptide. *Circulation* 2002;105:1760–3.
+
+[41] Morrow DA, de Lemos JA, Sabatine MS, Murphy SA, Demopoulos LA, DiBattiste PM, et al. Evaluation of B-type natriuretic peptide for risk assessment in unstable angina/non-ST-elevation myocardial infarction: B-type natriuretic peptide and prognosis in TACTICS-TIMI 18. *J Am Coll Cardiol* 2003;41:1264–72.
+
+[42] Rodseth RN, Biccard BM, Chu R, Lurati Buse GA, Thabane L, Bakhai A, et al. Postoperative B-type Natriuretic Peptide for Prediction of Major Cardiac Events in Patients Undergoing Noncardiac Surgery: Systematic Review and Individual Patient Meta-analysis. *Anesthesiology* 2013;119:270–83.
+
+[43] Rodseth RN, Biccard BM, Le Manach Y, Sessler DI, Lurati Buse G a, Thabane L, et al. Theprognostic value of pre-operative and post-operative B-type natriuretic peptides in patients undergoing noncardiac surgery: B-type natriuretic Peptide and N-terminal fragment of pro-B-type natriuretic Peptide: a systematic review and individual patient. *J Am Coll Cardiol* 2014;63:170–80.
+
+[44] Charpentier J, Luyt C-E, Fulla Y, Vinsonneau C, Cariou A, Grabar S, et al. Brain natriuretic peptide: A marker of myocardial dysfunction and prognosis during severe sepsis. *Crit Care Med* 2004;32:660–5.
+
+[45] Rudiger A, Gasser S, Fischler M, Hornemann T, von Eckardstein A, Maggiorini M. Comparable increase of B-type natriuretic peptide and amino-terminal pro-B-type natriuretic peptide levels in patients with severe sepsis, septic shock, and acute heart failure. *Crit Care Med* 2006;34:2140–4.
+
+[46] Post F, Weilemann LS, Messow C-M, Sinning C, Münzel T. B-type natriuretic peptide as a marker for sepsis-induced myocardial depression in intensive care patients. *Crit Care Med* 2008;36:3030–7.
+
+[47] McLean AS, Huang SJ, Hyams S, Poh G, Nalos M, Pandit R, et al. Prognostic values of B-type natriuretic peptide in severe sepsis and septic shock. *Crit Care Med* 2007;35:1019–26.
+
+[48] Tung RH, Garcia C, Morss AM, Pino RM, Fifer MA, Thompson BT, et al. Utility of B-type natriuretic peptide for the evaluation of intensive care unit shock. *Crit Care Med* 2004;32:1643–7.
+
+[49] Cuthbertson BH, Patel RR, Croal BL, Barclay J, Hillis GS. B-type natriuretic peptide and the prediction of outcome in patients admitted to intensive care. *Anaesthesia* 2005;60:16–21.
+
+[50] Mekontso-Dessap A, de Prost N, Girou E, Braconnier F, Lemaire F, Brun-Buisson C, et al. B-type natriuretic peptide and weaning from mechanical ventilation. *Intensive Care Med* 2006;32:1529–36.
+
+[51] Chien J-Y, Lin M-S, Huang Y-CT, Chien Y-F, Yu C-J, Yang P-C. Changes in B-type natriuretic peptide improve weaning outcome predicted by spontaneous breathing trial. *Crit Care Med* 2008;36:1421–6.
+
+[52] Gerbaud E, Erickson M, Grenouillet-Delacre M, Beauvieux M-C, Coste P, Durrieu-Jaïs C, et al. Echocardiographic evaluation and N-terminal pro-brain natriuretic peptide measurement of patients hospitalized for heart failure during weaning from mechanical ventilation. *Minerva Anestesiol* 2012;78:415–25.
+
+[53] Lara TM, Hajjar LA, de Almeida JP, Fukushima JT, Barbas CSV, Rodrigues ARB, et al. High levels of B-type natriuretic peptide predict weaning failure from mechanical ventilation in adult patients after cardiac surgery. *Clinics (Sao Paulo)* 2013;68:33–8.
+
+[54] Ma G, Liao W, Qiu J, Su Q, Fang Y, Gu B. N-terminal prohormone B-type natriuretic peptide and weaning outcome in postoperative patients with pulmonary complications. *J Int Med Res* 2013;41:1612–21.
+
+[55] Farghaly S, Galal M, Hasan AA, Nafady A. Brain natriuretic peptide as a predictor of weaning from mechanical ventilation in patients with respiratory illness. *Aust Crit Care* 2015;28:116–21.
+
+[56] Ouanes-Besbes L, Dachraoui F, Ouanes I, Bouneb R, Jalloul F, Dlala M, et al. NT-proBNP levels at spontaneous breathing trial help in the prediction of post-extubation respiratory distress.Intensive Care Med 2012;38:788–95.
+
+- [57] Zapata L, Vera P, Roglan A, Gich I, Ordonez-Llanos J, Betbesé AJ. B-type natriuretic peptides for prediction and diagnosis of weaning failure from cardiac origin. *Intensive Care Med* 2011;37:477–85.
+- [58] Dres M, Teboul J-L, Anguel N, Guerin L, Richard C, Monnet X. Extravascular lung water, B-type natriuretic peptide, and blood volume contraction enable diagnosis of weaning-induced pulmonary edema. *Crit Care Med* 2014;42:1882–9.
+- [59] Grasso S, Leone A, De Michele M, Anaclerio R, Cafarelli A, Ancona G, et al. Use of N-terminal pro-brain natriuretic peptide to detect acute cardiac dysfunction during weaning failure in difficult-to-wean patients with chronic obstructive pulmonary disease. *Crit Care Med* 2007;35:96–105.
+- [60] Mekontso Dessap A, Roche-Campo F, Kouatchet A, Tomicic V, Beduneau G, Sonneville R, et al. Natriuretic peptide-driven fluid management during ventilator weaning: a randomized controlled trial. *Am J Respir Crit Care Med* 2012;186:1256–63.
+- [61] Hui P, Cook DJ, Lim W, Fraser GA, Arnold DM. The frequency and clinical significance of thrombocytopenia complicating critical illness: a systematic review. *Chest* 2011;139:271–8.
+- [62] Thiolliere F, Serre-Sapin AF, Reignier J, Benedit M, Constantin JM, Lebert C, et al. Epidemiology and outcome of thrombocytopenic patients in the intensive care unit: results of a prospective multicenter study. *Intensive Care Med* 2013;39:1460–8.
+- [63] Vanderschueren S, De Weerd A, Malbrain M, Vankerschaever D, Frans E, Wilmer A, et al. Thrombocytopenia and prognosis in intensive care. *Crit Care Med* 2000;28:1871–6.
+- [64] Strauss R, Wehler M, Mehler K, Kreutzer D, Koebnick C, Hahn EG. Thrombocytopenia in patients in the medical intensive care unit: bleeding prevalence, transfusion requirements, and outcome. *Crit Care Med* 2002;30:1765–71.
+- [65] Crowther MA, Cook DJ, Meade MO, Griffith LE, Guyatt GH, Arnold DM, et al. Thrombocytopenia in medical-surgical critically ill patients: prevalence, incidence, and risk factors. *J Crit Care* 2005;20:348–53.
+- [66] Lim SY, Jeon EJ, Kim H-J, Jeon K, Um S-W, Koh W-J, et al. The incidence, causes, and prognostic significance of new-onset thrombocytopenia in intensive care units: a prospective cohort study in a Korean hospital. *J Korean Med Sci* 2012;27:1418–23.
+- [67] Williamson DR, Lesur O, Tétrault J-P, Nault V, Pilon D. Thrombocytopenia in the critically ill: prevalence, incidence, risk factors, and clinical outcomes. *Can J Anaesth* 2013;60:641–51.
+- [68] Akca S, Haji-Michael P, de Mendonça A, Suter P, Levi M, Vincent JL. Time course of platelet counts in critically ill patients. *Crit Care Med* 2002;30:753–6.
+- [69] Moreau D, Timsit J-F, Vesin A, Garrouste-Orgeas M, de Lassence A, Zahar J-R, et al. Platelet count decline: an early prognostic marker in critically ill patients with prolonged ICU stays. *Chest* 2007;131:1735–41.
+- [70] Lauzier F, Arnold DM, Rabbat C, Heels-Ansdell D, Zarychanski R, Dodek P, et al. Risk factors and impact of major bleeding in critically ill patients receiving heparin thromboprophylaxis. *Intensive Care Med* 2013;39:2135–43.- [71] Dara SI, Rana R, Afessa B, Moore SB, Gajic O. Fresh frozen plasma transfusion in critically ill medical patients with coagulopathy. *Crit Care Med* 2005;33:2667–71.
+- [72] Walsh TS, Stanworth SJ, Prescott RJ, Lee RJ, Watson DM, Wyncoll D, et al. Prevalence, management, and outcomes of critically ill patients with prothrombin time prolongation in United Kingdom intensive care units. *Crit Care Med* 2010;38:1939–46.
+- [73] Talving P, Benfield R, Hadjizacharia P, Inaba K, Chan LS, Demetriades D. Coagulopathy in severe traumatic brain injury: a prospective study. *J Trauma* 2009;66:55-61-2.
+- [74] Lauzier F, Cook D, Griffith L, Upton J, Crowther M. Fresh frozen plasma transfusion in critically ill patients. *Crit Care Med* 2007;35:1655–9.
+- [75] Deitcher SR. Interpretation of the international normalised ratio in patients with liver disease. *Lancet (London, England)* 2002;359:47–8.
+- [76] Guervil DJ, Rosenberg AF, Winterstein AG, Harris NS, Johns TE, Zumberg MS. Activated partial thromboplastin time versus antifactor Xa heparin assay in monitoring unfractionated heparin by continuous intravenous infusion. *Ann Pharmacother* 2011;45:861–8.
+- [77] Takemoto CM, Streiff MB, Shermock KM, Kraus PS, Chen J, Jani J, et al. Activated partial thromboplastin time and anti-xa measurements in heparin monitoring: biochemical basis for discordance. *Am J Clin Pathol* 2013;139:450–6.
+- [78] European Manual of Clinical Microbiology 1st Edition. Lavoisier; 2012.
+- [79] Cockerill FR, Wilson JW, Vetter EA, Goodman KM, Torgerson CA, Harmsen WS, et al. Optimal testing parameters for blood cultures. *Clin Infect Dis* 2004;38:1724–30.
+- [80] Lee A, Mirrett S, Reller LB, Weinstein MP. Detection of bloodstream infections in adults: how many blood cultures are needed? *J Clin Microbiol* 2007;45:3546–8.
+- [81] Lamy B, Roy P, Carret G, Flandrois J-P, Delignette-Muller ML. What is the relevance of obtaining multiple blood samples for culture? A comprehensive model to optimize the strategy for diagnosing bacteremia. *Clin Infect Dis* 2002;35:842–50.
+- [82] Rello J, Ollendorf DA, Oster G, Vera-Llonch M, Bellm L, Redman R, et al. Epidemiology and outcomes of ventilator-associated pneumonia in a large US database. *Chest* 2002;122:2115–21.
+- [83] Chastre J, Fagon J-Y. Ventilator-associated pneumonia. *Am J Respir Crit Care Med* 2002;165:867–903.
+- [84] Bekaert M, Timsit J-F, Vansteelandt S, Depuydt P, Vésin A, Garrouste-Orgeas M, et al. Attributable mortality of ventilator-associated pneumonia: a reappraisal using causal analysis. *Am J Respir Crit Care Med* 2011;184:1133–9.
+- [85] Berton DC, Kalil AC, Teixeira PJZ. Quantitative versus qualitative cultures of respiratory secretions for clinical outcomes in patients with ventilator-associated pneumonia. *Cochrane Database Syst Rev* 2014:CD006482.
+- [86] Klompas M. Does This Patient Have Ventilator-Associated Pneumonia? *JAMA* 2007;297:1583–93.
+- [87] Delclaux C, Roupie E, Blot F, Brochard L, Lemaire F, Brun-Buisson C. Lower respiratory tract colonization and infection during severe acute respiratory distress syndrome: incidence anddiagnosis. *Am J Respir Crit Care Med* 1997;156:1092–8.
+
+[88] Luna CM, Sarquis S, Niederman MS, Sosa FA, Otaola M, Bailleur N, et al. Is a strategy based on routine endotracheal cultures the best way to prescribe antibiotics in ventilator-associated pneumonia? *Chest* 2013;144:63–71.
+
+[89] Gerbeaux P, Ledoray V, Boussuges A, Molenat F, Jean P, Sainty JM. Diagnosis of nosocomial pneumonia in mechanically ventilated patients: repeatability of the bronchoalveolar lavage. *Am J Respir Crit Care Med* 1998;157:76–80.
+
+[90] Voirin N, Barret B, Metzger M-H, Vanhems P. Hospital-acquired influenza: a synthesis using the Outbreak Reports and Intervention Studies of Nosocomial Infection (ORION) statement. *J Hosp Infect* 2009;71:1–14.
+
+[91] Macesic N, Kotsimbos TC, Kelly P, Cheng AC. Hospital-acquired influenza in an Australian sentinel surveillance system. *Med J Aust* 2013;198:370–2.
+
+[92] Bénet T, Régis C, Voirin N, Robert O, Lina B, Cronenberger S, et al. Influenza vaccination of healthcare workers in acute-care hospitals: a case-control study of its effect on hospital-acquired influenza among patients. *BMC Infect Dis* 2012;12:30.
+
+[93] Diagnostic et antibiothérapie des infections urinaires bactériennes communautaires chez l'adulte. Conférence de Consensus co-organisée par la Société de Pathologie Infectieuse de Langue Française (SPLIF) et l'Association Française d'Urologie (AFU). AFSSAP 2008.
+
+[94] Révision des recommandations de bonne pratique pour la prise en charge et la prévention des Infections Urinaires Associées aux Soins (IUAS) de l'adulte 2015.
+
+[95] Bauer TM, Lalvani A, Fehrenbach J, Steffen I, Aponte JJ, Segovia R, et al. Derivation and validation of guidelines for stool cultures for enteropathogenic bacteria other than *Clostridium difficile* in hospitalized adults. *JAMA* 2001;285:313–9.
+
+[96] Référentiel en microbiologie médicale. (4ème édition). 2015. Société Française de Microbiologie ed. 370p. n.d.
+
+[97] Hall JB, White SR, Karrison T. Efficacy of daily routine chest radiographs in intubated, mechanically ventilated patients. *Crit Care Med* 1991;19:689–93.
+
+[98] Henschke CI, Yankelevitz DF, Wand A, Davis SD, Shiau M. Chest radiography in the ICU. *Clin Imaging* n.d.;21:90–103.
+
+[99] Clec'h C, Simon P, Hamdi A, Hamza L, Karoubi P, Fosse J-P, et al. Are daily routine chest radiographs useful in critically ill, mechanically ventilated patients? A randomized study. *Intensive Care Med* 2008;34:264–70.
+
+[100] Hejblum G, Chalumeau-Lemoine L, loos V, Bo??lle PY, Salomon L, Simon T, et al. Comparison of routine and on-demand prescription of chest radiographs in mechanically ventilated adults: a multicentre, cluster-randomised, two-period crossover study. *Lancet* 2009;374:1687–93.
+
+[101] Oba Y, Zaza T. Abandoning daily routine chest radiography in the intensive care unit: meta-analysis. *Radiology* 2010;255:386–95.
+
+[102] Lichtenstein D, Goldstein I, Mourgeon E, Cluzel P, Grenier P, Rouby J-J. Comparative diagnostic performances of auscultation, chest radiography, and lung ultrasonography in acute respiratory distress syndrome. *Anesthesiology* 2004;100:9–15.- [103] Rocco M, Carbone I, Morelli A, Bertoletti L, Rossi S, Vitale M, et al. Diagnostic accuracy of bedside ultrasonography in the ICU: feasibility of detecting pulmonary effusion and lung contusion in patients on respiratory support after severe blunt thoracic trauma. *Acta Anaesthesiol Scand* 2008;52:776–84.
+- [104] Xirouchaki N, Magkanas E, Vaporidi K, Kondili E, Plataki M, Patrianakos A, et al. Lung ultrasound in critically ill patients: comparison with bedside chest radiography. *Intensive Care Med* 2011;37:1488–93.
+- [105] Manno E, Navarra M, Faccio L, Motevallian M, Bertolaccini L, Mfochivè A, et al. Deep impact of ultrasound in the intensive care unit: the "ICU-sound" protocol. *Anesthesiology* 2012;117:801–9.
+- [106] ACR Appropriateness Criteria n.d.
+- [107] Ruskin JA, Gurney JW, Thorsen MK, Goodman LR. Detection of pleural effusions on supine chest radiographs. *AJR Am J Roentgenol* 1987;148:681–3.
+- [108] Mirvis SE, Tobin KD, Kostrubiak I, Belzberg H. Thoracic CT in detecting occult disease in critically ill patients. *AJR Am J Roentgenol* 1987;148:685–9.
+- [109] Hurst JM, Davis K, Johnson DJ, Branson RD, Campbell RS, Branson PS. Cost and complications during in-hospital transport of critically ill patients: a prospective cohort study. *J Trauma* 1992;33:582–5.
+- [110] Miller WT, Tino G, Friedburg JS. Thoracic CT in the intensive care unit: assessment of clinical usefulness. *Radiology* 1998;209:491–8.
+- [111] Tocino IM, Miller MH, Frederick PR, Bahr AL, Thomas F. CT detection of occult pneumothorax in head trauma. *AJR Am J Roentgenol* 1984;143:987–90.
+- [112] Müller NL. Imaging of the pleura. *Radiology* 1993;186:297–309.

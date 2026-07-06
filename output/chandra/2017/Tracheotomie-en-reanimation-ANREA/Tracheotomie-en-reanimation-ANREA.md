@@ -1,0 +1,593 @@
+![Check for updates icon](328cc7f8fc49d77de6c5ab2035eed2f6_4_img.webp)
+
+## Trachéotomie en réanimation
+
+Jean-Louis Trouillet<sup>a</sup>, Olivier Collange<sup>b,c</sup>, Fouad Belafia<sup>d</sup>, François Blot<sup>e</sup>, Gilles Capellier<sup>f,g</sup>, Eric Cesareo<sup>h,i</sup>, Jean-Michel Constantin<sup>j,k</sup>, Alexandre Demoule<sup>l,m</sup>, Jean-Luc Diehl<sup>n,o</sup>, Pierre-Grégoire Guinot<sup>p,q</sup>, Franck Jegoux<sup>r</sup>, Erwan L'Her<sup>s,t</sup>, Charles-Edouard Luyt<sup>a,u</sup>, Yazine Mahjoub<sup>v</sup>, Julien Mayaux<sup>l,m</sup>, Hervé Quintard<sup>w,x</sup>, François Ravat<sup>y</sup>, Sébastien Vergez<sup>z</sup>, Julien Amour<sup>aa</sup>, Max Guillot<sup>c,ab</sup>
+
+Disponible sur internet le :  
+7 septembre 2018
+
+1. a. Assistance publique-hôpitaux de Paris, groupe hospitalier Pitié-Salpêtrière, service de réanimation, 75013 Paris, France
+2. b. Hôpitaux universitaires de Strasbourg, Nouvel Hôpital Civil, pôle d'anesthésie-réanimation chirurgicale, SAMU, SMUR, NHC, 1, place de l'Hôpital, 67000 Strasbourg, France
+3. c. Université de Strasbourg, EA 3072, FMTS, 67000 Strasbourg, France
+4. d. Université de Montpellier, hôpital Saint-Éloi, Inserm, U1046, anesthésie et réanimation, unité de recherche, 34000 Montpellier, France
+5. e. Département de réanimation chirurgicale, Gustave-Roussy Cancer Campus, 94800 Villejuif, France
+6. f. CHRU de Besançon, université de Franche-Comté, EA3920, 25000 Besançon, France
+7. g. Australian and New Zealand intensive care research centre, department of epidemiology and preventive medicine, Monash University Clayton, Australia
+8. h. Hôpital Edouard-Herriot, SAMU de Lyon et département des urgences, hospices civils de Lyon, 69003 Lyon, France
+9. i. Université Lyon 1, Lyon Sud, école de médecine, 69600 Oullins, France
+10. j. CHU de Clermont-Ferrand, département de médecine préopératoire, 63000 Clermont-Ferrand, France
+11. k. Université d'Auvergne, EA-7281, R2D2, 63000 Clermont-Ferrand, France
+12. l. Inserm, UMRS1158, neurophysiologie respiratoire expérimentale, clinique Sorbonne université, 75013 Paris, France
+13. m. AP-HP, groupe hospitalier Pitié-Salpêtrière Charles-Foix, service de pneumologie et réanimation médicale du département R3S, Sorbonne Université Paris, 75013 Paris, France
+14. n. AP-HP, hôpital européen Georges-Pompidou, Réanimation, 75016 Paris, France
+15. o. Inserm UMR-S1140 universités Paris Descartes et Sorbonne Paris Cité, 75006 Paris, France
+16. p. CHU d'Amiens, département d'anesthésiologie et de réanimation, place Victor-Pauchet, 80054 Amiens, France
+17. q. Jules-Verne université de Picardie, Inserm, U1088, 80054 Amiens, France
+18. r. CHU de Pontchaillou, service ORL et chirurgie cervico-maxillofaciale, rue H.-Le-Guilloux, 35033 Rennes cedex 9, France
+19. s. CeSim/LaTIM Inserm, UMR 1101, université de Bretagne Occidentale, rue Camille-Desmoulins, 29200 Brest cedex, France
+20. t. CHRU de Brest, médecine intensive et réanimation, boulevard Tanguy-Prigent, 29200 Brest cedex, France
+21. u. Université Paris 06, universités de la Sorbonne, Inserm, UMRS-1166, UPMC, ICAN, Institut de cardiométabolisme et de nutrition, 75013 Paris, France
+22. v. CHU d'Amiens-Picardie, département d'anesthésie et de réanimation, 80054 Amiens, France
+23. w. CHU de Nice, hôpital Pasteur 2, réanimation médico-chirurgicale, 30, voie Romaine, 06000 Nice, France
+24. x. CNRS, UMR 7275, IPMC, 06560 Sophia Antipolis Valbonne, France
+
+\* RFE commune Société de réanimation de langue française – Société française d'anesthésie et de réanimation (SRLF – SFAR) en collaboration avec les Sociétés française de médecine d'urgence, Société française d'oto-rhino-laryngologie (SFMU et SFORL).
+
+\*\* Texte validé par le Conseil d'administration de la SFAR (15/12/2016) et de la SRLF (13/12/2016).
+
+\*\*\* Ce texte a été publié en anglais dans *Anaesthesia, Critical Care and Pain Medicine* (Anaesth Crit Care Pain Med 2018;37(3):281-294. <https://doi.org/10.1016/j.accpm.2018.02.012> [Epub 2018 Mar 17]) et dans *Annals of Intensive Care* (Ann Intensive Care 2018;8(1):37. <https://doi.org/10.1186/s13613-018-0381-y>).y. Centre hospitalier St-Joseph et St-Luc, centre des brûlés, 20, quai Claude-Bernard, 69007 Lyon, France  
+ z. CHU de Toulouse, ORL chirurgie cervicofaciale, Rangueil-Larrey, 24, chemin de Pouvoirville, 31059 Toulouse cedex 9, France  
+ aa. Groupe hospitalier Pitié-Salpêtrière, département d'anesthésie et de réanimation chirurgicale, institut de cardiologie, 47-83, boulevard de l'Hôpital, 75013 Paris, France  
+ ab. Hôpitaux universitaires de Strasbourg, hôpital de Hautepierre, réanimation médicale, avenue Molière, 67200 Strasbourg, France
+
+#### Correspondance :
+
+Olivier Collange, Hôpitaux universitaires de Strasbourg, pôle anesthésie, réanimation chirurgicale, SAMU-SMUR, 1, place de l'Hôpital, 67000 Strasbourg, France.  
+ olivier.collange@chru-strasbourg.fr
+
+#### Mots clés
+
+Trachéotomie  
+ Réanimation
+
+### Résumé
+
+La trachéotomie est une procédure couramment réalisée en réanimation, mais avec de très grandes disparités selon les équipes, aussi bien en termes de fréquence que de modalité (percutanée ou chirurgicale). Les études concernant la trachéotomie en réanimation sont très hétérogènes et parfois même contradictoires. Notre objectif était de mener une analyse systématique des données publiées pour formuler des recommandations concernant la trachéotomie en réanimation chez le patient adulte et hors contexte d'urgence. Les recommandations ont été produites à l'aide de la méthode GRADE par un groupe de seize experts et de deux coordonnateurs issu de la Société de réanimation de langue française et de la Société française d'anesthésie et de réanimation et avec la participation de la Société française de médecine d'urgence et de la Société française d'ORL. Cinq champs ont été définis : (1) indications et contre-indications, (2) techniques de mise en place, (3) modalités pratiques de réalisation, (4) management des patients trachéotomisés et (5) décanulation en réanimation. Le groupe d'expert a formulé 8 recommandations formalisées, 10 avis d'experts et a élaboré 3 protocoles de soins. Parmi les 8 recommandations formalisées, 2 ont un niveau de preuve élevé (Grade 1+/–), et 6 un niveau de preuve faible (Grade 2+/–). L'ensemble des recommandations, avis d'expert et protocoles de soins a obtenu un accord fort.
+
+#### Keywords
+
+Tracheotomy  
+ ICU
+
+### Summary
+
+#### Tracheotomy in ICU
+
+*Tracheotomy is widely used in intensive care units, albeit with great disparities between medical teams in terms of frequency and modality. Indications and techniques are, however, associated with variable levels of evidence based on inhomogeneous or even contradictory literature. Our aim was to conduct a systematic analysis of the published data in order to provide guidelines. We present herein recommendations for the use of tracheotomy in adult critically ill patients developed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) method. These guidelines were conducted by a group of experts from the French Intensive Care Society (Société de réanimation de langue française) and the French Society of Anesthesia and Intensive Care Medicine (Société française d'anesthésie réanimation) with the participation of the French Emergency Medicine Association (Société française de médecine d'urgence), the French Society of Otorhinolaryngology. Sixteen experts and two coordinators agreed to consider questions concerning tracheotomy and its practical implementation. Five topics were defined: indications and contraindications for tracheotomy in intensive care, tracheotomy techniques in intensive care, modalities of tracheotomy in intensive care, management of patients undergoing tracheotomy in intensive care, and decannulation in intensive care. The summary made by the experts and the application of GRADE methodology led to the drawing up of 8 formal guidelines, 10 recommendations, and 3 treatment protocols. Among the 8 formal guidelines, 2 have a high level of proof (Grade 1+/–) and 6 a low level of proof (Grade 2+/–). For the 10 recommendations, GRADE methodology was not applicable and instead 10 expert opinions were produced.*## Coordonnateurs d'experts
+
+SRLF : Jean-Louis Trouillet, groupe hospitalier Pitié-Salpêtrière, réanimation médicale, boulevard de l'Hôpital 75013 Paris, France.
+
+SFAR : Olivier Collange, hôpitaux universitaires de Strasbourg, nouvel hôpital civil, pôle d'anesthésie-réanimation chirurgicale, SAMU, SMUR, NHC, 1, place de l'Hôpital, 67000 Strasbourg, France.  
+EA 3072, FMTS, université de Strasbourg, Strasbourg, France.
+
+## Organisateurs
+
+SRLF : Max Guillot, hôpitaux universitaires de Strasbourg, hôpital de Hautepierre, réanimation médicale, avenue Molière, 67200 Strasbourg, France. EA 3072, FMTS, université de Strasbourg, Strasbourg, France.
+
+SFAR : Julien Amour, groupe hospitalier Pitié-Salpêtrière, département d'anesthésie et de réanimation chirurgicale, institut de cardiologie, 47-83, boulevard de l'Hôpital, 75013 Paris, France.  
+Groupes d'experts de la SRLF : F. Blot, G. Capellier, A. Demoule, J.-L. Diehl, E. L'Her, C.-E. Luyt, J. Mayaux.
+
+Groupes d'experts de la SFAR : F. Belafia, J.-M. Constantin, P.-G. Guinot, Y. Mahjoub, H. Quintard, F. Ravat.
+
+Groupe d'experts de la SFMU : E. Cesareo.
+
+Groupes d'experts de la SFORL : F. Jegoux, S. Vergez.
+
+## Groupes de lecture
+
+Commission des référentiels et de l'évaluation de la SRLF : L. Donetti (secrétaire), M. Alves, O. Brissaud, R. Bruyère, V. Das, L. De Saint Blanquat, M. Guillot, E. L'Her, E. Mariotte, C. Mathien, C. Mossadegh, V. Peigne, F. Plouvier, D. Schnell.
+
+Comité des référentiels cliniques de la SFAR : D. Fletcher (président), L. Velly (secrétaire), J. Amour, S. Ausset, G. Chanques, V. Compere, F. Espitalier, M. Garnier, E. Gayat, P. Cuvillon, J.-M. Malinovsky, B. Rozec.
+
+## Introduction
+
+La trachéotomie est une procédure couramment réalisée en réanimation, mais avec de très grandes disparités selon les équipes, aussi bien en termes de fréquence (de 5 à 54 %) que de modalité, chirurgicale ou percutanée [1,2]. Bien qu'elle soit pratiquée de longue date, son utilité, ses indications, son délai et sa technique de réalisation sont sujets à controverse [3,4]. De plus, les avantages réels ou potentiels de la trachéotomie sont à mettre en balance avec ses risques, rares, mais parfois sérieux. Les avantages sont une réduction des lésions pharyngolaryngées, un moindre risque de sinusite, une réduction des besoins de sédation, une hygiène bucco-pharyngée facilitée, une amélioration du confort du patient avec une communication plus aisée, une facilitation des soins par le personnel infirmier, le maintien d'une déglutition, la fermeture possible de la glotte, une réinsertion plus facile en cas de décanulation accidentelle et enfin un sevrage plus facile de la ventilation mécanique [5]. De plus, sa réalisation précoce a
+
+été associée dans certaines études à une diminution de l'incidence des pneumonies acquises sous ventilation mécanique, une diminution de la durée de ventilation mécanique et de la durée d'hospitalisation en réanimation, donc des coûts, et enfin une réduction de la mortalité hospitalière [6,7]. Plusieurs essais randomisés récents n'ont pas mis en évidence ces effets bénéfiques [8-11]. Les complications les plus fréquentes peuvent être qualifiées de mineures (par exemple saignement péri-orificiel sans gravité). Des complications rares et mortelles comme une lésion du tronc artériel brachiocéphalique sont rapportées.
+
+Parmi les controverses concernant la trachéotomie en réanimation, celle sur son indication est probablement la plus débattue. La trachéotomie est le plus souvent discutée en cas d'échec(s) d'extubation et de ventilation mécanique prolongée. Trois remarques doivent être apportées. Premièrement, il n'existe actuellement aucun consensus pour définir ce que sont d'une part un échec d'extubation (un, deux, trois essais ? dans quelles conditions ?) et d'autre part une ventilation mécanique prolongée. Deuxièmement, il peut sembler intéressant de prévenir les échecs d'extubation et de ne pas additionner les effets délétères d'une intubation prolongée avec ceux de la trachéotomie. Dans cette acceptation, il convient au réanimateur de prédire l'échec d'extubation et la durée de ventilation pour réaliser la trachéotomie sans délai [5]. Or, la prédiction de la durée de ventilation est une « science » inexacte [12,13]. Troisièmement, la durée de la ventilation mécanique et le succès de l'extubation dépendent de l'ensemble de la prise en charge en réanimation (notamment le traitement approprié d'une infection, l'équilibre de la balance hydrosodée et acidobasique, la nutrition et la sédation). En particulier, il est indispensable de disposer d'un protocole de sédation.
+
+Les dernières recommandations de la SRLF concernant les voies d'abord trachéal des malades ventilés en réanimation sont anciennes (1998) [14]. Il n'existe pas de recommandations internationales récentes, mais seulement de rares recommandations nationales [15,16]. En l'absence de critères clairement définis et indiscutables, la réalisation de cette procédure repose donc le plus souvent sur le seul jugement de l'équipe médicale en charge du patient. Depuis une dizaine d'années, de nouvelles données cliniques sont apparues dans la littérature médicale souvent compilées sous forme de méta-analyses [17-19]. C'est dans ce contexte que la Société de réanimation de langue française (SRLF) et la Société française d'anesthésie et de réanimation (SFAR) ont décidé d'élaborer ces RFE intitulées « trachéotomie en réanimation ». L'objectif de ces RFE est d'établir les indications, les contre-indications, et les modalités de réalisation et de surveillance de cette procédure en fonction des données actuelles de la littérature.
+
+## Méthode
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la Société de réanimation de languefrançaise (SRLF) et la Société française d'anesthésie et réanimation (SFAR). Dans un premier temps, le comité d'organisation a défini les questions à traiter avec les coordonnateurs. Il a ensuite désigné les experts en charge de chacune d'entre elles. Les questions ont été formulées selon un format PICO (Patients Intervention Comparaison Outcome). L'analyse de la littérature et la formulation des recommandations ont ensuite été conduites selon la méthodologie GRADE (Grade of Recommendation Assessment, Development and Evaluation). Un niveau de preuve devait être défini pour chacune des références bibliographiques citées en fonction du type de l'étude. Ce niveau de preuve pouvait être réévalué en tenant compte de la qualité méthodologique de l'étude. Un niveau global de preuve était déterminé pour chaque critère de jugement en tenant compte des niveaux de preuve de chacune des références bibliographiques, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, de l'analyse de coût... Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » (il faut faire, ne pas faire... GRADE 1+ ou 1-). Un niveau global de preuve modéré, faible ou très faible aboutissait à l'écriture d'une recommandation « optionnelle » (il faut probablement faire ou probablement ne pas faire... GRADE 2+ ou 2-). Lorsque la littérature était inexistante, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'expert (les experts suggèrent...). Les propositions de recommandations étaient présentées et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation était alors évaluée par chacun des experts et soumise à leurs cotations individuelles à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La cotation collective était établie selon une méthodologie GRADE grid. Pour valider une recommandation sur un critère, au moins 50 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. Pour qu'une recommandation soit forte, au moins 70 % des participants devaient avoir une opinion qui allait globalement dans la même direction. En l'absence d'accord fort, les recommandations étaient reformulées et, de nouveau, soumises à cotation dans l'objectif d'aboutir à un consensus.
+
+## Champs des recommandations – Synthèse des résultats
+
+Du fait de la spécificité de la gestion en urgence des voies aériennes (en médecine d'urgence ou en réanimation, et en particulier chez le patient ayant un traumatisme ou une brûlure dans la région cervicofaciale) nous n'avons inclus ce champ ni dans notre analyse de la littérature, ni dans les recommandations formulées. Nous n'aborderons donc la trachéotomie que
+
+dans le cadre de la trachéotomie programmée en réanimation chez l'adulte.
+
+Cinq champs ont été définis : indications et contre-indications de la trachéotomie en réanimation, techniques de trachéotomie en réanimation, modalités de réalisation de la trachéotomie en réanimation, prise en charge du patient ayant une trachéotomie en réanimation et décanulation en réanimation. Une recherche bibliographique extensive sur les dernières années a été réalisée à partir des bases de données PubMed et Cochrane. Pour être retenues dans l'analyse, les publications devaient être rédigées en langue anglaise ou française.
+
+Le travail de synthèse des experts et l'application de la méthode GRADE ont permis d'établir 18 recommandations et 3 protocoles de soins. Parmi les 8 recommandations formalisées, 2 ont un niveau de preuve élevé (Grade 1+/–), 6 un niveau de preuve faible (Grade 2+/–). Pour 10 recommandations, la méthode GRADE ne pouvait pas s'appliquer, aboutissant à 10 avis d'experts. Après 2 tours de cotations et divers amendements, un accord fort a été obtenu pour l'ensemble des recommandations et des protocoles.
+
+## Premier champ : indications et contre-indications de la trachéotomie en réanimation
+
+R1.1 - Les experts suggèrent que la trachéotomie soit proposée en cas de sevrage ventilatoire prolongé et de pathologie neuromusculaire acquise et potentiellement réversible.
+
+Avis d'experts
+
+Argumentaire : le terme neuromusculaire se réfère à des atteintes cérébrospinales, neuromotrices et musculaires acquises et potentiellement réversibles (par exemple : syndrome de Guillain-Barré, neuromyopathie acquise en réanimation, myasthénie, myélite lupique).
+
+Aucune étude n'a pu mettre en évidence de façon formelle que la réalisation d'une trachéotomie améliorerait le pronostic vital des patients atteints de ce type de pathologies. Dans cette indication, aucune étude randomisée n'a évalué l'intérêt spécifique de la trachéotomie précoce par rapport à la trachéotomie tardive. Néanmoins, des séries souvent rétrospectives suggèrent que la trachéotomie tardive augmente le risque de pneumopathies acquises sous ventilation mécanique [20]. La trachéotomie peut être proposée lorsque le sevrage de la ventilation mécanique est prolongé : sevrage non effectif plus de 7 jours après la première épreuve de ventilation spontanée [21].
+
+En cas de syndrome de Guillain-Barré, la trachéotomie ne devrait être envisagée que si le sevrage de la ventilation mécanique invasive n'est pas effectif au cours de l'immunothérapie (immunoglobulines intraveineuses ou échanges plasmatiques). À la fin de l'immunothérapie, l'association d'un déficit de flexion du pied et d'unbloc moteur sciatique pourrait prédire précocement une ventilation mécanique invasive longue (supérieure à 15 jours) dans 100 % des cas [22]. Isolément, le déficit de flexion du pied à la fin de l'immunothérapie avait une valeur prédictive positive d'une ventilation mécanique longue de 82 %.
+
+R1.2 - Les experts suggèrent que l'indication de la trachéotomie chez les patients ayant une insuffisance respiratoire chronique fasse l'objet d'une concertation multidisciplinaire.
+
+Avis d'experts
+
+Argumentaire : l'intérêt de la ventilation mécanique intermittente dans la prise en charge des patients atteints d'insuffisance respiratoire chronique dépasse le cadre de ces recommandations. Lorsque la ventilation mécanique intermittente est indiquée, il ne semble pas nécessaire de disposer d'étude randomisée pour recommander en première intention la ventilation non invasive plutôt que la réalisation d'une trachéotomie.
+
+La décompensation d'une insuffisance respiratoire chronique mettant en jeu le pronostic vital est prise en charge le plus souvent en réanimation. Dans ce cadre, certaines formes d'insuffisance respiratoire chronique, notamment celles qui sont la conséquence de désordres neurologiques peuvent bénéficier d'une trachéotomie permettant une ventilation mécanique et une simplification de la gestion des voies aériennes supérieures. Une méta-analyse récente (2016) incluant les données issues d'un essai randomisé et de 25 études observationnelles suggère que la ventilation mécanique intermittente permettrait d'améliorer la qualité de vie des patients insuffisants respiratoires chroniques [23]. La méta-analyse confondait les patients recevant la ventilation mécanique intermittente de façon non invasive et les patients trachéotomisés. Plus spécifiquement, plusieurs études se sont intéressées à l'intérêt de la trachéotomie lors de la sclérose latérale amyotrophique (SLA). Un travail publié en 2011 décrit l'expérience d'une équipe italienne ayant réalisé une trachéotomie chez des patients souffrant de SLA. Sur un total de 60 patients, 44 (70 %) ont quitté l'hôpital en étant complètement dépendants de la ventilation mécanique, 17 (28 %) étaient partiellement dépendants et un seul patient était complètement sevré de la ventilation mécanique. À un an, les 13 patients encore en vie (22 %) avaient une qualité de vie jugée similaire à celle de patients porteurs de SLA n'ayant pas eu de trachéotomie [24].
+
+Dans ce type de situation, le malade et ses proches doivent être informés que la trachéotomie ne modifie pas le pronostic de la maladie causale. L'intérêt de la trachéotomie dans l'amélioration du confort du patient et la prise en charge au cours du séjour en réanimation doivent être précisément évalué, en particulier avec l'équipe médicale
+
+référente. En effet, la facilitation de la gestion des voies aériennes supérieures ne se traduit pas obligatoirement par une amélioration du confort ; la trachéotomie pourrait prolonger de façon induite les souffrances liées à la maladie sous-jacente. Dans un contexte d'insuffisance respiratoire chronique, ces considérations éthiques doivent être mûrement réfléchies et débattues avec le malade et ses proches avant la réalisation de la trachéotomie.
+
+R1.3 - Il ne faut pas réaliser de trachéotomie en réanimation avant le quatrième jour de ventilation mécanique.
+
+(Grade 1–) Accord FORT
+
+Argumentaire : la question de la précocité de la réalisation de la trachéotomie en réanimation est très difficile à analyser, car :
+
+- • il faut au préalable avoir démontré l'intérêt propre de la trachéotomie (indépendamment de son délai de réalisation) ;
+- • et la plupart des études comparant trachéotomie précoce et tardive incluent dans le groupe « tardif » des patients non trachéotomisés.
+
+Plusieurs études prospectives de bonne qualité portent sur des critères « objectifs » (mortalité, incidence des pneumopathies acquises sous ventilation mécanique – PAVM –, durées de la ventilation mécanique et du séjour en réanimation). La trachéotomie précoce (réalisée en général avant le 4<sup>e</sup> jour de ventilation mécanique) n'est pas associée à une diminution de la mortalité, de l'incidence des PAVM, ou de la durée de ventilation mécanique [8-11,25,26]. Elle semble réduire la consommation de traitements hypnotiques. L'amélioration du confort, insuffisamment étudiée, n'est pas démontrée, mais elle semble vraisemblable lorsque la trachéotomie est réalisée précocement. Enfin, la réalisation précoce de la trachéotomie chez les patients brûlés avec une atteinte de la sphère ORL ou cervicale et les patients traumatisés au niveau cervicofacial relève plus de la trachéotomie en urgence et n'entre pas dans le cadre de ces recommandations.
+
+R1.4 - Les experts suggèrent que la trachéotomie (percutanée ou chirurgicale) ne soit pas réalisée en réanimation dans les situations à haut risque de complication.
+
+Avis d'experts
+
+Argumentaire : les complications potentiellement graves sont l'hémorragie, l'hypoxémie ou l'aggravation de l'état neurologique. La majorité des études ont exclus les patients à risque de développer ce type de complications [6,9,10,25]. De fait, la trachéotomie ne devrait pas être réalisée en réanimation dans les situations suivantes :
+
+- • instabilité hémodynamique ;- • hypertension intracrânienne avec une PIC > 15 mmHg ;
+- • hypoxémie sévère :  $PaO_2/FiO_2 < 100$  mmHg sous PEP > 10 cmH<sub>2</sub>O ;
+- • troubles de l'hémostase non corrigés (plaquettes < 50 000/mm<sup>3</sup> et/ou INR > 1,5 et/ou TCA > 2 fois la normale) ;
+- • refus du patient et/ou de la famille ;
+- • patient moribond ou suivant une procédure de limitation des thérapeutiques actives.
+
+PIC : pression intracrânienne,  $PaO_2$  : pression artérielle en oxygène,  $FiO_2$  : fraction inspirée en oxygène, PEP : pression expiratoire positive, INR : *international normalized ratio*, TCA : temps de céphaline activé.
+
+## Deuxième champ : techniques pour réaliser la trachéotomie en réanimation
+
+R2.1 - Il faut privilégier la trachéotomie percutanée comme la méthode standard de réalisation d'une trachéotomie chez les patients de réanimation.
+
+(Grade 1+) Accord FORT
+
+Argumentaire : plusieurs études randomisées ont comparé l'impact d'une technique de trachéotomie (percutanée ou chirurgicale) sur l'incidence des complications (à court, moyen et long termes), la mortalité et le coût [27-36]. La grande hétérogénéité des critères de jugement (complications immédiates, retardées, mineures, majeures) complique la comparaison des différentes études. À ce jour, aucune des deux techniques (percutanée ou chirurgicale) n'a pu montrer une supériorité en termes de mortalité ou d'incidence des complications majeures (détresse respiratoire, choc hémorragique, sténose trachéale) [37]. Une méta-analyse réalisée en 2014 incluant 14 études randomisées suggère que la technique percutanée est associée à un temps de réalisation plus court et à une diminution de l'incidence des infections et de l'inflammation de l'orifice de trachéotomie [37]. L'incidence des autres complications ne semble pas différente entre les deux techniques de trachéotomie [37]. Ces résultats associés à la diffusion et à la disponibilité de cette technique dans les services de réanimation font que la trachéotomie percutanée doit être dans la mesure du possible préférée à la technique chirurgicale.
+
+Quelle que soit la technique utilisée, la réalisation d'une trachéotomie exige une formation préalable et doit être effectuée par des médecins capables de gérer rapidement les complications ou accidents potentiels.
+
+R2.2 - Les experts suggèrent qu'une concertation médicochirurgicale décide de la technique de trachéotomie à utiliser en cas de situation à risque de complication.
+
+Avis d'experts
+
+Argumentaire : la réalisation d'une trachéotomie percutanée peut être rendue difficile, voire impossible, en fonction du terrain du patient. En effet, un rachis cervical instable, une plaie ou une infection cervicale antérieure, un cou remanié (chirurgie ou radiothérapie cervicale) une difficulté d'identification des repères anatomiques (par exemple : obésité, cou court, hypertrophie thyroïdienne) ou une raideur du rachis cervical sont des contre-indications relatives à la trachéotomie percutanée incitant la réalisation d'une trachéotomie chirurgicale [27]. Il est néanmoins difficile d'établir des recommandations formelles dans ce domaine. En effet, les situations à risque sont classiquement des critères d'exclusion des études prospectives. Les études observationnelles présentent des résultats contradictoires sur la technique à privilégier en cas d'obésité morbide, de fracture rachidienne ou d'antécédent de trachéotomie [35,38-53]. Une seule étude prospective randomisée compare la trachéotomie chirurgicale à la trachéotomie « percutanée modifiée » dite « mini-chirurgicale » (abord chirurgical des anneaux trachéaux suivi d'une procédure percutanée) dans les situations à risque (difficultés anatomiques, troubles de la coagulation, hypoxémie, instabilité hémodynamique). Cette étude ne met pas en évidence de différence entre les deux techniques en termes de complications [52]. Ces résultats suggèrent que ces situations devraient conduire à une concertation médicochirurgicale pour décider du bénéfice de la trachéotomie et de la technique la plus appropriée. La trachéotomie percutanée peut être envisagée dans ces situations par une équipe expérimentée et bénéficiant de moyens techniques améliorant la procédure habituelle : fibroscopie bronchique, échographie-Doppler cervicale, abord chirurgical des anneaux trachéaux, matériel de trachéotomie adapté au problème anatomique (par exemple : kits de trachéotomie spéciaux pour patient obèse).
+
+R2.3 - Il faut probablement privilégier la technique de trachéotomie percutanée par dilatation unique progressive comme la méthode standard de réalisation d'une trachéotomie percutanée chez les patients de réanimation.
+
+(Grade 2+) Accord FORT
+
+Argumentaire : plusieurs études randomisées ont comparé entre elles les six techniques de trachéotomie percutanée : dilatations multiples successives, dilatation à la pince sur guide, dilatation unique progressive, dilatation rotatoire, dilatation par ballonnet et trachéotomie trans-laryngée. Ces comparaisons ont en général été réalisées deux à deux![Blue square icon](3ca07a6ce56dea842a9eef1253405191_1_img.webp)
+
+avec comme principaux critères de jugement la durée de réalisation du geste, le taux d'échec défini par la conversion à une technique alternative, le taux de complications majeures et le taux de complications mineures. Ces techniques sont relativement équivalentes à l'exception de la trachéotomie trans-laryngée qui semble associée à un taux d'échec et de complications, notamment majeures, supérieur [54,55]. La dilatation unique progressive est associée à un taux d'échec plus faible que la dilatation rotatoire [56] et à un taux de complications mineures plus faible que la dilatation par ballonnet ou la dilatation à la pince sur guide [57-59]. Lorsque la dilatation progressive unique est comparée à l'ensemble des autres techniques, elle semble associée à un taux de succès supérieur (corollaire de son utilisation plus large) [60], mais aussi à un taux de complications mineures (notamment les saignements mineurs et les fractures d'anneaux trachéaux) supérieur [60].
+
+### **Troisième champ : conditions nécessaires à la réalisation d'une trachéotomie en réanimation**
+
+R3.1 - Il faut probablement réaliser une fibroscopie avant et pendant la réalisation de la trachéotomie percutanée.
+
+(Grade 2+) Accord FORT
+
+Argumentaire : les avantages de la fibroscopie avant la réalisation du geste sont une aide au repérage du point de ponction, par transillumination et palpation, et au positionnement correct de la sonde d'intubation, en dessous des cordes vocales. Au cours du geste, la fibroscopie permet un contrôle visuel de la totalité des étapes de la procédure (ponction, mise en place du guide métallique, du dilateur, et dilatation) ainsi qu'une vérification du bon positionnement de la canule [61]. La fibroscopie doit être disponible pendant la réalisation de la trachéotomie et le clinicien doit être formé.
+
+Trois études non randomisées semblent suggérer que la réalisation d'une fibroscopie pourrait être, de façon non significative, associée à un plus grand nombre de complications [63-65]. Ces études présentent d'important biais méthodologiques, leurs résultats semblent difficiles à interpréter.
+
+Un seul essai randomisé incluant 60 malades a étudié l'intérêt de la fibroscopie lors de la trachéotomie percutanée en réanimation [62]. Cette étude met en évidence que la fibroscopie est associée à une diminution de 47 % des complications précoces liées à la trachéotomie (IC 95 % : 23-64). Les principales complications observées étaient des extubations accidentelles, des perforations du ballonnet de la sonde d'intubation et des hémorragies. De plus, le nombre de ponctions nécessaires à la réalisation de la trachéotomie était statistiquement plus faible dans le groupe fibroscopie. En résumé, la seule étude randomisée réalisée retrouve que le recours à une fibroscopie lors d'une trachéotomie percutanée est associé à moins de complications.
+
+R3.2 - Il ne faut probablement pas recourir à la pose d'un masque laryngé pendant la réalisation de la trachéotomie percutanée en réanimation.
+
+(Grade 2-) Accord FORT
+
+Argumentaire : pour libérer la trachée de la sonde d'intubation tout en maintenant la ventilation mécanique invasive, plusieurs études randomisées ont comparé 2 procédures : l'extubation suivie de la pose d'un masque laryngé ou le retrait de la sonde d'intubation jusqu'à ce que le ballonnet se retrouve au niveau des cordes vocales. Une méta-analyse récente (2014) regroupant 8 essais randomisés contrôlés évaluant l'intérêt de la pose du masque laryngé a été publiée [66].
+
+Quatre objectifs principaux de ces essais ont été relevés : la mortalité (1 étude), la proportion de patients ayant eu un ou plusieurs effets secondaires significatifs (7 études), la durée de la procédure (6 études) et l'échec de la procédure nécessitant une conversion (7 études). Pour chacun de ces objectifs, la qualité de la preuve est considérée comme basse. L'utilisation du masque laryngé ne semble pas associée à une diminution de la mortalité, des taux de complications et d'échecs liés à la procédure. Seule la durée de la procédure semble diminuée en utilisant le masque laryngé. En moyenne, la pose du masque laryngé permet de réduire le temps de procédure de 1,46 (-1,92 ; -1,01) minutes. Une seule étude randomisée contrôlée est postérieure à cette méta-analyse [67]. Cette étude retrouve plus de patients ayant nécessité une conversion et plus de complications cliniquement significatives avec le masque laryngé.
+
+R3.3 - Il faut probablement réaliser une échographie cervicale lors de la réalisation d'une trachéotomie percutanée en réanimation.
+
+(Grade 2+) Accord FORT
+
+Argumentaire : l'échographie permet de visualiser la trachée et les anneaux trachéaux, permettant ainsi d'optimiser le repérage du point de ponction tout en évitant la ponction traumatique de vaisseaux et/ou de la thyroïde [68]. Quatre études randomisées ouvertes portant sur un total cumulé de 560 patients testent l'intérêt du recours à l'échographie-Doppler pour prévenir les complications au cours de la réalisation d'une trachéotomie percutanée [69-72]. Parmi les 275 malades ayant bénéficié d'une échographie de repérage avant la procédure, 40 (14,5 %) présentent une complication per- ou post-procédure. En absence d'échographie-Doppler, 74 (26 %) des 285 malades présentent au moins une complication per- ou post-procédure soit une diminution du risque de complication de 44 % (IC 95 % : 21-60). Le risque de ponction vasculaire est diminué par le repérage avant ponction. Le succès de la procédure à la première tentative est significativement supérieur avec échographie-Doppler, respectivement 94,9 % (168/177) versus 82,9 % (160/177). Il existecependant une grande hétérogénéité entre ces études, la procédure de randomisation n'étant pas toujours bien décrite [70,71] et la définition des complications n'étant pas uniforme.
+
+Le niveau de recommandation (2+), malgré l'existence d'essais randomisés, est lié à la qualité de certains ces essais et à l'usage probablement encore peu répandu de l'échographie pour réaliser une trachéotomie.
+
+En conclusion, la réalisation d'une échographie-Doppler permet d'augmenter le taux de réussite du geste et d'en diminuer les complications immédiates sous réserve que le clinicien maîtrise cette technique.
+
+R3.4 - Les experts suggèrent de ne pas prescrire d'antibioprophylaxie lors de la réalisation de la trachéotomie.
+
+Avis d'experts
+
+Argumentaire : du fait de l'ouverture de la trachée, la trachéotomie percutanée peut être considérée comme une chirurgie propre contaminée. Le taux d'infection du site opératoire varie selon les études entre 0 et 33 %. La majorité des études comparant trachéotomie percutanée et trachéotomie chirurgicale objectivent un taux d'infection du site opératoire plus élevée lors du recours à la procédure chirurgicale. Le taux d'infection du site pour les trachéotomies percutanées est le plus souvent situé entre 0 et 4 %. Dans une étude rétrospective portant sur 297 patients ayant bénéficié d'une trachéotomie percutanée, Hagiya et al. objectivent un taux d'infection au site de la trachéotomie significativement plus bas chez les patients en cours d'antibiothérapie pendant la trachéotomie, 2,36 % vs 7,25 % ( $p = 0,002$ ) respectivement [73]. En revanche, il n'existe pas d'étude randomisée évaluant l'intérêt d'une antibioprophylaxie pour la trachéotomie. La qualité des preuves est donc très faible. La conférence d'actualisation de la SFAR de 2010 concernant l'antibioprophylaxie en chirurgie et médecine interventionnelle recommandait de ne pas faire d'antibioprophylaxie pour la réalisation de la trachéotomie (sans préciser trachéotomie chirurgicale ou percutanée) [74].
+
+R3.5 - Les experts suggèrent qu'une procédure standardisée soit mise en place dans les services de réanimation pratiquant des trachéotomies percutanées.
+
+Avis d'experts
+
+Argumentaire : la trachéotomie percutanée en réanimation est une procédure invasive qui peut être à l'origine de complications potentiellement graves [75] et pour laquelle il existe des contre-indications. La trachéotomie percutanée obéit à une courbe
+
+d'apprentissage obtenue en moyenne au-delà de 80 trachéotomies percutanées consécutives par la même équipe et avec la même technique [76]. De plus, la réalisation de la trachéotomie percutanée doit respecter un certain nombre de règles pour assurer une sécurité optimale [75]. Il paraît souhaitable que les services de réanimation pratiquant des trachéotomies percutanées définissent une procédure standardisée. Cette procédure pourrait renseigner les points suivants : personnel médical et paramédical requis, bilans biologique et radiologique préalables nécessaires, matériel requis pour la gestion des voies aériennes, matériel nécessaire à la réalisation de l'acte (place de l'échographie-Doppler et de la fibroscopie notamment), position du patient, mode de ventilation, type d'analgésie, moyens de vérification de la position de la canule de trachéotomie en fin de procédure puis modalités de surveillance du patient de réanimation au cours de la procédure.
+
+### Proposition de protocole de soins associé à la recommandation 3.5 (Avis d'experts)
+
+Matériel nécessaire :
+
+- • fibroscopie bronchique (avec vidéo si possible) ;
+- • kit de trachéotomie percutanée ;
+- • matériel de réintubation ;
+- • échographe (pour les services en ayant l'expertise) ;
+- • monitoring (hémodynamique et ventilatoire) ;
+- • hémostase vérifiée (et corrigée en cas d'anomalie).
+
+Personnels nécessaires :
+
+- • 2 médecins (1 opérateur + 1 pour la fibroscopie) ;
+- • au moins 1 personnel paramédical pour aider à la réalisation du geste.
+
+Préparation :
+
+- • patient intubé et ventilé sur un mode volumétrique contrôlé sous  $FiO_2 = 1$  ;
+- • anesthésie générale avec curarisation ;
+- • extrémité céphalique en hyperextension avec un billot sous les omoplates pour dégager au maximum la région cervicale antérieure ;
+- • préparation cutanée du champ opératoire.
+
+Conditions de réalisation (points clés) :
+
+- • repérage du point de ponction présumé par palpation et transillumination (l'échographie peut constituer une aide supplémentaire pour les services en ayant l'expertise). Le point de ponction doit être idéalement situé entre 1<sup>er</sup> et 2<sup>e</sup> anneaux ;
+- • retrait de la sonde d'intubation sous contrôle de la vue et immobilisation de celle-ci en position sous glottique, ballonnet gonflé ;- • compenser la fuite ventilatoire le cas échéant et tout au long de la procédure si nécessaire ;
+- • ponction trachéale sous contrôle de la vue ;
+- • poursuite de la procédure selon la technique choisie et sous contrôle de la vue ;
+- • mise en place de la canule sous contrôle de la vue.
+
+Après canulation :
+
+- • connexion de la canule au ventilateur et ajustement de la ventilation ;
+- • maintien et sécurisation de la canule par un dispositif adapté à l'état cutané du patient ;
+- • vérification de la bonne position de la canule par fibroscopie. Toilette bronchique le cas échéant.
+
+Rédaction d'un compte rendu de trachéotomie.
+
+## Quatrième champ : spécificités de la surveillance et de l'entretien de la trachéotomie en réanimation
+
+R4.1 - Les experts suggèrent que les services de réanimation disposent d'un protocole de soins définissant la gestion de la trachéotomie.
+
+Avis d'expert
+
+Argumentaire : les complications secondaires de la trachéotomie sont nombreuses à type d'infection cutanée, de granulome, d'hémorragie secondaire de l'orifice, de sténose trachéale, de trachéomalacie et d'érosion des vaisseaux (tronc veineux innominé, tronc artériel brachio-céphalique) [15,77,78]. Il n'existe pas d'étude prospective comparant différents types de soins locaux tels que protocole d'antiseptique, type de pansement ou type de fixation. Les études
+
+prospectives randomisées comparant les techniques chirurgicales ou percutanées et les techniques percutanées entre elles ne précisent pas le protocole de soins. Les études ayant évalué les pratiques de surveillance d'une trachéotomie en réanimation montrent des disparités importantes des pratiques, l'absence de formalisation et l'absence de recommandation pour le suivi en réanimation ou après la sortie de réanimation [79,80]. L'application d'un protocole de soins standardisé a été évaluée et a permis une diminution des lésions locales [81]. Parmi les recommandations, reposant sur des données limitées ou des positions d'experts, il est proposé de surveiller la pression du ballonnet sans dépasser 30 cmH<sub>2</sub>O [77,78,82]. Une pression trop basse pourrait favoriser la survenue d'inhalation des sécrétions oropharyngées [15]. L'élévation de la pression du ballonnet favorise la survenue d'une ischémie de la muqueuse trachéale, source de sténose trachéale. Un contrôle toutes les 8 heures est proposé.
+
+L'infection locale et le reflux gastro-œsophagien favorisent l'atteinte des cartilages des anneaux trachéaux évoluant vers une chondrite source de sténose trachéale, mais aussi de trachéomalacie [83]. Par analogie avec les travaux sur l'intubation endotrachéale, il a été proposé d'avoir recours à des sondes munies d'un canal d'aspiration s'abouchant au-dessus du ballonnet afin d'aspirer régulièrement les sécrétions stagnantes à ce niveau.
+
+Il est également suggéré de prêter une attention particulière à la fixation de la canule, au maintien d'un raccord annelé et à la prévention des traumatismes locaux répétés liés à la mobilisation et au poids des tuyaux (éviter les tractions sur la canule). Il n'existe pas de données spécifiques concernant les soins locaux (antiseptique, produits, fréquence). Une seule étude a comparé l'application de compresses ou de pansements mousses sans montrer de différence de contamination bactérienne ou d'infection locale [84]. Peu d'études précisent la réalisation et le type de soins locaux (4 à 6 soins par jour au sérum salé isotonique par exemple dans l'article de Lagambina) [77,85].
+
+Les experts considèrent qu'il est utile de vérifier la bonne position de la canule (radiographie de thorax, facilité d'aspiration trachéale, absence de dyspnée) et si nécessaire de faire un contrôle par fibroscopie bronchique pour rechercher des lésions traumatiques ou sténosantes mais sans préciser la fréquence ni le délai.
+
+Pour obtenir une procédure de soins chez le patient trachéotomisé qui réponde aux impératifs de sécurité en réanimation, celle-ci doit au moins comporter et préciser les items suivant : surveillance de l'orifice de trachéotomie, surveillance des paramètres ventilatoires, soins locaux spécifiques et entretien de la canule, nature des soins délivrés et la fréquence de réalisation.## Proposition de protocole de soins associé à la recommandation 4.1 (Avis d'experts)
+
+Soins post-trachéotomie immédiats :
+
+- • personnel formé à la gestion de la trachéotomie ;
+- • vérification de la position (repères) avec une extrémité de la canule située 4 à 6 cm de la carène en pleine lumière trachéale, de la fixation (sutures à la peau ou cordons ou velcro) en évitant un serrage trop serré ou trop lâche (amplitude limitée à 1 doigt) ;
+- • contrôle de l'accès aux voies aériennes : aspiration trachéale aisée, surveillance de l'ETCO<sub>2</sub>, pressions de crête (comparaison aux valeurs pré-trachéotomie), absence d'emphysème sous-cutanée dans la région cervicale ou thoracique, vérification de la stabilité hémodynamique et de l'absence de troubles du rythme, vérifier la position de la sonde (radiographie de thorax) ;
+- • vérifier la pression du ballonnet selon les recommandations applicables à l'abord des voies aériennes ( $P < 30$  cm H<sub>2</sub>O ; 25-35 selon les équipes) ;
+- • prévoir dans la chambre ou à proximité immédiate, matériel de ré-intubation et de trachéotomie en cas de mobilisation précoce accidentelle.
+
+Soins premiers jours : 0-4 jours :
+
+- • surveillance de la survenue de signes hémorragiques (extériorisés au niveau de la cicatrice ou lors des aspirations trachéales) toutes les 3 heures en postopératoire ;
+- • examen de la cicatrice à la recherche de signes d'infection locale ;
+- • pansement refait au sérum physiologique 3 fois par 24 heures (pour éviter l'accumulation de sécrétions et d'humidité au niveau de l'orifice) ;
+- • aspiration trachéale selon les pratiques (rythme défini ou à la demande), mais en mesurant la profondeur maximale (descendre jusqu'à la carène, remonter d'un centimètre et noter la distance) ;
+- • humidification des voies aériennes (humidificateur chauffant si besoin). Soins de la canule interne si canule chemisée ;
+- • mettre la tête surélevée à 30° et position médiane, attention lors des mobilisations et cures de postures à préserver axe de la tête et du tronc ;
+- • s'assurer de l'absence de tension des tuyaux du respirateur sur la trachéotomie.
+
+Soins à distance :
+
+- • changement de la fixation tous les jours ou plus souvent si suintement (hémorragie ou pus) ;
+- • contrôle de la cicatrice tous les jours ;
+- • soins au sérum salé isotonique.
+
+R4.2 - Les experts suggèrent de réaliser une humidification des voies aériennes chez les patients ayant une trachéotomie en réanimation.
+
+Avis d'experts
+
+Argumentaire : il n'existe pas de données sur l'humidification des voies aériennes chez les patients ayant une trachéotomie en réanimation. L'absence d'humidification des voies aériennes pourrait aboutir à des épisodes d'obstruction de la canule de trachéotomie chez les patients qui nécessitent une oxygénéthérapie en réanimation [86]. Les recommandations anglaises éditées en 2014 suggèrent que l'humidification soit envisagée pour tous les patients ayant une trachéotomie. L'humidification des voies aériennes devrait alors être adaptée en particulier au support ventilatoire et à l'importance des sécrétions bronchiques [86].
+
+Il n'y a pas d'étude permettant de déterminer quelle technique d'humidification des voies aériennes doit être privilégiée chez les patients ayant une trachéotomie et sous ventilation mécanique en réanimation. Seules deux études évaluant l'effet sur l'incidence des PAVM de différents systèmes d'humidifications (humidificateurs chauffants ou échangeurs de chaleur et d'humidité), comportaient des patients ayant une trachéotomie. Les résultats sont discordants entre ces 2 études. La première étude comparait 185 patients dans chaque groupe avec seulement 11 patients trachéotomisés [87]. Cette étude ne retrouvait pas de bénéfice à l'humidification des voies aériennes avec un système en particulier. La seconde étude comparait seulement 15 et 16 patients trachéotomisés. Cette étude montrait par contre une diminution significative de l'incidence des PAVM dans le groupe ayant un humidificateur chauffant [88].
+
+R4.3 - Les experts suggèrent de ne pas changer la canule de trachéotomie de façon systématique en réanimation.
+
+Avis d'experts
+
+Argumentaire : aucune étude dans la littérature ne s'est intéressée au délai de changement de canule et à l'incidence des pneumopathies. Une seule étude prospective menée dans un hôpital de long séjour pour patients avec une trachéotomie et ventilés a montré une réduction de l'incidence des granulomes lorsque les canules étaient changées tous les 15 jours [89]. Une étude prospective non randomisée menée dans un centre de sevrage de la ventilation mécanique a montré qu'un changement des canules avant le septième jour suivant la trachéotomie était associé à une reprise plus rapide de la nutrition et de la phonation. Cet effet était dû, selon les auteurs, à une réduction de la taille de la canule [91]. Les auteurs n'ont pas rapporté de complication liée au changement de canule.![Blue square logo](9fcc49678137fb944d37531b9a0b2a6e_1_img.webp)
+
+En réanimation, dans une enquête de pratique menée aux États-Unis, 80 % des canules étaient changées systématiquement, mais avec une variabilité importante [90]. Une enquête de pratique hollandaise observe que 60 % des services ne changent jamais les canules de trachéotomie [5].
+
+Les recommandations des sociétés belges de pneumologie et chirurgie thoracique [15] proposent de changer les canules uniquement sur point d'appel. Les recommandations de la société britannique de réanimation [86], retiennent que l'on pourrait changer systématiquement une trachéotomie « mono-chambre » tous les 15 jours, et une trachéotomie avec chemise interne tous les 30 jours. Ce changement pourrait se faire à partir de la 72ème heure en cas de trachéotomie chirurgicale ou dans les 7 à 10 jours en cas de trachéotomie percutanée. Ensuite, la fréquence des changements doit être adaptée aux caractéristiques cliniques du patient [86].
+
+La réglementation européenne [91] est de changer les dispositifs médicaux tous les 30 jours. Une étude montre une altération structurelle de la paroi de 58 % des canules après 30 jours d'utilisation [92]. Un changement de canule précoce en réanimation est associé à des risques (canulation aberrante et arrêt respiratoire) [15]. En résumé, le changement de canule doit être guidé par la clinique. Celui-ci doit être envisagé en particulier en cas de suspicion d'infection locale, de saignement ou pour réduire le calibre de la canule et faciliter en particulier la phonation du patient.
+
+## Cinquième champ : modalités de décanulation de la trachéotomie
+
+R5.1 - Les experts suggèrent qu'un protocole multidisciplinaire de décanulation soit disponible dans les services de réanimation.
+
+Avis d'experts
+
+R5.2 - Il faut probablement envisager de dégonfler le ballonnet de la canule de trachéotomie lorsque les patients sont en ventilation spontanée.
+
+(Grade 2+) Accord FORT
+
+Argumentaire : de nombreuses études observationnelles ou de type avant/après concluent à une diminution de la durée de sevrage, du taux d'échecs de décanulation et du taux de complications lors du recours à un protocole de sevrage [93-102]. Dans un essai randomisé contrôlé monocentrique portant sur 195 patients, les auteurs montrent l'impact du dégonflage du ballonnet dès que les patients sont séparés du ventilateur pour diminuer les échecs de décanulation, la durée de sevrage de la canule et les complications liées à la trachéotomie [103]. Ce protocole multidisciplinaire consensuel, rédigé et appliqué systématiquement par l'ensemble des membres de l'équipe de
+
+réanimation ayant recours à la trachéotomie, devrait au moins définir les points suivants : modalités de l'examen neurologique préalable, modalités de l'examen pharyngolaryngé préalable, personnels médicaux et paramédicaux impliqués pour la réalisation de la décanulation, matériels nécessaires pour réaliser la décanulation, modalités de surveillance immédiate et à distance de la décanulation, type et localisation du matériel requis en cas de détresse respiratoire au cours de la décanulation.
+
+## Proposition de protocole de soins associé à la recommandation 5.1 (Avis d'experts) (d'après Warnecke et al. Crit Care Med 2013 [104])
+
+Prérequis :
+
+- • sevrage de la ventilation mécanique 24 heures sur 24 en cas de pathologie neurologique préalable.
+
+Conditions examen :
+
+- • ballonnet dégonflé ;
+- • aspiration préalable des sécrétions ;
+- • position assise > 70° ;
+- • aucune anesthésie afin de ne pas générer de troubles de déglutition ;
+- • endoscopie par voie nasale jusqu'au ballonnet.
+
+```
+
+graph TD
+    A["Etat des sécrétions salivaires  
+Stagnation massive, Inhalation occulte"] -->|SI NON| B["Déglutition spontanée  
+< 1 / minute, pas de voile blanc"]
+    A -->|SI OUI| C["pas de décanulation"]
+    B -->|SI NON| D["Sensibilité laryngée / Toux  
+Anesthésie, pas de toux efficace"]
+    B -->|SI OUI| C
+    D -->|SI NON| E["Déglutition bolus constant  
+(type « purée »)  
+Inhalation occulte du bolus"]
+    D -->|SI OUI| C
+    E -->|SI NON| F["Déglutition bolus liquide  
+Inhalation occulte sans déclenchement de la déglutition"]
+    E -->|SI OUI| C
+    F --> G["Décanulation"]
+    F -->|SI NON| G
+  
+```
+
+R5.3 - Il faut probablement réaliser un examen pharyngolaryngé lors ou au-décours de la décanulation.
+
+(Grade 2+) Accord FORT
+
+Argumentaire : il y a peu d'études prospectives contrôlées portant sur la question de l'examen pharyngolaryngé nécessaire lors ou au cours de la décanulation des patients de réanimation et de la nécessité ou nonde réaliser une fibroscopie systématique. Une étude prospective observationnelle comparative en aveugle [104] démontre le bénéfice d'un examen fibroscopique laryngo-trachéal systématisé, réalisé par le réanimateur, lors de la décanulation, en comparaison à l'évaluation clinique systématisée de la déglutition éventuellement complétée d'un test au bleu (d'Evans modifié). Sur les 100 patients neurologiques de la cohorte, l'évaluation endoscopique a permis la décanulation avec succès de 27 patients pour lesquels l'évaluation clinique pronostiquait pourtant un échec de sevrage. Le taux de recanalisation était de 1,9 %. L'examen pharyngolaryngé lors de la décanulation se compose de l'appréciation séquentielle de la stase salivaire et inhalation silencieuse, puis des déglutitions spontanées, puis de la sensibilité laryngée avant d'envisager les essais de déglutition aux pâtes puis aux liquides. On note qu'aucun patient ayant franchi les trois premiers paliers n'a
+
+présenté de trouble de la déglutition lors des tests aux pâtes puis aux liquides.
+
+D'autres études prospectives observationnelles, mais non comparatives, confirment [105,106] :
+
+- • l'incidence plus élevée de troubles de la déglutition chez les patients trachéotomisés et ventilés de manière prolongée ;
+- • l'augmentation des durées de séjours en réanimation et le risque accru d'inhalation et de lésions pharyngolaryngées lors d'une trachéotomie prolongée ou d'un retard de décanulation.
+
+**Déclaration de liens d'intérêts :** les auteurs déclarent ne pas avoir de liens d'intérêts.
+
+## Références
+
+1. [1] Blot F, Melot C. Commission d'épidémiologie et de recherche clinique. Indications, timing, and techniques of tracheostomy in 152 French ICUs. *Chest* 2005;127(4):1347-52.
+2. [2] Freeman BD, Kennedy C, Coopersmith CM, Buchman TG. Examination of non-clinical factors affecting tracheostomy practice in an academic surgical intensive care unit. *Crit Care Med* 2009;37(12):3070-8.
+3. [3] Freeman BD, Morris PE. Tracheostomy practice in adults with acute respiratory failure. *Crit Care Med* 2012;40(10):2890-6.
+4. [4] Banfi P, Robert D. Early tracheostomy or prolonged translaryngeal intubation in the ICU: a long running story. *Respir Care* 2013;58(11):1995-6.
+5. [5] Durbin CG. Tracheostomy: why, when, and how? *Respir Care* 2010;55(8):1056-68.
+6. [6] Rumbak MJ, Newton M, Truncule T, Schwartz SW, Adams JW, Hazard PB. A prospective, randomized, study comparing early percutaneous dilational tracheostomy to prolonged translaryngeal intubation (delayed tracheostomy) in critically ill medical patients. *Crit Care Med* 2004;32(8):1689-94.
+7. [7] Hyde GA, Savage SA, Zarzaur BL, Hart-Hyde JE, Schaefer CB, Croce MA, et al. Early tracheostomy in trauma patients saves time and money. *Injury* 2015;46(1):110-4.
+8. [8] Blot F, Similowski T, Trouillet J-L, Chardon P, Korach J-M, Costa M-A, et al. Early tracheostomy versus prolonged endotracheal intubation in unselected severely ill ICU patients. *Intensive Care Med* 2008;34(10):1779-87.
+9. [9] Terragni PP, Antonelli M, Fumagalli R, Fagiano C, Berardino M, Pallavicini FB, et al. Early vs late tracheostomy for prevention of pneumonia in mechanically ventilated adult ICU patients: a randomized controlled trial. *JAMA* 2010;303(15):1483-9.
+10. [10] Trouillet J-L, Luyt C-E, Guiguet M, Ouattara A, Vaissier E, Makri R, et al. Early percutaneous tracheotomy versus prolonged intubation of mechanically ventilated patients after cardiac surgery: a randomized trial. *Ann Intern Med* 2011;154(6):373-83.
+11. [11] Young D, Harrison DA, Cuthbertson BH, Rowan K, TracMan Collaborators. Effect of early vs late tracheostomy placement on survival in patients receiving mechanical ventilation: the TracMan randomized trial. *JAMA* 2013;309(20):2121-9.
+12. [12] Figueroa-Casas JB, Connery SM, Montoya R, Dwivedi AK, Lee S. Accuracy of early prediction of duration of mechanical ventilation by intensivists. *Ann Am Thorac Soc* 2014;11(2):182-5.
+13. [13] Thille AW, Boissier F, Ben Ghezala H, Razazi K, Mekontso-Dessap A, Brun-Buisson C. Risk factors for and prediction by caregivers of extubation failure in ICU patients: a prospective study. *Crit Care Med* 2015;43(3): 613-20.
+14. [14] Chastre J, Bedock B, Clair B, Gehanno P, Lacaze T, Lesieur O, et al. Quel abord trachéal pour la ventilation mécanique des malades de réanimation ? (à l'exclusion du nouveau-né) 18<sup>e</sup> Conférence de Consensus en Réanimation et Médecine d'Urgence. *Reanim Urg* 1998;7:435-42.
+15. [15] De Leyn P, Bedert L, Delcroix M, Depuydt P, Lauwers G, Sokolov Y, et al. Tracheotomy: clinical review and guidelines. *Eur J Cardiothorac Surg* 2007;32(3):412-21.
+16. [16] Madsen KW, Guldager H, Rewers M, Weber S-O, Købke-Jacobsen K, Jensen R, et al. Guidelines for Percutaneous Dilatational Tracheostomy (PDT) from the Danish Society of Intensive Care Medicine (DSIT) and the Danish Society of Anesthesiology and Intensive Care Medicine (DASAIM). *Dan Med Bull* 2011;58(12):C4358.
+17. [17] Siempos II, Ntaidou TK, Filippidis FT, Choi AMK. Effect of early versus late or no tracheostomy on mortality and pneumonia of critically ill patients receiving mechanical ventilation: a systematic review and meta-analysis. *Lancet Respir Med* 2015;3(2):150-8.
+18. [18] Brass P, Hellmich M, Ladra A, Ladra J, Wrzosek A. Percutaneous techniques versus surgical techniques for tracheostomy. *Cochrane Database Syst Rev* 2016;7:CD008045. <http://dx.doi.org/10.1002/14651858.CD008045.pub2>.
+19. [19] Andriolo BNG, Andriolo RB, Saconato H, Atallah AN, Valente O. Early versus late tracheostomy for critically ill patients. *Cochrane Database Syst Rev* 2015;1:CD007271. <http://dx.doi.org/10.1002/14651858.CD007271.pub3>.
+20. [20] Ali MI, Fernández-Pérez ER, Pendem S, Brown DR, Wijdicks EFM, Gajic O. Mechanical ventilation in patients with Guillain-Barré syndrome. *Respir Care* 2006;51(12):1403-7.
+21. [21] Béduneau G, Pham T, Schortgen F, Piquilloud L, Zogheib E, Jonas M, et al. Epidemiology of weaning outcome according to a new definition. The WIND study. *Am J Respir Crit Care Med* 2016.
+22. [22] Fourier F, Robriquet L, Hurtevent J-F, Spagnolo S. A simple functional marker to predict the need for prolonged mechanical ventilation in patients with Guillain-Barré syndrome. *Crit Care Lond Engl* 2011;15(1):R65.
+23. [23] MacIntyre EJ, Asadi L, McKim DA, Bagshaw SM. Clinical outcomes associated with home mechanical ventilation: a systematic review. *Can Respir J* 2016.
+24. [24] Vianello A, Arcaro G, Palmieri A, Ermani M, Braccioni F, Gallan F, et al. Survival and quality of life after tracheostomy for acute respiratoryfailure in patients with amyotrophic lateral sclerosis. *J Crit Care* 2011;26(3):329e7-329e14.
+
+[25] Diaz-Prieto A, Mateu A, Goriz M, Ortiga B, Truchero C, Sampietro N, et al. A randomized clinical trial for the timing of tracheotomy in critically ill patients: factors precluding inclusion in a single center study. *Crit Care Lond Engl* 2014;18(5):585.
+
+[26] Rodriguez JL, Steinberg SM, Luchetti FA, Gibbons KJ, Taheri PA, Flint LM. Early tracheostomy for primary airway management in the surgical critical care setting. *Surgery* 1990;108(4):655-9.
+
+[27] Antonelli M, Michetti V, Di Palma A, Conti G, Pennisi MA, Arcangeli A, et al. Percutaneous translaryngeal versus surgical tracheostomy: a randomized trial with 1-yr double-blind follow-up. *Crit Care Med* 2005;33(5):1015-20.
+
+[28] Freeman BD, Isabella K, Cobb JP, Boyle WA, Schmieg RE, Kolloff MH, et al. A prospective, randomized study comparing percutaneous with surgical tracheostomy in critically ill patients. *Crit Care Med* 2001;29(5):926-30.
+
+[29] Friedman Y, Fildes J, Mizock B, Samuel J, Patel S, Appavu S, et al. Comparison of percutaneous and surgical tracheostomies. *Chest* 1996;110(2):480-5.
+
+[30] Gysin C, Dulguero P, Guyot JP, Perneger TV, Abajo B, Chevrolet JC. Percutaneous versus surgical tracheostomy: a double-blind randomized trial. *Ann Surg* 1999;230(5):708-14.
+
+[31] Heikkinen M, Aarnio P, Hannukainen J. Percutaneous dilational tracheostomy or conventional surgical tracheostomy? *Crit Care Med* 2000;28(5):1399-402.
+
+[32] Holdgaard HO, Pedersen J, Jensen RH, Outzen KE, Midtgaard T, Johansen LV, et al. Percutaneous dilational tracheostomy versus conventional surgical tracheostomy. A clinical randomised study. *Acta Anaesthesiol Scand* 1998;42(5):545-50.
+
+[33] Melloni G, Muttini S, Galliosi G, Carretta A, Cozzi S, Gemma M, et al. Surgical tracheostomy versus percutaneous dilational tracheostomy. A prospective randomized study with long-term follow-up. *J Cardiovasc Surg (Torino)* 2002;43(1):113-21.
+
+[34] Silvester W, Goldsmith D, Uchino S, Bellomo R, Knight S, Seevanayagam S, et al. Percutaneous versus surgical tracheostomy: a randomized controlled study with long-term follow-up. *Crit Care Med* 2006;34(8):2145-52.
+
+[35] Tabaei A, Geng E, Lin J, Kakoullis S, McDonald B, Rodriguez H, et al. Impact of neck length on the safety of percutaneous and surgical tracheostomy: a prospective, randomized study. *The Laryngoscope* 2005;115(9):1685-90.
+
+[36] Sustic' A, Krstulovic' B, Eskinja N, Zelic' M, Ledic' D, Turina D. Surgical tracheostomy versus percutaneous dilational tracheostomy in patients with anterior cervical spine fixation: preliminary report. *Spine* 2002;27(17):1942-5 [discussion 1945].
+
+[37] Putensen C, Theuerkauf N, Guenther U, Vargas M, Pelosi P. Percutaneous and surgical tracheostomy in critically ill adult patients: a meta-analysis. *Crit Care Lond Engl* 2014;18(6):544.
+
+[38] Blankenship DR, Gourin CG, Davis WB, Blanchard AR, Seybt MW, Terris DJ. Percutaneous tracheostomy: don't beat them, join them. *The Laryngoscope* 2004;114(9):1517-21.
+
+[39] Blankenship DR, Kulbersh BD, Gourin CG, Blanchard AR, Terris DJ. High-risk tracheostomy: exploring the limits of the percutaneous tracheostomy. *The Laryngoscope* 2005;115(6):987-9.
+
+[40] Deppe A-C, Kuhn E, Scherner M, Slottosch I, Liakopoulos O, Langebartels G, et al. Coagulation disorders do not increase the risk for bleeding during percutaneous dilational tracheostomy. *Thorac Cardiovasc Surg* 2013;61(3):234-9.
+
+[41] Kluge S, Baumann HJ, Nierhaus A, Kröger N, Meyer A, Kreymann G. Safety of percutaneous dilational tracheostomy in hematopoietic stem cell transplantation recipients requiring long-term mechanical ventilation. *J Crit Care* 2008;23(3):394-8.
+
+[42] Kluge S, Meyer A, Kühnelt P, Baumann HJ, Kreymann G. Percutaneous tracheostomy is safe in patients with severe thrombocytopenia. *Chest* 2004;126(2):547-51.
+
+[43] Pandian V, Gilstrap DL, Mirski MA, Haut ER, Haider AH, Efron DT, et al. Predictors of short-term mortality in patients undergoing percutaneous dilational tracheostomy. *J Crit Care* 2012;27(4):420e9-420e15.
+
+[44] Pandian V, Vaswani RS, Mirski MA, Haut E, Gupta S, Bhatti NI. Safety of percutaneous dilational tracheostomy in coagulopathic patients. *Ear Nose Throat J* 2010;89(8):387-95.
+
+[45] Byhahn C, Lischke V, Meininger D, Halbig S, Westphal K. Peri-operative complications during percutaneous tracheostomy in obese patients. *Anaesthesia* 2005;60(1):12-5.
+
+[46] Kost KM. Endoscopic percutaneous dilational tracheostomy: a prospective evaluation of 500 consecutive cases. *The Laryngoscope* 2005;115(10 Pt 2):1-30.
+
+[47] Ben Nun A, Altman E, Best LA. Extended indications for percutaneous tracheostomy. *Ann Thorac Surg* 2005;80(4):1276-9.
+
+[48] Ben Nun A, Orlovsky M, Best LA. Percutaneous tracheostomy in patients with cervical spine fractures-feasible and safe. *Interact Cardiovasc Thorac Surg* 2006;5(4):427-9.
+
+[49] Muhammad JK, Major E, Patton DW. Evaluating the neck for percutaneous dilational tracheostomy. *J Craniomaxillofac Surg* 2000;28(6):336-42.
+
+[50] Muhammad JK, Major E, Wood A, Patton DW. Percutaneous dilational tracheostomy: haemorrhagic complications and the vascular anatomy of the anterior neck. A review based on 497 cases. *Int J Oral Maxillofac Surg* 2000;29(3):217-22.
+
+[51] Mayberry JC, Wu IC, Goldman RK, Chesnut RM. Cervical spine clearance and neck extension during percutaneous tracheostomy in trauma patients. *Crit Care Med* 2000;28(10):3436-40.
+
+[52] Hashemian SM-R, Digaleh H, Massih Daneshvari Hospital Group. A prospective randomized study comparing mini-surgical percutaneous dilational tracheostomy with surgical and classical percutaneous tracheostomy: a new method beyond contraindications. *Medicine (Baltimore)* 2015;94(47):e2015.
+
+[53] Higgins KM, Puntakee X. Meta-analysis comparison of open versus percutaneous tracheostomy. *The Laryngoscope* 2007;117(3):447-54.
+
+[54] Cabrini L, Landoni G, Greco M, Costagliola R, Monti G, Colombo S, et al. Single dilator vs. guide wire dilating forceps tracheostomy: a meta-analysis of randomised trials. *Acta Anaesthesiol Scand* 2014;58(2):135-42.
+
+[55] Cantais E, Kaiser E, Le-Goff Y, Palmier B. Percutaneous tracheostomy: prospective comparison of the translaryngeal technique versus the forceps-dilational technique in 100 critically ill adults. *Crit Care Med* 2002;30(4):815-9.
+
+[56] Byhahn C, Westphal K, Meininger D, Gürke B, Kessler P, Lischke V. Single-dilator percutaneous tracheostomy: a comparison of PercuTwist and Ciaglia Blue Rhino techniques. *Intensive Care Med* 2002;28(9):1262-6.
+
+[57] Cianchi G, Zagli G, Bonizzoli M, Batacchi S, Cammelli R, Biondi S, et al. Comparison between single-step and balloon dilational tracheostomy in intensive care unit: a single-centre, randomized controlled study. *Br J Anaesth* 2010;104(6):728-32.
+
+[58] Ambesh SP, Pandey CK, Srivastava S, Agarwal A, Singh DK. Percutaneous tracheostomy with single dilatation technique: a prospective, randomized comparison of Ciaglia blue rhino versus Griggs' guidewire dilating forceps. *Anesth Analg* 2002;95(6):1739-45 [table of contents].
+
+[59] Anón JM, Escuela MP, Gómez V, Moreno A, López J, Díaz R, et al. Percutaneous tracheostomy: Ciaglia Blue Rhino versus Griggs' Guide Wire Dilating Forceps. A prospective randomized trial. *Acta Anaesthesiol Scand* 2004;48(4):451-6.
+
+[60] Sanabria A. Which percutaneous tracheostomy method is better? A systematic review. *Respir Care* 2014;59(11):1660-70.
+
+[61] Terragni P, Faggiano C, Martin EL, Ranieri VM. Tracheostomy in mechanical ventilation. *Semin Respir Crit Care Med* 2014;35(4):482-91.
+
+[62] Saritas A, Saritas PU, Kurnaz MM, Beyaz SG, Ergonenc T. The role of fiberopticbronchoscopy monitoring during percutaneous dilatational tracheostomy and its routine use into tracheotomy practice. *JPMA J Pak Med Assoc* 2016;66(1):83–9.
+
+[63] Abdulla S, Conrad A, Vielhaber S, Eckhardt R, Abdulla W. Should a percutaneous dilatational tracheostomy be guided with a bronchoscope? *B-ENT* 2013;9(3):227–34.
+
+[64] Jackson LSM, Davis JW, Kaups KL, Sue LP, Wolfe MM, Bilello JF, et al. Percutaneous tracheostomy: to bronch or not to bronch—that is the question. *J Trauma* 2011;71(6):1553–6.
+
+[65] Berrouschot J, Oeken J, Steiniger L, Schneider D. Perioperative complications of percutaneous dilatational tracheostomy. *The Laryngoscope* 1997;107(11 Pt 1):1538–44.
+
+[66] Strametz R, Pachler C, Kramer JF, Byhahn C, Siebenhofer A, Weberschock T. Laryngeal mask airway versus endotracheal tube for percutaneous dilatational tracheostomy in critically ill adult patients. *Cochrane Database Syst Rev* 2014;6.
+
+[67] Price GC, McLellan S, Paterson RL, Hay A. A prospective randomised controlled trial of the LMA Supreme vs cuffed tracheal tube as the airway device during percutaneous tracheostomy. *Anaesthesia* 2014;69(7):757–63.
+
+[68] Alansari M, Alotair H, Al Aseri Z, Elhoseny MA. Use of ultrasound guidance to improve the safety of percutaneous dilatational tracheostomy: a literature review. *Crit Care Lond Engl* 2015;19:229.
+
+[69] Rudas M, Seppelt I, Herkes R, Hislop R, Rajbhandari D, Weisbrodt L. Traditional landmark versus ultrasound guided tracheal puncture during percutaneous dilatational tracheostomy in adult intensive care patients: a randomised controlled trial. *Crit Care Lond Engl* 2014;18(5):514.
+
+[70] Yavuz A, Yilmaz M, Göya C, Alimoglu E, Kabaalioglu A. Advantages of US in percutaneous dilatational tracheostomy: randomized controlled trial and review of the literature. *Radiology* 2014;273(3):927–36.
+
+[71] Ravi PR, Vijay MN. Real time ultrasound-guided percutaneous tracheostomy: is it a better option than bronchoscopic guided percutaneous tracheostomy? *Med J Armed Forces India* 2015;71(2):158–64.
+
+[72] Gobatto ALN, Besen BAMP, Terno PFGMM, Mendes PV, Cadamuro F, Joelsens D, et al. Ultrasound-guided percutaneous dilatational tracheostomy versus bronchoscopy-guided percutaneous dilatational tracheostomy in critically ill patients (TRACHUS): a randomized noninferiority controlled trial. *Intensive Care Med* 2016;42(3):342–51.
+
+[73] Hagiya H, Naito H, Hagioka S, Okahara S, Morimoto N, Kusano N, et al. Effects of antibiotics administration on the incidence of wound infection in percutaneous dilatational tracheostomy. *Acta Med Okayama* 2014;68(2):57–62.
+
+[74] Société française d'anesthésie et de réanimation. Antibioprophylaxie en chirurgie et médecine interventionnelle (patients adultes). Actualisation 2010. *Ann Fr Anesth Reanim* 2011;30(2):168–90.
+
+[75] Ravat F, Pommier C, Dorne R. [Percutaneous tracheostomy]. *Ann Fr Anesth Reanim* 2001;20(3):260–81.
+
+[76] Massick DD, Powell DM, Price PD, Chang SL, Squires G, Forrest LA, et al. Quantification of the learning curve for percutaneous dilatational tracheostomy. *The Laryngoscope* 2000;110(2 Pt 1):222–8.
+
+[77] Lagambina S, Nuccio P, Weinhouse GL. Tracheostomy care: a clinician's guide. *Hosp Pract* 1995 2011;39(3):161–7.
+
+[78] Cipriano A, Mao ML, Hon HH, Vazquez D, Stawicki SP, Sharpe RP, et al. An overview of complications associated with open and percutaneous tracheostomy procedures. *Int J Crit Illn Inj Sci* 2015;5(3):179–88.
+
+[79] Mondrup F, Skjelsager K, Madsen KR. Inadequate follow-up after tracheostomy and intensive care. *Dan Med J* 2012;59(8):A4481.
+
+[80] Vargas M, Sutherasan Y, Antonelli M, Brunetti I, Corcione A, Laffey JG, et al. Tracheostomy procedures in the intensive care unit: an international survey. *Crit Care Lond Engl* 2015;19:291.
+
+[81] Lippert D, Hoffman MR, Dang P, McMurray JS, Heatley D, Kille T. Care of pediatric tracheostomy in the immediate postoperative period and timing of first tube change. *Int J Pediatr Otorhinolaryngol* 2014;78(12): 2281–5.
+
+[82] Leigh JM, Maynard JP. Pressure on the tracheal mucosa from cuffed tubes. *Br Med J* 1979;1(6172):1173–4.
+
+[83] Sasaki CT, Horiuchi M, Koss N. Tracheostomy-related subglottic stenosis: bacteriologic pathogenesis. *The Laryngoscope* 1979;89(6 Pt 1):857–65.
+
+[84] Ahmadinegad M, Lashkarizadeh MR, Ghahremani M, Shabani M, Mokhtare M, Ahmadipour M. Efficacy of dressing with absorbent foam versus dressing with gauze in prevention of tracheostomy site infection. *Tanaffos* 2014;13(2):13–9.
+
+[85] Morris LL, Whitmer A, McIntosh E. Tracheostomy care and complications in the intensive care unit. *Crit Care Nurse* 2013;33(5):18–30.
+
+[86] Bodenham A, Bell D, Bonner S, Branch F, Dawson D, Morgan P, et al. Standards for the care of adult patients with a temporary tracheostomy: standards and guidelines. *Intensive Care Society*; 2014.
+
+[87] Lacherade J-C, Auburtin M, Cerf C, Van de Louw A, Soufir L, Rebufat Y, et al. Impact of humidification systems on ventilator-associated pneumonia: a randomized multicenter trial. *Am J Respir Crit Care Med* 2005;172(10):1276–82.
+
+[88] Lorente L, Lecuona M, Jiménez A, Mora ML, Sierra A. Ventilator-associated pneumonia using a heated humidifier or a heat and moisture exchanger: a randomized controlled trial. *Crit Care Lond Engl* 2006;10(4):R116.
+
+[89] Yaremchuk K. Regular tracheostomy tube changes to prevent formation of granulation tissue. *The Laryngoscope* 2003;113(1):1–10.
+
+[90] Tabaee A, Lando T, Rickert S, Stewart MG, Kuhel WI. Practice patterns, safety, and rationale for tracheostomy tube changes: a survey of otolaryngology training programs. *The Laryngoscope* 2007;117(4):573–6.
+
+[91] Conseil des communautés européennes. Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux; 1993.
+
+[92] Backman S, Björling G, Johansson U-B, Lysdahl M, Markström A, Schedin U, et al. Material wear of polymeric tracheostomy tubes: a six-month study. *The Laryngoscope* 2009;119(4):657–64.
+
+[93] Choate K, Barbetti J, Currey J. Tracheostomy decannulation failure rate following critical illness: a prospective descriptive study. *Aust Crit Care* 2009;22(1):8–15.
+
+[94] Frank U, Mäder M, Sticher H. Dysphagic patients with tracheotomies: a multidisciplinary approach to treatment and decannulation management. *Dysphagia* 2007;22(1):20–9.
+
+[95] Cohen O, Tzelnick S, Lahav Y, Stavi D, Shoffel-Havakuk H, Hain M, et al. Feasibility of a single-stage tracheostomy decannulation protocol with endoscopy in adult patients. *The Laryngoscope* 2016;126(9):2057–62.
+
+[96] Pandian V, Miller CR, Schiavi AJ, Yarmus L, Contractor A, Haut ER, et al. Utilization of a standardized tracheostomy capping and decannulation protocol to improve patient safety. *The Laryngoscope* 2014;124(8):1794–800.
+
+[97] Ceriana P, Carlucci A, Navalesi P, Rampulla C, Delmastro M, Piaggi G, et al. Weaning from tracheotomy in long-term mechanically ventilated patients: feasibility of a decisional flowchart and clinical outcome. *Intensive Care Med* 2003;29(5):845–8.
+
+[98] Suiter DM, McCullough GH, Powell PW. Effects of cuff deflation and one-way tracheostomy speaking valve placement on swallow physiology. *Dysphagia* 2003;18(4):284–92.
+
+[99] Pryor LN, Ward EC, Cornwell PL, O'Connor SN, Chapman MJ. Clinical indicators associated with successful tracheostomy cuff deflation. *Aust Crit Care* 2016;29(3):132–7.
+
+[100] Santus P, Gramegna A, Radovanovic D, Raccanelli R, Valenti V, Rabbiosi D, et al. A systematic review on tracheostomy decannulation: a proposal of a quantitative semi-quantitative clinical score. *BMC Pulm Med* 2014;14:201.
+
+[101] Rumbak MJ, Graves AE, Scott MP, Sporn GK, Walsh FW, Anderson WM, et al. Tracheostomy tube occlusion protocol predicts![Teal square logo](a994e1baa290746e500c9c990167c823_1_img.webp)
+
+significant tracheal obstruction to air flow in patients requiring prolonged mechanical ventilation. Crit Care Med 1997;25(3):413-7.
+
+[102] de Zanata IL, Santos RS, Hirata GC. Tracheal decannulation protocol in patients affected by traumatic brain injury. Int Arch Otorhinolaryngol 2014;18(2):108-14.
+
+[103] Hernandez G, Pedrosa A, Ortiz R, del Cruz Accuaroni MM, Cuena R, Vaquero Colado C, et al. The effects of increasing
+
+effective airway diameter on weaning from mechanical ventilation in tracheostomized patients: a randomized controlled trial. Intensive Care Med 2013;39(6):1063-70.
+
+[104] Warnecke T, Suntrup S, Teismann IK, Hamacher C, Oelenberg S, Dziewas R. Standardized endoscopic swallowing evaluation for tracheostomy decannulation in critically ill neurologic patients. Crit Care Med 2013;41(7):1728-32.
+
+[105] Romero CM, Marambio A, Larrondo J, Walker K, Lira M-T, Tobar E, et al. Swallowing dysfunction in nonneurologic critically ill patients who require percutaneous dilatational tracheostomy. Chest 2010;137(6):1278-82.
+
+[106] Rodrigues LB, Nunes TA. Importance of flexible bronchoscopy in decannulation of tracheostomy patients. Rev Col Bras Cir 2015;42(2):75-80.
