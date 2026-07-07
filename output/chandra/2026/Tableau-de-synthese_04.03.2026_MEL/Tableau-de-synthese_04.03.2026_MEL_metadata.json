@@ -1,0 +1,21 @@
+{
+  "file_name": "Tableau-de-synthese_04.03.2026_MEL.pdf",
+  "num_pages": 1,
+  "total_token_count": 2277,
+  "total_chunks": 2,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 2277,
+      "num_chunks": 2,
+      "num_images": 0
+    }
+  ]
+}

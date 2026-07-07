@@ -1,0 +1,141 @@
+{
+  "file_name": "Algorithmes_RFE-gestion-de-lanticoagulation-dans-un-contexte-durgence_2024.pdf",
+  "num_pages": 11,
+  "total_token_count": 12667,
+  "total_chunks": 65,
+  "total_images": 8,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 722,
+      "num_chunks": 6,
+      "num_images": 4
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1080,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 968,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1078,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1290,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 971,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 997,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1335,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1584,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1286,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 1356,
+      "num_chunks": 9,
+      "num_images": 4
+    }
+  ]
+}

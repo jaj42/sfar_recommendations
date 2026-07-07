@@ -1,0 +1,1584 @@
+![SFAR logo: three overlapping circles in orange, red, and teal, with the text 'SFAR' in blue to the right.](ba91814d52e5b2345c16056b07d3ed50_1_img.webp)
+
+## **RECOMMANDATIONS FORMALISEES D'EXPERTS**
+
+**DE LA SOCIETE FRANÇAISE D'ANESTHESIE ET REANIMATION (SFAR)**
+
+**EN ASSOCIATION AVEC LA SOFMER**
+
+# **Décisions de limitation et d'arrêt de traitements (LAT) en soins critiques de l'adulte**
+
+**Guidelines for decisions to withhold or withdraw life-sustaining treatments (LST) in adult  
+ICU**
+
+**2025**
+
+![SOFMER logo: a stylized red figure with a curved line above it, and the text 'SOFMER' in blue below.](ba91814d52e5b2345c16056b07d3ed50_8_img.webp)
+
+**Texte validé par le Comité des Référentiels Cliniques de la SFAR le 10/05/2025 le Conseil d'Administration de la SFAR le 15/07/2025.**
+
+**Auteurs :**
+
+Mikhael Giabicani, Gérard Audibert, Enora Atchade, Flora Bastiani Elodie Brunel, Marie Citrini, Claire Dahyot-Fizelier, Nicolas Engrand, Clément Gakuba, Agathe Kudela, Yoann Launey, Yann Le Guen, Jonathan Lévy, Olivier Maillé, Jerome Morel, Pierre-François Perrigault, Sylvaine Robin, Christelle Rosenstrauch, Léa Satre-Buisson, Pierre Trouiller, Denis Frasca, Elise Langouet.
+
+**Coordonnateurs d'experts SFAR :**
+
+Mikhael Giabicani (Ile-de-France, SFAR)### **Organisateurs SFAR :**
+
+Denis Frasca (Poitiers, SFAR), Elise Langouet (Bordeaux, SFAR)
+
+### **Experts de la SFAR :**
+
+Agathe Kudela (Ile-de-France, CHU), Clément Gakuba (Normandie, CHU), Gérard Audibert (Lorraine, CHU), Sylvaine Robin (Auvergne-Rhône-Alpes, CHU/ESPIC), Nicolas Engrand (Ile-de-France, ESPIC), Pierre-François Perrigault (Occitanie, CHU), Elodie Brunel (Occitanie, Privé), Claire Dahyot-Fizelier (Nouvelle-Aquitaine, CHU), Yoann Launey (Bretagne, CHU), Pierre Trouiller (Ile-de-France, ESPIC), Léa Satre-Buisson (Ile-de-France, CHU), Enora Atchade (Ile-de-France, CHU), Jérôme Morel (Auvergne-Rhône-Alpes, CHU), Yann Le Guen (Grenoble, CHU), Christelle Rosenstrauch (Lille, CHU), Flora Bastiani (Toulouse, université).
+
+### **Expert usagers :**
+
+Marie Citrini (Ile de France, HAS)
+
+### **Expert de la Société SOFMER :**
+
+Jonathan Levy (Ile-de-France, CHU)
+
+### **Expert soins palliatifs :**
+
+Olivier Maillé (Montpellier, CHU)
+
+### **Groupe de Lecture :**
+
+*Comité des Référentiels cliniques de la SFAR* : Alice Blet (Présidente), Hélène Charbonneau (Secrétaire), Isabelle Constant (Représentante du CA), Marie-Pierre Bonnet (Représentante du CA), Aurélien Bonnal, Anais Caillard, Hugues de Courson, Matthieu Dumont, Denis Frasca, Medhi Hafiani, Pierre Huette, Elise Langouet, Axel Maurice-Szamburski, Daphné Michelet, Maxime Nguyen, Stéphanie Ruiz, Michaël Vourc'h.
+
+**Conseil d'Administration de la SFAR** : Jean-Michel Constantin (Président) ; Marc Léone (1<sup>er</sup> vice-président), Karine Nouette-Gaulain (2<sup>ème</sup> vice-présidente), Isabelle Constant (secrétaire générale), Frédéric Le Saché (secrétaire général adjoint), Evelyne Combettes (trésorière), Hélène Beloeil, Lucie Beylacq, Valérie Billard, Marie-Pierre Bonnet, Julien Cabaton, Sébastien Campard, Vincent Collange, Marion Costecalde, Violaine D'Ans, Laurent Delaunay, Delphine Garrigue, Frédéric Lacroix, Sigismond Lasocki, Anne-Claire Lukaszewicz, Jane Muret, Olivier Rontes, Nadia Smail.
+
+### **Liens d'intérêts des experts SFAR au cours des cinq années précédant la date de validation par le CA de la SFAR.**
+
+Mikhael Giabicani : pas de lien d'intérêt en rapport avec la présente RFE
+
+Enora Atchade : pas de lien d'intérêt en rapport avec la présente RFE
+
+Gérard Audibert : pas de lien d'intérêt en rapport avec la présente RFE
+
+Elodie Brunel : pas de lien d'intérêt en rapport avec la présente RFE
+
+Claire Dahyot-Fizelier : pas de lien d'intérêt en rapport avec la présente RFE
+
+Nicolas Engrand : pas de lien d'intérêt en rapport avec la présente RFE
+
+Clément Gakuba : pas de lien d'intérêt en rapport avec la présente RFE
+
+Agathe Kudela : pas de lien d'intérêt en rapport avec la présente RFE
+
+Yoann Launey : pas de lien d'intérêt en rapport avec la présente RFE
+
+Jérôme Morel : pas de lien d'intérêt en rapport avec la présente RFE
+
+Pierre-François Perrigault : pas de lien d'intérêt en rapport avec la présente RFE
+
+Sylvaine Robin : pas de lien d'intérêt en rapport avec la présente RFE
+
+Léa Satre-Buisson : pas de lien d'intérêt en rapport avec la présente RFEPierre Trouiller : pas de lien d'intérêt en rapport avec la présente RFE
+
+Denis Frasca : pas de lien d'intérêt en rapport avec la présente RFE
+
+Élise Langouet : pas de lien d'intérêt en rapport avec la présente RFE
+
+**Liens d'intérêts des experts associés au cours des cinq années précédant la date de validation par le CA de la société associée.**
+
+Flora Bastiani (philosophe, Comité éthique SFAR) : pas de lien d'intérêt en rapport avec la présente RFE
+
+Marie Citrini (Usager experte, HAS) : pas de lien d'intérêt en rapport avec la présente RFE
+
+Yann Le Guen (IDE, comité SFAR IDE-réa) : pas de lien d'intérêt en rapport avec la présente RFE
+
+Christelle Rosenstrauch (Psychologue, Comité éthique SFAR) : pas de lien d'intérêt en rapport avec la présente RFE
+
+Olivier Maillé : pas de lien d'intérêt en rapport avec la présente RFE
+
+Jonathan Lévy (SOFMER) : pas de lien d'intérêt en rapport avec la présente RFE## RESUME
+
+**Objectif :** La Société Française d'Anesthésie et de Réanimation (SFAR) et la Société Française de Médecine Physique et de Réadaptation (SOFMER) se sont associées pour proposer des recommandations pour la pratique professionnelle sur les décisions de limitation et arrêt de traitements (LAT) en services de soins critiques de l'adulte.
+
+**Conception :** Un groupe de 20 experts français de la SFAR et la SOFMER a été constitué. D'éventuels conflits d'intérêts ont été officiellement déclarés dès le début du processus d'élaboration des recommandations et ce dernier a été conduit indépendamment de tout financement de l'industrie. Les auteurs ont suivi la méthodologie GRADE (*Grading of Recommendations Assessment, Development and Evaluation*) pour évaluer le niveau de preuve de la littérature.
+
+**Méthodes :** Trois champs ont été définis : 1) Prérequis et modalités d'une décision de LAT ; 2) Modalités de mise en œuvre d'une décision de LAT ; 3) Relations avec les proches, communication, désaccords et conflits. Pour chaque champ, l'objectif des recommandations était de répondre à un certain nombre de questions formulées par les experts selon le modèle PICO (*Population, Intervention, Comparison, Outcome*). À partir de ces questions, une recherche bibliographique extensive sur 25 années a été réalisée en utilisant des mots clés prédéfinis selon les recommandations PRISMA. La qualité des données a été analysée selon la méthode GRADE. Les recommandations ont été formulées selon la méthode GRADE, puis votées par tous les experts selon la méthode GRADE®
+
+**Résultats :** Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 9 recommandations absences de recommandation. Parmi ces recommandations, 1 à un niveau de preuve élevé (GRADE 1), 2 ont un niveau de preuve faible (GRADE 2) et 6 sont des avis d'experts. Après 1 tour de vote, un accord fort a été obtenu pour 6 recommandations. Enfin, pour 2 questions, aucune recommandation n'a pu être formulée.
+
+**Conclusion :** Un accord fort a été obtenu parmi les experts afin de fournir des recommandations visant à proposer un référentiel sur les décisions de LAT en soins critiques de l'adulte.
+
+**Mots clés :** décisions de limitation et arrêt des traitements (LAT), soins critiques, éthique.## ABSTRACT
+
+**Objective:** The French Society of Anaesthesia and Intensive Care Medicine (Société française d'anesthésie et de réanimation, SFAR) and the French Society of Physical Medicine and Rehabilitation (Société Française de Médecine Physique et de Réadaptation (SOFMER)) aimed at providing guidelines for Guidelines for decisions to withhold or withdraw life-sustaining treatments (LST) in adult ICU.
+
+**Design:** A consensus committee of 20 experts from the SFAR and the SOFMER was convened. A formal conflict-of-interest (COI) policy was developed at the beginning of the process and enforced throughout. The entire guideline construction process was conducted independently of any industrial funding (i.e. pharmaceutical, medical devices). The authors were required to follow the rules of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system to guide assessment of quality of evidence. The potential drawbacks of making strong recommendations in the presence of low-quality evidence were emphasised.
+
+**Methods:** 3 fields were defined: 1) modalities of the LST decision-making process; 2) modalities for implementing an decision; 3) Relationships with family members, communication, disagreements, and conflicts. For each field, the objective of the recommendations was to answer a number of questions formulated according to the PICO model (population, intervention, comparison, and outcomes). Based on these questions, an extensive bibliographic search carried out using predefined keywords according to PRISMA guidelines and analyzed using the GRADE® methodology. The recommendations were formulated according to the GRADE® methodology and then voted on by the experts according to the GRADE® grid method.
+
+**Results:** The experts' work on synthesis and application of the GRADE® method resulted in 9 recommendations. Among the formalized recommendations, 1 was found to have a high level of evidence (GRADE 1) and 2 had low levels of evidence (GRADE 2). For 6 recommendations, the GRADE® methodology could not be fully applied, resulting in an expert opinion. 2 questions could not be answered due to a lack in the literature. After 1 round of rating, strong agreement was reached for all the recommendations.
+
+**Conclusions:** There was strong agreement among experts to provide recommendations to improve practices for decisions to withhold or withdraw LST in adult ICU .
+
+**Keywords:** LST limitation decision, ICU, ethics.## Introduction
+
+### Décisions de limitation et arrêt de traitements (LAT) en France
+
+En France, selon les dernières données publiées par l'INSEE, 53 % des décès ont lieu en milieu hospitalier (public ou privé), parmi lesquels 23 % ont lieu dans des services de soins critiques (soit environ 12 % des Français qui décèdent en service de soins critiques) [1]. Aujourd'hui, 80 à 90 % des décès qui surviennent en services de soins critiques font suite à une décision de limitation ou d'arrêt de traitements (LAT) [2,3] et, de manière générale, 12 à 14 % des patients admis en service de soins critiques font l'objet d'une décision de LAT au cours de leur séjour [2–4]. Avant la mise en place du cadre législatif, les décisions de LAT dans les services de soins critiques étaient déjà fréquentes mais peu formalisées [5]. En effet, depuis une vingtaine d'années, les pratiques relatives aux décisions de LAT sont encadrées en France par des dispositions législatives (loi relative aux droits des malades et à la fin de vie du 22 avril 2005 dite loi Leonetti [6] ; loi créant de nouveaux droits en faveur des malades et des personnes en fin de vie du 2 février 2016 dite Loi Claeys-Leonetti [7]). Si ces lois ont marqué un tournant important dans la gestion de la fin de vie en soins critiques, elles ne répondent pas à toutes les questions pratiques liées à la prise de décision pour une LAT, à sa mise en œuvre, ou à la gestion des situations complexes avec les proches.
+
+Le Comité d'Éthique et le Comité Réanimation de la Société Française d'Anesthésie Réanimation (SFAR) se sont associés pour proposer un référentiel dédié aux décisions de LAT en soins critiques de l'adulte. Ces recommandations visent un public large de professionnels, médicaux et paramédicaux, exerçant dans les services de soins critiques de l'adulte. Les services de soins critiques pédiatriques ont été exclus du champ de ces recommandations.
+
+Les experts ont choisi comme principal critère d'évaluation de ces Recommandations Formalisées d'Experts (RFE) **la qualité des soins** prodigués dans le cadre d'une démarche de décision de LAT.
+
+### La qualité des soins
+
+L'Organisation Mondiale de la Santé (OMS) définit la qualité des soins comme le degré avec lequel les soins de santé à la population atteignent les résultats attendus et sont conformes aux données actuelles de la science [8,9]. La qualité des soins doit pouvoir être mesurée et continuellement améliorée moyennant la prestation de soins fondés sur des données probantes tout en tenant compte des besoins et des préférences des utilisateurs (patients, famille et/ou proches) et des professionnels. Dans le cadre spécifique de ces recommandations, les experts ont précisé les déterminants de la qualité des soins relatifs aux décisions de LAT en soins critiques de l'adulte selon trois niveaux :
+
+- ● Le patient : confort du patient, connaissance des souhaits du patient, respect du cadre réglementaire (droits des patients) ;
+- ● La famille et les proches : satisfaction, anxiété, deuil compliqué, syndrome de stress post-traumatique, respect du cadre réglementaire (droits de la famille et des proches) ;
+- ● Les professionnels de santé (équipe médicale et équipe paramédicale) : développement d'une « ambiance éthique », souffrance soignante, respect du cadre réglementaire (devoirs de l'équipe médicale et paramédicale).
+
+### Objectif des recommandations
+
+L'objectif de ces RFE est de fournir un cadre, en complément des textes réglementaires (loi Claeys Leonetti), afin de guider les décisions de LAT et améliorer la qualité des soins dans les unités de soins critiques de l'adulte.
+
+Le groupe d'experts a formulé un nombre minimal de recommandations afin de mettre en exergue les points forts à retenir dans les trois champs de recommandations prédéfinis :
+
+1. 1. Prérequis et modalités d'une décision de limitation et/ou arrêt des traitements
+2. 2. Modalités de mise en œuvre d'une décision de limitation et/ou arrêt des traitements
+3. 3. Relations avec les proches, communication, désaccords et conflitsLa question de la religion n'a pas été spécifiquement abordée dans le champ de ces recommandations. Toutefois, il convient de rappeler que les valeurs spirituelles et religieuses exprimées par le patient peuvent, au même titre que ses autres valeurs personnelles et son histoire de vie, être prises en considération par les équipes médico-soignantes dans l'évaluation de la situation et l'élaboration du projet de soins. Si ces convictions ne peuvent à elles seules conditionner les modalités d'une décision de LAT, leur prise en compte, lorsqu'elle est possible, participe à une démarche respectueuse et individualisée.
+
+### **Définitions de termes utilisés dans ces recommandations**
+
+Certains des termes définis dans cette section ne sont pas utilisés dans le corps des recommandations mais il est apparu important de les préciser ici car beaucoup utilisés en pratique courante dans les services. Nous les avons classés par ordre alphabétique.
+
+#### **Ambiance éthique ("ethical climate")**
+
+Le terme "ambiance éthique" traduit la notion d'"ethical climate" utilisée dans la littérature anglo-saxonne [10,11].
+
+Dans le cadre des décisions de LAT, une « bonne ambiance éthique » réunit les conditions qui favorisent la délibération collective à la recherche de la meilleure solution dans une situation médicale complexe. Elle permet alors à chaque professionnel de s'engager dans la réflexion sur le sens des soins en cours et d'enrichir le débat en partageant son point de vue sur la base du respect des valeurs humaines autant que sur les connaissances scientifiques, à la recherche du meilleur intérêt pour le patient. En 2018, Van den Bulcke propose et valide un questionnaire à l'intention des cliniciens permettant d'auto-évaluer l'ambiance éthique dans laquelle sont prises les décisions de fin de vie dans les services de soins critiques de l'adulte : l'EDMCQ ([Ethical Decision-Making Climate Questionnaire](#)). Le questionnaire explore 3 domaines clés d'ambiance éthique retenus par des experts en éthique, en psychologie et en communication et experts en soins critiques de l'adulte, issus de travaux antérieurs : la collaboration et la communication entre professionnels, l'environnement éthique, les compétences en leadership médical. Les 32 items finalement retenus permettent de mesurer 7 grandes composantes d'ambiance éthique, recouvrant ces 3 domaines :
+
+- ● Pratique et ambiance de réflexion interdisciplinaire (7 items)
+- ● Culture de respect mutuel dans l'équipe interdisciplinaire (3 items)
+- ● Culture et pratique d'attention éthique (4 items)
+- ● Implication active des infirmiers dans les prises de décision et les soins de fin de vie (3 items)
+- ● Leadership des médecins, réfléchi et profitable/responsable (7 items)
+- ● Absence d'évitement des décisions de fin de vie (4 items)
+- ● Prise de décision active par les médecins (4 items).
+
+La réponse à chaque item est notée de 1 à 4 ou 5 selon une échelle de type Likert. Le score moyen obtenu dans chaque composante permet de différencier 4 types d'ambiance éthique : "bonne", "mauvaise", "moyenne +" et "moyenne -".
+
+#### **Autonomie et principe de respect de l'autonomie du patient**
+
+Dans *Les principes de l'éthique biomédicale* (Tom L. Beauchamp, James F. Childress), l'autonomie personnelle et le principe de respect de l'autonomie sont définis comme désignant, au minimum, « l'autorégulation libre de l'ingérence des autres et des limitations, [...] qui font obstacle à un choix réel. L'individu autonome agit librement en accord avec un projet qu'il a lui-même choisi [...] Respecter un individu autonome, c'est, au minimum, reconnaître le droit de cette personne à avoir des opinions, à faire des choix et à agir en fonction de ses valeurs et de ses croyances » [12].
+
+#### **Conflits**
+
+Nous proposons d'utiliser la définition suivante dans ces recommandations : « Le terme de conflit évoque le combat, la lutte [...] ; il suggère la rencontre d'éléments qui s'opposent [...], de positions*antagonistes [...] ; il renvoie souvent à une relation de tension et d'oppositions entre personnes [...]. La notion de conflit désigne donc une situation relationnelle structurée autour d'un antagonisme. Celui-ci peut être dû à la présence simultanée de forces opposées, à un désaccord (sur des valeurs, des opinions, des positions...), à une rivalité lorsque des acteurs sont en compétition pour atteindre le même but ou posséder le même objet (personne, bien, statut, territoire...) ou à une inimitié affective (animosité, hostilité, haine...) » [13]. Le conflit se distingue du simple désaccord par l'implication émotionnelle qu'éprouve au moins l'une des parties.*
+
+### **Consensus, dissensus**
+
+Le consensus est un accord et un consentement du plus grand nombre, de l'opinion publique. C'est une procédure qui consiste à dégager un accord sans procéder à un vote formel, ce qui évite de faire apparaître les objections et les abstentions. Le consensus ne nécessite pas obligatoirement l'unanimité, certaines personnes peuvent, à défaut d'approuver une décision, se contenter de « ne pas s'y opposer ».
+
+Le dissensus est l'échec d'une recherche de consensus, une absence de consensus constatée à l'issue d'une négociation, voire une opposition délibérée des différentes opinions sans chercher à les rapprocher.
+
+### **Consultant extérieur**
+
+La procédure collégiale, telle que définie dans l'article 37-2 du Code de santé publique, rend obligatoire « *l'avis motivé d'un médecin, appelé en tant que consultant* ». Il ne doit exister aucun lien hiérarchique entre le médecin en charge du patient et le consultant. La [SFAR en 2018](#) et la HAS en 2020 [15]) ont stipulé que ce consultant doit être extérieur à l'équipe de soin. Ainsi, ce médecin consultant est souvent appelé « consultant extérieur » ou « intervenant extérieur » (Cf. Figures 4 et 5, R1.4).
+
+### **Directives anticipées**
+
+Les directives anticipées sont le recueil des volontés de la personne. Il s'agit d'une déclaration écrite, datée et signée, destinée à préciser les souhaits de la personne relatifs à sa fin de vie, et valable sans limitation de durée. Elles peuvent être modifiées à tout moment. Elles expriment par avance la volonté de la personne concernant les conditions de poursuite, de limitation, d'arrêt ou de refus de traitements ou d'actes médicaux, dans le cas où celle-ci ne pourrait plus les exprimer. Elles n'ont pas vocation à être utilisées si le patient est en capacité d'exprimer ses volontés. Les directives anticipées ne sont ni un testament, ni un document pour anticiper l'organisation de ses obsèques ; elles se limitent aux traitements que peut recevoir une personne en fin de vie [14]. (Cf. Figure 1, R1.2).
+
+### **Équipe soignante pluriprofessionnelle**
+
+L'équipe soignante comprend l'ensemble des professionnels soignants impliqués dans la prise en charge du patient : médecins (seniors et en formation), infirmiers.ière.s, aides-soignant.e.s/es, kinésithérapeutes, etc.
+
+### **Indication thérapeutique et contre-indication**
+
+Les traitements médicaux et chirurgicaux sont décidés en fonction de leur « indication thérapeutique », qui définit les maladies ou symptômes qu'un médicament ou une technique peut traiter ou prévenir.
+
+Dans le cas des techniques de suppléance d'organes (comme la ventilation mécanique ou l'épuration extra-rénale), l'indication repose sur des recommandations établies par les sociétés savantes. Cependant, en soins critiques, ce concept peut prêter à confusion : il ne suffit pas qu'un organe défaillant puisse être temporairement remplacé pour justifier l'utilisation d'une telle technique. Leur utilisation doit donc toujours être évaluée en fonction du contexte clinique global et de la possibilité de récupération de la fonction organique concernée. Il en est de même pour les indicationsd'interventions chirurgicales pour lesquelles il ne suffit pas que le geste chirurgical soit techniquement réalisable pour le rendre indiqué.
+
+La notion de contre-indication est plus simple à appréhender. Elle correspond à des situations dans lesquelles il ne faut pas administrer un traitement pour des raisons de sécurité. Ces contre-indications font appel à des données inscrites dans l'AMM des médicaments et sont en général unanimement reconnues. Indépendamment de la situation clinique, elles correspondent à des traitements qu'il ne faut pas mettre en œuvre en raison des risques qu'ils représentent ou du moins d'une balance bénéfices/risques défavorable reconnue de manière unanime par la communauté médicale et scientifique.
+
+L'absence d'indication et la contre-indication sont à distinguer des décisions de limitation de traitements :
+
+- - En cas d'absence d'indication ou en cas de contre-indication, il ne faut pas introduire le traitement. Celui-ci ne rentre pas dans le cadre d'une indication reconnue et ne modifierait en rien l'évolution du patient. Ces situations ne relèvent pas du cadre des décisions de LAT.
+- - En cas de limitation des traitements, il est décidé de ne pas introduire le traitement, bien qu'il puisse être indiqué, au nom du refus de l'obstination déraisonnable.
+
+### **Limitation et arrêt des traitements**
+
+La limitation des traitements regroupe deux entités :
+
+- ● La non-majoration d'un ou de plusieurs traitements dont des techniques de suppléances d'organes assurant un maintien artificiel en vie
+- ● La non-instauration d'un ou de plusieurs traitement(s) en cas de nouvelle défaillance d'organe.
+
+L'arrêt des traitements est défini par l'interruption d'un ou de plusieurs traitements dont des techniques de suppléances d'organes assurant un maintien artificiel en vie.
+
+### **Niveau d'engagement thérapeutique**
+
+À l'issue de la réunion collégiale, la décision de LAT peut être exprimée sous la forme d'un « niveau d'engagement thérapeutique ». Ce niveau d'engagement thérapeutique traduit, sous la forme d'une stratification, la décision de poursuivre, limiter ou arrêter des traitements. Par exemple, la SFAR propose, dans sa « Fiche de décision en vue d'une limitation ou arrêt des traitements » ([Fiche LAT SFAR](#)), trois niveaux de stratification de l'engagement thérapeutique pouvant être décidés à l'issue de la réunion collégiale [15] :
+
+- ● Niveau d'engagement 1 : Engagement thérapeutique maximal
+- ● Niveau d'engagement 2 : Limitation d'une ou de plusieurs thérapeutiques
+- ● Niveau d'engagement 3 : Arrêt des traitements et démarche palliative
+
+### **Obstination déraisonnable**
+
+« *Les actes de prévention, d'investigation ou de soins ne doivent pas, en l'état des connaissances médicales, faire courir [au patient] de risques disproportionnés par rapport au bénéfice escompté. Ces actes ne doivent pas être poursuivis par une obstination déraisonnable. Lorsqu'ils apparaissent inutiles, disproportionnés ou n'ayant d'autre effet que le seul maintien artificiel de la vie, ils peuvent être suspendus ou ne pas être entrepris.* » [16]. L'obstination déraisonnable est définie dans la loi selon trois critères : l'inutilité, la disproportion et le maintien artificiel de la vie. Dans cette définition, l'inutilité fait référence à l'absence de bénéfice médical, la disproportion vise à évaluer la relation entre la finalité recherchée et les moyens possibles pour l'atteindre et le maintien artificiel de la vie fait écho à la finalité des interventions lorsqu'elle devient illégitime [17].
+
+### **Personne de confiance et personne référente**La personne de confiance est désignée par un patient pour l'accompagner dans son parcours médical et le représenter pour ses décisions médicales au moment où le patient n'est plus en mesure de s'exprimer. La personne de confiance ne décide pas à la place du patient mais elle témoigne auprès des soignants de qui il est, elle transmet ses préférences et ses volontés. La personne de confiance n'est pas responsable de la prise de décision médicale : le médecin s'appuie sur les éléments qu'elle lui apporte pour prendre une décision mais celle-ci reste de son ressort. Toute personne majeure peut désigner une personne de confiance (une seule) [18]. Ce choix, qui n'est pas obligatoire, constitue un droit instauré par la loi du 4 mars 2002 relative aux droits des malades. Son rôle dans la prise en charge de la fin de vie est précisé par la loi du 2 février 2016 relative aux droits des malades et des personnes en fin de vie. La personne de confiance est désignée par un document écrit, daté et signé par le patient et sa personne de confiance.
+
+La « personne de confiance » doit être différenciée de la « personne référente » ou « personne à prévenir » : il ne s'agit pas nécessairement de la même personne.
+
+La personne référente, ou personne à prévenir, est celle qui est contactée par l'équipe médicale en cas de dégradation de l'état de santé ou de survenue d'un événement inattendu. Elle peut également recueillir les informations médicales au jour le jour. Néanmoins, dans le cadre d'une procédure de décision de LAT, c'est, au minimum, la personne de confiance qui doit être dépositaire des informations concernant la décision. (Cf. Figure 2, R1.2).
+
+### **Procédure collégiale**
+
+La procédure collégiale est définie par le Code de santé publique. Elle consiste en une concertation entre les membres de l'équipe soignante en charge du patient et au moins un médecin consultant qui ne doit avoir aucun rapport hiérarchique avec l'équipe (dit « consultant extérieur »). Cette procédure vise à garantir la transparence et, surtout, une concertation préalable aux décisions relatives à la fin de vie. Pour autant, ces dernières relèvent *in fine* de la seule responsabilité du médecin en charge du patient [19].
+
+La procédure collégiale est obligatoire :
+
+- • lorsque l'équipe soignante envisage une décision de LAT au titre du refus de l'obstination déraisonnable et que le patient n'est pas en état d'exprimer sa volonté ;
+- • avant la mise en place d'une sédation profonde et continue jusqu'au décès ;
+- • dans le cas du refus de l'équipe soignante d'appliquer des directives anticipées (jugées inappropriées ou non conformes à la situation médicale).
+
+(Cf. Figures 4 et 5, R1.4).
+
+### **Proches**
+
+Le terme « proches » n'a pas de définition précise au regard de la loi bien qu'il soit largement utilisé dans le cadre législatif. Ce terme peut être entendu de manière très subjective comme toute personne appartenant à l'entourage d'un patient faisant éventuellement intervenir une composante émotionnelle ou affective. La famille fait habituellement référence aux liens de filiation et au mariage, ou concubinage, ou PACS : ascendants (parents, grands-parents), descendants (enfants, petits-enfants), conjoint marié, concubin ou pacsé et personnes unies par un lien de parenté (frères, sœurs, cousins...) ou d'alliance (beau-frère, belle-sœur...). Usuellement, le terme « proches » est plus large et comprend également les ami(e)s. Dans le cadre de ces recommandations, nous utiliserons le terme « proches » pour faire référence à toute personne appartenant à la famille du patient et/ou déclarant avoir des liens affectifs avec ce dernier.
+
+### **Réanimation d'attente**
+
+La notion de « réanimation d'attente », ou « *time-limited trial* », fait référence à une prise en charge en réanimation de patients pour lesquels l'indication ou l'absence d'indication à une admission en réanimation n'est pas suffisamment claire et pour lesquels une hospitalisation de quelques heures ou quelques jours (usuellement jusqu'à 2 jours, durée pouvant s'étendre jusqu'à 5 jours chez la personneâgée fragile [20]) est envisagée dans le but de faire par excès plutôt que par défaut, le temps de recueillir les informations et les avis nécessaires à une prise de décision plus éclairée d'une part et d'évaluer l'évolution du patient dans le contexte de la réanimation d'autre part [21]. La décision de la poursuite des traitements de réanimation et/ou de leur intensité est alors réévaluée après quelques heures ou quelques jours en service de réanimation.
+
+### Recours en référé
+
+Les recours juridiques contre les décisions de LAT dans les centres hospitaliers publics ou privés d'intérêt collectif se font par la voie du « référé-liberté » auprès des tribunaux administratifs. Il s'agit d'une procédure d'urgence permettant de demander au juge des référés de suspendre une mesure portant une atteinte grave et manifestement illégale à l'exercice d'une liberté fondamentale. Pour justifier le recours, le requérant doit remplir trois conditions : justifier de l'urgence de la situation, montrer qu'une liberté fondamentale est en cause et montrer que l'atteinte portée à cette liberté fondamentale est grave et manifestement illégale. Si ces trois conditions sont présentes et justifiées, la requête est instruite de façon accélérée. Le juge communique la requête à l'administration et l'ensemble des personnes concernées, et fixe dans les plus brefs délais la date et l'heure de l'audience à l'issue de laquelle le juge, statuant comme juge unique, se prononce dans un délai de 48 heures.
+
+Depuis 2017, suite à une question prioritaire de constitutionnalité ([Décision n°2017-632 QPC du 2 juin 2017](#) [22]), il est stipulé qu'un délai pour former ce recours doit être laissé à la personne de confiance ou aux proches avant la mise en œuvre de la décision : *« s'agissant d'une décision d'arrêt ou de limitation de traitements de maintien en vie conduisant au décès d'une personne hors d'état d'exprimer sa volonté, le droit à un recours juridictionnel effectif impose que cette décision soit notifiée aux personnes auprès desquelles le médecin s'est enquis de la volonté du patient, dans des conditions leur permettant d'exercer un recours en temps utile »*.
+
+### Sédation profonde et continue
+
+*« La sédation en situation palliative est la recherche, par des moyens médicamenteux, d'une diminution de la vigilance pouvant aller jusqu'à la perte de conscience. Son but est de diminuer ou de faire disparaître la perception d'une situation vécue comme insupportable par le patient, alors que tous les autres moyens disponibles et adaptés à cette situation ont pu lui être proposés et/ou mis en œuvre sans permettre le soulagement escompté. »* [23,24] Parmi les pratiques sédatives à visée palliative en fin de vie, on distingue : **1) la sédation dite « proportionnée »** à l'intensité des symptômes qui peut permettre au patient de garder une vie relationnelle. Elle peut être transitoire, intermittente et potentiellement réversible ; **2) la sédation profonde et continue** qui entraîne une suspension de la conscience poursuivie jusqu'au décès [23,24]. Sa mise en œuvre doit respecter les indications précisées par le cadre de la loi du 2 février 2016. Cette sédation doit être titrée à l'aide d'une échelle d'évaluation. La HAS propose, par exemple, d'utiliser l'échelle RASS (*Richmond Agitation-Sedation Scale*) avec une valeur cible de RASS à -4 ou -5 [23]. (Cf. Figure 6, R2.1).
+
+### Soins et traitements
+
+Un « traitement » se réfère à une thérapeutique à visée curative et/ou préventive ou à une technique de suppléance d'une défaillance d'organe (« *to cure* » : guérir une affection ou s'efforcer de le faire), la nutrition et l'hydratation artificielles constituent à ce titre des traitements [7].
+
+Les « soins » incluent notamment les soins d'hygiène, la prise en charge de la douleur et de la souffrance (« *to care* » : prendre soin), et font référence à une prise en charge plus globale du patient.
+
+### Soins palliatifs
+
+Les soins palliatifs sont des soins interdisciplinaires actifs délivrés dans une approche globale de la personne, visant à soulager les douleurs et à prendre en compte la souffrance psychologique, sociale et spirituelle [15].## Structure d'éthique clinique
+
+Différents types de structures ayant une activité d'éthique clinique existent en France. De manière générale, l'éthique clinique a pour vocation d'apporter une aide en cas de décision médicale « éthiquement » difficile. D'un point de vue sémantique, on retrouve à la fois dans la littérature anglo-saxonne les termes « clinical ethics consultations », « clinical ethics support » et en Français « comité consultatif d'éthique clinique », « cellule de support d'éthique clinique », « consultation d'éthique clinique », « cellule éthique », « comité éthique », ou encore « groupe (d'appui et) de réflexion éthique ». Ces structures font toutes référence aux ressources éthiques extérieures au service de réanimation (comités ou personnes spécialisées), présentes à l'échelle d'une institution. La composition et le fonctionnement de ces structures est variable selon les hôpitaux. Dans le cadre de ces recommandations, nous les regrouperons sous le terme « structures d'éthique clinique » (SEC) pour désigner toute structure ayant une activité d'éthique clinique.
+
+Ces SEC n'incluent pas les structures de médiation dont l'objectif est d'aider à résoudre des difficultés relationnelles auxquelles les professionnels peuvent être confrontés dans le cadre de leur activité par un processus structuré de résolution des conflits à l'amiable entre les deux parties, facilité par l'intervention d'un tiers formé et neutre.
+
+## Objectif des recommandations
+
+L'objectif de ces Recommandations Formalisées d'Experts est de produire un cadre facilitant la prise de **décision de limitation et d'arrêt de traitements (LAT) en soins critiques de l'adulte**. Le groupe s'est efforcé de produire un nombre minimal de recommandations afin de mettre en évidence les points forts à retenir dans les 3 champs prédéfinis. Les règles de base des bonnes pratiques médicales universelles en soins critiques et de l'éthique médicale étant considérées comme connues, elles ont été exclues de ces recommandations ; ces dernières se focalisant sur les éléments spécifiques de la prise de **décision de limitation et d'arrêt de traitements (LAT) en soins critiques de l'adulte**. Le public visé est les professionnels, médicaux et paramédicaux, exerçant dans les services de soins critiques de l'adulte.
+
+## Méthode
+
+### Organisation générale
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la SFAR. Des experts provenant de la SOFMER associés à ce travail, ont été intégrés aux groupes de travail pour les questions requérant leur expertise. Chaque expert a rempli une déclaration de conflits d'intérêts avant de débuter le travail d'analyse. Dans un premier temps, le comité d'organisation a défini les objectifs de ces recommandations et la méthodologie utilisée. Les différents champs d'application de ces RFE et les questions à traiter ont ensuite été définis par le comité d'organisation, puis modifiés et validés par les experts. Les questions ont été formulées selon un format PICO (*Population, Intervention, Comparison, Outcome*) après une première réunion du groupe d'experts. La population « P » suivant les questions est définie comme « les patients hospitalisés en réanimation en contexte de décision de LAT », « les proches d'un patient hospitalisé en réanimation en contexte de décision de LAT », ou bien « l'équipe soignante d'un patient hospitalisé en réanimation en contexte de décision de LAT ».
+
+### Champ des recommandations
+
+Les recommandations formulées concernent 3 champs :
+
+- ● Champ 1 : Prérequis et modalités d'une décision de LAT
+- ● Champ 2 : Modalités de mise en œuvre d'une décision de LAT
+- ● Champ 3 : Relations avec les proches, communication, désaccords et conflitsUne recherche bibliographique extensive de 2000 à 2025 était réalisée à partir des bases de données (MEDLINE, Tripdatabase ([www.tripdatabase.com](http://www.tripdatabase.com)), Prospero ([www.crd.york.ac.uk/PROSPERO](http://www.crd.york.ac.uk/PROSPERO)) et [www.clinicaltrials.gov](http://www.clinicaltrials.gov), EMBASE, SCOPUS, Cochrane ), par 2 ou 3 experts pour chaque champ d'application, selon la méthodologie Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA pour les revues systématiques). Les mots clés utilisés pour la recherche bibliographique ont été :
+
+- ● Champ 1 : Décisions de limitation et arrêt des traitements (LAT), limitation de traitements, arrêt de traitements, proportionnalité des traitements, niveau d'engagement thérapeutique, directives anticipées, personne de confiance, ambiance éthique, réanimation, soins critiques, équipes paramédicales.
+- ● Champ 2 : collégialité, réunions collégiales, réunions pluriprofessionnelles, fin de vie, décès, réglementation, loi, communication, information, proches, volontés du patient, éthique, projet de soins, souffrance soignante, deuil compliqué, syndrome de stress post-traumatique, anxiété, souffrance, réanimation, soins critiques, équipes paramédicales.
+- ● Champ 3 : souffrance soignante, deuil compliqué, syndrome de stress post-traumatique, anxiété, souffrance, consultation d'éthique clinique, désaccords, conflits, formation à la communication, médiation, comité éthique, stratégie d'accompagnement, aide à la décision, processus décisionnel, extubation terminale, ambiance éthique, équipes paramédicales.
+
+Ont été inclus dans l'analyse :
+
+1. 1) les méta-analyses, essais contrôlés randomisés, essais prospectifs non randomisés, cohortes rétrospectives, séries de cas et cas cliniques.
+2. 2) Les études conduites chez les proches, l'équipe soignante ou le patient hospitalisé en réanimation en situation de LAT.
+3. 3) Les travaux traitant des modalités de mise en œuvre d'une décision de LAT et les relations avec les proches de patients hospitalisés en soins critiques.
+4. 4) Les publications en langue anglaise ou française.
+
+La méthode de travail utilisée pour l'élaboration de ces recommandations est la méthode GRADE® (*Grade of Recommendation Assessment, Development and Evaluation*). Cette méthode permet, après une analyse qualitative et quantitative de la littérature, de déterminer séparément la qualité des preuves, et donc de donner une estimation de la confiance que l'on peut avoir dans l'analyse quantitative et un niveau de recommandation. La méthodologie GRADE a toutefois été appliquée pour l'analyse de la littérature et la rédaction des tableaux récapitulatifs des données de la littérature. Un niveau de preuve a donc été défini pour chacune des références bibliographiques citées en fonction du type d'étude. Ce niveau de preuve pouvait être ré-évalué en tenant compte de la qualité méthodologique de l'étude, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, de l'analyse de coût et de l'importance du bénéfice.
+
+Le critère de jugement composite défini comme la qualité des soins, regroupait plusieurs critères de jugement définis en amont, selon qu'ils concernaient :
+
+- ● le patient : son confort (importance 9), la connaissance de ses souhaits (importance 9), le respect de ses souhaits (importance 9)
+- ● les proches : leur anxiété (importance 8), le deuil compliqué (importance 8), le syndrome de stress post-traumatique (importance 8), la satisfaction/insatisfaction de la prise en charge (importance 9), les conflits (importance 9)
+- ● l'équipe médico-soignante : l'ambiance éthique (importance 9), la souffrance soignante (importance 8), les conflits (importance 9)
+
+Les recommandations ont ensuite été formulées en utilisant la terminologie des RFE de la SFAR :
+
+- ● Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » : GRADE 1 « il est recommandé de faire... », « il n'est pas recommandé de faire... ».- ● Un niveau global de preuve modéré ou faible aboutissait à l'écriture d'une recommandation « optionnelle » : GRADE 2 « il est probablement recommandé de faire... », « il n'est probablement pas recommandé de faire... ».
+- ● Lorsque la littérature était très faible ou inexistante, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'experts : Avis d'experts « les experts suggèrent... ».
+- ● Une « absence de recommandation » signifiait qu'il n'existait pas suffisamment de littérature pour conclure sur ce qu'il convient de faire. De nouvelles études devront apporter les réponses aux questions avec « absence de recommandation ». Une « absence de recommandation » doit être différenciée d'une recommandation négative de type « Il n'est pas recommandé de faire ». Dans ce cas, la littérature scientifique disponible est suffisamment robuste pour conduire à une recommandation négative.
+
+Les propositions de recommandations ont été présentées et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation a alors été évaluée par chacun des experts et soumise à une cotation individuelle à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La force de la recommandation est déterminée en fonction de cinq facteurs clés et validée par les experts après un vote, en utilisant la méthode GRADE® :
+
+- ● Estimation de l'effet : plus il est important, plus probablement la recommandation sera forte ;
+- ● Imprécision : en cas d'incertitude de l'estimateur ou de grande variabilité de son écart-type, la force de la recommandation sera probablement plus faible ;
+- ● Le niveau global de preuve : plus il est élevé, plus probablement la recommandation sera forte ;
+- ● La balance entre effets désirables et indésirables : plus celle-ci est favorable, plus probablement la recommandation sera forte ;
+- ● La préférence du patient, médecin ou décisionnaire doit être obtenue au mieux auprès des personnes concernées ;
+- ● Coûts : plus les coûts ou l'utilisation des ressources sont élevés, plus probablement la recommandation sera faible.
+
+Pour valider une recommandation, au moins 70 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. En l'absence de validation d'une ou de plusieurs recommandation(s), celle(s)-ci était(en)t reformulée(s) et, de nouveau, soumise(s) à cotation dans l'objectif d'aboutir à un consensus. Si les recommandations n'avaient pas obtenu un nombre suffisant d'opinions favorables et/ou obtenu un nombre trop élevé d'opinions défavorables, elles n'étaient pas éditées. Si une courte majorité des experts étaient d'accord avec la recommandation et plusieurs experts n'avaient pas d'opinion ou y étaient opposés, les recommandations obtenaient un accord faible. Enfin, si la grande majorité des experts était d'accord avec la recommandation et une minorité des experts n'avait pas d'opinion ou y était opposée, les recommandations obtenaient un accord fort. Les avis d'experts, exprimant par définition un consensus entre les experts en l'absence de littérature suffisamment forte pour grader ces recommandations, devaient nécessairement obtenir un accord fort (*i.e.* au moins 70% d'opinions allant dans la même direction).
+
+## Résultats
+
+### Champs des recommandations
+
+Les experts ont consensuellement décidé lors de la première réunion d'organisation de ces RFE, de traiter 9 questions réparties en 3 champs. Les questions suivantes ont été retenues pour le recueil et l'analyse de la littérature :### **Champ 1 – Prérequis et modalités d'une décision de LAT (4 questions)**
+
+Question : Pour l'équipe soignante en service de soins critiques, l'organisation de réunions pluriprofessionnelles régulières de réflexion et d'échange autour du projet de soins des patients améliore-t-elle la qualité des soins ?
+
+Question : Pour les patients hospitalisés en service de soins critiques, la recherche précoce des volontés du patient améliore-t-elle la qualité des soins ?
+
+Question : Pour les patients hospitalisés en service de soins critiques, lors d'une réflexion autour d'une décision de limitation et/ou arrêt des traitements, l'utilisation d'un protocole de service d'aide à la décision et de communication avec les proches permet-il d'améliorer la qualité des soins ?
+
+Question : Lors d'une réflexion de limitation et/ou arrêt des traitements pour les patients hospitalisés en service de soins critiques, la participation active des équipes paramédicales aux réunions de procédure collégiale améliore-t-elle la qualité des soins ?
+
+### **Champ 2 : Modalités de mise en œuvre d'une décision de LAT (2 questions)**
+
+Question : Pour les patients hospitalisés en service de soins critiques, après une décision d'arrêt des traitements, l'utilisation d'un protocole de sédation lors d'une mise en place d'une sédation profonde et continue maintenue jusqu'au décès permet-elle d'améliorer la qualité des soins ?
+
+Question : Pour les patients ventilés hospitalisés en services de soins critiques, après une décision d'arrêt de traitements, la pratique d'une extubation en comparaison à un sevrage progressif permet-elle d'améliorer la qualité des soins ?
+
+### **Champ 3 : Relations avec les proches, communication, désaccords et conflits (3 questions)**
+
+Question : Pour les proches de patients hospitalisés en service de soins critiques, une stratégie d'accompagnement, après une décision d'arrêt et/ou limitation de traitements, permet-elle d'améliorer la qualité des soins ?
+
+Question : Pour l'équipe soignante en service de soins critiques, une formation à la communication avec les proches permet-elle de prévenir les conflits entre proches et équipes médico-soignantes ?
+
+Question : Pour les proches de patients hospitalisés en service de soins critiques, en cas de désaccords/conflits entre proches et équipes soignantes autour d'une décision de limitation et/ou arrêt des traitements, l'intervention d'une structure d'éthique clinique ou d'une équipe de médiation permet-elle d'améliorer la qualité des soins ?
+
+### **Synthèse des résultats**
+
+Le travail de synthèse des experts et l'application de la méthode GRADE® ont abouti à 9 recommandations avec accord fort et 2 absences de recommandation après un tour de vote, et des amendements validés par les experts concernés et le coordinateur, ainsi que les groupes de lecture.
+
+La SFAR incite tous les professionnels, médicaux et paramédicaux, exerçant dans les services de soins critiques de l'adulte, à se conformer à ces RFE pour optimiser la qualité des soins dispensés aux patients. Cependant, chaque praticien doit exercer son propre jugement dans l'application de ces recommandations, en prenant en compte son expertise et les spécificités de son établissement, pour déterminer la méthode d'intervention la mieux adaptée à l'état du patient dont il a la charge.## TABLEAU DE SYNTHÈSE
+
+<table border="1">
+<tr>
+<td colspan="3"><b>P du PICO : Patients</b></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Patient, proches et équipe soignante</td>
+</tr>
+<tr>
+<td colspan="3"><b>O du PICO : Outcomes / Critères de jugement</b></td>
+</tr>
+<tr>
+<td>-</td>
+<td colspan="2">Critères de jugement cruciaux ou majeurs (importance de 9 le plus fort à 8)</td>
+</tr>
+<tr>
+<td></td>
+<td>Importance 9</td>
+<td>Le confort du patient,<br/>La connaissance des souhaits du patient,<br/>Le respect des souhaits du patient,<br/>Les conflits entre proches et équipe soignante,<br/>La satisfaction de la prise en charge par les proches,<br/>L'ambiance éthique,</td>
+</tr>
+<tr>
+<td></td>
+<td>Importance 8</td>
+<td>L'anxiété des proches,<br/>Le deuil compliqué des proches,<br/>Le syndrome de stress post-traumatique des proches,<br/>La souffrance soignante,</td>
+</tr>
+<tr>
+<td colspan="3"><b>Mots-clés</b></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Décisions de limitation et arrêt des traitements (LAT), limitation de traitements, arrêt de traitements, proportionnalité des traitements, niveau d'engagement thérapeutique, directives anticipées, personne de confiance, réanimation, soins critiques, collégialité, réunions collégiales, réunions pluriprofessionnelles, fin de vie, décès, réglementation, loi, communication, information, proches, volontés du patient, éthique, projet de soins, souffrance soignante, deuil compliqué, syndrome de stress post-traumatique, anxiété, souffrance, consultation d'éthique clinique, désaccords, conflits, formation à la communication, médiation, comité éthique, stratégie d'accompagnement, aide à la décision, processus décisionnel, extubation terminale, ambiance éthique, équipes paramédicales.</td>
+</tr>
+<tr>
+<td colspan="3"><b>Critères de restriction de la recherche bibliographique</b></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">
+<ul style="list-style-type: none; padding-left: 0;">
+<li>- Méta-analyses d'essais contrôlés randomisés</li>
+<li>- Revues de la littérature</li>
+<li>- Essais contrôlés randomisés</li>
+<li>- Essais prospectifs non randomisés</li>
+<li>- Cohortes rétrospectives</li>
+<li>- Cas cliniques</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Années de publication comprise entre 2000 et 2025</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Langue anglaise, française.</td>
+</tr>
+</table>## Références :
+
+- [1] Les décès en 2019 État civil — Insee Résultats 2020. <https://www.insee.fr/fr/statistiques/4767574?sommaire=4772633#graphique-figure1>.
+- [2] Avidan A, Sprung CL, Schefold JC, Ricou B, Hartog CS, Nates JL, et al. Variations in end-of-life practices in intensive care units worldwide (Ethicus-2): a prospective observational study. *The Lancet Respiratory Medicine* 2021;9:1101–10. [https://doi.org/10.1016/s2213-2600\(21\)00261-7](https://doi.org/10.1016/s2213-2600(21)00261-7).
+- [3] Lesieur O, Herbland A, Cabasson S, Hoppe MA, Guillaume F, Leloup M. Changes in limitations of life-sustaining treatments over time in a French intensive care unit: A prospective observational study. *Journal of Critical Care* 2018;47:21–9. <https://doi.org/10.1016/j.jcrc.2018.05.018>.
+- [4] Outcomerea Study Group, Lautrette A, Garrouste-Orgeas M, Bertrand P-M, Goldgran-Toledano D, Jamali S, et al. Respective impact of no escalation of treatment, withholding and withdrawal of life-sustaining treatment on ICU patients' prognosis: a multicenter study of the Outcomerea Research Group. *Intensive Care Med* 2015;41:1763–72. <https://doi.org/10.1007/s00134-015-3944-5>.
+- [5] Ferrand E, Robert R, Ingrand P, Lemaire F. Withholding and withdrawal of life support in intensive-care units in France: a prospective survey. *The Lancet* 2001;357:9–14. [https://doi.org/10.1016/s0140-6736\(00\)03564-9](https://doi.org/10.1016/s0140-6736(00)03564-9).
+- [6] LOI n° 2005-370 du 22 avril 2005 relative aux droits des malades et à la fin de vie. 2005. 2022.
+- [7] LOI n° 2016-87 du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vie. 2016. 2016.
+- [8] Qualité des soins — WHO 2020. <https://www.who.int/fr/health-topics/quality-of-care>.
+- [9] Mentec H, Cabarrot P, Legris C, May-Michelangeli L. Les déterminants de la qualité et de la sécurité des soins en établissement de santé. *Risques & Qualité En Milieu de Soins* 2023;Vol. XX:135–43. <https://doi.org/10.3917/rqms.203.0135>.
+- [10] Définition : ambiance — CNRTL n.d. <https://www.cnrtl.fr/definition/ambiance>.
+- [11] Van Den Bulcke B, Piers R, Jensen HI, Malmgren J, Metaxa V, Reyners AK, et al. Ethical decision-making climate in the ICU: theoretical framework and validation of a self-assessment tool. *BMJ Qual Saf* 2018;27:781–9. <https://doi.org/10.1136/bmjqs-2017-007390>.
+- [12] Beauchamp TL, Childress JF. *Principles of biomedical ethics*. Eighth edition. New York: Oxford University Press; 2019.
+- [13] Picard D, Marc E. *Les conflits relationnels*. 5e éd., mise à jour. Paris: Que sais-je ?; 2024.
+- [14] Modèle de directives anticipées — service-public.fr n.d. <https://www.service-public.fr/particuliers/vosdroits/R44952>.
+- [15] Fiche de LAT — SFAR n.d. Société Française d'Anesthésie et de Réanimation (SFAR). Fiche LAT SFARn.d.<https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fsfar.org%2Fwp-content%2Fuploads%2F2017%2F06%2FFicheLATSAR.docx&wdOrigin=BROWSELINK>.
+- [16] Chapitres préliminaires : Droits de la personne. 2005.
+- [17] Dauchy S. Penser ensemble l'obstination déraisonnable. CNSPFV; 2020.
+- [18] La personne de confiance — CNSPFV n.d. La personne de confiance | Fin de vie Soins palliatifs. Parlons Fin de Vie n.d. <https://www.parlons-fin-de-vie.fr/je-minteresse-a-la-fin-de-vie/personne-de-confiance/>.
+- [19] La procédure collégiale — CNSPFV n.d.
+- [20] Guidet B, Vallet H, Flaatten H, Joynt G, Bagshaw SM, Leaver SK, et al. The trajectory of very old critically ill patients. *Intensive Care Med* 2024;50:181–94. <https://doi.org/10.1007/s00134-023-07298-z>.
+- [21] Vink EE, Azoulay E, Caplan A, Kompanje EJO, Bakker J. Time-limited trial of intensive care treatment: an overview of current literature. *Intensive Care Med* 2018;44:1369–77. <https://doi.org/10.1007/s00134-018-5339-x>.
+- [22] Décision n° 2022-1027/1028 QPC. 2022.
+- [23] Comment mettre en œuvre une sédation profonde et continue maintenue jusqu'au décès ? — HAS2020.[https://www.has-sante.fr/jcms/c\\_2832000/fr/comment-mettre-en-oeuvre-une-sedation-profonde-et-continue-maintenue-jusqu-au-deces](https://www.has-sante.fr/jcms/c_2832000/fr/comment-mettre-en-oeuvre-une-sedation-profonde-et-continue-maintenue-jusqu-au-deces).
+- [24] Le Dorze M, Barthélémy R, Giabicani M, Audibert G, Cousin F, Gakuba C, et al. Continuous and deep sedation until death after a decision to withdraw life-sustaining therapies in intensive care units: A national survey. *Palliat Med* 2023;37:1202–9. <https://doi.org/10.1177/02692163231180656>.## **CHAMP 1 : Prérequis et modalités d'une décision de limitation et/ou arrêt des thérapeutiques**
+
+**Question :** Pour l'équipe soignante en service de soins critiques, l'organisation de réunions pluriprofessionnelles régulières de réflexion et d'échange autour du projet de soins des patients améliore-t-elle la qualité des soins ?
+
+*Experts : Sylvaine Robin (SFAR, Grenoble), Flora Bastiani (Philosophe SFAR, Toulouse), Jonathan Levy (SOFMER, Paris).*
+
+**R1.1 — Les experts suggèrent d'organiser des réunions pluriprofessionnelles régulières de réflexion et d'échange autour du projet de soins des patients afin d'améliorer la qualité des soins.**
+
+### **AVIS D'EXPERTS (accord fort)**
+
+#### **Argumentaire :**
+
+La loi Claeys-Leonetti impose le recours à une procédure collégiale pour toute décision de LAT (Cf Figure 3, R 1.3, et Figures 4 et 5, R 1.4). Cette procédure collégiale doit prendre la forme d'une concertation avec les membres présents de l'équipe de soins et l'avis motivé d'au moins un médecin appelé en qualité de consultant (Cf Figures 4 et 5, R1.4). La loi incite ainsi au dialogue pluriprofessionnel (équipe de soins). En pratique, en soins critiques, l'équipe de soins rassemble les équipes médicales et paramédicales (infirmiers.ières, aides-soignant.e.s, kinésithérapeutes), le/la psychologue, l'.la assistant.e social.e, les cadres du service. (Cf Figure 5, R1.4).
+
+La question soulevée ici est d'évaluer le bénéfice sur la qualité des soins d'organiser de telles réunions pluriprofessionnelles de manière systématique (et donc régulière) au sein des services, en amont des procédures de décisions de LAT, en particulier pour identifier les situations à risque d'obstination déraisonnable pouvant justifier d'orienter la prise en charge vers une décision de LAT.
+
+La collaboration interprofessionnelle régulière est recommandée par les experts internationaux et européens pour réévaluer régulièrement la cohérence des soins et des traitements en cours et prendre les décisions les plus appropriées [4,5].
+
+Dans une enquête transversale publiée en 2011, Piers *et al.* retrouvaient que 27% des 1651 professionnels de soins critiques interrogés (médecins et infirmiers) percevaient des soins en cours comme inappropriés, principalement excessifs (*i.e.* déraisonnables), pour au moins un patient le jour de l'enquête. En analyse multivariée, ce taux était moindre en cas de bonne collaboration interprofessionnelle médecins-infirmiers (OR = 0,72 ; IC 95% [0,56 ; 0,92] p=0,009). De plus, la perception de soins inappropriés était indépendamment associée à l'intention de changer de lieu de travail que l'on soit médecin ou infirmier (OR 1,65 ; IC 95% [1,04 ; 2,63], p=0,03) [3].
+
+Deux études qualitatives publiées en 2020 et 2021 (8 et 5 infirmiers, 4 et 7 médecins) ont précisé le rôle particulier des infirmiers dans la transmission des informations non médicales (contexte social, valeurs et besoins des patients), plaident en faveur des meilleurs intérêts du patient [6,7].
+
+De plus, la collaboration et la communication entre professionnels est le premier domaine identifié de l'ambiance éthique analysée à travers l'Ethical Decision-Making Climate Questionnaire (EDMCQ) défini en introduction. Ce domaine clé repose sur deux composantes : la culture du respect mutuel d'une part et la culture et la pratique d'une réflexion interprofessionnelle ouverte d'autre part, et permet ainsi à chacun d'enrichir le débat au bénéfice du patient [8]. Plusieurs études récentes utilisant l'EDMCQ ont montré l'impact positif sur la qualité des soins d'une meilleure ambiance éthique dans les services de soins critiques. En 2018, Benoit *et al.* ont utilisé l'EDMCQ dans 68 services de soins critiques européens et américains pour évaluer si la qualité de l'ambiance éthiqueinfluença l'identification des patients recevant des « soins jugés excessifs » (*i.e.* obstination déraisonnable), les décisions de LAT, et le risque d'évolution défavorable des patients à un an (défini selon 3 critères : le décès, l'absence de retour à domicile, la mauvaise qualité de vie). Les principales conclusions de cette étude à la méthodologie complexe sont les suivantes [9] :
+
+- • Dans les services où l'ambiance éthique était « bonne », la concordance entre la perception d'une obstination déraisonnable par les professionnels et une évolution clinique défavorable à un an était meilleure que dans les services où l'ambiance éthique était « mauvaise » (100% vs 85,9%,  $p=0,02$ ). Cela signifie que plus l'ambiance éthique est de qualité, plus la perception des professionnels est alignée avec la réalité pronostique du patient.
+- • Dans ces services à « bonne » ambiance éthique, les patients recevant des soins perçus comme déraisonnables faisaient plus fréquemment l'objet d'une décision formalisée de LAT (HR 2,32 ; IC 95% [1,11 ; 4,85]), décédaient plus souvent (HR 1,88 ; IC 95% [1,2 ; 2,92]) et plus rapidement (5j vs. 14j,  $p=0,008$ ) que dans les services où l'ambiance éthique était « mauvaise ». Cela suggère une meilleure adéquation entre la situation clinique de ces patients et les décisions prises.
+
+De plus, une bonne ambiance éthique semble avoir un effet positif sur la diminution de la souffrance des professionnels au travail : dans une étude réalisée par Van den Bulcke *et al.* publiée en 2020, l'intention des professionnels de quitter leur poste était moins importante lorsque l'ambiance éthique était bonne (OR 0,58 ; IC 95% [0,35 ; 0,96]  $p<0,05$ ) [10]. Ces données ont été confirmées par Silverman *et al.* en 2022 : dans cette étude, si les infirmiers percevaient l'ambiance éthique dans laquelle étaient prises les décisions significativement moins favorablement que les médecins et avaient un niveau de souffrance au travail plus élevé, l'amélioration de l'ambiance éthique avait néanmoins un effet favorable sur la souffrance des professionnels au travail [12].
+
+Enfin, en 2024, Azoulay *et al.* se sont intéressés à la prise en charge des familles des patients en soins critiques à travers une enquête transversale auprès de 359 professionnels interrogés. Dans cette étude, l'ambiance éthique mesurée par l'EDMCQ et la volonté de valoriser le rôle décisionnel des infirmiers étaient des facteurs indépendants d'amélioration de la prise en charge des familles ("self-rated family centeredness" mesuré par les professionnels de santé) [12].
+
+En conclusion, l'organisation de réunions pluriprofessionnelles régulières de réflexion et d'échange autour du projet de soins des patients participe à l'amélioration de l'ambiance éthique dans les services de soins critiques.
+
+Il apparaît effectivement que l'amélioration de l'ambiance éthique :
+
+- • Facilite la reconnaissance de l'obstination déraisonnable par l'équipe, et la mise en place des procédures de LAT pour le patient.
+- • Diminue la souffrance morale des soignants et l'intention de quitter son poste.
+- • Améliore la prise en charge et la satisfaction des familles.
+
+#### Références
+
+[1] Curtis JR, Vincent J-L. Ethics and end-of-life care for adults in the intensive care unit. *The Lancet* 2010;376:1347–53. [https://doi.org/10.1016/S0140-6736\(10\)60143-2](https://doi.org/10.1016/S0140-6736(10)60143-2).
+
+[2] Kon AA, Davidson JE, Morrison W, Danis M, White DB. Shared Decision Making in ICUs: An American College of Critical Care Medicine and American Thoracic Society Policy Statement. *Critical Care Medicine* 2016;44:188–201. <https://doi.org/10.1097/CCM.0000000000001396>.
+
+[3] Piers RD. Perceptions of Appropriateness of Care Among European and Israeli Intensive Care Unit Nurses and Physicians. *JAMA* 2011;306:2694. <https://doi.org/10.1001/jama.2011.1888>.[4] Michalsen A, Long AC, DeKeyser Ganz F, White DB, Jensen HI, Metaxa V, et al. Interprofessional Shared Decision-Making in the ICU: A Systematic Review and Recommendations From an Expert Panel\*. Critical Care Medicine 2019;47:1258–66. <https://doi.org/10.1097/CCM.0000000000003870>.
+
+[5] Kesecioglu J, Rusinova K, Alampi D, Arabi YM, Benbenishty J, Benoit D, et al. European Society of Intensive Care Medicine guidelines on end of life and palliative care in the intensive care unit. Intensive Care Med 2024;50:1740–66. <https://doi.org/10.1007/s00134-024-07579-1>.
+
+[6] Wubben N, Van Den Boogaard M, Van Der Hoeven J, Zegers M. Shared decision-making in the ICU from the perspective of physicians, nurses and patients: a qualitative interview study. BMJ Open 2021;11:e050134. <https://doi.org/10.1136/bmjopen-2021-050134>.
+
+[7] Flannery L, Peters K, Ramjan LM. The differing perspectives of doctors and nurses in end-of-life decisions in the intensive care unit: A qualitative study. Australian Critical Care 2020;33:311–6. <https://doi.org/10.1016/j.aucc.2019.08.004>.
+
+[8] Van Den Bulcke B, Piers R, Jensen HI, Malmgren J, Metaxa V, Reyners AK, et al. Ethical decision-making climate in the ICU: theoretical framework and validation of a self-assessment tool. BMJ Qual Saf 2018;27:781–9. <https://doi.org/10.1136/bmjqs-2017-007390>.
+
+[9] the DISPROPRICUS study group of the Ethics Section of the European Society of Intensive Care Medicine, Benoit DD, Jensen HI, Malmgren J, Metaxa V, Reyners AK, et al. Outcome in patients perceived as receiving excessive care across different ethical climates: a prospective study in 68 intensive care units in Europe and the USA. Intensive Care Med 2018;44:1039–49. <https://doi.org/10.1007/s00134-018-5231-8>.
+
+[10] the DISPROPRICUS study group of the Ethics Section of the ESICM, Van Den Bulcke B, Metaxa V, Reyners AK, Rusinova K, Jensen HI, et al. Ethical climate and intention to leave among critical care clinicians: an observational study in 68 intensive care units across Europe and the United States. Intensive Care Med 2020;46:46–56. <https://doi.org/10.1007/s00134-019-05829-1>.
+
+[11] Silverman H, Wilson T, Tisherman S, Kheirbek R, Mukherjee T, Tabatabai A, et al. Ethical decision-making climate, moral distress, and intention to leave among ICU professionals in a tertiary academic hospital center. BMC Med Ethics 2022;23:45. <https://doi.org/10.1186/s12910-022-00775-y>.
+
+[12] Azoulay É, Kentish-Barnes N, Boulanger C, Mistraletti G, Van Mol M, Heras-La Calle G, et al. Family centeredness of care: a cross-sectional study in intensive care units part of the European society of intensive care medicine. Ann Intensive Care 2024;14:77. <https://doi.org/10.1186/s13613-024-01307-0>.
+
+**Question : Pour les patients hospitalisés en service de soins critiques, la recherche précoce des volontés du patient améliore-t-elle la qualité des soins ?**
+
+*Experts : Clément Gakuba (SFAR, Caen), Léa Satre-Buisson (SFAR, Paris), Marie Citrini (usager expert, HAS), Pierre-François Perrigault (SFAR, Montpellier), Olivier Maillé (Montpellier), Mikhael Giabicani (SFAR, Paris).*
+
+**R1.2 – Les experts suggèrent de rechercher les volontés du patient hospitalisé en soins critiques précocement et par tout moyen possible afin d’améliorer la qualité des soins.**
+
+**AVIS D'EXPERTS (Accord fort)**
+
+**Argumentaire :**
+
+Depuis 2002, le cadre légal français (loi du 4 mars 2002 dite loi Kouchner, loi du 22 avril 2005 dite loi Leonetti et loi du 2 février 2016 dite loi Claeys-Leonetti) a progressivement renforcé le principe de respect de l'autonomie du patient dans les décisions médicales en privilégiant le respect des volontés du patient exprimées directement par ce dernier ou indirectement par l'intermédiaire de directives anticipées (Figure 1), de sa personne de confiance (Figure 2) et/ou des proches lorsque celui-ci n'est pas en mesure de s'exprimer (Figure 3 R1.3, Figure 4 R1.4).
+
+Lorsque la volonté du patient est connue, celle-ci semble être respectée dans la majorité des cas : une revue systématique portant sur près de 36 000 patients admis en neuro-réanimation montrait que les traitements ont été suspendus ou arrêtés dans 58% des cas, en conformité avec les souhaits du patient [1].
+
+De plus, lorsque des DA existent, celles-ci semblent guider les prises de décisions en soins critiques : dans une étude multicentrique observationnelle française, lorsqu'une procédure collégiale étaitentreprise, les DA étaient associées à une plus forte probabilité de décision de LAT qu'en l'absence de DA [2] ; et dans une cohorte rétrospective multicentrique allemande, 13% des patients décédés avaient rédigé des DA et ces patients avaient significativement moins de réanimation cardiopulmonaire entreprise par rapport à ceux n'ayant pas de DA (9 vs. 23%,  $p=0,029$ ) [3].
+
+Néanmoins, la connaissance par les professionnels des volontés du patient manque fréquemment. Dans la même étude observationnelle multicentrique française déjà citée, un proche a pu être identifié pour 93% des patients admis en réanimation, mais seulement 15% des patients avaient désigné une véritable personne de confiance avec un document formel, et seuls 4% des patients avaient rédigé des directives anticipées (DA) [2]. De plus, les données d'une étude monocentrique espagnole rapportaient que seuls 54% des proches connaissaient les souhaits du patient concernant une limitation de traitement en cas de pronostic défavorable [4].
+
+Ces données suggèrent que la recherche des volontés du patient pourrait être élargie systématiquement au-delà de la recherche de DA, de la personne de confiance et des proches. Par exemple, les médecins référents, qu'ils soient médecins traitants ou spécialistes, par leur connaissance du patient avant l'hospitalisation en soins critiques, sont une ressource potentielle pour le recueil de la volonté du patient. Dans un questionnaire adressé aux médecins référents de patients admis en réanimation, plus de 90% souhaitaient s'impliquer dans les décisions de fin de vie de leurs patients mais seulement 38 % avaient déjà participé à une procédure collégiale [5].
+
+Par ailleurs, la précocité de la recherche des volontés du patient semble être un élément crucial pour adapter au mieux la stratégie de prise en charge. En particulier, l'absence d'une planification anticipée des soins peut mener à des hospitalisations jugées non bénéfiques en soins critiques. Une enquête nationale menée auprès de médecins réanimateurs français révélait que 14,4% des admissions en réanimation sont perçues par ces derniers comme non-bénéfiques. Parmi les critères pouvant conduire à des admissions en réanimation non-bénéfiques, le manque de connaissance des volontés du patient ou une impossibilité à contacter les proches étaient fréquemment cités [6]. Une autre enquête nationale plus récente suggérait que la volonté du patient de ne pas être admis en réanimation était un des principaux critères pour qualifier une admission en réanimation de « non-bénéfique » et que le manque d'informations dans le dossier médical du patient pouvait conduire à une admission par excès, secondairement considérée comme non-bénéfique [7]. Par extension aux décisions de LAT une fois les patients admis en soins critiques, ces données plaident pour une connaissance la plus précoce possible des volontés du patient.
+
+La recherche des DA lorsqu'elles ont été émises, l'avis de la personne de confiance et la consultation des proches sont donc essentiels pour une qualité des soins conformes aux souhaits du patient. Lorsque ceux-ci font défaut, il apparaît possible que le recueil des volontés du patient aille au-delà pour intégrer toute personne (infirmier, médecin traitant ou spécialiste notamment) pouvant témoigner des souhaits du patient pour son projet de soins. Les données de la littérature plaident également pour que cette recherche soit entreprise le plus précocement possible pour adapter au mieux la prise en charge aux volontés du patient.
+
+#### Références :
+
+- [1] Sutter R, Meyer-Zehnder B, Baumann SM, Marsch S, Pargger H. Advance Directives in the Neurocritically Ill: A Systematic Review. *Critical Care Medicine* 2020;48:1188–95. <https://doi.org/10.1097/CCM.0000000000004388>.
+- [2] Roger C, Morel J, Molinari N, Orban JC, Jung B, Futier E, et al. Practices of end-of-life decisions in 66 southern French ICUs 4years after an official legal framework: A 1-day audit. *Anaesthesia Critical Care & Pain Medicine* 2015;34:73–7. <https://doi.org/10.1016/j.accpm.2014.10.001>.
+- [3] Hartog CS, Peschel I, Schwarzkopf D, Curtis JR, Westermann I, Kabisch B, et al. Are written advance directives helpful to guide end-of-life therapy in the intensive care unit? A retrospective matched-cohort study. *Journal of Critical Care* 2014;29:128–33. <https://doi.org/10.1016/j.jcrc.2013.08.024>.[4] Muñoz Camargo JC, Hernández-Martínez A, Rodríguez-Almagro J, Parra-Fernández ML, Prado-Laguna MDC, Martín M. Perceptions of Patients and Their Families Regarding Limitation of Therapeutic Effort in the Intensive Care Unit. JCM 2021;10:4900. <https://doi.org/10.3390/jcm10214900>.
+
+[5] Detollenaere C, Parmentier-Decrucq E. Fin de vie en réanimation : enquête sur le rôle des médecins référents. La Presse Médicale Formation 2020;1:621–9. <https://doi.org/10.1016/j.lpmfor.2020.08.018>.
+
+[6] Quenot J-P, Large A, Meunier-Beillard N, Pugliesi P-S, Rollet P, Toitot A, et al. What are the characteristics that lead physicians to perceive an ICU stay as non-beneficial for the patient? PLoS ONE 2019;14:e0222039. <https://doi.org/10.1371/journal.pone.0222039>.
+
+[7] Quenot J-P, Jacquier M, Fournel I, Meunier-Beillard N, Grangé C, Ecarnot F, et al. Non-beneficial admission to the intensive care unit: A nationwide survey of practices. PLoS ONE 2023;18:e0279939. <https://doi.org/10.1371/journal.pone.0279939>.
+
+**Figure 1 : Directives anticipées : aspects réglementaires et pratiques**
+
+![Icon representing legal scales and a gavel, symbolizing the regulatory framework.](9229138c19e428a50536de466564947c_3_img.webp)
+
+### Le cadre réglementaire :
+
+Code de santé publique — Partie législative — Information des usagers du système de santé et expression de leur volonté — Information des usagers du système de santé et expression de leur volonté (Articles L1111-1 à L1111-31)
+
+'Loi Claeys-Leonetti [2016]' — Loi n° 2016-87 du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vie. Articles 5, 8 et 10.
+
+#### CSP Article 1111-4 :
+
+- - *'Le médecin a l'obligation de respecter la volonté de la personne après l'avoir informée des conséquences de ses choix et de leur gravité. Si, par sa volonté de refuser ou d'interrompre tout traitement, la personne met sa vie en danger, elle doit réitérer sa décision dans un délai raisonnable. Elle peut faire appel à un autre membre du corps médical. L'ensemble de la procédure est à tout moment dans le dossier médical du patient. Le médecin sauvegarde la dignité du mourant et assure la qualité de sa fin de vie en dispensant les soins palliatifs mentionnés à l'article L. 1110-10.'*
+- - *'Lorsque la personne est hors d'état d'exprimer sa volonté, aucune intervention ou investigation ne peut être réalisée, sauf urgence ou impossibilité, sans que la personne de confiance prévue à l'article L. 1111-6, ou la famille, ou à défaut, un de ses proches ait été consulté.'*
+- - *'Lorsque la personne est hors d'état d'exprimer sa volonté, la limitation ou l'arrêt de traitement susceptible d'entraîner son décès ne peut être réalisé sans avoir respecté la procédure collégiale mentionnée à l'article L. 1110-5-1 et les directives anticipées ou, à défaut, sans que la personne de confiance prévue à l'article L. 1111-6 ou, à défaut la famille ou les proches, aient été consultés. La décision motivée de limitation ou d'arrêt de traitement est inscrite dans le dossier médical.'*
+
+#### CSP Article 1111-11 :
+
+- - *'Toute personne majeure peut rédiger des directives anticipées pour le cas où elle serait un jour hors d'état d'exprimer sa volonté. Ces directives anticipées expriment la volonté de la personne relative à sa fin de vie en ce qui concerne les conditions de la poursuite, de la limitation, de l'arrêt ou du refus de traitement ou d'acte médicaux.'*
+- - *'À tout moment et par tout moyen, elles sont révisables et révocables. Elles peuvent être rédigées conformément à un modèle dont le contenu est fixé par décret en Conseil d'État pris après avis de la Haute Autorité de santé. Ce modèle prévoit la situation de la personne selon qu'elle se sait ou non atteinte d'une affection grave au moment où elle les rédige.'*
+- - *'Les directives anticipées s'imposent au médecin pour toute décision d'investigation, d'intervention ou de traitement, sauf en cas d'urgence vitale pendant le temps nécessaire à une évaluation complète de la situation et lorsque les directives anticipées apparaissent manifestement inappropriées ou non conformes à la situation médicale.'*
+- - *'La décision de refus d'application des directives anticipées, jugées par le médecin manifestement inappropriées ou non conformes à la situation médicale du patient, est prise à l'issue d'une procédure collégiale définie par voie réglementaire et est inscrite au dossier médical. Elle est portée à la connaissance de la personne de confiance désignée par le patient ou, à défaut, de la famille ou des proches.'*
+- - *'Le médecin traitant informe ses patients de la possibilité et des conditions de rédaction de directives anticipées.'*
+- - *'Lorsqu'une personne fait l'objet d'une mesure de protection juridique avec représentation relative à la personne, elle peut rédiger des directives anticipées avec l'autorisation du juge ou du conseil de famille s'il a été constitué. La personne chargée de la mesure de protection ne peut ni l'assister ni la représenter à cette occasion.'*
+
+#### CSP Article 1111-12 :
+
+- - *'Lorsqu'une personne, en phase avancée ou terminale d'une affection grave et incurable, quelle qu'en soit la cause, est hors d'état d'exprimer sa volonté, le médecin a l'obligation de s'enquérir de l'expression de la volonté exprimée par le patient. En l'absence de directives anticipées mentionnées à l'article L. 1111-11, il recueille le témoignage de la personne de confiance ou, à défaut, tout autre témoignage de la famille ou des proches'*
+
+Référence : Code de santé publique![Icon of a person in a hospital bed with a medical cross symbol.](a10a87f49b0e9ac57fe9f7171aea69cc_1_img.webp)
+
+## En pratique :
+
+- - Les directives anticipées (DA) sont régies par la loi du 2 février 2016 dite loi Claeys-Leonetti.
+- - Les DA expriment la volonté de la personne relative à sa fin de vie en ce qui concerne les conditions de la poursuite, de la limitation, de l'arrêt ou du refus de traitement ou d'acte médicaux.
+- - Les DA n'ont pas vocation à être utilisées si le patient est en mesure de s'exprimer. Dans ce cas, la volonté du patient doit toujours être recherchée et requestionnée, y compris si des DA existent.
+- - Les DA sont un droit et non une obligation.
+- - Les DA doivent être datées et signées par la personne concernée.
+- - Les DA s'imposent au médecin pour toute décision d'investigation, d'intervention ou de traitement.
+- - Leur validité est sans limite de temps.
+- - Les DA sont révisables et révocables à tout moment et par tout moyen. En présence de plusieurs DA, le document le plus récent fera foi auprès des équipes soignantes.
+- - Le médecin peut ne pas appliquer des DA seulement dans ces deux situations :
+  - • L'urgence vitale, pendant le temps nécessaire à une évaluation complète de la situation.
+  - • Lorsque les DA apparaissent manifestement inappropriées ou non conformes à la situation médicale après une procédure collégiale définie par voie réglementaire
+- - En cas de refus d'application des DA qui apparaîtraient manifestement inappropriées ou non conformes à la situation médicale, la décision est inscrite au dossier médical et portée à la connaissance de la personne de confiance ou, à défaut, de la famille ou des proches.
+- - Les DA ont pour objet d'aider le médecin à percevoir ce que le patient, alors incapable de s'exprimer, aurait qualifié comme relevant d'une obstination déraisonnable.
+- - Elles sont donc le reflet de ce que le patient aurait été susceptible d'accepter ou de refuser selon son acceptation de souffrances potentiellement engendrées, du risque de séquelles et du risque de décès. Elles sont ainsi un outil dont le but est de promouvoir le principe de respect de l'autonomie du patient.
+- - Les DA n'ont pas vocation à définir l'indication des traitements ou techniques de suppléances d'organes en réanimation. En ce sens, elles ne peuvent se réduire à une liste de traitements ou techniques de suppléances d'organes que le patient souhaiterait ou refuserait.
+- - En pratique, elles ont plus d'intérêt lorsqu'elles informent sur les « objectifs de vie » du patient, ses valeurs, ou tout autre chose importante pour le patient, plutôt qu'une liste de moyens pour y parvenir (intubation, trachéotomie, épuration extra-rénale, stomie etc).
+- - Elles ne sont pas un testament ni un document visant à prévoir l'organisation des obsèques.
+
+Référence : Giabicani M, Robin S, Gakuba C, Claudot F, Culver A, Engrand N, et al. Directives anticipées en réanimation : illusions perdues ou l'opportunité d'un renouveau ? *Anesthésie & Réanimation*. 2023 Sep;9(4):305–9.**Figure 2 : Personne de confiance : aspects réglementaires et pratiques**
+
+![Icon representing a scale of justice and a gavel, symbolizing legal and regulatory aspects.](15c17f87160ba7b9a0d94c0521704815_2_img.webp)
+
+### Le cadre réglementaire :
+
+Code de santé publique — Partie législative — Information des usagers du système de santé et expression de leur volonté — Information des usagers du système de santé et expression de leur volonté (Articles L1111-1 à L1111-31)  
+‘Loi Kouchner [2002]’ — Loi 2002-303 2002-03-04 art. 92 — modifié par la loi n°2024-317 du 8 avril 2024 - art. 11.
+
+#### CSP Article L1111-6 :
+
+*1. Toute personne majeure peut désigner une personne de confiance qui peut être un parent, un proche ou le médecin traitant et qui sera consultée au cas où elle-même serait hors d'état d'exprimer sa volonté et de recevoir l'information nécessaire à cette fin. La personne de confiance rend compte de la volonté de la personne. Son témoignage prévaut sur tout autre témoignage.*
+
+- - *Si la personne majeure le souhaite, la personne de confiance l'accompagne dans ses démarches, assiste aux entretiens médicaux afin de l'aider dans ses décisions et l'aide à la connaissance et à la compréhension de ses droits si elle rencontre des difficultés.*
+- - *La désignation est faite par écrit et cosignée par la personne désignée. Elle est valable sans limitation de durée, à moins que la personne majeure ou la personne de confiance n'en disposent autrement. Elle est révisable et révocable à tout moment.*
+- - *Lorsqu'une personne fait l'objet d'une mesure de protection juridique avec représentation relative à la personne, elle peut désigner une personne de confiance avec l'autorisation du juge ou du conseil de famille s'il a été constitué. Dans l'hypothèse où la personne de confiance a été désignée avant la mesure de protection, le conseil de famille, le cas échéant, ou le juge peut confirmer la désignation de cette personne ou la révoquer.*
+- - *Lors de toute hospitalisation dans un établissement de santé, dans un hôpital des armées ou à l'Institution nationale des invalides, il est proposé au patient de désigner une personne de confiance dans les conditions prévues au présent article.*
+
+*2. Dans le cadre du suivi de son patient, le médecin traitant s'assure que celui-ci est informé de la possibilité de désigner une personne de confiance et, le cas échéant, l'invite à procéder à une telle désignation.*
+
+#### CSP Article L1111-4 :
+
+- - *‘Le médecin a l'obligation de respecter la volonté de la personne après l'avoir informée des conséquences de ses choix et de leur gravité. Si, par sa volonté de refuser ou d'interrompre tout traitement, la personne met sa vie en danger, elle doit réitérer sa décision dans un délai raisonnable. Elle peut faire appel à un autre membre du corps médical. L'ensemble de la procédure est inscrite dans le dossier médical du patient. Le médecin sauvegarde la dignité du mourant et assure la qualité de sa fin de vie en dispensant les soins palliatifs mentionnés à l'article L. 1110-10.’*
+- - *‘Lorsque la personne est hors d'état d'exprimer sa volonté, aucune intervention ou investigation ne peut être réalisée, sauf urgence ou impossibilité, sans que la personne de confiance prévue à l'article L. 1111-6, ou la famille, ou à défaut, un de ses proches ait été consulté.’*
+- - *‘Lorsque la personne est hors d'état d'exprimer sa volonté, la limitation ou l'arrêt de traitement susceptible d'entraîner son décès ne peut être réalisé sans avoir respecté la procédure collégiale mentionnée à l'article L. 1110-5-1 et les directives anticipées ou, à défaut, sans que la personne de confiance prévue à l'article L. 1111-6 ou, à défaut la famille ou les proches, aient été consultés. La décision motivée de limitation ou d'arrêt de traitement est inscrite dans le dossier médical.’*
+
+Référence : Code de Santé Publique.
+
+![Icon representing a person in bed being attended to by a healthcare professional, symbolizing practical application.](15c17f87160ba7b9a0d94c0521704815_12_img.webp)
+
+### En pratique :
+
+Une des grandes mesures de la loi n° 2002-303 du 4 mars 2002, relative aux droits des malades et à la qualité du système de santé, dite « loi Kouchner ».
+
+- - Lorsque le patient ne peut plus exprimer sa volonté, la personne de confiance a une mission de référent auprès de l'équipe médicale. Elle rend compte de la volonté de la personne pour refléter de façon précise ses souhaits, par exemple sur la poursuite, la limitation ou l'arrêt des traitements. En l'absence de DA, son témoignage prévaut sur tout autre témoignage, notamment celui de la famille et des proches. La personne de confiance n'aura pas à prendre de décision concernant les décisions de LAT, mais témoignera des volontés et convictions du patient.
+- - La loi de 2016 a remplacé la notion d'avis par celle de témoignage
+- - Seuls les adultes peuvent désigner une personne de confiance.
+- - Une seule personne de confiance peut être désignée par patient adulte.
+- - En présence de documents désignant plusieurs personnes de confiance, le plus récent fera foi.
+- - Le formulaire doit être signé, daté et contresigné par la personne de confiance elle-même.
+- - Chaque établissement de santé doit obligatoirement informer le patient de cette possibilité.
+- - Le rôle de la personne de confiance étant important, la désigner sans vraiment la connaître apparaît déraisonnable.
+
+**Attention :** La personne de confiance ne doit pas être confondue avec la personne à prévenir, qui est la personne alertée en cas de modifications de l'état de santé du patient.**Question :** Pour les patients hospitalisés en service de soins critiques, lors d'une réflexion autour d'une décision de limitation et/ou arrêt des traitements, l'utilisation d'un protocole de service d'aide à la décision et de communication avec les proches permet-il d'améliorer la qualité des soins ?
+
+*Experts : Claire Dahyot-Fizelier (SFAR, Poitiers), Yoann Launey (SFAR, Rennes), Gérard Audibert (SFAR, Nancy), Mikhael Giabican (SFAR, Paris).*
+
+**R1.3 – Pour les patients hospitalisés en soins critiques, lors d'une réflexion autour d'une décision de limitation et/ou d'arrêt des traitements, les experts suggèrent d'utiliser un protocole de service d'aide à la décision et de communication avec les proches pour améliorer la qualité des soins.**
+
+**AVIS D'EXPERTS (Accord fort)**
+
+**Argumentaire :**
+
+La France est un des rares pays à avoir apporté un cadre législatif précis à la gestion des limitations et/ou arrêts de traitement, notamment chez les patients de soins critiques. Pourtant, 20 ans après la loi Leonetti, ce cadre législatif n'est pas toujours respecté. Dans une étude rétrospective multicentrique, ayant inclus 343 patients pour lesquels une décision d'arrêt de traitement était prise, la sédation profonde et continue n'était appliquée qu'à 60% des patients et 11% d'entre eux n'étaient pas du tout sédatés. La procédure collégiale manquait dans 17% des cas et le consultant extérieur faisait défaut dans 29% des cas. L'existence d'un protocole formalisé de service n'existait que dans 32% des unités de réanimation [1]. Lors d'une réflexion autour d'une décision de limitation et/ou d'arrêt des traitements, le bénéfice de la mise en place d'un protocole d'aide à la décision n'est pas clairement démontré sur l'amélioration de la qualité des soins en service de soins critiques.
+
+Deux études multicentriques randomisées américaines [2,3], ont étudié l'intérêt de la communication au sein des équipes soignantes et avec les proches de patients au pronostic défavorable. Ces études ont chacune utilisé un ensemble de mesures associant des interventions de formation auprès des soignants et une stratégie structurée de communication auprès des proches en amont, pendant et après la réalisation de la LAT. Ainsi, il est difficile de distinguer l'effet propre de cette approche structurée de communication des autres composantes de l'ensemble des mesures sur les résultats de l'étude. De plus, l'approche culturelle et la législation propre à chaque pays rendent difficile la transposition de ces résultats. Néanmoins, l'étude de White *et al.* rapporte une amélioration de la satisfaction des proches grâce à l'approche de communication proposée [3].
+
+Seules deux études randomisées [4,5] ont étudié un ensemble d'interventions centrées sur la période en amont de la décision de LAT visant à informer les proches de la prise en charge et du pronostic à l'aide d'outils et d'une communication structurée. Ces deux études, réalisées pour l'une en réanimation polyvalente et l'autre en neuro-réanimation chez une vingtaine de patients par groupe, rapportent la faisabilité et l'acceptabilité des proches de patients de soins critiques de l'utilisation du modèle d'Ottawa d'aide à la décision. Ce modèle comprend les étapes suivantes :
+
+- ● établir un lien et faciliter la communication interactive,
+- ● clarifier la décision et encourager la participation de l'entourage ou du patient,
+- ● évaluer les besoins décisionnels et répondre à ces besoins avec un accompagnement personnalisé du patient ou des proches à l'aide d'outils (courtes vidéos, d'animations et de questions interactives centrées sur la famille), conçus pour aborder les émotions que ressentent souvent les proches de patients en soins critiques [4,5].
+
+Une revue insiste sur la nécessité de répéter les entretiens avec les proches pour garantir l'efficacité de la communication [6]. En particulier, ces entretiens permettent de préciser le rôle de la famille dans la prise de décision [7]. (Cf Figure 8, R3.2)Ainsi, un protocole formalisé pourrait améliorer le respect du cadre réglementaire, la compréhension de la pertinence des soins apportés au patient par les proches et les soignants, et améliorer la satisfaction globale de la prise en charge. Ce protocole formalisé doit, au minimum, tenir compte des éléments réglementaires présentés sur la Figure 3.
+
+#### Références
+
+- [1] Le Dorze M, Barthélémy R, Giabicani M, Audibert G, Cousin F, Gakuba C, et al. Continuous and deep sedation until death after a decision to withdraw life-sustaining therapies in intensive care units: A national survey. *Palliat Med* 2023;37:1202–9. <https://doi.org/10.1177/02692163231180656>.
+- [2] Curtis JR, Nielsen EL, Treece PD, Downey L, Dotolo D, Shannon SE, et al. Effect of a Quality-Improvement Intervention on End-of-Life Care in the Intensive Care Unit: A Randomized Trial. *Am J Respir Crit Care Med* 2011;183:348–55. <https://doi.org/10.1164/rccm.201006-1004OC>.
+- [3] White DB, Angus DC, Shields A-M, Buddadhumaruk P, Pidro C, Paner C, et al. A Randomized Trial of a Family-Support Intervention in Intensive Care Units. *N Engl J Med* 2018;378:2365–75. <https://doi.org/10.1056/NEJMoa1802637>.
+- [4] Muehlschlegel S, Goostrey K, Flahive J, Zhang Q, Pach JJ, Hwang DY. Pilot Randomized Clinical Trial of a Goals-of-Care Decision Aid for Surrogates of Patients With Severe Acute Brain Injury. *Neurology* 2022;99. <https://doi.org/10.1212/WNL.0000000000200937>.
+- [5] Suen AO, Butler RA, Arnold RM, Myers B, Witteman HO, Cox CE, et al. A Pilot Randomized Trial of an Interactive Web-based Tool to Support Surrogate Decision Makers in the Intensive Care Unit. *Annals ATS* 2021;18:1191–201. <https://doi.org/10.1513/AnnalsATS.202006-585OC>.
+- [6] Kerckhoffs MC, Kant M, Van Delden JJM, Hooft L, Kesecioglu J, Van Dijk D. Selecting and evaluating decision-making strategies in the intensive care unit: A systematic review. *Journal of Critical Care* 2019;51:39–45. <https://doi.org/10.1016/j.jcrc.2019.01.029>.
+- [7] Kon AA, Davidson JE, Morrison W, Danis M, White DB. Shared Decision Making in ICUs: An American College of Critical Care Medicine and American Thoracic Society Policy Statement. *Critical Care Medicine* 2016;44:188–201. <https://doi.org/10.1097/CCM.0000000000001396>.**Figure 3 : Décision de limitation et/ou arrêt des thérapeutiques en soins critiques : aspects réglementaires et pratiques**
+
+```
+
+graph TD
+    Start[Initiation de la réflexion  
+Patient  
+Médecin  
+Équipe paramédicale  
+Personne de confiance  
+Proches]
+    
+    Start --> LeftPath[Patient en mesure de s'exprimer*]
+    Start --> RightPath[Patient incapable de s'exprimer*]
+    
+    subgraph LeftPath [Patient en mesure de s'exprimer*]
+        L1[Patient en mesure de s'exprimer*]
+        L2[Décision du patient avec le médecin  
+Patient  
+Médecin  
+± Personne de confiance]
+        L3a[Si décision d'une limitation ou arrêt de traitements]
+        L3b[Si demande associée d'une SPCMD‡]
+        L4a[Mise en œuvre de la décision  
+Équipe de soin]
+        L4b[Procédure collégiale  
+Équipe de soin  
+Intervenant extérieur]
+        L5[Décision  
+Médecin en charge du patient]
+        L6[Mise en œuvre de la décision d'arrêt des traitements  
+Équipe de soin]
+        L7[SPCMD‡]
+        
+        L1 --> L2
+        L2 --> L3a
+        L2 --> L3b
+        L3a --> L4a
+        L3b --> L4b
+        L4a --> L5
+        L4b --> L5
+        L5 --> L6
+        L6 --> L7
+    end
+    
+    subgraph RightPath [Patient incapable de s'exprimer*]
+        R1[Patient incapable de s'exprimer*]
+        R2a[Information de la personne de confiance et des proches de l'initiation d'une procédure de LAT†. Consignation dans le dossier de l'information délivrée.]
+        R2b[Consultation : 1-Directives anticipées 2-Personne de confiance 3-Famille et proche]
+        R3[Procédure collégiale  
+Équipe de soin  
+Intervenant extérieur]
+        R4[Décision  
+Médecin en charge du patient]
+        R5a[Inscription dans le dossier médical]
+        R5b[Information de la personne de confiance et des proches de la décision]
+        R6([délai permettant d'exercer un recours en temps utile])
+        R7[Mise en œuvre de la décision  
+Équipe de soin]
+        R8[Inscription dans le dossier de l'arrêt ou la limitation des thérapeutiques]
+        R9a[Arrêt des traitements]
+        R9b[Limitation des traitements]
+        R10[Si arrêt de traitements nécessaires au maintien en vie]
+        R11[SPCMD‡]
+        R12[Inscription de l'arrêt des thérapeutiques et de la procédure de SPCMD‡ dans le dossier]
+        
+        R1 --> R2a
+        R1 --> R2b
+        R2a --> R3
+        R2b --> R3
+        R3 --> R4
+        R4 --> R5a
+        R4 --> R5b
+        R5a --> R6
+        R5b --> R6
+        R6 --> R7
+        R7 --> R8
+        R8 --> R9a
+        R8 --> R9b
+        R9a --> R10
+        R10 --> R11
+        R9b --> R12
+        R12 --> R11
+    end
+  
+```
+
+**Legend:**
+
+- **i** Fiche disponible dans la RFE
+- **\* s'exprimer :** apte à manifester sa volonté de façon libre et éclairée
+- **† LAT :** Limitation et/ou arrêt des traitements
+- **‡ SPCMD :** Sédation profonde et continue maintenue jusqu'au décès**Question :** Lors d'une réflexion de limitation et/ou arrêt des traitements pour les patients hospitalisés en service de soins critiques, la participation active des équipes paramédicales aux réunions de procédure collégiale améliore-t-elle la qualité des soins ?
+
+*Experts : Enora Atchade (SFAR, Paris), Yann Le Guen (SFAR IDE, Grenoble), Nicolas Engrand (SFAR, Paris), Gérard Audibert (SFAR, Nancy), Claire Dahyot-Fizelier (SFAR, Poitiers), Jonathan Lévy (SOFMER, Paris), Clément Gakuba (SFAR, Caen).*
+
+**R1.4 – Pour les patients hospitalisés en service de soins critiques, il est probablement recommandé d'inclure la participation active des équipes paramédicales aux réunions de procédure collégiale de limitation et/ou arrêt des traitements afin d'améliorer la qualité des soins.**
+
+**GRADE 2 (Accord fort)**
+
+**Argumentaire :**
+
+La loi française (LOI n° 2016-87 du 2 février 2016 créant de nouveaux droits en faveur des malades et des personnes en fin de vie dite "Loi Claeys-Leonetti") prévoit l'organisation d'une procédure collégiale préalable à toute décision de LAT lorsque le patient n'est pas en mesure de s'exprimer. La procédure collégiale se matérialise généralement par une réunion de concertation collégiale, pluridisciplinaire (Figures 4 et 5). En dehors du consultant extérieur, indispensable réglementairement à cette procédure collégiale en matière de décision de LAT, la loi française légitime également l'intégration active des infirmiers diplômés d'état (IDE) à ces réunions pluridisciplinaires (Figures 4 et 5).
+
+Vingt-cinq articles ont été retenus pour cet argumentaire. Ils ont étudié directement ou indirectement les effets de la participation des équipes paramédicales aux décisions de LAT, quelle que soit la forme que cette participation prenait en pratique. Ces études proviennent principalement d'Europe et des États-Unis. Elles sont presque exclusivement constituées d'enquêtes et d'interviews, donc descriptives, qualitatives et non comparatives (hormis quelques comparaisons IDE vs. médecins), avec des effectifs très variables. Elles s'intéressent essentiellement à la qualité de l'ambiance éthique en soins critiques et à la souffrance soignante, et nettement moins à la qualité de prise en charge des patients [1] et des proches [2–4]. Les personnels paramédicaux étudiés se limitent presque exclusivement aux IDE, sans prise en compte des aides-soignants, kinésithérapeutes, travailleurs sociaux etc.
+
+Les points essentiels qui ressortent de l'analyse de ces articles sont :
+
+- Les facteurs les plus pertinents et les plus fréquemment retrouvés pour optimiser l'ambiance éthique du processus de décision sont regroupés dans le « ethical decision-making climate questionnaire » (EDMCQ) : ne pas éluder la prise de décision en fin de vie, le respect mutuel au sein de l'équipe interdisciplinaire (médecins - IDE), la réflexion interdisciplinaire ouverte, la sensibilisation à l'éthique, le leadership éclairé des médecins, et la prise de décision par les médecins avec l'implication active des IDE [5,6].
+
+- La participation des IDE au processus de décision de fin de vie est variable selon les études. Elle était rapportée dans les trois quarts des cas dans l'étude multicentrique européenne ETHICUS [7], mais d'autres études ont rapporté une participation moindre [8,9]. Pourtant, les IDE sont impliqués dans de nombreux aspects du processus de décision concernant la fin de vie, notamment de par leur proximité avec les patients et leurs proches, avec un rôle parfois considéré comme intermédiaire, de coordonnateur, voire de « porte-parole » (connaissance de leurs besoins et de leurs souhaits) [2,10–13]. La participation des IDE à la prise de décision en matière de fin de vie est également jugée nécessaire à la dispensation de soins palliatifs de qualité [1,14].- Les IDE perçoivent quasi-systématiquement, et de manière statistiquement significative, l'ambiance éthique pour la prise de décision de fin de vie comme moins favorable que les médecins [9,14–17], décrivent une moins grande satisfaction quant à la qualité des soins [17,18], et décrivent leur participation aux décisions concernant la fin de vie comme insuffisante [10,14,19–21].
+
+- Plusieurs études soulignent le fait que les facteurs déterminant les décisions de LAT et la perception de la futilité des soins diffèrent entre les IDE et les médecins, et il existe parfois des désaccords [14,21,22]. Comparativement aux IDE, les médecins signalent plus fréquemment que la dynamique familiale et les considérations médicales ou juridiques sont des éléments pouvant influencer les décisions de non-réanimation [22]. Par exemple, alors que les médecins s'appuient sur leur relation avec la famille pour décider d'une réanimation d'attente, les IDE s'appuient sur leur relation avec le patient pour qualifier l'obstination déraisonnable [10]. L'insatisfaction des IDE concernant les décisions de fin de vie est principalement liée à des décisions de LAT trop tardives [21]. Le fait de poursuivre des soins considérés comme futilités est associé à un niveau de détresse élevé chez les IDE [23,24]. Ainsi, le climat éthique suboptimal dans le processus de décision, et la mauvaise communication au sein de l'équipe soignante entraînent plus de frustration [21], plus de détresse morale [15,17,25], plus de burnout [3,26], plus d'intention de quitter son emploi [5,15,20], et un moins bon soutien des familles [4].
+
+En conclusion, malgré leurs limites qui ne permettent d'apporter que des arguments indirects, les études sont nombreuses et concordantes en faveur des bénéfices de la participation des IDE aux réunions collégiales, sur l'ambiance éthique, et la souffrance des soignants en particulier. Il revient donc aux médecins et aux IDE d'instaurer une culture de la participation des IDE aux processus de décisions [1,16,25,27], et de savoir transformer leurs éventuels désaccords en opinions complémentaires à prendre en compte pour prendre les meilleures décisions [3], malgré les contraintes de temps et de planning [27,28] qui impliquent que le médecin et l'IDE présents ne sont pas toujours ceux qui connaissent le mieux le patient et ses proches [3,4]. (Cf Figure 5, R1.)
+
+## Références
+
+1. [1] Ke Y-X, Hu SH, Takemura N, Lin C-C. Perceived quality of palliative care in intensive care units among doctors and nurses in Taiwan. *International Journal for Quality in Health Care* 2019. <https://doi.org/10.1093/intqhc/mzz003>.
+2. [2] Heradstveit SH, Larsen MH, Solberg MT, Steindal SA. Critical care nurses' role in the decision-making process of withdrawal of life-sustaining treatment: A qualitative systematic review. *Journal of Clinical Nursing* 2023;32:6012–27. <https://doi.org/10.1111/jocn.16728>.
+3. [3] Flannery L, Peters K, Ramjan LM. The differing perspectives of doctors and nurses in end-of-life decisions in the intensive care unit: A qualitative study. *Australian Critical Care* 2020;33:311–6. <https://doi.org/10.1016/j.aucc.2019.08.004>.
+4. [4] McAndrew NS, Schiffman R, Leske J. Relationships among Climate of Care, Nursing Family Care and Family Well-being in ICUs. *Nurs Ethics* 2019;26:2494–510. <https://doi.org/10.1177/0969733019826396>.
+5. [5] the DISPROPRICUS study group of the Ethics Section of the ESICM, Van Den Bulcke B, Metaxa V, Reyners AK, Rusinova K, Jensen HI, et al. Ethical climate and intention to leave among critical care clinicians: an observational study in 68 intensive care units across Europe and the United States. *Intensive Care Med* 2020;46:46–56. <https://doi.org/10.1007/s00134-019-05829-1>.
+6. [6] Van Den Bulcke B, Piers R, Jensen HI, Malmgren J, Metaxa V, Reyners AK, et al. Ethical decision-making climate in the ICU: theoretical framework and validation of a self-assessment tool. *BMJ Qual Saf* 2018;27:781–9. <https://doi.org/10.1136/bmjqs-2017-007390>.
+7. [7] Benbenishty J, Ganz FD, Lippert A, Bulow H-H, Wennberg E, Henderson B, et al. Nurse involvement in end-of-life decision making: the ETHICUS Study. *Intensive Care Med* 2006;32:129–32. <https://doi.org/10.1007/s00134-005-2864-1>.
+8. [8] Deliens L, Mortier F, Bilsen J, Cosyns M, Stichele RV, Vanoverloop J, et al. End-of-life decisions in medical practice in Flanders, Belgium: a nationwide survey. *The Lancet* 2000;356:1806–11. [https://doi.org/10.1016/S0140-6736\(00\)03233-5](https://doi.org/10.1016/S0140-6736(00)03233-5).[9] Benbenishty J, Ganz FD, Lautrette A, Jaschinski U, Aggarwal A, Søreide E, et al. Variations in reporting of nurse involvement in end-of-life practices in intensive care units worldwide (ETHICUS-2): A prospective observational study. *International Journal of Nursing Studies* 2024;155:104764. <https://doi.org/10.1016/j.ijnurstu.2024.104764>.
+
+[10] Laurent A, Bonnet M, Capellier G, Aslanian P, Hebert P. Emotional Impact of End-of-Life Decisions on Professional Relationships in the ICU: An Obstacle to Collegiality?\*. *Critical Care Medicine* 2017;45:2023–30. <https://doi.org/10.1097/CCM.0000000000002710>.
+
+[11] Adams JA, Bailey DE, Anderson RA, Docherty SL. Nursing Roles and Strategies in End-of-Life Decision Making in Acute Care: A Systematic Review of the Literature. *Nursing Research and Practice* 2011;2011:1–15. <https://doi.org/10.1155/2011/527834>.
+
+[12] Calvin AO, Lindy CM, Clingon SL. The cardiovascular intensive care unit nurse's experience with end-of-life care: A qualitative descriptive study. *Intensive and Critical Care Nursing* 2009;25:214–20. <https://doi.org/10.1016/j.iccn.2009.05.001>.
+
+[13] Jensen HI, Ammentorp J, Johannessen H, Ørding H. Challenges in End-of-Life Decisions in the Intensive Care Unit: An Ethical Perspective. *Bioethical Inquiry* 2013;10:93–101. <https://doi.org/10.1007/s11673-012-9416-5>.
+
+[14] Ferrand E, Lemaire F, Regnier B, Kuteifan K, Badet M, Asfar P, et al. Discrepancies between Perceptions by Physicians and Nursing Staff of Intensive Care Unit End-of-Life Decisions. *Am J Respir Crit Care Med* 2003;167:1310–5. <https://doi.org/10.1164/rccm.200207-752OC>.
+
+[15] Silverman H, Wilson T, Tisherman S, Kheirbek R, Mukherjee T, Tabatabai A, et al. Ethical decision-making climate, moral distress, and intention to leave among ICU professionals in a tertiary academic hospital center. *BMC Med Ethics* 2022;23:45. <https://doi.org/10.1186/s12910-022-00775-y>.
+
+[16] Jensen HI, Hebsgaard S, Hansen TCB, Johnsen RFA, Hartog CS, Soultati I, et al. Perceptions of Ethical Decision-Making Climate Among Clinicians Working in European and U.S. ICUs: Differences Between Nurses and Physicians\*. *Critical Care Medicine* 2019;47:1716–23. <https://doi.org/10.1097/CCM.0000000000004017>.
+
+[17] Hamric AB, Blackhall LJ. Nurse-physician perspectives on the care of dying patients in intensive care units: Collaboration, moral distress, and ethical climate\*: *Critical Care Medicine* 2007;35:422–9. <https://doi.org/10.1097/01.CCM.0000254722.50608.2D>.
+
+[18] Shannon SE, Mitchell PH, Cain KC. Patients, Nurses, and Physicians Have Differing Views of Quality of Critical Care. *J of Nursing Scholarship* 2002;34:173–9. <https://doi.org/10.1111/j.1547-5069.2002.00173.x>.
+
+[19] Arends SAM, Steenbergen M, Thodé M, Francke AL, Jongerden IP. Moral distress among nurses involved in life-prolonging treatments in patients with a short life expectancy: A qualitative interview study. *Patient Education and Counseling* 2022;105:2531–6. <https://doi.org/10.1016/j.pec.2022.01.017>.
+
+[20] Schwarzkopf D, Bloos F, Meißner W, Rüddel H, Thomas-Rüddel DO, Wedding U. Perceptions of Quality of Interprofessional Collaboration, Staff Well-Being and Nonbeneficial Treatment: A Comparison between Nurses and Physicians in Intensive and Palliative Care. *Healthcare* 2024;12:602. <https://doi.org/10.3390/healthcare12060602>.
+
+[21] McAndrew NS, Leske JS. A Balancing Act: Experiences of Nurses and Physicians When Making End-of-Life Decisions in Intensive Care Units. *Clin Nurs Res* 2015;24:357–74. <https://doi.org/10.1177/1054773814533791>.
+
+[22] Westphal DM, McKee SA. End-of-Life Decision Making in the Intensive Care Unit: Physician and Nurse Perspectives. *Am J Med Qual* 2009;24:222–8. <https://doi.org/10.1177/1062860608330825>.
+
+[23] Mobley MJ, Rady MY, Verheijde JL, Patel B, Larson JS. The relationship between moral distress and perception of futile care in the critical care unit. *Intensive and Critical Care Nursing* 2007;23:256–63. <https://doi.org/10.1016/j.iccn.2007.03.011>.
+
+[24] Elpern EH, Covert B, Kleinpell R. Moral Distress of Staff Nurses in a Medical Intensive Care Unit. *American Journal of Critical Care* 2005;14:523–30. <https://doi.org/10.4037/ajcc2005.14.6.523>.
+
+[25] Blythe JA, Kentish-Barnes N, Debue A-S, Dohan D, Azoulay E, Covinsky K, et al. An Interprofessional Process for the Limitation of Life-Sustaining Treatments at the End of Life in France. *Journal of Pain and Symptom Management* 2022;63:160–70. <https://doi.org/10.1016/j.jpainsymman.2021.06.016>.
+
+[26] Teixeira C, Ribeiro O, Fonseca AM, Carvalho AS. Ethical decision making in intensive care units: a burnout risk factor? Results from a multicentre study conducted with physicians and nurses. *J Med Ethics* 2014;40:97–103. <https://doi.org/10.1136/medethics-2012-100619>.
+
+[27] Bos-van Den Hoek DW, Thodé M, Jongerden IP, Van Laarhoven HWM, Smets EMA, Tange D, et al. The role of hospital nurses in shared decision-making about life-prolonging treatment: A qualitative interview study. *Journal of Advanced Nursing* 2021;77:296–307. <https://doi.org/10.1111/jan.14549>.
+
+[28] Arends SAM, Thodé M, Pasman HRW, Francke AL, Jongerden IP. How physicians see nurses' role in decision-making about life-prolonging treatments in patients with a short life expectancy: An interview study. *Patient Education and Counseling* 2023;114:107863. <https://doi.org/10.1016/j.pec.2023.107863>.**Figure 4 : La procédure collégiale et l'intervenant extérieur : aspects réglementaires et pratiques**
+
+![Icon representing legal or regulatory framework, showing a scale of justice and a gavel.](7670f9296377868c0fc81cbd20067b63_2_img.webp)
+
+### Le cadre réglementaire :
+
+**Code de la santé publique — Partie réglementaire — Code de déontologie médicale (Articles R4127-1 à R4127-112)**
+
+**Décret n°2021-684 du 28 mai 2021 - art. 12**
+
+#### **Article R4127-37-2**
+
+I. - La décision de limitation ou d'arrêt de traitement respecte la volonté du patient antérieurement exprimée dans des directives anticipées. Lorsque le patient est hors d'état d'exprimer sa volonté, la décision de limiter ou d'arrêter les traitements dispensés, au titre du refus d'une obstination déraisonnable, ne peut être prise qu'à l'issue de la procédure collégiale prévue à l'article [L. 1110-5-1](#) et dans le respect des directives anticipées et, en leur absence, après qu'a été recueilli auprès de la personne de confiance ou, à défaut, auprès de la famille ou de l'un des proches le témoignage de la volonté exprimée par le patient.
+
+II. - Le médecin en charge du patient peut engager la procédure collégiale de sa propre initiative. Il est tenu de le faire à la demande de la personne de confiance, ou, à défaut, de la famille ou de l'un des proches. La personne de confiance ou, à défaut, la famille ou l'un des proches est informé, dès qu'elle a été prise, de la décision de mettre en œuvre la procédure collégiale.
+
+III. - La décision de limitation ou d'arrêt de traitement est prise par le médecin en charge du patient à l'issue de la procédure collégiale. Cette procédure collégiale prend la forme d'une concertation avec les membres présents de l'équipe de soins, si elle existe, et de l'avis motivé d'au moins un médecin, appelé en qualité de consultant. Il ne doit exister aucun lien de nature hiérarchique entre le médecin en charge du patient et le consultant. L'avis motivé d'un deuxième consultant est recueilli par ces médecins si l'un d'eux l'estime utile. Lorsque la décision de limitation ou d'arrêt de traitement concerne un mineur ou une personne faisant l'objet d'une mesure de protection juridique avec représentation relative à la personne, le médecin recueille en outre l'avis des titulaires de l'autorité parentale ou de la personne chargée de la mesure, selon les cas, hormis les situations où l'urgence rend impossible cette consultation.
+
+IV. - La décision de limitation ou d'arrêt de traitement est motivée. La personne de confiance, ou, à défaut, la famille, ou l'un des proches du patient est informé de la nature et des motifs de la décision de limitation ou d'arrêt de traitement. La volonté de limitation ou d'arrêt de traitement exprimée dans les directives anticipées ou, à défaut, le témoignage de la personne de confiance, ou de la famille ou de l'un des proches de la volonté exprimée par le patient, les avis recueillis et les motifs de la décision sont inscrits dans le dossier du patient.
+
+Référence : *Code de Santé Publique.*
+
+![Icon representing practical application, showing a person in a hospital bed and a medical professional.](7670f9296377868c0fc81cbd20067b63_12_img.webp)
+
+### En pratique :
+
+La procédure collégiale peut être initiée par l'équipe de soins ou par les proches. Elle a pour objectif le respect de l'autonomie du patient en tenant compte :
+
+- - Des souhaits que le patient aurait antérieurement exprimés, en particulier dans des directives anticipées
+- - Du témoignage de la personne de confiance qu'il aurait désigné
+- - Du témoignage de la famille ou des proches
+
+3 situations nécessitent une procédure collégiale :
+
+- - Chez un patient hors d'état d'exprimer sa volonté, avant la limitation ou l'arrêt d'un traitement susceptible d'entraîner son décès.
+- - Avant la mise en place de la sédation profonde et continue maintenue jusqu'au décès
+- - Lors du refus d'appliquer les directives anticipées manifestement inappropriées ou non conformes à la situation médicale.
+
+En cas de décision de limitation ou d'arrêt des traitements, la loi impose le recours à un intervenant extérieur, un médecin extérieur au service ou à l'hôpital, sans aucun lien de nature hiérarchique entre le médecin en charge et le médecin extérieur. Ce point est essentiel car il permet d'éviter une décision « arbitraire ou arbitraire » d'une équipe de professionnels.
+
+Le Conseil National de l'Ordre des Médecins (CNOM) estime que le consultant extérieur doit être compétent dans le domaine de l'affection en cause, sans être un expert. Le CNOM considère également que l'avis peut être recueilli à distance. En revanche, la Société de Réanimation de Langue Française (SRLF) estime que le consultant extérieur doit examiner le patient. La Société Française d'Anesthésie-Réanimation (SFAR) partage également cette nécessité.
+
+Dans le cas d'une procédure collégiale préalable à l'instauration à la demande du patient d'une sédation profonde et continue maintenue jusqu'au décès, le consultant extérieur vérifie que la demande du patient est libre et éclairée et apprécie ses capacités de discernement.
+
+En réanimation, pour la tenue d'une réunion collégiale, il est nécessaire de prévenir le chirurgien ou le médecin spécialiste en charge du patient et il est important de prévenir également le médecin traitant. Ces praticiens ne seront pas considérés comme médecins extérieurs. La pluridisciplinarité et la pluridisciplinarité des intervenants sont encouragées.
+
+Références :
+
+- - La procédure collégiale Site : <http://www.pncrons-fin-de-vie.fr/>
+- - [www.conseil-national.medecin.fr/code-deontologie/devoirs-patients-art-32-55/article-37-2-limitation-arret-traitement](http://www.conseil-national.medecin.fr/code-deontologie/devoirs-patients-art-32-55/article-37-2-limitation-arret-traitement)
+- - [www.srlf.org/wp-content/uploads/2015/12/2008\\_-\\_actualisation\\_desrecommandations\\_de\\_la\\_SRLF\\_concernant\\_les\\_limitations\\_therapeutiques.pdf](http://www.srlf.org/wp-content/uploads/2015/12/2008_-_actualisation_desrecommandations_de_la_SRLF_concernant_les_limitations_therapeutiques.pdf)
+- - HAS 2018, *Comment mettre en œuvre une sédation profonde et continue maintenue jusqu'au décès* Veber B,
+- - Limitations thérapeutiques en médecine péri opératoire, Conférences d'essentiels, SFAR 2018**Figure 5 : Proposition de déroulement et de check-list pour une procédure collégiale**
+
+### Initiation de la procédure collégiale
+
+- • Par **tout soignant** (médecin ou non) impliqué dans la prise en charge du patient.
+- • Indirectement par le patient, sur la base de directives anticipées qu'il aurait préalablement rédigées.
+- • À la **demande de la personne de confiance**, de la famille ou à défaut d'un proche.
+- • À la **demande du patient**, dans le cas spécifique d'une demande de SPCMD émanant du patient lui-même
+
+### Phase de préparation
+
+- • Recueillir les **informations médicales pertinentes** (antécédents, traitements, diagnostic, pronostic).
+- • Consulter les **directives anticipées** du patient si disponibles.
+- • Recueillir le **témoignage de la personne de confiance** ou à défaut celui de la famille ou des proches.
+- • Recueillir l'**avis d'un médecin consultant extérieur** à l'équipe prenant en charge le patient. L'avis motivé d'un deuxième médecin consultant extérieur peut être recherché si les médecins l'estiment nécessaire.
+- • **Informez la famille et les proches**, sauf opposition du patient exprimée dans les directives anticipées.
+- • **Tracer dans le dossier médical l'information** de la personne de confiance, de la famille et des proches
+
+### Phase de délibération collégiale
+
+Réunir une équipe participant à la réunion collégiale
+
+Doivent être discutés et pris en compte :
+
+- • **Des éléments médicaux** : situation clinique du patient, niveau de souffrance, traitements en cours et alternatives possibles, pronostic de la maladie, évolution depuis l'admission, temps écoulé depuis l'admission.
+- • **Des éléments non-médicaux** : souhaits du patient, témoignage de la personne de confiance, témoignage des proches.
+
+L'objectif est de **recueillir tous les avis, sans nécessairement viser un consensus.**
+
+### Phase de décision
+
+- • À l'issue de la délibération collégiale, **décision motivée par le médecin en charge du patient.**
+- • **Consigner la décision dans le dossier médical avec mention des participants et des arguments discutés.**
+
+### Phase de mise en œuvre et de suivi
+
+- • **Informez la famille et les proches** de la décision et de sa justification (cf. figure 8 : communication).
+- • En cas d'opposition des proches, **solliciter une structure d'éthique clinique**, prendre le temps du cheminement, en répétant les entretiens, en variant les interlocuteurs. En cas de situation de blocage, informer la famille des recours légaux possibles.
+- • **S'assurer du confort du patient.**
+
+### Check-list des membres à convier
+
+#### Participation obligatoire au regard de la loi
+
+- Médecin senior en charge du patient
+- Un médecin extérieur au service de soins critiques, appelé en qualité de consultant
+- Membres présents de l'équipe soignante
+
+#### Participation recommandée
+
+- Au moins un autre médecin du service
+- Interne(s) impliqué(s) dans la prise en charge du patient
+- Médecins et IDE d'autres services directement impliqués dans la prise en charge du patient (médecin généraliste, chirurgien, spécialistes...)
+
+#### Participation idéale
+
+- Cadre du service
+- Kinésithérapeute impliqué dans la prise en charge du patient
+- Etudiants hospitaliers
+- Etudiants IDE, AS, kinésithérapeute
+- Psychologue
+- Assistante sociale## Check-list chez un patient hors d'état d'exprimer sa volonté
+
+### Avant d'initier la procédure :
+
+- Le patient est-il hors d'état d'exprimer sa volonté ?
+- Les directives anticipées ont-elles été recherchées ?
+- Les directives anticipées sont-elles conformes avec la loi et avec la situation clinique ?
+- La personne de confiance et la famille et/ou les proches ont-ils été informés de la procédure collégiale ?
+- La personne de confiance ou, à défaut, la famille et/ou les proches ont-ils été consultés concernant les volontés du patient ?
+- L'information de la personne de confiance et de la famille et/ou des proches concernant l'initiation de la procédure collégiale a-t-elle été tracée dans le dossier ?
+
+### Lors de la procédure collégiale :
+
+- La délibération a-t-elle lieu au cours d'une réunion ?
+- Un médecin référent a-t-il été désigné ?
+- L'avis d'un consultant extérieur a-t-il été recherché ?
+- Un soignant paramédical a-t-il participé à la procédure collégiale ?
+
+### Après la procédure collégiale :
+
+- La personne de confiance et la famille et/ou les proches ont-ils été informés de la décision et accompagnés ?
+- L'équipe soignante médicale et paramédicale a-t-elle été informée de la décision ?
+- L'ensemble de la procédure collégiale a-t-elle été clairement tracée dans le dossier médical (notamment les motifs de la décision) ?
+
+## CHAMP 2 : Modalités de mise en œuvre d'une décision de limitation et/ou arrêt des thérapeutiques
+
+**Question :** Pour les patients hospitalisés en service de soins critiques, après une décision d'arrêt des traitements, l'utilisation d'un protocole pour l'administration de la sédation lors d'une mise en place d'une sédation profonde et continue maintenue jusqu'au décès permet-elle d'améliorer la qualité des soins ?
+
+*Experts : Pierre-François Perrigault (SFAR, Montpellier), Pierre Trouiller (SFAR, Paris), Mikhael Giabicani (SFAR, Paris).*
+
+**R2.1 – Chez les patients hospitalisés en soins critiques, après une décision d'arrêt des traitements, les experts suggèrent d'utiliser un protocole pour l'administration de la sédation profonde et continue maintenue jusqu'au décès pour améliorer la qualité des soins.**
+
+### AVIS D'EXPERTS (Accord fort)
+
+#### Argumentaire
+
+Les études disponibles concernant la mise en place d'une sédation profonde et continue maintenue jusqu'au décès (SPCMD) sont principalement des études observationnelles ou des enquêtes de pratiques tentant d'effectuer un retour d'expériences des proches de patients décédés et des équipes soignantes en soins critiques, en cancérologie ou en unité de soins palliatifs. Les recommandations européennes, françaises et suisses n'abordent pas cette question mais soulignent néanmoins la nécessité de processus décisionnels structurés pour les soins de fin de vie, afin d'améliorer pour les proches et les soignants la communication, la compréhension et de réduire l'anxiété et les syndromes de stress post traumatiques [1–3]
+
+Le Dorze *et al.* ont publié une étude observationnelle multicentrique chez des patients de réanimation décédés après limitations thérapeutiques, visant à décrire la SPCMD dans son processus décisionnel et sa mise en pratique [4]. Cette étude concerne 343 patients de 57 services de réanimation différents, dont 208 (60 %) ont bénéficié d'une SPCMD. Une procédure formalisée existait seulement dans 32 % des services. La SPCMD n'est pas le résultat d'une procédure collégiale dans 17 % cas et on note l'absence de médecin consultant extérieur dans 29 % des cas où elle a lieu.Les sédatifs les plus fréquemment utilisés sont le midazolam et le propofol, avec un objectif de score de RASS à -5, atteint dans 60% cas. Une analgésie est associée dans 94% cas. Les posologies de médicaments sont plus importantes que dans le cas d'une sédation proportionnée, mais sans différence sur le niveau de sédation obtenu avec la SPCMD. Cette étude met donc en évidence des écarts significatifs entre les pratiques observées et le cadre légal réglementaire en France et nous permet de formuler l'hypothèse qu'au sein des services de soins critiques, la mise en place d'un protocole de SPCMD incluant tant le processus décisionnel que les modalités d'application pourraient permettre une meilleure adéquation au cadre réglementaire.
+
+Une étude observationnelle sur 450 patients de réanimation montrait que la moitié d'entre eux présentait un inconfort défini par la présence de gasps, d'obstruction bronchique ou d'un BPS (Behavioural Pain Scale) > 3 lors du retrait du respirateur durant une procédure de LAT. Les patients dits inconfortables étaient moins nombreux à recevoir une sédation profonde et continue et à recevoir du midazolam que les patients considérés comme confortables (30% vs 49% ;  $p < 0,01$ ) et ils avaient un score RASS significativement moins bas (RASS  $-4,1 \pm 1,5$  vs. RASS  $-4,6 \pm 0,9$  ;  $p < 0,001$ ). En analyse multivariée, la sédation profonde (RASS -5) était associée à moins d'inconfort (OR : 0,47 IC 95% [0,28 ; 0,78]  $p < 0,001$ ). Ces résultats suggèrent qu'une forte proportion de patients n'ont pas reçu une sédation suffisante lors du processus de fin de vie avec une sous-utilisation des médicaments sédatifs, expliquant ainsi le niveau d'inconfort excessivement élevé chez certains patients en fin de vie. En revanche, quel que soit le moment de l'évaluation (3, 6 ou 12 mois après le décès), aucune différence n'a été observée sur les scores de dépression anxiogène, ni sur le risque de développer un stress post-traumatique ou un deuil compliqué dans les familles de patients. Pour toutes les catégories de soignants, aucune différence n'a été constatée dans les scores de stress au travail, que le patient ressente une gêne ou non [5].
+
+Deux études effectuées en soins palliatifs ont montré que la mise en place d'une SPCMD n'est pas associée à un décès plus rapide en comparaison à une sédation avec ajustement proportionné des doses [6,7].
+
+Concernant le vécu des proches de patients décédés, dans une étude prospective observationnelle (surveillance par questionnaire), les auteurs comparent le vécu des proches de patients atteints de cancer en fin de vie ayant bénéficié soit d'une sédation proportionnelle, soit d'une sédation profonde et continue basée sur un protocole [8]. Les auteurs n'ont pas retrouvé de différences dans le vécu des proches de patients décédés avec un protocole de SPCMD versus le vécu des proches de patients décédés avec une sédation proportionnelle (évalué selon 5 items : satisfaction, détresse perçue par la famille, pertinence du moment, détresse du patient, éléments de préoccupations familiales (tels que "bonne mort", satisfaction à l'égard des soins, dépression, qualité des soins, affaires inachevées, équilibre entre le soulagement des symptômes et le maintien de la communication)). Cependant, certains items tels que la qualité des soins sont significativement meilleurs (relations avec l'équipe médicale, soins infirmiers, coordination) chez les proches de patients ayant bénéficié d'une SPCMD.
+
+Jonker *et al.* ont montré que la SPCMD était désormais considérée aux Pays-Bas comme un outil de soins palliatifs disponible, dénuée d'objection morale et le plus souvent mis en place à la demande des proches ou du patient [9]. Une enquête (interviews semi structurées chez 41 soignants) souligne qu'une plus grande prise en compte des souffrances réfractaires par les soignants et leur moindre tolérance par les patients et leurs proches expliquent le recours plus important à la SPCMD aux Pays-Bas. Elle montre aussi que les symptômes d'origine non physique sont de plus en plus importants dans la décision de débuter la SPCMD [10].Les soignants rapportent peu de souffrances psychologiques liées à la SPCMD, ce d'autant que les justifications éthiques et cliniques sont perçues comme sans ambiguïtés [11].
+
+Une proposition de protocole de SPCMD est formulée sur la Figure 6.
+
+#### Références
+
+- [1] Kesecioglu J, Rusinova K, Alampi D, Arabi YM, Benbenishty J, Benoit D, et al. European Society of Intensive Care Medicine guidelines on end of life and palliative care in the intensive care unit. *Intensive Care Med* 2024;50:1740–66. <https://doi.org/10.1007/s00134-024-07579-1>.
+- [2] Comment mettre en œuvre une sédation profonde et continue maintenue jusqu'au décès ? — HAS 2020. [https://www.has-sante.fr/jcms/c\\_2832000/fr/comment-mettre-en-oeuvre-une-sedation-profonde-et-continue-maintenue-jusqu-au-deces](https://www.has-sante.fr/jcms/c_2832000/fr/comment-mettre-en-oeuvre-une-sedation-profonde-et-continue-maintenue-jusqu-au-deces).
+- [3] Beauverd M, Mazzoli M, Pralong J, Tomczyk M, Eychmüller S, Gaertner J. Palliative sedation – revised recommendations. *Swiss Med Wkly* 2024;154:3590. <https://doi.org/10.57187/s.3590>.
+- [4] Le Dorze M, Barthélémy R, Giabicani M, Audibert G, Cousin F, Gakuba C, et al. Continuous and deep sedation until death after a decision to withdraw life-sustaining therapies in intensive care units: A national survey. *Palliat Med* 2023;37:1202–9. <https://doi.org/10.1177/02692163231180656>.
+- [5] for the group SEDARREVE, Robert R, Le Gouge A, Kentish-Barnes N, Adda M, Audibert J, et al. Sedation practice and discomfort during withdrawal of mechanical ventilation in critically ill patients at end-of-life: a post-hoc analysis of a multicenter study. *Intensive Care Med* 2020;46:1194–203. <https://doi.org/10.1007/s00134-020-05930-w>.
+- [6] Yokomichi N, Yamaguchi T, Maeda I, Mori M, Imai K, Shirado Naito A, et al. Effect of continuous deep sedation on survival in the last days of life of cancer patients: A multicenter prospective cohort study. *Palliat Med* 2022;36:189–99. <https://doi.org/10.1177/02692163211057754>.
+- [7] Maeda I, Morita T, Yamaguchi T, Inoue S, Ikenaga M, Matsumoto Y, et al. Effect of continuous deep sedation on survival in patients with advanced cancer (J-Proval): a propensity score-weighted analysis of a prospective cohort study. *The Lancet Oncology* 2016;17:115–22. [https://doi.org/10.1016/S1470-2045\(15\)00401-5](https://doi.org/10.1016/S1470-2045(15)00401-5).
+- [8] Imai K, Morita T, Mori M, Yokomichi N, Yamauchi T, Miwa S, et al. Family experience of palliative sedation therapy: proportional vs. continuous deep sedation. *Support Care Cancer* 2022;30:3903–15. <https://doi.org/10.1007/s00520-021-06745-1>.
+- [9] Jonker LA, Heijltjes MT, Rietjens JAC, Van Der Heide A, Hendriksen G, Van Delden JJM, et al. Experiences and perceptions of continuous deep sedation: An interview study among Dutch patients and relatives. *Health Expectations* 2024;27:e13869. <https://doi.org/10.1111/hex.13869>.
+- [10] Heijltjes MT, Van Thiel GJ, Rietjens JA, Van Der Heide A, Hendriksen G, Van Delden JJ. Continuous deep sedation at the end of life: a qualitative interview-study among health care providers on an evolving practice. *BMC Palliat Care* 2023;22:160. <https://doi.org/10.1186/s12904-023-01289-z>.
+- [11] Ziegler S, Merker H, Schmid M, Puhan MA. The impact of the inpatient practice of continuous deep sedation until death on healthcare professionals' emotional well-being: a systematic review. *BMC Palliat Care* 2017;16:30. <https://doi.org/10.1186/s12904-017-0205-0>.**Figure 6 : Proposition de protocole de sédation profonde et continue maintenue jusqu'au décès (SPCMD)**
+
+```
+
+graph TD
+    A["• Préparation de la famille et des proches :  
+• Proposer à la famille un recours à un représentant du culte  
+• Demander si la famille souhaite être présente tout au long du processus  
+• Proposer un accompagnement et un soutien aux proches (psychologue...)"] --> B["• S'assurer d'une voie veineuse efficace  
+• Arrêt de la nutrition et de l'hydratation artificielle  
+• Scopolamine : 1 à 3 patches placés derrière l'oreille  
+• En cas de nausées/vomissements : Ondansétron : 4 mg x 3 / jour IVL ou SC ou Métoclopramide : 10 mg IV/SC x 3/j ou relais de 30 à 60 mg sur 24h en IVSE ou dans un soluté"]
+    B --> C["• Poursuivre les soins de nursing (hygiène, prévention et surveillance de l'apparition d'escarres), pansements des plaies"]
+    C --> D["Le jour de l'arrêt des traitements :  
+• Désactiver les alarmes du scope des paramètres suivants : pression invasive, pression non invasive, SpO2. Laisser la surveillance uniquement du pouls et du rythme respiratoire. Scope en mode visiteur ou privé selon les proches, alarmes inhibées.  
+• Privilégier les soins de confort  
+• Arrêt de tous les traitements inconfortables (prélèvements sanguins, aspirations systématiques, injections sous-cutanées, soins douloureux...)  
+• Fréquence de surveillance adaptée au confort du patient et de ses proches.  
+• Reconsidérer le maintien des différents dispositifs invasifs (cathéters de pression artérielle, intracrânienne, dérivation ventriculaire, drains, sondes gastrique, ECG, contention...) Laisser en place sonde vésicale et voie veineuse centrale pour le confort  
+• Arrêt des traitements selon la décision de LAT  
+• La sédation profonde et continue est maintenue jusqu'au décès selon les objectifs de scores RASS et BPS/RDOS. Les posologies de médicaments sont adaptées si besoin pour répondre à ces objectifs. Elle doit associer obligatoirement un hypnotique et un analgésique de palier 3  
+• Poursuivre l'accompagnement des proches"]
+    D --> E["Patient déjà sédaté"]
+    D --> F["Patient non sédaté"]
+    E --> G["maintien ou augmentation de la sédation-analgésie pour l'objectif cible (cf infra) avant l'arrêt des traitements"]
+    F --> H["Midazolam :  
+Effet anxiolytique et sédatif  
+Concentration : 1 mg/ml  
+Mode d'administration : IVSE  
+Posologie initiale :  
+Bolus de 1 mg IVD toutes les 3 minutes pour obtenir l'objectif de sédation  
+Entretien IVSE : dose de titration/h  
+Objectif : obtention d'un score RASS -4 ou -5 (cf infra)  
+Posologie maximum : 30 mg/h  
+  
+Sufentanil :  
+Effet analgésique  
+Concentration : 5 µg/ml  
+Mode d'administration : IVSE  
+Posologie initiale : Bolus de 5 µg IVD toutes les 3 minutes jusqu'à obtention de l'objectif d'analgésie  
+Entretien IVSE : dose de titration/h  
+Objectif : obtention d'un score BPS≤5 à la stimulation douloureuse (cf infra)  
+Posologie maximum : 50 µg/h  
+  
+Morphine : alternative en remplacement du Sufentanil :  
+Effet analgésique  
+Concentration : 1 mg/ml  
+Mode d'administration : IVSE  
+Posologie initiale : Bolus de 3 mg IVD toutes les 5 min jusqu'à obtention de l'objectif d'analgésie  
+Entretien IVSE : dose de titration/h  
+Objectif : obtention d'un score BPS≤5 à la stimulation douloureuse (cf infra)  
+  
+Si les objectifs (RASS/BPS ou RASS/RDOS) ne sont pas atteints avec les thérapeutiques ci-dessus aux doses maximales, ajout de propofol par bolus de titration puis en administration continue à l'appréciation du clinicien."]
+    G --> I["Décès"]
+    H --> I
+  
+```Cette proposition de protocole est utilisable pour toute décision de SPCMD (qu'il y ait ou non une procédure Maastricht 3 suite à la décision de LAT)
+
+Les conditions d'application d'une SPCMD sont définies dans la Loi n° 2016-87 Claeys Leonetti du 2 février 2016 créant de nouveaux droits des malades et personnes en fin de vie.
+
+Elle peut être mise en œuvre pour des malades atteints d'une affection grave et incurable dans 3 situations précisément décrites par la loi :
+
+1. 1. La sédation pourra être décidée par l'équipe médicale, à la demande du patient, lorsque la souffrance du malade, dont le pronostic vital est engagé à court terme, est réfractaire aux traitements.
+2. 2. Elle pourra être mise en œuvre lorsque le patient décide d'arrêter tout traitement engageant le pronostic vital à court terme et que cette décision est susceptible d'entraîner une souffrance insupportable.
+3. 3. Cette sédation doit être effectuée lorsque le patient ne peut pas exprimer sa volonté et au titre du refus de l'obstination déraisonnable, dans le cas où le médecin arrête un traitement de maintien en vie.
+
+Dans tous les cas, la SPCMD est mise en œuvre après la procédure collégiale définie par voie réglementaire qui permet à l'équipe soignante de vérifier préalablement que les conditions d'application sont remplies. L'ensemble de la procédure suivie est inscrit au dossier médical du patient. La personne de confiance et les proches sont informés de la décision, de sa mise en œuvre et des soins effectués (confort...).
+
+Dans la situation d'un patient conscient, les conditions suivantes sont nécessaires pour prendre en considération un arrêt des traitements de maintien en vie :
+
+- • Demande répétée : temps de la réflexion, multiples entretiens tracés.
+- • Capacité de discernement du patient pour prendre des décisions concernant ses soins : évaluation psychiatrique et/ou psychologique avec l'accord du patient et dans des délais appropriés.
+- • Demande libre et éclairée : Connaissance de la maladie, du traitement, de l'évolution, du pronostic. Conséquences de sa demande, effets attendus de la sédation (conscience, communication, etc.) et ses risques (réveil, possibilité de non-soulagement, décès).
+
+Echelle de RASS (Richmond Agitation Sédation Scale) :
+
+<table border="1">
+<tbody>
+<tr>
+<td><b>+4 Combatif.</b><br/><i>Combatif, danger immédiat envers l'équipe.</i></td>
+</tr>
+<tr>
+<td><b>+3 Très agité.</b><br/><i>Tire, arrache tuyaux ou cathéters et/ou agressif envers l'équipe.</i></td>
+</tr>
+<tr>
+<td><b>+2 Agité.</b><br/><i>Mouvements fréquents sans but précis et/ou désadaptation au respirateur.</i></td>
+</tr>
+<tr>
+<td><b>+1 Ne tient pas en place.</b><br/><i>Anxieux ou craintif, mais mouvements orientés, peu fréquents, non vigoureux, non agressif.</i></td>
+</tr>
+<tr>
+<td><b>0 Éveillé et calme.</b></td>
+</tr>
+<tr>
+<td><b>-1 Somnolent.</b><br/><i>Pas complètement éveillé, mais reste éveillé avec contact visuel à l'appel (&gt;10s).</i></td>
+</tr>
+<tr>
+<td><b>-2 Diminution légère de la vigilance.</b><br/><i>Reste éveillé brièvement avec contact visuel à l'appel (&lt;10s).</i></td>
+</tr>
+<tr>
+<td><b>-3 Diminution modérée de la vigilance.</b><br/><i>N'importe quel mouvement à l'appel (ex.: ouverture des yeux), mais pas de contact visuel.</i></td>
+</tr>
+<tr>
+<td><b>-4 Diminution profonde de la vigilance.</b><br/><i>Aucun mouvement à l'appel, n'importe quel mouvement à la stimulation physique (friction non nociceptive de l'épaule ou du sternum).</i></td>
+</tr>
+<tr>
+<td><b>-5 Non réveillable.</b><br/><i>Aucun mouvement, ni à l'appel, ni à la stimulation physique (friction non nociceptive de l'épaule ou du sternum).</i></td>
+</tr>
+</tbody>
+</table>
+
+Echelle de BPS :
+
+<table border="1">
+<thead>
+<tr>
+<th>Expression du visage</th>
+<th>Tonus des membres supérieurs</th>
+<th>Adaptation du respirateur</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 : détendu</td>
+<td>1 : aucun mouvement</td>
+<td>1 : adapté</td>
+</tr>
+<tr>
+<td>2 : partiellement crispé</td>
+<td>2 : flexion partielle</td>
+<td>2 : déclenche ponctuellement</td>
+</tr>
+<tr>
+<td>3 : crispé</td>
+<td>3 : flexion complète</td>
+<td>3 : lutte contre le respirateur</td>
+</tr>
+<tr>
+<td>4 : grimace</td>
+<td>4 : rétraction</td>
+<td>4 : non ventilable</td>
+</tr>
+</tbody>
+</table>
+
+Echelle de RDOS (Respiratory Distress Observation Scale) :
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>0 points</th>
+<th>1 point</th>
+<th>2 points</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fréquence cardiaque</td>
+<td>&lt; 90</td>
+<td>90-109</td>
+<td>≥ 110</td>
+</tr>
+<tr>
+<td>Fréquence respiratoire</td>
+<td>&lt; 19</td>
+<td>19-30</td>
+<td>&gt; 30</td>
+</tr>
+<tr>
+<td>Agitation mouvements involontaires</td>
+<td>non</td>
+<td>occasionnels</td>
+<td>fréquents</td>
+</tr>
+<tr>
+<td>respiration abdominale paradoxale</td>
+<td>non</td>
+<td></td>
+<td>oui</td>
+</tr>
+<tr>
+<td>muscles accessoires inspiratoires</td>
+<td>non</td>
+<td>légère</td>
+<td>prononcée</td>
+</tr>
+<tr>
+<td>râles expiratoires</td>
+<td>non</td>
+<td></td>
+<td>oui</td>
+</tr>
+<tr>
+<td>battement des ailes du nez</td>
+<td>non</td>
+<td></td>
+<td>oui</td>
+</tr>
+<tr>
+<td>Expression de crainte</td>
+<td>non</td>
+<td></td>
+<td>oui</td>
+</tr>
+</tbody>
+</table>**Question :** Pour les patients ventilés hospitalisés en services de soins critiques, après une décision d'arrêt de traitements, la pratique d'une extubation en comparaison à un sevrage progressif permet-elle d'améliorer la qualité des soins ?
+
+*Experts :* Gérard Audibert (SFAR, Nancy), Jérôme Morel (SFAR, Saint-Etienne)
+
+**ABSENCE DE RECOMMANDATION** - En l'absence de données, il n'est pas possible de formuler une recommandation sur la pratique d'une extubation après une décision d'arrêt de traitements, chez les patients ventilés en soins critiques pour améliorer la qualité des soins.
+
+**ABSENCE de RECOMMANDATION**
+
+**Argumentaire :**
+
+Chez les patients en soins critiques, l'arrêt de la ventilation mécanique après une décision d'arrêt de traitement est fréquent. Deux approches existent : l'extubation, perçue comme plus naturelle mais risquant une détresse respiratoire en cas de sédation insuffisante, et le sevrage progressif (« terminal weaning »), qui évite ce risque mais peut prolonger l'agonie. Les soignants ont souvent des avis tranchés sur ces méthodes. Si une extubation est choisie, elle doit s'accompagner d'un protocole de sédation profonde et continue afin de prévenir les signes d'inconfort [1]. La perception des familles est plutôt en faveur de l'extubation, pourvu que l'ensemble de la période de fin de vie ne soit pas trop raccourci pour avoir le temps d'accepter la fin de vie de leur proche [2].
+
+Une seule étude interventionnelle sur la pratique de l'extubation a été retrouvée dans la littérature. Ce travail est une étude française multicentrique observationnelle en cluster. L'objectif principal était d'évaluer l'expérience de 402 proches de 458 patients après arrêt des traitements. Il n'était pas retrouvé de différence entre l'extubation terminale et le sevrage terminal sur le stress post-traumatique, les symptômes anxio-dépressifs ou sur le deuil compliqué dans les 12 mois qui suivent le décès [1]. Après extubation, il était rapporté une fréquence accrue de gasps et d'épisodes d'obstruction des voies aériennes supérieures. Cette complication n'était pas retrouvée dans une autre étude qui avait pour caractéristique de protocoliser la sédation associée en faisant appel à un score d'évaluation de la dyspnée [3]. L'utilité d'un algorithme de sédation pour contrôler la dyspnée évaluée par un score était montrée dans un autre travail portant sur 168 patients [4].
+
+La pratique de l'extubation lors des procédures d'arrêt de traitement peut avoir comme conséquence la réduction du délai entre l'arrêt du support ventilatoire et le décès. L'étude multicentrique française ne mettait pas en évidence de différence de durée entre arrêt du support ventilatoire et décès, que ce soit après extubation ou après sevrage terminal [1]. Le même résultat était observé dans un autre travail [5]. En revanche, deux autres études retrouvent un délai plus court entre arrêt du support ventilatoire et décès [6]. Toutes les études insistent sur la nécessité d'une préparation de la famille à cet arrêt du support ventilatoire, quelles qu'en soient les modalités.
+
+**Références**
+
+- [1] Robert R, Le Gouge A, Kentish-Barnes N, Cottureau A, Giraudreau B, Adda M, et al. Terminal weaning or immediate extubation for withdrawing mechanical ventilation in critically ill patients (the ARREVE observational study). *Intensive Care Med* 2017;43:1793–807. <https://doi.org/10.1007/s00134-017-4891-0>.
+- [2] Gerstel E, Engelberg RA, Koepsell T, Curtis JR. Duration of Withdrawal of Life Support in the Intensive Care Unit and Association with Family Satisfaction. *Am J Respir Crit Care Med* 2008;178:798–804. <https://doi.org/10.1164/rccm.200711-1617OC>.
+- [3] Epker JL, Bakker J, Lingsma HF, Kompanje EJO. An Observational Study on a Protocol for Withdrawal of Life-Sustaining Measures on Two Non-Academic Intensive Care Units in The Netherlands: Few Signs of Distress, No Suffering? *Journal of Pain and Symptom Management* 2015;50:676–84. <https://doi.org/10.1016/j.jpainsymman.2015.05.017>.
+- [4] Campbell ML, Yarandi HN. Effectiveness of an Algorithmic Approach to Ventilator Withdrawal at the End of Life: A Stepped Wedge Cluster Randomized Trial. *Journal of Palliative Medicine* 2023;jpm.2023.0128. <https://doi.org/10.1089/jpm.2023.0128>.[5] DeVita MA, Brooks MM, Zawistowski C, Rudich S, Daly B, Chaitin E. Donors After Cardiac Death: Validation of Identification Criteria (DVIC) Study for Predictors of Rapid Death. American Journal of Transplantation 2008;8:432–41. <https://doi.org/10.1111/j.1600-6143.2007.02087.x>.
+
+[6] Long AC, Muni S, Treece PD, Engelberg RA, Nielsen EL, Fitzpatrick AL, et al. Time to Death after Terminal Withdrawal of Mechanical Ventilation: Specific Respiratory and Physiologic Parameters May Inform Physician Predictions. Journal of Palliative Medicine 2015;18:1040–7. <https://doi.org/10.1089/jpm.2015.0115>.
+
+### **CHAMP 3 : Relations avec les proches, communication, désaccords et conflits.**
+
+**Question : Pour les proches de patients hospitalisés en service de soins critiques, une stratégie d'accompagnement, après une décision d'arrêt et/ou limitation de traitements, permet-elle d'améliorer la qualité des soins ?**
+
+*Experts : Elodie Brunel (SFAR, Toulouse), Clément Gakuba (SFAR, Caen), Yoann Launey (SFAR, Rennes), Olivier Maillé (Montpellier), Christelle Rosenstrauch (SFAR, Lille), Nicolas Engrand (SFAR, Paris), Yann Le Guen (SFAR IDE, Grenoble), Enora Atchade (SFAR, Paris).*
+
+**R3.1 — Pour les proches de patients hospitalisés en services de soins critiques, il est recommandé d'utiliser une stratégie d'accompagnement structurée après une décision d'arrêt et/ou limitation de traitements, incluant des interactions proactives avec l'équipe soignante et/ou des supports de communication, pour améliorer la qualité des soins.**
+
+**GRADE 1 (accord fort)**
+
+#### **Argumentaire :**
+
+Une étude randomisée multicentrique [1] a évalué l'impact d'un temps dédié et structuré d'information et d'écoute (« *end-of-life conference* ») auprès des proches de patients hospitalisés en soins critiques et pour lesquels les médecins attendaient un décès dans les jours à venir dans un contexte de limitation et/ou arrêt des traitements. Les proches recevaient également par ailleurs une brochure explicative sur le deuil.
+
+Comparée aux pratiques habituelles, cette intervention, testée auprès de 126 proches dans 22 services de soins critiques en France, a accru la durée des échanges, réduit les symptômes de stress post-traumatique, d'anxiété et de dépression à 90 jours après le décès. Les conférences structurées, basées sur une approche empathique, permettaient une meilleure expression des émotions, une compréhension accrue des informations et une acceptation facilitée des décisions médicales.
+
+Une étude randomisée contrôlée multicentrique [2] a évalué l'impact de la remise d'un livret d'information aux proches de patients après décision de limitation et/ou arrêt des thérapeutiques. Cette étude, menée dans trois services de soins critiques en France auprès de 90 proches, a comparé l'effet d'une information orale seule à une information orale associée à un livret expliquant le cadre légal et le rôle des proches dans la prise de décision médicale. Quatre-vingt-dix jours après le décès, les résultats montrent une réduction significative des symptômes de stress post-traumatique dans le groupe ayant reçu le livret (40 % vs. 73 %,  $p=0,001$ ), ainsi qu'une amélioration des scores d'anxiété et de dépression.
+
+Plus récemment, une étude randomisée multicentrique a évalué l'impact d'une stratégie en trois étapes visant à soutenir les proches de patients décédant en réanimation après décision d'arrêt et/ou limitation des thérapeutiques [3]. Cette étude, menée dans 34 services en France, a comparé une intervention structurée à la prise en charge habituelle. La stratégie inclut trois temps. Un premier temps est dédié à l'information et à l'écoute, où est évoquée avec les proches la pertinence d'une décision de limitation et/ou arrêt des traitements. Ce moment favorise l'expression de leurs émotions. Il permet de rechercher s'ils souhaitent être présents au moment du décès et s'ils ont des besoins particuliers notamment sur le plan spirituel. Un deuxième temps est consacré à l'accompagnement des proches au moment du décès. Un troisième temps consiste en unerencontre post-décès pour proposer un suivi et répondre aux questions. Les résultats montrent une réduction significative des symptômes de deuil prolongé (15 % dans le groupe intervention vs. 21 % dans le groupe contrôle,  $p=0,035$ ) et une diminution des symptômes d'anxiété et de stress post-traumatique. Cette intervention améliore également la satisfaction des proches concernant la qualité des soins de fin de vie.
+
+Des éléments pouvant entrer dans cette stratégie d'accompagnement des proches sont développés sur la Figure 7.
+
+#### Références
+
+[1] Lautrette A, Darmon M, Megarbane B, Joly LM, Chevret S, Adrie C, et al. A Communication Strategy and Brochure for Relatives of Patients Dying in the ICU. *N Engl J Med* 2007;356:469–78. <https://doi.org/10.1056/NEJMoa063446>.
+
+[2] Robin S, Labarriere C, Sechaud G, Dessertaine G, Bosson J-L, Payen J-F. Information Pamphlet Given to Relatives During the End-of-Life Decision in the ICU. *Chest* 2021;159:2301–8. <https://doi.org/10.1016/j.chest.2021.01.072>.
+
+[3] Kentish-Barnes N, Chevret S, Valade S, Jaber S, Kerhuel L, Guisset O, et al. A three-step support strategy for relatives of patients dying in the intensive care unit: a cluster randomised trial. *The Lancet* 2022;399:656–64. [https://doi.org/10.1016/S0140-6736\(21\)02176-0](https://doi.org/10.1016/S0140-6736(21)02176-0).
+
+**Figure 7 : Proposition de stratégies d'accompagnement des proches**
+
+#### Dès l'admission du patient
+
+- - Supports écrits et numériques pour faciliter la compréhension des proches de la situation.
+
+#### Présence et implication des proches
+
+- - Assouplir les horaires de visite et le nombre de visiteurs
+- - Encourager leur participation aux soins non médicaux s'ils le souhaitent
+
+#### Communication continue
+
+- - Organiser des réunions régulières
+- - Adopter une stratégie de communication structurée
+
+#### Soutien psychologique et spirituel
+
+- - Proposer un soutien psychologique aux proches
+- - Faciliter l'accès aux représentants du culte
+
+#### Décision de LAT
+
+- - Expliquer clairement la situation médicale et les décisions de LAT, s'assurer de la compréhension
+- - Proposer une approche individualisée selon les croyances et les valeurs du patient et ses proches
+
+#### Préparation au décès
+
+- - Informer les proches des signes cliniques
+- - Proposer un livret explicatif des démarches
+- - Dédier un espace de recueillement adapté
+
+#### Moment du décès
+
+- - Offrir aux proches la possibilité de rester autant de temps qu'ils le souhaitent
+- - Permettre un rituel d'adieu selon leurs souhaits
+
+#### Suivi post-décès
+
+- - Proposer une réunion entre les proches et les soignants s'ils le souhaitent
+- - Ne pas envoyer systématiquement de lettre de condoléance, qui peut aggraver le deuil
+
+#### Gestion des conflits
+
+- - Préparer un protocole local de gestion des conflits entre famille/proches et équipe soignante
+- - Encourager des temps d'écoute pour favoriser une décision partagée**Question :** Pour l'équipe médico-soignante en service de soins critiques, une formation à la communication avec les proches permet-elle de prévenir les conflits entre proches et équipes médico-soignantes ?
+
+*Experts :* Elodie Brunel (SFAR, Toulouse), Agathe Kudela (SFAR, Paris), Christelle Rosenstrauch (Psychologue SFAR, Lille), Yoann Launey (SFAR, Rennes), Clément Gakuba (SFAR, Caen), Olivier Maillé (Montpellier).
+
+**R3.2 — En service de soins critiques, les experts suggèrent de former l'équipe médico-soignante à la communication pour permettre de prévenir les conflits entre proches et équipes médico-soignantes.**
+
+**AVIS D'EXPERTS (accord fort)**
+
+**Argumentaire :**
+
+Des difficultés de communication sont régulièrement source de conflits dans le domaine du soin. En réanimation, les situations de fin de vie notamment dans un contexte de limitation ou d'arrêt de traitement en sont la principale cause [1,2].
+
+Les conflits peuvent avoir une incidence négative sur la qualité de la prise de décision et de prise en charge thérapeutique du patient ainsi que sur la satisfaction des membres de la famille et des soignants [3]. Expliquer de façon efficace les soins de confort aux familles et perfectionner les échanges entre les soignants et les proches autour de l'évaluation clinique du patient (douleur, anxiété) sont des moyens simples pour diminuer les conflits et améliorer la fin de vie des malades [4]. En effet dans une étude comportant des entretiens semi-structurés de 48 familles dont un proche est décédé en réanimation après limitation ou arrêt thérapeutique, près de la moitié des répondants ont ressenti des tensions durant leur séjour et ce principalement avec les membres de l'équipe soignante avec comme principale plainte la communication et des comportements jugés inappropriés des soignants [5].
+
+L'apprentissage de la communication au lit du patient ne suffit pas [6]. L'importance de la communication dans la relation soignant-soigné est soulignée dans l'article éponyme du bulletin de l'Académie Nationale de Médecine en 2006. À cette date, la formation à la communication était « quasi inexistante dans la plupart des établissements d'enseignement » [7]. Depuis, des progrès ont été faits notamment grâce à l'avènement de la simulation au sein des facultés de santé. La simulation est aujourd'hui un outil d'enseignement largement utilisé, que ce soit en formation initiale ou continue. Les jeux de rôle, où l'étudiant ou le professionnel « joue » le patient ou l'entourage était une façon d'apprendre avant la simulation et garde un intérêt depuis la création des centres de simulation, en améliorant les compétences dont l'empathie et en diminuant le stress [8–10]. En simulation haute-fidélité, on constate également une meilleure adaptation aux réactions des patients, l'utilisation d'un vocabulaire plus approprié et également la réduction du stress [11]. L'apprentissage auprès de patients simulés formés (acteurs amateurs ou professionnels) permet également d'améliorer, voire d'évaluer les compétences [12–14]. Les techniques de réalité virtuelle permettaient de former un plus grand nombre [15]. Une méta-analyse avec différentes techniques d'apprentissage retrouve une amélioration des capacités d'empathie [16]. Une autre met en évidence les compétences et comportements qui ont démontré l'amélioration de la perception par les patients de l'empathie et/ou de la compassion du médecin (être assis pendant l'entrevue ; détecter les indices non verbaux d'émotion des patients ; reconnaître et répondre aux occasions de compassion ; communiquer de façon non verbale pour prendre soin (par exemple le contact visuel) et faire des déclarations verbales « d'accusé-réception », de validation et de soutien) [17].S'il n'y a pas de publication faisant le lien direct entre la formation à la communication et prévention des conflits spécifiquement, de nombreux articles et recommandations existent sur les principes éthiques, philosophiques et pratiques d'une « bonne » communication auprès des patients et/ou de leur entourage [18–21]. La communication est un pilier des « soins centrés sur la famille » au bénéfice de l'entourage et des soignants [22,23].
+
+Une stratégie de communication valorisant la sincérité, la bienveillance, la sensibilité culturelle et spirituelle de chacun des membres de la famille, l'implication dans le recueil de directives anticipées, montre un bénéfice pour les proches comme pour les équipes médico-soignantes [21,24]. La communication médicale ne se limite pas seulement à la transmission d'un état somatique. Communiquer c'est prendre en compte le langage verbal et non verbal. Ainsi la communication englobe la partie affective et émotionnelle des proches envers le patient tout comme celle des professionnels du soin. L'écoute active dans l'empathie et l'honnêteté sont des jalons des enjeux relationnels. Savoir repérer des émotions significatives telles que l'état de choc dans le déni, l'incompréhension, le désaccord à travers la colère, peuvent donner par exemple des repères aux soignants dans les entretiens. Les techniques de communication qui se retrouvent dans la reformulation, dans la vérification de la compréhension à chaque entretien et aussi dans l'utilisation d'un vocabulaire adapté, sont des points essentiels à connaître. La transmission régulière d'informations entre les proches et les équipes soignantes participe à apaiser les proches au niveau émotionnel et contribue à une communication de qualité [25], en respectant les rôles et places de chacun et en remettant l'intérêt du patient au centre des discussions et décisions [1,2]. Un guide et des outils pour la communication d'une limitation et/ou arrêt des thérapeutiques en soins critiques sont proposés sur la Figure 8.
+
+#### Références
+
+- [1] Le Dorze M. La fin de vie en réanimation, une réalité complexe. Le Praticien en Anesthésie Réanimation 2022;26:286–9. <https://doi.org/10.1016/j.pratan.2022.09.007>.
+- [2] Way J. Withdrawing life support and resolution of conflict with families. BMJ 2002;325:1342–5. <https://doi.org/10.1136/bmj.325.7376.1342>.
+- [3] Azoulay É, Sprung CL. Family-physician interactions in the intensive care unit: Critical Care Medicine 2004;32:2323–8. <https://doi.org/10.1097/01.CCM.0000145950.57614.04>.
+- [4] Azoulay É, Timsit J-F, Sprung CL, Soares M, Rusinová K, Lafabrie A, et al. Prevalence and Factors of Intensive Care Unit Conflicts: The Conflicus Study. Am J Respir Crit Care Med 2009;180:853–60. <https://doi.org/10.1164/rccm.200810-1614OC>.
+- [5] Abbott, Ba KH, Sago JG, Breen CM, Abernethy AP, Tulsky JA. Families looking back: One year after discussion of withdrawal or withholding of life-sustaining support: Critical Care Medicine 2001;29:197–201. <https://doi.org/10.1097/00003246-200101000-00040>.
+- [6] Aspegren K, Lønberg-Madsen P. Which basic communication skills in medicine are learnt spontaneously and which need to be taught and trained? Medical Teacher 2005;27:539–43. <https://doi.org/10.1080/01421590500136501>.
+- [7] Mantz J-M, Wattel F. Importance de la communication dans la relation soignant-soigné n.d. <https://www.academie-medecine.fr/importance-de-la-communication-dans-la-relation-soignant-soigne/?lang=en>.
+- [8] Brunel E, Michel F, Plantet florence, Ruszniewski M, Rabier G. Communiquer en anesthésie réanimation et médecine péri opératoire Aspects pratiques, éthiques et juridiques. n.d.
+- [9] Rudinsky SL, Weissbrod E, Cole R. The Impact of the Patient Role on Medical Student Learning During Peer Simulation: A Qualitative Phenomenological Study. Sim Healthcare 2022. <https://doi.org/10.1097/SIH.0000000000000698>.
+- [10] Gelis A, Cervello S, Rey R, Llorca G, Lambert P, Franck N, et al. Peer Role-Play for Training Communication Skills in Medical Students: A Systematic Review. Sim Healthcare 2020;15:106–11. <https://doi.org/10.1097/SIH.0000000000000412>.
+- [11] Deluche E, Salle H, Facchini-Joguet T, Leobon S, Troussel A, Tubiana-Mathieu N, et al. Simulation haute-fidélité à la consultation d'annonce en oncologie médicale. Bulletin du Cancer 2020;107:417–27. <https://doi.org/10.1016/j.bulcan.2020.02.007>.
+- [12] M Van Es J, Wieringa-de Waard M, Visser MRM. Differential growth in doctor–patient communications skills. Medical Education 2013;47:691–700. <https://doi.org/10.1111/medu.12175>.[13] Verborg S, Cartier I, Berton J, Granry J-C. Medical consultation simulations and the question of the actors - simulated or standardized patients. *Bull Acad Natl Med* 2015;199:1165–72.
+
+[14] Bonnes pratiques en matière de simulation en santé — HAS 2024.
+
+[15] Bouaoud J, Michon L, Saintigny P. Teaching how to break bad news in Oncology: In-class vs. virtual peer role-plays. *Bulletin Du Cancer* 2022;109:685–91. <https://doi.org/10.1016/j.bulcan.2022.02.009>.
+
+[16] Bearman M, Palermo C, Allen LM, Williams B. Learning Empathy Through Simulation: A Systematic Literature Review. *Simulation in Healthcare: The Journal of the Society for Simulation in Healthcare* 2015;10:308–19. <https://doi.org/10.1097/SIH.0000000000000113>.
+
+[17] Patel S, Pelletier-Bui A, Smith S, Roberts MB, Kilgannon H, Trzeciak S, et al. Curricula for empathy and compassion training in medical education: A systematic review. *PLoS ONE* 2019;14:e0221412. <https://doi.org/10.1371/journal.pone.0221412>.
+
+[18] Baile WF, Buckman R, Lenzi R, Glober G, Beale EA, Kudelka AP. SPIKES—A Six-Step Protocol for Delivering Bad News: Application to the Patient with Cancer. *The Oncologist* 2000;5:302–11. <https://doi.org/10.1634/theoncologist.5-4-302>.
+
+[19] Curtis JR, White DB. Practical Guidance for Evidence-Based ICU Family Conferences. *Chest* 2008;134:835–43. <https://doi.org/10.1378/chest.08-0235>.
+
+[20] Curtis JR, Nielsen EL, Treece PD, Downey L, Dotolo D, Shannon SE, et al. Effect of a Quality-Improvement Intervention on End-of-Life Care in the Intensive Care Unit: A Randomized Trial. *Am J Respir Crit Care Med* 2011;183:348–55. <https://doi.org/10.1164/rccm.201006-1004OC>.
+
+[21] Kesecioglu J, Rusinova K, Alampi D, Arabi YM, Benbenishty J, Benoit D, et al. European Society of Intensive Care Medicine guidelines on end of life and palliative care in the intensive care unit. *Intensive Care Med* 2024;50:1740–66. <https://doi.org/10.1007/s00134-024-07579-1>.
+
+[22] Davidson JE, Aslakson RA, Long AC, Puntillo KA, Kross EK, Hart J, et al. Guidelines for Family-Centered Care in the Neonatal, Pediatric, and Adult ICU. *Critical Care Medicine* 2017;45:103–28. <https://doi.org/10.1097/CCM.00000000000002169>.
+
+[23] Azoulay É, Kentish-Barnes N, Boulanger C, Mistraletti G, Van Mol M, Heras-La Calle G, et al. Family centeredness of care: a cross-sectional study in intensive care units part of the European society of intensive care medicine. *Ann Intensive Care* 2024;14:77. <https://doi.org/10.1186/s13613-024-01307-0>.
+
+[24] Giabicani M, Arditty L, Mamzer M-F, Fournel I, Ecarnot F, Meunier-Beillard N, et al. Team-family conflicts over end-of-life decisions in ICU: A survey of French physicians' beliefs. *PLoS ONE* 2023;18:e0284756. <https://doi.org/10.1371/journal.pone.0284756>.
+
+[25] Le Dorze M, Carretier J, Gonçalves T, Profumo M, Le Guen Y, Fazilleau C. Les infirmiers et aides-soignants de réanimation et leurs connaissances et perceptions de la fin de vie. *Anesthésie & Réanimation* 2024;10:413–20. <https://doi.org/10.1016/j.anrea.2024.04.003>.## Figure 8 : Proposition d'outils pour la communication d'une limitation et/ou arrêt des thérapeutiques en soins critiques
+
+### **Avant la réunion :**
+
+- • Recueillir les souhaits du patient si non encore fait (directives anticipées, auprès de la personne de confiance, ou des proches)
+- • Informer de la future tenue d'une réunion collégiale
+
+### **Environnement :**
+
+- • Présentation des interlocuteurs
+- • S'assurer d'être dans un endroit qui permet un certain niveau d'intimité.
+- • Être assis.
+- • Établir un contact, entrer en relation.
+- • Impliquer les proches.
+- • Anticiper et gérer les contraintes de temps et les interruptions.
+
+### **Transmettre la décision de la réunion [1,3].**
+
+- • Transmettre l'information en reprenant
+  - • L'histoire du patient (temps imparfait)
+  - • La décision de la réunion collégiale (temps présent )
+  - • Ce qui va se passer (temps futur) prononcer les mots « fin de vie », « mort » si cela est le cas
+- • S'assurer de la compréhension de la situation
+- • Reformuler si besoin
+
+### **Congruence communication non verbale / verbale**
+
+- • Ton adapté, rythme lent sans être trainant
+- • Être empathique
+- • Ecoute active des : émotions et langage
+- • Reconnaître les émotions et les mécanismes de défense (tristesse, colère, état de choc, sidération, déni... )
+- • Déterminer si l'état de stress est adapté (Cognitions > émotions ) et/ou dépassé (Emotions > cognitions) .
+  - Stress adapté : poursuivre de l'entretien
+  - Stress dépassé : soutenir, être présent avant de reformuler
+- • Respecter les silences
+- • Être disponible pour les proches
+
+### **Fin d'entretien et synthèse**
+
+- • Demander aux proches s'ils ont besoin de plus d'informations.
+- • Accompagner les proches lors de la distribution d'un « livret de fin de vie »[2]
+- • Si besoin, proposer :
+  - • Une aide psychologique.
+  - • La visite des représentants du culte.
+- • Si difficultés, faire intervenir une structure d'éthique clinique.
+- • Proposer une prochaine rencontre.
+- • Clore la rencontre.
+- • Disponibilité d'un médecin et d'un infirmier durant les derniers jours de vie dans la chambre pour témoigner du soutien[3].
+- • Proposer de revoir les proches après le décès[3].
+
+*D. Razavi, N. Delvaux In Précis de psycho-oncologie de l'adulte. 2008 Masson*
+
+*Baile, W. et al. SPIKES – A six step protocol for delivering bad news: application to the patient with cancer. The Oncologist 2000; 5:302-311.*
+
+*[1] Curtis JR, White DB. Practical guidance for evidence-based ICU family conferences. Chest. 2008 Oct;134(4):835-843.*
+
+*[2] Lautette A, Darmon M, Megarbane B, et Al. A communication strategy and brochure for relatives of patients dying in the ICU. N Engl J Med. 2007 Feb 1;356(5):469-78. Erratum in: N Engl J Med. 2007 Jul 12;357(2):203.*
+
+*[3] Kentish-Barnes N, Chevret S, Valade S et al (2022) A three-step support strategy for relatives of patients dying in the intensive care unit: a cluster randomised trial. Lancet 399:656–664.***Question :** Pour les proches de patients hospitalisés en service de soins critiques, en cas de désaccords/conflicts entre proches et équipes soignantes autour d'une décision de limitation et/ou arrêt des traitements, l'intervention d'une structure d'éthique clinique ou d'une équipe de médiation permet-elle d'améliorer la qualité des soins ?
+
+*Experts : Marie Citrini (usager expert, HAS), Nicolas Engrand (SFAR, Paris), Sylvaine Robin (SFAR, Grenoble)*
+
+**R3.3.1 — Pour les proches de patients hospitalisés et l'équipe médico-soignante en service de soins critiques, en cas de désaccords/conflicts autour d'une décision de limitation et/ou arrêt des traitements, les experts suggèrent de faire intervenir une structure d'éthique clinique pour améliorer la qualité des soins.**
+
+**AVIS D'EXPERTS (accord fort)**
+
+**R3.3.2 — Pour les proches de patients hospitalisés et l'équipe médico-soignante en service de soins critiques, en prévention d'un désaccord/conflict entre proches et équipes soignantes dans une situation à risque de conflit de valeurs autour d'une décision de limitation et/ou arrêt des traitements, il est probablement recommandé de faire intervenir une structure d'éthique clinique pour améliorer la qualité des soins.**
+
+**GRADE 2 (accord fort)**
+
+**ABSENCE DE RECOMMANDATION - Les experts ne sont pas en mesure d'émettre une recommandation concernant l'intervention d'une équipe de médiation pour améliorer la qualité des soins.**
+
+**ABSENCE DE RECOMMANDATION**
+
+**Argumentaire :**
+
+Les désaccords et conflits entre proches et équipes soignantes autour des décisions de limitation ou d'arrêt de traitement (LAT) sont l'une des principales sources de conflits en soins critiques [1]. Pour exemple, l'opposition de la famille à la décision de LAT prise par l'équipe médicale était la raison principale de conflit pour 66% des 160 médecins interrogés dans une étude française récente, en raison d'un désaccord sur la perception de l'obstination déraisonnable [2].
+
+Certains de ces conflits devenus insolubles conduisent à une procédure judiciaire, dont le taux est en augmentation en France [3].
+
+La mise en place de stratégies de prévention et de gestion de ce type de conflits est donc recommandée par des experts internationaux [4] et dans des revues de la littérature [5], qui proposent de solliciter une conciliation par une structure d'éthique clinique (SEC).
+
+La littérature dans ce domaine est abondante, apportant des éléments plus ou moins directs, qui méritent d'être discutés. Elle aborde en particulier l'aspect de la prévention des désaccords/conflicts, mais beaucoup plus rarement l'aspect de la résolution d'un conflit avéré, rendant cette évaluation plus délicate.
+
+Les 11 articles retenus sont 6 études prospectives randomisées, 3 méta-analyses, et 2 études rétrospectives. Cinq essais randomisés traitent de l'efficacité d'une structure d'éthique clinique sur la qualité des soins en cas désaccords/conflicts sur une LAT, en termes de prévention et de résolution [6–10]. Dans 4 études, la structure d'éthique clinique est « proactive » c'est à dire qu'elle est proposée à des familles de patients sélectionnés en raison du risque de conflits de valeurs, mais à titre préventif, en dehors d'une situation de désaccord/conflict. La consultation est assurée par une ou plusieurs personnes spécialisées, un comité, ou bien sa réalisation pratique n'est pas spécifiée. Ces 5 études constituent l'essentiel des données des 3 méta-analyses également retenues [11–13]
+
+Les principaux intérêts de la structure d'éthique clinique qui ressortent de ces 8 travaux sont les suivants (différences statistiquement significatives) :
+
+- ● Amélioration de la communication [6]- ● Obtention plus fréquente d'un consensus autour de la décision médicale [10,12]
+- ● Augmentation du nombre de LAT [6]
+- ● Réduction de la durée de séjour en soins intensifs et à l'hôpital [6–8,11,12]
+- ● Réduction des ressources médicales chez les patients qui vont décéder (ventilation mécanique, nutrition/hydratation notamment [7,8,11])
+- ● Réduction des coûts d'hospitalisation [11].
+
+De plus, les enquêtes prospectives incluses dans ces études montrent une amélioration de la perception de la qualité des soins et de la satisfaction des soignants et des proches [7,9,12]. Les résolutions de conflits avérés sont également perçues comme plus fréquentes [7,8]. Il est à noter que la mortalité n'est pas forcément augmentée par les SEC [7,8].
+
+Par ailleurs, les 2 études rétrospectives retenues reprennent les conflits majeurs traités par une conciliation par une SEC sur 4 et 20 ans en monocentrique par la même équipe [14,15]. Dans le travail de Courtwright *et al.*, la conciliation par la SEC a permis le consensus dans 36 % des 116 cas recensés (changement d'avis des proches) [14]. Dans les 2 études, la SEC a quasiment toujours rendu un avis dans le même sens que l'équipe médicale, en faveur de la LAT. L'étude de Rubin *et al.* relève également que si l'avis de la SEC permet parfois un soulagement des proches de ne pas avoir à prendre la décision finale, les limites sont que la procédure peut être source de désarroi pour de nombreux participants et conduit parfois à une procédure judiciaire. De plus, elle est consommatrice de temps et est difficile à mettre en place en urgence [15].
+
+Pour conclure, une stratégie proactive d'une SEC a certainement un intérêt dans la prévention des désaccords/conflits entre proches et soignants concernant les LAT, mais l'intérêt pour la résolution de conflits avérés reste incertain. Par ailleurs, il n'a pas été retrouvé d'étude sur le rôle d'une commission des usagers dans cette situation spécifique.
+
+La littérature médicale est nettement plus pauvre au sujet de la médiation, processus structuré de résolution des conflits à l'amiable entre deux parties, facilité par l'intervention d'un tiers formé et neutre. Alors que la conciliation par une SEC fait appel à un recours interne à l'institution hospitalière, la médiation est réalisée par un tiers extérieur. L'apprentissage par les médecins de techniques de médiation et plus largement de communication en prévention des conflits avant qu'ils ne deviennent insolubles est recommandé par certains auteurs [4,5].
+
+La seule étude médicale sur ce sujet a apporté des données très indirectes sur l'intérêt d'un « médiateur » en prévention : Curtis *et al.* ont publié un essai randomisé dans lequel le recours à un facilitateur de communication formé aux techniques de médiation diminuait les symptômes dépressifs à 6 mois chez les proches de patients décédés, mais pas à 3 mois, et sans réduction de l'anxiété ni du PTSD [16]. Le coût général des soins ainsi que les durées moyennes d'hospitalisation totale et en soins critiques étaient diminués dans le groupe ayant eu recours au facilitateur [16].
+
+Pour la question de l'intérêt éventuel des techniques de médiation dans ce contexte, il n'y a pas de données permettant de conclure.
+
+#### Références
+
+[1] Azoulay É, Timsit J-F, Sprung CL, Soares M, Rusinová K, Lafabrie A, et al. Prevalence and Factors of Intensive Care Unit Conflicts: The Conflicus Study. *Am J Respir Crit Care Med* 2009;180:853–60. <https://doi.org/10.1164/rccm.200810-1614OC>.
+
+[2] Giabican M, Arditty L, Mamzer M-F, Fournel I, Ecarnot F, Meunier-Beillard N, et al. Team-family conflicts over end-of-life decisions in ICU: A survey of French physicians' beliefs. *PLoS ONE* 2023;18:e0284756. <https://doi.org/10.1371/journal.pone.0284756>.[3] Giabicani M, Weiss E, Claudot F, Audibert G, Ferrié S-M, Perrigault P-F, et al. Intractable conflicts over end-of-life decisions: A descriptive and ethical analysis of French case-law. *Anaesthesia Critical Care & Pain Medicine* 2025;44:101463. <https://doi.org/10.1016/j.accpm.2024.101463>.
+
+[4] Bosslet GT, Pope TM, Rubenfeld GD, Lo B, Truog RD, Rushton CH, et al. An Official ATS/AACN/ACCP/ESICM/SCCM Policy Statement: Responding to Requests for Potentially Inappropriate Treatments in Intensive Care Units. *Am J Respir Crit Care Med* 2015;191:1318–30. <https://doi.org/10.1164/rccm.201505-0924ST>.
+
+[5] Kayser JB, Kaplan LJ. Conflict Management in the ICU. *Critical Care Medicine* 2020;48:1349–57. <https://doi.org/10.1097/CCM.0000000000004440>.
+
+[6] Dowdy MD, Robertson C, Bander JA. A study of proactive ethics consultation for critically and terminally ill patients with extended lengths of stay: *Critical Care Medicine* 1998;26:252–9. <https://doi.org/10.1097/00003246-199802000-00020>.
+
+[7] Schneiderman LJ, Gilmer T, Teetzel HD. Impact of ethics consultations in the intensive care setting: A randomized, controlled trial: *Critical Care Medicine* 2000;28:3920–4. <https://doi.org/10.1097/00003246-200012000-00033>.
+
+[8] Schneiderman LJ, Gilmer T, Teetzel HD, Dugan DO, Blustein J, Cranford R, et al. Effect of Ethics Consultations on Nonbeneficial Life-Sustaining Treatments in the Intensive Care Setting: A Randomized Controlled Trial. *JAMA* 2003;290:1166. <https://doi.org/10.1001/jama.290.9.1166>.
+
+[9] Andereck WS, McGaughey JW, Schneiderman LJ, Jonsen AR. Seeking to Reduce Nonbeneficial Treatment in the ICU: An Exploratory Trial of Proactive Ethics Intervention\*. *Critical Care Medicine* 2014;42:824–30. <https://doi.org/10.1097/CCM.0000000000000034>.
+
+[10] Chen JM. Editorial Commentary: Technical Performance Anxiety: Utility of the Technical Performance Scale in Predicting Later Intervention After Repair of Tetralogy of Fallot. *Seminars in Thoracic and Cardiovascular Surgery* 2014;26:304–5. <https://doi.org/10.1053/j.semtcvs.2015.02.001>.
+
+[11] Oczkowski SJW, Chung H-O, Hanvey L, Mbuagbaw L, You JJ. Communication tools for end-of-life decision-making in the intensive care unit: a systematic review and meta-analysis. *Crit Care* 2016;20:97. <https://doi.org/10.1186/s13054-016-1264-y>.
+
+[12] Au SS, Couillard P, Roze Des Ordons A, Fiest KM, Lorenzetti DL, Jette N. Outcomes of Ethics Consultations in Adult ICUs: A Systematic Review and Meta-Analysis\*. *Critical Care Medicine* 2018;46:799–808. <https://doi.org/10.1097/CCM.0000000000002999>.
+
+[13] Schildmann J, Nadolny S, Haltaufderheide J, Gysels M, Vollmann J, Bausewein C. Ethical case interventions for adult patients. *Cochrane Database of Systematic Reviews* 2019;2019. <https://doi.org/10.1002/14651858.CD012636.pub2>.
+
+[14] Courtwright AM, Rubin E, Erler KS, Bandini JI, Zwirner M, Cremens MC, et al. Experience with a Revised Hospital Policy on Not Offering Cardiopulmonary Resuscitation. *HEC Forum* 2022;34:73–88. <https://doi.org/10.1007/s10730-020-09429-1>.
+
+[15] Rubin EB, Robinson EM, Cremens MC, McCoy TH, Courtwright AM. Declining to Provide or Continue Requested Life-Sustaining Treatment: Experience With a Hospital Resolving Conflict Policy. *Bioethical Inquiry* 2023;20:457–66. <https://doi.org/10.1007/s11673-023-10270-7>.
+
+[16] Curtis JR, Treece PD, Nielsen EL, Gold J, Ciechanowski PS, Shannon SE, et al. Randomized Trial of Communication Facilitators to Reduce Family Distress and Intensity of End-of-Life Care. *Am J Respir Crit Care Med* 2016;193:154–62. <https://doi.org/10.1164/rccm.201505-0900OC>.
+
+### Tableau récapitulatif recommandations
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>RECOMMANDATION</th>
+<th>GRADE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3"><b><u>CHAMP 1 : Prérequis et modalités d'une décision de limitation et/ou arrêt des thérapeutiques</u></b></td>
+</tr>
+<tr>
+<td><b>R 1.1</b></td>
+<td>Les experts suggèrent d'organiser des réunions pluriprofessionnelles régulières de réflexion et d'échange autour du projet de soins des patients afin d'améliorer la qualité des soins.</td>
+<td><b>Avis d'experts</b></td>
+</tr>
+<tr>
+<td><b>R 1.2</b></td>
+<td>Les experts suggèrent de rechercher les volontés du patient hospitalisé en soins critiques <u>précocement et par tout moyen possible</u> afin d'améliorer la qualité des soins.</td>
+<td><b>Avis d'experts</b></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td>R 1.3</td>
+<td>Pour les patients hospitalisés en soins critiques, lors d'une réflexion autour d'une prise de décision de limitation et/ou d'arrêt des traitements, les experts suggèrent d'utiliser un protocole de service d'aide à la décision et de communication avec les proches et au sein de l'équipe soignante pour améliorer la qualité des soins.</td>
+<td>Avis d'experts</td>
+</tr>
+<tr>
+<td>R 1.4</td>
+<td>Pour les patients hospitalisés en service de soins critiques, il est probablement recommandé d'inclure la participation active des équipes paramédicales aux réunions de procédure collégiale de limitation et/ou arrêt des traitements afin d'améliorer la qualité des soins.</td>
+<td>GRADE 2</td>
+</tr>
+<tr>
+<td colspan="3"><b>CHAMP 2 : Modalités de mise en œuvre d'une décision de limitation et/ou arrêt des thérapeutique</b></td>
+</tr>
+<tr>
+<td>R 2.1</td>
+<td>Chez les patients hospitalisés en soins critiques, après une décision d'arrêt des traitements, les experts suggèrent d'utiliser un protocole de sédation profonde et continue maintenue jusqu'au décès pour améliorer la qualité des soins.</td>
+<td>Avis d'experts</td>
+</tr>
+<tr>
+<td></td>
+<td>ABSENCE DE RECOMMANDATION — En l'absence de données, il n'est pas possible de formuler une recommandation sur la pratique d'une extubation après une décision d'arrêt de traitements chez les patients ventilés en soins critiques pour améliorer la qualité des soins.</td>
+<td>Absence de recommandation</td>
+</tr>
+<tr>
+<td colspan="3"><b>CHAMP 3 : Relations avec les proches, communication, désaccords et conflits</b></td>
+</tr>
+<tr>
+<td>R 3.1</td>
+<td>Pour les proches de patients hospitalisés en services de soins critiques, il est recommandé d'utiliser une stratégie d'accompagnement structurée après une décision d'arrêt et/ou limitation de traitements, incluant des interactions proactives avec l'équipe soignante et/ou des supports de communication, pour améliorer la qualité des soins.</td>
+<td>GRADE 1</td>
+</tr>
+<tr>
+<td>R 3.2</td>
+<td>En service de soins critiques, les experts suggèrent de former l'équipe médico-soignante à la communication pour permettre de prévenir les conflits entre proches et équipes médico-soignantes.</td>
+<td>Avis d'experts</td>
+</tr>
+<tr>
+<td>R 3.3.1</td>
+<td>Pour les proches de patients hospitalisés et l'équipe médico-soignante en service de soins critiques, <u>en cas de désaccords/conflits</u> autour d'une décision de limitation et/ou arrêt des traitements, les experts suggèrent de faire intervenir une structure d'éthique clinique pour améliorer la qualité des soins.</td>
+<td>Avis d'experts</td>
+</tr>
+<tr>
+<td>R 3.3.2</td>
+<td>Pour les proches de patients hospitalisés et l'équipe médico-soignante en service de soins critiques, <u>en prévention d'un désaccord/conflit entre proches et équipes soignantes</u> dans une <u>situation à risque de conflit de valeurs</u> autour d'une décision de limitation et/ou arrêt des traitements, il est probablement recommandé de faire intervenir une structure d'éthique clinique pour améliorer la qualité des soins.</td>
+<td>GRADE 2</td>
+</tr>
+<tr>
+<td></td>
+<td>ABSENCE DE RECOMMANDATION — Les experts ne sont pas en mesure d'émettre une recommandation concernant l'intervention d'une équipe de médiation pour améliorer la qualité des soins.</td>
+<td>Absence de recommandation</td>
+</tr>
+</table>![Blank white page](08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.

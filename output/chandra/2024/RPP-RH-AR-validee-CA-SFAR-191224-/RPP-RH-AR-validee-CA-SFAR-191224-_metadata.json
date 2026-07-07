@@ -1,0 +1,225 @@
+{
+  "file_name": "RPP-RH-AR-validee-CA-SFAR-191224-.pdf",
+  "num_pages": 18,
+  "total_token_count": 18835,
+  "total_chunks": 162,
+  "total_images": 10,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1013,
+      "num_chunks": 17,
+      "num_images": 9
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 640,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1005,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 991,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1011,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 505,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 630,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1234,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1056,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 396,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 3165,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 817,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1331,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1497,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 428,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1214,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 752,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1150,
+      "num_chunks": 14,
+      "num_images": 1
+    }
+  ]
+}

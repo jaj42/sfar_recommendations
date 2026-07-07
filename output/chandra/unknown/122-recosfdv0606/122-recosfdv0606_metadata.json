@@ -1,0 +1,129 @@
+{
+  "file_name": "122-recosfdv0606.pdf",
+  "num_pages": 10,
+  "total_token_count": 17172,
+  "total_chunks": 225,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1663,
+        2193
+      ],
+      "token_count": 646,
+      "num_chunks": 11,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1574,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1737,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1416,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1536,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1535,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 231,
+      "num_chunks": 2,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 3286,
+      "num_chunks": 51,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 3106,
+      "num_chunks": 49,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1662,
+        2192
+      ],
+      "token_count": 2105,
+      "num_chunks": 38,
+      "num_images": 1
+    }
+  ]
+}

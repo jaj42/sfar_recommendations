@@ -1,0 +1,225 @@
+{
+  "file_name": "recommandations_-_delivrance_de_linformation_a_la_personne_sur_son_etat_de_sante.pdf",
+  "num_pages": 18,
+  "total_token_count": 23458,
+  "total_chunks": 264,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 387,
+      "num_chunks": 8,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1112,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1135,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1599,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 534,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1240,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1336,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1249,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1624,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1477,
+      "num_chunks": 22,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1695,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 885,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 794,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1460,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1657,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1169,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 2711,
+      "num_chunks": 56,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1394,
+      "num_chunks": 5,
+      "num_images": 0
+    }
+  ]
+}

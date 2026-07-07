@@ -1,0 +1,525 @@
+<h2>Algorithme RFE anticoagulation dans un contexte d'urgence</h2><img alt="Logo SFMU (Société Française de Médecine d'Urgence)" src="2ea5618309a205aa7224ce45a0966b07_2_img.webp"/><img alt="Logo SFAR (Société Française de Réanimation et de Réanimation Intensive)" src="2ea5618309a205aa7224ce45a0966b07_3_img.webp"/><img alt="Logo GIHP (Groupe d'intérêt en hémostase péri-opératoire)" src="2ea5618309a205aa7224ce45a0966b07_4_img.webp"/><img alt="Logo SFTH (Société Française de Thrombose et d'Hémostase)" src="2ea5618309a205aa7224ce45a0966b07_5_img.webp"/><table border="1"><tbody><tr><td></td><td>Hémorragie grave<br/>Procédure à risque hémorragique élevé</td><td></td><td>AVK</td></tr><tr><td></td><td>Hémorragie non grave<br/>Procédure à faible risque hémorragique</td><td></td><td>Dabigatran</td></tr><tr><td></td><td>Seuil</td><td></td><td>Anti-Xa</td></tr><tr><td></td><td>Geste hémostatique</td><td></td><td>HBPM</td></tr><tr><td></td><td>couleur neutre</td><td></td><td>HNF</td></tr></tbody></table>
+
+<pre>
+graph TD
+    A[Hémorragie sous AVK] --&gt; B[Hémorragie grave]
+    A --&gt; C[Hémorragie non grave]
+    
+    B --&gt; D[Geste hémostatique dès que possible]
+    D --&gt; E[INR en urgence au laboratoire ou par biologie délocalisée]
+    E --&gt; F[Résultat non disponible rapidement]
+    E --&gt; G[INR &gt; 1,5 (&gt; 1,2 si hémorragie intracrânienne)]
+    E --&gt; H[INR ≤ 1,5 (≤ 1,2 si hémorragie intracrânienne)]
+    
+    F --&gt; I[CCP 25 UI/kg (1 ml/kg)]
+    G --&gt; J[CCP (posologie du RCP)]
+    H --&gt; K[Pas de CCP Pas de vitamine K]
+    
+    I --&gt; L[Vitamine K 10 mg IV ou PO]
+    J --&gt; L
+    L --&gt; M[INR dans les 30 min]
+    
+    M --&gt; N[Complément de CCP si INR &gt; 1,5 (&gt; 1,2 si hémorragie intracrânienne) posologie du RCP]
+    N --&gt; O[INR à 6-8h et 24h]
+    O --&gt; P[Prise en charge selon l'INR et contrôle de l'hémorragie]
+    
+    C --&gt; Q[Traitement symptomatique et geste hémostatique]
+    Q --&gt; R[Rechercher et corriger un surdosage (par vitamine K seule)]
+  </pre>
+<p><b>Hémorragie sous AVK</b></p>
+<p><b>Hémorragie grave</b></p>
+<p>Geste hémostatique dès que possible</p>
+<p>INR en urgence au laboratoire ou par biologie délocalisée</p>
+<p>Résultat non disponible rapidement</p>
+<p>INR &gt; 1,5 (&gt; 1,2 si hémorragie intracrânienne)</p>
+<p>INR ≤ 1,5 (≤ 1,2 si hémorragie intracrânienne)</p>
+<p>CCP 25 UI/kg (1 ml/kg)</p>
+<p>CCP (posologie du RCP)</p>
+<p>Pas de CCP Pas de vitamine K</p>
+<p>Vitamine K 10 mg IV ou PO</p>
+<p>INR dans les 30 min</p>
+<p>Complément de CCP si INR &gt; 1,5 (&gt; 1,2 si hémorragie intracrânienne) posologie du RCP</p>
+<p>INR à 6-8h et 24h</p>
+<p>Prise en charge selon l'INR et contrôle de l'hémorragie</p>
+<p><b>Hémorragie non grave</b></p>
+<p>Traitement symptomatique et geste hémostatique</p>
+<p>Rechercher et corriger un surdosage (par vitamine K seule)</p>
+
+<p>Figure 1</p>
+
+
+<pre>
+graph TD
+    A[Hémorragie sous dabigatran] --&gt; B[Hémorragie grave]
+    A --&gt; C[Hémorragie non grave]
+    
+    B --&gt; D[Geste hémostatique dès que possible]
+    D --&gt; E[Mesure en urgence de la concentration en dabigatran]
+    
+    E --&gt; F[Résultat non disponible rapidement]
+    E --&gt; G["[dabigatran] &gt; 50 ng/mL<br/>(&gt; 30 ng/mL si hémorragie intracrânienne)"]
+    E --&gt; H["[dabigatran] ≤ 50 ng/mL<br/>(≤ 30 ng/mL si hémorragie intracrânienne)"]
+    
+    F --&gt; I[Idarucizumab 5 g IV #]
+    G --&gt; I
+    H --&gt; J[Pas de réversion]
+    
+    I --&gt; K["Nouvelle mesure [dabigatran] à 12-24h<br/>si [dabigatran] initiale &gt; 200 ng/mL<br/>(4-6h si [dabigatran] initiale &gt; 600 ng/mL<br/>ou C<sub>ICr</sub> &lt; 30 ml/min)"]
+    K --&gt; L["± Réadministration d'idarucizumab<br/>si [dabigatran] &gt; 50 ng/mL<br/>(&gt; 30 ng/mL si hémorragie intracrânienne),<br/>selon type et contrôle de<br/>l'hémorragie"]
+    
+    C --&gt; M[Traitement symptomatique et geste hémostatique]
+    M --&gt; N[Vérifier les modalités du traitement<br/>(posologie, adaptation à la fonction rénale)]
+    
+    L --&gt; O["# si idarucizumab indisponible :<br/>- CCP 50 UI/kg (hémorragie intracrânienne, choc hémorragique)<br/>- CCP 25-50 UI/kg (autre hémorragie grave)<br/>- Pas de mesure de [dabigatran] après administration de CCP pour<br/>vérifier la réversion (car [dabigatran] non modifiée)"]
+  </pre>
+<p><b>GRADE 2+</b> (indicated for steps D, E, G, H, I, K, L, N, O)</p>
+<p><b>AVIS D'EXPERTS</b> (indicated for steps D, M, O)</p>
+
+<p><b>Figure 2</b></p>
+
+
+<pre>
+graph TD
+    Start[Hémorragie sous AOD anti-Xa (rivaroxaban, apixaban, edoxaban)]
+    Start --&gt; Grave[Hémorragie grave]
+    Start --&gt; NonGrave[Hémorragie non grave]
+    
+    Grave --&gt; Hemostatic[Geste hémostatique dès que possible]
+    Hemostatic --&gt; MeasureAOD[Mesure en urgence de la concentration en AOD anti-Xa]
+    MeasureAOD --&gt; ResultNotRapid[Résultat non disponible rapidement]
+    MeasureAOD --&gt; AODHigh["[AOD] &gt; 50 ng/mL<br/>(&gt; 30 ng/mL si hémorragie intracrânienne)"]
+    MeasureAOD --&gt; AODLow["[AOD] ≤ 50 ng/mL<br/>(≤ 30 ng/mL si hémorragie intracrânienne)"]
+    
+    ResultNotRapid --&gt; CCPDosing["- CCP 50 UI/kg (hémorragie intracrânienne, choc hémorragique)<br/>- CCP 25-50 UI/kg (autre hémorragie grave)"]
+    AODHigh --&gt; CCPDosing
+    AODLow --&gt; NoReversal[Pas de réversion]
+    
+    CCPDosing --&gt; NoMeasureAOD[Pas de mesure [AOD] après administration de CCP pour vérifier la réversion ([AOD] non modifiée)]
+    
+    NonGrave --&gt; Symptomatic[Traitement symptomatique et geste hémostatique]
+    Symptomatic --&gt; CheckModalities[Vérifier les modalités du traitement<br/>(posologie, adaptation à la fonction rénale)]
+  </pre>
+<p><b>Hémorragie sous AOD anti-Xa (rivaroxaban, apixaban, edoxaban)</b></p>
+<p><b>Hémorragie grave</b></p>
+<p>Geste hémostatique dès que possible <i>AVIS D'EXPERTS</i></p>
+<p>Mesure en urgence de la concentration en AOD anti-Xa <i>GRADE 2+</i></p>
+<p>Résultat non disponible rapidement</p>
+<p>[AOD] &gt; 50 ng/mL (<i>&gt; 30 ng/mL si hémorragie intracrânienne</i>)</p>
+<p>[AOD] ≤ 50 ng/mL (<i>≤ 30 ng/mL si hémorragie intracrânienne</i>)</p>
+<p>- CCP 50 UI/kg (hémorragie intracrânienne, choc hémorragique)<br/>- CCP 25-50 UI/kg (autre hémorragie grave) <i>AVIS D'EXPERTS</i></p>
+<p>Pas de réversion</p>
+<p>Pas de mesure [AOD] après administration de CCP pour vérifier la réversion ([AOD] non modifiée)</p>
+<p><b>Hémorragie non grave</b></p>
+<p>Traitement symptomatique et geste hémostatique <i>AVIS D'EXPERTS</i></p>
+<p>Vérifier les modalités du traitement (posologie, adaptation à la fonction rénale) <i>GRADE 2+</i></p>
+
+<p><b>Figure 3</b></p>
+
+
+<pre>
+    graph TD
+      A[Hémorragie sous HNF à dose curative] --&gt; B[Hémorragie grave]
+      A --&gt; C[Hémorragie non grave]
+      B --&gt; D[Geste hémostatique dès que possible]
+      C --&gt; E[Traitement symptomatique et geste hémostatique]
+      D --&gt; F[Hémorragie intracrânienne ou choc hémorragique]
+      D --&gt; G[Autre hémorragie grave]
+      E --&gt; H[Vérifier absence de surdosage anti-Xa ou TCA]
+      F --&gt; I[Protamine cf. Tableau#]
+      G --&gt; J[Discuter protamine]
+      H --&gt; K[AVIS D'EXPERTS]
+      I --&gt; L[GRADE 2+]
+      J --&gt; M[AVIS D'EXPERTS]
+      K --&gt; N[AVIS D'EXPERTS]
+      L --&gt; O[AVIS D'EXPERTS]
+      M --&gt; P[AVIS D'EXPERTS]
+  </pre>
+
+<p><b># Posologie du sulfate de protamine</b></p>
+
+<table border="1">
+<thead>
+<tr>
+<th>Modalités d'administration de l'HNF</th>
+<th>Délai d'administration HNF</th>
+<th>Sulfate de protamine</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Administration IV continue</td>
+<td>/</td>
+<td>1 mg pour 100 UI d'HNF administrées dans les 2-3 dernières heures</td>
+</tr>
+<tr>
+<td rowspan="3">Bolus IV unique</td>
+<td>&lt; 1 heure</td>
+<td>1 mg pour 100 UI d'HNF administrées</td>
+</tr>
+<tr>
+<td>1-3 heures</td>
+<td>0,5 mg pour 100 UI d'HNF administrées</td>
+</tr>
+<tr>
+<td>&gt; 3 heures</td>
+<td>Pas de réversion</td>
+</tr>
+<tr>
+<td rowspan="3">Administration SC</td>
+<td>&lt; 4 heures</td>
+<td>1 mg pour 100 UI d'HNF administrées</td>
+</tr>
+<tr>
+<td>4-8 heures</td>
+<td>0,5 mg pour 100 UI d'HNF administrées</td>
+</tr>
+<tr>
+<td>&gt; 8 heures</td>
+<td>pas de réversion</td>
+</tr>
+</tbody>
+</table>
+
+<p><b>Administration du sulfate de protamine :</b></p>
+<ul>
+<li>- 1 mg = 100 U.A.H (unités anti-héparine)</li>
+<li>- IV lente sur 10 min, pas de limite de dose</li>
+<li>- Pas de contrôle biologique systématique après protamine.</li>
+</ul>
+
+<p><b>Figure 4</b></p>
+
+<p><b>Hémorragie sous HBPM à dose <u>curative</u></b></p>
+
+
+
+<p><b># Posologie du sulfate de protamine</b></p>
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Dernière administration d'HBPM</th>
+<th>Sulfate de protamine</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">tinzaparine, daltéparine</td>
+<td>≤ 8 heures</td>
+<td>1 mg pour 100 UI d'HBPM administrées</td>
+</tr>
+<tr>
+<td>&gt; 8 heures</td>
+<td>Non systématique</td>
+</tr>
+<tr>
+<td rowspan="2">enoxaparine, nadroparine</td>
+<td>≤ 8 heures</td>
+<td>0,5 mg pour 100 UI d'HBPM administrées.</td>
+</tr>
+<tr>
+<td>&gt; 8 heures</td>
+<td>Non systématique</td>
+</tr>
+</tbody>
+</table>
+
+<p><b>Administration du sulfate de protamine :</b></p>
+<ul>
+<li>- 1 mg = 100 U.A.H (unités anti-héparine)</li>
+<li>- IV lente sur 10 min, pas de limite de dose</li>
+<li>- Pas de contrôle biologique systématique après protamine.</li>
+</ul>
+
+<p><b>Figure 5</b></p>
+
+<table border="1">
+<tr>
+<td style="background-color: #2e7d62; color: white; text-align: center;">
+        INR mesuré<br/><br/>
+        INR cible
+      </td>
+<td style="text-align: center;">INR entre 4 et 6</td>
+<td style="text-align: center;">INR entre 6 et 10</td>
+<td style="text-align: center;">INR &gt; 10</td>
+</tr>
+<tr>
+<td style="text-align: center;">INR cible 2,5</td>
+<td style="text-align: center;">
+        Saut d'une prise<br/>
+        Adaptation posologique<br/>
+<small>GRADE 2+</small><br/>
+        Contrôle INR à 48-72h
+      </td>
+<td style="text-align: center;">
+        Saut d'une prise - vit K 2mg per os<br/>
+        Adaptation posologique<br/>
+<small>GRADE 2+</small><br/>
+        Suivi INR toutes les 24-48h
+      </td>
+<td style="text-align: center;">
+        Arrêt AVK – vit K 5mg per os<br/>
+        Reprise différée et adaptée<br/>
+<small>GRADE 2+</small><br/>
+        Suivi INR toutes les 24h
+      </td>
+</tr>
+<tr>
+<td style="text-align: center;">
+        INR ≥ 3<br/>
+        (Fenêtre 2,5-3,5 ou 3-4,5)
+      </td>
+<td style="text-align: center;">
+        Pas de saut de prise<br/>
+        Adaptation posologique<br/>
+<small>GRADE 2+</small><br/>
+        Contrôle INR à 48-72h
+      </td>
+<td style="text-align: center;">
+        Saut d'une prise<br/>
+        Adaptation posologique<br/>
+<small>GRADE 2+</small><br/>
+        Suivi INR toutes les 24h
+      </td>
+<td style="text-align: center;">
+        Arrêt AVK – vit K 2mg per os<br/>
+        Reprise différée et adaptée<br/>
+<small>GRADE 2+</small><br/>
+        Suivi INR toutes les 24h
+      </td>
+</tr>
+<tr>
+<td colspan="4" style="text-align: center;">
+        Dans tous les cas surveillance clinique* et recherche de l'étiologie †
+      </td>
+</tr>
+</table>
+
+<p>AVIS D'EXPERTS</p>
+
+<h2>Figure 6. Surdosage asymptomatique en AVK</h2>
+
+<p>* Surveillance ambulatoire sauf situation particulière (e.g. haut risque hémorragique, suivi impossible)</p>
+
+<p>† Vérification du schéma posologique et recherche d'un mésusage, d'une insuffisance rénale, d'une co-médication ou d'une intoxication accidentelle.</p>
+
+<p><b>Procédure invasive non programmée chez un patient traité par AVK</b></p>
+
+
+<pre>
+    graph TD
+      Start[Procédure invasive non programmée chez un patient traité par AVK] --&gt; HighRisk[Procédure à risque hémorragique élevé<br/>Seuil: INR ≤ 1,5 (INR ≤ 1,2 si neurochirurgie ou geste neuraxial §)]
+      Start --&gt; LowRisk[Procédure à faible risque hémorragique<br/>réalisable chez un patient anticoagulé]
+      
+      HighRisk --&gt; Urgent[Procédure urgente<br/>délai ≤ 12 heures]
+      HighRisk --&gt; SemiUrgent[Procédure semi-urgente<br/>délai &gt; 12 heures]
+      
+      Urgent --&gt; MeasureINR1[Mesure de l'INR]
+      SemiUrgent --&gt; MeasureINR2[Mesure de l'INR]
+      
+      MeasureINR1 --&gt; ResultNotAvail[Résultat non disponible rapidement]
+      MeasureINR1 --&gt; INRgtSeuil1[INR &gt; seuil]
+      MeasureINR2 --&gt; INRleSeuil[INR ≤ seuil]
+      MeasureINR2 --&gt; INRgtSeuil2[INR &gt; seuil]
+      
+      ResultNotAvail --&gt; CCP1[CCP<br/>25 UI/kg (=1ml/kg)#<br/>+ VitK 5 mg IV ou PO]
+      INRgtSeuil1 --&gt; CCP2[CCP<br/>(posologie du RCP)<br/>+ VitK 5 mg IV ou PO]
+      INRleSeuil --&gt; VitK3[vitK 5 mg IV (ou PO)*]
+      INRgtSeuil2 --&gt; VitK3
+      
+      CCP1 --&gt; ControlINR1[Contrôle de l'INR dans les 30min<br/>Discuter CCP (posologie du RCP)<br/>si INR &gt; seuil]
+      CCP2 --&gt; ControlINR1
+      VitK3 --&gt; ControlINR2[Contrôle de INR à ≥12h<br/>pour vérifier que le seuil<br/>est atteint]
+      
+      ControlINR1 --&gt; Procedure[Realiser la procédure invasive]
+      ControlINR2 --&gt; Procedure
+      
+      Procedure --&gt; Resume[Reprendre une anticoagulation curative (à titre indicatif : entre 24-72h)<br/>Dans l'intervalle, thromboprophylaxie veineuse si indiquée]
+  </pre>
+<p><b>GRADE 2+</b> (High Risk)</p>
+<p><b>GRADE 1+</b> (INR Measurement)</p>
+<p><b>GRADE 1+</b> (CCP and VitK)</p>
+<p><b>GRADE 2+</b> (VitK 5 mg IV)</p>
+<p><b>GRADE 1+</b> (Procedure)</p>
+<p><b>GRADE 1+</b> (Resume anticoagulation)</p>
+
+<p>* Discuter 10 mg si procédure à très haut risque hémorragique suivie d'une reprise retardée de l'anticoagulation.</p>
+
+<p># Les CCP sont dosés en unités de facteur IX.</p>
+
+<p>§ Gestes neuraxiaux : ils incluent la ponction lombaire, la rachianesthésie, la péridurale et la péri-rachi combinée. Ils n'incluent pas la chirurgie rachidienne.</p>
+
+<p><b>Figure 7</b></p>
+
+<p><b>Procédure invasive non programmée pour un patient traité par anticoagulant oral direct</b></p>
+
+<p><b>Procédure à risque hémorragique élevé</b><br/>Seuil: [AOD] <math>\leq 50</math> ng/mL (30 ng/mL si neurochirurgie ou geste neuraxial §)</p>
+
+<p><b>Procédure à faible risque hémorragique réalisable chez un patient anticoagulé</b></p>
+
+
+<pre>
+graph TD
+    Start[Procédure invasive non programmée pour un patient traité par anticoagulant oral direct]
+    Start --&gt; HighRisk[Procédure à risque hémorragique élevé<br/>Seuil: [AOD] ≤50 ng/mL (30 ng/mL si neurochirurgie ou geste neuraxial §)]
+    Start --&gt; LowRisk[Procédure à faible risque hémorragique réalisable chez un patient anticoagulé]
+    
+    HighRisk --&gt; Dabigatran[Dabigatran]
+    HighRisk --&gt; AODantiXa[AOD anti-Xa : apixaban, edoxaban, rivaroxaban]
+    
+    Dabigatran --&gt; DabigatranConc[Mesure de la concentration en dabigatran]
+    AODantiXa --&gt; AODantiXaConc[Mesure de la concentration en AOD anti-Xa]
+    
+    DabigatranConc --&gt; DabigatranConcResult[Résultat non disponible rapidement *]
+    DabigatranConc --&gt; DabigatranConcResult[AOD] &gt; seuil *
+    DabigatranConc --&gt; DabigatranConcResult[AOD] ≤ seuil
+    
+    AODantiXaConc --&gt; AODantiXaConcResult[AOD] &gt; seuil *
+    AODantiXaConc --&gt; AODantiXaConcResult[Résultat non disponible rapidement *]
+    
+    DabigatranConcResult[AOD] &gt; seuil * --&gt; Idarucizumab[idarucizumab<br/>5 g IVL §]
+    Idarucizumab --&gt; IdarucizumabConc[Si [dabigatran] avant réversion &gt;200 ng/mL<br/>Nouvelle mesure 12-24h après idarucizumab]
+    IdarucizumabConc --&gt; IdarucizumabConcResult[Si [dabigatran] &gt; seuil de sécurité<br/>discuter 2ème dose d'idarucizumab<br/>si risque hémorragique persistant]
+    
+    AODantiXaConcResult[AOD] &gt; seuil * --&gt; CCP[Discuter les CCP #<br/>25-50 UI/kg]
+    CCP --&gt; CCPResult[- avant la procédure: si nécessité d'une<br/>hémostase optimale (neurochir...)<br/>- per procédure: si saignement anormal<br/>Pas de geste neuraxial §]
+    
+    AODantiXaConcResult[AOD] ≤ seuil --&gt; Delay[Retarder la<br/>procédure si cela<br/>n'entraîne pas une<br/>perte de chance<br/>pour le patient]
+    
+    CCPResult --&gt; Delay
+    CCPResult --&gt; ProceedInvasive[Réaliser la procédure invasive]
+    Delay --&gt; ProceedInvasive
+    
+    ProceedInvasive --&gt; Thromboprophylaxie[Thromboprophylaxie veineuse si indiquée]
+    Thromboprophylaxie --&gt; Reprise[Reprise de l'anticoagulation curative<br/>selon le risque hémorragique et thrombotique<br/>(à titre indicatif entre 24 et 72h)]
+    
+    LowRisk --&gt; ProceedInvasive
+    ProceedInvasive --&gt; Thromboprophylaxie
+    Thromboprophylaxie --&gt; Reprise
+  </pre>
+<p><b>Notes and Explanations:</b></p>
+<ul>
+<li><b>GRADE 2+:</b> Indicated for idarucizumab, CCP, and post-procedure thromboprophylaxis.</li>
+<li><b>GRADE 1+:</b> Indicated for the final step of resuming anticoagulation.</li>
+<li><b>§:</b> If unavailable, CCP 25-50 UI/kg according to the same modalities as with AOD anti-Xa.</li>
+<li><b>#:</b> CCP are dosed in units of factor IX.</li>
+<li><b>§ Gestes neuraxiaux:</b> Includes lumbar puncture, spinal anesthesia, epidural, and combined epidural-spinal. Does not include spinal surgery.</li>
+<li><b>*</b> If the procedure is planned &gt; 12h, take into account the decrease of [AOD] or perform a dosage before the procedure (grade 2+).</li>
+</ul>
+
+<p><b>Figure 8</b></p>
+
+<p><b>Procédure invasive non programmée pour un patient traité par une héparine (HNF ou HBPM)</b></p>
+
+
+<pre>
+graph TD
+    Start[Procédure invasive non programmée pour un patient traité par une héparine (HNF ou HBPM)]
+    Start --&gt; HighRisk[Procédure à risque hémorragique élevé]
+    Start --&gt; LowRisk[Procédure à faible risque hémorragique]
+    
+    HighRisk --&gt; HNF[Héparine non fractionnée (HNF)]
+    HighRisk --&gt; HBPM[Héparines de bas poids moléculaire (HBPM)]
+    
+    HNF --&gt; ProtamineHNF[Discuter la protamine pour neutraliser l'HNF résiduelle]
+    ProtamineHNF --&gt; NoNeuraxialHNF[Pas de geste neuraxial #]
+    NoNeuraxialHNF --&gt; Procedure[Réaliser la procédure invasive]
+    
+    HBPM --&gt; AntiXa[Mesure de l'activité anti-Xa HBPM (+ clairance de la créatinine)]
+    AntiXa --&gt; Grade2plus[GRADE 2+]
+    Grade2plus --&gt; ActivityHNF[Activité anti-Xa &gt; seuil]
+    Grade2plus --&gt; ResultNotAvail[Résultat non disponible]
+    Grade2plus --&gt; ActivityHBPMLow[Activité anti-Xa ≤ seuil]
+    
+    ActivityHNF --&gt; AvisExpertsHNF[AVIS D'EXPERTS]
+    AvisExpertsHNF --&gt; Report[Reporter la procédure si cela n'entraîne pas une perte de chance pour le patient de :<br/>6h si HNF IVSE<br/>12h si HNF SC<br/>24h si HBPM SC]
+    Report --&gt; AvisExpertsHNF
+    AvisExpertsHNF --&gt; Procedure
+    
+    ResultNotAvail --&gt; Protamine[Discuter la protamine]
+    Protamine --&gt; AvisExpertsProt[AVIS D'EXPERTS]
+    AvisExpertsProt --&gt; Before[avant la procédure: si nécessité d'une hémostase optimale (neurochir...)]
+    AvisExpertsProt --&gt; During[per procédure: si saignement anormal]
+    AvisExpertsProt --&gt; NoNeuraxial[Pas de geste neuraxial #]
+    NoNeuraxial --&gt; Grade1plus[GRADE 1+]
+    Grade1plus --&gt; Procedure
+    
+    ActivityHBPMLow --&gt; AvisExpertsHBPMLow[AVIS D'EXPERTS]
+    AvisExpertsHBPMLow --&gt; Procedure
+    
+    Procedure --&gt; Thromboprophylaxie[Thromboprophylaxie veineuse si indiquée]
+    Thromboprophylaxie --&gt; Reprise[Reprise de l'anticoagulation curative selon le risque hémorragique et thrombotique (à titre indicatif entre 24 et 72h)]
+    Reprise --&gt; Grade2plusFinal[GRADE 2+]
+  </pre>
+
+<p>Seuils proposés : Activité anti-Xa &gt;0,2 UI/mL (&gt;0,1 UI/mL si geste neuraxial)</p>
+
+<p># Gestes neuraxiaux : ils incluent la ponction lombaire, la rachianesthésie, la péridurale et la péri-rachi combinée. Ils n'incluent pas la chirurgie rachidienne. (les délais d'arrêt sont de 6h si HNF IVSE, 12h si HNF SC et 24h si HBPM SC)</p>
+
+<p><b>Figure 9</b></p>
+
+<p><b>AVC ischémique avec indication à la thrombolyse IV – patient traité par un anticoagulant oral</b></p>
+
+<img alt="Logo SFMU (Société Française de Médecine d'Urgence)" src="36dcec3115dfd335fa71af7950777d32_2_img.webp"/>
+
+<img alt="Logo SFAR (Société Française d'Anesthésie et de Réanimation)" src="36dcec3115dfd335fa71af7950777d32_3_img.webp"/>
+
+<img alt="Logo GIHP (Groupe d'intérêt en hémostasie péri-opératoire)" src="36dcec3115dfd335fa71af7950777d32_4_img.webp"/>
+
+<img alt="Logo SFTH (Société Française de Thrombose et d'Hémostase)" src="36dcec3115dfd335fa71af7950777d32_5_img.webp"/>
+
+
+<pre>
+graph TD
+    Start[AVC ischémique avec indication à la thrombolyse IV – patient traité par un anticoagulant oral]
+    
+    Start --&gt; AVK[AVK]
+    Start --&gt; AOD[apixaban, rivaroxaban, edoxaban]
+    Start --&gt; Dabi[dabigatran]
+    
+    AVK --&gt; INR17[INR ≤ 1,7]
+    AVK --&gt; INR17n[INR &gt; 1,7 ou dosage non disponible]
+    
+    INR17 --&gt; Thrombolyse_IV_possible[Thrombolyse IV possible]
+    Thrombolyse_IV_possible --&gt; GRADE_1p[GRADE 1+]
+    
+    INR17n --&gt; Reversal_CCP[Reversion par CCP non recommandée]
+    Reversal_CCP --&gt; Avis_Experts[AVIS d'EXPERTS]
+    Avis_Experts --&gt; Contre_Indication[Contre indication à la thrombolyse]
+    
+    AOD --&gt; AOD50[["[AOD] &lt; 50 ng/mL"]]
+    AOD --&gt; AOD50_100[["[AOD] ≥ 50 et &lt; 100 ng/mL"]]
+    AOD --&gt; AOD100[["Dosage non disponible ou [AOD] ≥ 100 ng/mL"]]
+    
+    AOD50 --&gt; Thrombolyse_IV_possible
+    Thrombolyse_IV_possible --&gt; Avis_Experts
+    
+    AOD50_100 --&gt; Discuter[Discuter au cas par cas la thrombolyse]
+    Discuter --&gt; Avis_Experts
+    
+    AOD100 --&gt; Reversal_CCP
+    Reversal_CCP --&gt; Avis_Experts
+    Avis_Experts --&gt; Contre_Indication
+    
+    Dabi --&gt; Dabi50[["[dabi.] &lt; 50 ng/mL ou TT &lt; 60 sec"]]
+    Dabi --&gt; Reversal_Iidarucizumab[Reversion par Idarucizumab]
+    
+    Reversal_Iidarucizumab --&gt; Oui[Oui]
+    Reversal_Iidarucizumab --&gt; Non[Non]
+    
+    Oui --&gt; Dabi50_100[["[dabi.] ≥ 50 et &lt; 100 ng/mL"]]
+    Dabi50_100 --&gt; Discuter
+    Discuter --&gt; Avis_Experts
+    
+    Non --&gt; Dosage_Non_Disponible[["Dosage non disponible ou [dabi.] ≥ 100 ng/mL ou TT ≥ 60 sec"]]
+    Dosage_Non_Disponible --&gt; Reversal_CCP
+    Reversal_CCP --&gt; Avis_Experts
+    Avis_Experts --&gt; Contre_Indication
+    </pre>
+
+<p>Réaliser la thrombectomie si indiquée, quelle que soit la décision de thrombolyse (GRADE 1+)</p>
+
+<p><b>Figure 10. Algorithme de prise en charge des patients traités par un anticoagulant oral ayant un AVC ischémique</b></p>
+
+<p>AOD : anticoagulants oraux directs, AVK : Anti-Vitamine K, CCP : Concentrés de Complexe Prothrombotique, INR : International Normalized Ratio, IV : intraveineux, TT : temps de thrombine</p>

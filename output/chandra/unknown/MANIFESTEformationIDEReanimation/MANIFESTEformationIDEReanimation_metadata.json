@@ -1,0 +1,57 @@
+{
+  "file_name": "MANIFESTEformationIDEReanimation.pdf",
+  "num_pages": 4,
+  "total_token_count": 4172,
+  "total_chunks": 38,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1180,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1188,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1254,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 550,
+      "num_chunks": 5,
+      "num_images": 0
+    }
+  ]
+}

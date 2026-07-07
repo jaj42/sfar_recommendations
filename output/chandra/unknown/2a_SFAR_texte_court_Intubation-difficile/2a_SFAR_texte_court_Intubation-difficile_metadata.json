@@ -1,0 +1,153 @@
+{
+  "file_name": "2a_SFAR_texte_court_Intubation-difficile.pdf",
+  "num_pages": 12,
+  "total_token_count": 12212,
+  "total_chunks": 142,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 622,
+      "num_chunks": 13,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 414,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1318,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1499,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1423,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1360,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1372,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1031,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 1347,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 947,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 804,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1272,
+        1815
+      ],
+      "token_count": 75,
+      "num_chunks": 1,
+      "num_images": 0
+    }
+  ]
+}

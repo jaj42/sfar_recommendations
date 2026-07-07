@@ -1,0 +1,141 @@
+{
+  "file_name": "Fiches-simplifiees-19122025-.pdf",
+  "num_pages": 11,
+  "total_token_count": 13462,
+  "total_chunks": 97,
+  "total_images": 3,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 387,
+      "num_chunks": 6,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1233,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1770,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1090,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 760,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1037,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1591,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1452,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1508,
+      "num_chunks": 16,
+      "num_images": 1
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1162,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1587
+      ],
+      "token_count": 1472,
+      "num_chunks": 12,
+      "num_images": 1
+    }
+  ]
+}

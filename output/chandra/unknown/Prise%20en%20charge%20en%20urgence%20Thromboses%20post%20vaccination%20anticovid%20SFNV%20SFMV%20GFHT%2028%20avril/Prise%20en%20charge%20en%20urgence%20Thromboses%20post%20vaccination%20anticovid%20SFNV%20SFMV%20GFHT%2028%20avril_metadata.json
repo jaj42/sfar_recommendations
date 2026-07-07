@@ -1,0 +1,21 @@
+{
+  "file_name": "Prise%20en%20charge%20en%20urgence%20Thromboses%20post%20vaccination%20anticovid%20SFNV%20SFMV%20GFHT%2028%20avril.pdf",
+  "num_pages": 1,
+  "total_token_count": 1339,
+  "total_chunks": 24,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1339,
+      "num_chunks": 24,
+      "num_images": 0
+    }
+  ]
+}

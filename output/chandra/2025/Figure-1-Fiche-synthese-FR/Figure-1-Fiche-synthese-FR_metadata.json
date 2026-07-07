@@ -1,0 +1,33 @@
+{
+  "file_name": "Figure-1-Fiche-synthese-FR.pdf",
+  "num_pages": 2,
+  "total_token_count": 5869,
+  "total_chunks": 78,
+  "total_images": 10,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3840,
+        2880
+      ],
+      "token_count": 2791,
+      "num_chunks": 31,
+      "num_images": 4
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        3840,
+        2880
+      ],
+      "token_count": 3078,
+      "num_chunks": 47,
+      "num_images": 6
+    }
+  ]
+}

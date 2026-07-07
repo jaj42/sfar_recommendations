@@ -1,0 +1,45 @@
+{
+  "file_name": "fiche_sepsis_aval.pdf",
+  "num_pages": 3,
+  "total_token_count": 4065,
+  "total_chunks": 63,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1595,
+      "num_chunks": 33,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1211,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1259,
+      "num_chunks": 16,
+      "num_images": 0
+    }
+  ]
+}

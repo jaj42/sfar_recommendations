@@ -1,0 +1,21 @@
+{
+  "file_name": "GIHP%20thrombose%20post%20vaccination%20.pdf",
+  "num_pages": 1,
+  "total_token_count": 1339,
+  "total_chunks": 29,
+  "total_images": 6,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1632,
+        2112
+      ],
+      "token_count": 1339,
+      "num_chunks": 29,
+      "num_images": 6
+    }
+  ]
+}

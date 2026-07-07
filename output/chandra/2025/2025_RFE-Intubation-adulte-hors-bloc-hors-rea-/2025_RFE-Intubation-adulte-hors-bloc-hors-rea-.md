@@ -1,0 +1,2616 @@
+![SFAR logo: three overlapping circles in orange and teal with the text 'SFAR' in blue.](1f36c9325b68d00fd14a103521e3cad0_1_img.webp)![SFMU logo: stylized 'sfmu' in blue with 'Société Française de Médecine d'Urgence' in red below it.](1f36c9325b68d00fd14a103521e3cad0_2_img.webp)
+
+## RECOMMANDATIONS FORMALISEES D'EXPERTS
+
+De la Société Française d'Anesthésie et Réanimation (SFAR)
+
+ET
+
+De la Société Française de Médecine d'Urgence (SFMU)
+
+# Intubation en urgence d'un adulte hors bloc opératoire et hors unité des soins critiques
+
+Emergency intubation of an adult outside the operating room and intensive care unit
+
+**2024**
+
+Texte validé par le Comité des Référentiels Cliniques de la SFAR le 25/10/2024, le Conseil d'Administration de la SFAR le 03/12/2024, le Comité de Référentiels de la SFMU le 25/10/2024, le Conseil d'Administration de la SFMU le 21/11/2024.
+
+**Auteurs :** Thomas CLAVIER, Eric CESAREO, Denis FRASCA, Frédéric ADNET, Marie-Pierre BONNET, Fanny VARDON, Nathalie BRUNEAU, Xavier COMBES, Julie CONTENTI, Anne-Laure FERAL-PIERSSENS, Michel GALINSKI, Jérémy GUENEZAN, Cédric GIL-JARDINE, Alice HUTIN,Samir JABER, Déborah JAEGER, François JAVAUDIN, Olivier LANGERON, Karine NOUETTE-GAULAIN, Benoit PLAUD, Julien POTTECHER, Hervé QUINTARD, Karim TAZAROURTE, Stéphane TRAVERS, Amélie VROMANT, Stéphanie RUIZ, Anthony CHAUVIN
+
+**Coordonnateurs d'experts :**
+
+**SFAR :** Thomas Clavier (Rouen)
+
+**SFMU :** Eric Cesareo (Lyon)
+
+**Organisateurs :**
+
+**SFAR :** Denis Frasca (Poitiers) et Stéphanie Ruiz (Toulouse)
+
+**SFMU :** Anthony Chauvin (Paris), Cédric Gil-Jardiné (Bordeaux) et Jérémy Guénézan (Poitiers)
+
+**Experts de la SFAR :** Marie-Pierre Bonnet, Fanny Vardon, Nathalie Bruneau, Samir Jaber, Olivier Langeron, Karine Nouette-Gaulain, Benoît Plaud, Julien Pottecher, Hervé Quintard
+
+**Experts de la SFMU :** Frédéric Adnet, Xavier Combes, Julie Contenti, Anne-Laure Féral-Pierssens, Michel Galinski, Alice Hutin, Déborah Jaeger, François Javaudin, Karim Tazarourte, Stéphane Travers, Amélie Vromant
+
+**Groupes de Lecture :**
+
+*Comité des Référentiels Cliniques de la SFAR :* Alice Blet (Présidente), Hélène Charbonneau (Secrétaire), Aurélien Bonnal, Marie-Pierre Bonnet (représentante du CA), Anais Caillard, Isabelle Constant (représentante du CA), Hugues de Courson, Matthieu Dumont, Denis Frasca, El Mahdi Hafiani, Elise Langouet, Daphné Michelet, Maxime Nguyen, Stéphanie Ruiz, Mickaël Vourc'h.
+
+*Commission des Référentiels de la SFMU :* Jérémy Guénézan (Président), Delphine Douillet (secrétaire), Jean Baptiste Bouillon, Pierre Catoire, Richard Chocron, Yann Erick Claessens, Xavier Dubucs, Cédric Gil-Jardiné, Maxime Jonchier, Roger Kadj Kalabang, Pierrick Le Borgne, Thibaut Markarian, Nicolas Peschanski, Geoffroy Rousseau, Nadia Tiberti, Barbara Villoing.
+
+*Conseil d'Administration de la SFAR :* Jean-Michel Constantin (Président); Marc Léone (1er vice-président); Karine Nouette-Gaulain (2ème vice-présidente); Isabelle Constant (secrétaire générale); Frédéric Le Saché (secrétaire général adjoint); Evelyne Combettes (trésorière); Olivier Joannes-Boyau (trésorier adjoint); Pierre Albaladéjo; Julien Amour; Hélène Beloeil; Valérie Billard; Marie-Pierre Bonnet; Julien Cabaton; Sébastien Campard; Vincent Collange; Marion Costecalde; Violaine d'Ans; Laurent Delaunay; Delphine Garrigue; Frédéric Lacroix; Sigismond Lasocki; Anne-Claire Lukaszewicz; Jane Muret; Nadia Smail.*Conseil d'Administration de la SFMU* : Sandrine Charpentier (Présidente), Dominique Savary (Vice-Président), Xavier Bobbia, Anthony Chauvin, Tahar Chouihed, Julie Contenti, Guillaume Debaty, Florence Dumas, Patricia Jabre, Olivier Mimos, Patrick Ray, Karim Tazarourte, Nicolas Termoz Masson, Youri Yordanov.**Conflits et liens d'intérêts des experts SFAR au cours des cinq années précédant la date de validation par le CA de la SFAR.**
+
+Marie-Pierre Bonnet : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Nathalie Bruneau : pas de conflit ni de lien d'intérêt en rapport avec la présente RFE  
+Denis Frasca : pas de conflit ni de lien d'intérêt en rapport avec la présente RFE  
+Samir Jaber : Medtronic, Drager, Fisher-Paykel, Mindray, Fresenius-Xenios, Baxter, TSC  
+Olivier Langeron : Cook, Medtronic  
+Karine Nouette-Gaulain : pas de conflit ni de lien d'intérêt en rapport avec la présente RFE  
+Benoît Plaud : MSD, IDD  
+Julien Pottecher : MSD, Cook, Aerogen, Ambu  
+Hervé Quintard : pas de de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Stéphanie Ruiz : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Fanny Vardon : pas de conflit ni de lien d'intérêt en rapport avec la présente RFE
+
+**Liens d'intérêts des experts SFMU au cours des cinq années précédant la date de validation par le CA de la SFMU.**
+
+Frédéric Adnet : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Anthony Chauvin : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Xavier Combes : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Julie Contenti : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Anne-Laure Féral-Pierssens : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Michel Galinski : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Cédric Gil-Jardiné : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Jérémy Guénézan : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Alice Hutin : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Déborah Jaeger : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+François Javaudin : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Karim Tazarourte : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Stéphane Travers : pas de conflit ni lien d'intérêt en rapport avec la présente RFE  
+Amélie Vromant : pas de conflit ni lien d'intérêt en rapport avec la présente RFE## RESUME
+
+**Objectif :** La Société Française d'Anesthésie et de Réanimation (SFAR) et la Société Française de Médecine d'Urgences (SFMU) se sont associées pour proposer un référentiel sur l'intubation du patient adulte en contexte d'urgence hors bloc opératoire et hors unité de soins critiques.
+
+**Conception :** Un groupe composé d'experts français des Sociétés Françaises d'Anesthésie-Réanimation (SFAR) et de la Société Française de Médecine d'Urgences (SFMU) a été réuni. D'éventuels conflits d'intérêts ont été officiellement déclarés dès le début du processus d'élaboration des recommandations et ce dernier a été conduit indépendamment de tout financement de l'industrie. Les auteurs ont suivi la méthodologie GRADE (*Grading of Recommendations Assessment, Development and Evaluation*) pour évaluer le niveau de preuve de la littérature.
+
+**Méthodes :** 5 champs ont été définis : 1) Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques ; 2) Intubation trachéale : check-list, matériel, formation ; 3) Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication motivant l'intubation) ; 4) Procédure d'intubation trachéale ; 5) Prise en charge après intubation trachéale. Pour chaque champ, l'objectif des recommandations était de répondre à un certain nombre de questions formulées par les experts selon le modèle PICO ("*Population, Intervention, Comparison, Outcome*"). A partir de ces questions, une recherche bibliographique extensive portant sur les années 1995 à 2024 a été réalisée en utilisant des mots clés prédéfinis selon les recommandations PRISMA. La qualité des données a été analysée selon la méthode GRADE. Les recommandations ont été formulées selon la méthode GRADE, puis votées par tous les experts selon la méthode GRADE grid.
+
+**Résultats :** Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 32 recommandations concernant l'intubation du patient adulte en contexte d'urgence hors bloc opératoire et hors unité de soins critiques. Après 4 tours de votes et plusieurs amendements, un accord fort a été obtenu pour 32 recommandations. Parmi ces recommandations, 5 ont un niveau de preuve élevé (GRADE 1), 12 ont un niveau de preuve faible (GRADE 2) et 15 sont des avis d'experts. Enfin, pour 4 questions, aucune recommandation n'a pu être formulée.
+
+**Conclusion :** Un accord fort a été obtenu parmi les experts afin de fournir des recommandations concernant l'intubation du patient adulte en contexte d'urgence hors bloc opératoire et hors réanimation.
+
+**Mots clés :** recommandation, intubation, urgence, patient adulte.## **ABSTRACT**
+
+**Objective:** To provide guidelines for guidelines on adult patient intubation in emergency settings outside the operating room and intensive care unit.
+
+**Design:** A consensus committee of 24 experts from the French Society of Anaesthesia and Intensive Care Medicine (Société Française d'Anesthésie et de Réanimation, SFAR) and the French Society of Emergency Medicine (Société Française de Médecine d'Urgence, SFMU) was convened. A formal conflict-of-interest (COI) policy was developed at the beginning of the process and enforced throughout. The entire guideline construction process was conducted independently of any industrial funding (i.e. pharmaceutical, medical devices). The authors were required to follow the rules of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system to guide assessment of quality of evidence. The potential drawbacks of making strong recommendations in the presence of low-quality evidence were emphasised.
+
+**Methods:** The aim of this expert panel guidelines is to evaluate adult patient intubation in emergency settings outside the operating room and intensive care unit. The experts studied questions within 5 domains. Each question was formulated according to the PICO (Patients Intervention Comparison Outcome) model and the evidence profiles were produced. An extensive literature review and recommendations were carried out and analysed according to the GRADE® methodology.
+
+**Results:** The experts' synthesis work and the application of the GRADE® method resulted in 32 recommendations dealing with adult patient intubation in emergency settings outside the operating room and intensive care unit. Among the formalised recommendations, 5 have high levels of evidence (GRADE 1) and 12 have low levels of evidence (GRADE 2). For 15 recommendations, the GRADE method could not be applied, resulting in expert opinions. 4 questions did not find any response in the literature. After 4 rounds of scoring and amendment, strong agreement was reached for all the recommendations.
+
+**Conclusions:** There was strong agreement among experts for 36 recommendations to improve practices for adult patient intubation in emergency settings outside the operating room and intensive care unit.
+
+**Keywords:** guidelines, intubation, emergency settings, adult patient## INTRODUCTION
+
+Deux Recommandations Formalisées d'Experts (RFE) françaises ciblant l'abord des voies aériennes de l'adulte ont été publiées. L'une est dédiée à l'intubation du patient au bloc opératoire, l'autre à l'intubation en soins critiques [1, 2]. Il n'existe actuellement aucune recommandation française sur le contrôle des voies aériennes en urgence en dehors de ces contextes intrahospitaliers.
+
+Bien que courante, cette procédure est associée à une morbi-mortalité importante avec une incidence élevée de complications (30%) pouvant menacer le pronostic vital : collapsus, arrêt cardiaque, hypoxémie sévère, intubation œsophagienne, pneumopathie d'inhalation... [3, 4]. L'intubation trachéale en urgence, en dehors du bloc opératoire ou des soins critiques présente des défis spécifiques. Le premier est la diversité des situations qui peuvent conduire à une intubation trachéale. Le deuxième est un environnement dans lequel les ressources matérielles peuvent être limitées (préhospitalier, urgence médicale hospitalière hors soins critiques, ...).
+
+En identifiant les défis spécifiques à ces contextes, la présente RFE vise à fournir des directives pratiques et exploitables pour l'accès aux voies aériennes en situations d'urgence hors bloc opératoire ou unité de soins critiques. Lorsqu'utilisé dans ces recommandations, le terme intubation renvoie à l'intubation trachéale. Elle ne se substitue pas aux RFE précédentes sur l'intubation trachéale mais les complète. A travers ces recommandations basées sur la littérature, les experts se sont attachés à définir les principaux éléments de prise en charge liés à ces situations : indications et non-indications à l'intubation en urgence en dehors du bloc opératoire ou d'une unité de soins critiques, matériel et aspect organisationnel liés à la procédure, optimisation et réalisation de cette procédure, gestion de la période post-intubation immédiate.
+
+Cette RFE offre une approche actualisée pour aborder l'intubation orotrachéale de l'adulte dans des situations d'urgence spécifiques. En établissant des normes de pratique, elle vise à optimiser les prises en charge et à renforcer la sécurité de nos patients et des praticiens confrontés à ces situations particulières.
+
+## OBJECTIF DES RECOMMANDATIONS
+
+L'objectif de ces Recommandations Formalisées d'Experts est de produire un cadre facilitant la prise de décision pour l'intubation des patients adultes en dehors des soins critiques ou du bloc opératoire. Le groupe s'est efforcé de produire un nombre minimal de recommandations afin de mettre en évidence les points forts à retenir dans les 5 champs prédéfinis : 1) Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques ; 2) Intubation trachéale : check-list, matériel, formation ; 3) Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication motivant l'intubation) ; 4) Procédure d'intubation trachéale ; 5) Prise en charge après intubation trachéale.
+
+Les règles de base des bonnes pratiques médicales universelles en anesthésie-réanimation et en médecine d'urgence étant considérées comme connues, elles ont été exclues de ces recommandations ; ces dernières se focalisant sur les éléments spécifiques de la prise en charge de l'intubation des patients adultes en dehors de la réanimation ou du bloc opératoire. Ainsi, lorsqu'un abord invasif des voies aériennes supérieures est envisagé, des précautions simples doivent être mises en œuvre, en rassemblant au lit du patient les ressources humaines etmatérielles nécessaires et en mettant en place une communication explicite entre les acteurs (impliqués ou allant être impliqués dans la prise en charge) afin de réduire la morbi-mortalité. Les publics visés sont les praticiens en médecine d'urgence, les anesthésistes-réanimateurs et les médecins d'autres spécialités exerçant en soins critiques.
+
+## **METHODE**
+
+### **Organisation générale**
+
+Ces recommandations sont le résultat du travail d'un groupe d'experts réunis par la SFAR en collaboration avec la SFMU. Chaque expert a rempli une déclaration de conflits d'intérêts avant de débuter le travail d'analyse. Dans un premier temps, le comité d'organisation a défini les objectifs de ces recommandations et la méthodologie utilisée. Les différents champs d'application de ces RFE et les questions à traiter ont ensuite été définis par le comité d'organisation, puis modifiés et validés par les experts. Les questions ont été formulées selon un format PICO (Population, Intervention, Comparison, Outcome) après une première réunion du groupe d'experts. La population « P » pour l'ensemble des questions est définie comme « Patient adulte nécessitant un contrôle des voies aériennes supérieures en urgence ».
+
+### **Champ des recommandations**
+
+Les recommandations formulées concernent 5 champs :
+
+- - Champ 1 : Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques ;
+- - Champ 2 : Intubation trachéale : check-list, matériel, formation ;
+- - Champ 3 : Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication motivant l'intubation) ;
+- - Champ 4 : Procédure d'intubation trachéale ;
+- - Champ 5 : Prise en charge après intubation trachéale.
+
+Une recherche bibliographique extensive de 1995 à 2024 a été réalisée à partir des bases de données (MEDLINE, Tripdatabase ([www.tripdatabase.com](http://www.tripdatabase.com)), Prospero ([www.crd.york.ac.uk/PROSPERO](http://www.crd.york.ac.uk/PROSPERO)) et [www.clinicaltrials.gov](http://www.clinicaltrials.gov), EMBASE, SCOPUS, Cochrane ), par 24 experts pour chaque champ d'application, selon la méthodologie Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA pour les revues systématiques). Les mots clés utilisés pour la recherche bibliographique ont été : patients adultes, intubation, check-list, mortalité, échec intubation, désaturation, hypoxémie sévère, instabilité hémodynamique, intubation difficile, inhalation, intubation œsophagienne, bris dentaire, ventilation au masque difficile, arrêt cardiaque, pneumothorax, pneumomédiastin, plaie des voies aériennes, cricothyroïdotoomie, encéphalopathie anoxique.
+
+Ont été inclus dans l'analyse :
+
+1. 1) Les méta-analyses, essais contrôlés randomisés, essais prospectifs non randomisés, cohortes rétrospectives, séries de cas et case-report ; études publiées et ayant subi un processus de peer-reviewing
+2. 2) Conduits chez les patients adultes ;3) Traitant des 5 champs considérés : a) Indications de l'intubation trachéale ; b) Intubation : check-list, matériel, formation ; c) Procédure d'intubation trachéale ; d) Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication motivant l'intubation) ; e) Prise en charge après intubation.
+
+4) Publiés en langue anglaise ou française.
+
+La méthode de travail utilisée pour l'élaboration de ces recommandations est la méthode GRADE® (Grade of Recommendation Assessment, Development and Evaluation). Cette méthode permet, après une analyse qualitative et quantitative de la littérature, de déterminer séparément la qualité des preuves, et donc de donner une estimation de la confiance que l'on peut avoir de l'analyse quantitative et un niveau de recommandation. Un niveau de preuve a été défini pour chacune des références bibliographiques citées en fonction du type de l'étude. Ce niveau de preuve pouvait être réévalué en tenant compte de la qualité méthodologique de l'étude, de la cohérence des résultats entre les différentes études, du caractère direct ou non des preuves, de l'analyse de coût et de l'importance du bénéfice.
+
+Un critère de jugement composite, la morbi-mortalité, a été défini en amont, avec des critères de morbidité spécifiques :
+
+- Critères de morbidité classés comme « majeurs » :
+
+1. 1. Arrêt cardiaque
+2. 2. Pneumothorax, pneumomédiastin, plaie des voies aériennes
+3. 3. Échec d'intubation trachéale avec impossibilité de ventilation/oxygénation / Ventilation au masque
+4. 4. Nécessité de cricothyroïdomie ou d'abord chirurgical des VAS
+5. 5. Décès / encéphalopathie anoxique
+
+- Critères de morbidité classés comme « mineurs » :
+
+1. 1. Hypoxémie sévère ( $SpO_2 < 80\%$ )
+2. 2. Instabilité hémodynamique ( $PAS < 90 \text{ mmHg}$  et/ou  $PAM < 65 \text{ mmHg}$ ) pendant plus de 30 minutes et/ou introduction d'amines
+3. 3. Échec d'intubation oro-trachéale (IOT) à la 1ère tentative
+4. 4. Intubation difficile ( $> 2$  laryngoscopies ou mise en œuvre d'une technique d'intubation oro-trachéale (IOT) alternative)
+5. 5. Inhalation
+6. 6. Intubation œsophagienne
+7. 7. Bris dentaire
+8. 8. Ventilation au masque difficile
+
+Les recommandations ont ensuite été formulées en utilisant la terminologie des RFE de la SFAR :
+
+- - Un niveau global de preuve « fort » permettait de formuler une recommandation « forte » : GRADE 1 « il est recommandé de faire... », « il n'est pas recommandé de faire... ».
+- - Un niveau global de preuve modéré ou faible aboutissait à l'écriture d'une recommandation « optionnelle » : GRADE 2 « il est probablement recommandé de faire... », « il n'est probablement pas recommandé de faire... ».- Lorsque le niveau de preuve était très faible ou inexistant, la question pouvait faire l'objet d'une recommandation sous la forme d'un avis d'expert : Avis d'experts « les experts suggèrent... ».
+
+- Si les experts ne disposaient pas d'études traitant du sujet, ou si aucune donnée sur les critères principaux n'existait, aucune recommandation n'était émise. Une "absence de recommandation" signifie qu'il n'existe pas suffisamment de littérature pour conclure sur ce qu'il convient de faire. De nouvelles études devront apporter les réponses aux questions avec « absence de recommandations ». Une "absence de recommandation" doit être différenciée d'une recommandation négative de type « Il n'est pas recommandé de faire ». Dans ce cas, la littérature scientifique disponible est suffisamment robuste pour conduire à une recommandation négative.
+
+Les propositions de recommandations ont été présentées et discutées une à une. Le but n'était pas d'aboutir obligatoirement à un avis unique et convergent des experts sur l'ensemble des propositions, mais de dégager les points de concordance et les points de divergence ou d'indécision. Chaque recommandation a alors été évaluée par chacun des experts et soumise à une cotation individuelle à l'aide d'une échelle allant de 1 (désaccord complet) à 9 (accord complet). La force de la recommandation est déterminée en fonction de cinq facteurs clés et validée par les experts après un vote, en utilisant la méthode GRADE Grid :
+
+- ● Estimation de l'effet : plus il est important, plus probablement la recommandation sera forte ;
+- ● Imprécision : en cas d'incertitude de l'estimateur ou de grande variabilité de son écart-type, la force de la recommandation sera probablement plus faible ;
+- ● Le niveau global de preuve : plus il est élevé, plus probablement la recommandation sera forte ;
+- ● La balance entre effets désirables et indésirables : plus celle-ci est favorable, plus probablement la recommandation sera forte ;
+- ● La préférence du patient, médecin ou décisionnaire doit être obtenue au mieux auprès des personnes concernées ;
+- ● Coûts : plus les coûts ou l'utilisation des ressources sont élevés, plus probablement la recommandation sera faible.
+
+Pour valider une recommandation, au moins 70 % des experts devaient exprimer une opinion qui allait globalement dans la même direction, tandis que moins de 20 % d'entre eux exprimaient une opinion contraire. En l'absence de validation d'une ou de plusieurs recommandation(s), celle(s)-ci était(en)t reformulée(s) et, de nouveau, soumise(s) à cotation dans l'objectif d'aboutir à un consensus. Si les recommandations n'avaient pas obtenu un nombre suffisant d'opinions favorables et/ou obtenu un nombre trop élevé d'opinions défavorables, elles n'étaient pas éditées. Si une courte majorité des experts étaient d'accord avec la recommandation et plusieurs experts n'avaient pas d'opinion ou y étaient opposés, les recommandations obtenaient un accord faible. Enfin, si la grande majorité des experts était d'accord avec la recommandation et une minorité des experts n'avait pas d'opinion ou y était opposée, les recommandations obtenaient un accord fort. Les avis d'experts, exprimant par définition un consensus entre les experts en l'absence de littérature suffisamment forte pour grader ces recommandations, devaient nécessairement obtenir un accord fort (i.e. au moins 70% d'opinions allant dans la même direction).## RESULTATS
+
+### Champs des recommandations
+
+Les experts ont consensuellement décidé lors de la première réunion d'organisation de ces RFE, de traiter 20 questions réparties en 5 champs. Les questions suivantes ont été retenues pour le recueil et l'analyse de la littérature :
+
+#### **CHAMP 1 : Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques.**
+
+- • Pour un patient adulte nécessitant un contrôle des voies aériennes supérieures en urgence hors bloc opératoire ou soins critiques, la réalisation d'une intubation trachéale par rapport à l'utilisation d'un dispositif supra-glottique en première intention permet-elle de réduire la morbi-mortalité ?
+- • Existe-t-il des situations cliniques au cours desquelles l'intubation trachéale est susceptible d'améliorer la morbi-mortalité chez un patient pris en charge en urgence ?
+  - - L'intubation trachéale permet-elle de réduire la morbi-mortalité chez le patient en arrêt circulatoire ?
+  - - L'intubation trachéale par rapport à l'absence d'intubation, permet-elle de réduire la morbi-mortalité chez un patient pris en charge en urgence pour un traumatisme crânien grave ?
+  - - L'intubation trachéale est-elle susceptible de réduire la morbi-mortalité chez un patient pris en charge en urgence pour une obstruction des voies aériennes supérieures (VAS) et/ou du plan glottique ?
+  - - L'intubation trachéale est-elle susceptible d'augmenter la morbi-mortalité chez un patient pris en charge en urgence pour un traumatisme thoracique pénétrant ?
+  - - L'intubation trachéale est-elle susceptible d'augmenter la morbi-mortalité chez un patient pris en charge en urgence pour un choc hémorragique ?
+
+#### **CHAMP 2 : Intubation : Check-list, matériel, formation.**
+
+- • L'utilisation systématique d'une check-list ou d'aides cognitives diminue-t-elle la morbi-mortalité au cours d'une l'intubation en situation d'urgence ?
+- • Existe-t-il des conditions matérielles minimales permettant de réduire la morbi-mortalité au cours d'une intubation en situation d'urgence ?
+- • Faut-il recueillir des critères prédictifs d'intubation difficile afin de réduire la morbi-mortalité avant une intubation en situation d'urgence ?
+- • Existe-t-il un niveau d'expérience minimal de l'opérateur permettant de réduire la morbi-mortalité au cours d'une intubation en situation d'urgence ?
+
+#### **CHAMP 3 : Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication motivant l'intubation).**
+
+- • Avant induction, existe-t-il une ou des modalité(s) de pré-oxygénation permettant de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?- • Existe-t-il une ou des modalité(s) d'oxygénation après l'induction et avant la laryngoscopie (oxygénation apnée) permettant de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?
+- • La réalisation d'une pression cricoïdienne permet-t-elle de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?
+- • Au cours de l'intubation en situation d'urgence d'un patient en état de choc, existe-t-il des situations pour lesquelles l'optimisation hémodynamique avant induction, permet de réduire la morbi-mortalité ?
+- • Existe-t-il une (ou des) modalité(s) pharmacologique(s) d'induction anesthésique permettant de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?
+
+#### **CHAMP 4 : Procédure d'intubation trachéale**
+
+- • L'utilisation systématique en première intention d'un dispositif pour guider le trajet de la sonde d'intubation (stylet malléable ou mandrin long béquillé), permet-elle de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?
+- • La vidéolaryngoscopie en première intention comparée à la laryngoscopie directe permet-t-elle de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?
+- • En cas d'échec de la première procédure d'intubation, existe-t-il une (ou des) méthode(s) alternative(s) permettant de réduire la morbi-mortalité ?
+
+#### **CHAMP 5 : Prise en charge après intubation**
+
+- • Existe-t-il des méthodes de contrôle du bon positionnement de la sonde d'intubation permettant de réduire la morbi-mortalité chez un patient qui vient d'être intubé en urgence ?
+- • Existe-t-il une (ou des) modalité(s) pharmacologique(s) d'entretien anesthésique permettant de réduire la morbi-mortalité chez un patient intubé en situation d'urgence ?
+
+#### **Synthèse des résultats**
+
+Le travail de synthèse des experts et l'application de la méthode GRADE ont abouti à 32 recommandations. Après 4 tours de cotation et quelques amendements, un accord fort a été obtenu pour 32 recommandations : 5 ont un niveau de preuve élevé (GRADE 1), 12 ont un niveau de preuve modéré à faible (GRADE 2), 15 sont des avis d'experts, et pour 4 questions, aucune recommandation n'a pu être formulée.
+
+La SFAR et la SFMU incitent tous les anesthésistes-réanimateurs et les spécialistes de la médecine d'urgence à se conformer à ces RFE pour optimiser la qualité des soins dispensés aux patients. Cependant, chaque praticien doit exercer son propre jugement dans l'application de ces recommandations, en prenant en compte son expertise et les spécificités de son établissement, pour déterminer la méthode d'intervention la mieux adaptée à l'état du patient dont il a la charge.<table border="1">
+<thead>
+<tr>
+<th colspan="3">P du PICO : Patients</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">Tous les patients adultes devant bénéficier d'une intubation trachéale hors contexte de bloc opératoire ou de soins critiques</td>
+</tr>
+<tr>
+<th colspan="3">O du PICO : Outcomes / Critères de jugement</th>
+</tr>
+<tr>
+<td colspan="3">Critères de jugement cruciaux ou majeurs (importance de 9 le plus fort à 7)</td>
+</tr>
+<tr>
+<td>
+          1. Arrêt cardiaque<br/>
+          2. Pneumothorax, pneumomédiastin, plaie des voies aériennes<br/>
+          3. Échec d'intubation trachéale avec impossibilité de ventilation/oxygénation / Ventilation au masque<br/>
+          4. Nécessité de cricothyroïdonomie ou d'abord chirurgical des VAS<br/>
+          5. Décès / encéphalopathie anoxique
+        </td>
+<td>Importance 9</td>
+<td>Critère principal</td>
+</tr>
+<tr>
+<td>
+          1. Hypoxémie sévère (<math>SpO_2 &lt; 80\%</math>)<br/>
+          2. Instabilité hémodynamique (PAS <math>&lt; 90</math> mmHg et/ou PAM <math>&lt; 65</math> mmHg) pendant plus de 30 minutes et/ou introduction d'amines<br/>
+          3. Échec d'intubation orotrachéale (IOT) à la 1ère tentative<br/>
+          4. Intubation difficile (<math>&gt; 2</math> laryngoscopies ou mise en œuvre d'une technique d'intubation orotrachéale (IOT) alternative)<br/>
+          5. Inhalation<br/>
+          6. Intubation œsophagienne<br/>
+          7. Bris dentaire<br/>
+          8. Ventilation au masque difficile
+        </td>
+<td>Importance 7</td>
+<td>Critère secondaire</td>
+</tr>
+<tr>
+<th colspan="3">Mots-clés</th>
+</tr>
+<tr>
+<td>Quels sont les mots-clés de la recherche ?</td>
+<td colspan="2">patients adultes, intubation, check-list, mortalité, échec intubation, désaturation, hypoxémie sévère, instabilité hémodynamique, intubation difficile, inhalation, intubation œsophagienne, bris dentaire, ventilation au masque difficile, arrêt cardiaque, pneumothorax, pneumomédiastin, plaie des voies aériennes, cricothyroïdonomie, encéphalopathie anoxique.</td>
+</tr>
+<tr>
+<th colspan="3">Critères de restriction de la recherche bibliographique</th>
+</tr>
+<tr>
+<td>Type d'études, effectif minimal...</td>
+<td colspan="2">
+<ul style="list-style-type: none;">
+<li>- Les méta-analyses,</li>
+<li>- essais contrôlés randomisés,</li>
+<li>- essais prospectifs non randomisés,</li>
+<li>- cohortes rétrospectives,</li>
+<li>- séries de cas et case-report ;</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>- études publiées et ayant subi un processus de peer-reviewing</td>
+</tr>
+<tr>
+<td>Années de la recherche bibliographique...</td>
+<td>1995 à 2024</td>
+</tr>
+<tr>
+<td>Langue</td>
+<td>Anglais et français</td>
+</tr>
+</table>
+
+#### Références:
+
+- [1] Langeron O, Bourgain JL, Francon D, Amour J, Baillard C, Bouroche G, et al. Difficult intubation and extubation in adult anaesthesia. *Anaesth Crit Care Pain Med.* 2018 ; 37(6) :639-51. Doi : 10.1016/j.accpm.2018.03.013
+- [2] Quintard H, l'Her E, Pottecher J, Adnet F, Constantin JM, De Jong A, et al. Intubation and extubation of the ICU patient. *Anaesth Crit Care Pain Med.* 2017 ; 36(5) : 327-41. Doi : 10.1016/j.accpm.2017.09.001.
+- [3] Russotto V, Myatra SN, Laffey JG, Tassistro E, Antolini L, Bauer P, et al. Intubation Practices and Adverse Peri-intubation Events in Critically Ill Patients From 29 Countries. *JAMA* 2021 ; 325(12) :1164-72. Doi : 10.1001/jama.2021.1727.
+- [4] Jabre P, Avenel A, Combes X, Kulstad E, Mazariegos I, Bertrand L, et al. Morbidity related to emergency endotracheal intubation--a substudy of the KETAmine SEDation trial. *Resuscitation.* 2011 ; 82(5) : 517-22. Doi : 10.1016/j.resuscitation.2011.01.015.**CHAMP 1. Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques.**
+
+**Question :** Pour un patient adulte nécessitant un contrôle des voies aériennes supérieures, la réalisation d'une intubation trachéale par rapport à l'utilisation d'un dispositif supra-glottique en première intention permet-elle de réduire la morbi-mortalité ?
+
+*Experts : Nathalie Bruneau (SFAR, Lille), Cédric Gil-Jardiné (SFMU, Bordeaux)*
+
+**R1.1 – Il est probablement recommandé de réaliser une intubation trachéale en première intention plutôt que d'utiliser un dispositif supra-glottique pour le contrôle des voies aériennes supérieures afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**Argumentaire :**
+
+Les dispositifs supra-glottiques (DSG), historiquement utilisés au bloc opératoire offrent une alternative de ventilation à la traditionnelle intubation trachéale avec des bénéfices potentiels : la facilité de mise en place et le caractère moins invasif pour les voies aériennes supérieures (VAS). Cependant ces dispositifs n'assurent pas une protection des VAS [1]. Ils présentent également des pressions de fuite nettement inférieures aux sondes d'intubations, pouvant rendre difficile la ventilation en cas d'obstruction sous-glottique. Au Royaume Uni à l'issu du 4ème audit national (NAP4) datant de 2011, l'inhalation était la cause de décès la plus fréquente (événement principal dans 50 % des décès) dans les événements liés à l'anesthésie. Il a été recommandé en 2011 par le Royal College of Anaesthesia d'utiliser un dispositif supra-glottique avec canal d'aspiration [2]. Parmi les DSG, on distingue le masque laryngé classique ou LMA en anglais (laryngeal mask airway) et les DSG de 2ème génération (DSG2). Ces dernières années, différents DSG2 munis d'un canal de drainage œsophagien ont été développés, afin de prévenir le risque de régurgitation et d'inhalation.
+
+Parmi eux on retrouve :
+
+- - Le masque laryngé i-gel®, qui est un dispositif supra glottique à usage unique sans bourrelet gonflable. Il est composé d'un élastomère thermoplastique (silicone) médical qui fournit une isolation de structures anatomiques du pharynx, du larynx et péri-laryngées, pour éviter les blessures de compression. Il possède une surface dure qui empêche la morsure du dispositif et un tube mince pour la vidange de l'œsophage. Il est disponible en 7 tailles en fonction du poids du patient.
+- - Les tubes laryngés avec canal de drainage, qui sont particulièrement utilisés en contexte d'urgence préhospitalière dans les pays anglo-saxons pour les arrêts cardio-respiratoires dans l'attente de secours médicaux spécialisés [3].
+
+Les différentes études comparant les DSG et l'intubation trachéale en urgence incluient essentiellement des patients en arrêt cardiaque préhospitalier. Dans l'analyse du registre américain sur l'arrêt cardiaque préhospitalier CARES (Cardiac Arrest Registry to Enhance Survival), l'intubation trachéale comparée aux DSG était associée à une probabilité plus élevée de récupération d'activité cardiaque spontanée (RACS) (OR 1,35 ; IC à 95 % 1,19-1,54) et de pronostic neurologique favorable à la sortie de l'hôpital (OR 1,44 ; IC 95% 1,10-1,88) [4]. Résultats à intégrer dans un contexte préhospitalier anglo-saxon, avec des équipes moins entraînées à l'intubation. De même, dans la méta-analyse de Benoit et al., l'intubation trachéale comparée aux DSG était associée à une probabilité statistiquement plus élevée de reprise d'une activitécirculatoire spontanée (RACS) (OR 1,28, IC 95 % 1,05-1,55) et à une probabilité plus élevée de sortie avec un état neurologique favorable (OR 1,33, IC 95% 1,09-1,61) [5]. Inversement, dans l'essai de Wang [3], chez plus de 3000 patients en arrêt cardiaque extrahospitalier (ACEH) aux Etats-Unis, le taux de survie du groupe tube laryngé était supérieur à celui du groupe intubation trachéale à H72 (18,2% vs 15,3%, p=0,04) sur la survie des patients à 72 heures. Cependant, il faut noter que le taux de succès d'intubation n'était que de 51% pouvant expliquer la moindre survie.
+
+Plusieurs études ne rapportaient pas de différence de morbidité entre DSG et intubation trachéale. L'article de revue de Carney et al. incluant 630 397 patients et 99 études concernant des patients pris en charge en préhospitalier pour un traumatisme sévère, un arrêt cardiaque ou une urgence médicale ne retrouvait aucun avantage des DSG sur la survie, la récupération neurologique et le succès du contrôle des voies aériennes supérieures [6]. L'étude randomisée multicentrique de Benger et al. chez les patients en ACEH n'a pas mis en évidence de bénéfice sur le pronostic neurologique d'un DSG en 1ère intention par rapport à l'intubation trachéale (OR 0,92; IC 95% 0,77-1,09) [7]. Aucune différence entre DSG et intubation trachéale n'était retrouvée sur les régurgitations et l'inspiration, mais le succès de ventilation initiale dans le groupe DSG était plus fréquent.
+
+Bien que non recommandés d'emblée, les DSG peuvent s'avérer utile en procédure de secours en cas d'échec d'intubation trachéale (cf. RFE intubation difficile au bloc opératoire) [1,8].
+
+#### Références
+
+- [1] Langeron O, Bourgain J-L, Francon D, Amour J, Baillard C, Bouroche G, et al. Intubation difficile et extubation en anesthésie chez l'adulte. *Anesthésie & Réanimation*. 2017 ; 3 : 552–71. <https://doi.org/10.1016/j.anrea.2017.09.003>.
+- [2] Cook TM, Woodall N, Frerk C, Fourth National Audit Project. Major complications of airway management in the UK : results of the Fourth National Audit Project of the Royal College of Anaesthetists and the Difficult Airway Society. Part 1 : anaesthesia. *Br J Anaesth* 2011 ; 106 : 617–31. <https://doi.org/10.1093/bja/aer058>.
+- [3] Wang HE, Schmicker RH, Daya MR, Stephens SW, Idris AH, Carlson JN, et al. Effect of a Strategy of Initial Laryngeal Tube Insertion vs Endotracheal Intubation on 72-Hour Survival in Adults With Out-of-Hospital Cardiac Arrest : A Randomized Clinical Trial. *JAMA* 2018 ; 320 : 769–78. <https://doi.org/10.1001/jama.2018.7044>.
+- [4] McMullan J, Gerecht R, Bonomo J, Robb R, McNally B, Donnelly J, et al. Airway management and out-of-hospital cardiac arrest outcome in the CARES registry. *Resuscitation* 2014 ; 85 : 617–22. <https://doi.org/10.1016/j.resuscitation.2014.02.007>.
+- [5] Benoit JL, Gerecht RB, Steuerwald MT, McMullan JT. Endotracheal intubation versus supraglottic airway placement in out-of-hospital cardiac arrest : A meta-analysis. *Resuscitation* 2015 ; 93 : 20–6. <https://doi.org/10.1016/j.resuscitation.2015.05.007>.
+- [6] Carney N, Totten AM, Cheney T, Jungbauer R, Neth MR, Weeks C, et al. Prehospital Airway Management : A Systematic Review. *Prehosp Emerg Care* 2022 ; 26 : 716–27. <https://doi.org/10.1080/10903127.2021.1940400>.
+- [7] Benger JR, Kirby K, Black S, Brett SJ, Clout M, Lazaroo MJ, et al. Effect of a Strategy of a Supraglottic Airway Device vs Tracheal Intubation During Out-of-Hospital Cardiac Arrest on Functional Outcome : The AIRWAYS-2 Randomized Clinical Trial. *JAMA* 2018 ; 320 : 779–91. <https://doi.org/10.1001/jama.2018.11597>.
+- [8] Middleton PM, Simpson PM, Thomas RE, Bendall JC. Higher insertion success with the i-gel supraglottic airway in out-of-hospital cardiac arrest : a randomised controlled trial. *Resuscitation*. 2014 ; 85 : 893–7. <https://doi.org/10.1016/j.resuscitation.2014.02.021>.
+
+**Existe-t-il des situations cliniques au cours desquelles l'intubation trachéale est susceptible d'améliorer la morbi-mortalité chez un patient pris en charge en urgence ?**
+
+**Question : L'intubation trachéale permet-elle de réduire la morbi-mortalité chez le patient en arrêt circulatoire ?**
+
+*Experts : Fanny Vardon (SFAR, Toulouse), Alice Hutin (SFMU, Paris)***R1.2.1 – Au cours de la réanimation cardio-pulmonaire spécialisée de l'arrêt cardiaque, les experts suggèrent de réaliser une intubation trachéale par rapport à la pose d'un dispositif supra-glottique ou une ventilation au masque pour réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R1.2.2 – Au cours de la réanimation cardio-pulmonaire de l'arrêt cardiaque, les experts suggèrent dans l'attente de l'intubation trachéale, de réaliser une ventilation par un masque facial et un ballon auto-remplisseur avec valve unidirectionnelle (BAVU) relié à une source d'oxygène pour réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+En préambule, il convient de rappeler que dans la majorité des situations de réanimation cardio-pulmonaire, la priorité absolue reste au massage cardiaque externe et à la défibrillation en présence d'un rythme choquable. L'accès aux voies aériennes ne doit être envisagé que si ces conditions sont remplies et optimales, la ventilation au ballon auto-remplisseur avec valve unidirectionnelle (BAVU) relié à une source d'oxygène étant la solution d'oxygénation à la phase initiale. Les situations où l'accès aux voies aériennes est prioritaire sont plus rares (arrêt cardiaque hypoxique sur corps étranger, arrêt cardiaque traumatique en association à une thoracostomie ou une exsufflation bilatérale par exemple ...).
+
+La littérature actuelle met en évidence des données hétérogènes sur le sujet, et dont les conclusions varient selon les systèmes de soins préhospitaliers. En effet, dans les données de la littérature, on distingue les études avec une prise en charge préhospitalière réalisée par des équipes de paramedics (systèmes anglo-saxons), des études avec prise en charge par des équipes médicalisées (systèmes européens dont la France). De nombreuses études ont tenté de mettre en évidence la meilleure stratégie de prise en charge des voies aériennes durant la réanimation spécialisée de l'arrêt cardiaque préhospitalier (ACEH), afin d'améliorer le devenir de ces patients. Les stratégies ventilatoires sont variées, allant de la ventilation au ballon auto-remplisseur avec valve unidirectionnelle (BAVU), à l'intubation oro-trachéale, en passant par des dispositifs de ventilation supra-glottiques (masque laryngé, tube laryngé, combi-tube laryngo-œsophagien). L'hétérogénéité et le choix du critère de jugement principal des différentes études, en limite également la comparabilité (survie à J28, RACS, devenir neurologique etc.).
+
+Dans une méta-analyse publiée en 2023 dont l'objectif était de comparer l'efficacité de différentes méthodes de gestion préhospitalière des voies aériennes en cas d'arrêt cardiaque en termes de survie à la sortie de l'hôpital, les auteurs avaient retenu 9 essais contrôlés randomisés entre 1986 et 2018 [1]. Cette méta-analyse n'avait pas permis de mettre en évidence une supériorité de l'intubation trachéale comparée à des dispositifs supra-glottiques sur la survie des patients à leur sortie d'hôpital. Cependant, il faut noter que parmi les 9 essais inclus, la majorité des essais ne concernait pas un système préhospitalier médicalisé comme en France.
+
+Trois grands essais contrôlés randomisés méritent une attention particulière [2-4]. Le premier comparait l'intubation trachéale au BAVU dans les systèmes de soins français et belge [2]. Il s'agissait d'un essai visant à évaluer la non infériorité de la ventilation au BAVU par rapport à l'intubation trachéale. Plus de 1000 patients étaient inclus par groupe. Le critère de jugement principal était un devenir neurologique favorable jugé à partir du score Cerebral Performance Category (CPC), un score CPC 1 (handicap mineur) ou 2 (handicap modéré) étant considérés comme une évolution favorable à J28. Il n'y avait pas de différence significative entre les 2 groupes (4,3% vs 4,2% respectivement pour la survie à J28 avec CPC1 ou CPC2). Lesdifficultés de gestion des voies aériennes ont été plus importantes dans le bras BAVU. Dans ce bras : 15,2% (156/1027) des patients ont eu des régurgitations nécessitant le recours à une intubation trachéale versus 7,5% (75/999) de régurgitations observées dans le groupe intubation [différence absolue 7,7% ; (IC) 95%, 4,9% - 10,4% ;  $p < 0,001$ ]. Dans l'essai de Wang [3], les auteurs comparaient l'utilisation d'un tube laryngé avec l'intubation trachéale chez plus de 3000 patients en ACEH aux Etats-Unis sur la survie des patients à 72h. Dans le groupe tube laryngé, le taux de survie était supérieur à celui du groupe intubation trachéale à H72 (18,2% vs 15,3%,  $p=0,04$ ). Cependant, il faut noter que le taux d'intubations trachéales réellement réussies n'était que de 51% dans cette étude pouvant expliquer la survie moindre. Le 3ème essai notable comparait la ventilation supra-glottique avec un masque laryngé de type i-gel à l'intubation trachéale réalisée par des paramedics au Royaume-Uni. Il n'y avait pas de différence sur le score de Rankin modifié à J30 parmi les 9000 patients inclus ( $mRS \leq 3$  ; 6,4% versus 6,8%,  $p=0,33$ ). A noter que la survenue de perte de la sécurité des voies aériennes était plus fréquente dans le groupe dispositif supra-glottique : 10,6% versus 5,0% dans le groupe intubation trachéale (OR 2,29 [1,86-2,82],  $p<0,01$ ) [4].
+
+Suite à la publication de ces 3 études, une méta-analyse australienne a été publiée incluant toutes les études comparant la réalisation d'une intubation trachéale avec des dispositifs supra-glottiques sur le retour à une activité cardiaque spontanée, la survie à l'admission à l'hôpital, la survie à la sortie et le devenir neurologique. A partir de 29 essais et 539 146 patients, sous réserve d'une hétérogénéité majeure des études comparées, le recours à l'intubation trachéale était associé à une augmentation significative du taux de reprise d'une activité cardiaque spontanée (OR=1,44, IC95% [1,27-1,63],  $I^2=91\%$  ;  $p<0,00001$ ) et également à une meilleure survie à l'admission (OR = 1,36 ; IC 95% = 1,12 to 1,66 ;  $I^2 = 91\%$  ;  $p = 0,002$ ). Toutefois, il n'y avait pas de différence significative à la sortie ni sur la survie, ni sur le pronostic neurologique [5].
+
+L'entraînement et l'expérience des opérateurs qui procèdent à la gestion des voies aériennes supérieures pendant la réanimation de l'arrêt cardiaque sont rarement prise en compte dans l'interprétation des essais alors qu'il s'agit probablement d'un facteur de confusion majeur dans les conclusions rapportées [6].
+
+#### Références
+
+- [1] Lou J, Tian S, Kang X, Lian H, Liu H, Zhang W et al. Airway management in out-of-hospital cardiac arrest : A systematic review and network meta-analysis [Published online ahead of print, 2022 Dec 29]. Am J Emerg Med. 2022 ; 65 :130-138. Doi : 10.1016/j.ajem.2022.12.029
+- [2] Jabre P, Penalosa A, Pinero D, Duchateau FX, Borron SW, Javaudin F et al. Effect of Bag-Mask Ventilation vs Endotracheal Intubation During Cardiopulmonary Resuscitation on Neurological Outcome After Out-of-Hospital Cardiorespiratory Arrest : A Randomized Clinical Trial. JAMA. 2018 ; 319(8) :779-787. Doi :10.1001/jama.2018.0156
+- [3] Wang HE, Schmicker RH, Daya MR, Stephens SW, Idris AH, Carlson JN, et al. Effect of a Strategy of Initial Laryngeal Tube Insertion vs Endotracheal Intubation on 72-Hour Survival in Adults With Out-of-Hospital Cardiac Arrest : A Randomized Clinical Trial. JAMA 2018 ; 320 : 769-78. <https://doi.org/10.1001/jama.2018.7044>.
+- [4] Benger JR, Kirby K, Black S, Brett SJ, Clout M, Lazaroo MJ et al. Effect of a Strategy of a Supraglottic Airway Device vs Tracheal Intubation During Out-of-Hospital Cardiac Arrest on Functional Outcome : The AIRWAYS-2 Randomized Clinical Trial. JAMA. 2018 ;320(8) : 779-791. Doi :10.1001/jama.2018.11597
+- [5] White L, Melhuish T, Holyoak R, Ryan T, Kempton H, Vlok R. Advanced airway management in out of hospital cardiac arrest : A systematic review and meta-analysis. Am J Emerg Med. 2018 ;36(12) :2298-2306. Doi : 10.1016/j.ajem.2018.09.045.
+- [6] Dyson K, Bray J, Smith K, Bernard S, Finn J. A systematic review of the effect of emergency medical service practitioners' experience and exposure to out-of-hospital cardiac arrest on patient survival and procedural performance. Resuscitation. 2014 ; 85 : 1134-41. Doi : 10.1016/j.resuscitation.2014.05.020
+
+**Question : L'intubation trachéale par rapport à l'absence d'intubation, permet-elle de réduire la morbi-mortalité chez un patient pris en charge en urgence pour un traumatisme crânien grave ?**Experts : Anne-Laure Féral-Pierssens (SFMU, Bobigny), Julien Pottecher (SFAR, Strasbourg)
+
+**R1.3.1 – Chez les patients pris en charge pour un traumatisme crânien grave, il est probablement recommandé de réaliser une intubation trachéale afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**R1.3.2 – Chez les patients pris en charge pour un traumatisme crânien grave, les experts suggèrent que la procédure d'intubation trachéale et de ventilation soit réalisée par un opérateur entraîné, et de telle sorte que la pression artérielle systolique reste constamment supérieure à 110 mmHg et que l'EtCO<sub>2</sub> soit maintenue entre 35 et 45 mmHg, afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+Un traumatisme crânien grave est un traumatisme crânien avec score de Glasgow (GCS)  $\leq 8$ . Les recommandations SFAR/SFMU de 2016 sur « La prise en charge des traumatisés crâniens graves à la phase précoce (24 premières heures) » indique le contrôle des voies aériennes par « une intubation trachéale, une ventilation mécanique et une surveillance du CO<sub>2</sub> expiré dès la prise en charge pré-hospitalière » avec un GRADE 1 [8]. Néanmoins la littérature récente sur le sujet montre des résultats contrastés, et il n'existe à ce jour aucune étude randomisée dont l'objectif principal était de comparer l'intubation préhospitalière à l'intubation intra-hospitalière chez les traumatisés crâniens graves. Dans ce contexte, et au vu de l'argumentaire développé ci-dessous, le groupe d'experts propose un GRADE 2 sur cette recommandation. Sur le critère de mortalité, deux méta-analyses récentes [1,2] ainsi que l'étude randomisée de Bernard et al. [3] ne retrouvaient pas de différence significative entre intubation préhospitalière, intubation intra hospitalière et absence d'intubation. Il est à noter qu'une méta-analyse de 2015 incluant 4772 patients retrouvait une surmortalité chez les patients avec traumatisme crânien intubés par un opérateur peu expérimenté en comparaison des patients non intubés (Odd Ratio (OR) 2,33 ; IC95% : [1,61-3,38]) [4]. Cette différence n'était pas retrouvée avec des opérateurs expérimentés. Dans cette méta-analyse, étaient considérés opérateurs expérimentés les médecins urgentistes ou anesthésistes-réanimateurs, les infirmier(e)s exclusivement dédiés aux secours préhospitaliers et comme opérateurs peu expérimentés les « paramedics » ayant une pratique irrégulière de l'intubation. Outre l'attribution arbitraire, dichotomique et a posteriori du niveau d'expérience, les résultats de cette méta-analyse doivent être modulés par la non prise en compte de paramètres tout autant influencés par l'expérience (modalités de l'induction anesthésique et de la ventilation mécanique, maintien de l'hémodynamique) qui ne sont pas pris en compte dans les résultats. L'applicabilité de ces résultats au contexte français est limitée dans la mesure où l'immense majorité des intubations préhospitalières est réalisée par des équipes expérimentées.
+
+L'étude de Denninghoff et al. [5], analyse post-hoc d'une étude prospective randomisée dans laquelle la régression logistique est ajustée sur le GCS initial, retrouvait un bénéfice de survie chez les patients intubés en préhospitalier en comparaison des patients non-intubés (OR ajusté (aOR) : 0,53 ; IC95% [0,36-0,78]). A l'inverse, l'étude rétrospective de Jung et al. [6] retrouvait une moindre survie hospitalière mais aussi à 6 mois pour les patients traumatisés crâniens intubés en préhospitalier par rapport à ceux ventilés au masque facial. Il est important de préciser que la moindre survie (hospitalière et à 6 mois) n'était observée que chez les patients hypocapniques (aOR : 0,61 [0,49-0,72] et aOR : 0,82 [0,65-0,99], respectivement) et que la proportion des patients en normo capnie était moindre chez les patients intubés et ventilés mécaniquement par rapport à ceux ventilés au masque (38,2% vs. 56,2 %). La PaCO<sub>2</sub> n'était déterminée qu'à l'arrivée àl'hôpital sur des gaz du sang artériels et le contrôle capnographique ainsi que les modalités du réglage de la ventilation mécanique ne sont pas précisées dans l'étude. Une étude prospective observationnelle néerlandaise de large effectif (n=1776 traumatisés crâniens graves, GCS médian 4 [3-7]) montrait une association forte entre valeurs d'EtCO<sub>2</sub> < 35 mmHg (mesurées après intubation trachéale et avant arrivée aux urgences) et mortalité à 30 jours (OR : 1,89 [1,53-2,34] ; p<0,001) [7]. Il n'existait pas d'association entre valeurs d'EtCO<sub>2</sub> > 45 mmHg et surmortalité. Bien que l'objectif physiologique soit une PaCO<sub>2</sub> entre 35 et 45 mmHg et que le gradient PaCO<sub>2</sub>-EtCO<sub>2</sub> habituel retrouvé chez les patients traumatisés soit aux alentours de 10 mmHg, un objectif de 30-35 mmHg d'EtCO<sub>2</sub> habituellement préconisé par les recommandations françaises [8] et américaines [9] semble trop faible à l'aune des dernières publications et un intervalle 35-45 mmHg probablement plus sécuritaire [4].
+
+L'étude de Spaite et al. [10] souligne l'importance du maintien de la normo tension pendant l'intubation trachéale et toute la prise en charge préhospitale des traumatisés crâniens graves. L'étude montrait en effet, sur un effectif de 3884 patients et à l'issue d'une analyse statistique poussée, ajustée sur les scores de gravité initiaux, une augmentation linéaire de la mortalité de 18,8% pour tout décrément de 10 mmHg de la pression artérielle systolique minimale, et ce entre 120 et 40 mmHg (aOR : 0,812 [0,748-0,883]).
+
+Concernant le devenir fonctionnel et notamment le statut neurologique à long terme (Glasgow Outcome Scale Extended ou GOSE), certaines études rétrospectives [1] et prospectives [3,5] mettent en évidence un avantage significatif à l'intubation trachéale préhospitale avec une proportion plus élevée de patients présentant un GOS-E entre 5-8 ou un GOS-E favorable à 6 mois (dichotomisé sur la sévérité initiale des lésions cérébrales dans l'étude de Denninghoff et al.). Dans une autre étude, le bénéfice fonctionnel neurologique de l'intubation trachéale préhospitale existait chez les patients qui, en plus de leur traumatisme crânien, étaient également atteints d'un traumatisme thoracique (p=0,009) ou abdominal (p=0,02) significatif (Abbreviated Injury Scale, AIS > 3 [11]). Mais aucune différence de pronostic fonctionnel n'était observée entre intubation préhospitale et intubation intra-hospitalière chez les patients sans atteinte extra-crânienne. Par rapport à l'absence complète d'intubation, l'intubation intrahospitalière des patients traumatisés crâniens dans cette même étude était associée de manière significative à un meilleur statut neurologique à 6 mois (GOSE ajusté selon les variables IMPACT) chez les patients dont le GCS était inférieur à 10 à l'arrivée aux urgences [11].
+
+#### Références
+
+- [1] Anderson J, Ebeid A, Stallwood-Hall C. Pre-hospital tracheal intubation in severe traumatic brain injury : a systematic review and meta-analysis *Br J Anaesth*. 2022 ; 129(6) : 977-984. Doi : 10.1016/j.bja.2022.07.033.
+- [2] Shafique MA, Haseeb A, Asghar B, Kumar A, Chaudhry ER, Mustafa MS. Assessing the impact of pre-hospital airway management on severe traumatic Brain injury : A systematic review and Meta-analysis. *Am J Emerg Med*. 2024 ; 78 : 188–95. <https://doi.org/10.1016/j.ajem.2024.01.030>.
+- [3] Bernard SA, Nguyen V, Cameron P, Masci K, Fitzgerald M, Cooper DJ, et al. Prehospital rapid sequence intubation improves functional outcome for patients with severe traumatic brain injury : a randomized controlled trial. *Ann Surg*. 2010 ;252(6) :959-65. Doi : 10.1097/SLA.0b013e3181efc15f.
+- [4] Bossers SM, Schwarte LA, Loer SA, Twisk JWR, Boer C, Schober P. Experience in Prehospital Endotracheal Intubation Significantly Influences Mortality of Patients with Severe Traumatic Brain Injury : A Systematic Review and Meta-Analysis. *PLoS One*. 2015 ; 10 : e0141034. doi.org/10.1371/journal.pone.0141034.
+- [5] Denninghoff KR, Nuño T, Pauls Q, Yeatts SD, Silbergleit R, Palesch YY, et al. Prehospital Intubation is Associated with Favorable Outcomes and Lower Mortality in ProTECT III. *Prehosp Emerg Care*. 2017 ; 21(5) : 539-544. Doi : 10.1080/10903127.2017.1315201.
+- [6] Jung E, Cho YS, Ryu SJ, Kim DK, Lee JH, Han JH. The impact of prehospital endotracheal intubation on mortality in traumatic brain injury. *Am J Emerg Med*. 2022 ; 55 :152-156. Doi : 10.1016/j.ajem.2022.02.001.
+- [7] Bossers SM, Mansveld F, Loer SA, Boer C, Bloemers FW, and BRAIN-PROTECT Collaborators. Association between prehospital end-tidal carbon dioxide levels and mortality in patients with suspected severe traumatic brain injury. *Intensive Care Med*. 2023 Apr 19. Doi : 10.1007/s00134-023-07012-z.[8] Geeraerts T, Velly L, Abdennour L, Asehnoune K, Audibert G, Bouzat P et al. Prise en charge des traumatisés crâniens graves à la phase précoce (24 premières heures) *Anesth Reanim.* 2016 ; 2 : 431–453. Doi : 10.1016/j.anrea.2016.09.007.
+
+[9] Carney N, Totten AM, O'Reilly C, Ullman JS, Hawrylyuk GW, Bell MJ, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. *Neurosurgery.* 2017 Jan 1 ; 80(1) :6-15. Doi : 10.1227/NEU.0000000000001432.
+
+[10] Spaite DW, Hu C, Bobrow BJ, Chikani V, Sherrill D, Barnhart B, et al. Mortality and Prehospital Blood Pressure in Patients with Major Traumatic Brain Injury : Implications for the Hypotension Threshold. *JAMA Surg.* 2017 ;152(4) :360-368. Doi : 10.1001/jamasurg.2016.4686.
+
+[11] Gravesteijn BY, Sewalt CA, Nieboer D, Menon DK, Maas A, Lecky F, et al. Tracheal intubation in traumatic brain injury : a multicentre prospective observational study. *Br J Anaesth.* 2020 ;125(4) : 505-517. Doi : 10.1016/j.bja.2020.05.067.
+
+**Question : L'intubation trachéale est-elle susceptible de réduire la morbi-mortalité chez un patient pris en charge en urgence pour une obstruction des voies aériennes supérieures (VAS) et/ou du plan glottique ?**
+
+*Experts : Anne-Laure Féral-Pierssens (SFMU, Bobigny), Julien Pottecher (SFAR, Strasbourg)*
+
+**ABSENCE DE RECOMMANDATION - Du fait de la multiplicité des étiologies possibles d'une obstruction des voies aériennes supérieures et de l'absence de données de haut niveau de preuve, il n'est pas possible dans ce contexte d'émettre des recommandations sur l'indication d'une intubation trachéale pour améliorer la morbi-mortalité.**
+
+**ABSENCE DE RECOMMANDATION**
+
+**R 1.4 – Chez tous les adultes pris en charge en urgence pour une obstruction des voies aériennes supérieures (VAS) et/ou du plan glottique, il est recommandé de prioriser la libération des voies aériennes et l'oxygénation afin de diminuer la morbi-mortalité.**
+
+**GRADE 1 (Accord Fort)**
+
+**Argumentaire :**
+
+Les causes (mécaniques, traumatiques, infectieuses, allergiques ou tumorales) d'obstruction des voies aériennes supérieures sont multiples et s'accompagnent de présentations cliniques différentes selon que l'obstruction est sus-glottique, glottique ou sous-glottique [1]. Les données de la littérature sur le sujet sont rares, de niveau méthodologique faible et n'autorisent le plus souvent que des avis d'experts qui, néanmoins, peuvent s'avérer utiles en situation urgente. Certaines obstructions, même sévères, peuvent ne pas nécessiter d'abord instrumental des voies aériennes supérieures en première intention. C'est le cas par exemple de l'œdème angioneurotique qui, s'il est reconnu précocement comme tel, peut s'amender rapidement sous l'effet d'un traitement médicamenteux spécifique par inhibiteur de la voie de la fraction C1 du complément (icatibant 30 mg SC et/ou C1 inhibiteur 20 UI/kg IVL). Il en est de même avec l'anaphylaxie et l'adrénaline. Ces traitements médicamenteux peuvent cependant s'avérer insuffisants ou de mise en place trop tardive pouvant conduire en intrahospitalier, à un abord instrumental des VAS de type abord fibroscopique ou mixte (vidéo-laryngoscopie avec fibroscopie) rapidement suivi par un abord chirurgical direct de la membrane crico-thyroïdienne en cas d'échec ou de dégradation clinique du patient [2]. Dans ces situations particulièrement délicates, les compétences chirurgicales (chirurgien ORL, maxillo-facial...) doivent être anticipées au chevet du patient.De manière générale, certains principes simples doivent être respectés pour minimiser les risques d'hypoxémie et maximaliser les chances de sécurisation des voies aériennes supérieures [3] :
+
+- - Tenter de lever l'obstruction, lorsque cela est possible (corps étranger pharyngé par exemple)
+- - Oxygéner le patient pendant toute la durée de la procédure. Dans ce cas précis, l'oxygénéthérapie nasale à haut débit pourrait constituer une aide précieuse [4,5]. Maintenir le patient en position proclive, dans la mesure du possible, ne pas le déplacer mais rassembler rapidement les moyens matériels et humains à son chevet.
+- -Demander de l'aide, regrouper le matériel nécessaire à une intubation difficile ainsi qu'à la réanimation et confier l'intubation à l'opérateur le plus compétent.
+- - Identifier et marquer sur le cou du patient la membrane crico-thyroïdienne
+- - Ne débuter la procédure qu'une fois tous les éléments matériels et humains rassemblés
+- -Anticiper et partager avec les membres de l'équipe les différentes phases et les approches successives, notamment en cas d'échec de la première tentative
+- -Lorsque l'obstruction des VAS s'accompagne d'un saignement (facial, nasal, pharyngé), utiliser une canule d'aspiration rigide de gros diamètre (type Yankauer), assurer une hémostase mécanique locale (packing, ballonnet de tamponnement nasal) et systémique (anti fibrinolytique, produits sanguins labiles et adjuvants hémostatiques).
+
+Dans les situations de saignement, les dispositifs supra-glottiques (DSG) constituent une solution d'oxygénation provisoire salutaire mais ils n'assurent pas une isolation suffisante des voies aériennes inférieures et peuvent rendre impossible l'hémostase chirurgicale en raison de l'encombrement pharyngolaryngé qu'ils provoquent. Dans ces situations, une fois l'oxygénation et la ventilation obtenues par DSG, une intubation guidée par le fibroscopie, à travers le DSG, peut finaliser la sécurisation des VAS.
+
+Chez le patient victime de brûlure de la région cervicale et/ou des voies aériennes supérieures, la RPP « Prise en charge du brûlé grave à la phase aiguë chez l'adulte et l'enfant » de 2019 abordait la question de l'intubation [6]. Dans cette RPP (recommandation R3.1.2), les experts suggéraient de ne pas intuber systématiquement un patient avec une brûlure du visage ou du cou mais d'intuber les patients présentant l'association d'une brûlure intéressant la totalité du visage et de l'une des situations suivantes :
+
+1. 1) une brûlure profonde et circulaire du cou et/ou
+2. 2) des symptômes d'obstruction des voies aériennes débutants ou installés (i.e. modification de la voix, stridor, dyspnée laryngée) et/ou
+3. 3) une brûlure très étendue (i.e. surface cutanée brûlée  $\geq 40\%$ ).
+
+#### Références
+
+- [1] Eskander A, de Almeida JR, Irish JC. Acute Upper Airway Obstruction. *N Engl J Med*. 2019 ; 381(20) :1940-1949. Doi : 10.1056/NEJMra1811697.
+- [2] Chrimes N, Higgs A, Rehak A. Lost in transition : the challenges of getting airway clinicians to move from the upper airway to the neck during an airway crisis. *Br J Anaesth*. 2020 Jul ;125(1) : e38-e46. Doi : 10.1016/j.bja.2020.04.052.
+- [3] Kristensen MS, McGuire B. Managing and securing the bleeding upper airway : a narrative review. *Can J Anaesth*. 2020 ;67(1) :128-140. English. Doi : 10.1007/s12630-019-01479-5.
+- [4] Patel A, Nouraei SAR. Transnasal Humidified Rapid-Insufflation Ventilatory Exchange (THRIVE) : a physiological method of increasing apnoea time in patients with difficult airways. *Anaesthesia*. 2015 Mar ;70(3) :323-9. Doi : 10.1111/anae.12923.
+- [5] Jun-Young Jo, Jungpil Yoon, Heeyoon Jang, Wook-Jong Kim, Seungwoo Ku, Seong-Soo Choio. Comparison of preoxygenation with a high-flow nasal cannula and a simple face mask before intubation in Korean patients with head and neck cancer. *Acute Crit Care*. 2024 Feb ;39(1) : 61-69. Doi : 10.4266/acc.2022.01543.
+- [6] Legrand M, Barraud D, Constant I, Devauchelle P, Donat N, Fontaine M, et al. Management of severe thermal burns in the acute phase in adults and children. *Anaesth Crit Care Pain Med* 2020 ; 39 : 253-67. <https://doi.org/10.1016/j.accpm.2020.03.006>.**Question : L'intubation trachéale est-elle susceptible d'augmenter la morbi-mortalité chez un patient pris en charge en urgence pour un traumatisme thoracique pénétrant ?**
+
+*Experts : Julie Contenti (SFMU, Nice), Olivier Langeron (SFAR, Brest)*
+
+**R1.5.1 – Les experts suggèrent de ne pas avoir recours à l'intubation trachéale systématique lors de la prise en charge d'un traumatisme thoracique pénétrant, afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R 1.5.2 – En présence d'un traumatisme thoracique pénétrant, lorsque l'intubation est nécessaire, les experts suggèrent d'éliminer la présence d'un pneumothorax à exsuffler ou à drainer avec les moyens disponibles afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+Les recommandations de 2015 « Traumatisme thoracique : prise en charge des 48 premières heures » indiquent d'orienter directement sur un centre disposant d'un plateau technique spécialisé, les patients qui présentent un traumatisme pénétrant de l'aire cardiaque (stable ou instable) ou du thorax avec un état circulatoire ou respiratoire instable ou stabilisé (recommandation R.7.A) [1]. Dans un travail rétrospectif datant de 2013, le facteur temps avant l'admission hospitalière, apparaissait comme un élément primordial dans la gestion des traumatismes pénétrants, avec si la durée de prise en charge sur la scène de l'accident était supérieure à 20 minutes une augmentation du risque de mortalité intrahospitalière [OR=2,90 (95%IC 1,09-7,74)] [2]. Concernant le pronostic des traumatismes thoraciques, il est important de préciser qu'un tiers des patients qui vont décéder présentent un mécanisme pénétrant [3]. A ce jour aucune étude de haut niveau de preuve ne s'est intéressée à l'impact sur la morbi-mortalité de l'intubation oro-trachéale lors d'un traumatisme thoracique pénétrant. Une seule étude de cohorte rétrospective a comparé l'impact, sur la mortalité intrahospitalière, de l'intubation oro-trachéale avec ventilation mécanique versus une ventilation assistée à l'aide d'un masque facial et d'un ballon auto-remplisseur à valve unidirectionnelle (BAVU) chez des patients traumatisés transportés dans un trauma center de niveau I [4]. Dans cette cohorte de 533 patients bénéficiant d'un support ventilatoire en préhospitalier (intubation oro-trachéale (IOT) versus ventilation assistée avec un masque et BAVU), 277 patients étaient victimes de traumatismes pénétrants. Dans le sous-groupe des patients victimes d'un traumatisme thoracique pénétrant, stratifiés selon leur niveau de sévérité (score ISS), la mortalité des patients ventilés après IOT était supérieure à celle des patients assistés avec un masque-BAVU (ISS<13 : 95,7% vs 38,9% p<0,0001 ; ISS 13-24 : 92,3% vs 31,6% p<0,0001 ; ISS>24 : 97,2% vs 83,9% p=0,0247). La pression positive intrathoracique liée à la mise en place d'une ventilation mécanique est susceptible d'aggraver un pneumothorax, ce qui pourrait expliquer une surmortalité dans cette population. De fait, en cas d'indication claire à l'intubation trachéale (ex : hypoxémie réfractaire, épuisement respiratoire, traumatisme crânien grave), il semble alors nécessaire d'éliminer un pneumothorax préexistant à exsuffler ou à drainer.
+
+**Références**
+
+[1] Société française d'anesthésie et de réanimation, Société française de médecine d'urgence. Traumatisme thoracique : prise en charge des 48 premières heures. Anesth Reanim. 2015 ; 1 : 272–287. Doi : 10.1016/j.anrea.2015.01.003.[2] McCoy CE, Menchine M, Sampson S, Anderson C, Kahn C. Emergency medical services out-of-hospital scene and transport times and their association with mortality in trauma patients presenting to an urban Level I trauma center. *Ann Emerg Med.* 2013 ; 61 : 167–74. <https://doi.org/10.1016/j.annemergmed.2012.08.026>.
+
+[3] Prokakis C, Koletsis EN, Dedeilias P, Fligou F, Filos K, Dougenis D. Airway trauma : a review on epidemiology, mechanisms of injury, diagnosis and treatment. *J Cardiothorac Surg.* 2014 ; 9 : 117. <https://doi.org/10.1186/1749-8090-9-117>.
+
+[4] Stockinger ZT, McSwain NE. Prehospital endotracheal intubation for trauma does not improve survival over bag-valve-mask ventilation. *J Trauma.* 2004 ; 56 : 531–6. <https://doi.org/10.1097/01.ta.0000111755.94642.29>.
+
+**Question : L'intubation trachéale est-elle susceptible d'augmenter la morbi-mortalité chez un patient pris en charge en urgence pour un choc hémorragique ?**
+
+*Experts : Anne-Laure Féral-Pierssens (SFMU, Bobigny), Julien Pottecher (SFAR, Strasbourg)*
+
+**R1.6 – Chez un patient en état de choc hémorragique, il n'est probablement pas recommandé d'intuber sur la seule indication du choc en l'absence d'autres indications formelles (neurologique, respiratoire), et ce même s'il existe une indication opératoire sous anesthésie générale à courte échéance, afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**Argumentaire :**
+
+Le patient en état de choc hémorragique présente une diminution importante du transport artériel en oxygène ( $TaO_2$ ) sous l'effet combiné d'une diminution du débit cardiaque et de l'anémie aiguë. Dans le contexte du choc hémorragique traumatique, une des finalités théoriques de l'intubation trachéale et de la ventilation mécanique est d'assurer respectivement la liberté des voies aériennes supérieures et la ventilation pulmonaire par un mélange enrichi en oxygène afin de maximiser la pression partielle en oxygène ( $PaO_2$ ) pour tenter de corriger partiellement le  $TaO_2$  [1]. Dans la situation d'un choc hémorragique par hémorragie digestive haute et notamment lorsque l'état de conscience est altéré, l'intubation trachéale aurait également le bénéfice potentiel de protéger d'une inhalation de sang.
+
+Ces avantages théoriques sont contrebalancés par les effets indésirables de l'induction anesthésique, de la sédation et de la ventilation en pression positive sur le retour veineux et l'hémodynamique.
+
+Les études cliniques menées chez des patients en choc hémorragique traumatique sont toutes rétrospectives mais leurs résultats sont concordants et mettent en évidence une fréquence plus importante d'effets indésirables, même après correction et ajustement statistique sur des scores de gravité variés :
+
+- - recours plus important à l'expansion volémique et aux vasopresseurs [2,3]
+- - durée de prise en charge préhospitale prolongée [2,3]
+- - dégradation plus importante des variables d'hémostase biologique [2, 3]
+- - augmentation de la mortalité (aOR 3,41 [1,35-8,59]) [4]
+
+Même dans le cas particulier des patients victimes d'hémorragie digestive haute, l'intubation trachéale s'accompagne d'une fréquence plus importante (20% vs. 6% ;  $p=0,012$ ) « d'événements cardiopulmonaires non prévus », critère composite incluant : pneumonie, œdème pulmonaire, SDRA, choc persistant, arythmie, infarctus du myocarde et arrêt cardiaque par rapport à l'absence d'IOT [5].
+
+Une étude rétrospective récente, concernant le contexte préhospitalier, a mis en évidence que l'hypotension artérielle liée à l'induction anesthésique et préalable à l'intubation trachéale constitue un facteur de risque majeur de collapsus cardiovasculaire au cours de l'intubation [6].L'augmentation de la morbidité et de la mortalité chez les patients en choc hémorragique intubés était notamment retrouvée lorsque l'état de choc était la seule indication d'intubation retenue [2, 4]. En cas d'indication formelle à une intubation trachéale précoce (ex : traumatisme crânien grave), il apparaît probablement nécessaire d'envisager la mise en place de mesures permettant le maintien d'une hémodynamique satisfaisante (expansion volémique, noradrénaline).
+
+#### Références
+
+- [1] Hudson AJ, Strandenes G, Bjerkvig CK, Svanevik M, Glassberg E. Airway and ventilation management strategies for hemorrhagic shock. To tube, or not to tube, that is the question ! J Trauma Acute Care Surg. 2018 ;84(6S Suppl 1) : S77-S82. Doi : 10.1097/TA.00000000000001822.
+- [2] Stausberg T, Ahnert T, Thouet B, Lefering R, Böhm A, Brockamp T, et al. Endotracheal intubation in trauma patients with isolated shock : universally recommended but rarely performed. Eur J Trauma Emerg Surg. 2022 ;48(6) :4623-4630. Doi : 10.1007/s00068-022-01988-x.
+- [3] Hussmann B, Lefering R, Waydhas C, Ruchholtz S, Wafaisade A, Kauther MD, et al. Prehospital intubation of the moderately injured patient : a cause of morbidity ? A matched-pairs analysis of 1,200 patients from the DGU Trauma Registry. Crit Care. 2011 ;15(5) : R207. Doi : 10.1186/cc10442.
+- [4] Chou D, Harada MY, Barmparas G, Ko A, Ley EJ, Margulies DR, et al. Field intubation in civilian patients with hemorrhagic shock is associated with higher mortality. J Trauma Acute Care Surg. 2016 ;80(2) :278-82. Doi : 10.1097/TA.0000000000000901.
+- [5] Hayat U, Lee PJ, Ullah H, Sarvepalli S, Lopez R, Vargo JJ. Association of prophylactic endotracheal intubation in critically ill patients with upper GI bleeding and cardiopulmonary unplanned events. Gastrointest Endosc. 2017 ;86(3) :500-509.e1. Doi : 10.1016/j.gie.2016.12.008.
+- [6] Halliday SJ, Casey JD, Rice TW, Semler MW, Janz DR, Russell DW, et al. Risk Factors for Cardiovascular Collapse during Tracheal Intubation of Critically Ill Adults. Ann Am Thorac Soc. 2020 ;17(8) :1021-1024. Doi : 10.1513/AnnalsATS.201912-894RL.
+
+## **CHAMP 2. Intubation trachéale : Check-list, matériel, formation**
+
+**Question : L'utilisation systématique d'une check-list ou d'aides cognitives diminue-t-elle la morbi-mortalité au cours d'une l'intubation trachéale en situation d'urgence ?**
+
+*Experts : Karine Nouette-Gaulain (SFAR, Bordeaux), Amélie Vromant (SFMU, Lille)*
+
+**ABSENCE DE RECOMMANDATION - Les experts ne sont pas en mesure d'émettre une recommandation concernant l'impact de l'utilisation d'une check-list ou de l'utilisation d'aides cognitives au cours de l'intubation en situation d'urgence (hors bloc opératoire ou hors soins critiques) sur la réduction de la morbi-mortalité.**
+
+#### **ABSENCE DE RECOMMANDATION**
+
+#### **Argumentaire :**
+
+La check-list est un outil issu des protocoles de l'aviation. L'utilisation d'une check-list ou d'aides cognitives concernant l'intubation dans les situations urgentes est récente. Les données de la littérature concernant l'apport d'une check-list ou des aides cognitives pour l'intubation en urgence d'un patient adulte, hors bloc opératoire ou hors structure de réanimation sont inexistantes à ce jour. La seule étude publiée en médecine d'urgence extrahospitalière a montré un intérêt dans la prise en charge du patient traumatisé, mais elle ne s'est pas spécifiquement intéressée à l'intubation [1]. Les données concernant l'utilisation d'une check-list pour l'intubation au bloc opératoire ou en soins critiques sont hétérogènes, essentiellementobservationnelles. Une revue systématique et méta-analyse (basée sur une étude clinique randomisée et sur dix études observationnelles) concluait que l'utilisation d'une check-list lors de l'intubation oro-trachéale en contexte d'urgence n'était pas associée à une amélioration des paramètres cliniques pendant et après l'intubation endotrachéale [2]. Les autres études disponibles en situation clinique sont essentiellement des études en simulation avant/après et des séries de cas, elles ne mettaient pas en évidence un intérêt à l'utilisation d'une check-list pour diminuer l'incidence des hypoxémies ou hypotensions [3].
+
+#### Références
+
+[1] Lefevre M, Blasoupramanien K, Galant J, Vidal P-O, Van Overbeek B, Meyrand D et al. Effect of the implementation of a checklist in the prehospital management of traumatised patient. Am J Emerg Med. 2023 ; 72 :113-21. Doi : 10.1016/j.ajem.2023.07.034.
+
+[2] Turner JS, Bucca AW, Propst SL, Ellender TJ, Sarmiento EJ, Menard LM et al. Association of checklist use in endotracheal intubation with clinically important outcomes : A systematic review and meta-analysis. JAMA Netw Open. 2020 ; 3 : e209278. Doi : 10.1001/jamanetworkopen.2020.9278.
+
+[3] Forristal C, Hayman K, Smith N, Mal S, Columbus M, Farooki N et al. Does utilization of an intubation safety checklist reduce omissions during simulated resuscitation scenarios : a multi-center randomized controlled trial. CJEM. 2021 ; 23 :45-53. Doi : 10.1007/s43678-020-00010-w.
+
+**Question : Existe-t-il des conditions matérielles minimales permettant de réduire la morbi-mortalité au cours d'une intubation trachéale en situation d'urgence ?**
+
+*Experts : Karine Nouette-Gaulain (SFAR, Bordeaux), Amélie Vromant (SFMU, Lille)*
+
+**R 2.2.1 – En pré et en intrahospitalier lors d'une procédure d'intubation trachéale en urgence, hors bloc opératoire et soins critiques, chez un adulte, les experts suggèrent d'avoir immédiatement disponibles (fonctionnels et vérifiés) les moyens matériels suivants afin de diminuer la morbi-mortalité**
+
+- ● Masques faciaux (Taille 3 à 5)
+- ● Ballon Auto remplisseur à Valve Unidirectionnelle (BAVU)
+- ● Système d'aspiration avec canule adaptée de gros calibre
+- ● Source d'oxygène
+- ● Canules oropharyngées (type « canule de Guedel ») (taille 3 et 4)
+- ● Sonde d'intubation (tailles 5 à 8)
+- ● Laryngoscope direct type Macintosh (lame 3 et 4)
+- ● Vidéolaryngoscope
+- ● Capnographe
+- ● Stylet rigide
+- ● Mandrin long béquillé
+- ● Pince guide (« type pince de Magill »)
+- ● Dispositif supraglottique permettant une intubation
+- ● Kit de crico-thyrotomie pour technique avec Scalpel, Mandrin long béquillé et Sonde d'intubation (technique SMS)
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R 2.2.2 – Les experts suggèrent d'avoir à disposition immédiate le matériel d'intubation difficile afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)****Argumentaire :**
+
+La présence d'un kit regroupant les conditions matérielles minimales n'est pas un paramètre étudié pour améliorer la morbi-mortalité en situation d'urgence. Les différents algorithmes concernant l'intubation en urgence publiés dans la littérature permettent de répondre aux conditions d'intubation et de ventilation difficiles [1, 2]. Les dispositifs regroupés dans le kit sont étudiés séparément et leur impact sur la morbi-mortalité au cours d'une intubation en urgence est évalué. Ces résultats sont principalement décrits dans le champ 3 de ces recommandations.
+
+La composition du kit résulte des besoins décrits dans les algorithmes et des conditions d'exercice. En intra-hospitalier, hors bloc opératoire et soins critiques, la fibroscopie bronchique garde sa place lorsqu'elle est disponible avec un opérateur compétent si l'intubation paraît impossible avec les techniques usuelles [1, 2].
+
+**Références**
+
+[1] Langeron O, Bourgain J-L, Francon D, Amour J, Baillard C, Bouroche G, et al. Intubation difficile et extubation en anesthésie chez l'adulte. *Anesthésie & Réanimation* 2017 ; 3(6):552-71. <https://doi.org/10.1016/j.anrea.2017.09.003>  
+[2] Quintard H, l'Her E, Pottecher J, Adnet F, Constantin J-M, Dejong A, et al. Intubation et extubation du patient de réanimation. *Anesthésie & Réanimation* 2018 ; 4(6) : 523-47. <https://doi.org/10.1016/j.anrea.2018.08.004>
+
+**Question : Faut-il recueillir des critères prédictifs d'intubation difficile afin de réduire la morbi-mortalité avant une intubation en situation d'urgence ?**
+
+*Experts : Michel Galinski (SFMU, Bordeaux), Hervé Quintard (SFAR, Genève)*
+
+**R2.3.1 – Il est probablement recommandé de considérer d'emblée l'intubation trachéale en urgence hors bloc opératoire et soins critiques comme une intubation potentiellement difficile afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**R2.3.2 – Il n'est probablement pas recommandé d'utiliser systématiquement les scores prédictifs d'intubation difficile développés pour les situations d'urgence (score LEMON, score HEAVEN, score PreDAIT...) afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**Argumentaire :**
+
+L'intubation trachéale en contexte d'urgence est associée dans 15 à 30% des cas à des événements indésirables graves (EIG) comme l'hypoxémie, l'arrêt cardio-respiratoire, le collapsus, les vomissements et l'inhalation [1-5]. Le risque de complication augmente avec le nombre de tentatives d'intubation [3,6].
+
+Une intubation trachéale est dite difficile si elle nécessite plus de deux laryngoscopies et/ou la mise en œuvre d'une technique alternative après optimisation de la position de la tête, avec ou sans manipulation laryngée externe [7]. Il existe plusieurs scores développés pour tenter de prédire l'intubation difficile en contexte d'urgence (score LEMON, score HEAVEN, score PreDAIT) [8-10]. Ces scores ont des performances variables avec, soit une très bonne sensibilité, soit une très bonne spécificité. Mais la limite principale est que beaucoup des signes recherchés ne sont appréciables qu'au moment de la réalisation du geste. D'ailleurs, lors des études prospectives réalisées pour tester la performance de ces scores, l'enregistrement des critères n'avait été fait qu'après l'intubation. Ceci obère grandement l'intérêt prédictif de ces scores.En préhospitalier, les facteurs de risque associés à des événements indésirables graves (EIG) lors d'une intubation orotrachéale (IOT) sont un score de Cormack et Lehane grade 3 et 4, une intubation difficile, un BMI > 30, et les intubations ayant requis plus d'un opérateur [5]. La multiplicité des situations fait qu'il est licite de considérer une intubation trachéale comme a priori difficile en préhospitalier. Les variables associées au risque d'intubation difficile (quelle qu'en soit la définition) concernent l'opérateur, le patient, l'indication et les circonstances de réalisation du geste pour l'extrahospitalier. L'expérience de l'opérateur est corrélée au nombre de tentatives d'intubation et au risque de survenue d'un EIG. Elle est abordée dans la question « Existe-t-il un niveau d'expérience minimal de l'opérateur permettant de réduire la morbid-mortalité au cours d'une intubation en situation d'urgence ? ». La présence d'une tumeur ORL ou de façon plus générale une obstruction au niveau des voies aériennes supérieures est un facteur fréquemment retrouvé comme facteur de difficulté d'intubation [4,11-14]. La présence de vomissement, de sang ou de liquide au niveau des voies aériennes supérieures a été également souvent rapportée comme facteur de difficulté d'intubation [8,12,14,15]. On peut y associer le traumatisme facial [14]. D'autres éléments d'ordre anatomique comme l'ouverture de bouche (ou l'espace inter-incisive), la limitation d'extension de la tête, la distance hyoïde-menton, la distance thyroïde-hyoïde l'impossibilité de palper des repères cervicaux, ou la macroglossie ont aussi été associés au risque d'intubation difficile dans différents travaux [8,9,12,13,17,18]. L'influence de l'obésité sur la qualité de l'intubation a été souvent étudiée. Une étude observationnelle prospective multicentrique réalisée dans plusieurs services d'urgence au Japon chez 6.889 patients intubés avait montré que le surpoids et l'obésité étaient associés à des taux de succès de la première tentative d'intubation significativement plus bas [19]. Ce travail montrait aussi une augmentation du risque d'événements indésirables chez les patients obèses. D'autres études plus modestes ont retrouvé ce lien [6,17,20,21]. Comme le souligne les RFE de 2016 sur l'intubation et l'extubation en réanimation un des problèmes majeurs associés à l'obésité comme chez la femme enceinte est la diminution de la capacité résiduelle respiratoire qui expose les patients à un risque élevé d'hypoxémie lors de la réalisation du geste [22]. Ceci est illustré par le travail décrit plus haut montrant une augmentation des complications péri-intubation [19]. La position du patient (au sol ou non) et / ou de l'opérateur (allongé, à genou ou debout) en extrahospitalier, peut avoir un impact sur la qualité de l'intubation [11,13,23]. Des éléments physiologiques comme l'hypoxémie ou l'hypotension artérielle ont aussi été associés au risque de difficulté d'intubation et leur correction avant le geste améliore d'ailleurs sa qualité [18, 24].
+
+#### Références
+
+- [1] Jabre P, Avenel A, Combes X, Kulstad E, Mazariegos I, Bertrand L et al. Morbidly related to emergency endotracheal intubation – a substudy of the KETAmine SEDation trial. *Resuscitation*. 2011 ; 82 (5) : 517-522. Doi : 10.1016/j.resuscitation.2011.01.015.
+- [2] Mort TC. Emergency tracheal intubation : complications associated with repeated laryngoscopic attempts. *Anesth Analg*. 2004 ;99(2) :607-13. Doi : 10.1213/01.ANE.0000122825.04923.15.
+- [3] Sakles JC, Chiu S, Mosier J, Walker C, Stolz U. The importance of first pass success when performing orotracheal intubation in the emergency department. *Acad Emerg Med*. 2013 ; 20 (1) :71-78. Doi : 10.1111/acem.12055.
+- [4] Nicol T, Gil-Jardiné C, Jabre P, Adnet F, Ecollan P, Guihard B et al. Incidence, complications, and factors associated with out-of-hospital first attempt intubation failure in adult patients : a secondary analysis of the CURASMUR trial data. *Prehosp Emerg Care*. 2022 ; 26 :280-285. Doi : 10.1080/10903127.2021.1891357.
+- [5] Le Bastard Q, Pes P, Leroux P, Penverne Y, Jenvrin J, Montassier E. Factors associated with tracheal intubation-related complications in the prehospital setting : a prospective multicentric cohort study. *Eur J Emerg Med*. 2023 ; 30 :163-170. Doi : 10.1097/MEJ.0000000000001010.
+- [6] Hasegawa K, Shigemitsu K, Hagiwara Y, Chiba T, Watase H, Brown III CA, et al. For the Japanese Emergency Medicine Research alliance investigators. Association between repeated intubation attempts and adverse events in emergency departments : an analysis of a multicenter prospective observational study. *Ann Emerg Med*. 2012 ; 60 : 749-754. Doi : 10.1016/j.annemergmed.2012.04.005.[7] Société française d'anesthésie et de réanimation. Intubation difficile. Conférence d'experts. SFAR 2006. Texte long. *Ann Fr Anesth Reanim* 2007 ; 27 : 3-62.
+
+[8] Carlson JN, Hostler D, Guyette FX, Pinchalk M, Martin-Gil C. Derivation and validation of the prehospital difficult airway identification tool (PreDAIT) : A predictive model for difficult intubation. *West J Emerg Med.* 2017 ; 18(4) : 662-72. Doi : 10.5811/westjem.2017.1.32938.
+
+[9] Nausheen F, Niknafs NP, MacLean DJ, Olvera DJ, Wolfe Jr AC, Pennington TW et al. The HEAVEN criteria predict laryngoscopic view and intubation success for both direct and video laryngoscopy : a cohort analysis. *Scand J Trauma Emerg Med.* 2019 ; 27 : 50. Doi : 10.1186/s13049-019-0614-6.
+
+[10] Hagiwara Y, Watase H, Okamoto H, Goto T, Hasegawa K. Prospective validation of the modified LEMON criteria to predict difficult intubation in the ED. *Am J Emerg Med* 2015 ; 33 : 1492-6. Doi : 10.1016/j.ajem.2015.06.038.
+
+[11] Combes X, Jabre P, Jbeilli C, Leroux B, Bastuji-Garin S et al. Prehospital standardization of medical airway management : Incidence and risk factors of difficult airway. *Acad Emerg Med.* 2006 ; 13(8) : 828-34. Doi : 10.1197/j.aem.2006.02.016.
+
+[12] Galinski M, Wrobel M, Boyer R, Reuter PG, Ruscev M, Debaty G et al. Risk factors for failed first intubation attempt in an out-of-hospital setting : A multicentre prospective study. *Intern Emerg Med* 2022 Oct 19. Doi : 10.1007/s11739-022-03120-8. Online ahead of print. PMID : 36261758.
+
+[13] Freund Y, Duchateau FX, Devaud ML, Ricard-Hibon A, Juvin P et al. Factors associated with difficult intubation in prehospital emergency medicine. *Eur J Emerg Med.* 2012 ; 19(5) : 304-8. Doi : 10.1097/MEJ.0b013e32834d3e4f.
+
+[14] Gaither JB, Stolz U, Ennis J, Moiser J, Sakles JC. Association between difficult airway predictors and failed prehospital endotracheal intubation. *Air Med J.* 2015 ; 34 : 343-347. Doi : 10.1016/j.amj.2015.06.001.
+
+[15] Powell EK, Hinckley WR, Stolz U, Golden AJ, Ventura A, McMullan JT. Predictors of definitive airway sans hypoxia/hypotension on first attempt (DASH-1A) success in traumatically injured patients undergoing prehospital intubation. *Prehosp Emerg Care.* 2020 ; 24 : 470-477. Doi : 10.1080/10903127.2019.1670299.
+
+[16] Helm M, Hossfeld B, Schafer S, Hoitz J, Lampl L. Factors influencing emergency intubation in the prehospital setting – a multicenter study in the german helicopter emergency medical service. *Br J Anaesth.* 2006 ; 96 : 67-71. Doi : 10.1093/bja/aei275.
+
+[17] Soyuncu S, Eken C, Cete Y, Bektas F, Akcimen M. Determination of difficult intubation in the ED. *Am J Emerg Med* 2009 ; 27 : 905-910. Doi : 10.1016/j.ajem.2008.07.003.
+
+[18] Pacheco GS, Hurst NB, Patanwala AE, Hypes C, Mosier JM, Sakles JC. First pass success without adverse events is reduced equally with anatomically difficult airways and physiologically difficult airways. *West J Emerg Med* 2021 ; 22 : 360-8. Doi : 10.5811/westjem.2020.10.48887.
+
+[19] Yakushiji H, Goto T, Shirasaka W, Hagiwara Y, Watase H, Okamoto H et al. Association of obesity with tracheal intubation success on first attempt and adverse events in the emergency department : an analysis of the multicenter prospective observational study in Japan. *PLoS One* 2018 13(4) : e0195938. Doi : 10.1371/journal.pone.0195938.eCollection 2018.
+
+[20] Adnet F, Borron SW, Racine SX, Clemessy, Fournier JL et al. The intubation difficulty scale (IDS) : proposal and evaluation of new score characterizing the difficulty of endotracheal intubation. *Anesthesiology.* 1997 ; 87 : 1290 -7. Doi : 10.1097/00000542-199712000-00005.
+
+[21] Dargin JM, Emlet LL, Guyette FX. The effect of body mass index on intubation success rates and complications during emergency airway management. *Intern Emerg Med.* 2013 ; 8 : 75-82. Doi : 10.1007/s11739-012-0874-x.
+
+[22] Quintard H, l'Her E, Pottecher J, et al (2019) Experts' guidelines of intubation and extubation of the ICU patient of French Society of Anaesthesia and Intensive Care Medicine (SFAR) and French Speaking Intensive Care Society (SRLF): in collaboration with the pediatric association of French-speaking anaesthetists and intensivists (ADARPEF), French-speaking group of care and paediatric emergencies (GFRUP) and intensive care physiotherapy society (SKR). *Ann Intensive Care.* 2019 ; 9(1) : 13. Doi : 10.1186/s13613-019-0483-1.
+
+[23] Adnet F, Cydulka RK, Lapandry C. Emergency tracheal intubation of patients lying supine on the ground : influence of operator body position. *Can J Anaesth.* 1998 ; 45 : 266-9. Doi : 10.1007/BF03012914.
+
+[24] Davis DP, Lemieux J, Serra J, Koenig W, Aguilar SA. Preoxygenation reduces desaturation events and improves intubation success. *Air Med J.* 2013 ; 34 : 82-85. Doi : 10.1016/j.amj.2014.12.007.
+
+**Question : Existe-t-il un niveau d'expérience minimal de l'opérateur permettant de réduire la morbi-mortalité au cours d'une intubation en situation d'urgence ?**Experts : Thomas Clavier (SFAR, Rouen), Karim Tazarourte (SFMU, Lyon)
+
+**R2.4.1 – Si la procédure d'intubation en urgence repose sur la laryngoscopie directe, il est probablement recommandé que l'expérience minimale de l'opérateur positionné en 1ère ligne sur cette procédure soit d'au moins 50 laryngoscopies directes réussies sur des patients afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**R2.4.2 – Si la procédure d'intubation en urgence repose sur la vidéolaryngoscopie, les experts suggèrent que l'expérience minimale de l'opérateur positionné en 1ère ligne sur cette procédure soit d'au moins 15 vidéo-laryngoscopies réussies sur des patients afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+#### **Laryngoscopie directe**
+
+Bien que la définition d'un opérateur entraîné varie en fonction des études, le consensus semble être qu'un opérateur est estimé "compétent" s'il réussit 90% de ses intubations oro-trachéale (IOT) en laryngoscopie à la 1ère tentative. Il est reconnu que l'échec de la première tentative de laryngoscopie est associé à une augmentation de la morbidité en lien avec la procédure [1]. Une méta-analyse de 2016 (1400 étudiants de plusieurs cursus, 19000 patients) retrouve un chiffre de 50 IOT réussies pour estimer que l'opérateur est compétent (90% de succès à la 1ère ou 2ème tentative) [2]. Une étude récente (2022), incluant spécifiquement des médecins urgentistes en formation, retrouvait un chiffre de 119 IOT réussies pour arriver au seuil de compétence acceptable (défini ici à 85 % de succès à la 1ère tentative) [3]. Il fallait 190 IOT réussies pour arriver à 90 % [3]. En prenant comme critère une réussite à la première ou deuxième tentative dans 90 % des cas, une autre étude menée également chez des urgentistes en formation retrouvait un chiffre de 75 intubations en laryngoscopie directe réussies pour atteindre ce critère [4]. Enfin, une étude qui s'est intéressée à l'intubation lors d'un ACR retrouvait un chiffre de 137 intubations en laryngoscopie réussies avant d'arriver à un taux de succès de 90 % dans les 60 secondes [5]. Il est à noter que plusieurs articles suggèrent un effet bénéfique d'un stage d'anesthésie au cours du cursus de médecine d'urgence pour améliorer la compétence technique d'intubation trachéale en laryngoscopie directe [6–8].
+
+Au vu des données de la littérature, le nombre optimal de laryngoscopies directes réussies avant d'être considéré comme un opérateur compétent oscille probablement entre 50 et 200. Il apparaît légitime de considérer la valeur inférieure de cet intervalle comme étant le nombre minimal à atteindre avant d'être en première ligne sur une intubation en urgence.
+
+Deux points sont à souligner :
+
+- ● Il n'existe pas de travaux sur le lien entre maintien de la compétence technique de laryngoscopie directe ou vidéo-laryngoscopie et nombre de procédures annuelles dans la pratique chez les médecins estimés compétents après leur formation initiale. Dans ce contexte, aucune recommandation ne peut être établie sur ce point.
+
+- ● Les données rapportées ici concernent des intubations trachéales de patients. Nous manquons de données sur le lien entre « compétence en laryngoscopie directe en simulation » et « compétence en laryngoscopie directe en vie réelle ». Au vu de la différence significative entre une intubation trachéale effectuée en simulation sur mannequin et une intubation effectuée chez un patient, il apparaît déraisonnable actuellement d'intégrer les gestes effectués en simulation dans la courbe d'apprentissage.La simulation reste néanmoins indispensable pour se former à l'aspect purement technique du geste et est un préalable nécessaire avant tout premier geste sur un patient.
+
+### **Vidéolaryngoscopie**
+
+Les données de la littérature sur la définition d'un opérateur entraîné sont moins denses en ce qui concerne la vidéolaryngoscopie. Une étude de 2020 menée « en vie réelle » sur 202 intubations trachéales rapportait qu'avec une expérience de plus de 15 vidéo-laryngoscopies, le taux de succès à la première tentative était de 87% avec ces dispositifs [9]. Une autre étude, menée sur 890 intubations trachéales par des internes avec une expérience en laryngoscopie directe et utilisant un type différent de vidéolaryngoscope, retrouvait un taux de succès à la première tentative de 78 % après 20 vidéo-laryngoscopies, et de 89 % après 60 vidéo-laryngoscopies [10].
+
+De nombreuses études montrent que le taux de succès à la 1<sup>ère</sup> tentative est plus élevé avec un vidéolaryngoscope qu'en laryngoscopie directe chez les médecins en formation intubant en dehors du bloc opératoire [11-13]. Ces travaux suggèrent ainsi que l'acquisition de la compétence d'intuber en vidéolaryngoscopie est plus rapide à acquérir que celle d'intuber en laryngoscopie directe, avec un nombre d'intubations réussies probablement moindre pour estimer que l'opérateur est compétent.
+
+### **Références**
+
+- [1] Russotto V, Myatra SN, Laffey JG, Tassistro E, Antolini L, Bauer P, et al. Intubation Practices and Adverse Peri-intubation Events in Critically Ill Patients From 29 Countries. *JAMA*. 2021 ; 325 : 1164–72. <https://doi.org/10.1001/jama.2021.1727>.
+- [2] Buis ML, Maissan IM, Hoeks SE, Klimek M, Stolker RJ. Defining the learning curve for endotracheal intubation using direct laryngoscopy : A systematic review. *Resuscitation*. 2016 ; 99 : 63–71. <https://doi.org/10.1016/j.resuscitation.2015.11.005>.
+- [3] Lee GT, Park JE, Woo S, Shin TG, Jeong D, Kim T, et al. Defining the learning curve for endotracheal intubation in the emergency department. *Sci Rep*. 2022 ; 12 : 14903. <https://doi.org/10.1038/s41598-022-19337-8>.
+- [4] Je S, Cho Y, Choi HJ, Kang B, Lim T, Kang H. An application of the learning curve–cumulative summation test to evaluate training for endotracheal intubation in emergency medicine. *Emerg Med J*. 2015 ; 32 : 291–4. <https://doi.org/10.1136/emj-2013-202470>.
+- [5] Kim SY, Park SO, Kim JW, Sung J, Lee KR, Lee YH, et al. How much experience do rescuers require to achieve successful tracheal intubation during cardiopulmonary resuscitation ? *Resuscitation*. 2018 ; 133 : 187–92. <https://doi.org/10.1016/j.resuscitation.2018.08.032>.
+- [6] Soleimanpour H, Gholipouri C, Panahi JR, Afhami MR, Ghafouri RR et al. Role of anesthesiology curriculum in improving bag-mask ventilation and intubation success rates of emergency medicine residents : a prospective descriptive study. *BMC Emerg Med*. 2011 ; 11 : 8. <https://doi.org/10.1186/1471-227X-11-8>.
+- [7] Harris T, Lockey D. Success in physician prehospital rapid sequence intubation : what is the effect of base speciality and length of anaesthetic training ? *Emergency Medicine Journal*. 2011 ; 28 : 225–9. <https://doi.org/10.1136/emj.2009.088302>.
+- [8] Grissom TE, Samet RE. The Anesthesiologist's Role in Teaching Airway Management to Nonanesthesiologists : Who, Where, and How. *Adv Anesth*. 2020 ; 38 : 131–56. <https://doi.org/10.1016/j.aan.2020.08.002>.
+- [9] Amalric M, Larcher R, Brunot V, Garnier F, De Jong A, Moulaire Rigollet V, et al. Impact of Videolaryngoscopy Expertise on First-Attempt Intubation Success in Critically Ill Patients. *Crit Care Med*. 2020 ; 48 : e889–96. <https://doi.org/10.1097/CCM.0000000000004497>.
+- [11] Arulkumaran N, Lowe J, Ions R, Mendoza M, Bennett V, Dunser MW. Videolaryngoscopy versus direct laryngoscopy for emergency orotracheal intubation outside the operating room : a systematic review and meta-analysis. *Br J Anaesth*. 2018 ; 120 : 712–24. <https://doi.org/10.1016/j.bja.2017.12.041>.
+- [12] Perkins EJ, Begley JL, Brewster FM, Hanegbi ND, Ilancheran AA, Brewster DJ. The use of video laryngoscopy outside the operating room : A systematic review. *PLoS One* 2022 ; 17 : e0276420. <https://doi.org/10.1371/journal.pone.0276420>.
+- [13] Nalubola S, Jin E, Drugge ED, Weber G, Abramowicz AE. Video Versus Direct Laryngoscopy in Novice Intubators : A Systematic Review and Meta-Analysis. *Cureus* ; 14 : e29578. <https://doi.org/10.7759/cureus.29578>.**CHAMP 3. Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication la motivant)**
+
+**Question :** Avant induction, existe-t-il une ou des modalité(s) de pré-oxygénation permettant de réduire la morbi-mortalité au cours de l'intubation trachéale en situation d'urgence ?
+
+*Experts : Marie-Pierre Bonnet (SFAR, Paris), François Javaudin (SFMU, Nantes)*
+
+**R3.1.1 – Avant une intubation trachéale en urgence, il est recommandé de procéder systématiquement à une pré-oxygénation du patient afin de réduire la morbi-mortalité.**
+
+**GRADE 1 (Accord Fort)**
+
+**R3.1.2 – Chez un patient nécessitant une intubation trachéale en urgence, il est recommandé (en l'absence de contre-indication) d'utiliser une pré-oxygénation par ventilation non invasive (VNI) afin de réduire la morbi-mortalité.**
+
+**GRADE 1 (Accord Fort)**
+
+**Argumentaire :**
+
+La pré-oxygénation a pour objectif principal d'augmenter les réserves en oxygène de l'organisme afin d'éviter une hypoxémie au cours de la prise en charge des voies aériennes supérieures. Même si pour des raisons éthiques évidentes la littérature est pauvre en essais randomisés contrôlés, la pré-oxygénation constitue un élément indispensable de la sécurité du patient et doit être réalisée systématiquement avant toute induction pour intubation trachéale en séquence rapide [1-3].
+
+Il existe plusieurs modalités rapportées de pré-oxygénation :
+
+**1. Pré-oxygénation sans support de pression**
+
+Les techniques classiques de pré-oxygénation consistent à délivrer de l'oxygène au patient sans support de pression. Elles peuvent être réalisées par lunettes nasales, ou bien à l'aide d'un masque facial avec réservoir, d'un masque facial avec valve unidirectionnelle et réservoir (masque haute concentration), d'un masque facial avec un ballon auto-remplisseur et une valve unidirectionnelle (BAVU). Aucune étude randomisée contrôlée récente n'a comparé l'efficacité de ces différentes techniques sur la morbidité majeure ou mineure chez des patients nécessitant une intubation en urgence, quel que soit le contexte (bloc opératoire, réanimation, urgences). Nous disposons d'essais réalisés chez des volontaires sains comparant prospectivement l'efficacité de ces différentes méthodes de pré-oxygénation sans support de pression. Dans ces études, le critère de jugement concerne le plus souvent la valeur de  $FeO_2$  obtenue en fin de pré-oxygénation, et sa vitesse de diminution à l'arrêt de la pré-oxygénation. Chaque volontaire sain est son propre contrôle (cross-over) avec un ordre de test pour chacune des techniques, défini par randomisation aléatoire. L'étude de Robinson et al. a mis en évidence une discrète différence significative de  $FeO_2$  à 3 min entre pré-oxygénation par un masque haute concentration versus usage d'un BAVU (respectivement 58,0 % (SD 7,3 %) vs 53,1 % (SD 13,4 %),  $p=0,072$ ) [4]. L'étude de Driver et al. a montré au contraire, qu'avec un débit d' $O_2$  de 15 L/min, une pré-oxygénation par masque haute concentration, était inférieure à une pré-oxygénation avec un BAVU concernant la mesure de la fraction d'oxygène expirée ( $FeO_2$  moyenne respectivement de 54 % [IC (95 %) ; 50-57] vs 86 % [IC (95 %) ; 84-88], [5]. La différence se corrigeait lors del'utilisation d'un flush en O<sub>2</sub>. La pré-oxygénation avec un BAVU est bien tolérée et a l'avantage de permettre d'assister la ventilation si besoin. L'ajout d'une oxygénéthérapie aux lunettes et/ou d'une PEEP ne semble pas améliorer les performances de ces techniques. Cependant les résultats observés chez les volontaires sains sont difficilement extrapolables chez les patients intubés en urgence et en particulier les patients hypoxémiques en défaillance respiratoire aigüe.
+
+## 2. Pré-oxygénation avec un support ventilatoire en débit [Oxygène à haut débit (OHD)]
+
+Une méta-analyse publiée en 2022 regroupant 16 essais randomisés contrôlés a comparé l'efficacité d'une pré-oxygénation par OHD versus une pré-oxygénation conventionnelle chez des patients bénéficiant d'une anesthésie générale au bloc opératoire, en urgence ou programmée [6]. Les résultats rapportaient une PaO<sub>2</sub> significativement plus élevée (différence moyenne 64 mmHg, IC (95%) 32-97,  $p < 0,001$ ) et une durée d'apnée sans désaturation significativement plus longue (différence moyenne 131 sec (IC (95%) 59-203,  $p < 0,001$ ) dans le groupe OHD par rapport au groupe contrôle. Cependant les auteurs ne rapportaient pas de différence de risque de désaturation lors de l'intubation, ni de nadir de SpO<sub>2</sub>. Ces résultats sont concordants avec ceux d'une autre méta-analyse incluant 14 essais concernant une population identique [7].
+
+## 3. Pré-oxygénation avec un support ventilatoire en pression
+
+En soins critiques, deux essais randomisés contrôlés ont comparé l'efficacité de la pré-oxygénation par ventilation non invasive (VNI) versus une pré-oxygénation conventionnelle par BAVU avec 15 L/min d'oxygène chez les patients hypoxémiques nécessitant une intubation trachéale [8,9]. Dans l'étude publiée en 2006, incluant 53 patients, les auteurs rapportaient une diminution de l'hypoxémie chez les patients préoxygenés en VNI (SpO<sub>2</sub> < 80 % : 7 % dans le groupe VNI vs 46 % dans le groupe contrôle,  $p < 0,01$ ) ; aucune différence de survenue de syndrome d'inhalation n'a été observée entre les 2 groupes [8]. Dans la seconde étude publiée en 2018 et incluant 201 patients, les auteurs ne retrouvaient pas de différence significative du score SOFA à J7 entre les 2 groupes [9]. En revanche, le risque de morbidité mineure était augmenté chez les patients traités par VNI avant la randomisation et qui étaient ensuite préoxygenés par masque facial (OR=5,23 (IC 95% 1,61-16,99)).
+
+L'étude PREOXI est une étude randomisée multicentrique menée dans 7 services d'urgences et 17 services de soins critiques (15 Hôpitaux Nord-Américains) [10]. L'objectif principal de cet essai était de comparer une stratégie de pré-oxygénation dite standard avec un masque haute concentration ou un BAVU (débit d'O<sub>2</sub> de 15 L/min) versus une pré-oxygénation par VNI (FiO<sub>2</sub> 100 %, PEP +5 cmH<sub>2</sub>O, AI 10 cmH<sub>2</sub>O) chez des patients nécessitant une intubation en urgence en dehors du bloc opératoire. Au total, 1301 patients adultes ont été inclus, dont 340 (26,8 %) intubés dans un service d'urgences. Dans le groupe VNI, les auteurs ont rapporté une diminution significative de la survenue d'une hypoxémie (définie par une SpO<sub>2</sub> < 85% au cours des deux minutes suivant l'intubation) comparé au groupe ventilation standard (respectivement 57 patients/624 (9,1%) vs 118/637 (18,5%), différence absolue de -9,4%. IC (95%) -13,2 à -5,6 ;  $p < 0,001$ ). Un arrêt cardiaque a été rapporté chez un seul patient (0,2%) dans le groupe VNI et chez 7 patients (1,1 %) dans le groupe pré-oxygénation au masque (différence absolue -0,9 %. IC (95 %) -1,8 à -0,1). Enfin une inhalation était rapportée chez 6 patients (0,9 %) du groupe VNI versus 9 patients (1,4 %) du groupe pré-oxygénation au masque (différence absolue -0,4%. IC (95 %) -1,6 à 0,7). La pré-oxygénation par VNI permet de réduire la survenue des désaturations comparée à une pré-oxygénation d sans support de pression.
+
+## 4. Position surélevée de la têteLe bénéfice du positionnement surélevé de la tête de 20-35° par rapport au reste du corps (head-up position) au moment de la pré-oxygénation et de l'intubation sur la morbidité est clairement démontré chez les patients intubés pour des chirurgies programmées [11,12], en particulier chez les patients obèses [13,14].
+
+Les études explorant la même question chez des patients intubés en urgence sont beaucoup moins nombreuses et de moins bonne qualité. Rappelons en préambule que la position surélevée de la tête est contre-indiquée chez les patients présentant une suspicion de traumatisme du rachis. Une étude rétrospective observationnelle bi centrique, incluant 528 patients qui nécessitaient une intubation trachéale en urgence en dehors du bloc opératoire, rapportait une diminution de la morbidité liée à l'intubation selon un critère composite (intubation difficile, hypoxémie, hypotension artérielle, intubation œsophagienne, inhalation pulmonaire) chez les sujets préoxygenés en position semi assise comparée à la position strictement allongée (Odd Ratio ajusté = 0,47 IC 95% 0,26-0,83) [15]. Cependant, cette étude rétrospective ne permet pas de conclure sur un lien de causalité éventuel entre position surélevée de la tête et diminution de la morbidité liée à la prise en charge des voies aériennes. De manière contrastée, une large étude observationnelle, réalisée à partir de données recueillies prospectivement dans un registre national (25 centres) et incluant des patients intubés dans le service des urgences, rapportait une augmentation du risque de morbidité mineure chez les patients intubés en position non allongée stricte versus ceux intubés dans une position allongée stricte, en particulier une augmentation du risque d'hypotension artérielle et d'arrêt cardiaque (effets indésirables globaux OR ajusté 1,4 (IC 95% 1,1-1,7), hypoxémie ORa=1,0 (0,8-1,3), hypotension ORa=2,2 (1,6-3,0), inhalation ORa=0,6 (0,2-2,0), arrêt cardiaque ORa=1,9 (1,0-3,6) [16]. Il faut noter que du fait de leur caractère observationnel rétrospectif, les modalités du positionnement de la tête ne sont pas similaires pour tous les patients inclus dans ces deux études.
+
+#### Références
+
+- [1] Réactualisation de la conférence d'experts sur l'intubation difficile. Désaturation artérielle en oxygène et maintien de l'oxygénation pendant l'intubation Question 2. Bourgain JL, Chastre J, Combes X, Oriaguet G.
+- [2] Langeron O, Bourgain JL, Francon D, Amour J, Baillard C, Bouroche G, et al. Difficult intubation and extubation in adult anaesthesia. Anaesth Crit Care Pain Med. 2018 ; 37(6) : 639-51.
+- [3] Quintard H, l'Her E, Pottecher J, Adnet F, Constantin JM, De Jong A, et al. Intubation and extubation of the ICU patient. Anaesth Crit Care Pain Med. 2017 ; 36(5) : 327-41.
+- [4] Robinson A, Ercole A. Evaluation of the self-inflating bag-valve-mask and non-rebreather mask as preoxygenation devices in volunteers. BMJ Open. 2012 ; 2(5) : e001785. Doi : 10.1136/bmjopen-2012-001785.
+- [5] Driver BE, Prekker ME, Kornas RL, Cales EK, Reardon RF. Flush Rate Oxygen for Emergency Airway Preoxygenation. Ann Emerg Med. 2017 ; 69(1) : 1-6. Doi : 10.1016/j.annemergmed.2016.06.018.
+- [6] Kuo HC, Liu WC, Li CC, Cherng YG, Chen JT, Wu HL et al. A comparison of high-flow nasal cannula and standard facemask as pre-oxygenation technique for general anesthesia : A PRISMA-compliant systemic review and meta-analysis. Medicine (Baltimore). 2022 ; 101(10) : e28903. Doi : 10.1097/MD.00000000000028903.
+- [7] Song JL, Sun Y, Shi YB, Liu XY, Su ZB. Comparison of the effectiveness of high-flow nasal oxygen vs standard facemask oxygenation for pre- and apneic oxygenation during anesthesia induction : a systematic review and meta-analysis. BMC Anesthesiol. 2022 ; 22(1) :100. Doi : 10.1186/s12871-022-01615-7.
+- [8] Baillard C, Fosse JP, Sebbane M, Chanques G, Vincent F, Courouble P et al. Noninvasive ventilation improves preoxygenation before intubation of hypoxic patients. Am J Respir Crit Care Med. 2006 ; 174(2) : 171-7. Doi : 10.1164/rccm.200509-1507OC.
+- [9] Baillard C, Prat G, Jung B, Futier E, Lefrant JY, Vincent F, et al. Effect of preoxygenation using non invasive ventilation before intubation on subsequent organ failures in hypoxaemic patients : a randomised clinical trial. Br J Anaesth. 2018 ; 120(2) : 361-7. Doi : 10.1016/j.bja.2017.11.067.
+- [10] Gibbs KW, Semler MW, Driver BE, Seitz KP, Stempek SB, Taylor C et al. Noninvasive Ventilation for Preoxygenation during Emergency Intubation. N Engl J Med. 2024 ; 390(23) : 2165-77. Doi : 10.1056/NEJMoa2313680.[11] Ramkumar V, Umesh G, Philip FA. Preoxygenation with 20° head-up tilt provides longer duration of non-hypoxic apnea than conventional preoxygenation in non-obese healthy adults. J Anesth. 2011 ; 25(2) : 189-94. Doi : 10.1007/s00540-011-1098-3.
+
+[12] Lane S, Saunders D, Schofield A, Padmanabhan R, Hildreth A, Laws D. A prospective, randomised controlled trial comparing the efficacy of pre-oxygenation in the 20 degrees head-up vs supine position. Anaesthesia. 2005 ; 60(11): 1064-7. Doi : 10.1111/j.1365-2044.2005.04374.x.
+
+[13] Dixon BJ, Dixon JB, Carden JR, Burn AJ, Schachter LM, Playfair JM, et al. Preoxygenation is more effective in the 25 degrees head-up position than in the supine position in severely obese patients : a randomized controlled study. Anesthesiology. 2005 ; 102(6) : 1110-5 ; discussion 5A. Doi : 10.1097/00000542-200506000-00009.
+
+[14] Altermatt FR, Muñoz HR, Delfino AE, Cortinez LI. Pre-oxygenation in the obese patient : effects of position on tolerance to apnoea. Br J Anaesth. 2005 ; 95(5) : 706-9. Doi : 10.1093/bja/aei231.
+
+[15] Khandelwal N, Khorsand S, Mitchell SH, Joffe AM. Head-Elevated Patient Positioning Decreases Complications of Emergent Tracheal Intubation in the Ward and Intensive Care Unit. Anesth Analg. 2016 ;122(4) :1101-7. Doi : 10.1213/ANE.00000000000001184
+
+[16] Stoecklein HH, Kelly C, Kaji AH, Fantegrossi A, Carlson M, Fix ML, et al. Multicenter Comparison of Nonsupine Versus Supine Positioning During Intubation in the Emergency Department : A National Emergency Airway Registry (NEAR) Study. Acad Emerg Med Off J Soc Acad Emerg Med. 2019 ; 26(10) : 1144-51. Doi : 10.1111/acem.13805.
+
+**Question : Existe-t-il une ou des modalité(s) d'oxygénation après l'induction anesthésique et avant la laryngoscopie (oxygénation apnée) permettant de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?**
+
+*Experts : Marie-Pierre Bonnet (SFAR, Paris), François Javaudin (SFMU, Nantes)*
+
+**R3.2.1 – Lors de l'intubation trachéale en urgence, il n'est probablement pas recommandé d'utiliser une oxygénation apnée après l'induction anesthésique et avant la laryngoscopie pour réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**R3.2.2 – En cas de désaturation après l'induction anesthésique et avant la laryngoscopie ou chez un patient hypoxémique avant l'induction, les experts suggèrent de procéder à une ventilation manuelle au masque à FiO2 100%, à bas volume et basse pression, afin de réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+L'oxygénation apnée (OA) se définit par l'administration passive d'oxygène via des lunettes nasales classiques, une canule nasale haut débit, un cathéter nasopharyngé, ou un masque facial après induction et avant l'intubation lorsque le patient ne présente plus de ventilation spontanée.
+
+Une étude randomisée, monocentrique, incluant au total 200 patients, a comparé l'OA à l'aide de lunettes nasales classiques (débit  $\geq 15$  L/min) à l'absence d'OA chez des patients adultes pris en charge aux urgences [1]. Avant la phase apnée tous les patients étaient préoxygenés à la discrétion de l'opérateur avec un BAVU ou une VNI. L'objectif principal concernait la mesure de la valeur la plus basse de SpO2 pendant la période d'apnée et les deux minutes suivantes. Cette étude n'a pas montré de différence de taux de désaturation (SpO2  $< 90\%$  : 17 % dans le groupe OA contre 15 % dans le groupe contrôle ; SpO2  $< 80\%$  : 3 % contre 4 %) ni de mortalité entre les deux groupes : 14 % versus 16 %). Une autre étude randomisée, multicentrique, a comparé le haut débit nasal (60 L/min, n = 97) pendant la pré-oxygénation et l'apnée avant l'intubation, à la pré-oxygénation avec un BAVU associé à des lunettes nasales (débit  $\geq 15$  L/min, n =93) pendant l'apnée avant intubation. Cette étude n'a pas mis en évidence de différence significative de la valeur minimale de SpO<sub>2</sub> au cours de l'intubation entre le groupe contrôle et le groupe oxygénation apnée ni du risque de désaturation <90 % [aRR = 0,65 (0,36 ; 1,19)] [2].
+
+L'étude multicentrique randomisée de Casey et al. incite à réfléchir sur le rapport bénéfice/risque lié à une ventilation manuelle au BAVU lors de la phase d'apnée précédant l'intubation [4]. Cette étude, incluant 401 patients répartis dans 7 unités de soins critiques nord-américains, comparait 199 patients ventilés à l'aide d'un BAVU (au cours de la phase d'apnée suivant l'induction anesthésique) versus 202 patients non ventilés pendant la phase d'apnée précédant l'intubation. L'objectif principal était la mesure de la SpO<sub>2</sub> la plus basse observée pendant l'intervalle entre l'induction et les deux minutes suivant l'intubation trachéale. L'objectif secondaire était la mesure de l'incidence de l'hypoxémie sévère, définie par une SpO<sub>2</sub> < 80 %. Parmi les patients enrôlés dans le groupe ventilation au masque, la saturation médiane en oxygène la plus basse était de 96 % (87 % - 99 %) versus 93 % (81 % - 99 %) dans le groupe sans ventilation (p = 0,01). Concernant l'objectif secondaire, 21 patients (10,9 %) présentaient une hypoxémie sévère dans le groupe ventilation versus 45 patients (22,8 %) dans le groupe pas de ventilation [RR 0,48 ; IC (95 %) 0,30 – 0,77]. Le taux d'inspiration signalé par l'opérateur était de 2,5 % dans le groupe ventilation au masque vs 4,0 % dans le groupe sans ventilation (p = 0,41). Cependant cette étude n'a pas inclus de patients à haut risque d'estomac plein (traumatisé grave, pathologie chirurgicale, hémorragie digestive, femme enceinte...). Cette stratégie n'a ainsi pas été évaluée dans une population « tout venant » de patient devant être intubé en urgence. Mais en pratique, l'oxygénation est prioritaire, il est parfois nécessaire de reventiler le patient au masque/BAVU en cas de désaturation importante. Les données de cette étude semblent suggérer que cette pratique n'est probablement pas associée à une augmentation de morbidité.
+
+#### Références
+
+[1] Caputo N, Azan B, Domingues R, Donner L, Fenig M, Fields D, et al. Emergency Department use of Apneic Oxygenation Versus Usual Care During Rapid Sequence Intubation : A Randomized Controlled Trial (The ENDAO Trial). Acad Emerg Med. 2017 ; 24 : 1387-1394. Doi : 10.1111/acem.13274.
+
+[2] Chua MT, Ng WM, Lu Q, Low MJW, Punyadasa A, Cove ME, et al. Pre- and apneic high-flow oxygenation for rapid sequence intubation in the emergency department (the Pre-AeRATE trial) : A multicentre randomised controlled trial. Ann Acad Med Singap. 2022 ; 51 : 149-160. Doi : 10.1111/acem.13274.
+
+[3] Casey JD, Janz DR, Russell DW, Vonderhaar DJ, Joffe AM, Dischert KM, et al. Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults. N Engl J Med. 2019 Feb 28 ; 380(9) : 811–21. Doi : 10.1056/NEJMoa1812405.
+
+**Question : La réalisation d'une pression cricoïdienne permet-elle de réduire la morbi-mortalité au cours de l'intubation trachéale en situation d'urgence ?**
+
+*Experts : Cédric Gil-Jardiné (SFMU, Bordeaux), Stéphane Travers (SFMU, Paris), N Bruneau (SFAR, Lille)*
+
+**R3.3 – Lors d'une intubation trachéale en urgence, il n'est probablement pas recommandé de réaliser de pression cricoïdienne afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+#### Argumentaire :
+
+A ce jour, il n'existe aucune étude contrôlée randomisée multicentrique comparant l'application ou non d'une compression cricoïde dans un contexte d'urgence hors bloc opératoire ou hors soins critiques. En médecine préhospitale, les complications rapportées en rapport avec une régurgitation restent faibles (1 %) y compris dans une population de traumatisés graves [1].La manœuvre de Sellick décrite en 1961 a pour objectif théorique de faire réaliser par un opérateur une compression mécanique de l'œsophage sur le corps de C6 [2]. La compression doit débuter avant l'injection de tout agent anesthésique chez un malade conscient et la force appliquée est idéalement de 30 Newton. Elle ne doit être relâchée que lorsque le ballonnet de la sonde d'intubation trachéale est gonflé.
+
+Cette manœuvre n'a jamais fait la preuve scientifique de son efficacité. Les recommandations scandinaves concernant la pratique de l'anesthésie générale en situation d'urgence mentionnent que la pratique de la manœuvre de Sellick ne peut pas être recommandée [3]. Elle est responsable d'effets secondaires puisque pour les mêmes auteurs, la compression cricoïdienne semble limiter la vue glottique pendant la laryngoscopie [3] alors que pour d'autres auteurs, la manœuvre de Sellick ne modifie pas le succès à la première tentative mais majoré le temps d'intubation et les douleurs de la sphère ORL au réveil anesthésique [4].
+
+Dans une population de médecine d'urgence, intubée en dehors d'un bloc opératoire, une revue de la littérature australienne a inclus 1 étude randomisée (N =54 patients) et 2 études de registre (N = 3710 patients) [5]. L'objectif principal de cette étude était de comparer le taux de succès d'intubation au cours de la première laryngoscopie dans un bras avec compression cricoïde versus un bras sans compression. Un des objectifs secondaires était de comparer la fréquence des régurgitations observées et la fréquence d'apparition d'une pneumopathie d'inhalation au sein des deux groupes. Les conclusions des auteurs étaient que la manœuvre de Sellick ne modifiait pas le taux de succès d'intubation lors de la première tentative et que le niveau de preuve était insuffisant pour conclure que la manœuvre de Sellick diminuait la fréquence des régurgitations ou la fréquence de survenue d'une pneumopathie d'inhalation lors d'une intubation en urgence [5].
+
+L'étude IRIS est une étude randomisée, multicentrique (10 hôpitaux en France), réalisée en double aveugle au bloc opératoire [6]. L'opérateur qui intube et celui qui réalise ou ne réalise pas la compression cricoïdienne sont séparés par un champ de tête. Cette étude a inclus avant intubation 3472 patients opérés en urgence ou à risque de régurgitation (obésité morbide, antécédent de résection gastrique). Deux bras ont été définis : un bras compression simulée (N = 1736) et un bras Sellick (N = 1735). L'objectif principal de cette étude était la mise en évidence d'une régurgitation pendant la laryngoscopie directe, ou la survenue d'une pneumopathie d'inhalation à J+1. Aucune différence n'était mise en évidence entre les deux groupes. Le nombre d'évènements observés était faible : 10 (0,6 %) régurgitations dans le bras Sellick versus 9 (0,5 %) dans le bras simulation ( $p = 0,14$ ) ; différence entre les deux groupes de 0,06 % (IC95 % [-0,57-0,42]). Une tendance à une difficulté d'intubation apparaissait dans le groupe Sellick alors que tous les opérateurs étaient formés et entraînés à appliquer une compression cricoïdienne efficace : grade 3 et 4 de la classification de Cormack et Lehane 10 % vs 5 % ( $p < 0,001$ ), et durée d'intubation > 30 secondes : 47 % vs 40 % ( $p < 0,01$ ).
+
+#### Références
+
+- [1] Jabre P, Avenel A, Combes X, Kulstad E, Mazariegos I, Bertrand L et al. Morbidity related to emergency endotracheal intubation. A substudy of the KETAmine SEDation trial. *Resuscitation*. 2011 ; 82 : 517-22. Doi : 10.1016/j.resuscitation.2011.01.015.
+- [2] Sellick BA. Cricoid pressure to control regurgitation of stomach contents during induction of anaesthesia. *Lancet*. 1961 ; 2 : 404–6. Doi : 10.1016/s0140-6736(61)92485-0.
+- [3] Jensen A.G, Callesen T, Hagemo J.S, Hreinsson K, Lund J, Nordmark J and al. Scandinavian clinical practice guidelines on general anaesthesia for emergency situations. *Acta Anaesthesiol Scand*. 2010 ; 54 : 922–950. Doi : 10.1111/j.1399-6576.2010.02277.x.
+- [4] Hung KC, Hung CT, Poon YY, Wu SC, Chen KH, Chen JY et al. The effect of cricoid pressure on tracheal intubation in adult patients : a systematic review and meta-analysis. *Can J Anaesth*. 2021 ; 68 :137-47. Doi : 10.1007/s12630-020-01830-1.[5] Tessarolo E, Alkhoubi H, Lelos N, Sarrami P, McCarthy S. Review article : Effectiveness and risks of cricoid pressure during rapid sequence induction for endotracheal intubation in the emergency department : A systematic review. Emerg Med Australas. 2022 ; 34 :484-91. DOI : 10.1111/1742-6723.13993.
+
+[6] Birenbaum A, Hajaje D, Roche S, Ntouba A, Eurin M, Cuvillon P et al. Effect of Cricoid Pressure Compared With a Sham Procedure in the Rapid Sequence Induction of Anesthesia. The IRIS Randomized Clinical Trial. JAMA Surg. 2019 ; 154 : 9-17. DOI : 10.1001/jamasurg.2018.3577.
+
+**Question** : Au cours de l'intubation trachéale en situation d'urgence, existe-t-il des modalités d'optimisation hémodynamique permettant de réduire la morbi-mortalité ?
+
+*Experts* : Déborah Jaeger (SFMU, Nancy), Julien Pottecher (SFAR, Strasbourg)
+
+**R3.4.1 – Afin de réduire la morbi-mortalité au cours de l'intubation en urgence chez un patient adulte, il est probablement recommandé de calculer la valeur du shock-index avant la réalisation du geste. Un seuil > 0,9 permet d'identifier les patients les plus à risque de développer un collapsus cardiovasculaire au cours de l'intubation.**
+
+**GRADE 2 (Accord fort)**
+
+**ABSENCE DE RECOMMANDATION** - Avant intubation en urgence chez un patient adulte, aucune des stratégies préventives envisagées isolément n'a permis de démontrer une réduction de la morbi-mortalité induite par la sédation et la ventilation mécanique en pression positive. Ceci est notamment vrai pour l'expansion volémique. A ce jour, le recours précoce aux vasopresseurs, seuls ou associés à l'expansion volémique, n'a pas pu être testé de façon formelle.
+
+**ABSENCE DE RECOMMANDATION**
+
+**R3.4.2 – Avant intubation d'un patient à risque de développer un collapsus cardiovasculaire au cours de l'intubation, les experts suggèrent que l'éviction du propofol constitue une mesure de prudence pour réduire la morbi-mortalité.**
+
+**AVIS D'EXPERTS (Accord fort)**
+
+**Argumentaire :**
+
+Une étude internationale, multicentrique (197 sites, 29 pays, 5 continents), observationnelle, prospective, a été menée chez 2.954 patients intubés en urgence en soins critiques ou aux urgences. L'objectif principal était d'évaluer l'incidence des complications survenant dans les 30 minutes suivant l'intubation. L'instabilité hémodynamique était l'évènement le plus fréquemment rapporté (42,6 %) et associée à une surmortalité (OR : 2,47 [IC95%, 1,72-3,55] ; p < 0,001) [1].
+
+Des facteurs ont été identifiés, permettant de reconnaître les patients les plus à risque :
+
+- - D'hypotension artérielle post-intubation (âge [2] ; Shock Index (SI) : rapport entre la fréquence cardiaque et la pression artérielle systolique > 0,8 [3], ou > 0,9 [4]. Le SI présente le double avantage d'être facilement calculable et fortement prédictif des complications hémodynamiques péri-intubation).
+- - Et/ou d'arrêt cardiaque (PAS < 90 mmHg ou 100 mmHg avant induction) [5].
+- - Et/ou d'hypoxémie (pré-oxygénation non réalisée ; obésité ; âge > 75 ans) [6].
+
+Le choix de l'agent d'induction pour réduire le risque de collapsus et la mortalité reste débattu. Il est abordé par ailleurs à la question « Existe-t-il une (ou des) modalité(s) pharmacologique(s) d'induction anesthésique permettant de réduire la morbi-mortalité au cours de l'intubation trachéale en situation d'urgence, hors bloc opératoire ou soins critiques ? ». Le choix du propofol semble associé à une survenue plus fréquented'instabilité hémodynamique de façon indépendante et statistiquement significative (aOR : 1,23 [1,02-1,49]) [7].
+
+Que l'hypnotique d'induction utilisé soit la kétamine ou l'étomidate, il ne semble pas exister de différence sur le risque de survenue d'une hypotension artérielle. Dans une étude prospective randomisée l'utilisation de la kétamine (1-2 mg/kg) plutôt que l'étomidate (0,2-0,3 mg/kg) comme agent d'induction pour réaliser l'intubation trachéale était associée à une fréquence moins importante (-7,6 % [-13 -2 %]) d'instabilité hémodynamique définie selon la définition de Vanderbilt (PAS post-induction < 65 mmHg, et/ou nécessité immédiate de vasopresseur (bolus ou augmentation du débit), et/ou arrêt cardiaque dans l'heure) [8]. Dans une autre étude analysant de façon rétrospective les données d'une étude prospective, les auteurs rapportaient l'effet inverse en comparant une induction avec kétamine (y compris pour les doses < 1 mg/kg) versus l'étomidate [9]. En analyse multivariée les auteurs rapportaient après induction avec la kétamine une fréquence plus élevée d'hypotension (aOR : 1,4 [1,2-1,7]) et la nécessité d'introduire un ou des traitements pour la corriger (aOR : 1,8 [1,4 – 2,0]). Enfin, dans une autre étude observationnelle prospective multicentrique l'utilisation de l'étomidate était l'un des 11 facteurs de risque indépendants d'hypotension au cours de l'intubation [10].
+
+Dans deux études prospectives randomisées, l'expansion volémique par 500 ml de NaCl à 0,9 % préalable à l'intubation trachéale ne montrait pas de diminution de l'incidence du collapsus cardiovasculaire post-intubation (défini par l'introduction ou l'augmentation des besoins en vasopresseurs, une PAS < 65 mmHg dans les 2 min consécutives à l'intubation, un arrêt cardiaque ou le décès dans l'heure) et ce même lorsque la population incluse n'était composée que de patients ventilés en pression positive pendant la pré-oxygénation [11,12].
+
+A ce jour, bien que l'utilisation d'un vasopresseur (noradrénaline) soit fréquente, il n'existe pas d'étude randomisée contrôlée s'intéressant à l'utilisation prophylactique d'un vasopresseur (noradrénaline) sur l'hypotension artérielle post-intubation en contexte d'urgence. Les études publiées rapportant l'utilisation prophylactique d'un vasopresseur (noradrénaline) sont d'un faible niveau de preuve avec des résultats contradictoires [13,14]. Les effets potentiels de l'administration simultanée ou séparée d'une expansion volémique et de vasopresseurs sur l'incidence du collapsus cardiovasculaires sont actuellement explorés par une étude Indienne qui doit inclure 200 patients dont les résultats ne sont pas encore connus (FLUVA Study, NCT05318066).### Références
+
+- [1] Russotto V, Myatra SN, Laffey JG, Tassistro E, Antolini L, Bauer P et al. Intubation Practices and Adverse Peri-intubation Events in Critically Ill Patients From 29 Countries. JAMA. 2021 ; 325 : 1164-72. Doi : 10.1001/jama.2021.1727.
+- [2] Halliday SJ, Casey JD, Rice TW, Semler MW, Janz DR, Russel DW et al. Risk Factors for Cardiovascular Collapse during Tracheal Intubation of Critically Ill Adults. Ann Am Thorac Soc. 2020 ; 17 : 1021-24. Doi : 10.1513/AnnalsATS.201912-894RL.
+- [3] Heffner AC, Swords DS, Nussbaum ML, Kline JA, Jones AE. Predictors of the complication of post intubation hypotension during emergency airway management. J Crit Care. 2012; 27: 587-93. Doi: 10.1016/j.jcrc.2012.04.022
+- [4] Trivedi S, Demirci O, Arteaga G, Kashyap R, Smischney NJ. Evaluation of preintubation shock index and modified shock index as predictors of postintubation hypotension and other short-term outcomes. J Crit Care. 2015; 30: 861.e1-7. Doi: 10.1016/j.jcrc.2015.04.013.
+- [5] April MD, Arana A, Reynolds JC, Carlson JN, Davis WT, Schauer SG et al. Peri-intubation cardiac arrest in the Emergency Department: A National Emergency Airway Registry (NEAR) study. Resuscitation. 2021 ; 162 : 403-11. Doi : 10.1016/j.resuscitation.2021.02.039.
+- [6] De Jong A, Rolle A, Molinari N, Paugam-Burtz C, Constantin JM, Lefrant JY et al. Cardiac Arrest and Mortality Related to Intubation Procedure in Critically Ill Adult Patients: A Multicenter Cohort Study. Crit Care Med. 2018; 46 :532-39. Doi: 10.1097/CCM.0000000000002925.
+- [7] Russotto V, Tassistro E, Myatra SN, Parotto M, Antolini L, Bauer P, et al. Peri-intubation Cardiovascular Collapse in Patients Who Are Critically Ill: Insights from the INTUBE Study. Am J Respir Crit Care Med. 2022. Doi: 10.1164/rccm.202111-2575OC. PMID: 35536310.
+- [8] Matchett G, Gasanova I, Riccio CA, Nasir D, Sunna MC, Bravenec BJ et al. Etomidate versus ketamine for emergency endotracheal intubation: a randomized clinical trial. Intensive Care Med. 2022; 48: 78-91. Doi: 10.1007/s00134-021-06577-x.
+- [9] April MD, Arana A, Schauer SG, Davis WT, Oliver JJ, Fantegrossi A et al. Ketamine Versus Etomidate and Peri-intubation Hypotension: A National Emergency Airway Registry Study. Acad Emerg Med. 2020 ;27 : 1106-115. Doi : 10.1111/acem.14063.
+- [10] Smischney NJ, Kashyap R, Khanna AK, Brauer E, Morrow LE, Seisa MO et al. Risk factors for and prediction of post-intubation hypotension in critically ill adults: A multicenter prospective cohort study. PLoS One. 2020; 15: e0233852. Doi: 10.1371/journal.pone.0233852.
+- [11] Janz DR, Casey JD, Semler MW, Russell DW, Dargin J, Vonderhaar DJ et al. Effect of a fluid bolus on cardiovascular collapse among critically ill adults undergoing tracheal intubation (PrePARE): a randomised controlled trial. Lancet Respir Med. 2019; 7 :1039-47. Doi: 10.1016/S2213-2600(19)30246-2.
+- [12] Russell DW, Casey JD, Gibbs KW, Ghamande S, Dargin JM, Vonderhaar DJ et al. Effect of Fluid Bolus Administration on Cardiovascular Collapse Among Critically Ill Patients Undergoing Tracheal Intubation: A Randomized Clinical Trial. JAMA. 2022 ;328: 270-79. Doi: 10.1001/jama.2022.9792.
+- [13] Fuchita M, Pattee J, Russel DW, Driver BE, Prekker ME, Barnes CR et al. Prophylactic Administration of Vasopressors Prior to Emergency Intubation in Critically Ill Patients: A Secondary Analysis of Two Multicenter Clinical Trials. Crit Care Explor. 2023; 5(7): e0946. Doi: 10.1097/CCE.0000000000000946.
+- [14] Davis DP, Olvera D, Selde W, Wilmas J, Stuhlmiller D. Bolus Vasopressor Use for Air Medical Rapid Sequence Intubation: The Vasopressor Intravenous Push to Enhance Resuscitation Trial. Air Med J. 2023 ; 42 :36–41. Doi : 10.1016/j.amj.2022.09.004
+
+**Question** : Existe-t-il une (ou des) modalité(s) pharmacologique(s) d'induction anesthésique permettant de réduire la morbi-mortalité au cours de l'intubation trachéale en situation d'urgence, hors bloc opératoire ou soins critiques ?
+
+*Experts* : Xavier Combes (SFMU, Bordeaux), Benoit Plaud (SFAR, Paris)**R3.5 – Lors de l'intubation en urgence, à l'exception des patients en arrêt cardiaque, il est probablement recommandé, d'associer systématiquement un hypnotique suivi de l'injection d'un curare (en privilégiant des agents à délai d'action court et à bonne tolérance hémodynamique) pour faciliter l'intubation trachéale et réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord fort)**
+
+**Argumentaire :**
+
+Les deux hypnotiques les plus utilisés en raison de leur bonne tolérance hémodynamique sont l'étomidate et la kétamine [1-3]. L'étomidate a comme inconvénient théorique une inhibition profonde et transitoire de l'axe corticosurrénalien. Cette propriété a fait considérer son utilisation comme potentiellement dangereuse chez des patients en choc septique ou hémorragique. Néanmoins, aucune étude de haut niveau de preuve n'a pu démontrer que l'étomidate aggravait le pronostic en cas d'intubation trachéale en urgence [4,5]. Quelques études, le plus souvent non randomisées, ont rapporté une meilleure tolérance hémodynamique immédiate de l'étomidate par rapport à la kétamine [4]. Le choix du propofol semble associé à la survenue plus fréquente d'une hypotension artérielle de façon indépendante et statistiquement significative (aOR : 1,23 [1,02-1,49]).
+
+L'utilisation d'un curare facilite l'intubation trachéale et diminue les complications associées [7,8]. En situation d'urgence, les deux curares les plus utilisés en raison de leurs propriétés pharmacodynamiques sont le suxaméthonium et le rocuronium. Si plusieurs études et méta-analyses rapportent que le suxaméthonium procure de meilleures conditions d'intubation que le rocuronium, en revanche le taux de succès d'intubation à la première tentative et les complications associées ne différaient pas quand la posologie du rocuronium était d'au moins 1 mg/kg de masse idéale théorique [9-11]. [6].
+
+L'utilisation d'un morphinique en médecine d'urgence dans le cadre de l'ISR a été évaluée par plusieurs études. Son emploi diminuerait les épisodes de poussées hypertensives post intubation et augmenterait le nombre d'épisodes d'hypotension artérielle [12,13]. L'administration d'un morphinique dans ce cadre n'est pas systématique et pourrait être indiquée en fonction des circonstances de l'ISR (prééclampsie sévère, éclampsie, HTA maligne) [12,14].
+
+**Références**
+
+- [1] Upchurch CP, Grijalva CG, Russ S, Collins SP, Semler MW, Rice TW et al. Comparison of Etomidate and Ketamine for Induction During Rapid Sequence Intubation of Adult Trauma Patients. *Ann Emerg Med.* 2017; 69: 24-33 e22. Doi: 10.1016/j.annemergmed.2016.08.009.
+- [2] Patanwala AE, McKinney CB, Erstad BL, Sakles JC. Retrospective analysis of etomidate versus ketamine for first-pass intubation success in an academic emergency department. *Acad Emerg Med.* 2014; 21: 87-91. Doi: 10.1111/acem.12292
+- [3] Sharda SC, Bhatia MS. Etomidate Compared to Ketamine for Induction during Rapid Sequence Intubation: A Systematic Review and Meta-analysis. *Indian J Crit Care Med.* 2022 ; 26 :108-13. Doi : 10.5005/jp-journals-10071-24086
+- [4] Jabre P, Combes X, Lapostolle F, Dhaouadi M, Ricard-Hibon A, Vivien B et al. Etomidate versus ketamine for rapid sequence intubation in acutely ill patients: a multicentre randomised controlled trial. *Lancet.* 2009; 374: 293-300. Doi: 10.1016/S0140-6736(09)60949-1
+- [5] Matchett G, Gasanova C, Riccio CA, Nasir D, Sunna MC, Bravenec BJ et al. Etomidate versus ketamine for emergency endotracheal intubation: a randomized clinical trial. *Intensive Care Med.* 2022; 48(1) :78-91. Doi: 10.1007/s00134-021-06577-x.
+- [6] Russotto V, Tassistro E, Myatra SN, Parotto M, Antolini L, Bauer P et al. Peri-intubation Cardiovascular Collapse in Patients Who Are Critically Ill: Insights from the INTUBE Study. *Am J Respir Crit Care Med.* 2022; 206: 449-58. Doi: 10.1164/rccm.202111-2575OC.
+- [7] James Li MD, Heather Murphy, Lavoie MD, Chris Burgas (DO), Jorge Martinez MD, Charles Preston MD. Complications of emergency intubation with and without paralysis. *The American Journal of Emergency Medicine, Volume 17, Issue 2, March 1999, Pages 141-143.*[8] Wilcox SR, Bittner EA, Elmer J, Seigel TA, Nguyen N TP, Dhillon A et al. Neuromuscular blocking agent administration for emergent tracheal intubation is associated with decreased prevalence of procedure-related complications. *Critical Care Medicine*; 40(6): 1808-1813. DOI: 10.1097/CCM.0b013e31824e0e67.
+
+[9] Guihard B, Chollet-Xemard C, Lakhnati P, Vivien B, Broche C, Savary S et al. Effect of Rocuronium vs Succinylcholine on Endotracheal Intubation Success Rate Among Patients Undergoing Out-of-Hospital Rapid Sequence Intubation: A Randomized Clinical Trial. *JAMA*. 2019; 322: 2303-12. Doi: 10.1001/jama.2019.18254.
+
+[10] Hiestand B, Cudnik MT, Thomson D, Werman HA. Rocuronium versus succinylcholine in air medical rapid-sequence intubation. *Prehosp Emerg Care*. 2011; 15: 457-63. DOI: 10.3109/10903127.2011.569853.
+
+[11] Tran DT, Newton EK, Mount VA, Lee JS, Wells GA, Perry J. Rocuronium versus succinylcholine for rapid sequence induction intubation. *Cochrane Database Syst Rev*. 2015(10): CD002788. Doi: 10.1002/14651858.CD002788.
+
+[12] Ferguson I, Buttfield A, Burns B, Reid C, Shepherd S, Milligan J et al. Fentanyl versus placebo with ketamine and rocuronium for patients undergoing rapid sequence intubation in the emergency department: The FAKT study-A randomized clinical trial. *Acad Emerg Med*. 2022 ;29 :719-28. Doi: 10.1111/acem.14446.
+
+[13] Lyon RM, Perkins ZB, Chatterjee D, Lockey DJ, Russell MQ, Kent, Surrey & Sussex Air Ambulance Trust. Significant modification of traditional rapid sequence induction improves safety and effectiveness of pre-hospital trauma anaesthesia. *Crit Care*. 2015 ; 19 :134. Doi : 10.1186/s13054-015-0872-2.
+
+[14] Bonnet M-P, Garnier M, Keita H, Compère V, Arthuis C, Raia-Barjat T et al. Guidelines for the management of women with severe pre-eclampsia. *Anaesth Crit Care Pain Med* 2021; 40: 100901. <https://doi.org/10.1016/j.accpm.2021.100901>.
+
+#### **CHAMP 4. Procédure d'intubation trachéale**
+
+**Question : L'utilisation systématique en première intention d'un dispositif pour guider le trajet de la sonde d'intubation trachéale (stylet malléable ou mandrin long béquillé), permet-elle de réduire la morbi-mortalité au cours de l'intubation en situation d'urgence ?**
+
+*Experts : Experts : Frédéric Adnet (SFMU, Paris), Samir Jaber (SFAR, Montpellier)*
+
+**R4.1 – Lors de l'intubation en situation d'urgence, il est probablement recommandé d'utiliser systématiquement en première intention un dispositif (stylet malléable ou mandrin long béquillé) pour guider le trajet de la sonde d'intubation trachéale afin de réduire la morbi-mortalité.**
+
+**GRADE 2 (Accord Fort)**
+
+**Argumentaire :**
+
+Dans le contexte de l'urgence hors bloc opératoire et soins critiques, il n'existe pas de données dans la littérature permettant de privilégier le stylet malléable ou le mandrin long béquillé pour guider le trajet de la sonde d'intubation.
+
+**- Stylet malléable [Figure 1]**
+
+Le stylet est un introducteur rigide mais malléable qui s'adapte à l'intérieur de la sonde d'intubation et permet de préformer la sonde, pour faciliter son passage à travers les cordes vocales avant d'être retiré.
+
+L'étude STYLETO est une étude multicentrique, randomisée, contrôlée réalisée en France [1]. Elle concernait des patients adultes intubés dans 32 services de soins critiques pour une insuffisance respiratoire aiguë dans près de la moitié des cas. Elle comparait l'intubation trachéale en laryngoscopie directe (Macintosh), avec (N = 501) versus sans stylet malléable (N = 498) lors de la première tentative. Une intubation trachéale avec succès au cours de la première laryngoscopie (objectif principal) était observée chez 392 patients (78,2 %) dans le groupe stylet malléable versus 356 patients (71,5 %) dans le groupe sans stylet malléable (aOR,6,7; IC 95% 1,4–12,1 ; risque relatif 1,10 ; IC 95%,1,02–1,18 ;  $p = 0,01$ ). Il n'y avait pas différence significative concernant les complications liées à l'intubation (douleurs ORL comprises) 38,7 % dans le groupe stylet malléable vs 40,2 % dans le groupe sans stylet. Cette étude concluait en faveur de l'utilisation d'un stylet malléable pour améliorer le succès d'intubation trachéale à la première tentative.
+
+- Mandrin long béquillé [Figure 2]
+
+L'utilisation systématique d'un mandrin long béquillé (MLB) a aussi été proposée comme technique d'abord des voies aériennes supérieures en situation d'urgence afin de réduire les difficultés d'intubation. Cette technique consiste à cathétériser la trachée avec ce guide puis, sous laryngoscopie directe ou vidéolaryngoscopie, de faire coulisser la sonde sur ce guide afin d'assurer une intubation endotrachéale. C'est donc une technique à quatre mains nécessitant deux opérateurs. En cas de difficulté de visualisation de la glotte (Cormack  $\geq 2$ ), le MLB a fait la preuve de son efficacité en cas d'échec d'intubation à la première tentative d'utilisation [2-4]. Ainsi, logiquement, cette technique a été proposée comme technique de première intention dans le cadre de l'intubation en situation d'urgence [5].
+
+L'essai BEAM Trial randomisé, monocentrique, réalisé en médecine d'urgence chez des patients avec des critères d'intubation difficile a comparé le succès au cours de la première tentative d'intubation trachéale dans un groupe où l'intubation était réalisée avec un MLB [mandrin d'Eschmann] vs sans mandrin mais avec un stylet malléable [6]. Dans cette étude, le taux d'intubation réussie à la première laryngoscopie était plus important dans le groupe MLB (98 %) versus le groupe stylet (87%) avec une différence de risque absolue de 11 % (IC 95 % : 7-14 %). La durée d'intubation (38 vs 36 secondes) et l'incidence de survenue d'une hypoxémie (13 % vs 14 %) étaient comparables entre les deux groupes.
+
+L'étude BOUGIE est un essai clinique randomisé, ouvert, pragmatique, contrôlé, multicentrique en groupes parallèles [7]. Dans cet essai, la majorité des patients inclus était intubée dans un service d'urgences (63 %). Un grand nombre des patients inclus (42 %) présentaient au moins un critère d'intubation difficile. Le critère de jugement principal de cette étude qui comparait un bras avec stylet malléable dans la sonde (N =546) versus un bras avec mandrin long béquillé (N=556) était le succès d'intubation dès la première tentative. L'unique objectif secondaire était le taux d'épisodes d'hypoxémie sévère, définie par une SpO<sub>2</sub> inférieure à 80 % au cours de la procédure d'intubation et jusque dans les deux minutes suivantes. Dans cette étude, la vidéolaryngoscopie était utilisée dans près de 75 % des intubations. Les taux d'intubation réussie dès la première tentative étaient proches dans les 2 bras, avec 80,4 % lors de l'usage du MLB, et 83 % lors de l'usage du stylet, sans différence statistiquement significative. Les analyses adaptées au critère de jugement ou en sous-groupe ne montraient pas non plus de différence significative. Ces résultats n'étaient notamment pas influencés par l'existence de critères d'intubation difficile ou par l'utilisation ou non d'un vidéolaryngoscope. L'hypoxémie sévère a été rapportée chez 11 % des patients du groupe MLB, contre 8,8 % dans le groupe « stylet » (différence absolue à 2,2 %, intervalle de confiance 95 % : -1,6-6,0). Le taux de complications était comparable (1,8 %) dans les 2 groupes. En conclusion, cet essai n'a pas validé l'usage systématique en 1ère intention d'un MLB en comparaison à l'usage d'un stylet malléable. En revanche, la durée d'intubation, qui nécessitait 4 mains pour être réalisée, était allongée dans le bras MLB.
+
+Dans une méta-analyse publiée en 2019, qui regroupait 5 essais randomisés Nord-Américains et incluait 1038 patients, les auteurs ne mettaient pas en évidence de supériorité du MLB versus le stylet malléable considéré comme un standard de soins pour l'intubation (RR 1,03 ; intervalle de confiance 95 % : 0,85–1,24) [8].
+
+Dans une autre méta-analyse publiée en 2024, les auteurs étudiaient au sein d'une population adulte le taux d'incidence des intubations trachéales réalisées avec succès entre un groupe intubé avec usage d'un MLB et un groupe intubé sans MLB (le plus souvent avec un stylet malléable, ou plus rarement sans) [9].Cette méta-analyse regroupait 12 études randomisées et 6 études observationnelles. Neuf études concernaient une population intubée en urgence (N = 8070 patients). L'intubation était indifféremment réalisée avec un vidéolaryngoscope ou en laryngoscopie directe. Les auteurs statuaient en faveur de l'usage du MLB en première intention (RR 1,11, intervalle de confiance 95 % : 1,05-1,16), mais la conclusion était entourée de précautions, puisque le degré de certitude était considéré comme faible.
+
+Dans une étude observationnelle, de type avant (N = 543) vs après (N = 238), qui concernait une population adulte intubée en urgence en préhospitalier par des opérateurs expérimentés avec un vidéolaryngoscope, les auteurs montraient que l'intubation avec l'aide systématique d'un MLB majorait les chances de succès pour une intubation trachéale à la première tentative (RR 98,2 % ; intervalle de confiance 95 % : 96,6-99,0 %) dans le groupe MLB vs (RR 85,7 % ; intervalle de confiance 95 % (80,7-89,6 % p < 0,0001) dans le groupe contrôle où l'intubation était réalisée indifféremment avec ou sans usage d'un stylet malléable [10].
+
+#### Références
+
+- [1] Jaber S, Rollé A, Godet T, Terzi N, Riu B, Asfar P et al. Effect of the use of an endotracheal tube and stylet versus an endotracheal tube alone on first-attempt intubation success : a multicentre, randomized clinical trial in 999 patients. *Intensive Care Med.* 2021 ; 47 : 653-64. Doi : 10.1007/s00134-021-06417-y.
+- [2] Latto IP, Stacey M, Mecklenburgh J, Vaughan RS. Survey of the use of the gum elastic bougie in clinical practice. *Anaesthesia.* 2002 ; 57 : 379-84. DOI : 10.1046/j.1365-2044.2002.02411.x.
+- [3] Combes X, Le Roux B, Suen P, Dumerat M, Motamed C, Sauvat S et al. Unanticipated difficult airway in anesthetized patients : prospective validation of a management algorithm. *Anesthesiology* 2004 ; 100 : 1146-50. Doi : 10.1097/00000542-200405000-00016.
+- [4] Jabre P, Combes X, Leroux B, Aaron E, Auger H, Margenet A et al. Use of gum elastic bougie for prehospital difficult intubation. *Am J Emerg Med.* 2005 ; 23 : 552-5. DOI : 10.1016/j.ajem.2004.12.005.
+- [5] Quintard H, L'Her E, Pottecher J, Adnet F, Constantin JM, Dejong A et al. Intubation et extubation du patient de réanimation. *Anesth Reanim* 2018 ; 4 : 522-547.
+- [6] Driver EB, Prekker ME, Klein LR, Reardon RF, Miner JR, Fagerstrom ET and al. Effect of Use of a Bougie vs Endotracheal Tube and Stylet on First-Attempt Intubation Success Among Patients With Difficult Airways Undergoing Emergency Intubation A Randomized Clinical Trial. *JAMA.* 2018 ; 319 : 2179-89. Doi : 10.1001/jama.2018.6496.
+- [7] Driver BE, Semler MW, Self WH, Ginde AA, Trent SA, Gandotra S et al for the BOUGIE Investigators and the Pragmatic Critical Care Research Group. Effect of Use of a Bougie vs Endotracheal Tube With Stylet on Successful Intubation on the First Attempt Among Critically Ill Patients Undergoing Tracheal Intubation A Randomized Clinical Trial. *JAMA.* 2021 ; 326 : 2488-97. Doi : 10.1001/jama.2021.22002.
+- [8] Sheu Y-J, Yu S-W, Huang T-W, Liu F-L, Lin Y-K, Tam K-W. Comparison of the efficacy of a bougie and stylet in patients with endotracheal intubation : A meta-analysis of randomized controlled trials. *J Trauma Acute Care Surg* 2019 ; 86 : 902-8. Doi : 10.1097/TA.0000000000002216.
+- [9] Von Hellmann R, Fuhr N, Maia IW, Gerberi D, Pedrollo D, Bellolio F et al. Effect of Bougie Use on First-Attempt Success in Tracheal Intubations : A Systematic Review and Meta-Analysis. *Ann Emerg Med.* 2024 ; 83 : 132-44. Doi : 10.1016/j.annemergmed.2023.08.484.
+- [10] Angerman S, Kirves H, Nurmi J. A before-and-after observational study of a protocol for use of the C-MAC videolaryngoscope with a Frova introducer in pre-hospital rapid sequence intubation. *Anaesthesia.* 2018 ; 73 : 348-355. Doi : 10.1111/anae.14182.
+- [11] Galinski M, Simonet B, Catoire P, Telier E, Revel P, Pradeau C et coll. Le mandrin long béquillé : est-ce systématique ? *Annales françaises de médecine d'urgence.* 2022 ; 12(5) : 313-20.![A five-step diagram showing the procedure for using a flexible stylet with an intubation tube. Step 1: The intubation tube. Step 2: Lubricating the stylet. Step 3: Inserting the stylet in a hockey stick position. Step 4: Ensuring the stylet tip does not exceed the tube tip by 1-2 cm. Step 5: Removing the stylet when the tube is at the glottis.](0849c144f444204472be7229943b65c3_1_img.webp)
+
+**1** Sonde d'intubation
+
+**2** Lubrification du stylet qui doit aisément glisser dans la sonde d'intubation
+
+**3** Introduire le stylet en préformant l'extrémité en crosse de hockey
+
+**4** L'extrémité du stylet ne doit pas dépasser l'extrémité de la sonde (garder une sécurité de 1 à 2 cm)
+
+**5** Retirer le stylet quand la sonde est juste en face de la glotte, en faisant coulisser la sonde sur le stylet
+
+**Figure 1 : Bonnes pratiques pour l'usage du stylet malléable (remerciements : S Jaber)**![Figure 2: A series of eight photographs (A-H) illustrating the proper techniques for using a long-beaked laryngoscope on a medical mannequin. Panel A shows the components of the laryngoscope. Panels B through H show the step-by-step process of inserting the laryngoscope into the mannequin's mouth, from initial placement to final alignment with the vocal cords.](a208b8d42744a16dd80b45c7ff584a01_1_img.webp)
+
+**Figure 2 : Bonnes pratiques d'usage du mandrin long béquillé (d'après [11])**
+
+**Question :** La vidéolaryngoscopie en première intention comparée à la laryngoscopie directe permet-elle de réduire la morbi-mortalité au cours de l'intubation trachéale en situation d'urgence ?
+
+*Experts : Michel Galinski (SFMU, Bordeaux), Hervé Quintard (SFAR, Genève)*
+
+**ABSENCE DE RECOMMANDATION** - En préhospitalier, l'hétérogénéité des données actuelles (expérience de l'opérateur, type de vidéolaryngoscope) ne permettent pas d'émettre une recommandation concernant le choix entre vidéolaryngoscope et laryngoscopie directe en première intention pour réduire la morbi-mortalité.
+
+**ABSENCE DE RECOMMANDATION**
+
+**R4.2** - En intrahospitalier, il est recommandé d'utiliser le vidéolaryngoscope en première intention pour l'intubation trachéale, hors bloc opératoire et soins critiques, afin de réduire la morbi-mortalité.
+
+**GRADE 1 (Accord Fort)**### **Argumentaire :**
+
+Jusqu'à une période récente, il n'existait pas de consensus sur le choix entre laryngoscopie directe vs vidéolaryngoscope pour l'intubation trachéale en urgence d'un patient adulte hors bloc opératoire alors qu'un consensus existait au bloc opératoire (hors urgence et en urgence) en faveur de l'utilisation de la vidéolaryngoscopie (meilleur taux de succès à la première laryngoscopie, moins d'hypoxémie, moins d'intubation œsophagienne) [1,2].
+
+### En préhospitalier :
+
+Dans une méta-analyse réalisée pour cette RFE et non encore publiée (**Annexe 1**), dix études se sont intéressées au succès d'intubation au premier essai [3-12] avec un total de 3689 patients. Le taux de succès moyen au premier essai dans le groupe vidéolaryngoscope (VL) était de 74 % versus 77 % dans le groupe laryngoscopie directe (LD). La comparaison des 2 groupes ne retrouvait pas de différence significative avec un OR 0,92 [0,79-1,08]  $p=0,31$ . Il faut noter l'extrême hétérogénéité de l'analyse ( $I^2$  à 92%) qui pourrait être en partie associée au type de matériel utilisé, ainsi qu'à l'expérience de l'opérateur qui n'était pas la même dans toutes les études. Dans le travail de Macke et al. (2020) montrant un succès supérieur dans le groupe VL vs LD, les auteurs ne retrouvaient pas de différence selon l'expérience des opérateurs (forte expérience > 100 intubations avec VL vs faible expérience <100 intubations avec VL) [3]. Cependant dans cette étude la répartition des arrêts cardiaques était clairement inégale (38 % pour VL et 54 % pour LD) sachant que cette indication est associée à un risque augmenté d'échec. Par ailleurs, le taux de succès de la 1<sup>ère</sup> tentative avec le VL (N=76) était de 95 % alors qu'il était de 85 % en intrahospitalier dans l'étude de Prekker (N=705) [13]. Dans la même méta-analyse réalisée pour cette RFE regroupant 7 études randomisées (N = 1395), on retrouve un effet en faveur de l'utilisation de LD en préhospitalier : (OR : 0,35 [0,27-0,46]  $p<0,001$ ) [3,7-12]. L'hétérogénéité entre ces études était également importante ( $I^2=92$ ) ce qui ne permettait pas de conclure avec certitude. Un essai contrôlé randomisé d'équivalence incluant plus de 500 patients avait montré l'absence de différence entre les 2 techniques en signalant qu'elles pouvaient même être complémentaires dans ce contexte [14].
+
+Concernant les complications liées à l'intubation trachéale comme le risque d'intubation œsophagienne, le taux d'inhalation, les traumatismes dentaires ou l'hypoxémie, le niveau des preuves ne permet pas de conclure à la supériorité d'un dispositif par rapport à l'autre.
+
+### En intrahospitalier :
+
+Une méta-analyse publiée en 2017 regroupant 12 études (N = 2583 patients) a comparé la VL et la LD pour une intubation trachéale en urgence hors bloc opératoire [15]. Elle retrouvait une grande hétérogénéité entre les études. Concernant les 9 études menées en intrahospitalier (N =1936), elle ne montrait pas de différence entre les deux appareils pour le taux de réussite à la première tentative (RR, 1,06 ;  $n=1936$  ;  $p=0,14$  ; preuves de qualité modérée), indépendamment de l'expérience des opérateurs ou des types de VL. Une analyse conjointe réalisée pour cette RFE (non publiée), de deux études déjà citées et sept autres études a évalué l'incidence de l'intubation œsophagienne (N= 7174) [5,8,13,16-22] (**Annexe 2**). Le taux d'intubation œsophagienne dans le groupe VL était de 1,6 vs 4,2 % dans le groupe LD (OR 0,44 [0,31-0,63]  $p<0,001$ ). L'hétérogénéité des résultats était faible ( $I^2 = 35$  %). Si l'on s'intéresse uniquement aux études randomisées, sept études portant sur 3105 patients retrouvaient une diminution significative du risque d'intubations œsophagiennes dans le groupe VL (OR 0,57 [0,37-0,92]  $p=0,02$ ). Seules 3 études se sont intéressées à l'inhalation au cours de l'intubation [12,13,17] soit 2324 patients. L'incidence de l'inhalation était de 1,6 % pour le groupe VL vs 2,3 % dans le groupe DL OR 0,67 ([0,36, 1,25]  $p=0,55$  (peu d'hétérogénéitéde l'analyse ( $I^2 < 5\%$ ). Enfin, concernant les bris dentaires, il n'y a pas assez de données dans la littérature pour conclure sur la supériorité d'un dispositif par rapport à un autre.
+
+Depuis la méta-analyse publiée en 2017 [15], une étude prospective s'est intéressée à cette question. L'étude DEVICE, est une étude prospective, randomisée, contrôlée conduite dans 17 services d'urgences ou de réanimation (N = 1417 patients dont 69,7 % ont été intubés dans un service d'urgence) [13]. L'objectif principal de cette étude était de comparer la LD vs. VL concernant le succès d'intubation au cours de la première laryngoscopie après l'inclusion de 1417 patients, l'étude a été interrompue précocement pour supériorité du VL sur le critère principal : 600/705 patients (85,1 %) dans le groupe VL vs. 504/712 patients (70,8 %) dans le groupe LD (différence absolue 14,3 % ; IC 95 % [9,9-18,7] ;  $p < 0,001$ ). Il est à noter que dans le sous-groupe des opérateurs expérimentés (> 100 laryngoscopies), cette différence n'était plus significative. Il n'existait pas de différence entre les deux groupes concernant les complications observées : 21,4 % vs 20,4 % (RR 0,5 % ; IC 95 % [-3,9-4,9]).
+
+L'intégration de l'étude DEVICE à la méta-analyse réalisée pour cette RFE confirme l'intérêt de la vidéolaryngoscopie en intrahospitalier, en termes de succès d'intubation au premier essai (1,51 [1,37-1,67],  $p=0,0001$ ) et de diminution du risque d'intubation œsophagienne (OR 0,44 [0,31-0,63]  $p=0,00001$ ).
+
+#### Références
+
+- [1] Hansel J, Rogers AM, Lewis SR, Cook TM, Smith AF. Videolaryngoscopy versus direct laryngoscopy for adults undergoing tracheal intubation (Review). Cochrane Database of Systematic Reviews 2022, Issue 4. Art. No. : CD011136. DOI : 10.1002/14651858.CD011136.pub3.
+- [2] Ruetzler K, Bustamante S, Schmidt MT, Almonacid-Cardenas F, Duncan A, Bauer A et al. Video Laryngoscopy vs Direct Laryngoscopy for Endotracheal Intubation in the Operating Room. A Cluster Randomized Clinical Trial. JAMA. 2024 ; 331(15) : 1279-1286. Doi : 10.1001/jama.2024.0762
+- [3] Macke C, Gralla F, Winkelmann M, Clausen JD, Haertle M, Krettek C et al. Increased First Pass Success with C-MAC Videolaryngoscopy in Prehospital Endotracheal Intubation—A Randomized Controlled Trial. JCM. 2020 ; 9 : 2719. Doi : 10.3390/jcm9092719.
+- [4] Min BC, Park JE, Lee GT, Kim TR, Yoon H, Cha WC et al. C-MAC Video Laryngoscope versus Conventional Direct Laryngoscopy for Endotracheal Intubation During Cardiopulmonary Resuscitation. Medicina. 2019 ; 55 : 225. Doi : 10.3390/medicina55060225.
+- [5] Okamoto H, Goto T, Wong ZSY, Hagiwara Y, Watase H, Hasegawa K et al. Comparison of video laryngoscopy versus direct laryngoscopy for intubation in emergency department patients with cardiac arrest : A multicentre study. Resuscitation. 2019 ; 136 : 70–7. Doi : 10.1016/j.resuscitation.2018.10.005.
+- [6] Sakles JC, Douglas MJK, Hypes CD, Patanwala AE, Mosier JM. Management of Patients with Predicted Difficult Airways in an Academic Emergency Department. J Emerg Med. 2017 ; 53 : 163–71. Doi : 10.1016/j.jemermed.2017.04.003.
+- [7] Yeatts DJ, Dutton RP, Hu PF, Chang Y-WW, Brown CH. Effect of video laryngoscopy on trauma patient survival : a randomized controlled trial. J Trauma Acute Care Surg. 2013 ; 75 : 212-9
+- [8] Sanguanwit P, Yuksen C, Laowattana N. Direct Versus Video Laryngoscopy in Emergency Intubation : A Randomized Control Trial Study. Bull Emerg Trauma. 2021 ; 9 : 118-24 <https://doi.org/10.30476/beat.2021.89922.1240>.
+- [9] Ahmadi K, Ebrahimi M, Hashemian AM, Sarshar S, Rahimi-Movaghar V. GlideScope Video Laryngoscope for Difficult Intubation in Emergency Patients : A Quasi-Randomized Controlled Trial. Acta Med Iran. 2015 ; 3 : 738–42.
+- [10] Carlson JN, Crofts J, Walls RM, Brown CA. Direct Versus Video Laryngoscopy for Intubating Adult Patients with Gastrointestinal Bleeding. West J Emerg Med. 2015 ; 16 : 1052–6. Doi : 10.5811/westjem.2015.8.28045.
+- [11] Choi HY, Oh YM, Kang GH, Kang H, Jang YS, Kim W, et al. A Randomized Comparison Simulating Face to Face Endotracheal Intubation of Pentax Airway Scope, C-MAC Video Laryngoscope, Glidescope Video Laryngoscope, and Macintosh Laryngoscope. Biomed Res Int. 2015 ; 2015 : 961782. Doi : 10.1155/2015/961782.
+- [12] Driver BE, Prekker ME, Moore JC, Schick AL, Reardon RF, Miner JR. Direct Versus Video Laryngoscopy Using the C-MAC for Tracheal Intubation in the Emergency Department, a Randomized Controlled Trial. Acad Emerg Med. 2016 ; 23 : 433–9. Doi : 10.1111/acem.12933.
+- [13] Prekker ME, Driver BE, Trent SA, Resnick-Ault D, Seitz KP, Russel DW et al. Video versus Direct Laryngoscopy for Tracheal Intubation of Critically Ill Adults. N Engl J Med. 2023 ; 389 : 418-29. Doi : 10.1056/NEJMoa2301601[14] Kreutziger J, Hornung S, Harrer C, Urschl W, Doppler R, Voelckel WG, Trimmel H. Comparing the McGrath Mac Video Laryngoscope and Direct Laryngoscopy for Prehospital Emergency Intubation in Air Rescue Patients : A Multicenter, Randomized, Controlled Trial. *Crit Care Med.* 2019 Oct ; 47(10) : 1362-1370. Doi : 10.1097/CCM.0000000000003918
+
+[15] Jiang J, Ma D, Li B, Yue Y, Xue F. Video laryngoscopy does not improve the intubation outcomes in emergency and critical patients – a systematic review and meta-analysis of randomized controlled trials. *Critical Care.* 2017 ; 21 : 288. Doi : 10.1186/s13054-017-1885-9.
+
+[16] Kim JW, Lee KR, Hong DY, Baek KJ, Lee YH, Park SO. Efficacy of various types of laryngoscope (direct, Pentax Airway Scope and GlideScope) for endotracheal intubation in various cervical immobilization scenarios : a randomised cross-over simulation study. *BMJ Open.* 2016 ; 6 : e011089. Doi : 10.1136/bmjopen-2016-011089.
+
+[17] Michailidou M, O’Keeffe T, Mosier JM, Friese RS, Joseph B, Rhee P et al. A comparison of video laryngoscopy to direct laryngoscopy for the emergency intubation of trauma patients. *World J Surg.* 2015 ; 39 :782–8. Do i: 10.1007/s00268-014-2845-z.
+
+[18] Goksu E, Kilic T, Yildiz G, Unal A, Kartal M. Comparison of the C-MAC video laryngoscope to the Macintosh laryngoscope for intubation of blunt trauma patients in the ED. *Turk J Emerg Med.* 2016 ; 16 :5 3–6. Doi : 10.1016/j.tjem.2016.02.001.
+
+[19] Trimmel H, Kreutziger J, Fitzka R, Szüts S, Derdak C, Koch E et al. Use of the GlideScope Ranger Video Laryngoscope for Emergency Intubation in the Prehospital Setting : A Randomized Control Trial. *Crit Care Med.* 2016 ; 44 : e470-476. Doi : 10.1097/CCM.0000000000001669.
+
+[20] Gao YX, Song YB, Gu ZJ, Zhang JS, Chen XF, Sun H et al. Video versus direct laryngoscopy on successful first-pass endotracheal intubation in ICU patients. *World J Emerg Med.* 2018 ; 9 : 99–104. Doi : 10.5847/wjem.j.1920-8642.2018.02.003.
+
+[21] Silverberg MJ, Li N, Acquah SO, Kory PD. Comparison of video laryngoscopy versus direct laryngoscopy during urgent endotracheal intubation : a randomized controlled trial. *Crit Care Med.* 2015 ; 43 :636–41. Doi : 10.1097/CCM.0000000000000751.
+
+[22] Lascarrou JB, Boisrame-Helms J, Bailly A, Le Thuaut A, Kamel T, Mercier E et al. Video Laryngoscopy vs Direct Laryngoscopy on Successful First-Pass Orotracheal Intubation Among ICU Patients : A Randomized Clinical Trial. *JAMA.* 2017 ; 317 :483–93. Doi : 10.1001/jama.2016.20603.
+
+[23] Breeman W, Van Vledder MG, Verhofstad MHJ, Visser A, Van Lieshout EMM. First attempt success of video versus direct laryngoscopy for endotracheal intubation by ambulance nurses : a prospective observational study. *Eur J Trauma Emerg Surg.* 2020 ; 46(5) :1039–45.
+
+[24] Arima T, Nagata O, Miura T, Ikeda K, Mizushima T, Takahashi A, et al. Comparative analysis of airway scope and Macintosh laryngoscope for intubation primarily for cardiac arrest in prehospital setting. *Am J Emerg Med.* 2014 ;32(1) :40–3.
+
+[25] Ducharme S, Kramer B, Gelbart D, Colleran C, Risavi B, Carlson JN. A pilot, prospective, randomized trial of video versus direct laryngoscopy for paramedic endotracheal intubation. *Resuscitation.* 2017 ;114 :121–6.
+
+[26] Guyette FX, Farrell K, Carlson JN, Callaway CW, Phrampus P. Comparison of video laryngoscopy and direct laryngoscopy in a critical care transport service. *Prehosp Emerg Care.* 2013 ;17(2) :149–54.
+
+[27] Jarvis JL, McClure SF, Johns D. EMS Intubation Improves with King Vision Video Laryngoscopy. *Prehosp Emerg Care.* 2015 ;19(4) :482–9.
+
+[28] Selde W, English K, Heffelfinger M, Eichel J, Ekblad G. Successful airtraq use in an air medical transport system. *Air Med J.* 2014 ;33(6) :331–4.
+
+[29] Trimmel H, Kreutziger J, Fertsak G, Fitzka R, Dittrich M, Voelckel WG. Use of the Airtraq laryngoscope for emergency intubation in the prehospital setting : a randomized control trial. *Crit Care Med.* 2011 ; 39(3) : 489–93.
+
+[30] Sulser S, Ubbmann D, Schlaepfer M, Brueesch M, Goliash G, Seifert B, et al. C-MAC videolaryngoscope compared with direct laryngoscopy for rapid sequence intubation in an emergency department: A randomised clinical trial. *Eur J Anaesthesiol* 2016;33(12):943-8.
+
+[31] Abdelgadir IS, Phillips RS, Singh D, Moncreiff MP, Lumsden JL. Videolaryngoscopy versus direct laryngoscopy for tracheal intubation in children (excluding neonates). *Cochrane Database Syst Rev.* 2017 ;5 : CD011413
+
+[32] Choi HJ, Kim YM, Oh YM, Kang HG, Yim HW, Jeong SH, Korean Emergency Airway Management Registry (KEAMR) investigators. *BMJ Open.* 2015 ;5 : e007884. Doi : 10.1136/bmjopen-2015-007884.
+
+[33] Platts-Mills TF, Campagne D, Chinnock B, Snowden B, Glickman LT, Hendey GW. A comparison of GlideScope video laryngoscopy versus direct laryngoscopy intubation in the emergency department. *Acad Emerg Med* 2009;16(9):866-71.[34] Choi HJ, Kang HG, Lim TH, Chung HS, Cho J, Oh YM, et al. Endotracheal intubation using a GlideScope video laryngoscope by emergency physicians: a multicentre analysis of 345 attempts in adult patients. Emerg Med J 2010;27(5):380-2.
+
+**Question :** En cas d'échec de la première procédure d'intubation trachéale, existe-t-il une (ou des) méthode(s) alternative(s) permettant de réduire la morbi-mortalité ?
+
+*Experts :* Julie Contenti (SFMU, Nice), Olivier Langeron (SFAR, Brest)
+
+**R4.3.1 – En cas d'échec de la première procédure d'intubation, les experts suggèrent de se référer à l'algorithme correspondant à la situation clinique. [Figures 3,4].**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R4.3.2 – En cas d'échec d'intubation trachéale et lorsque la saturation est maintenue ( $SpO_2 > 90\%$ ), les experts suggèrent d'utiliser une méthode de laryngoscopie alternative qui n'a pas été utilisée lors de la première tentative pour diminuer la morbi-mortalité [Figures 3,4].**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R4.3.3 – En cas d'échec d'intubation trachéale et lorsqu'il existe une désaturation sévère ( $SpO_2 \leq 90\%$ ) malgré une ventilation au ballon auto-remplisseur à valve unidirectionnelle (BAVU), les experts suggèrent d'utiliser un dispositif supra-glottique de seconde génération afin de garantir l'oxygénation du patient [Figures 3,4].**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**R4.3.4 – Après échec des tentatives d'intubation trachéale et de mise en place d'un dispositif supra-glottique, et en cas d'impossibilité d'oxygéner le patient ( $SpO_2 \leq 90\%$  malgré une ventilation au BAVU), les experts suggèrent qu'une cricothyroïdomie soit rapidement réalisée pour prévenir la survenue d'un arrêt cardiaque hypoxique [Figures 3,4].**
+
+**AVIS D'EXPERTS (Accord Fort)**
+
+**Argumentaire :**
+
+Quelle que soit la technique d'intubation trachéale utilisée, il est important de préciser que l'oxygénation du patient est l'objectif prioritaire, et que la poursuite de l'algorithme d'intubation trachéale par des méthodes alternatives ne doit être effectuée que si la saturation du patient est maintenue à une valeur sécuritaire ( $> 90\%$ ). Dans la littérature, la définition de l'hypoxémie au cours de l'induction séquence rapide est très majoritairement comprise dans une fourchette de  $SpO_2$  allant de 80 à 90 %. Dans ce contexte, les experts estiment sécuritaire de proposer le seuil de 90 %, facile à retenir, comme seuil pivot pour adapter la prise en charge en urgence de ces patients. C'est ce seuil qui avait été retenu dans la RFE « Intubation difficile et extubation en anesthésie chez l'adulte » dans laquelle la survenue d'une désaturation artérielle en oxygène était définie comme une  $SpO_2 \leq 90\%$  [1].
+
+**En cas d'échec de la première tentative d'intubation trachéale** classiquement définie comme un échec de cathétérisation de la trachée après deux laryngoscopies avec le laryngoscope choisi en première intention (LD ou VL). Il est important de distinguer deux situations :
+
+- L'absence d'hypoxémie ( $SpO_2 > 90\%$ ), parfois après reprise de la ventilation à l'aide d'un masque et d'un BAVU. Dans ce contexte, l'indication d'une intubation trachéale ayant été posée et le patient étant dans des conditions de sécurité satisfaisante, il apparaît légitime de proposer la technique alternative delaryngoscopie (directe ou vidéo) n'ayant pas été mise en œuvre lors de la première tentative. L'échec de cette deuxième modalité ou l'impossibilité de la mettre en œuvre par manque d'expertise de l'opérateur (cf. question 2.4) doit amener à basculer dans une stratégie d'oxygénation/ventilation à l'aide de dispositifs supra-glottiques de 2ème génération. (cf. infra).
+
+- La présence d'une hypoxémie ( $SpO_2 \leq 90\%$ ) en dépit d'une reprise de la ventilation au masque et BAVU. Dans ce contexte, la priorité devient l'oxygénation rapide du patient. L'utilisation des dispositifs supra-glottiques de 2ème génération est bien décrite en situation d'urgence (cf. argumentaire de la question 1.1) et ces dispositifs sont une alternative à l'intubation trachéale afin d'assurer la ventilation et l'oxygénation du patient. Il convient donc de proposer leur utilisation dans cette situation d'échec de la laryngoscopie comme cela est déjà recommandé pour les patients de soins critiques ou d'anesthésie [1,2].
+
+**En cas d'échec des tentatives de laryngoscopie et d'insertion du masque laryngé**, et toujours dans une stratégie priorisant l'oxygénation, on distingue à nouveau deux situations :
+
+- L'absence d'hypoxémie ( $SpO_2 > 90\%$ ), après reprise de la ventilation à l'aide d'un masque et d'un BAVU. Il est alors prioritaire de maintenir l'oxygénation. Dans le cadre d'une prise en charge préhospitalière, le transport peut être effectué ainsi, après information et accord des équipes hospitalières d'accueil afin de mobiliser en amont les ressources expertes en abord des voies aériennes (médecin anesthésiste et/ou ORL). Le réveil du patient peut également se discuter dans ce contexte selon l'indication initiale de la procédure d'intubation.
+
+- La présence d'une hypoxémie ( $SpO_2 \leq 90\%$ ) en dépit d'une reprise de la ventilation au masque et BAVU. Cette situation contre-indique le réveil du patient ou son transport et impose la réalisation immédiate d'une cricothyroïdomie (cf. infra).
+
+### **Cricothyroïdomie**
+
+Tous les opérateurs amenés à réaliser une procédure d'intubation trachéale doivent connaître la technique et être en mesure de pratiquer ce geste [3]. Le repérage de la membrane cricothyroïdienne peut s'avérer difficile, en particulier chez les patients obèses [4] mais il peut être facilité par un repérage échographique [5]. Concernant la technique, le choix semble se porter vers la technique SMS (Scalpel, Mandrin, Sonde) qui consiste à inciser la peau par un trait vertical, puis la membrane cricothyroïdienne avec un scalpel avant de cathétériser la trachée avec un mandrin long béquillé, puis faire coulisser une sonde de calibre 6,5 sur la bougie en effectuant des mouvements de rotation [3]. Cette technique s'est avérée plus rapide que la technique percutanée à l'aiguille utilisant la méthode de Seldinger [6].
+
+### **Références**
+
+- [1] Langeron O, Bourgain J-L, Francon D, Amour J, Baillard C, Bouroche G, et al. Difficult intubation and extubation in adult anaesthesia. Anaesth Crit Care Pain Med 2018; 37: 639–51. <https://doi.org/10.1016/j.accpm.2018.03.013>.
+- [2] Quintard H, l'Her E, Pottecher J, Adnet F, Constantin J-M, De Jong A, et al. Intubation and extubation of the ICU patient. Anaesth Crit Care Pain Med 2017; 36: 327–41. <https://doi.org/10.1016/j.accpm.2017.09.001>.
+- [3] Frerk C, Mitchell VS, McNarry AF, Mendonca C, Bhagrath R, Patel A, et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. Br J Anaesth 2015 ; 115 : 827–48. <https://doi.org/10.1093/bja/aeu371>.
+- [4] Aslani A, Ng S-C, Hurley M, McCarthy KF, McNicholas M, McCaul CL. Accuracy of identification of the cricothyroid membrane in female subjects using palpation: an observational study. Anesth Analg 2012; 114: 987–92. <https://doi.org/10.1213/ANE.0b013e31824970ba>.
+- [5] Osman A, Sum KM. Role of upper airway ultrasound in airway management. J Intensive Care 2016 ;4 :52. <https://doi.org/10.1186/s40560-016-0174-z>.[6] Heymans F, Feigl G, Graber S, Courvoisier DS, Weber KM, Dulguerov P. Emergency Cricothyrotomy Performed by Surgical Airway-naïve Medical Personnel: A Randomized Crossover Study in Cadavers Comparing Three Commonly Used Techniques. Anesthesiology 2016; 125: 295–303. <https://doi.org/10.1097/ALN.0000000000001196>.
+
+### Intubation en urgence extrahospitalière
+
+```
+
+graph TD
+    Start[Pré-oxygénation systématique  
+- VNI sauf CI (Trauma facial, ...)  
+- BAVU ou MHC si CI VNI] --> Choice[Au choix selon expérience / expertise opérateur]
+    Choice --> LD[Laryngoscopie directe* (LD)  
++  
+Stylet ou mandrin long béquillé  
+MAXIMUM 2 tentatives en 2 min]
+    Choice --> VL[Vidéolaryngoscopie* (VL)  
++  
+Stylet ou mandrin long béquillé  
+MAXIMUM 2 tentatives en 2 min]
+    LD --> Echec1[Echec*]
+    VL --> Echec1
+    Echec1 --> Vent1[Ventilation manuelle BAVU  
+Renfort Possible ?]
+    Vent1 --> SpO2_90_1[SpO2 ≤ 90 %]
+    Vent1 --> SpO2_90_2[SpO2 > 90 %]
+    SpO2_90_1 --> Dispositif[DISPOSITIF SUPRA GLOTTIQUE  
+Dispositif supra glottique 2ème génération  
+Permettant ventilation et intubation  
+MAXIMUM 1 TENTATIVE]
+    SpO2_90_2 --> Tech[TECHNIQUE ALTERNATIVE (maxi 1 tentative)  
+Si VL en 1ère intention : LD + cathétérisation de la trachée avec mandrin long béquillé (en particulier si cathétérisme trachéal difficile)  
+Si LD en 1ère intention : VL + stylet ou mandrin long B]
+    Tech --> Echec2[Echec*]
+    Dispositif --> Echec2
+    Echec2 --> Vent2[Ventilation manuelle BAVU]
+    Vent2 --> SpO2_90_3[SpO2 ≤ 90 %]
+    Vent2 --> SpO2_90_4[SpO2 > 90 %]
+    SpO2_90_3 --> Cric[Cricothyrotomie SMS (scalpel/mandrin/sonde)]
+    SpO2_90_4 --> Transport[Transport vers hôpital (SAUV ou déchoquage)**  
++/- réveil si envisageable]
+    Cric --> Succes[Succès]
+    Transport --> Succes
+    Cric --> Capn[Contrôle capnographique]
+    Capn --> Succes
+  
+```
+
+**Pré-oxygénation systématique**  
+- VNI sauf CI (Trauma facial, ...)  
+- BAVU ou MHC si CI VNI
+
+**Après induction : si SpO2 ≤ 90%**  
+- Choix opérateur disponible le plus expérimenté  
+- Ventilation manuelle BAVU (Basse pression et petits volumes)
+
+**Laryngoscopie directe\* (LD)**  
++  
+Stylet ou mandrin long béquillé  
+MAXIMUM 2 tentatives en 2 min
+
+**Vidéolaryngoscopie\* (VL)**  
++  
+Stylet ou mandrin long béquillé  
+MAXIMUM 2 tentatives en 2 min
+
+**Echec\***
+
+**SpO2 ≤ 90 %**
+
+**SpO2 > 90 %**
+
+**VENTILATION manuelle BAVU  
+Renfort Possible ?**
+
+**TECHNIQUE ALTERNATIVE (maxi 1 tentative)**  
+Si VL en 1<sup>ère</sup> intention : LD + cathétérisation de la trachée avec mandrin long béquillé (en particulier si cathétérisme trachéal difficile)  
+Si LD en 1<sup>ère</sup> intention : VL + stylet ou mandrin long B
+
+**DISPOSITIF SUPRA GLOTTIQUE**  
+Dispositif supra glottique 2<sup>ème</sup> génération  
+Permettant ventilation et intubation  
+MAXIMUM 1 TENTATIVE
+
+**Echec\***
+
+**SpO2 ≤ 90 %**
+
+**SpO2 > 90 %**
+
+**VENTILATION manuelle BAVU**
+
+**Cricothyrotomie SMS (scalpel/mandrin/sonde)**
+
+**Transport vers hôpital (SAUV ou déchoquage)\*\*  
++/- réveil si envisageable**
+
+**Succès**
+
+**Contrôle capnographique**
+
+\* Si la procédure est prolongée (> 5 mn): évoquer la possibilité d'un complément d'induction anesthésique par hypnotique +/- curare  
+\*\* Après information du service receveur
+
+## L'OXYGÉINATION PRIME À TOUTES LES ÉTAPES
+
+**Figure 3 : Algorithme de prise en charge extrahospitalière en cas d'échec d'intubation trachéale**  
+ (NB : les CI à la VNI sont listées dans la 3<sup>ème</sup> conférence de consensus commune de la SFAR, la SPLF et de la SRLF. Ventilation Non Invasive au cours de l'insuffisance respiratoire aiguë (nouveau-né exclu).  
+ Résumé ; [https://www.sfmue.org/upload/consensus/Txt\\_court\\_A5.pdf](https://www.sfmue.org/upload/consensus/Txt_court_A5.pdf)**Intubation en urgence intrahospitalière**
+
+*Si détresse respiratoire sur obstruction des VAS : discuter trachéotomie de sauvetage au bloc opératoire en VS sous AL avant toute induction*
+
+**Pré-oxygénation systématique**  
+ - VNI sauf CI (Trauma facial, ...)  
+ - BAVU, OHD ou MHC si CI VNI
+
+**Après induction : si SpO2 ≤ 90%**  
+ - Choix opérateur disponible le plus expérimenté  
+ - Ventilation manuelle BAVU (Basse pression et petits volumes)
+
+```
+
+graph TD
+    Start[Intubation en urgence intrahospitalière] --> PreO2[Pré-oxygénation systématique  
+- VNI sauf CI (Trauma facial, ...)  
+- BAVU, OHD ou MHC si CI VNI]
+    Start --> PostInd[Après induction : si SpO2 ≤ 90%  
+- Choix opérateur disponible le plus expérimenté  
+- Ventilation manuelle BAVU (Basse pression et petits volumes)]
+    
+    PreO2 --> VL[Vidéolaryngoscopie  
++ Stylet ou mandrin long béquillé  
+MAXIMUM 2 tentatives en 2 min *]
+    VL --> E1[Echec*]
+    VL --> S90[SpO2 ≤ 90 %]
+    VL --> S90P[SpO2 > 90 %]
+    
+    S90 --> VM1[Ventilation manuelle BAVU  
+Appel renfort expert]
+    S90P --> LD[Laryngoscopie directe  
++ Stylet ou mandrin long béquillé  
+OU  
+Fibroscope  
+MAXIMUM 1 tentative  
+Choix fonction contexte/expertise]
+    
+    VM1 --> DSG[Dispositif supra glottique 2ème génération  
+MAXIMUM 1 tentative]
+    LD --> E2[Echec*]
+    LD --> S90P
+    
+    DSG --> E3[Echec*]
+    DSG --> S90P
+    
+    E3 --> VM2[Ventilation manuelle BAVU]
+    E2 --> VM2
+    
+    VM2 --> RP[Réveil possible ?]
+    RP -- Non --> CT[Cricothyrotomie  
+SMS (scalpel/mandrin/sonde)]
+    RP -- Oui --> R[Réveil]
+    
+    S90P --> S[Succès]
+    S --> CP[Contrôle capnographique]
+    
+    Note[* Si la procédure est prolongée (> 5 mn) : évoquer la possibilité d'un complément d'induction anesthésique par hypnotique +/- curare]
+  
+```
+
+## L'OXYGÉINATION PRIME À TOUTES LES ÉTAPES
+
+**Figure 4 : Algorithme de prise en charge intrahospitalière en cas d'échec d'intubation trachéale**
+
+(NB : les CI à la VNI sont listées dans la 3<sup>ème</sup> conférence de consensus commune de la SFAR, la SPLF et de la SRLF. Ventilation Non Invasive au cours de l'insuffisance respiratoire aiguë (nouveau-né exclu).  
+ Résumé ; [https://www.sfmu.org/upload/consensus/Txt\\_court\\_A5.pdf](https://www.sfmu.org/upload/consensus/Txt_court_A5.pdf)## **CHAMP 5. Prise en charge après intubation trachéale**
+
+**Question :** Existe-t-il des méthodes de contrôle du bon positionnement de la sonde d'intubation trachéale permettant de réduire la morbi-mortalité chez un patient qui vient d'être intubé en urgence ?
+
+*Experts : Fanny Vardon (SFAR, Toulouse), Alice Hutin (SFMU, Paris)*
+
+<table border="1"><tr><td><b>R5.1.1 – Il est recommandé d'utiliser systématiquement la capnographie pour confirmer le bon positionnement de la sonde d'intubation trachéale, du dispositif supra-glottique ou de l'abord trachéal direct lors d'une intubation en urgence pour réduire la morbi-mortalité.</b></td></tr></table>
+
+<table border="1"><tr><td style="text-align: right;"><b>GRADE 1 (Accord Fort)</b></td></tr></table>
+
+<table border="1"><tr><td><b>R5.1.2 – Il est probablement recommandé d'utiliser l'échographie trans-trachéale et pulmonaire pour vérifier le bon positionnement de la sonde d'intubation trachéale lorsque la confirmation par capnographie est impossible afin de réduire la morbi-mortalité.</b></td></tr></table>
+
+<table border="1"><tr><td style="text-align: right;"><b>GRADE 2 (Accord Fort)</b></td></tr></table>
+
+### **Argumentaire :**
+
+Les données de la littérature montrent que l'intubation œsophagienne n'est pas rare (8 % d'intubations œsophagiennes sur 297 intubations urgentes d'une cohorte prise en charge hors bloc opératoire [1], 5,6 % (n=167) d'intubations œsophagiennes relevées à partir d'une cohorte internationale de 2959 patients nécessitant une intubation urgente en réanimation [2] et 4 % (26/650) dans une série française prospective menée en préhospitalier [3].
+
+La détection de dioxyde de carbone exhalé (CO<sub>2</sub> expiré) par capnographie continue est la méthode de référence pour exclure une intubation œsophagienne. L'intérêt de son utilisation est souligné depuis 2011 pour tout patient qui bénéficie d'une intubation trachéale ou de l'utilisation d'un dispositif supra-glottique ou assimilé [4]. L'étude NAP4 a étudié les complications majeures en lien avec la gestion des voies aériennes dans tous les hôpitaux du National Health Service (UK) sur une période d'un an. Un total de 184 événements répondait aux critères d'inclusion dont 36 en soins intensifs et 15 aux urgences. Pour les auteurs de l'étude, le fait de ne pas utiliser la capnographie a contribué à 74 % des cas de décès ou de lésions neurologiques persistantes [4]. Concernant la façon de monitorer le CO<sub>2</sub> exhalé, deux études prospectives menées en préhospitalier comparant l'auscultation, la capnométrie et la capnographie ont montré une supériorité de la capnographie pour confirmer l'intubation trachéale par rapport à la capnométrie seule ou à l'auscultation, en particulier avec une meilleure détection des mauvais placements de la sonde pendant la réanimation d'un arrêt cardiaque préhospitalier [5,6]. Dans une étude publiée en 1986, l'échographie trachéale a été proposée pour détecter la bonne position de la sonde d'intubation chez des nouveau-nés [7]. Depuis, le nombre de publications concernant le contrôle échographique du bon positionnement de la sonde d'intubation (intratrachéale et non sélective) n'a cessé de croître et est maintenant majoritaire sur une recherche PUBMED des 5 dernières années. Une méta-analyse publiée en 2018 par Gottlieb et al. a étudié la capacité de l'échographie trans-trachéale à vérifier le positionnement de la sonde d'intubation. A partir de 17 études analysant 1595 patients, la sensibilité globale de l'échographie était de 98,7 % (IC95 % [97,8-99,2 %]) avec une spécificité de 97,1 % (IC95 % [92,4-99 %]) par rapport à la technique de référence(capnographie). Le temps moyen de confirmation à l'échographie du bon positionnement de la sonde était de 13 secondes. Cette méta-analyse soulignait la rapidité de réalisation de la technique et proposait de l'utiliser en complément quand la capnographie était indisponible ou dysfonctionnelle [8]. Une autre méta-analyse plus récente de 2022 s'est intéressée à la capacité de l'échographie pulmonaire à détecter un mauvais placement de la sonde d'intubation, en particulier une intubation bronchique sélective en recherchant le glissement pleural, et les mouvements diaphragmatiques. Neuf études répondant aux critères étaient incluses avec 617 patients, avec pour méthode de référence soit la fibroscopie, soit la radiographie du thorax. La précision de l'échographie pulmonaire pour détecter l'intubation trachéale ou bronchique était de 86,7 %, avec une sensibilité de 93 % et une spécificité de 75 %. Les auteurs soulignaient l'utilité de la réalisation de l'échographie pulmonaire comme un outil pertinent pour préciser le positionnement de la sonde d'intubation en attendant la confirmation par radiographie ou fibroscopie [9]. L'analyse de la littérature n'a retrouvé aucune étude démontrant la supériorité d'une technique de contrôle du bon positionnement de la sonde d'intubation par rapport à l'utilisation de la capnographie pour diminuer la mortalité des patients intubés en urgence.
+
+#### Références
+
+- [1] Schwartz DE, Matthay MA, Cohen NH. Death and other complications of emergency airway management in critically ill adults. A prospective investigation of 297 tracheal intubations. *Anesthesiology*. 1995 ; 82 : 367-376. Doi : 10.1097/00000542-199502000-00007.
+- [2] Russotto V, Myatra SN, Laffey JG, Tassistro E, Antolini L, Bauer P et al. Intubation Practices and Adverse Peri-intubation Events in Critically Ill Patients From 29 Countries. *JAMA*. 2021 ; 325 : 1164-72. Erratum in : *JAMA*. 2021 ; 325 : 2507. Doi : 10.1001/jama.2021.1727.
+- [3] Jabre P, Avenel A, Combes X, Kulstad E, Mazariegos I, Bertrand L, et al. Morbidity related to emergency endotracheal intubation--a substudy of the KETAmine SEDation trial. *Resuscitation* 2011; 82(5) : 517-22. Doi : 10.1016/j.resuscitation.2011.01.015.
+- [4] Cook TM, Woodall N, Harper J, Benger J ; Fourth National Audit Project. Major complications of airway management in the UK : results of the Fourth National Audit Project of the Royal College of Anaesthetists and the Difficult Airway Society. Part 2 : intensive care and emergency departments. *Br J Anaesth*. 2011 ;106 :632-42. Doi : 10.1093/bja/aer05982(5) : 517-22.
+- [5] Grmec S. Comparison of three different methods to confirm tracheal tube placement in emergency intubation. *Intensive Care Med*. 2002 ;28 : 701-04. Doi : 10.1007/s00134-002-1290-x.
+- [6] Grmec S, Mally S. Prehospital determination of tracheal tube placement in severe head injury. *Emerg Med J*. 2004 ; 21 :518-20.
+- [7] Slovis TL, Poland RL. Endotracheal tubes in neonates : sonographic positioning. *Radiology*. 1986 ; 160 : 262-63. Doi : 10.1148/radiology.160.1.3520649.
+- [8] Gottlieb M, Holladay D, Peksa GD. Ultrasonography for the Confirmation of Endotracheal Tube Intubation : A Systematic Review and Meta-Analysis. *Ann Emerg Med*. 2018 ; 72 : 627-636. Doi : 10.1016/j.annemergmed.2018.06.024.
+- [9] Yang FM, Ma BZ, Liu Y, Sun Q, Li N, Feng SY et al. Lung Ultrasound for Detecting Tracheal and Mainstem Intubation : A Systematic Review and Meta-Analysis. *Ultrasound Med Biol*. 2022 ;48 :3-9. Doi : 10.1016/j.ultrasmedbio.2021.09.014.
+
+**Question** : Existe-t-il une (ou des) modalité(s) pharmacologique(s) d'entretien anesthésique permettant de réduire la morbi-mortalité chez un patient intubé en situation d'urgence ?
+
+*Experts* : Xavier Combes (SFMU, Bordeaux), Benoit Plaud (SFAR, Paris)
+
+**R5.2 – Les experts suggèrent l'association d'un hypnotique et d'un morphinique pour la sédation d'un patient intubé en situation d'urgence, afin de réduire la morbi-mortalité.****AVIS D'EXPERTS (Accord fort)****Argumentaire :**
+
+Il n'existe pas de littérature comparative de qualité suffisante évaluant la morbid mortalité entre différentes modalités de sédation chez des patients intubés en situation d'urgence en dehors du bloc opératoire ou d'un service de soins critiques. Parmi toutes les associations possibles, le midazolam et le propofol sont les deux hypnotiques les plus utilisés et pour lesquels il existe le plus de données disponibles non comparatives mais seulement dans le contexte des soins critiques [1-5]. L'association à un morphinique est fréquente, assurant une composante analgésique pour le confort de la sédation [1-5].
+
+**Références**
+
+[1] Vivien B, Adnet F, Bounes V, Chéron G, Combes X, David JS et al. Recommandations formalisées d'experts 2010 : sédation et analgésie en structure d'urgence (réactualisation de la conférence d'experts de la SFAR de 1999). Société française d'anesthésie et de réanimation et Société française de médecine d'urgence. Ann. Fr. Med. Urgence. 2011 ; 1 : 57-71. DOI 10.1007/s13341-010-0019-9
+
+[2] Jacobi J, Fraser GL, Coursin DB, Riker RR, Fontaine D, Wittbrodt ET, et al. Clinical practice guidelines for the sustained use of sedatives and analgesics in critically ill adult. Crit Care Med. 2002 ;30 : 119–41. DOI 10.1097/00003246-200201000-00020.
+
+[3] Devlin JW, Skrobik Y, Gélinas C, Needham DM, Sooter AJC et al. Clinical Practice Guidelines for the Prevention and Management of Pain, Agitation/Sedation, Delirium, Immobility, and Sleep Disruption in Adult Patients in the ICU. Crit Care Med. 2018 ; 46(9) : e825-e873. DOI 10.1097/CCM.0000000000003299
+
+[4] Ostermann ME, Keenan SP, Seiferling RA, Sibbald WJ. Sedation in the Intensive Care Unit A Systematic Review. JAMA 2000;283(11):1451-9. DOI 10.1001/jama.283.11.1451.
+
+[5] Luz M, Brandão Barreto B, de Castro REV, Salluh J, Dal-Pizzol F, Araujo C, et al. Practices in sedation, analgesia, mobilization, delirium, and sleep deprivation in adult intensive care units (SAMDS-ICU): an international survey before and during the COVID-19 pandemic. Annals of intensive care 2022;12(1):9. DOI 10.1186/s13613-022-00985-y.
+
+**Tableau récapitulatif recommandations**
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2">RECOMMANDATION</th>
+<th>GRADE</th>
+<th>ACCORD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"><b>CHAMP 1. Indications de l'intubation trachéale en urgence chez l'adulte hors bloc opératoire ou unité de soins critiques.</b></td>
+</tr>
+<tr>
+<td>R1.1</td>
+<td><i>Il est probablement recommandé de réaliser une intubation trachéale en première intention plutôt que d'utiliser un dispositif supra-glottique pour le contrôle des voies aériennes supérieures afin de réduire la morbi-mortalité.</i></td>
+<td><b>GRADE 2</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+<tr>
+<td>R1.2.1</td>
+<td><i>Au cours de la réanimation cardio-pulmonaire spécialisée de l'arrêt cardiaque, les experts suggèrent de réaliser une intubation trachéale par rapport à la pose d'un dispositif supra-glottique ou une ventilation au masque pour réduire la morbi-mortalité.</i></td>
+<td><b>AVIS D'EXPERTS</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+<tr>
+<td>R1.2.2</td>
+<td><i>Au cours de la réanimation cardio-pulmonaire de l'arrêt cardiaque, les experts suggèrent dans l'attente de l'intubation trachéale, de réaliser une ventilation par un masque facial et un ballon auto-remplisseur avec valve unidirectionnelle (BAVU) relié à une source d'oxygène pour réduire la morbi-mortalité.</i></td>
+<td><b>AVIS D'EXPERTS</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td>R1.3.1</td>
+<td><i>Chez les patients pris en charge pour un traumatisme crânien grave, il est probablement recommandé de réaliser une intubation trachéale afin de réduire la morbi-mortalité.</i></td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R1.3.2</td>
+<td><i>Chez les patients pris en charge pour un traumatisme crânien grave, les experts suggèrent que la procédure d'intubation trachéale et de ventilation soit réalisée par un opérateur entraîné, et de telle sorte que la pression artérielle systolique reste constamment supérieure à 110 mmHg et que l'EtCO2 soit maintenue entre 35 et 45 mmHg, afin de réduire la morbi-mortalité.</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R1.4</td>
+<td><i>Chez tous les adultes pris en charge en urgence pour une obstruction des voies aériennes supérieures (VAS) et/ou du plan glottique, il est recommandé de prioriser la libération des voies aériennes et l'oxygénation afin de diminuer la morbi-mortalité.</i></td>
+<td>GRADE 1</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R1.5.1</td>
+<td><i>Les experts suggèrent de ne pas avoir recours à l'intubation trachéale systématique lors de la prise en charge d'un traumatisme thoracique pénétrant, afin de réduire la morbi-mortalité.</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R1.5.2</td>
+<td><i>En présence d'un traumatisme thoracique pénétrant, lorsque l'intubation est nécessaire, les experts suggèrent d'éliminer la présence d'un pneumothorax à exsuffler ou à drainer avec les moyens disponibles afin de réduire la morbi-mortalité.</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R1.6</td>
+<td><i>Chez un patient en état de choc hémorragique, il n'est probablement pas recommandé d'intuber sur la seule indication du choc en l'absence d'autres indications formelles (neurologique, respiratoire), et ce même s'il existe une indication opératoire sous anesthésie générale à courte échéance, afin de réduire la morbi-mortalité.</i></td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 2. Intubation trachéale : Check-list, matériel, formation</b></td>
+</tr>
+<tr>
+<td>R2.2.1</td>
+<td>
+<p><i>En pré et en intrahospitalier lors d'une procédure d'intubation trachéale en urgence, hors bloc opératoire et soins critiques, chez un adulte, les experts suggèrent d'avoir immédiatement disponibles (fonctionnels et vérifiés) les moyens matériels suivants afin de diminuer la morbi-mortalité</i></p>
+<ul style="list-style-type: none;">
+<li>● Masques faciaux (Taille 3 à 5)</li>
+<li>● Ballon Auto remplisseur à Valve Unidirectionnelle (BAVU)</li>
+<li>● Système d'aspiration avec canule adaptée de gros calibre</li>
+<li>● Source d'oxygène</li>
+<li>● Canules oropharyngées (type « canule de Guedel ») (taille 3 et 4)</li>
+<li>● Sondes d'intubation (tailles 5 à 8)</li>
+<li>● Laryngoscope direct type Macintosh (lame 3 et 4)</li>
+<li>● Vidéolaryngoscope</li>
+<li>● Capnographe</li>
+<li>● Stylet rigide</li>
+<li>● Mandrin long béquillé</li>
+<li>● Pince guide (« type pince de Magill »)</li>
+</ul>
+</td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<ul>
+<li>• Dispositif supraglottique permettant une intubation</li>
+<li>• Kit de crico-thyrotomie pour technique avec Scalpel, Mandrin long béquillé et Sonde d'intubation (technique SMS)</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>R2.2.2</td>
+<td>Les experts suggèrent d'avoir à disposition immédiate le matériel d'intubation difficile afin de réduire la morbi-mortalité.</td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R2.3.1</td>
+<td>Il est probablement recommandé de considérer d'emblée l'intubation trachéale en urgence hors bloc opératoire et soins critiques comme une intubation potentiellement difficile afin de réduire la morbi-mortalité.</td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R2.3.2</td>
+<td>Il n'est probablement pas recommandé d'utiliser systématiquement les scores prédictifs d'intubation difficile développés pour les situations d'urgence (score LEMON, score HEAVEN, score PreDAIT...) afin de réduire la morbi-mortalité.</td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R2.4.1</td>
+<td>Si la procédure d'intubation en urgence repose sur la laryngoscopie directe, il est probablement recommandé que l'expérience minimale de l'opérateur positionné en 1ère ligne sur cette procédure soit d'au moins 50 laryngoscopies directes réussies sur des patients afin de réduire la morbi-mortalité.</td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R2.4.2</td>
+<td>Si la procédure d'intubation en urgence repose sur la vidéolaryngoscopie, les experts suggèrent que l'expérience minimale de l'opérateur positionné en 1ère ligne sur cette procédure soit d'au moins 15 vidéo-laryngoscopies réussies sur des patients afin de réduire la morbi-mortalité.</td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 3. Optimisation de la procédure d'intubation trachéale (quelle que soit l'indication la motivant)</b></td>
+</tr>
+<tr>
+<td>R3.1.1</td>
+<td>Avant une intubation trachéale en urgence, il est recommandé de procéder systématiquement à une pré-oxygénation du patient afin de réduire la morbi-mortalité.</td>
+<td>GRADE 1</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.1.2</td>
+<td>Chez un patient nécessitant une intubation trachéale en urgence, il est recommandé (en l'absence de contre-indication) d'utiliser une pré-oxygénation par ventilation non invasive (VNI) afin de réduire la morbi-mortalité.</td>
+<td>GRADE 1</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.2.1</td>
+<td>Lors de l'intubation trachéale en urgence, il n'est probablement pas recommandé d'utiliser une oxygénation apnéeique après l'induction anesthésique et avant la laryngoscopie pour réduire la morbi-mortalité.</td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.2.2</td>
+<td>En cas de désaturation après l'induction anesthésique et avant la laryngoscopie ou chez un patient hypoxémique avant l'induction, les experts suggèrent de procéder à une ventilation manuelle au masque à FiO2 100%, à bas volume et basse pression, afin de réduire la morbi-mortalité.</td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.3</td>
+<td>Lors d'une intubation trachéale en urgence, il n'est probablement pas recommandé de réaliser de pression cricoïdienne afin de réduire la morbi-mortalité.</td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+</table><table border="1">
+<tr>
+<td>R3.4.1</td>
+<td><i>Afin de réduire la morbi-mortalité au cours de l'intubation en urgence chez un patient adulte, il est probablement recommandé de calculer la valeur du shock-index avant la réalisation du geste. Un seuil &gt; 0,9 permet d'identifier les patients les plus à risque de développer un collapsus cardiovasculaire au cours de l'intubation.</i></td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.4.2</td>
+<td><i>Avant intubation d'un patient à risque de développer un collapsus cardiovasculaire au cours de l'intubation, les experts suggèrent que l'éviction du propofol constitue une mesure de prudence pour réduire la morbi-mortalité.</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R3.5</td>
+<td><i>Lors de l'intubation en urgence, à l'exception des patients en arrêt cardiaque, il est probablement recommandé, d'associer systématiquement un hypnotique suivi de l'injection d'un curare (en privilégiant des agents à délai d'action court et à bonne tolérance hémodynamique) pour faciliter l'intubation trachéale et réduire la morbi-mortalité.</i></td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td colspan="4"><b>CHAMP 4. Procédure d'intubation trachéale</b></td>
+</tr>
+<tr>
+<td>R4.1</td>
+<td><i>Lors de l'intubation en situation d'urgence, il est probablement recommandé d'utiliser systématiquement en première intention un dispositif (stylet malléable ou mandrin long béquillé) pour guider le trajet de la sonde d'intubation trachéale afin de réduire la morbi-mortalité.</i></td>
+<td>GRADE 2</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R4.2</td>
+<td><i>En intrahospitalier, il est recommandé d'utiliser le vidéolaryngoscope en première intention pour l'intubation trachéale, hors bloc opératoire et soins critiques, afin de réduire la morbi-mortalité.</i></td>
+<td>GRADE 1</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R4.3.1</td>
+<td><i>En cas d'échec de la première procédure d'intubation, les experts suggèrent de se référer à l'algorithme correspondant à la situation clinique. [Figures 3,4].</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R4.3.2</td>
+<td><i>En cas d'échec d'intubation trachéale et lorsque la saturation est maintenue (SpO<sub>2</sub> &gt; 90 %), les experts suggèrent d'utiliser une méthode de laryngoscopie alternative qui n'a pas été utilisée lors de la première tentative pour diminuer la morbi-mortalité [Figures 3,4].</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R4.3.3</td>
+<td><i>En cas d'échec d'intubation trachéale et lorsqu'il existe une désaturation sévère (SpO<sub>2</sub> ≤ 90 %) malgré une ventilation au ballon auto-remplisseur à valve unidirectionnelle (BAVU), les experts suggèrent d'utiliser un dispositif supra-glottique de seconde génération afin de garantir l'oxygénation du patient [Figures 3,4].</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+<tr>
+<td>R4.3.4</td>
+<td><i>Après échec des tentatives d'intubation trachéale et de mise en place d'un dispositif supra-glottique, et en cas d'impossibilité d'oxygéner le patient (SpO<sub>2</sub> ≤ 90 % malgré une ventilation au BAVU), les experts suggèrent qu'une cricothyroïdoteomie soit rapidement réalisée pour prévenir la survenue d'un arrêt cardiaque hypoxique [Figures 3,4].</i></td>
+<td>AVIS D'EXPERTS</td>
+<td>Accord Fort</td>
+</tr>
+</table>**CHAMP 5. Prise en charge après intubation trachéale**
+
+<table border="1">
+<tr>
+<td><b>R5.1.1</b></td>
+<td><i>Il est recommandé d'utiliser systématiquement la capnographie pour confirmer le bon positionnement de la sonde d'intubation trachéale, du dispositif supra-glottique ou de l'abord trachéal direct lors d'une intubation en urgence pour réduire la morbi-mortalité.</i></td>
+<td><b>GRADE 1</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+<tr>
+<td><b>R5.1.2</b></td>
+<td><i>Il est probablement recommandé d'utiliser l'échographie trans-trachéale et pulmonaire pour vérifier le bon positionnement de la sonde d'intubation trachéale lorsque la confirmation par capnographie est impossible afin de réduire la morbi-mortalité.</i></td>
+<td><b>GRADE 2</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+<tr>
+<td><b>R5.2</b></td>
+<td><i>Les experts suggèrent l'association d'un hypnotique et d'un morphinique pour la sédation d'un patient intubé en situation d'urgence, afin de réduire la morbi-mortalité.</i></td>
+<td><b>AVIS D'EXPERTS</b></td>
+<td><b>Accord Fort</b></td>
+</tr>
+</table>
+
+**ANNEXES**
+
+**Annexe 1 : Méta-analyse concernant le succès d'intubation trachéale en phase préhospitale en utilisant la vidéolaryngoscopie *versus* la laryngoscopie directe (d'après Quintard H, Galinski M)**
+
+Succès d'intubation trachéale au premier essai vidéolaryngoscopie *versus* laryngoscopie directe en préhospitalier [3,4,14,19,23-29]
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th>Odds Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arima 2014</td>
+<td>26</td>
+<td>56</td>
+<td>40</td>
+<td>53</td>
+<td>6.3%</td>
+<td>0.28 [0.12, 0.64]</td>
+<td></td>
+</tr>
+<tr>
+<td>Breeman 2020</td>
+<td>53</td>
+<td>93</td>
+<td>61</td>
+<td>126</td>
+<td>6.4%</td>
+<td>1.41 [0.82, 2.42]</td>
+<td></td>
+</tr>
+<tr>
+<td>Ducharme 2017</td>
+<td>25</td>
+<td>40</td>
+<td>28</td>
+<td>42</td>
+<td>2.9%</td>
+<td>0.83 [0.34, 2.06]</td>
+<td></td>
+</tr>
+<tr>
+<td>Guyette 2013</td>
+<td>298</td>
+<td>348</td>
+<td>439</td>
+<td>510</td>
+<td>14.7%</td>
+<td>0.96 [0.65, 1.42]</td>
+<td></td>
+</tr>
+<tr>
+<td>Jarvis 2015</td>
+<td>244</td>
+<td>329</td>
+<td>81</td>
+<td>185</td>
+<td>7.7%</td>
+<td>3.69 [2.52, 5.40]</td>
+<td></td>
+</tr>
+<tr>
+<td>Kreutziger 2019</td>
+<td>211</td>
+<td>267</td>
+<td>205</td>
+<td>247</td>
+<td>12.8%</td>
+<td>0.77 [0.50, 1.20]</td>
+<td></td>
+</tr>
+<tr>
+<td>Macke 2020</td>
+<td>72</td>
+<td>76</td>
+<td>60</td>
+<td>76</td>
+<td>0.9%</td>
+<td>4.80 [1.52, 15.13]</td>
+<td></td>
+</tr>
+<tr>
+<td>Min 2019</td>
+<td>207</td>
+<td>263</td>
+<td>226</td>
+<td>310</td>
+<td>12.7%</td>
+<td>1.37 [0.93, 2.02]</td>
+<td></td>
+</tr>
+<tr>
+<td>Selde 2014</td>
+<td>68</td>
+<td>83</td>
+<td>35</td>
+<td>47</td>
+<td>2.3%</td>
+<td>1.55 [0.66, 3.68]</td>
+<td></td>
+</tr>
+<tr>
+<td>Trimmel 2011</td>
+<td>50</td>
+<td>106</td>
+<td>105</td>
+<td>106</td>
+<td>16.0%</td>
+<td>0.01 [0.00, 0.06]</td>
+<td></td>
+</tr>
+<tr>
+<td>Trimmel 2015</td>
+<td>104</td>
+<td>168</td>
+<td>152</td>
+<td>158</td>
+<td>17.2%</td>
+<td>0.06 [0.03, 0.15]</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>1829</b></td>
+<td></td>
+<td><b>1860</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.92 [0.79, 1.08]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td colspan="2">1358</td>
+<td colspan="2">1432</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Heterogeneity: Chi<sup>2</sup> = 131.98, df = 10 (P &lt; 0.00001); I<sup>2</sup> = 92%</td>
+</tr>
+<tr>
+<td colspan="8">Test for overall effect: Z = 1.02 (P = 0.31)</td>
+</tr>
+</tbody>
+</table>
+
+![Forest plot showing Odds Ratios for various studies comparing VL and DL. The x-axis is logarithmic from 0.01 to 100. A vertical line at 1 represents no effect. Most studies are to the left of 1, indicating VL is superior. The overall diamond is at 0.92.](14efc422211dccce65f0a21d442b6394_6_img.webp)
+
+**Figure 5 : Forest plot de toutes les études concernant le succès d'intubation trachéale au premier essai vidéolaryngoscopie (VL) *versus* laryngoscopie directe (DL) en préhospitalier [3,4,14,19,23-29]**Parmi ces études, si l'on s'intéresse aux études uniquement randomisées contrôlées [3,14,19,23,25,29], on retrouve un effet plutôt en faveur de l'utilisation de DL en pré hospitalier, sur les 6 études restantes portant sur un effectif de 1395 patients (0,35 [0,27-0,46]) (Figure 6). Cependant l'hétérogénéité importante, avec un  $I^2 = 94\%$  ne permet pas de conclure.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th>Odds Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arima 2014</td>
+<td>26</td>
+<td>56</td>
+<td>40</td>
+<td>53</td>
+<td>11.3%</td>
+<td>0.28 [0.12, 0.64]</td>
+<td></td>
+</tr>
+<tr>
+<td>Breeman 2020</td>
+<td>53</td>
+<td>93</td>
+<td>61</td>
+<td>126</td>
+<td>0.0%</td>
+<td>1.41 [0.82, 2.42]</td>
+<td></td>
+</tr>
+<tr>
+<td>Ducharme 2017</td>
+<td>25</td>
+<td>40</td>
+<td>28</td>
+<td>42</td>
+<td>5.2%</td>
+<td>0.83 [0.34, 2.06]</td>
+<td></td>
+</tr>
+<tr>
+<td>Guyette 2013</td>
+<td>298</td>
+<td>348</td>
+<td>439</td>
+<td>510</td>
+<td>0.0%</td>
+<td>0.96 [0.65, 1.42]</td>
+<td></td>
+</tr>
+<tr>
+<td>Jarvis 2015</td>
+<td>244</td>
+<td>329</td>
+<td>81</td>
+<td>185</td>
+<td>0.0%</td>
+<td>3.69 [2.52, 5.40]</td>
+<td></td>
+</tr>
+<tr>
+<td>Kreutziger 2019</td>
+<td>211</td>
+<td>267</td>
+<td>205</td>
+<td>247</td>
+<td>22.9%</td>
+<td>0.77 [0.50, 1.20]</td>
+<td></td>
+</tr>
+<tr>
+<td>Macke 2020</td>
+<td>72</td>
+<td>76</td>
+<td>60</td>
+<td>76</td>
+<td>1.6%</td>
+<td>4.80 [1.52, 15.13]</td>
+<td></td>
+</tr>
+<tr>
+<td>Min 2019</td>
+<td>207</td>
+<td>263</td>
+<td>226</td>
+<td>310</td>
+<td>0.0%</td>
+<td>1.37 [0.93, 2.02]</td>
+<td></td>
+</tr>
+<tr>
+<td>Selde 2014</td>
+<td>68</td>
+<td>83</td>
+<td>35</td>
+<td>47</td>
+<td>0.0%</td>
+<td>1.55 [0.66, 3.68]</td>
+<td></td>
+</tr>
+<tr>
+<td>Trimmel 2011</td>
+<td>50</td>
+<td>106</td>
+<td>105</td>
+<td>106</td>
+<td>28.4%</td>
+<td>0.01 [0.00, 0.06]</td>
+<td></td>
+</tr>
+<tr>
+<td>Trimmel 2015</td>
+<td>104</td>
+<td>168</td>
+<td>152</td>
+<td>158</td>
+<td>30.6%</td>
+<td>0.06 [0.03, 0.15]</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>713</b></td>
+<td></td>
+<td><b>682</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.35 [0.27, 0.46]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td>488</td>
+<td></td>
+<td>590</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $\text{Chi}^2 = 63.54$ ,  $\text{df} = 5$  ( $P < 0.00001$ );  $I^2 = 92\%$   
+Test for overall effect:  $Z = 7.74$  ( $P < 0.00001$ )
+
+![Forest plot showing Odds Ratios for intubation success. The x-axis is logarithmic from 0.01 to 100. A vertical line at 1 represents no effect. Points to the left favor VL, points to the right favor DL. The overall effect is 0.35 [0.27, 0.46].](72cd188f5bc150c08e7e0a0f3649c4d5_2_img.webp)
+
+**Figure 6 : Forest plot des études randomisées contrôlées concernant le succès d'intubation trachéale au premier essai vidéolaryngoscopie (VL) versus laryngoscopie directe (DL) en préhospitalier [3,14,19,23,25,29]**
+
+### Intubation œsophagienne
+
+Pas assez de données
+
+### Inhalation
+
+Pas assez de données
+
+### Trauma dentaire
+
+Pas assez de données
+
+### Hypoxémie
+
+Pas assez de données
+
+### **Annexe 2 : Méta-analyse concernant le succès d'intubation au premier essai en intrahospitalier en utilisant la vidéolaryngoscopie versus la laryngoscopie directe (d'après Quintard H, Galinski M)**
+
+Succès d'intubation trachéale au premier essai vidéolaryngoscopie versus laryngoscopie directe en intrahospitalier [3,5-12,16-18,30,32-34]Cette méta-analyse ne comprend pas l'étude DEVICE [13]. L'hétérogénéité est secondaire au type de laryngoscope utilisé ainsi qu'à l'expérience de l'opérateur, mais est surtout liée au poids important de 2 études observationnelles [5,6].
+
+Si l'on refait l'analyse en retirant ces 2 études et que l'on s'intéresse uniquement aux études randomisées contrôlées [7-12,16,18,30,34] les deux dispositifs ne présentent pas d'avantages significatifs l'un par rapport à l'autre (1,11 (0,92-1,33)) (Figure 7).
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th rowspan="2">Odds Ratio<br/>M-H, Fixed, 95% CI</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ahmadi 2015</td>
+<td>45</td>
+<td>49</td>
+<td>36</td>
+<td>48</td>
+<td>1.3%</td>
+<td>3.75 [1.11, 12.62]</td>
+<td></td>
+</tr>
+<tr>
+<td>Carison 2015</td>
+<td>28</td>
+<td>30</td>
+<td>261</td>
+<td>295</td>
+<td>1.4%</td>
+<td>1.82 [0.42, 8.00]</td>
+<td></td>
+</tr>
+<tr>
+<td>Choi 2010</td>
+<td>177</td>
+<td>219</td>
+<td>1806</td>
+<td>2306</td>
+<td>26.9%</td>
+<td>1.17 [0.82, 1.66]</td>
+<td></td>
+</tr>
+<tr>
+<td>Choi 2015</td>
+<td>307</td>
+<td>363</td>
+<td>641</td>
+<td>726</td>
+<td>29.5%</td>
+<td>0.73 [0.51, 1.05]</td>
+<td></td>
+</tr>
+<tr>
+<td>Coksu 2016</td>
+<td>47</td>
+<td>75</td>
+<td>44</td>
+<td>75</td>
+<td>7.4%</td>
+<td>1.18 [0.61, 2.28]</td>
+<td></td>
+</tr>
+<tr>
+<td>Driver 2016</td>
+<td>95</td>
+<td>103</td>
+<td>82</td>
+<td>95</td>
+<td>3.0%</td>
+<td>1.88 [0.74, 4.77]</td>
+<td></td>
+</tr>
+<tr>
+<td>Kim 2016</td>
+<td>67</td>
+<td>71</td>
+<td>60</td>
+<td>69</td>
+<td>1.5%</td>
+<td>2.51 [0.74, 8.58]</td>
+<td></td>
+</tr>
+<tr>
+<td>Macke 2020</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>Not estimable</td>
+<td></td>
+</tr>
+<tr>
+<td>Michailidou 2015</td>
+<td>294</td>
+<td>387</td>
+<td>229</td>
+<td>322</td>
+<td>0.0%</td>
+<td>1.28 [0.92, 1.80]</td>
+<td></td>
+</tr>
+<tr>
+<td>Min 2019</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>Not estimable</td>
+<td></td>
+</tr>
+<tr>
+<td>Okamoto 2018</td>
+<td>480</td>
+<td>613</td>
+<td>1913</td>
+<td>2747</td>
+<td>0.0%</td>
+<td>1.57 [1.28, 1.94]</td>
+<td></td>
+</tr>
+<tr>
+<td>Platts-Mills 2009</td>
+<td>51</td>
+<td>63</td>
+<td>182</td>
+<td>217</td>
+<td>0.0%</td>
+<td>0.82 [0.40, 1.69]</td>
+<td></td>
+</tr>
+<tr>
+<td>Sakles 2014</td>
+<td>1125</td>
+<td>1375</td>
+<td>749</td>
+<td>1048</td>
+<td>0.0%</td>
+<td>1.80 [1.48, 2.18]</td>
+<td></td>
+</tr>
+<tr>
+<td>Sangnanwit 2021</td>
+<td>57</td>
+<td>78</td>
+<td>47</td>
+<td>80</td>
+<td>5.6%</td>
+<td>1.91 [0.98, 3.72]</td>
+<td></td>
+</tr>
+<tr>
+<td>Sulser 2016</td>
+<td>73</td>
+<td>74</td>
+<td>73</td>
+<td>73</td>
+<td>0.7%</td>
+<td>0.33 [0.01, 8.32]</td>
+<td></td>
+</tr>
+<tr>
+<td>Yeats 2013</td>
+<td>242</td>
+<td>303</td>
+<td>259</td>
+<td>320</td>
+<td>22.7%</td>
+<td>0.93 [0.63, 1.39]</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>1365</b></td>
+<td></td>
+<td><b>4087</b></td>
+<td><b>100.0%</b></td>
+<td><b>1.11 [0.92, 1.33]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td colspan="2">1138</td>
+<td colspan="2">3309</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Heterogeneity: <math>\text{Chi}^2 = 16.31</math>, <math>\text{df} = 9</math> (<math>P = 0.06</math>); <math>I^2 = 45\%</math></td>
+</tr>
+<tr>
+<td colspan="8">Test for overall effect: <math>Z = 1.09</math> (<math>P = 0.27</math>)</td>
+</tr>
+</tbody>
+</table>
+
+![Forest plot showing Odds Ratio for tracheal intubation success. The plot includes individual study data points and a diamond for the overall total effect. The x-axis is logarithmic, ranging from 0.005 to 200, with a vertical line at 1.0. The overall effect size is 1.11 with a 95% CI of [0.92, 1.33].](c353b8333dedfff8e3333af702bccbb5_3_img.webp)
+
+**Figure 7 : Forest plot des études randomisées contrôlées concernant le succès d'intubation trachéale au premier essai vidéolaryngoscopie (VL) versus laryngoscopie directe (DL) en intrahospitalier [7-12,16,18,30,34]**
+
+*Intubation œsophagienne [5,8,13,16-22,31]*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th rowspan="2">Odds Ratio<br/>M-H, Fixed, 95% CI</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abdelgalel 2018</td>
+<td>0</td>
+<td>80</td>
+<td>2</td>
+<td>40</td>
+<td>3.1%</td>
+<td>0.10 [0.00, 2.04]</td>
+<td></td>
+</tr>
+<tr>
+<td>Coksu 2016</td>
+<td>0</td>
+<td>75</td>
+<td>7</td>
+<td>75</td>
+<td>7.0%</td>
+<td>0.06 [0.00, 1.08]</td>
+<td></td>
+</tr>
+<tr>
+<td>Gao 2018</td>
+<td>3</td>
+<td>81</td>
+<td>6</td>
+<td>82</td>
+<td>5.4%</td>
+<td>0.49 [0.12, 2.02]</td>
+<td></td>
+</tr>
+<tr>
+<td>Kim 2016</td>
+<td>0</td>
+<td>71</td>
+<td>3</td>
+<td>69</td>
+<td>3.3%</td>
+<td>0.13 [0.01, 2.62]</td>
+<td></td>
+</tr>
+<tr>
+<td>Lascarrou 2021</td>
+<td>13</td>
+<td>267</td>
+<td>7</td>
+<td>247</td>
+<td>6.5%</td>
+<td>1.75 [0.69, 4.47]</td>
+<td></td>
+</tr>
+<tr>
+<td>Michailidou 2015</td>
+<td>6</td>
+<td>387</td>
+<td>8</td>
+<td>322</td>
+<td>8.1%</td>
+<td>0.62 [0.21, 1.80]</td>
+<td></td>
+</tr>
+<tr>
+<td>Okamoto 2018</td>
+<td>10</td>
+<td>613</td>
+<td>144</td>
+<td>2747</td>
+<td>48.8%</td>
+<td>0.30 [0.16, 0.57]</td>
+<td></td>
+</tr>
+<tr>
+<td>Prekker 2023</td>
+<td>6</td>
+<td>705</td>
+<td>9</td>
+<td>712</td>
+<td>8.4%</td>
+<td>0.67 [0.24, 1.89]</td>
+<td></td>
+</tr>
+<tr>
+<td>Sangnanwit 2021</td>
+<td>0</td>
+<td>78</td>
+<td>1</td>
+<td>80</td>
+<td>1.4%</td>
+<td>0.34 [0.01, 8.41]</td>
+<td></td>
+</tr>
+<tr>
+<td>Silverberg 2015</td>
+<td>0</td>
+<td>57</td>
+<td>4</td>
+<td>60</td>
+<td>4.1%</td>
+<td>0.11 [0.01, 2.07]</td>
+<td></td>
+</tr>
+<tr>
+<td>Trimmel 2015</td>
+<td>3</td>
+<td>168</td>
+<td>4</td>
+<td>158</td>
+<td>3.8%</td>
+<td>0.70 [0.15, 3.18]</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>2582</b></td>
+<td></td>
+<td><b>4592</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.44 [0.31, 0.63]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td colspan="2">41</td>
+<td colspan="2">195</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Heterogeneity: <math>\text{Chi}^2 = 15.42</math>, <math>\text{df} = 10</math> (<math>P = 0.12</math>); <math>I^2 = 35\%</math></td>
+</tr>
+<tr>
+<td colspan="8">Test for overall effect: <math>Z = 4.49</math> (<math>P &lt; 0.00001</math>)</td>
+</tr>
+</tbody>
+</table>
+
+![Forest plot showing Odds Ratio for oesophageal intubation risk. The plot includes individual study data points and a diamond for the overall total effect. The x-axis is logarithmic, ranging from 0.01 to 100, with a vertical line at 1.0. The overall effect size is 0.44 with a 95% CI of [0.31, 0.63].](c353b8333dedfff8e3333af702bccbb5_6_img.webp)
+
+**Figure 8 : Forest plot des études concernant le risque d'intubation œsophagienne en vidéolaryngoscopie (VL) versus laryngoscopie directe (DL) en intrahospitalier [5,8,13,16-22,31]**### Inhalation [12,13,17]
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th>Odds Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Random, 95% CI</th>
+<th>M-H, Random, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Driver 2016</td>
+<td>7</td>
+<td>103</td>
+<td>11</td>
+<td>95</td>
+<td>38.6%</td>
+<td>0.56 [0.21, 1.50]</td>
+<td rowspan="4">
+<img alt="Forest plot for Inhalation showing Odds Ratios for Driver 2016, Michailidou 2015, and Prekker 2023, with a diamond for the total effect." src="f614d6c7aff61a7abbaf7e22e88dbe6f_2_img.webp"/>
+</td>
+</tr>
+<tr>
+<td>Michailidou 2015</td>
+<td>5</td>
+<td>387</td>
+<td>3</td>
+<td>322</td>
+<td>18.3%</td>
+<td>1.39 [0.33, 5.87]</td>
+</tr>
+<tr>
+<td>Prekker 2023</td>
+<td>7</td>
+<td>705</td>
+<td>12</td>
+<td>712</td>
+<td>43.1%</td>
+<td>0.59 [0.23, 1.49]</td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>1195</b></td>
+<td></td>
+<td><b>1129</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.67 [0.36, 1.25]</b></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td>19</td>
+<td></td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $\tau^2 = 0.00$ ;  $\text{Chi}^2 = 1.21$ ,  $\text{df} = 2$  ( $P = 0.55$ );  $I^2 = 0\%$   
+Test for overall effect:  $Z = 1.26$  ( $P = 0.21$ )
+
+**Figure 9 : Forest plot des études concernant le risque d'inhalation en vidéolaryngoscopie (VL) versus laryngoscopie directe (DL) en intrahospitalier [12,13,17]**
+
+### Trauma dentaire
+
+Pas assez de données
+
+### Hypoxémie/désaturation [12,17,20-22,31]
+
+6 études ont été incluses dans l'analyse, soit un total de 1654 patients. L'incidence d'épisodes hypoxémiques est de 12,4% pour le groupe VL vs 12,5% dans le groupe DL.
+
+La comparaison des 2 groupes ne retrouve pas de différence significative avec un OR 0,98 [0,73–1,32]. Cependant il est à noter l'hétérogénéité de l'analyse ( $I^2=64\%$ ).
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th>Odds Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abdelgalel 2018</td>
+<td>5</td>
+<td>80</td>
+<td>10</td>
+<td>40</td>
+<td>14.1%</td>
+<td>0.20 [0.06, 0.63]</td>
+<td rowspan="6">
+<img alt="Forest plot for Hypoxemia/Hypoxemia showing Odds Ratios for Abdelgalel 2018, Driver 2016, Gao 2018, Lascarrou 2021, Michailidou 2015, and Silverberg 2015, with a diamond for the total effect." src="f614d6c7aff61a7abbaf7e22e88dbe6f_9_img.webp"/>
+</td>
+</tr>
+<tr>
+<td>Driver 2016</td>
+<td>26</td>
+<td>103</td>
+<td>26</td>
+<td>95</td>
+<td>22.8%</td>
+<td>0.90 [0.48, 1.69]</td>
+</tr>
+<tr>
+<td>Gao 2018</td>
+<td>14</td>
+<td>81</td>
+<td>12</td>
+<td>82</td>
+<td>11.1%</td>
+<td>1.22 [0.53, 2.83]</td>
+</tr>
+<tr>
+<td>Lascarrou 2021</td>
+<td>14</td>
+<td>173</td>
+<td>19</td>
+<td>174</td>
+<td>19.7%</td>
+<td>0.72 [0.35, 1.48]</td>
+</tr>
+<tr>
+<td>Michailidou 2015</td>
+<td>48</td>
+<td>387</td>
+<td>25</td>
+<td>322</td>
+<td>27.0%</td>
+<td>1.68 [1.01, 2.80]</td>
+</tr>
+<tr>
+<td>Silverberg 2015</td>
+<td>2</td>
+<td>57</td>
+<td>5</td>
+<td>60</td>
+<td>5.3%</td>
+<td>0.40 [0.07, 2.15]</td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>881</b></td>
+<td></td>
+<td><b>773</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.98 [0.73, 1.32]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td>109</td>
+<td></td>
+<td>97</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Heterogeneity:  $\text{Chi}^2 = 13.76$ ,  $\text{df} = 5$  ( $P = 0.02$ );  $I^2 = 64\%$   
+Test for overall effect:  $Z = 0.10$  ( $P = 0.92$ )
+
+**Figure 10 : Forest plot de toutes les études concernant le risque d'hypoxémie/désaturation en vidéolaryngoscopie (VL) versus laryngoscopie directe (VD) en intrahospitalier [12,17,20-22,31]**
+
+Il n'y a que 3 RCT [12,20,31] qui se sont intéressées à cette question. Aucune différence significative n'est observée entre les groupes.<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Study or Subgroup</th>
+<th colspan="2">VL</th>
+<th colspan="2">DL</th>
+<th rowspan="2">Weight</th>
+<th>Odds Ratio</th>
+<th>Odds Ratio</th>
+</tr>
+<tr>
+<th>Events</th>
+<th>Total</th>
+<th>Events</th>
+<th>Total</th>
+<th>M-H, Fixed, 95% CI</th>
+<th>M-H, Fixed, 95% CI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abdelgalel 2018</td>
+<td>5</td>
+<td>80</td>
+<td>10</td>
+<td>40</td>
+<td>0.0%</td>
+<td>0.20 [0.06, 0.63]</td>
+<td></td>
+</tr>
+<tr>
+<td>Driver 2016</td>
+<td>26</td>
+<td>103</td>
+<td>26</td>
+<td>95</td>
+<td>58.1%</td>
+<td>0.90 [0.48, 1.69]</td>
+<td></td>
+</tr>
+<tr>
+<td>Gao 2018</td>
+<td>14</td>
+<td>81</td>
+<td>12</td>
+<td>82</td>
+<td>28.4%</td>
+<td>1.22 [0.53, 2.83]</td>
+<td></td>
+</tr>
+<tr>
+<td>Lascarrou 2021</td>
+<td>14</td>
+<td>173</td>
+<td>19</td>
+<td>174</td>
+<td>0.0%</td>
+<td>0.72 [0.35, 1.48]</td>
+<td></td>
+</tr>
+<tr>
+<td>Michailidou 2015</td>
+<td>48</td>
+<td>387</td>
+<td>25</td>
+<td>322</td>
+<td>0.0%</td>
+<td>1.68 [1.01, 2.80]</td>
+<td></td>
+</tr>
+<tr>
+<td>Silverberg 2015</td>
+<td>2</td>
+<td>57</td>
+<td>5</td>
+<td>60</td>
+<td>13.5%</td>
+<td>0.40 [0.07, 2.15]</td>
+<td></td>
+</tr>
+<tr>
+<td><b>Total (95% CI)</b></td>
+<td></td>
+<td><b>241</b></td>
+<td></td>
+<td><b>237</b></td>
+<td><b>100.0%</b></td>
+<td><b>0.92 [0.57, 1.49]</b></td>
+<td></td>
+</tr>
+<tr>
+<td>Total events</td>
+<td colspan="2">42</td>
+<td colspan="2">43</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="8">Heterogeneity: Chi<sup>2</sup> = 1.38, df = 2 (P = 0.50); I<sup>2</sup> = 0%</td>
+</tr>
+<tr>
+<td colspan="8">Test for overall effect: Z = 0.34 (P = 0.74)</td>
+</tr>
+</tbody>
+</table>
+
+![Forest plot showing Odds Ratios for hypoxemia/desaturation risk comparing VL and DL. The plot includes individual study data points and a diamond for the total effect. The x-axis is logarithmic from 0.01 to 100, with a vertical line at 1.0. The total effect is 0.92 [0.57, 1.49].](2a0e66a659f7c213c023fa8898b36d7b_1_img.webp)
+
+**Figure 11 : Forest plot des études randomisées contrôlées concernant le risque d'hypoxémie/désaturation en vidéolaryngoscopie (VL) versus laryngoscopie directe (VD) en intrahospitalier [12,20,31]**
+
+#### Références :
+
+1. [1] Hansel J, Rogers AM, Lewis SR, Cook TM, Smith AF. Videolaryngoscopy versus direct laryngoscopy for adults undergoing tracheal intubation (Review). Cochrane Database of Systematic Reviews 2022, Issue 4. Art. No. : CD011136. DOI : 10.1002/14651858.CD011136.pub3.
+2. [2] Ruetzler K, Bustamante S, Schmidt MT, Almonacid-Cardenas F, Duncan A, Bauer A et al. Video Laryngoscopy vs Direct Laryngoscopy for Endotracheal Intubation in the Operating Room. A Cluster Randomized Clinical Trial. JAMA. 2024 ;331(15) :1279-1286. Doi :10.1001/jama.2024.0762
+3. [3] Macke C, Gralla F, Winkelmann M, Clausen JD, Haertle M, Krettek C et al. Increased First Pass Success with C-MAC Videolaryngoscopy in Prehospital Endotracheal Intubation—A Randomized Controlled Trial. JCM. 2020 ; 9 : 2719. Doi : 10.3390/jcm9092719. (Monocentric, randomized, prospective study).
+4. [4] Min BC, Park JE, Lee GT, Kim TR, Yoon H, Cha WC et al. C-MAC Video Laryngoscope versus Conventional Direct Laryngoscopy for Endotracheal Intubation During Cardiopulmonary Resuscitation. Medicina. 2019 ; 55 : 225. Doi : 10.3390/medicina55060225. (Single-center, retrospective study. Cardiac arrest patients)
+5. [5] Okamoto H, Goto T, Wong ZSY, Hagiwara Y, Watase H, Hasegawa K et al. Comparison of video laryngoscopy versus direct laryngoscopy for intubation in emergency department patients with cardiac arrest : A multicentre study. Resuscitation. 2019 ; 136 : 70–7. Doi : 10.1016/j.resuscitation.2018.10.005. (Prospective, multicentric study. Cardiac arrest patients)
+6. [6] Sakles JC, Douglas MJK, Hypes CD, Patanwala AE, Mosier JM. Management of Patients with Predicted Difficult Airways in an Academic Emergency Department. J Emerg Med. 2017 ; 53 : 163–71. Doi : 10.1016/j.jemermed.2017.04.003. (Monocentric, observational study)
+7. [7] Yeatts DJ, Dutton RP, Hu PF, Chang Y-WW, Brown CH. Effect of video laryngoscopy on trauma patient survival : a randomized controlled trial. J Trauma Acute Care Surg. 2013 ; 75 : 212-9
+8. [8] Sanguanwit P, Yuksen C, Laowattana N. Direct Versus Video Laryngoscopy in Emergency Intubation : A Randomized Control Trial Study. Bull Emerg Trauma. 2021 ; 9 : 118-24 <https://doi.org/10.30476/beat.2021.89922.1240> (Prospective, monocentric study)
+9. [9] Ahmadi K, Ebrahimi M, Hashemian AM, Sarshar S, Rahimi-Movaghar V. GlideScope Video Laryngoscope for Difficult Intubation in Emergency Patients : A Quasi-Randomized Controlled Trial. Acta Med Iran. 2015 ; 3 :738–42.
+10. [10] Carlson JN, Crofts J, Walls RM, Brown CA. Direct Versus Video Laryngoscopy for Intubating Adult Patients with Gastrointestinal Bleeding. West J Emerg Med. 2015 ; 16 : 1052–6. Doi : 10.5811/westjem.2015.8.28045. (Retrospective analysis of a prospectively collected national database)
+11. [11] Choi HY, Oh YM, Kang GH, Kang H, Jang YS, Kim W, et al. A Randomized Comparison Simulating Face to Face Endotracheal Intubation of Pentax Airway Scope, C-MAC Video Laryngoscope, Glidescope Video Laryngoscope, and Macintosh Laryngoscope. Biomed Res Int. 2015 ; 2015 :961782. Doi : 10.1155/2015/961782.
+12. [12] Driver BE, Prekker ME, Moore JC, Schick AL, Reardon RF, Miner JR. Direct Versus Video Laryngoscopy Using the C-MAC for Tracheal Intubation in the Emergency Department, a Randomized Controlled Trial. Acad Emerg Med. 2016 ; 23 : 433–9. Doi : 10.1111/acem.12933. (Prospective, randomized, controlled trial).[13] Prekker ME, Driver BE, Trent SA, Resnick-Ault D, Seitz KP, Russel DW et al. Video versus Direct Laryngoscopy for Tracheal Intubation of Critically Ill Adults. *N Engl J Med*. 2023 ; 389 :418-29. Doi : 10.1056/NEJMoa2301601
+
+[14] Kreutziger J, Hornung S, Harrer C, Urschl W, Doppler R, Voelckel WG, Trimmel H. Comparing the McGrath Mac Video Laryngoscope and Direct Laryngoscopy for Prehospital Emergency Intubation in Air Rescue Patients : A Multicenter, Randomized, Controlled Trial. *Crit Care Med*. 2019 Oct ; 47(10) : 1362-1370. Doi : 10.1097/CCM.0000000000003918
+
+[15] Jiang J, Ma D, Li B, Yue Y, Xue F. Video laryngoscopy does not improve the intubation outcomes in emergency and critical patients – a systematic review and meta-analysis of randomized controlled trials. *Critical Care*. 2017 ; 21 : 288. Doi : 10.1186/s13054-017-1885-9.
+
+[16] Kim JW, Lee KR, Hong DY, Baek KJ, Lee YH, Park SO. Efficacy of various types of laryngoscope (direct, Pentax Airway Scope and GlideScope) for endotracheal intubation in various cervical immobilization scenarios : a randomised cross-over simulation study. *BMJ Open*. 2016 ; 6 : e011089. Doi : 10.1136/bmjopen-2016-011089.
+
+[17] Michailidou M, O’Keeffe T, Mosier JM, Friese RS, Joseph B, Rhee P et al. A comparison of video laryngoscopy to direct laryngoscopy for the emergency intubation of trauma patients. *World J Surg*. 2015 ; 39 :782–8. Do i: 10.1007/s00268-014-2845-z.
+
+[18] Goksu E, Kilic T, Yildiz G, Unal A, Kartal M. Comparison of the C-MAC video laryngoscope to the Macintosh laryngoscope for intubation of blunt trauma patients in the ED. *Turk J Emerg Med*. 2016 ; 16 :5 3–6. Doi : 10.1016/j.tjem.2016.02.001.
+
+[19] Trimmel H, Kreutziger J, Fitzka R, Szüts S, Derdak C, Koch E et al. Use of the GlideScope Ranger Video Laryngoscope for Emergency Intubation in the Prehospital Setting : A Randomized Control Trial. *Crit Care Med*. 2016 ; 44 : e470-476. Doi : 10.1097/CCM.0000000000001669.
+
+[20] Gao YX, Song YB, Gu ZJ, Zhang JS, Chen XF, Sun H et al. Video versus direct laryngoscopy on successful first-pass endotracheal intubation in ICU patients. *World J Emerg Med*. 2018 ; 9 : 99–104. Doi : 10.5847/wjem.j.1920-8642.2018.02.003.
+
+[21] Silverberg MJ, Li N, Acquah SO, Kory PD. Comparison of video laryngoscopy versus direct laryngoscopy during urgent endotracheal intubation : a randomized controlled trial. *Crit Care Med*. 2015 ; 43 :636–41. Doi : 10.1097/CCM.0000000000000751.
+
+[22] Lascarrou JB, Boisrame-Helms J, Bailly A, Le Thuaut A, Kamel T, Mercier E et al. Video Laryngoscopy vs Direct Laryngoscopy on Successful First-Pass Orotracheal Intubation Among ICU Patients : A Randomized Clinical Trial. *JAMA*. 2017 ; 317 :483–93. Doi : 10.1001/jama.2016.20603.
+
+[23] Breeman W, Van Vledder MG, Verhofstad MHJ, Visser A, Van Lieshout EMM. First attempt success of video versus direct laryngoscopy for endotracheal intubation by ambulance nurses : a prospective observational study. *Eur J Trauma Emerg Surg*. 2020 ; 46(5) :1039–45.
+
+[24] Arima T, Nagata O, Miura T, Ikeda K, Mizushima T, Takahashi A, et al. Comparative analysis of airway scope and Macintosh laryngoscope for intubation primarily for cardiac arrest in prehospital setting. *Am J Emerg Med*. 2014 ;32(1) :40–3.
+
+[25] Ducharme S, Kramer B, Gelbart D, Colleran C, Risavi B, Carlson JN. A pilot, prospective, randomized trial of video versus direct laryngoscopy for paramedic endotracheal intubation. *Resuscitation*. 2017 ;114 :121–6.
+
+[26] Guyette FX, Farrell K, Carlson JN, Callaway CW, Phrampus P. Comparison of video laryngoscopy and direct laryngoscopy in a critical care transport service. *Prehosp Emerg Care*. 2013 ;17(2) :149–54.
+
+[27] Jarvis JL, McClure SF, Johns D. EMS Intubation Improves with King Vision Video Laryngoscopy. *Prehosp Emerg Care*. 2015 ;19(4) :482–9.
+
+[28] Selde W, English K, Heffelfinger M, Eichel J, Ekblad G. Successful airtraq use in an air medical transport system. *Air Med J*. 2014 ;33(6) :331–4.
+
+[29] Trimmel H, Kreutziger J, Fertsak G, Fitzka R, Dittrich M, Voelckel WG. Use of the Airtraq laryngoscope for emergency intubation in the prehospital setting : a randomized control trial. *Crit Care Med*. 2011 ; 39(3) : 489–93.
+
+[30] Sulser S, Ubbmann D, Schlaepfer M, Brueesch M, Goliash G, Seifert B, et al. C-MAC videolaryngoscope compared with direct laryngoscopy for rapid sequence intubation in an emergency department: A randomised clinical trial. *Eur J Anaesthesiol* 2016;33(12):943-8.
+
+[31] Abdelgadir IS, Phillips RS, Singh D, Moncreiff MP, Lumsden JL. Videolaryngoscopy versus direct laryngoscopy for tracheal intubation in children (excluding neonates). *Cochrane Database Syst Rev*. 2017 ;5 : CD011413
+
+[32] Choi HJ, Kim YM, Oh YM, Kang HG, Yim HW, Jeong SH, Korean Emergency Airway Management Registry (KEAMR) investigators. *BMJ Open*. 2015 ;5 : e007884. Doi : 10.1136/bmjopen-2015-007884.
+
+[33] Platts-Mills TF, Campagne D, Chinnock B, Snowden B, Glickman LT, Hendey GW. A comparison of GlideScopevideo laryngoscopy versus direct laryngoscopy intubation in the emergency department. Acad Emerg Med 2009;16(9):866-71.
+
+[34] Choi HJ, Kang HG, Lim TH, Chung HS, Cho J, Oh YM, et al. Endotracheal intubation using a GlideScope video laryngoscope by emergency physicians: a multicentre analysis of 345 attempts in adult patients. Emerg Med J 2010;27(5):380-2.

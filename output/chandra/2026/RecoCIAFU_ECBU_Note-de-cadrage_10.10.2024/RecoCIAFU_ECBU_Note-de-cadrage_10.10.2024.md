@@ -1,0 +1,639 @@
+![Logo of AFU (Association Française d'Urologie)](990f9257ddad3b9facd81238af7a4fb9_1_img.webp)
+
+Logo des partenaires à solliciter, **accord en attente**
+
+![Logo of Spif (Société de Pathologie Infectieuse de Langue Française)](990f9257ddad3b9facd81238af7a4fb9_3_img.webp)![Logo of SF2H (Société Française d'Hygiène Infectieuse et Soins)](990f9257ddad3b9facd81238af7a4fb9_4_img.webp)![Logo of sfm (Société Française de Microbiologie)](990f9257ddad3b9facd81238af7a4fb9_5_img.webp)![Logo of sfmu (Société Française de Microbiologie et Mycologie)](990f9257ddad3b9facd81238af7a4fb9_6_img.webp)![Logo of SFNDT (Société Française de Néphrologie et Dialyse)](990f9257ddad3b9facd81238af7a4fb9_7_img.webp)![Logo of SFAR (Société Française d'Anatomie et Radiologie)](990f9257ddad3b9facd81238af7a4fb9_8_img.webp)![Logo of SFMG (Société Française de Médecine Générale)](990f9257ddad3b9facd81238af7a4fb9_9_img.webp)![Logo of AFUF (Association Française d'Urologie et de la Fonction Urinaire)](990f9257ddad3b9facd81238af7a4fb9_10_img.webp)
+
+Renaloo, Le Lien
+
+**Comité des Pratiques Professionnelles de l'AFU (CPP-AFU)**
+
+**Comité d'Infectiologie de l'AFU (CIAFU)**
+
+**Place de l'ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l'adulte et modalités de traitement en cas de colonisation**
+
+**Note de cadrage – Octobre 2024**
+
+**A l'attention du groupe de pilotage**## **LISTE DES ABRÉVIATIONS**
+
+<table border="1"><tr><td>AFU</td><td>Association Française d'Urologie</td></tr><tr><td>EAU</td><td>« European Association of Urology »</td></tr><tr><td>ECBU</td><td>Examen Cytobactériologique des Urines</td></tr><tr><td>HAS</td><td>Haute Autorité de Santé</td></tr><tr><td>IUAS</td><td>Infections Urinaires Associées aux Soins</td></tr><tr><td>SFM</td><td>Société Française de Microbiologie</td></tr><tr><td>SFHH</td><td>Société Française d'Hygiène Hospitalière</td></tr><tr><td>SPILF</td><td>Société de Pathologie Infectieuse de Langue Française</td></tr></table><table><tr><td><b>1</b></td><td><b>Synthèse des objectifs de cette expertise</b></td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td><b>2</b></td><td><b>Les acteurs de cette expertise</b></td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>2.1</td><td>Promoteur</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>2.2</td><td>Autres sociétés savantes ou agences impliquées dans le groupe de travail (GT) ou le groupe de lecture</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>2.3</td><td>Associations de patients</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td><b>3</b></td><td><b>Présentation du thème</b></td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.1</td><td>Saisine</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.2</td><td>Contexte du thème</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Epidémiologie</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Définitions</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Etat des lieux sur les pratiques et l'organisation de la prise en charge</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.3</td><td>Enjeux / justification du projet</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.4</td><td>Objectifs des recommandations</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.5</td><td>Questions cliniques retenues</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.6</td><td>Professionnels cibles</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>3.7</td><td>Patients concernés par le thème</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td><b>4</b></td><td><b>Méthode de mise en œuvre</b></td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.1</td><td>Etapes et calendrier prévisionnel</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.2</td><td>Recherche bibliographique</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.3</td><td>Sélection bibliographique</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.4</td><td>Construction de l'argumentaire</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.5</td><td>Relecture nationale</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.6</td><td>Données disponibles (états des lieux documentaire)</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Recommandations internationales existantes</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Méta-analyses, revues systématiques ou autres publications internationales</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.7</td><td>Synthèse de l'avis des professionnels et des patients et usagers</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Parties prenantes consultées</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Préoccupations des professionnels et des patients et usagers</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.8</td><td>Productions, outils d'implémentation et mesure d'impact</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Productions prévues et plan de diffusion/communication envisagés</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Outils d'implémentation</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Communication et diffusion</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Indicateurs et critères de suivi de l'adhésion à la RBP – Étude d'impact</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>4.9</td><td>Actualisation des recommandations</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td><b>5</b></td><td><b>Annexes</b></td><td><b>.....5</b></td></tr><tr><td></td><td>Annexe 1 : Groupe de travail et groupe de lecture</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Groupe de pilotage</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Groupe de travail</td><td><b>.....Erreur ! Signet non défini.</b></td></tr><tr><td>▶</td><td>Groupe de lecture (3 à 5 personnes / SS ou association)</td><td><b>.....Erreur ! Signet non défini.</b></td></tr></table>- • **SPILF : Laurence Maulin (lmaulin@ch-aix.fr), Rémy Gauzit (remy.gauzit@gmail.com), Philippe L'esprit (PLesprit@chu-grenoble.fr)**Erreur ! Signet non défini.
+
+Annexe 2 : Recherche bibliographique (cf. Excel « sélection bibliographique -> 6 onglets : 1 onglet / type d'étude) ..... Erreur ! Signet non défini.
+
+- ▶ Recommandations -> **XX** articles retrouvés ..... Erreur ! Signet non défini.
+- ▶ SM/MA après exclusion des doublons dans guidelines -> **XX** articles retrouvés Erreur ! Signet non défini.
+- ▶ Etudes prospectives randomisées ou non après exclusion des doublons dans guidelines et SM/MA -> **XX** articles retrouvés..... Erreur ! Signet non défini.
+- ▶ Etudes comparatives, essais cliniques non contrôlés après exclusion des doublons dans études prospectives randomisées ou non, guidelines et SM/MA -> **XX** articles retrouvés ..... Erreur ! Signet non défini.
+- ▶ Etudes observationnelles (Etudes de cohortes) après exclusion des doublons dans études comparatives, essais cliniques non contrôlés ; études prospectives randomisées ou non ; guidelines et SM/MA -> **XX** articles retrouvés ..... Erreur ! Signet non défini.
+- ▶ Autres après exclusion des doublons dans études observationnelles (Etudes de cohortes) ; études comparatives, essais cliniques non contrôlés ; études prospectives randomisées ou non ; guidelines et SM/MA -> **XX** articles retrouvésErreur ! Signet non défini.
+
+Références bibliographiques .....22## 1 Synthèse des objectifs de cette expertise
+
+Cette expertise doit permettre :
+
+- • de produire des recommandations, selon les règles de l'art, sur la place de l'ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l'adulte ;
+- • d'analyser l'impact de ces recommandations sur la pratique clinique.
+
+Ce travail doit permettre :
+
+- • de réduire les hétérogénéités et inégalités territoriales de prise en charge pour une meilleure qualité des soins ;
+- • d'améliorer la qualité de vie des patients et le service médical qui leur sera rendu.## 2 Les acteurs de cette expertise
+
+### 2.1 Promoteur
+
+- • **AFU / CIAFU** : Comité d'Infectiologie ; ses principaux travaux sont listés ici :  
+  <https://www.urofrance.org/themereco/infectiologie/>
+
+### 2.2 Autres sociétés savantes ou agences impliquées dans le groupe de travail (GT) ou le groupe de lecture (GL)
+
+- • **AFUF** (Association Française des Urologues en Formation) -> GT+GL
+- • **SF2H** (Société Française d'Hygiène Hospitalière) -> GT+GL
+- • **SPILF** (Société de Pathologie Infectieuse de Langue Française) -> GT+GL
+- • **SFM** (Société Française de Microbiologie) -> GT+GL
+- • **SFAR** (Société Française d'Anesthésie et de Réanimation) -> GT+GL
+- • **AFIIU** (Association Française des Infirmières et Infirmiers en Urologie) -> GT+GL
+  
+- • **SFNDT** (Société Francophone de Néphrologie, Dialyse et Transplantation) -> GL
+- • **SFMU** (Société Française de Médecine d'Urgence) -> GL
+- • **SFR** (Société Française de Radiologie et d'imagerie médicale) -> GL
+
+#### Sociétés savantes francophones -> GL
+
+- • **AAU** (Association Algérienne d'Urologie)
+- • **AMU** (Association Marocaine d'Urologie)
+- • **ATU** (Association Tunisienne d'Urologie)
+- • **AUQ** (Association des Urologues du Québec)
+- • **SBU** (Société Belge d'Urologie)
+- • **SLU** (Société Libanaise d'Urologie)
+- • **SSU** (Société Suisse d'Urologie)
+
+### 2.3 Associations de patients
+
+- • Renaloo -> GT + GL
+- • Le Lien -> GT + GL## 3 Présentation du thème
+
+### 3.1 Saisine
+
+Ce travail s'intègre dans les travaux du comité d'infectiologie de l'Association Française d'Urologie (CIAFU).
+
+Le comité est en charge des travaux de l'AFU sur l'infectiologie urologique. Le groupe est constitué d'urologues, de microbiologistes, d'infectiologues et de médecins généralistes/urgentistes. Le comité se réunit 4 fois par an et participe à des conférences téléphoniques régulières en fonction de l'actualité.
+
+Il s'agit d'une auto-saisine du CIAFU pour l'élaboration de ses recommandations de bonne pratique, en partenariat avec la Société de Pathologie Infectieuse de Langue Française (SPILF). Cette recommandation porte sur la place de l'examen cytobactériologique des urines (ECBU) avant une prise en charge urologique chirurgicale ou interventionnelle chez l'adulte (indications, techniques) et sur la prise en charge du patient en cas de positivité de l'ECBU. Plusieurs constats justifient ce projet :
+
+- – En urologie, les complications infectieuses représentent la première cause de complications post-opératoires. Leur incidence peut parfois augmenter en cas de portage bactérien dans l'urine. L'ECBU est souvent réalisé mais le rationnel quant à son utilité fait défaut.
+- – Lorsque l'ECBU est effectué en période préopératoire, une antibiothérapie probabiliste est le plus souvent prescrite sans réelle justification. Réduire la réalisation inadéquate d'ECBU permettra de réduire la consommation d'antibiotiques et donc de diminuer à la fois les complications liées aux prescriptions antibiotiques et l'antibiorésistance.
+- – Il n'existe pas de recommandations nationales sur le sujet.
+
+### 3.2 Contexte épidémiologique
+
+L'infection urinaire est la deuxième infection communautaire la plus fréquente après les infections des voies respiratoires. C'est la première cause d'infection liée aux soins en milieu hospitalier (notamment en post-opératoire [SFM-SPILF-HAS 2023]). Son incidence est parfois augmentée en cas de portage de bactéries dans l'urine. D'après les études PEP (Pan European Prevalence) de 2003 et PEAP (Pan EuroAsian Prev) de 2004, la prévalence des colonisations ou infections urinaires aiguës était de 11% [Bjerklund Johansen et al. 2007]. Une colonisation urinaire était présente dans 29% des cas, une cystite dans 26% des cas, une pyélonéphrite dans 21% des cas et un urosepsis dans 12% des cas [Bjerklund Johansen et al. 2007]. Dans la population des patients urologiques, les infections urinaires associées aux soins se transforment en urosepsis dans près de 25% des cas (âge moyen :  $63 \pm 17$  ans ; ratio femme/homme : 3:7) [Tandoğdu et al. 2016].
+
+**Une colonisation urinaire ou bactériurie asymptomatique** (femme enceinte) est définie par la présence d'une bactériurie sans manifestation clinique associée qui pourrait faire évoquer une infection urinaire telle que la fièvre ou des brûlures en urinant. A ce jour, il n'existe pas de seuil validé de bactériurie sauf en cas de grossesse ( $\geq 10^5$  cfu/mL) [Caron et al. 2018]. En l'absence de signes d'infection urinaire, une colonisation urinaire est fréquente ; elle correspond à unecolonisation communautaire [Hermanides et al. 2008]. On estime qu'une colonisation urinaire survient chez 1 à 5% des femmes pré-ménopausées en bonne santé et chez 2-10% des femmes enceintes. Chez les patients âgés de plus de 70 ans par ailleurs en bonne santé, cette proportion passe à 11 à 16% chez les femmes et à 4 à 19% chez les hommes. Chez les patients diabétiques, la colonisation urinaire survient chez 9 à 27% des femmes et chez 0,7 à 11% des hommes ; elle est relativement élevée chez les blessés médullaires (23-89%) [Nicolle et al. 2005]. La prévalence de la colonisation urinaire chez les personnes portant une sonde urinaire à demeure depuis plus de 3 mois est proche de 100% [Kouri et al. 2024].
+
+**Les infections urinaires** (cystite, pyélonéphrite, prostatite, épididymite)<sup>1</sup> se définissent par l'association de symptômes/signes cliniques, voire morphologiques, associés à un critère bactériologique. Les signes cliniques varient avec l'âge, le sexe des patients, la présence d'un sondage urinaire et sa durée, la localisation anatomique et la sévérité de l'infection [Caron et al. 2018]. L'infection urinaire est une complication potentiellement grave. D'après l'étude GPIU<sup>2</sup>, sur un total de 702 hommes inclus dans 84 centres participant dans le monde entier, l'incidence d'une infection urinaire symptomatique était de 5%, celle d'une infection urinaire fébrile était de 3,5%, et 3% ont dû être hospitalisés [Wagenlehner et al. 2016]. De plus, en Europe, on observe une augmentation de l'incidence des infections urinaires secondaires à des bactéries multi ou hautement résistantes [Cassini et al. 2019]. Les entérobactériales sont les principales pourvoyeuses d'infections urinaires. *Escherichia coli* est de loin la première bactérie responsable d'infection urinaire ; elle est retrouvée dans 70-95% des cas d'infections communautaires et 30-50% des cas d'infections acquises en milieu de soins [SFM-SPILF-HAS 2023]. En France<sup>3</sup>, le taux d'*Escherichia coli* résistants aux céphalosporines de 3<sup>ème</sup> génération était de l'ordre de 8,4% en 2022. Or l'émergence de souches résistantes est en grande partie liée à l'utilisation non justifiée ou inappropriée des antibiotiques [SFM-SPILF-HAS 2023].
+
+### 3.3 Etat des lieux sur les pratiques et l'organisation de la prise en charge
+
+#### ► ECBU
+
+Le nombre d'ECBU réalisés chaque année en France est en constante augmentation puisque, même chez un patient asymptomatique, un ECBU est souvent prescrit sans justification argumentée. En France, près de 7 à 9 millions<sup>4</sup> d'ECBU sont réalisés chaque année, ce qui en fait l'examen le plus prescrit et représente un coût de 180 millions d'euros par an pour la sécurité sociale. En 2021, 601 472 interventions urologiques ont été recensées en France<sup>5</sup>.
+
+---
+
+<sup>1</sup> <https://www.urofrance.org/recommandation/infections-urinaires-de-l-adulte-comparaison-des-recommandations-francaises-et-europeennes-par-le-comite-dinfectiologie-de-lassociation-francaise-durologie/>
+
+<sup>2</sup> GPIU est une étude de prévalence annuelle menée dans le monde entier pour recenser les infections chez les patients urologiques sur une base annuelle depuis 2003 : <https://uroweb.org/news/new-gpiu-study-dates-for-2022>
+
+<sup>3</sup> Surveillance Atlas of Infectious Diseases. Accessed August 5, 2023. <https://atlas.ecdc.europa.eu/public/index.aspx>
+
+<sup>4</sup> <https://www.laviedulabo.fr/savez-vous-tout-a-propos-de-lecbu/>
+
+<sup>5</sup> <https://www.scansante.fr/applications/action-gdr-chirurgie-ambulatoire-spec>D'après une étude de cohorte rétrospective multicentrique française, il n'y avait pas de relation entre l'ECBU préopératoire et le risque d'infection urinaire fébrile post-opératoire ou d'infection du site chirurgical en cas de néphrectomie partielle ou totale [Ayoub et al. 2024]. Ces données suggèrent que le dépistage et le traitement antibiotique probabiliste d'une colonisation urinaire ne semblent pas nécessaires pour prévenir les infections urinaires post-opératoires et/ou du site opératoire dans cette indication [Ayoub et al. 2024].
+
+D'après une revue systématique conduite par le comité d'infectiologie de l'AFU (CIAFU), le risque infectieux chez un patient non porteur de matériel avec un ECBU préopératoire polymicrobien semble faible [Vallée et al. 2019]. En revanche, en chirurgie endo-urologique chez un patient porteur de matériel, le risque d'infection post-opératoire est évalué entre 8 à 11% selon le type d'intervention. Considérer un ECBU comme stérile dans cette situation d'ECBU polymicrobien conduirait à négliger un risque majeur d'infection post-opératoire et ce même en cas de prescription d'une antibioprophylaxie peropératoire [Vallée et al. 2019].
+
+### ► Antibioprophylaxie
+
+D'après une analyse des données de l'étude mondiale de prévalence des infections en urologie pour la période 2005-2010 qui vise à décrire l'utilisation de l'antibioprophylaxie pour les procédures urologiques, lorsqu'un ECBU est réalisé en période préopératoire, une prescription d'antibiotique est le plus souvent réalisée [Ček et al. 2013]. En effet, le traitement de la colonisation urinaire, définie comme une ECBU positive chez un patient ne présentant aucun symptôme, est controversé ; l'antibioprophylaxie ne semble pas toujours conforme aux recommandations européennes. Il existe des différences significatives entre les pays/régions et les types d'hôpitaux, à la fois dans l'utilisation de l'antibioprophylaxie pour les procédures dites « propres » et dans les types d'antibiotiques utilisés [Ček et al. 2013]. Il semble que le respect des recommandations puissent réduire la consommation antibiotique, néanmoins cette étude n'avait pas confirmé de réduction du risque infectieux.
+
+D'après une analyse des données issues d'un registre (TOCUS<sup>6</sup>) incluant tous les patients ayant eu une chirurgie urologique dans 10 hôpitaux français entre le 1<sup>er</sup> janvier 2016 et le 1<sup>er</sup> avril 2023, l'efficacité d'un traitement antibiotique probabiliste systématique en cas d'ECBU préopératoire positif n'a pas été établie de manière formelle. Cela tend à confirmer que le dépistage et le traitement de la colonisation urinaire avant chirurgie urologique n'est probablement pas pertinent pour toutes les interventions d'urologie [Kutchukian et al. 2024]. Le recours à une antibiothérapie probabiliste, parfois des antibiotiques à large spectre, concourt à l'augmentation de l'antibiorésistance [Cek et al. 2014]. Les études GPIU 2003-2010 ont révélé des taux élevés de résistance à la ciprofloxacine (>50%), aux céphalosporines (35-50%) et aux pénicillines (50%) [Cek et al. 2014]. De plus, l'utilisation excessive d'antibiotiques serait associée à une augmentation du taux de complications infectieuses post-opératoires voire à des modifications histologiques (état pré-cancéreux) [Cai et al. 2012] [Wullt et al. 2019] [Herr and Donat 2019] [Bourgi et al. 2025a].
+
+Au niveau mondial, l'antibioprophylaxie systématique pour toutes les interventions urologiques était la plus élevée en Asie, en Afrique et en Amérique latine (86%, 85% et 84%, respectivement), suivie de l'Europe (67%) [Wagenlehner et al. 2016].
+
+---
+
+<sup>6</sup> "To treat Or not to treat a Colonization prior to Urologic Surgery."## 4 Enjeux / justification du projet
+
+- • Réduire la prescription systématique d'ECBU en préopératoire en fonction du type d'intervention urologique et du profil du patient ;
+- • Réduire la dispensation systématique d'antibiotiques probabilistes afin de lutter contre l'antibiorésistance et les effets indésirables liés à l'antibiotérapie ;
+- • Réduire les complications infectieuses post-opératoires en cas de prise en charge inadaptée d'une colonisation urinaire;
+- • Homogénéiser les pratiques sur le territoire national ;
+- • Optimiser la pertinence des soins ; réduire le mésusage relatif à la prise en charge des patients ;
+- • Améliorer la qualité et la sécurité de la prise en charge et du service médical rendu aux patients.
+
+## 5 Cibles
+
+### 5.1 Professionnels de santé concernés
+
+Ces recommandations s'adressent à tout professionnel de santé amené à réaliser ou à poser l'indication d'un ECBU avant une prise en charge interventionnelle ou chirurgicale urologique chez l'adulte : les urologues, les microbiologistes, les infectiologues, les anesthésistes-réanimateurs, les hygiénistes, les médecins spécialistes en médecine générale, les radiologues, les biologistes... ainsi qu'aux soignants, aidants et paramédicaux (infirmières, ...).
+
+### 5.2 Patients ou usagers concernés
+
+Ces recommandations concernent l'ensemble des personnes adultes (hommes ou femmes) susceptibles de bénéficier d'une prise en charge urologique, interventionnelle ou chirurgicale.
+
+## 6 Objectifs
+
+- • Mettre à disposition des urologues et autres intervenants français et francophones des recommandations actualisées sur les indications de réalisation d'un ECBU avant une prise en charge urologique chirurgicale ou interventionnelle (nouvelles thérapeutiques mini-invasives) chez l'adulte : indications, techniques et prise en charge du patient en cas de positivité ;
+- • Analyser l'impact de ces recommandations sur les pratiques, notamment la réduction du nombre d'ECBU réalisés et de traitements antibiotiques probabilistes ;
+- • Identifier les questions qui restent du domaine de la recherche clinique.## 6.1 Questions cliniques (PICO)
+
+**Q1. Quelle est la place de l'ECBU (indication, délai de réalisation, ...)** dans le diagnostic d'une colonisation urinaire avant une prise en charge urologique interventionnelle (ex : cystoscopie) ou chirurgicale (ex : cystectomie) chez l'adulte en fonction du type d'intervention et des facteurs de risque (homme/femme, âge, obésité, diabète, durée de pose de stent, prothèse valvulaire cardiaque y compris TAVI, immunosuppression, type de calculs, type de procédure ... ) ?
+
+**Q2. Quelles sont les méthodes de dépistage d'une colonisation urinaire en préopératoire (ECBU, ...)** ? Comparaison ECU à d'autres techniques ; Recueil des urines, conditions de conservation et de transport des urines, interprétation en fonction de la présence ou non d'une sonde, de symptômes (lesquels ?), de la leucocyturie (seuil ?) et de la bactériurie (seuil ?) ; Seuil selon les bactéries, leur interprétation ; ECU mono, bi ou polymicrobien ; Gestion ciblée / bactérie ; Patient porteur de matériel ou non.
+
+**Q3. Quelle prise en charge du patient, en cas de positivité de l'ECBU en péri-opératoire ?**
+
+TABLEAU 1 : LES QUESTIONS « PICO »
+
+<table border="1">
+<thead>
+<tr>
+<th>Population</th>
+<th>Intervention</th>
+<th>intervention Comparée</th>
+<th>Outcomes (critère de jugement)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"><b>Q1. Quelle est la place de l'ECBU (indication, délai de réalisation, ...) dans le diagnostic d'une colonisation urinaire avant une prise en charge interventionnelle (ex : cystoscopie) ou chirurgicale (ex : cystectomie) chez l'adulte en fonction du type d'intervention et des facteurs de risque</b></td>
+</tr>
+<tr>
+<td>Patients candidats à toute procédure interventionnelle ou chirurgicale urologique<br/>Facteurs de risque (homme/femme, âge, obésité, diabète, durée de pose de stent, prothèse valvulaire cardiaque y compris TAVI, immunosuppression, type de calculs, type de procédure ... ?)</td>
+<td>ECBU</td>
+<td>Symptômes cliniques /<br/>Bandelettes urinaires /<br/>Marqueurs biologiques de l'inflammation (CRP, VS) /<br/>autres (<math>\alpha</math>-1-microglobuline urinaire, PSA, fraction 5 des LDH urinaires, procalcitonine) /<br/>Imagerie : écho, scanner /<br/>Cytométrie de flux, ...</td>
+<td>Performances diagnostiques</td>
+</tr>
+<tr>
+<td colspan="4"><b>Q2. Quelles sont les méthodes de dépistage d'une colonisation urinaire en préopératoire (ECBU, ...)</b> ?</td>
+</tr>
+<tr>
+<td>idem</td>
+<td>idem</td>
+<td>NA</td>
+<td>idem</td>
+</tr>
+<tr>
+<td colspan="4"><b>Q3. Quelle prise en charge du patient, en cas de positivité de l'ECBU en péri-opératoire ?</b></td>
+</tr>
+<tr>
+<td>Patients avec ECU en préopératoire positif</td>
+<td>Antibiotiques</td>
+<td>Pas d'antibiotiques</td>
+<td>Taux d'infection en post-opératoire</td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Type de bactérie retrouvée, concordance avec l'ECBU en préopératoire...</td>
+</tr>
+</table>
+
+## 6.2 Procédures urologiques considérées
+
+### 1. Prostate
+
+1. 1. Prostatectomie totale
+2. 2. Résection transurétrale de prostate (RTUP)
+3. 3. Adénomectomie chirurgicale
+4. 4. Traitement de l'hyperplasie bénigne de la prostate par d'autres techniques : énucléation (laser holmium [HoLEP], laser thulium [ThuLEP], laser greenlight [GreenLEP], bipolaire [BIPOLEP]), pose d'implant intraprostatique (UROLIFT), thermothérapie à la vapeur d'eau (REZUM), et embolisation des artères prostatiques,
+5. 5. Ultrasons focalisés (HIFU)
+6. 6. Radiothérapie, curiethérapie
+7. 7. Biopsies de prostate par voie trans-périnéale
+8. 8. Biopsies de prostate par voie transrectale
+9. 9. Pose de fiduciaux dans la prostate
+
+### 2. Vessie
+
+1. 1. Cystectomie suscrigonale partielle ou totale, quel que soit le mode de dérivation
+2. 2. Résection transurétrale de vessie (RTUV)
+3. 3. Cystoscopie diagnostique
+4. 4. Cure d'incontinence urinaire avec ou sans pose de prothèse
+5. 5. Injection intra-détrusorienne de toxine botulique
+6. 6. Cure de prolapsus, quelle que soit la voie d'abord, avec ou sans matériel
+7. 7. Injection de macroplastique
+8. 8. Bilan urodynamique
+9. 9. Neuromodulation des racines sacrées
+
+### 3. Rein
+
+1. 1. Néphrectomie totale ou partielle
+2. 2. Surrénalectomie
+3. 3. Embolisation des artères rénales
+4. 4. Biopsie rénale ou thermoablation de tumeur rénale
+5. 5. Transplantation rénale (donneur cadavérique ou donneur vivant)
+6. 6. Pose ou changement de cathéter de dialyse intrapéritonéale
+7. 7. Cure de jonction pyélo-urétérale
+8. 8. Urétrhocystographie rétrograde
+
+### 4. Organes génitaux de l'homme
+
+1. 1. Pose d'implants péniens
+2. 2. Pose de prothèse testiculaire
+3. 3. Chirurgie scrotale ou du pénis sans prothèse
+4. 4. Urétroplasties
+
+### 5. Chirurgie endo-urologique du tractus urinaire1. 1. Urétéroscopie diagnostique et/ou thérapeutique
+2. 2. Urétrotomie
+3. 3. Néphrolithotomie percutanée
+4. 4. Lithotritie extra-corporelle
+
+### 6.3 Questions non retenues
+
+Les questions qui ne sont pas à traiter dans le cadre de cette expertise sont les suivantes :
+
+- • Population : enfants
+- • Intervention : ECBU avant une fibroscopie uréthro-vésicale pour ablation de sonde JJ -> Faut-il faire un ECBU pour monter, enlever ou changer une sonde JJ, mono J ou une néphrostomie ? Cette question ayant été traitée dans la recommandation précédente du CIAFU sur la prise en charge des infections sur matériel endo-urétéral.
+
+## 7 Méthode de mise en œuvre
+
+La méthode d'élaboration des recommandations « Recommandations par consensus formalisé » (RCF) proposée par la HAS<sup>7</sup> a été retenue en raison :
+
+- • de l'insuffisance de littérature de fort niveau de preuve répondant spécifiquement aux questions posées ;
+- • de la possibilité de décliner le thème en situations cliniques facilement identifiables (listes d'indications, de critères, etc.) ;
+- • controverse avec nécessité d'identifier par un groupe indépendant et de sélectionner parmi plusieurs alternatives les situations dans lesquelles une pratique est jugée appropriée.
+
+La méthode RCF est à la fois une méthode de recommandations et une méthode de choix dans ces circonstances.
+
+En tant que méthode de consensus, son objectif est de « formaliser le degré d'accord entre experts en identifiant et en sélectionnant, par une cotation itérative avec retour d'information, les points de convergence, sur lesquels sont fondées secondairement les recommandations, et les points de divergence ou d'indécision entre experts, en vue d'apporter aux professionnels et aux patients une aide pour décider des soins les plus appropriés dans des circonstances cliniques données ».
+
+En tant que méthode de recommandations de bonne pratique, son objectif est de rédiger des recommandations concises, non ambiguës, répondant aux questions posées.
+
+### 7.1 Etapes et calendrier prévisionnel
+
+Le calendrier (cf. Tableau 2) est indiqué à titre prévisionnel lors du cadrage du projet. Il sera ajusté en tenant compte, en particulier des disponibilités effectives des membres du groupe de travail et du nombre d'articles à analyser qui seront retenus à l'issue de la stratégie bibliographique.
+
+---
+
+7
+
+[https://www.has-sante.fr/upload/docs/application/pdf/2011-11/guide\\_methodologique\\_cf\\_40\\_pages\\_2011-11-03\\_15-40-2\\_278.pdf](https://www.has-sante.fr/upload/docs/application/pdf/2011-11/guide_methodologique_cf_40_pages_2011-11-03_15-40-2_278.pdf)## Diagnostic des infections urinaires associées aux soins urologiques - Note de cadrage
+
+L'objectif est de finaliser ce travail pour la fin d'année 2025 avec à la clé, une publication dans la revue « the French Journal of Urology » ou dans une revue internationale.
+
+La réunion du groupe de pilotage du 05/05/2025 a permis la discussion de la note de cadrage, la définition des sous-groupes par question clinique et l'affectation des membres ainsi que des responsables (ou coordonnateurs) de chaque sous-groupe, composant le groupe de pilotage.
+
+Le calendrier a été proposé aux membres du groupe de pilotage qui l'ont validé.
+
+**TABLEAU 2. ETAPES ET CALENDRIER DU PROJET**
+
+<table border="1">
+<thead>
+<tr>
+<th>Etapes</th>
+<th>Livrables</th>
+<th>Dates</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Réunion de cadrage</b><br/>Identification du besoin et initiation du projet</td>
+<td>Note de cadrage validée par le groupe de pilotage<br/><i>Validation de la méthode de travail, de la constitution de l'expertise, des questions cliniques, du plan de l'argumentaire, de la stratégie bibliographique, du calendrier du projet ; communication sur le rôle des participants</i></td>
+<td>Novembre 2024</td>
+</tr>
+<tr>
+<td>Constitution de l'expertise</td>
+<td>Sollicitation des sociétés savantes et associations de patients -&gt; Groupe de travail pluridisciplinaire</td>
+<td>Mars 2025</td>
+</tr>
+<tr>
+<td>Recherche et sélection bibliographiques</td>
+<td>Groupe de pilotage -&gt; Corpus documentaire validé : fichier Excel de sélection des données, attribution / évaluateur</td>
+<td>Avril 2025</td>
+</tr>
+<tr>
+<td><b>Réunion du groupe de pilotage</b></td>
+<td>Groupe de pilotage -&gt; Validation de la sélection bibliographique ; présence requise de tous les membres du groupe de pilotage</td>
+<td>5 mai 2025</td>
+</tr>
+<tr>
+<td>Analyse des études dans tableau Excel</td>
+<td>Groupe de pilotage -&gt;</td>
+<td>25 juin 2025</td>
+</tr>
+<tr>
+<td>Construction de l'argumentaire</td>
+<td>Groupe de pilotage -&gt; <b>V1</b> de l'argumentaire<br/>Tout le long de l'analyse, prévoir des visioconférences de 2h / question</td>
+<td>Fin juillet 2025</td>
+</tr>
+<tr>
+<td>Visio pilotage</td>
+<td>redaction des conclusions + recommandations</td>
+<td>18/07 (10h- 12h)<br/>01/08 (16h – 18h)<br/>03/09 (16h-18h)<br/>04/09 (15h-17h)<br/>08/09 (16h30-17h30)<br/>15/09 (20h-22h)</td>
+</tr>
+<tr>
+<td>1<sup>er</sup> tour de cotation</td>
+<td>Groupe de cotation</td>
+<td>16 au 25 septembre 2025</td>
+</tr>
+<tr>
+<td>Visio pilotage</td>
+<td>Discussion des retours de la cotation 1</td>
+<td>29 septembre ?</td>
+</tr>
+<tr>
+<td><b>Réunion 1 plénière (groupe de pilotage + groupe de cotation)</b></td>
+<td><b>Finalisation des recommandations</b></td>
+<td><b>1/10/2025 (10h – 17h)</b></td>
+</tr>
+<tr>
+<td>2<sup>nd</sup> tour de cotation</td>
+<td>Groupe de cotation</td>
+<td>-&gt; 13/10/2025</td>
+</tr>
+<tr>
+<td>Synthèse des retours du 2<sup>nd</sup> tour de cotation et finalisation avec le pilotage</td>
+<td>Retours colligés</td>
+<td>-&gt; 16/10/2025</td>
+</tr>
+<tr>
+<td>Relecture nationale</td>
+<td>Envoi et commentaires colligés</td>
+<td>Du 17/10/2025 au 03/11/2025</td>
+</tr>
+<tr>
+<td><b>Réunion 2 plénière (groupe de pilotage + groupe de cotation)</b></td>
+<td><b>Intégration des retours de la relecture nationale, finalisation</b></td>
+<td><b>17/11/2025 (10h – 17h)</b></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td rowspan="2">Publication – Diffusion</td>
+<td>Communications orales</td>
+<td rowspan="2">4<sup>ème</sup> trimestre 2025</td>
+</tr>
+<tr>
+<td>Articles</td>
+</tr>
+</table>
+
+## 7.2 Recherche bibliographique
+
+La recherche documentaire repose sur une revue systématique des données disponibles pour chacune des questions sélectionnées.
+
+Une attention particulière est accordée au recensement des recommandations ou textes réglementaires dans le domaine au niveau national et international.
+
+Dans un premier temps seront recherchées sur les sites internet des organismes internationaux (EAU, AUA, ...) et sur PubMed®
+
+- • les recommandations de bonnes pratiques (RBP), depuis 2010
+- • les synthèses méthodiques et les méta-analyses (SM, MA), depuis 2010
+
+Les équations de recherche explicitent (cf. Annexe 2 : Recherche bibliographique (cf. Excel « sélection bibliographique -> 6 onglets : 1 onglet / type d'étude) :
+
+- • la population concernée : patients candidats à une intervention urologique
+- • l'intervention : ECBU
+- • la période de recherche (janvier 2000 – novembre 2024) ; les études princeps publiées avant cette date seront ajoutées à la sélection bibliographique ; une veille bibliographique sera conduite jusqu'en juin 2025.
+- • le type d'études (tous types d'études sauf les revues générales, les editoriaux, les lettres, les études de cas et les communications à des congrès). Les méta-analyses/synthèses méthodiques et essais randomisés seront recherchés dans un premier temps puis les études non randomisées ou rétrospectives ou études transversales ;
+- • la langue : seules les études en anglais ou en français seront recherchées.
+- • chez l'homme ou la femme
+
+Croisement des 3 modules (“surgery” OR “urologic surgical procedures”) **AND** préopératoire **AND** (“diagnosis” OR Prophylaxis / “urinary tract infection” OR “UTI” OR “Bacteriuria” OR “Urine culture” OR “Surgical-site infection” OR “Bacterial Infections” OR “Cytobacteriological examination of urine” OR CBEU OR healthcare-associated urogenital infections (HAUTI)
+
+Cette recherche est complétée par des recherches ciblées par type de procédure urologique (cystoscopie ; cystectomie ; ...).
+
+Les membres du groupe de travail complètent le corpus documentaire par les études qui seraient notamment non indexées sur Medline® à la date de la conduite de la recherche bibliographique.### 7.3 Sélection bibliographique
+
+Les critères d'inclusion et d'exclusion des études seront définis *a priori* puis affinés avec le groupe de travail lors de la première réunion.
+
+Dans un premier temps, seules les études de haut niveau de preuve sont retenues (synthèses méthodiques ou méta-analyses et essais randomisés). Cette évaluation s'effectue :
+
+- • pour les recommandations à l'aide de la grille AGREE (cf. **Erreur ! Source du renvoi introuvable.**);
+- • pour les synthèses méthodiques et les méta-analyses à l'aide d'une grille dédiée (cf. **Erreur ! Source du renvoi introuvable.**).
+
+En cas d'identification d'une synthèse méthodique de qualité, les études qui y sont identifiées ne seront pas à nouveau retenues dans le cadre de cette expertise, afin d'éviter la duplication des efforts et de permettre une analyse critique détaillée de l'ensemble des études retenues.
+
+Dans un second temps, les études originales sont retenues sur la base des critères de sélection après lecture des abstracts.
+
+**Sont retenues les études évaluant** : Les patients adultes recevant des soins interventionnels ou chirurgicaux urologiques, sans limite d'âge.
+
+**Sont exclues les études sur la base des critères suivants :**
+
+1. 1. Editorial, étude de cas, revue générale
+2. 2. Coût, Pratiques, Épidémiologie
+3. 3. In vitro / in vivo
+4. 4. Recommandation ou série réactualisée
+5. 5. Non spécifique des soins urologiques
+6. 6. Efficacité des traitements
+7. 7. Protocole, Méthode
+8. 8. Enfants
+9. 9. Effets indésirables des antibiotiques
+10. 10. RAAC
+11. 11. Comparaison entre techniques opératoires
+12. 12. Antibiothérapie post-opératoire
+13. 13. Pose de cathéter/stent
+14. 14. Retrait de matériel endo-urétéral
+15. 15. Résistances aux antibiotiques
+16. 16. Comparaison entre antibiotiques
+17. 17. Prédiction de cancer
+18. 18. Antibiothérapie sans ECBU
+19. 19. Non urologique## 7.4 Construction de l'argumentaire
+
+La qualité méthodologique des études est analysée selon des grilles. Cette analyse méthodologique des études complétée par l'analyse de la pertinence clinique permet d'aboutir à l'attribution de niveaux de preuve aux conclusions des données factuelles de la littérature.
+
+Le niveau de preuve correspond à la cotation des données de la littérature sur lesquelles reposent les recommandations qui seront formulées. Il est fonction du type et de la qualité des études disponibles (niveau de preuve des études individuelles), ainsi que de la cohérence ou non de leurs résultats. Il est spécifié pour chacune des méthodes/interventions considérées (cf. **Erreur ! Source du renvoi introuvable.**).
+
+Les recommandations sont élaborées sur la base de ces conclusions accompagnées du jugement argumenté des membres du groupe de travail; 3 formulations sont proposées :
+
+- • par défaut, la recommandation formulée est l'attitude clinique reconnue à l'unanimité comme l'attitude clinique de référence par les experts : « Il est recommandé... »
+- • si une attitude clinique a été jugée acceptable sur la base des données de la littérature et de l'avis d'experts mais n'est pas reconnue à l'unanimité comme l'attitude clinique de référence, il est indiqué qu'elle peut être discutée/proposée : « Il peut être proposé... ».
+- • en cas de non consensus des experts, aucune recommandation ne sera formulée : « Il n'y a pas suffisamment d'arguments à ce jour pour recommander... ».
+
+La force de la recommandation (Grade A, B, C ou accord d'experts) est déterminée en fonction de quatre facteurs clés et validée par les experts après un vote, sur la base de :
+
+- • l'estimation de l'effet ;
+- • le niveau global de preuve ; plus il est élevé, plus probablement la recommandation sera forte ;
+- • la balance entre effets attendus et effets indésirables: plus celle-ci est favorable, plus probablement la recommandation sera forte.
+
+Si les experts ne disposent pas d'études traitant précisément du sujet, ou si aucune donnée sur les critères principaux n'existe, le grade de la recommandation s'appuyant sur l'avis d'experts est indiqué selon le nouveau guide de la HAS : « En l'absence de preuve scientifique, une proposition de recommandation figurera dans le texte des recommandations soumis à l'avis du groupe de lecture si elle obtient l'approbation d'au moins 80% des membres du groupe de travail. Cette approbation sera idéalement obtenue à l'aide d'un système de vote électronique (à défaut, par vote à main levée) et constituera un « accord d'experts ». Si la totalité des membres du groupe de travail approuve une proposition de recommandation sans nécessité de conduire un vote, cela sera explicité dans l'argumentaire scientifique. »
+
+## 7.5 Composition qualitative des groupes (pilotage / cotation/ lecture)
+
+Le groupe de travail<sup>8</sup> est composé d'experts professionnels multidisciplinaires. Il intègre des représentants de l'Association Française d'Urologie (AFU) et des sociétés savantes impliquées
+
+---
+
+<sup>8</sup> Les réunions du groupe de travail sont prévues à la Maison de l'Urologie (MUR) – 11 rue Viète – Paris XVIIe. L'AFU met aussi à disposition des experts une plateforme de visio conférence.dans le thème des travaux ainsi que des représentants d'associations de patients ou d'usagers. L'équilibre des modes d'exercice et la répartition géographique doit être respecté. Le groupe de travail est constitué de :
+
+- • 3 médecins chirurgiens urologues,
+- • 3 médecins anesthésistes-réanimateurs,
+- • 3 médecins infectiologues,
+- • 2 médecins microbiologistes,
+- • 2 représentants/tes de patients ou d'usagers,
+- • 1 médecin hygiéniste,
+- • 1 infirmier IDE
+
+et de 5 chargés de projets pour l'analyse de la littérature :
+
+- • 3 médecins chirurgiens urologues,
+- • 1 médecin infectiologue,
+- • 1 médecin microbiologiste.
+
+La composition du groupe de lecture est similaire à celle du groupe de travail mais avec un plus grand nombre de relecteurs sollicités.
+
+## 7.6 Relecture nationale
+
+L'étape de la relecture nationale vise à :
+
+- • recueillir les avis d'experts potentiellement divergents pour s'assurer de la qualité du document ;
+- • anticiper des éventuels freins à l'implémentation des recommandations.
+
+L'ensemble des partenaires est informé en amont de la démarche ainsi initiée. Ils seront à nouveau consultés lors de la relecture nationale.
+
+Le document présentant les recommandations est soumis pour avis auprès d'un groupe de professionnels représentatif des spécialités médicales impliquées dans la prise en charge des soins urologiques, du mode d'exercice et des répartitions géographiques. Ces professionnels sont identifiés, après sollicitations des sociétés savantes, avec l'appui de l'AFU et du CIAFU impliqués dans le projet.
+
+Le groupe de lecture donne un avis formalisé sur le fond et la forme de la version initiale des recommandations, en particulier sur son applicabilité, son acceptabilité et sa lisibilité. Les membres rendent un avis consultatif, à titre individuel et ne sont pas réunis.
+
+Ce groupe comprend 30 à 50 personnes concernées par le thème, expertes ou non du sujet. Il permet d'élargir l'éventail des participants au travail en y associant des représentants des spécialités médicales, des professions non médicales ou de la société civile non présents dans les groupes de pilotage et de travail.
+
+**Aucune des personnes consultées par le groupe de pilotage, ni celles participant au groupe de pilotage et au groupe de travail, ne fait partie du groupe de lecture.**Dans le cadre de la relecture nationale, les grilles de cotation seront adressées sous format électronique via le logiciel Survey Monkey®.
+
+L'ensemble des commentaires colligés est revu avec les membres du groupe de travail ; ces commentaires permettent la finalisation du document avant sa validation finale puis diffusion.
+
+## 8 Productions prévues
+
+- • Argumentaire scientifique
+- • Recommandations
+- • Synthèse des recommandations
+- • Fiche pour les patients
+
+## 9 Mesures d'impact envisagées
+
+La conduite d'enquêtes de pratiques via le logiciel Survey Monkey® auprès des urologues, avant et après édition de ces recommandations.
+
+## 10 Plan d'actions
+
+Ces recommandations seront :
+
+- • présentées lors du congrès français d'urologie en novembre 2025 aux urologues
+- • publiées dans French Journal of Urology
+- • diffusées vers les tutelles et instances nationales et régionales :
+  - ○ diffusion sur modèle papier à tous les membres de l'AFU, aux comités multidisciplinaires, aux partenaires de l'AFU et aux membres des groupes de travail.
+  - ○ accessibilité au format électronique sur le site de la HAS ([www.has-sante.fr](http://www.has-sante.fr)), sur celui de l'AFU ([www.urofrance.org](http://www.urofrance.org)) et sur celui des partenaires (SPILF, SFM, SF2H, SFAR, CMG,...).
+
+## 11 Actualisation des recommandations
+
+Ce référentiel sera actualisé tous les 5 ans ou dès que de nouvelles données pouvant entraîner un changement dans les pratiques seront identifiées. Pour ce faire, une veille bibliographique et des enquêtes de pratiques seront conduites ; les questions pour lesquelles de nouvelles données qui pourraient sembler entraîner une modification des conclusions ou une augmentation du niveau de preuve seront identifiées pour mise à jour.
+
+La veille bibliographique mensuelle est assurée par les experts du groupe de travail permettant ainsi d'identifier les éléments de justification d'une mise à jour de ces recommandations. À l'issue du processus de veille, les questions seront retenues pour une éventuelle actualisation si la confrontation des nouvelles et des anciennes données a permis d'identifier les études susceptibles de modifier les recommandations existantes. Elles correspondent aux :- • études dont les conclusions sont cohérentes avec les conclusions initiales mais concernant une recommandation dont le niveau de gradation était moyen ou faible ;
+- • études dont les conclusions sont incohérentes avec les conclusions initiales ;
+- • études portant sur au moins un critère de jugement pour lequel l'impact de l'intervention n'a pas été démontré dans la dernière actualisation.
+
+Ces études seront analysées.
+
+À noter que les études, non susceptibles de modifier les recommandations existantes, correspondent aux :
+
+- • études dont les conclusions sont cohérentes avec les conclusions du document initial et pour lesquelles la gradation de la recommandation était la plus élevée ;
+- • études incluses dans les méta-analyses et les synthèses méthodiques retrouvées ;
+- • études incluses dans les synthèses méthodiques des RBP retrouvées. Ces études ne seront pas analysées.## 12 Annexes
+
+### Annexe 1 : Groupe de travail et groupe de lecture
+
+*Les sociétés savantes / associations qui ont participé à ce projet sont les suivantes : AFU, AFUF, SPILF, SFAR, SFM, SF2H, AFIIU, Renaloo, Le Lien SFMU, SFR, SFNDT, SSU, AAU, AMU, ATU, SLU*
+
+#### ► Groupe de pilotage
+
+##### **Coordination :**
+
+- • Franck Bruyère, urologue, CHUV Lausanne (co-Président)
+- • Maxime Vallée, urologue, CHU Poitiers (co-Président)
+
+##### **Chargés de projet :**
+
+- • Valentine Berti, microbiologiste, SFM, Paris
+- • Hugo Crespin, urologue, AFUF, Tours
+- • Julien Derdevet, infectiologue, SPILF, Paris
+- • Omar Karray, urologue, AFUF, Pontoise
+- • Stessy Kutchukian, urologue, AFUF, Poitiers
+
+#### ► Groupe de travail
+
+1. 1. Nadia Abid, urologue, AFU, Lyon
+2. 2. Matthieu Boisson, anesthésiste-réanimateur, SFAR, Poitiers
+3. 3. Patrick Coloby, urologue, AFU, Pontoise
+4. 4. Brigitte Cottard-Boulle, représentante de patients, Le Lien, Paris
+5. 5. Aurélien Dinh, infectiologue, SPILF, Garches
+6. 6. Olivia Keïta-Perse, médecin spécialiste en épidémiologie et hygiène hospitalière, SF2H, Monaco
+7. 7. Eric Kipnis, anesthésiste-réanimateur, SFAR, Lille
+8. 8. Matthieu Lafaurie, infectiologue, SPILF, Paris
+9. 9. Marc Leone, anesthésiste-réanimateur, SFAR, Marseille
+10. 10. Martine Pestel-Caron, microbiologiste, SFM, Rouen
+11. 11. Nathalie Quignette, représentante de patients, Renaloo, Paris
+12. 12. Albert Sotto, infectiologue, SPILF, Nîmes
+
+**La conduite méthodologique** du projet est assurée par Mme Diana Kassab, méthodologiste – cheffe de projet à l'AFU.
+
+#### ► Groupe de lecture
+
+***A compléter***## Annexe 2 : Recherche bibliographique (cf. Excel « sélection bibliographique -> 6 onglets : 1 onglet / type d'étude)
+
+Medline®\_13/11/2024
+
+- – Recherche par **type d'études** : seront recherchés dans un premier temps les études de haut niveau de preuve (recos, synthèses méthodiques, méta-analyses, études prospectives randomisées ou non...). Les revues générales, les editoriaux, les lettres et les communications à des congrès seront recherchés dans un 2<sup>nd</sup> temps.
+- – Français et anglais
+- – Depuis janvier 2000 (24 dernières années)
+- – Croisement des 3 modules (“surgery” OR “urologic surgical procedures”) **AND** preoperative **AND** (“diagnosis” OR Prophylaxis / “urinary tract infection” OR “UTI” OR “Bacteriuria” OR “Urine culture” OR “Surgical-site infection” OR “Bacterial Infections” OR “Cyto-bacteriological examination of urine” OR CBEU OR healthcare-associated urogenital infections (HAUTI)► **Recommandations -> 14 articles retrouvés**
+
+```
+((("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/13"[Date - Publication]) AND (french[Language] OR english[Language]) AND (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT])
+```► SM/MA après exclusion des doublons dans guidelines -> 26 articles retrouvés
+
+```
+(("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/13"[Date - Publication]) AND (french[Language] OR english[Language]) AND (metaanalys*[TI] OR meta-analys*[TI] OR meta analysis[TI] OR systematic review*[TI] OR systematic overview*[TI] OR systematic literature review*[TI] OR systematical review*[TI] OR systematical overview*[TI] OR systematical literature review*[TI] OR systematic literature search[TI] OR pooled analysis[TI] OR meta-analysis[PT] OR "Systematic Review" [PT] OR cochrane database syst rev[TA]) NOT (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT])
+```► **Etudes prospectives randomisées ou non après exclusion des doublons dans guidelines et SM/MA -> 89 articles retrouvés**
+
+```
+(("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/13"[Date - Publication]) AND (french[Language] OR english[Language]) AND (random*[TIAB] OR random allocation[MH] OR double-blind method[MH] OR single-blind method[MH] OR cross-over studies[MH] OR randomized controlled trial[PT] OR "Controlled Clinical Trial"[PT] OR multicenter study[PT]) NOT ((metaanalys*[TI] OR meta-analys*[TI] OR meta analysis[TI] OR systematic review*[TI] OR systematic overview*[TI] OR systematic literature review*[TI] OR systematical review*[TI] OR systematical overview*[TI] OR systematical literature review*[TI] OR systematic literature search[TI] OR pooled analysis[TI] OR meta-analysis[PT] OR "Systematic Review" [PT] OR cochrane database syst rev[TA]) OR (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT]))
+```► **Etudes comparatives, essais cliniques non contrôlés après exclusion des doublons dans études prospectives randomisées ou non, guidelines et SM/MA -> 49 articles retrouvés**
+
+```
+((("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/13"[Date - Publication]) AND (french[Language] OR english[Language]) AND (clinical trial*[TI] OR comparative stud*[TI] OR versus[TI] OR Clinical Trial[Publication Type:NoExp] OR Comparative Study[PT]) NOT ((random*[TIAB] OR random allocation[MH] OR double-blind method[MH] OR single-blind method[MH] OR cross-over studies[MH] OR randomized controlled trial[PT] OR "Controlled Clinical Trial"[PT] OR multicenter study[PT]) OR (metaanalys*[TI] OR meta-analys*[TI] OR meta analysis[TI] OR systematic review*[TI] OR systematic overview*[TI] OR systematic literature review*[TI] OR systematical review*[TI] OR systematical overview*[TI] OR systematical literature review*[TI] OR systematic literature search[TI] OR pooled analysis[TI] OR meta-analysis[PT] OR "Systematic Review" [PT] OR cochrane database syst rev[TA]) OR (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT]))
+```► **Etudes observationnelles (Etudes de cohortes) après exclusion des doublons dans études comparatives, essais cliniques non contrôlés ; études prospectives randomisées ou non ; guidelines et SM/MA -> 145 articles retrouvés**
+
+```
+(("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/13"[Date - Publication]) AND (french[Language] OR english[Language]) AND (cohort*[TI] OR longitudinal stud*[TI] OR follow-up stud*[TI] OR prospective stud*[TI] OR retrospective stud*[TI] OR cohort studies[MH] OR longitudinal studies[MH] OR follow-up studies[MH] OR prospective studies[MH] OR Retrospective Studies[MH] OR "Observational Study" [Publication Type]) NOT ((clinical trial*[TI] OR comparative stud*[TI] OR versus[TI] OR Clinical Trial[Publication Type:NoExp] OR Comparative Study[PT]) OR (random*[TIAB] OR random allocation[MH] OR double-blind method[MH] OR single-blind method[MH] OR cross-over studies[MH] OR randomized controlled trial[PT] OR "Controlled Clinical Trial"[PT] OR multicenter study[PT]) OR (metaanalys*[TI] OR meta-analys*[TI] OR meta analysis[TI] OR systematic review*[TI] OR systematic overview*[TI] OR systematic literature review*[TI] OR systematical review*[TI] OR systematical overview*[TI] OR systematical literature review*[TI] OR systematic literature search[TI] OR pooled analysis[TI] OR meta-analysis[PT] OR "Systematic Review" [PT] OR cochrane database syst rev[TA]) OR (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT]))
+```► **Autres après exclusion des doublons dans études observationnelles (Etudes de cohortes) ; études comparatives, essais cliniques non contrôlés ; études prospectives randomisées ou non ; guidelines et SM/MA -> 121 articles retrouvés**
+
+```
+((("urolog*"[Title] AND ("procedure*"[Title] OR "surger*"[Title])) OR "urologic surgical procedures"[MeSH Terms]) AND ("preoperative"[Title] OR "perioperative"[Title] OR "prior"[Title] OR "perioperative care"[MeSH Terms] OR "preoperative care"[MeSH Terms] OR "postoperative complications/prevention and control"[MeSH Terms]) AND ("urinary tract infections/diagnosis"[MeSH Terms] OR "surgical wound infection/diagnosis"[MeSH Terms] OR "urine culture"[Title] OR "urinalysis"[MeSH Terms] OR "cytobacteriological"[Title] OR "cytobacteriological examination"[All Fields] OR "cbeu"[All Fields] OR "bacterial colonisation"[Title] OR "bacteriuria/diagnosis"[MeSH Terms] OR "urinary tract infections"[MeSH Terms] OR "surgical site infection"[Title] OR "bacterial infections"[MeSH Terms] OR "uti"[Title] OR "bacteriuria"[MeSH Terms] OR "bacteriuria"[Title] OR "asymptomatic infections"[MeSH Terms] OR "hauti"[Title] OR "hospital acquired urinary tract infections"[Title/Abstract] OR "urinary tract infections/prevention and control"[MeSH Terms] OR "surgical wound infection/prevention and control"[MeSH Terms] OR "Anti-Bacterial Agents/therapeutic use"[MAJR] OR "antibiotic prophylaxis"[MeSH Terms] OR "antibiotic treatment"[Title] OR "bacteriuria/therapy"[MeSH Terms]) NOT ("animals"[MeSH Major Topic] OR "invertebrate"[Title/Abstract] OR "animal experimentation"[MeSH Major Topic] OR "animal experiment"[Title/Abstract] OR "animal model"[Title/Abstract] OR "animal tissue"[Title/Abstract] OR "animal cell"[Title/Abstract] OR "nonhuman"[Title/Abstract]) AND ("2000/01/01"[Date - Publication] : "2024/11/04"[Date - Publication]) AND (french[Language] OR english[Language]) NOT (letter[PT] OR editorial[PT] OR news[PT] OR comment[PT]) NOT ((cohort*[TI] OR longitudinal stud*[TI] OR follow-up stud*[TI] OR prospective stud*[TI] OR retrospective stud*[TI] OR cohort studies[MH] OR longitudinal studies[MH] OR follow-up studies[MH] OR prospective studies[MH] OR Retrospective Studies[MH] OR "Observational Study" [Publication Type] OR (clinical trial*[TI] OR comparative stud*[TI] OR versus[TI] OR Clinical Trial[Publication Type:NoExp] OR Comparative Study[PT]) OR (random*[TIAB] OR random allocation[MH] OR double-blind method[MH] OR single-blind method[MH] OR cross-over studies[MH] OR randomized controlled trial[PT] OR "Controlled Clinical Trial"[PT] OR multicenter study[PT]) OR (metaanalys*[TI] OR meta-analys*[TI] OR meta analysis[TI] OR systematic review*[TI] OR systematic overview*[TI] OR systematic literature review*[TI] OR systematical review*[TI] OR systematical overview*[TI] OR systematical literature review*[TI] OR systematic literature search[TI] OR pooled analysis[TI] OR meta-analysis[PT] OR "Systematic Review" [PT] OR cochrane database syst rev[TA] OR (recommendation*[TI] OR guideline*[TI] OR statement*[TI] OR consensus[TI] OR position paper[TI] OR health planning guidelines[MH] OR practice guideline[PT] OR guideline[PT] OR Consensus Development Conference[PT] OR Consensus Development Conference, NIH[PT]))
+```## Références bibliographiques
+
+1. 1. AFU. 2015. Révision des recommandations de bonne pratique pour la prise en charge et la prévention des Infections Urinaires Associées aux Soins (IUAS) de l'adulte
+2. 2. Ayoub, E., Kutchukian, S., Bigot, P., Dinh, A., Gondran-Tellier, B., Robin, H., Francot, M., de Vergie, S., Rigaud, J., Chapuis, M., Brureau, L., Jousseaume, C., Karray, O., Kosseifi, F.T., Borojeni, S., Descazeaud, A., Asare, H.J., Gaullier, M., Poussot, B., Tricard, T., Baboudjian, M., Lechevallier, E., Delpech, P.O., Ducousso, H., Bernardeau, S., Bruyere, F., and Vallee, M. 2024. Asymptomatic bacteriuria prior to partial and radical nephrectomy: To screen or not to screen? Results from the national and multicenter TOCUS database. *World J Urol* **42**(1): 179. doi: 10.1007/s00345-024-04853-1.
+3. 3. Bey, E., Bouiller, K., Pimpie, R., Le Goux, C., Tourret-Arnaud, J., Lina, G., Figueiredo, S., Chauvin, A., Gavazzi, G., Malavaud, S., Sotto, A., Vallée, M., and Bruyère, F. 2021. Recommendations of the AFU Infectious Diseases Committee on the prevention, diagnosis and treatment of infections of endo-ureteral equipment. *Progrès en Urologie* **31**(10): 557-575. doi: 10.1016/j.purol.2021.02.005.
+4. 4. Bjerklund Johansen, T.E., Cek, M., Naber, K., Stratchounski, L., Svendsen, M.V., and Tenke, P. 2007. Prevalence of hospital-acquired urinary tract infections in urology departments. *European urology* **51**(4): 1100-1111; discussion 1112. doi: 10.1016/j.eururo.2006.08.012.
+5. 5. Botto, H. 2003. Infections urinaires nosocomiales de l'adulte : conférence de consensus 2002. *Médecine et Maladies Infectieuses* **33**(7): 370-375. doi: 10.1016/s0399-077x(03)00122-7.
+6. 6. Cai, T., Mazzoli, S., Mondaini, N., Meacci, F., Nesi, G., D'Elia, C., Malossini, G., Boddi, V., and Bartoletti, R. 2012. The role of asymptomatic bacteriuria in young women with recurrent urinary tract infections: to treat or not to treat? *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America* **55**(6): 771-777. doi: 10.1093/cid/cis534.
+7. 7. Cassini, A., Hogberg, L.D., Plachouras, D., Quattrocchi, A., Hoxha, A., Simonsen, G.S., Colomb-Cotinat, M., Kretzschmar, M.E., Devleesschauwer, B., Cecchini, M., Ouakrim, D.A., Oliveira, T.C., Struelens, M.J., Suetens, C., Monnet, D.L., and Burden of, A.M.R.C.G. 2019. Attributable deaths and disability-adjusted life-years caused by infections with antibiotic-resistant bacteria in the EU and the European Economic Area in 2015: a population-level modelling analysis. *Lancet Infect Dis* **19**(1): 56-66. doi: 10.1016/S1473-3099(18)30605-4.
+8. 8. Cavallo, J.D., and Garrabé, É. 2003. Outils du diagnostic biologique des infections urinaires nosocomiales (IUN) : analyse critique. *Médecine et Maladies Infectieuses* **33**(9): 447-456. doi: 10.1016/s0399-077x(03)00161-6.
+9. 9. Çek, M., Tandoğlu, Z., Naber, K., Tenke, P., Wagenlehner, F., van Oostrum, E., Kristensen, B., and Bjerklund Johansen, T.E. 2013. Antibiotic prophylaxis in urology departments, 2005-2010. *European urology* **63**(2): 386-394. doi: 10.1016/j.eururo.2012.09.038.
+10. 10. Cek, M., Tandoğlu, Z., Wagenlehner, F., Tenke, P., Naber, K., and Bjerklund-Johansen, T.E. 2014. Healthcare-associated urinary tract infections in hospitalized urological patients--a global perspective: results from the GPIU studies 2003-2010. *World J Urol* **32**(6): 1587-1594. doi: 10.1007/s00345-013-1218-9.
+
+1. 11. CTINILS. 2005. DEFINITION DES INFECTIONS ASSOCIEES AUX SOINS
+2. 12. EAU. 2024. EAU Guidelines on Urological Infections.
+3. 13. Gleckman, R., Esposito, A., Crowley, M., and Natsios, G.A. 1979. Reliability of a single urine culture in establishing diagnosis of asymptomatic bacteriuria in adult males. *Journal of clinical microbiology* **9**(5): 596-597. doi: 10.1128/jcm.9.5.596-597.1979.
+4. 14. Hermanides, H.S., Hulscher, M.E., Schouten, J.A., Prins, J.M., and Geerlings, S.E. 2008. Development of quality indicators for the antibiotic treatment of complicated urinary tract infections: a first step to measure and improve care. *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America* **46**(5): 703-711. doi: 10.1086/527384.
+5. 15. Herr, H., and Donat, M. 2019. Reduced Recurrence of Low-grade Papillary Bladder Tumors Associated With Asymptomatic Bacteriuria. *Urology* **124**: 179-182. doi: 10.1016/j.urology.2018.10.023.
+6. 16. Kass, E.H. 1956. Asymptomatic infections of the urinary tract. *Transactions of the Association of American Physicians* **69**: 56-64.
+7. 17. Kutchukian, S., Gondran-Tellier, B., Dinh, A., Robin, H., Bigot, P., Francot, M., de Vergie, S., Rigaud, J., Chapuis, M., Bureau, L., Jousseaume, C., Karray, O., Kosseifi, F.T., Borojeni, S., Descazeaud, A., Chicaud, M., Asare, H.J., Gaullier, M., Poussot, B., Tricard, T., Baboudjian, M., Lechevallier, E., Delpech, P.O., Ayoub, E., Ducousso, H., Bernardeau, S., Bruyere, F., and Vallee, M. 2024. Asymptomatic Bacteriuria and Urological Surgery: Risk Factor or Not? Results From the National and Multicenter TOCUS Database. *J Urol* **212**(3): 461-469. doi: 10.1097/JU.0000000000004047.
+8. 18. Nicolle, L.E., Bradley, S., Colgan, R., Rice, J.C., Schaeffer, A., and Hooton, T.M. 2005. Infectious Diseases Society of America guidelines for the diagnosis and treatment of asymptomatic bacteriuria in adults. *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America* **40**(5): 643-654. doi: 10.1086/427507.
+9. 19. REMIC. 2022. Référentiel en microbiologie. Diagnostic microbiologique des infections urinaires.
+10. 20. SFAR. 2024. Antibioprophylaxie en chirurgie et médecine interventionnelle.
+11. 21. Tandoğdu, Z., Bartoletti, R., Cai, T., Çek, M., Grabe, M., Kulchavenya, E., Köves, B., Menon, V., Naber, K., Perepanova, T., Tenke, P., Wullt, B., Johansen, T.E., and Wagenlehner, F. 2016. Antimicrobial resistance in urosepsis: outcomes from the multinational, multicenter global prevalence of infections in urology (GPIU) study 2003-2013. *World J Urol* **34**(8): 1193-1200. doi: 10.1007/s00345-015-1722-1.
+12. 22. Wagenlehner, F., Tandogdu, Z., Bartoletti, R., Cai, T., Cek, M., Kulchavenya, E., Koves, B., Naber, K., Perepanova, T., Tenke, P., Wullt, B., Bogenhard, F., and Johansen, T.E. 2016. The Global Prevalence of Infections in Urology Study: A Long-Term, Worldwide Surveillance Study on Urological Infections. *Pathogens* **5**(1). doi: 10.3390/pathogens5010010.
+13. 23. Wagenlehner, F.M., van Oostrum, E., Tenke, P., Tandogdu, Z., Çek, M., Grabe, M., Wullt, B., Pickard, R., Naber, K.G., Pilatz, A., Weidner, W., and Bjerklund-Johansen, T.E. 2013.Infective complications after prostate biopsy: outcome of the Global Prevalence Study of Infections in Urology (GPIU) 2010 and 2011, a prospective multinational multicentre prostate biopsy study. *European urology* **63**(3): 521-527. doi: 10.1016/j.eururo.2012.06.003.
+
+1. 24. Wullt, B., Sundén, F., and Grabe, M. 2019. Asymptomatic Bacteriuria is Harmless and Even Protective: Don't Treat if You Don't Have a Very Specific Reason. *European urology focus* **5**(1): 15-16. doi: 10.1016/j.euf.2018.07.004.

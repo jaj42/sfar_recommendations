@@ -1,0 +1,4014 @@
+# Livret d'adaptation à l'emploi
+
+## ***Infirmier(e)s de Réanimation***
+
+### ***Hôpital et Unité :***
+
+Nom de l'infirmière :
+
+Date d'arrivée dans le service :
+
+Formateur(s) :
+
+![Logo of SFAR (Société Française d'Anesthésie et de Réanimation)](06d6f6dba018380ba288b0c8073a0fe8_7_img.webp)The logo for SFAR (Société Française d'Anesthésie et de Réanimation) features a stylized graphic of three overlapping squares in orange, grey, and blue on the left. To the right, the acronym 'SFAR' is written in a large, bold, black serif font. Below the acronym, the full name 'Société Française d'Anesthésie et de Réanimation' is written in a smaller, black sans-serif font.![Cartoon illustration of a baby and a teddy bear with a stethoscope](06d6f6dba018380ba288b0c8073a0fe8_8_img.webp)A cartoon illustration showing a baby in a blue onesie sitting on the floor, looking up at a brown teddy bear. The teddy bear is wearing a white nurse's cap and a stethoscope around its neck. The stethoscope's tubing is connected to a small grey medical device on the floor, which has a green screen and a blue tube. A small white card with the text 'GFRUP' is on the floor next to the device.![Logo of Société de Réanimation de Langue Française](06d6f6dba018380ba288b0c8073a0fe8_9_img.webp)The logo for the Société de Réanimation de Langue Française features a stylized graphic of a person in a dynamic pose, with a blue head and orange body. Below the graphic, the text 'Société de Réanimation de Langue Française' is written in a blue serif font.![Logo of HPOUL (Hôpital de Reanimation et d'Urgence des hôpitaux extra-universitaires de France)](06d6f6dba018380ba288b0c8073a0fe8_10_img.webp)The logo for HPOUL (Hôpital de Reanimation et d'Urgence des hôpitaux extra-universitaires de France) features a stylized graphic of a sun with orange rays and a blue circle in the center. The letters 'HPOUL' are written in a blue, blocky font across the sun. Below the graphic, the text 'College de Réanimation et d'Urgence des hôpitaux extra-universitaires de France' is written in a small, blue sans-serif font.## Introduction
+
+La Société de Réanimation de Langue Française (SRLF), du Collège de Réanimation et Médecine d'Urgence des Hôpitaux Extra-Universitaires de France (CREUF), du Groupe Francophone de Réanimation et Urgences Pédiatriques (GFRUP) et la Société Française d'Anesthésie et de Réanimation (SFAR) ont identifié la nécessité de créer des documents pédagogiques ou de formations adaptés aux spécificités du métier d'infirmier de réanimation.
+
+On peut distinguer trois types de documents supports de la formation en réanimation :
+
+- - **Le référentiel de compétences** est le socle préalable à tout programme de formation. Il définit les savoirs, aptitudes et compétences d'une infirmière de réanimation.
+- - **Le livret d'adaptation à l'emploi** est un guide d'accompagnement à l'intégration d'une infirmière arrivant dans un service de réanimation.
+- - **Les fiches techniques** sont spécifiques à chaque service, mais leur élaboration reposera sur une méthodologie prédéfinie.
+
+Un groupe de travail pluridisciplinaire a été constitué avec pour mission l'élaboration du Référentiel des Compétences de l'Infirmière de Réanimation et du Livret d'Adaptation à l'Emploi. Le groupe de travail était constitué de professionnels désignés par les conseils d'administration de la SRLF, du CREUF, de la SFAR et du GFRUP. Le groupe, animé par le Dr Jean Reignier aidé du Pr Jean-Damien Ricard, a déterminé son échéancier et un calendrier de réunions. Celles-ci ont eu lieu une fois par mois de octobre 2008 à octobre 2010 au siège de la SRLF.
+
+Le présent document ne concerne que **le livret d'adaptation à l'emploi**.
+
+## Cadre du Livret d'Adaptation à l'Emploi
+
+L'objectif visé lors de cette phase d'adaptation à l'emploi est l'autonomie de l'infirmière, la prise de responsabilité « en circonstances habituelles ».Conformément au « Cadre Européen des Certifications pour l'éducation et la formation tout au long de la vie », les connaissances ont été déclinées en savoirs, aptitudes et compétences, avec les définitions suivantes:
+
+- – **Savoir** : « Le résultat de l'assimilation d'informations grâce à l'éducation et à la formation. Le savoir est un ensemble de faits, de principes, de théories et de pratiques liés à un domaine de travail ou d'étude. Le cadre européen des certifications fait référence à des savoirs théoriques ou factuels »
+- – **Aptitude** : « la capacité d'appliquer un savoir et d'utiliser un savoir-faire pour réaliser des tâches et résoudre des problèmes. Le cadre européen des certifications fait référence à des aptitudes cognitives (utilisation de la pensée logique, intuitive et créative) ou pratiques (fondées sur la dextérité ainsi que sur l'utilisation de méthodes, de matériels, d'outils et d'instruments) »
+- – **Compétence** : « la capacité avérée d'utiliser des savoirs, des aptitudes et des dispositions personnelles, sociales ou méthodologiques dans des situations de travail ou d'études et pour le développement professionnel ou personnel. Le cadre européen des certifications fait référence aux compétences en termes de prise de responsabilités et d'autonomie ».
+
+La phase d'adaptation se situe en amont de l'acquisition des compétences. Elle sert à établir les bases des savoirs et aptitudes nécessaires au métier d'infirmière de réanimation.
+
+A ce titre, le groupe a élaboré un document support de la formation et de l'évaluation des savoirs et aptitudes.
+
+Ce Livret d'Adaptation à l'Emploi a été élaboré en se référant au guide pratique démarche « Métiers-compétences 2012 » dans le cadre du « Plan Hôpital 2012 ».
+
+**Situations cliniques** : Les 14 situations cliniques déclinées dans le référentiel ont été reprises dans le Livret d'Adaptation à l'Emploi. Pour chacune, trois temps d'évaluation ont été prévus : dès l'arrivée de l'infirmière en réanimation, à la moitié et à la fin de la période de formation. Pour chacune aussi, trois niveaux d'évaluation ont été organisés (cf. infra).
+
+### **Organisation de la formation dans les services**
+
+La formation est, si possible, assurée par les infirmières référentes ou « tuteur(-rices) ». Le cadre collabore lors de la formation avec les infirmières référentes ou « tuteur(-rices) », valide la formation de l'infirmière lors d'un bilan formalisé fait au début, pendant et la fin de la période d'adaptation à l'emploi. Le tutorat correspond à l'encadrement du professionnel débutant par un« professionnel expérimenté » [3]. Le tuteur doit posséder outre ses compétences cliniques, des capacités de compréhension et de résolution des situations cliniques [4]. Le tuteur doit montrer de l'intérêt pour l'encadrement et être motivé pour conduire une démarche d'accompagnement de l'apprentissage de l'autre. Le tuteur aura dans la mesure du possible suivi une formation pédagogique adaptée.
+
+Le tutorat repose sur le principe de la transmission en action de savoirs et aptitudes qui conduiront au développement des compétences du nouveau professionnel.
+
+Le tuteur a trois fonctions essentielles [5] :
+
+- • Fonction d'accueil et d'animation : le tuteur va favoriser l'insertion du nouveau recruté en réanimation grâce à sa culture professionnelle
+- • Fonction d'aide et de conseil : le tuteur se positionne comme une personne ressources qui accompagne le nouveau recruté dans l'acquisition de ses savoirs et le développement de ses compétences.
+- • Fonction d'évaluation : le tuteur doit se prononcer sur la validation des savoirs et aptitudes.
+
+## **Evaluation**
+
+Évaluer conduit à mettre en relation des éléments issus d'un observable et les compétences visées. L'évaluation conduit à porter un jugement de valeur, à partir d'un outil de mesure, dans le but de prendre une décision [2]. Un outil d'évaluation doit répondre aux critères de validité, fiabilité, objectivité, pertinence, clarté, reproductibilité et équité. Le modèle d'évaluation retenu dans le présent Livret d'Adaptation à l'Emploi repose sur un inventaire des compétences acquises. L'accent est mis sur les performances évaluées en fonction de critères de réussites ou de réalisation. Ces critères font appels à des indicateurs, qui sont la version concrète d'un critère, soit un indice pris dans l'observable qui permet de dire si l'objet répond au critère. Plusieurs indicateurs peuvent correspondre à un même critère.
+
+## **Validation du Livret d'adaptation à l'Emploi**
+
+Comme pour le référentiel des compétences de l'infirmier de réanimation, la validation du travail s'est faite en plusieurs étapes et à plusieurs niveaux :
+
+- chaque réunion a fait l'objet d'un compte rendu soumis pour approbation à l'ensemble du groupe. Les différentes versions du document ont été systématiquement jointes au compte rendu.- validation interne : chaque compétence a fait l'objet d'une validation en séance plénière, après que chaque membre ait pu – au préalable – retravailler le texte.
+
+- validation externe :
+
+1. 1) à différents points d'étape de l'élaboration du document, celui-ci a été soumis pour lecture et commentaires à des membres extérieurs du groupe, essentiellement des collègues des membres du groupe.
+2. 2) des présentations « d'étapes » ont été faites aux Conseils d'Administration de la SRLF, de la SFAR et du CREUF.
+
+Le document final a fait l'objet d'une validation par les Conseils d'Administration de la SRLF, de la SFAR et du CREUF et du GFRUP
+
+### **Conclusion**
+
+Ce Livret d'Adaptation à l'Emploi se veut, dans chaque service, un support à la formation des infirmières, formation aux nouveaux arrivants, et développement professionnel continu. Il contribuera ainsi à l'amélioration de la sécurité et de la qualité des soins délivrés aux patients de réanimation.## Groupe de travail SRLF-CREUF
+
+**Véronique Bescond**, Cadre infirmier, Réanimation médicale, CHU de Poitiers.
+
+**Nicole Chevalier**, Directrice des Soins Infirmiers, Assistance Publique - Hôpitaux de Marseille.
+
+**Katia Couchoux**, Infirmière, Réanimation, CH de Bourg en Bresse.
+
+**Sandrine Dray**, Cadre infirmier, Réanimation médicale, CHU Sainte-Marguerite, Marseille.
+
+**Jean-Noel Drault**, Médecin, Réanimation polyvalente, CH de Pau
+
+**Christelle Eude**, Infirmière référente, Réanimation polyvalente, CHD de La Roche sur Yon.
+
+**Dominique Gauthier**, Cadre infirmier, Réanimation polyvalente, CH de Montélimar.
+
+**Bruno Germain**, Cadre infirmier, Réanimation polyvalente, CH de Elboeuf-Louviers.
+
+**Carine Jarre**, Infirmière, Réanimation, HIA Bégin, Paris.
+
+**Yolaine Martin**, Infirmière, Réanimation médicale, CHU Louis-Mourier, Colombes
+
+**Anne Muller**, cadre infirmier, Institut de Formation des Cadres de Santé Ste Anne Paris.
+
+**Séverine Ober**, Infirmière, Réanimation, CH de Bourg en Bresse.
+
+**Laurent Papazian**, Médecin, Réanimation médicale, CHU Sainte-Marguerite, Marseille.
+
+**Catherine Piguet**, Infirmière, Docteur en Sciences de l'Education et Sciences Médicales, option Santé Publique, Lausanne, Suisse.
+
+**Jean-Damien Ricard**, Médecin, Réanimation médicale, CHU Louis-Mourier, Colombes
+
+**Jean Reignier**, Médecin, Réanimation polyvalente, CHD de La Roche sur Yon
+
+**Aude Soury-Lavergne**, Cadre infirmier, Réanimation polyvalente, CHU Lille
+
+**Franck Voyard**, Infirmier, Réanimation polyvalente, CH de Macon.
+
+## GFRUP
+
+**Françoise Egrot**, Cadre infirmier Supérieur, Réanimation néonatale, CHU Cochin, Paris
+
+**Paulo Ferreira**, Infirmier référent, Réanimation pédiatrique, CHU Necker, Paris
+
+## SFAR
+
+**Patrick Blanchet**, Médecin, Anesthésie-réanimation, Clinique des Cèdres, Cornebarrieu, Association des Réanimateurs du Secteur Privé (ARDSP).
+
+**Gérard Bourquard**, Cadre de Santé, Anesthésie-réanimation, CHU Saint-Antoine, Paris.
+
+**Dominique Combarnous**, Cadre de Santé, Anesthésie-réanimation, CHU Lyon.
+
+**Gwenola De Usatorre**, IDE, Réanimation, Clinique des Cèdres Cornebarrieu
+
+**Pierre Courant** Médecin, Anesthésie Réanimation, CH Avignon
+
+**Bernard Garrigues**, Médecin, Anesthésie Réanimation, CH Aix en Provence
+
+**Rémy Gauzit**, Médecin, Anesthésie Réanimation, CHU Hôtel Dieu Paris
+
+**Laurence Jullien-Flageul**, Cadre de Santé, Anesthésie Réanimation, CH Morlaix
+
+**Alain Lepape**, Médecin, Anesthésie-réanimation, CHU Lyon.
+
+**Christelle Plumereau** , Cadre de Santé, Anesthésie Réanimation, CH Poitiers
+
+**Nathalie Revel** Cadre de Santé, Pôle Anesthésie Réanimation, CHU Nice## UTILISATION PRATIQUE du Livret d'Adaptation à l'Emploi
+
+Ce livret a été créé pour vous permettre d'appréhender la théorie, les gestes, les techniques et les conduites à tenir dans notre service de Réanimation. Il aura, nous l'espérons, le mérite de vous donner les moyens de savoir ce sur quoi vous pouvez vous améliorer et ce que nous devons encore vous enseigner.
+
+Nous souhaitons que ce livret vous donne la possibilité d'être demain un professionnel compétent, efficace, rigoureux et bien dans sa profession et son rôle. N'hésitez pas à nous prévenir de tout problème, de toute hésitation ou de toute incompréhension théorique ou pratique.
+
+Les critères des « savoirs » et « aptitudes » sont déclinés à partir du « Référentiel de compétences des Infirmier(e)s de Réanimation ». Pour permettre d'évaluer votre adaptation une évaluation en trois niveaux va vous guider. Le niveau 3 est requis pour valider la période d'adaptation à l'emploi.
+
+La formation déclinée dans ce livret correspond à une durée d'adaptation à l'emploi de 8 semaines pour une infirmière sans expérience de réanimation. Cette durée est à adapter aux compétences acquises antérieurement par l'infirmier(e). Les modalités de la formation sont aussi à adapter aux spécificités de chaque unité.
+
+<table border="1"><thead><tr><th></th><th>SAVOIRS</th><th>APTITUDES</th></tr></thead><tbody><tr><td>1</td><td>Non acquis</td><td>Ne sait pas faire</td></tr><tr><td>2</td><td>Acquisition partielle</td><td>Sait faire avec aide</td></tr><tr><td>3</td><td>Acquisition complète</td><td>Sait faire seule dans les circonstances habituelles</td></tr></tbody></table>
+
+Cette formation et son évaluation peuvent être conduites par un(e) infirmier(e) référente, une infirmière tutrice ou un (e) cadre selon l'organisation du service. Les médecins peuvent être associés à la formation.
+
+Pour les savoirs, l'acquisition est dite « complète » lorsque l'infirmier(e) sait faire le lien entre les notions théoriques et les pratiques du domaine concerné.
+
+L'évaluation doit être faite à l'arrivée de l'infirmière dans le service (idéalement à l'entretien d'embauche), en cours et en fin de la période d'adaptation à l'emploi (d'où les 3 x 3 colonnes).
+
+Bon apprentissage !
+
+L'équipe d'encadrement médicale et non médicale<table border="1">
+<thead>
+<tr>
+<th data-bbox="28 115 128 158">1</th>
+<th data-bbox="128 115 501 158">Accompagnement d'un patient en situation de détresse vitale</th>
+<th data-bbox="501 115 538 158">1</th>
+<th data-bbox="538 115 575 158">2</th>
+<th data-bbox="575 115 612 158">3</th>
+<th data-bbox="612 115 649 158">1</th>
+<th data-bbox="649 115 686 158">2</th>
+<th data-bbox="686 115 723 158">3</th>
+<th data-bbox="723 115 760 158">1</th>
+<th data-bbox="760 115 797 158">2</th>
+<th data-bbox="797 115 825 158">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 158 128 371"></td>
+<td data-bbox="128 158 501 371">
+<p><b>L'infirmier(e) rappelle les modalités de la communication avec un patient et ses proches dans un contexte de détresse vitale.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Le patient reste s'il peut communiquer l'interlocuteur prioritaire.</li>
+<li>• La confidentialité de l'entretien est la règle.</li>
+<li>• La compréhension de l'information délivrée est vérifiée.</li>
+<li>• La participation des infirmières aux entretiens entre le médecin et le patient et ses proches doit être favorisée.</li>
+</ul>
+</td>
+<td data-bbox="501 158 538 371"></td>
+<td data-bbox="538 158 575 371"></td>
+<td data-bbox="575 158 612 371"></td>
+<td data-bbox="612 158 649 371"></td>
+<td data-bbox="649 158 686 371"></td>
+<td data-bbox="686 158 723 371"></td>
+<td data-bbox="723 158 760 371"></td>
+<td data-bbox="760 158 797 371"></td>
+<td data-bbox="797 158 825 371"></td>
+</tr>
+<tr>
+<td data-bbox="28 371 128 628"></td>
+<td data-bbox="128 371 501 628">
+<p><b>L'infirmier(e) comprend que le patient, la personne de confiance ou la personne référente ont des difficultés à déterminer et formuler des choix, et cite les principales sources de difficultés :</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>Les éléments permettant d'évaluer l'aptitude à déterminer et formuler des choix sont :</p>
+<ul>
+<li>• le contexte (linguistique, social, culturel).</li>
+<li>• le retentissement physique et psychologique de la détresse vitale, des traitements entrepris et de l'hospitalisation.</li>
+<li>• L'évolutivité dans le temps qui impose de re évaluer l'aptitude du patient et des proches régulièrement.</li>
+</ul>
+</td>
+<td data-bbox="501 371 538 628"></td>
+<td data-bbox="538 371 575 628"></td>
+<td data-bbox="575 371 612 628"></td>
+<td data-bbox="612 371 649 628"></td>
+<td data-bbox="649 371 686 628"></td>
+<td data-bbox="686 371 723 628"></td>
+<td data-bbox="723 371 760 628"></td>
+<td data-bbox="760 371 797 628"></td>
+<td data-bbox="797 371 825 628"></td>
+</tr>
+<tr>
+<td data-bbox="28 628 128 902"></td>
+<td data-bbox="128 628 501 902">
+<p><b>L'infirmier(e) résume le cadre juridique concernant la personne de confiance, les directives anticipées et le secret professionnel.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• la personne de confiance doit être désignée par écrit et doit avoir accepté ce rôle.</li>
+<li>• la (les) personne(s) référent(s) est (sont) identifiée(s) par l'équipe soignante et les proches parmi ces mêmes proches.</li>
+<li>• les directives anticipées doivent avoir été rédigées par le patient depuis moins de trois ans et être adaptées à la situation clinique rencontrée.</li>
+<li>• La transmission d'informations concernant un malade est nécessaire et n'est possible que dans un but de favoriser sa prise en charge.</li>
+</ul>
+</td>
+<td data-bbox="501 628 538 902"></td>
+<td data-bbox="538 628 575 902"></td>
+<td data-bbox="575 628 612 902"></td>
+<td data-bbox="612 628 649 902"></td>
+<td data-bbox="649 628 686 902"></td>
+<td data-bbox="686 628 723 902"></td>
+<td data-bbox="723 628 760 902"></td>
+<td data-bbox="760 628 797 902"></td>
+<td data-bbox="797 628 825 902"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) cite les règles et les procédures de son service concernant les visites, la communication et les transmissions des informations aux proches.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Ces règles et procédures concernent les modalités de visite, les supports de communication (livret d'accueil, journal de bord, dossier patient) et les aides disponibles socioculturelles (interprète, religieux) ou matérielles (tablettes...).</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) décrit les mécanismes du stress et ses conséquences.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Les principales conséquences du stress sont physiques (ulcère gastrique, douleur, fonte musculaire...) et psychiques (délirium, syndrome dépressif, refus de soin, agressivité).</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) cite les différentes réactions possibles lors d'un événement brutal (« étapes du deuil ») :</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Les différentes étapes du deuil sont: la perte, le déni, la colère, la peur, la tristesse, l'acceptation, le pardon, la quête de sens, la sérénité.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) énumère les structures d'aides sociales et psychologiques des patients et de leurs proches</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Les structures d'aide sont les travailleurs sociaux attachés à l'unité de réanimation ou à l'établissement, les psychologues et psychiatres disponibles pour l'unité et les autres ressources éventuellement présentes dans l'établissement (visiteurs bénévoles, représentants des usagers, associations de patients, sophrologue...).</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) énumère les principales sources d'inconfort d'un patient en unité de réanimation.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Les principales sources d'inconfort pour le patient sont le bruit (soignants, alarmes, matériels), la lumière, le manque de sommeil, le manque d'intimité, les douleurs, les dispositifs invasifs, la soif, la faim, l'incapacité à communiquer, l'isolement.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td><b>L'infirmier(e) accueille, accompagne et informe le patient et ses proches en</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="25 83 128 341"></td>
+<td data-bbox="128 83 501 341">
+<p><b>collaboration avec l'équipe pluri professionnelle.</b><br/>
+<i>GRILLE D'ÉVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>• respecte la charte du patient hospitalisé.</i></li>
+<li><i>• déclare clairement son identité et son rôle dans l'équipe pluri-professionnelle</i></li>
+<li><i>• analyse l'aptitude du patient et de ses proches à comprendre l'information et à faire des choix</i></li>
+<li><i>• cherche à découvrir le contexte socio-culturel et les souhaits du patient</i></li>
+<li><i>• recueille les éléments permettant d'apprécier la proximité réelle entre le patient et les interlocuteurs.</i></li>
+<li><i>• délivre une information claire, loyale, intelligible.</i></li>
+</ul>
+</td>
+<td data-bbox="501 83 531 341"></td>
+<td data-bbox="531 83 561 341"></td>
+<td data-bbox="561 83 591 341"></td>
+<td data-bbox="591 83 621 341"></td>
+<td data-bbox="621 83 651 341"></td>
+<td data-bbox="651 83 681 341"></td>
+<td data-bbox="681 83 711 341"></td>
+<td data-bbox="711 83 741 341"></td>
+<td data-bbox="741 83 771 341"></td>
+<td data-bbox="771 83 801 341"></td>
+<td data-bbox="801 83 825 341"></td>
+</tr>
+<tr>
+<td data-bbox="25 341 128 524"></td>
+<td data-bbox="128 341 501 524">
+<p><b>L'infirmier(e) mobilise les ressources humaines et utilise les moyens matériels nécessaires à l'optimisation de la communication avec le patient et ses proches.</b><br/>
+<i>GRILLE D'ÉVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>• propose de faire appel à un interprète, un représentant religieux...et organise leur venue</i></li>
+<li><i>• propose et utilise des moyens de communication non verbaux ou d'assistance à la parole.</i></li>
+</ul>
+</td>
+<td data-bbox="501 341 531 524"></td>
+<td data-bbox="531 341 561 524"></td>
+<td data-bbox="561 341 591 524"></td>
+<td data-bbox="591 341 621 524"></td>
+<td data-bbox="621 341 651 524"></td>
+<td data-bbox="651 341 681 524"></td>
+<td data-bbox="681 341 711 524"></td>
+<td data-bbox="711 341 741 524"></td>
+<td data-bbox="741 341 771 524"></td>
+<td data-bbox="771 341 801 524"></td>
+<td data-bbox="801 341 825 524"></td>
+</tr>
+<tr>
+<td data-bbox="25 524 128 736"></td>
+<td data-bbox="128 524 501 736">
+<p><b>L'infirmier(e) adapte son comportement et ses soins aux souhaits du patient</b><br/>
+<i>GRILLE D'ÉVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>• garde en permanence un contact verbal avec le patient</i></li>
+<li><i>• évite les conversations personnelles entre soignants en présence du patient</i></li>
+<li><i>• évite les maladresses en s'adressant au patient et en présentant les soins</i></li>
+<li><i>• tient compte des spécificités culturelles</i></li>
+<li><i>• privilégie les souhaits que le patient est capable d'exprimer pour la réalisation des soins</i></li>
+</ul>
+</td>
+<td data-bbox="501 524 531 736"></td>
+<td data-bbox="531 524 561 736"></td>
+<td data-bbox="561 524 591 736"></td>
+<td data-bbox="591 524 621 736"></td>
+<td data-bbox="621 524 651 736"></td>
+<td data-bbox="651 524 681 736"></td>
+<td data-bbox="681 524 711 736"></td>
+<td data-bbox="711 524 741 736"></td>
+<td data-bbox="741 524 771 736"></td>
+<td data-bbox="771 524 801 736"></td>
+<td data-bbox="801 524 825 736"></td>
+</tr>
+<tr>
+<td data-bbox="25 736 128 873"></td>
+<td data-bbox="128 736 501 873">
+<p><b>L'infirmier(e) assure la traçabilité d'un entretien en retranscrivant les éléments clés de l'échange.</b><br/>
+<i>GRILLE D'ÉVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>• Reconnait comme pertinents à tracer:</i>
+<ul>
+<li><i>○ les informations délivrées</i></li>
+<li><i>○ par qui elles ont été délivrées</i></li>
+<li><i>○ comment elles ont été reçues</i></li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="501 736 531 873"></td>
+<td data-bbox="531 736 561 873"></td>
+<td data-bbox="561 736 591 873"></td>
+<td data-bbox="591 736 621 873"></td>
+<td data-bbox="621 736 651 873"></td>
+<td data-bbox="651 736 681 873"></td>
+<td data-bbox="681 736 711 873"></td>
+<td data-bbox="711 736 741 873"></td>
+<td data-bbox="741 736 771 873"></td>
+<td data-bbox="771 736 801 873"></td>
+<td data-bbox="801 736 825 873"></td>
+</tr>
+<tr>
+<td data-bbox="25 873 128 905"></td>
+<td data-bbox="128 873 501 905">
+<p><b>L'infirmier(e) identifie les répercussions psychosociales et économiques pour les</b></p>
+</td>
+<td data-bbox="501 873 531 905"></td>
+<td data-bbox="531 873 561 905"></td>
+<td data-bbox="561 873 591 905"></td>
+<td data-bbox="591 873 621 905"></td>
+<td data-bbox="621 873 651 905"></td>
+<td data-bbox="651 873 681 905"></td>
+<td data-bbox="681 873 711 905"></td>
+<td data-bbox="711 873 741 905"></td>
+<td data-bbox="741 873 771 905"></td>
+<td data-bbox="771 873 801 905"></td>
+<td data-bbox="801 873 825 905"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="173 84 281 223"></td>
+<td data-bbox="281 84 654 223">
+<p><b>proches d'un patient hospitalisé en réanimation et apporter une réponse adaptée.</b><br/>
+<b>GRILLE D'EVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Favorise l'expression de difficultés pouvant nécessiter l'appel à des structures d'aide sociale (éloignement géographique, chômage du conjoint, difficultés financières, troubles dans l'organisation familiale).</i></li>
+</ul>
+</td>
+<td data-bbox="654 84 689 223"></td>
+<td data-bbox="689 84 724 223"></td>
+<td data-bbox="724 84 759 223"></td>
+<td data-bbox="759 84 794 223"></td>
+<td data-bbox="794 84 829 223"></td>
+<td data-bbox="829 84 864 223"></td>
+<td data-bbox="864 84 899 223"></td>
+<td data-bbox="899 84 934 223"></td>
+<td data-bbox="934 84 969 223"></td>
+</tr>
+<tr>
+<td data-bbox="173 223 281 464"></td>
+<td data-bbox="281 223 654 464">
+<p><b>L'infirmier(e) assure le maintien du confort du patient dans l'environnement spécifique de la réanimation ou lors de transferts.</b><br/>
+<b>GRILLE D'EVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>assure l'analgésie, l'anxiolyse, la sédation.</i></li>
+<li><i>améliore l'environnement: diminution du bruit (bonne gestion des alarmes), personnalisation de la chambre.</i></li>
+<li><i>organise les soins en respectant les souhaits et les rythmes du patient.</i></li>
+<li><i>utilise de façon restreinte la contention physique et seulement sur prescription.</i></li>
+<li><i>organise les soins pour respecter les périodes de sommeil et les rythmes physiologiques du patient.</i></li>
+</ul>
+</td>
+<td data-bbox="654 223 689 464"></td>
+<td data-bbox="689 223 724 464"></td>
+<td data-bbox="724 223 759 464"></td>
+<td data-bbox="759 223 794 464"></td>
+<td data-bbox="794 223 829 464"></td>
+<td data-bbox="829 223 864 464"></td>
+<td data-bbox="864 223 899 464"></td>
+<td data-bbox="899 223 934 464"></td>
+<td data-bbox="934 223 969 464"></td>
+</tr>
+<tr>
+<td data-bbox="173 464 281 487"></td>
+<td data-bbox="281 464 654 487">
+<ul>
+<li></li>
+</ul>
+</td>
+<td data-bbox="654 464 689 487"></td>
+<td data-bbox="689 464 724 487"></td>
+<td data-bbox="724 464 759 487"></td>
+<td data-bbox="759 464 794 487"></td>
+<td data-bbox="794 464 829 487"></td>
+<td data-bbox="829 464 864 487"></td>
+<td data-bbox="864 464 899 487"></td>
+<td data-bbox="899 464 934 487"></td>
+<td data-bbox="934 464 969 487"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 101 128 148">2</th>
+<th data-bbox="128 101 501 148">Patient en situation d'insuffisance circulatoire</th>
+<th data-bbox="501 101 538 148">1</th>
+<th data-bbox="538 101 575 148">2</th>
+<th data-bbox="575 101 612 148">3</th>
+<th data-bbox="612 101 649 148">1</th>
+<th data-bbox="649 101 686 148">2</th>
+<th data-bbox="686 101 723 148">3</th>
+<th data-bbox="723 101 760 148">1</th>
+<th data-bbox="760 101 797 148">2</th>
+<th data-bbox="797 101 828 148">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 148 128 901">Savoirs</td>
+<td data-bbox="128 148 501 901">
+<p>L'infirmier(e) rappelle succinctement les bases physiopathologiques, les signes cliniques et para cliniques et les principales étiologies d'une défaillance circulatoire.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Une défaillance circulatoire est la conséquence d'un dysfonctionnement atteignant isolément ou de façon associée la pompe cardiaque, le système vasculaire et la volémie.</li>
+<li>• Le collapsus est une défaillance hémodynamique transitoire avec hypotension.</li>
+<li>• L'état de choc est une insuffisance circulatoire responsable d'une hypo perfusion cellulaire aigüe et durable.</li>
+<li>• L'arrêt circulatoire est secondaire à une inefficacité totale de la pompe cardiaque.</li>
+<li>• Les signes cliniques d'une défaillance circulatoire peuvent être :
+<ul style="list-style-type: none;">
+<li>○ La tachycardie ou bradycardie</li>
+<li>○ L'hypotension</li>
+<li>○ Pâleur</li>
+<li>○ Marbrures des membres inférieurs</li>
+<li>○ Cyanose des extrémités</li>
+<li>○ Bradypnée, Polypnée ou tachypnée</li>
+<li>○ Sudation abondante</li>
+<li>○ Angoisse, agitation et trouble de la vigilance</li>
+<li>○ Oligurie, anurie</li>
+</ul>
+</li>
+<li>• Les principales étiologies sont
+<ul style="list-style-type: none;">
+<li>○ L'hypovolémie aigüe (hémorragie, déshydratation aigüe, brûlures)</li>
+<li>○ Une dysfonction cardiaque brutale (IDM, embolie pulmonaire, troubles du rythme...)</li>
+<li>○ Une infection grave (libération de toxines)</li>
+<li>○ Une allergie.</li>
+<li>○ Une atteinte du système nerveux central.</li>
+</ul>
+</li>
+<li>• L'insuffisance circulatoire peut aboutir à un syndrome de défaillance multi viscérale.</li>
+</ul>
+</td>
+<td data-bbox="501 148 538 901"></td>
+<td data-bbox="538 148 575 901"></td>
+<td data-bbox="575 148 612 901"></td>
+<td data-bbox="612 148 649 901"></td>
+<td data-bbox="649 148 686 901"></td>
+<td data-bbox="686 148 723 901"></td>
+<td data-bbox="723 148 760 901"></td>
+<td data-bbox="760 148 797 901"></td>
+<td data-bbox="797 148 828 901"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) liste les différents paramètres de surveillance hémodynamique et les valeurs normales des paramètres biologiques.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les principaux paramètres de surveillance hémodynamique sont la fréquence cardiaque, la pression artérielle, la pression veineuse centrale, le débit cardiaque et la diurèse.</li>
+<li>• Les deux principaux paramètres de surveillance biologiques sont le pH et le taux de lactates artériels.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) détaille les différents types de surveillance hémodynamique (indications, procédures de mise en place, limites, complications, modalités de leur utilisation, modalité d'ablation des KT).</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les principaux types de surveillance hémodynamique comprennent la pression artérielle sanglante et mesure du Delta PP, le cathétérisme cardiaque droit (cathéter de Swan-Ganz), le Picco (Cathétérisme artériel fémoral) et l'échographie cardiaque</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td>
+<p><b>L'infirmier(e) utilise la procédure en cas de survenue d'un arrêt circulatoire.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Reconnait un arrêt circulatoire,</li>
+<li>• Déclenche l'alerte</li>
+<li>• Utilise le chariot et le matériel d'urgence de son service</li>
+<li>• Entreprend les premières mesures de RCP.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise des différents monitorages hémodynamiques et analyse les résultats obtenus.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Prépare le patient à la pose du monitoring</li>
+<li>• Prépare le matériel nécessaire à la pose du monitoring</li>
+<li>• Participe de façon adaptée à la pose du matériel concerné</li>
+<li>• Analyse la pertinence des données recueillies</li>
+<li>• Assure les soins relatifs au matériel en fonction du protocole du service.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><b>L'infirmier(e) identifie les signes cliniques</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="28 82 128 188"></td>
+<td data-bbox="128 82 501 188">
+<p><b>d'un état de choc et les décrit au médecin.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Analyse la pertinence des signes cliniques d'insuffisance circulatoire et alerte le médecin.</i></li>
+</ul>
+</td>
+<td data-bbox="501 82 538 188"></td>
+<td data-bbox="538 82 575 188"></td>
+<td data-bbox="575 82 612 188"></td>
+<td data-bbox="612 82 649 188"></td>
+<td data-bbox="649 82 686 188"></td>
+<td data-bbox="686 82 723 188"></td>
+<td data-bbox="723 82 760 188"></td>
+<td data-bbox="760 82 797 188"></td>
+<td data-bbox="797 82 824 188"></td>
+</tr>
+<tr>
+<td data-bbox="28 188 128 415"></td>
+<td data-bbox="128 188 501 415">
+<p><b>L'infirmier(e) détaille l'utilisation et la surveillance des thérapeutiques médicamenteuses cardiaques.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Prépare les drogues vasoactives.</i></li>
+<li><i>Administre les drogues vasoactives selon la prescription et le protocole du service.</i></li>
+<li><i>Porte une attention particulière aux paramètres hémodynamiques lors de tout changement de débit ou lors des relais des drogues vasoactives.</i></li>
+</ul>
+</td>
+<td data-bbox="501 188 538 415"></td>
+<td data-bbox="538 188 575 415"></td>
+<td data-bbox="575 188 612 415"></td>
+<td data-bbox="612 188 649 415"></td>
+<td data-bbox="649 188 686 415"></td>
+<td data-bbox="686 188 723 415"></td>
+<td data-bbox="723 188 760 415"></td>
+<td data-bbox="760 188 797 415"></td>
+<td data-bbox="797 188 824 415"></td>
+</tr>
+<tr>
+<td data-bbox="28 415 128 555"></td>
+<td data-bbox="128 415 501 555">
+<p><b>L'infirmier(e) détaille l'utilisation et surveillance des solutés de remplissage.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Choisit la voie d'administration, le débit adapté à la prescription et vérifie la bonne tolérance, l'efficacité et le bilan entrées-sorties.</i></li>
+</ul>
+</td>
+<td data-bbox="501 415 538 555"></td>
+<td data-bbox="538 415 575 555"></td>
+<td data-bbox="575 415 612 555"></td>
+<td data-bbox="612 415 649 555"></td>
+<td data-bbox="649 415 686 555"></td>
+<td data-bbox="686 415 723 555"></td>
+<td data-bbox="723 415 760 555"></td>
+<td data-bbox="760 415 797 555"></td>
+<td data-bbox="797 415 824 555"></td>
+</tr>
+<tr>
+<td data-bbox="28 555 128 815"></td>
+<td data-bbox="128 555 501 815">
+<p><b>L'infirmier(e) détaille l'utilisation et la surveillance des thérapeutiques de suppléance cardio-circulatoire.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Prépare le patient à la pose du dispositif de suppléance</i></li>
+<li><i>Prépare le matériel nécessaire à la pose du dispositif de suppléance</i></li>
+<li><i>Participe de façon adaptée à la pose du matériel concerné</i></li>
+<li><i>Analyse la pertinence des données recueillies</i></li>
+<li><i>Assure les soins relatifs au matériel en fonction du protocole du service.</i></li>
+</ul>
+</td>
+<td data-bbox="501 555 538 815"></td>
+<td data-bbox="538 555 575 815"></td>
+<td data-bbox="575 555 612 815"></td>
+<td data-bbox="612 555 649 815"></td>
+<td data-bbox="649 555 686 815"></td>
+<td data-bbox="686 555 723 815"></td>
+<td data-bbox="723 555 760 815"></td>
+<td data-bbox="760 555 797 815"></td>
+<td data-bbox="797 555 824 815"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="173 101 281 148">3</th>
+<th data-bbox="281 101 653 148">Patient en situation d'insuffisance respiratoire aigüe</th>
+<th data-bbox="653 101 691 148">1</th>
+<th data-bbox="691 101 729 148">2</th>
+<th data-bbox="729 101 767 148">3</th>
+<th data-bbox="767 101 805 148">1</th>
+<th data-bbox="805 101 843 148">2</th>
+<th data-bbox="843 101 881 148">3</th>
+<th data-bbox="881 101 919 148">1</th>
+<th data-bbox="919 101 957 148">2</th>
+<th data-bbox="957 101 971 148">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="173 148 281 907">Savoirs</td>
+<td data-bbox="281 148 653 907">
+<p>L'infirmier(e) rappelle succinctement les bases physiopathologiques, les signes cliniques et paracliniques, les principales étiologies et les risques encourus par le patient présentant une insuffisance respiratoire aigüe.</p>
+<p><i>GRILLE d'EVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• La respiration est l'ensemble des phénomènes physiologiques permettant l'apport de l'oxygène aux cellules et l'élimination du dioxyde de carbone (CO<sub>2</sub>) par l'air expiré.</li>
+<li>• La respiration se fait en plusieurs étapes nécessitant l'intégrité de la commande neurologique centrale et périphérique, des muscles respiratoires, des voies aériennes, des alvéoles pulmonaires, de la membrane alvéolo-capillaire et de la circulation pulmonaire.</li>
+<li>• L'atteinte d'un de ces éléments peut entraîner une insuffisance respiratoire aigüe caractérisée par une hypoxémie, une hypoxie et/ou une acidose respiratoire par accumulation de CO<sub>2</sub>.</li>
+<li>• Les signes cliniques sont :
+<ul style="list-style-type: none;">
+<li>○ La dyspnée, la tachypnée</li>
+<li>○ Le tirage</li>
+<li>○ L'encombrement bronchique</li>
+<li>○ La cyanose</li>
+<li>○ Les sueurs profuses</li>
+<li>○ Agitation, obnubilation ou coma</li>
+<li>○ Bradypnée, pause, voire arrêt cardiorespiratoire</li>
+</ul>
+</li>
+<li>• Les signes paracliniques sont
+<ul style="list-style-type: none;">
+<li>○ La diminution de la saturation en oxygène mesurée par un oxymètre de pouls, l'augmentation du CO<sub>2</sub> mesurée par la capnographie</li>
+<li>○ L'hypoxémie, l'hypercapnie et l'acidose mesurées par la gazométrie artérielle (ou veineuse chez l'enfant).</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="653 148 691 907"></td>
+<td data-bbox="691 148 729 907"></td>
+<td data-bbox="729 148 767 907"></td>
+<td data-bbox="767 148 805 907"></td>
+<td data-bbox="805 148 843 907"></td>
+<td data-bbox="843 148 881 907"></td>
+<td data-bbox="881 148 919 907"></td>
+<td data-bbox="919 148 957 907"></td>
+<td data-bbox="957 148 971 907"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="28 82 128 398"></td>
+<td data-bbox="128 82 501 398">
+<ul style="list-style-type: none;">
+<li>• Les principales étiologies sont :
+<ul style="list-style-type: none;">
+<li>○ Les pathologies neuro-musculaires (PRN, myasthénie), les lésions médullaires et le coma</li>
+<li>○ Les obstructions des voies aériennes supérieures (épiglottite, tumeurs, œdème de Quincke, corps étrangers, hématomes)</li>
+<li>○ Les décompensations de pathologies pulmonaires chroniques (asthme, BPCO)</li>
+<li>○ Les affections du parenchyme pulmonaire (contusion, infection, œdème, SDR)</li>
+<li>○ Les épanchements pleuraux</li>
+<li>○ L'embolie pulmonaire.</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="501 82 538 398"></td>
+<td data-bbox="538 82 575 398"></td>
+<td data-bbox="575 82 612 398"></td>
+<td data-bbox="612 82 649 398"></td>
+<td data-bbox="649 82 686 398"></td>
+<td data-bbox="686 82 723 398"></td>
+<td data-bbox="723 82 760 398"></td>
+<td data-bbox="760 82 797 398"></td>
+<td data-bbox="797 82 826 398"></td>
+</tr>
+<tr>
+<td data-bbox="28 398 128 728"></td>
+<td data-bbox="128 398 501 728">
+<p><b>L'infirmier(e) décrit les mécanismes d'apparition et les moyens de gestion du stress d'un patient en détresse respiratoire.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• L'insuffisance respiratoire aigüe est cause d'une anxiété particulière, parfois majeure (avec état d'agitation) imposant la mise en œuvre de tous les moyens de réassurance et thérapeutiques symptomatiques en urgence.</li>
+<li>• Les principes de la procédure en cas d'arrêt respiratoire sont :
+<ul style="list-style-type: none;">
+<li>• Liberté des voies aériennes supérieures</li>
+<li>• Apport en oxygène</li>
+<li>• Ventilation manuelle au masque et ballon</li>
+<li>• Alerter</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="501 398 538 728"></td>
+<td data-bbox="538 398 575 728"></td>
+<td data-bbox="575 398 612 728"></td>
+<td data-bbox="612 398 649 728"></td>
+<td data-bbox="649 398 686 728"></td>
+<td data-bbox="686 398 723 728"></td>
+<td data-bbox="723 398 760 728"></td>
+<td data-bbox="760 398 797 728"></td>
+<td data-bbox="797 398 826 728"></td>
+</tr>
+<tr>
+<td data-bbox="28 728 128 902"></td>
+<td data-bbox="128 728 501 902">
+<p><b>L'infirmier(e) détaille les différentes techniques d'oxygénéthérapie, d'assistance respiratoire et leurs paramètres de réglage et de surveillance ; les valeurs normales des gaz du sang.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Les principales techniques d'oxygénéthérapie et d'assistance respiratoire sont :
+<ul style="list-style-type: none;">
+<li>• L'oxygénéthérapie :</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="501 728 538 902"></td>
+<td data-bbox="538 728 575 902"></td>
+<td data-bbox="575 728 612 902"></td>
+<td data-bbox="612 728 649 902"></td>
+<td data-bbox="649 728 686 902"></td>
+<td data-bbox="686 728 723 902"></td>
+<td data-bbox="723 728 760 902"></td>
+<td data-bbox="760 728 797 902"></td>
+<td data-bbox="797 728 826 902"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<ul style="list-style-type: none;">
+<li>○ Lunettes et sonde d'O2</li>
+<li>○ Masque haute concentration</li>
+<li>○ Dispositifs d'oxygénéthérapie à haut débit</li>
+<li>• La ventilation mécanique non invasive, principaux modes et interfaces</li>
+<li>• La ventilation mécanique invasive, principaux modes et interfaces.</li>
+<li>• Les principaux paramètres de réglages et de surveillance sont : la fraction inspirée d'O2, le volume courant (ou niveau d'aide inspiratoire), la fréquence respiratoire, la pression expiratoire positive, la pression de plateau, la FECO2, et les principales alarmes (pression de crête, volume minute expiré).</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td>
+<p><b>L'infirmier(e) accomplit les prélèvements des gaz du sang et leur acheminement ou leur traitement.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul style="list-style-type: none;">
+<li>• Effectue le prélèvement artériel en respectant les conditions de sécurité et de qualité, s'assure de son traitement selon la procédure en vigueur et de la récupération des résultats.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise les procédures d'intubation de son service.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul style="list-style-type: none;">
+<li>• Prépare le matériel nécessaire à l'intubation</li>
+<li>• Informe et installe le patient pour l'intubation</li>
+<li>• Participe de façon adaptée à l'intubation</li>
+<li>• S'assure de la fiabilité du système de fixation de la sonde d'intubation</li>
+<li>• Réinstalle le patient de façon appropriée.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise les procédures de gestion des voies aériennes.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul style="list-style-type: none;">
+<li>• Vérifie la fiabilité du système de fixation de la prothèse endotrachéale,</li>
+<li>• prévient les complications liées à cette</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><i>prothèse (escarre muqueux, pression inadaptée du ballonnet)</i></p>
+<ul>
+<li><i>assure les soins conformément à la procédure en vigueur dans le service.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise la procédure de sevrage ventilatoire.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Recherche les critères de sevrabilité du patient et les communique au médecin et met en œuvre le protocole de sevrage de la ventilation mécanique.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise la procédure d'extubation.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Prépare le matériel nécessaire</i></li>
+<li><i>Informe et installe le patient en vue d'une extubation</i></li>
+<li><i>Extube le patient conformément au protocole du service</i></li>
+<li><i>Surveille le patient pour détecter les complications immédiates éventuelles.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise la procédure de gestion des alarmes sur les respirateurs du service en fonction des modes ventilatoires.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>S'assure du réglage approprié des alarmes en fonction du mode ventilatoire utilisé.</i></li>
+<li><i>Vérifie l'intégrité du circuit ventilatoire devant une fuite excessive ou une forte augmentation de pression.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="173 103 281 148">4</th>
+<th data-bbox="281 103 653 148">Patient en situation d'insuffisance rénale aigüe</th>
+<th data-bbox="653 103 691 148">1</th>
+<th data-bbox="691 103 729 148">2</th>
+<th data-bbox="729 103 767 148">3</th>
+<th data-bbox="767 103 805 148">1</th>
+<th data-bbox="805 103 843 148">2</th>
+<th data-bbox="843 103 881 148">3</th>
+<th data-bbox="881 103 919 148">1</th>
+<th data-bbox="919 103 957 148">2</th>
+<th data-bbox="957 103 971 148">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="173 148 281 788">Savoirs</td>
+<td data-bbox="281 148 653 788">
+<p><b>L'infirmier(e) rappelle brièvement les bases physiopathologiques, les signes cliniques et para cliniques, les différentes étiologies d'une insuffisance rénale aiguë et les risques encourus par le patient.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Une insuffisance rénale aigüe est définie par la réduction brutale et parfois totale, mais souvent réversible du pouvoir d'épuration ou de filtration des reins.</li>
+<li>• Le fonctionnement rénal dépend à la fois d'une perfusion adéquate du rein, de sa capacité de filtration, des mécanismes de réabsorption et d'excrétion.</li>
+<li>• L'altération de chacune de ces fonctions peut être à l'origine d'une IRA.</li>
+<li>• Les signes cliniques et biologiques d'une IRA peuvent être :
+<ul style="list-style-type: none;">
+<li>○ Oligurie, Anurie</li>
+<li>○ Augmentation de l'urée et de la créatinine plasmatique</li>
+<li>○ Douleurs abdominales, nausées, vomissements</li>
+<li>○ Agitation, confusion, coma</li>
+<li>○ HTA, trouble du rythme, OAP</li>
+</ul>
+</li>
+<li>• Les principales étiologies sont :
+<ul style="list-style-type: none;">
+<li>○ Origine fonctionnelle = hypo perfusion rénale (toute hypotension artérielle : défaillance cardiaque, déshydratation, hémorragie, diurétiques)</li>
+<li>○ Origine organique (nécrose tubulaire, intoxication médicamenteuse, infection)</li>
+<li>○ Origine mécanique (obstacle)</li>
+</ul>
+</li>
+<li>• L'insuffisance rénale aiguë peut évoluer vers une insuffisance rénale chronique.</li>
+</ul>
+</td>
+<td data-bbox="653 148 691 788"></td>
+<td data-bbox="691 148 729 788"></td>
+<td data-bbox="729 148 767 788"></td>
+<td data-bbox="767 148 805 788"></td>
+<td data-bbox="805 148 843 788"></td>
+<td data-bbox="843 148 881 788"></td>
+<td data-bbox="881 148 919 788"></td>
+<td data-bbox="919 148 957 788"></td>
+<td data-bbox="957 148 971 788"></td>
+</tr>
+<tr>
+<td data-bbox="173 788 281 911"></td>
+<td data-bbox="281 788 653 911">
+<p><b>L'infirmier(e) décrit les différentes techniques d'épuration extrarénales.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Les différentes techniques d'épuration extra rénales sont l'hémodiafiltration continue, la dialyse intermittente et la dialyse péritonéale.</li>
+</ul>
+</td>
+<td data-bbox="653 788 691 911"></td>
+<td data-bbox="691 788 729 911"></td>
+<td data-bbox="729 788 767 911"></td>
+<td data-bbox="767 788 805 911"></td>
+<td data-bbox="805 788 843 911"></td>
+<td data-bbox="843 788 881 911"></td>
+<td data-bbox="881 788 919 911"></td>
+<td data-bbox="919 788 957 911"></td>
+<td data-bbox="957 788 971 911"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="28 82 128 345"></td>
+<td data-bbox="128 82 500 345">
+<p><b>L'infirmier(e) énumère les différentes voies d'abord vasculaires : leurs avantages, limites, risques et dysfonctionnements potentiels.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les voies d'abords vasculaires pour la dialyse sont le cathéter central mono ou double lumière, la fistule artérioveineuse.</li>
+<li>• Les différents sites : fémoral (avantage : facilité, débit ; risques : infection, thrombose), jugulaire (avantage : risque infectieux moindre, installation assise possible ; débit moindre et rotation limitée de la tête et du cou), fistule (avantage : facilité, débit ; risques : hématome, thrombose).</li>
+</ul>
+</td>
+<td data-bbox="500 82 538 345"></td>
+<td data-bbox="538 82 576 345"></td>
+<td data-bbox="576 82 614 345"></td>
+<td data-bbox="614 82 652 345"></td>
+<td data-bbox="652 82 690 345"></td>
+<td data-bbox="690 82 728 345"></td>
+<td data-bbox="728 82 766 345"></td>
+<td data-bbox="766 82 804 345"></td>
+<td data-bbox="804 82 825 345"></td>
+</tr>
+<tr>
+<td data-bbox="28 345 128 538"><b>Aptitudes</b></td>
+<td data-bbox="128 345 500 538">
+<p><b>L'infirmier(e) utilise les différents appareils d'épuration extra rénale (EER) de son service.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Prépare le patient à la séance d'EER</li>
+<li>• Prépare le matériel nécessaire à la séance d'EER</li>
+<li>• Monte et purge le circuit extracorporel</li>
+<li>• Assure les soins relatifs au matériel en fonction du protocole du service.</li>
+</ul>
+</td>
+<td data-bbox="500 345 538 538"></td>
+<td data-bbox="538 345 576 538"></td>
+<td data-bbox="576 345 614 538"></td>
+<td data-bbox="614 345 652 538"></td>
+<td data-bbox="652 345 690 538"></td>
+<td data-bbox="690 345 728 538"></td>
+<td data-bbox="728 345 766 538"></td>
+<td data-bbox="766 345 804 538"></td>
+<td data-bbox="804 345 825 538"></td>
+</tr>
+<tr>
+<td data-bbox="28 538 128 678"></td>
+<td data-bbox="128 538 500 678">
+<p><b>L'infirmier(e) surveille et transmet les paramètres cliniques et biologiques de surveillance d'une insuffisance rénale.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) analyse la pertinence clinique de la diurèse, du ionogramme et des taux d'urée et de créatinine sanguin et les transmet au médecin.</i></p>
+</td>
+<td data-bbox="500 538 538 678"></td>
+<td data-bbox="538 538 576 678"></td>
+<td data-bbox="576 538 614 678"></td>
+<td data-bbox="614 538 652 678"></td>
+<td data-bbox="652 538 690 678"></td>
+<td data-bbox="690 538 728 678"></td>
+<td data-bbox="728 538 766 678"></td>
+<td data-bbox="766 538 804 678"></td>
+<td data-bbox="804 538 825 678"></td>
+</tr>
+<tr>
+<td data-bbox="28 678 128 852"></td>
+<td data-bbox="128 678 500 852">
+<p><b>L'infirmier(e) surveille une séance d'épuration extra-rénale.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Relève les différentes pressions de l'appareil de dialyse et les paramètres hémodynamiques de surveillance du patient</li>
+<li>• analyse la pertinence des données cliniques et para cliniques recueillies au cours de la séance d'EER et alerte si besoin.</li>
+</ul>
+</td>
+<td data-bbox="500 678 538 852"></td>
+<td data-bbox="538 678 576 852"></td>
+<td data-bbox="576 678 614 852"></td>
+<td data-bbox="614 678 652 852"></td>
+<td data-bbox="652 678 690 852"></td>
+<td data-bbox="690 678 728 852"></td>
+<td data-bbox="728 678 766 852"></td>
+<td data-bbox="766 678 804 852"></td>
+<td data-bbox="804 678 825 852"></td>
+</tr>
+<tr>
+<td data-bbox="28 852 128 905"></td>
+<td data-bbox="128 852 500 905">
+<p><b>L'infirmier(e) prépare le matériel nécessaire à la pose des voies d'abord vasculaires selon les procédures de surveillance et d'utilisation</b></p>
+</td>
+<td data-bbox="500 852 538 905"></td>
+<td data-bbox="538 852 576 905"></td>
+<td data-bbox="576 852 614 905"></td>
+<td data-bbox="614 852 652 905"></td>
+<td data-bbox="652 852 690 905"></td>
+<td data-bbox="690 852 728 905"></td>
+<td data-bbox="728 852 766 905"></td>
+<td data-bbox="766 852 804 905"></td>
+<td data-bbox="804 852 825 905"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="173 83 281 258"></td>
+<td data-bbox="281 83 654 258">
+<p><b>de son service.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Prépare le patient à la pose des voies d'abord vasculaires</i></li>
+<li>• <i>Prépare le matériel nécessaire à leur pose</i></li>
+<li>• <i>Participe de façon adaptée à la pose du matériel concerné</i></li>
+<li>• <i>Surveille et prévient les risques inhérents au dispositif invasif mis en place.</i></li>
+</ul>
+</td>
+<td data-bbox="654 83 689 258"></td>
+<td data-bbox="689 83 724 258"></td>
+<td data-bbox="724 83 759 258"></td>
+<td data-bbox="759 83 794 258"></td>
+<td data-bbox="794 83 829 258"></td>
+<td data-bbox="829 83 864 258"></td>
+<td data-bbox="864 83 899 258"></td>
+<td data-bbox="899 83 934 258"></td>
+<td data-bbox="934 83 969 258"></td>
+</tr>
+<tr>
+<td data-bbox="173 258 281 606"></td>
+<td data-bbox="281 258 654 606">
+<p><b>L'infirmier(e) branche et débranche le circuit d'épuration extra-rénale.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Informe et installe le patient en vue d'une séance d'épuration extra-rénale</i></li>
+<li>• <i>S'assure de la bonne perméabilité de la voie d'abord vasculaire.</i></li>
+<li>• <i>S'assure de la concordance des paramètres de la machine de dialyse avec la prescription.</i></li>
+<li>• <i>Assure la connexion entre le cathéter de dialyse et les lignes de l'appareil d'épuration selon le protocole du service.</i></li>
+<li>• <i>Met en place la surveillance clinique et para clinique de la séance d'épuration extrarénale.</i></li>
+<li>• <i>Organise la fin de la séance d'épuration et la déconnexion des lignes en fonction du protocole du service.</i></li>
+</ul>
+</td>
+<td data-bbox="654 258 689 606"></td>
+<td data-bbox="689 258 724 606"></td>
+<td data-bbox="724 258 759 606"></td>
+<td data-bbox="759 258 794 606"></td>
+<td data-bbox="794 258 829 606"></td>
+<td data-bbox="829 258 864 606"></td>
+<td data-bbox="864 258 899 606"></td>
+<td data-bbox="899 258 934 606"></td>
+<td data-bbox="934 258 969 606"></td>
+</tr>
+<tr>
+<td data-bbox="173 606 281 781"></td>
+<td data-bbox="281 606 654 781">
+<p><b>L'infirmier(e) identifie un dysfonctionnement sur le cathéter, la fistule, le circuit extracorporel ou le générateur et y répond selon le protocole du service.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Détecte un dysfonctionnement du circuit extracorporel et prévient le médecin.</i></li>
+<li>• <i>Met en œuvre les moyens de prévention de coagulation du circuit.</i></li>
+</ul>
+</td>
+<td data-bbox="654 606 689 781"></td>
+<td data-bbox="689 606 724 781"></td>
+<td data-bbox="724 606 759 781"></td>
+<td data-bbox="759 606 794 781"></td>
+<td data-bbox="794 606 829 781"></td>
+<td data-bbox="829 606 864 781"></td>
+<td data-bbox="864 606 899 781"></td>
+<td data-bbox="899 606 934 781"></td>
+<td data-bbox="934 606 969 781"></td>
+</tr>
+<tr>
+<td data-bbox="173 781 281 884"></td>
+<td data-bbox="281 781 654 884">
+<p><b>L'infirmier(e) applique les procédures d'entretien et de traçabilité des appareils.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>L'infirmier(e) met en œuvre les procédures et la traçabilité d'entretien des machines de dialyse conformément aux procédures du service.</i></p>
+</td>
+<td data-bbox="654 781 689 884"></td>
+<td data-bbox="689 781 724 884"></td>
+<td data-bbox="724 781 759 884"></td>
+<td data-bbox="759 781 794 884"></td>
+<td data-bbox="794 781 829 884"></td>
+<td data-bbox="829 781 864 884"></td>
+<td data-bbox="864 781 899 884"></td>
+<td data-bbox="899 781 934 884"></td>
+<td data-bbox="934 781 969 884"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 101 128 146">5</th>
+<th data-bbox="128 101 501 146">Patient en situation de défaillance neurologique et agitation</th>
+<th data-bbox="501 101 538 146">1</th>
+<th data-bbox="538 101 575 146">2</th>
+<th data-bbox="575 101 612 146">3</th>
+<th data-bbox="612 101 649 146">1</th>
+<th data-bbox="649 101 686 146">2</th>
+<th data-bbox="686 101 723 146">3</th>
+<th data-bbox="723 101 760 146">1</th>
+<th data-bbox="760 101 797 146">2</th>
+<th data-bbox="797 101 824 146">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 146 128 788">Savoirs</td>
+<td data-bbox="128 146 501 788">
+<p>L'infirmier(e) décrit les signes, les degrés de gravité et les conséquences potentielles de troubles de la vigilance, de convulsions, d'un déficit moteur, d'un état d'agitation.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les troubles de la vigilance sont définis par des yeux qui restent fermés malgré les stimulations (verbales ou douloureuses), et une réponse verbale inappropriée aux consignes.</li>
+<li>• La gravité de troubles de la vigilance est définie par l'absence totale de réponse, la présence d'un encombrement (par fausse route et/ou incapacité à tousser), et/ou de signes de détresse respiratoire.</li>
+<li>• Les convulsions sont définies par la présence de mouvements anormaux toniques et répétés (tonico-cloniques).</li>
+<li>• La gravité de crises convulsives est définie par la présence de troubles de la vigilance persistant malgré l'arrêt de la crise et de troubles respiratoires (encombrement).</li>
+<li>• Un déficit moteur est définie par une réponse motrice faible ou inexistante au niveau des membres ou de la face et/ou une difficulté à maintenir la position assise (axe tête, cou, tronc).</li>
+<li>• La gravité est définie par une paralysie complète, la présence de troubles de la déglutition, d'une incapacité à la toux et de la survenue de pauses respiratoires.</li>
+<li>• L'état d'agitation est défini par une incapacité à rester au repos, et/ou des propos incohérents.</li>
+<li>• La gravité d'un état d'agitation est définie par la survenue d'actes pouvant mettre en danger le patient ou son entourage.</li>
+</ul>
+</td>
+<td data-bbox="501 146 538 788"></td>
+<td data-bbox="538 146 575 788"></td>
+<td data-bbox="575 146 612 788"></td>
+<td data-bbox="612 146 649 788"></td>
+<td data-bbox="649 146 686 788"></td>
+<td data-bbox="686 146 723 788"></td>
+<td data-bbox="723 146 760 788"></td>
+<td data-bbox="760 146 797 788"></td>
+<td data-bbox="797 146 824 788"></td>
+</tr>
+<tr>
+<td data-bbox="28 788 128 907"></td>
+<td data-bbox="128 788 501 907">
+<p>L'infirmier(e) énumère les situations cliniques neurologiques pouvant nécessiter la mise en œuvre immédiate de la protection des voies aériennes.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les troubles de la vigilance, l'incapacité à la toux, une paralysie complète</li>
+</ul>
+</td>
+<td data-bbox="501 788 538 907"></td>
+<td data-bbox="538 788 575 907"></td>
+<td data-bbox="575 788 612 907"></td>
+<td data-bbox="612 788 649 907"></td>
+<td data-bbox="649 788 686 907"></td>
+<td data-bbox="686 788 723 907"></td>
+<td data-bbox="723 788 760 907"></td>
+<td data-bbox="760 788 797 907"></td>
+<td data-bbox="797 788 824 907"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>avec pauses respiratoires, les troubles de la déglutition.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) explique les éléments cliniques et outils d'évaluation et de surveillance neurologique selon la pathologie et l'état du patient.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Malade présentant une atteinte cérébrale
+<ul style="list-style-type: none;">
+<li>• Les éléments cliniques sont :
+<ul style="list-style-type: none;">
+<li>○ l'ouverture des yeux</li>
+<li>○ la réponse verbale</li>
+<li>○ la réponse motrice</li>
+<li>○ la réactivité et la symétrie des pupilles</li>
+<li>○ déglutition/fausse routes/encombrement</li>
+</ul>
+</li>
+<li>• Score de Glasgow</li>
+<li>• Pression intracrânienne</li>
+</ul>
+</li>
+<li>• Malade présentant une atteinte nerveuse périphérique (non cérébrale)
+<ul style="list-style-type: none;">
+<li>• Les éléments cliniques sont :
+<ul style="list-style-type: none;">
+<li>○ la force motrice des membres</li>
+<li>○ la sensibilité (fourmillements, pas de sensibilité)</li>
+<li>○ modulation de l'amplitude respiratoire et capacité à la toux</li>
+</ul>
+</li>
+<li>• Mesure de la capacité vitale</li>
+<li>• Testing neuromusculaire</li>
+</ul>
+</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) décrit les mécanismes de la perception et ses particularités chez le patient atteint d'une défaillance neurologique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Le patient peut être sourd, aveugle, désorienté dans le temps et l'espace</li>
+<li>• Le patient peut avoir des troubles de la compréhension et de l'analyse des situations</li>
+<li>• Le patient peut ne pas reconnaître son entourage, même proche</li>
+<li>• Le patient peut avoir une négligence de tout ou partie de son corps et des troubles qu'il présente</li>
+<li>• Le patient peut ressentir une douleur physique ou morale sans pouvoir l'exprimer.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><b>L'infirmier(e) choisit les modes de</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="28 81 128 293"></td>
+<td data-bbox="128 81 501 293">
+<p><b>communication adaptés aux patients atteints de défaillance neurologique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Nécessité du maintien de la communication verbale avec le patient incapable de s'exprimer.</li>
+<li>• Techniques de communication non verbale : par écriture, image, alphabet ou toucher.</li>
+<li>• Communication verbale adaptée en s'assurant de la compréhension par le patient.</li>
+</ul>
+</td>
+<td data-bbox="501 81 538 293"></td>
+<td data-bbox="538 81 575 293"></td>
+<td data-bbox="575 81 612 293"></td>
+<td data-bbox="612 81 649 293"></td>
+<td data-bbox="649 81 686 293"></td>
+<td data-bbox="686 81 723 293"></td>
+<td data-bbox="723 81 760 293"></td>
+<td data-bbox="760 81 797 293"></td>
+<td data-bbox="797 81 824 293"></td>
+</tr>
+<tr>
+<td data-bbox="28 293 128 416"></td>
+<td data-bbox="128 293 501 416">
+<p><b>L'infirmier(e) liste les techniques de monitoring cérébral.</b></p>
+<p><i>GRILLE d'ÉVALUATION</i></p>
+<ul>
+<li>• La Pression intracrânienne, pression de perfusion cérébrale</li>
+<li>• Les techniques utilisées dans son service (EEG, PtO<sub>2</sub>...).</li>
+</ul>
+</td>
+<td data-bbox="501 293 538 416"></td>
+<td data-bbox="538 293 575 416"></td>
+<td data-bbox="575 293 612 416"></td>
+<td data-bbox="612 293 649 416"></td>
+<td data-bbox="649 293 686 416"></td>
+<td data-bbox="686 293 723 416"></td>
+<td data-bbox="723 293 760 416"></td>
+<td data-bbox="760 293 797 416"></td>
+<td data-bbox="797 293 824 416"></td>
+</tr>
+<tr>
+<td data-bbox="28 416 128 641"></td>
+<td data-bbox="128 416 501 641">
+<p><b>L'infirmier(e) décrit les procédures d'installation d'un patient comateux ou paralysé.</b></p>
+<p><i>GRILLE d'ÉVALUATION</i></p>
+<ul>
+<li>• L'intérêt de la position assise</li>
+<li>• L'installation d'un patient avec monitoring de la PIC</li>
+<li>• Les techniques d'installation du patient et de prévention des attitudes vicieuses de son service</li>
+<li>• Les techniques d'installation et de prévention des lésions de décubitus de son service.</li>
+</ul>
+</td>
+<td data-bbox="501 416 538 641"></td>
+<td data-bbox="538 416 575 641"></td>
+<td data-bbox="575 416 612 641"></td>
+<td data-bbox="612 416 649 641"></td>
+<td data-bbox="649 416 686 641"></td>
+<td data-bbox="686 416 723 641"></td>
+<td data-bbox="723 416 760 641"></td>
+<td data-bbox="760 416 797 641"></td>
+<td data-bbox="797 416 824 641"></td>
+</tr>
+<tr>
+<td data-bbox="28 641 128 901">
+<p><b>Aptitudes</b></p>
+</td>
+<td data-bbox="128 641 501 901">
+<p><b>L'infirmier(e) analyse les paramètres de surveillance d'un trouble neurologique.</b></p>
+<p><i>GRILLE d'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Organise la surveillance d'un patient présentant une pathologie neurologique centrale (i. e. utilise les critères adaptés à l'état du patient et au protocole du service) et alerte de façon appropriée en fonction des objectifs fixés par le médecin</li>
+<li>• Organise la surveillance d'un patient atteint d'une pathologie neurologique périphérique (i. e. utilise les critères adaptés à l'état du patient et au</li>
+</ul>
+</td>
+<td data-bbox="501 641 538 901"></td>
+<td data-bbox="538 641 575 901"></td>
+<td data-bbox="575 641 612 901"></td>
+<td data-bbox="612 641 649 901"></td>
+<td data-bbox="649 641 686 901"></td>
+<td data-bbox="686 641 723 901"></td>
+<td data-bbox="723 641 760 901"></td>
+<td data-bbox="760 641 797 901"></td>
+<td data-bbox="797 641 824 901"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><i>protocole du service) et alerte de façon appropriée en fonction des objectifs fixés par le médecin.</i></p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) met en œuvre les procédures d'installation d'un patient comateux ou paralysé.</b><br/>
+<i>GRILLE d'EVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Installe un patient comateux conformément au protocole du service</i></li>
+<li>• <i>Installe un patient paralysé conformément au protocole du service.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise les échelles d'évaluation de la conscience et de l'agitation en vigueur dans son service.</b><br/>
+<i>GRILLE d'EVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Mesure le score d'évaluation de la conscience d'un patient présentant une atteinte cérébrale, en suit l'évolution et alerte de façon appropriée</i></li>
+<li>• <i>Mesure le score d'évaluation d'un patient présentant d'un état d'agitation, en suit l'évolution et alerte de façon appropriée.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) utilise le monitoring neurologique en vigueur dans son service.</b><br/>
+<i>GRILLE d'EVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Prépare le patient à la pose du monitoring</i></li>
+<li>• <i>Prépare le matériel nécessaire à la pose du monitoring</i></li>
+<li>• <i>Participe de façon adaptée à la pose du matériel concerné</i></li>
+<li>• <i>Analyse la pertinence des données recueillies</i></li>
+<li>• <i>Assure les soins relatifs au matériel en fonction du protocole du service.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) évalue le niveau de conscience et adapte la prise en charge d'un patient neurologique.</b><br/>
+<i>GRILLE d'EVALUATION</i><br/>
+<i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Utilise les signes cliniques et le score d'évaluation du niveau de conscience en vigueur dans son service, en suit</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1"><tr><td></td><td><p><i>l'évolution et alerte de façon appropriée</i></p><ul><li>• <i>Identifie le risque de dégradation de la fonction respiratoire en lien avec l'état neurologique</i></li><li>• <i>Adapte la prise en charge de la douleur d'un patient à la communication altérée.</i></li></ul></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table><table border="1">
+<thead>
+<tr>
+<th data-bbox="173 101 281 141">6</th>
+<th data-bbox="281 101 653 141">Patient Sédaté</th>
+<th data-bbox="653 101 691 141">1</th>
+<th data-bbox="691 101 729 141">2</th>
+<th data-bbox="729 101 767 141">3</th>
+<th data-bbox="767 101 805 141">1</th>
+<th data-bbox="805 101 843 141">2</th>
+<th data-bbox="843 101 881 141">3</th>
+<th data-bbox="881 101 919 141">1</th>
+<th data-bbox="919 101 957 141">2</th>
+<th data-bbox="957 101 972 141">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="173 141 281 608">Savoirs</td>
+<td data-bbox="281 141 653 608">
+<p><b>L'infirmier(e) décrit le retentissement psychologique et comportemental du stress engendré par le séjour en réanimation et les moyens non médicamenteux pour rassurer un patient.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>Les principales manifestations du stress sont : la dépression, l'opposition aux soins voire le délirium.</i></li>
+<li>• <i>Les éléments favorisant le stress sont : la difficulté de communication, la perte des repères temporo-spatiaux, l'incertitude sur l'avenir.</i></li>
+<li>• <i>Les soins non médicamenteux possibles sont :</i>
+<ul style="list-style-type: none;">
+<li>• <i>le maintien du patient au centre du projet de soin</i></li>
+<li>• <i>la communication soignant/soigné</i></li>
+<li>• <i>le maintien d'un rythme nycthéméral perceptible par le patient</i></li>
+<li>• <i>l'accès à des moyens d'orientation temporo-spatiale : position permettant de voir la lumière du jour, une horloge, voire l'accès à des medias d'information</i></li>
+<li>• <i>la visite régulière des proches, et lors de ces visites la communication verbale, voire tactile, entre le patient et ses proches.</i></li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="653 141 691 608"></td>
+<td data-bbox="691 141 729 608"></td>
+<td data-bbox="729 141 767 608"></td>
+<td data-bbox="767 141 805 608"></td>
+<td data-bbox="805 141 843 608"></td>
+<td data-bbox="843 141 881 608"></td>
+<td data-bbox="881 141 919 608"></td>
+<td data-bbox="919 141 957 608"></td>
+<td data-bbox="957 141 972 608"></td>
+</tr>
+<tr>
+<td data-bbox="173 608 281 844"></td>
+<td data-bbox="281 608 653 844">
+<p><b>L'infirmier(e) explique les objectifs et les risques de la sédation et de l'analgésie en fonction de l'état de santé du patient et du projet thérapeutique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>La sédation et l'analgésie ont pour but :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>d'améliorer la sécurité et le confort du patient, de diminuer son stress</i></li>
+<li>• <i>d'appliquer des traitements de suppléance, des actes thérapeutiques ou des explorations dans des conditions optimales (confort, coopération, sécurité, mémorisation)</i></li>
+<li>• <i>d'améliorer la tolérance aux modifications physiopathologiques liées aux défaillances.</i></li>
+</ul>
+</td>
+<td data-bbox="653 608 691 844"></td>
+<td data-bbox="691 608 729 844"></td>
+<td data-bbox="729 608 767 844"></td>
+<td data-bbox="767 608 805 844"></td>
+<td data-bbox="805 608 843 844"></td>
+<td data-bbox="843 608 881 844"></td>
+<td data-bbox="881 608 919 844"></td>
+<td data-bbox="919 608 957 844"></td>
+<td data-bbox="957 608 972 844"></td>
+</tr>
+<tr>
+<td data-bbox="173 844 281 896"></td>
+<td data-bbox="281 844 653 896">
+<p><b>L'infirmier(e) cite les différents outils d'évaluation de la sédation, de la douleur et décrit leur mode d'emploi chez le patient non</b></p>
+</td>
+<td data-bbox="653 844 691 896"></td>
+<td data-bbox="691 844 729 896"></td>
+<td data-bbox="729 844 767 896"></td>
+<td data-bbox="767 844 805 896"></td>
+<td data-bbox="805 844 843 896"></td>
+<td data-bbox="843 844 881 896"></td>
+<td data-bbox="881 844 919 896"></td>
+<td data-bbox="919 844 957 896"></td>
+<td data-bbox="957 844 972 896"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="28 82 128 256">
+<p><b>communicant.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les scores d'évaluation de sédation, d'agitation et de la douleur utilisées dans son service.</li>
+<li>• Les principaux paramètres physiques évocateurs de douleur chez le patient sédaté ou cérébro-lésé sont : la tachycardie, l'hypertension artérielle, la désadaptation brutale de la suppléance respiratoire.</li>
+</ul>
+</td>
+<td data-bbox="128 82 501 256"></td>
+<td data-bbox="501 82 538 256"></td>
+<td data-bbox="538 82 575 256"></td>
+<td data-bbox="575 82 612 256"></td>
+<td data-bbox="612 82 649 256"></td>
+<td data-bbox="649 82 686 256"></td>
+<td data-bbox="686 82 723 256"></td>
+<td data-bbox="723 82 760 256"></td>
+<td data-bbox="760 82 797 256"></td>
+<td data-bbox="797 82 824 256"></td>
+</tr>
+<tr>
+<td data-bbox="28 256 128 631">
+<p><b>L'infirmier(e) classe les différentes familles de médicaments permettant d'assurer la sédation et l'analgésie d'un patient de réanimation, décrit leur mode d'emploi et leurs antagonistes, et détaille les protocoles du service.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Cite les principales familles d'analgésiques, connaît les médicaments utilisés dans l'unité et peut les classer: centraux morphiniques (morphine, sufentanyl, rémifentanyl...), centraux non morphiniques (néfopam, tramadol...), et périphériques (AINS, paracétamol...)</li>
+<li>• Cite les principaux médicaments de sédation utilisés dans l'unité : benzodiazépines (midazolam), propofol, barbituriques (thiopental), autres hypnotiques : neuroleptiques (halopéridol, dropéridol), etomidate, kétamine</li>
+<li>• Connait les différents modes de préparation ou d'administration des analgésiques et des sédatifs disponibles dans l'unité.</li>
+</ul>
+</td>
+<td data-bbox="128 256 501 631"></td>
+<td data-bbox="501 256 538 631"></td>
+<td data-bbox="538 256 575 631"></td>
+<td data-bbox="575 256 612 631"></td>
+<td data-bbox="612 256 649 631"></td>
+<td data-bbox="649 256 686 631"></td>
+<td data-bbox="686 256 723 631"></td>
+<td data-bbox="723 256 760 631"></td>
+<td data-bbox="760 256 797 631"></td>
+<td data-bbox="797 256 824 631"></td>
+</tr>
+<tr>
+<td data-bbox="28 631 128 898">
+<p><b>L'infirmier(e) nomme les indications, les moyens, les éléments de surveillance, les bénéfices et risques d'une curarisation.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• Les indications et bénéfices sont :
+<ul>
+<li>- sécurisation de l'intubation</li>
+<li>- adaptation au respirateur (abolition de la ventilation spontanée)</li>
+<li>- diminution des pressions d'insufflation, de la pression abdominale, du frisson</li>
+</ul>
+</li>
+<li>• Cite les curares utilisés dans son service.</li>
+<li>• La surveillance repose sur le monitoring par curamètre en cas d'utilisation prolongée.</li>
+<li>• Les risques sont :
+<ul>
+<li>- allergiques</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="128 631 501 898"></td>
+<td data-bbox="501 631 538 898"></td>
+<td data-bbox="538 631 575 898"></td>
+<td data-bbox="575 631 612 898"></td>
+<td data-bbox="612 631 649 898"></td>
+<td data-bbox="649 631 686 898"></td>
+<td data-bbox="686 631 723 898"></td>
+<td data-bbox="723 631 760 898"></td>
+<td data-bbox="760 631 797 898"></td>
+<td data-bbox="797 631 824 898"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<ul>
+<li>- hyperkaliémie pour la célocurine</li>
+<li>- luxations lors des mobilisations par abolition complète du tonus musculaire</li>
+<li>- de sous-estimer les besoins en sédation associée</li>
+<li>- l'aggravation du risque de lésion de décubitus</li>
+<li>- participe à la neuro-myopathie « de réanimation ».</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td>
+<p><b>L'infirmier(e) mobilise et utilise les moyens de communications adaptés à un patient sédaté et ventilé.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul>
+<li>• utilise les outils de communication adaptés au patient en fonction de ses capacités physiques actuelles</li>
+<li>• installe le patient pour optimiser la communication par ces outils (position assise, lunettes, lumière, diminution du bruit ambiant, accompagnement...).</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) évalue le niveau de sédation, de douleur et de la curarisation du patient à l'aide des scores du service. Ajuste les traitements en fonction des protocoles de service.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul>
+<li>• évalue et ajuste régulièrement la sédation et l'analgésie conformément au protocole de service</li>
+<li>• anticipe et planifie l'analgésie et la sédation lors d'un soin douloureux</li>
+<li>• ajuste le débit de curare à l'objectif prescrit en fonction du monitoring.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) instaure, évalue et ajuste les traitements non médicamenteux du patient algique ou anxieux.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmier(e) :</p>
+<ul>
+<li>• instaure et maintient autant que possible une communication verbale avec le patient</li>
+<li>• instaure si nécessaire une communication non verbale avec le patient</li>
+<li>• lui assure les moyens d'une bonne orientation temporo-spatiale</li>
+<li>• accompagne les visites des proches et optimise les différents moyens de communication verbale ou non entre le patient et ses proches.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><b>L'infirmier(e) reconnaît les signes cliniques</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="26 80 128 258"></td>
+<td data-bbox="128 80 500 258">
+<p><b>des effets secondaires de la sédation et choisit les moyens d'y remédier et alerte.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Est attentive à la survenue d'événements cliniques secondaires à la sédation (hypotension artérielle, apnée, globe vésical, troubles du transit), applique les traitements compensateurs d'urgence et alerte le médecin.</i></li>
+</ul>
+</td>
+<td data-bbox="500 80 538 258"></td>
+<td data-bbox="538 80 576 258"></td>
+<td data-bbox="576 80 614 258"></td>
+<td data-bbox="614 80 652 258"></td>
+<td data-bbox="652 80 690 258"></td>
+<td data-bbox="690 80 728 258"></td>
+<td data-bbox="728 80 766 258"></td>
+<td data-bbox="766 80 804 258"></td>
+<td data-bbox="804 80 826 258"></td>
+</tr>
+<tr>
+<td data-bbox="26 258 128 486"></td>
+<td data-bbox="128 258 500 486">
+<p><b>L'infirmier(e) organise et participe à la prévention des complications liées au décubitus prolongé du patient sédaté.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) planifie et effectue, en collaboration avec les membres de l'équipe soignante :</i></p>
+<ul>
+<li><i>les mobilisations et changements de posture en assurant la sécurité du patient (prévention de l'extubation et des chutes)</i></li>
+<li><i>la prévention des lésions cutanées</i></li>
+<li><i>la prévention des déformations musculo-tendineuses.</i></li>
+</ul>
+</td>
+<td data-bbox="500 258 538 486"></td>
+<td data-bbox="538 258 576 486"></td>
+<td data-bbox="576 258 614 486"></td>
+<td data-bbox="614 258 652 486"></td>
+<td data-bbox="652 258 690 486"></td>
+<td data-bbox="690 258 728 486"></td>
+<td data-bbox="728 258 766 486"></td>
+<td data-bbox="766 258 804 486"></td>
+<td data-bbox="804 258 826 486"></td>
+</tr>
+<tr>
+<td data-bbox="26 486 128 667"></td>
+<td data-bbox="128 486 500 667">
+<p><b>L'infirmier(e) aide la famille à communiquer avec le patient sédaté.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li><i>Accompagne les proches pour les amener à utiliser les différents modes de communication (verbale, visuelle, physique, lecture...)</i></li>
+<li><i>Propose aux proches de participer à certains soins (toilette, alimentation per os, certains gestes thérapeutiques...).</i></li>
+</ul>
+</td>
+<td data-bbox="500 486 538 667"></td>
+<td data-bbox="538 486 576 667"></td>
+<td data-bbox="576 486 614 667"></td>
+<td data-bbox="614 486 652 667"></td>
+<td data-bbox="652 486 690 667"></td>
+<td data-bbox="690 486 728 667"></td>
+<td data-bbox="728 486 766 667"></td>
+<td data-bbox="766 486 804 667"></td>
+<td data-bbox="804 486 826 667"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="173 100 281 144">7</th>
+<th data-bbox="281 100 653 144">Patient Polytraumatisé</th>
+<th data-bbox="653 100 691 144">1</th>
+<th data-bbox="691 100 729 144">2</th>
+<th data-bbox="729 100 767 144">3</th>
+<th data-bbox="767 100 805 144">1</th>
+<th data-bbox="805 100 843 144">2</th>
+<th data-bbox="843 100 881 144">3</th>
+<th data-bbox="881 100 919 144">1</th>
+<th data-bbox="919 100 957 144">2</th>
+<th data-bbox="957 100 971 144">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="173 144 281 554">Savoirs</td>
+<td data-bbox="281 144 653 554">
+<p><b>L'infirmier(e) décrit succinctement la physiopathologie des différentes lésions du polytraumatisé : cranio-cérébrales, thoraciques, abdominales, osseuses.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière cite :</p>
+<ul style="list-style-type: none;">
+<li>• Les complications potentielles selon les organes atteints :
+<ul style="list-style-type: none;">
+<li>○ Hémorragique : rate, foie, bassin, gros vaisseaux.</li>
+<li>○ Respiratoires : cage thoracique et contusion pulmonaire</li>
+<li>○ Neurologiques : atteintes cérébrale et médullaire.</li>
+<li>○ Infectieuses : fractures ouvertes, rupture d'organe intra abdominal</li>
+</ul>
+</li>
+<li>• Les complications générales potentielles du polytraumatisme:
+<ul style="list-style-type: none;">
+<li>○ Risque d'évolution vers une défaillance multiviscérale</li>
+<li>○ Risque infectieux</li>
+</ul>
+</li>
+<li>• Le caractère évolutif des lésions qui peuvent entraîner une détresse immédiate (ex : hémorragie massive, pneumothorax suffocant) ou évoluer pendant plusieurs heures (ex : collection intra crânienne) ou jours (ex : contusions pulmonaires, plaie de rate ou foie) avant de poser des problèmes.</li>
+</ul>
+</td>
+<td data-bbox="653 144 691 554"></td>
+<td data-bbox="691 144 729 554"></td>
+<td data-bbox="729 144 767 554"></td>
+<td data-bbox="767 144 805 554"></td>
+<td data-bbox="805 144 843 554"></td>
+<td data-bbox="843 144 881 554"></td>
+<td data-bbox="881 144 919 554"></td>
+<td data-bbox="919 144 957 554"></td>
+<td data-bbox="957 144 971 554"></td>
+</tr>
+<tr>
+<td data-bbox="173 554 281 754"></td>
+<td data-bbox="281 554 653 754">
+<p><b>L'infirmier(e) décrit les principes et les modalités d'accueil du patient polytraumatisé.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière souligne :</p>
+<ul style="list-style-type: none;">
+<li>• le caractère parfois très rapidement évolutif de l'état du patient,</li>
+<li>• le respect des règles majeures d'hygiène ou de prévention des complications malgré l'urgence,</li>
+<li>• la nécessité de réalisation d'un bilan complet biologique et radiologique dans un délai court,</li>
+<li>• le caractère spécifique de l'installation du polytraumatisé en fonction des lésions,</li>
+<li>• la nécessité particulière d'évaluer et de traiter la douleur.</li>
+</ul>
+</td>
+<td data-bbox="653 554 691 754"></td>
+<td data-bbox="691 554 729 754"></td>
+<td data-bbox="729 554 767 754"></td>
+<td data-bbox="767 554 805 754"></td>
+<td data-bbox="805 554 843 754"></td>
+<td data-bbox="843 554 881 754"></td>
+<td data-bbox="881 554 919 754"></td>
+<td data-bbox="919 554 957 754"></td>
+<td data-bbox="957 554 971 754"></td>
+</tr>
+<tr>
+<td data-bbox="173 754 281 902"></td>
+<td data-bbox="281 754 653 902">
+<p><b>L'infirmier(e) cite les principales lésions traumatiques pouvant engager le pronostic vital, leurs conséquences cliniques, leur chronologie d'apparition.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière cite :</p>
+<ul style="list-style-type: none;">
+<li>• Hypertension intra-crânienne : par lésion cérébrale parenchymateuse (œdème, contusion, hématome), ou par compression (hématome aigu sous ou extra dural, embarrure)</li>
+</ul>
+</td>
+<td data-bbox="653 754 691 902"></td>
+<td data-bbox="691 754 729 902"></td>
+<td data-bbox="729 754 767 902"></td>
+<td data-bbox="767 754 805 902"></td>
+<td data-bbox="805 754 843 902"></td>
+<td data-bbox="843 754 881 902"></td>
+<td data-bbox="881 754 919 902"></td>
+<td data-bbox="919 754 957 902"></td>
+<td data-bbox="957 754 971 902"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="28 82 128 251"></td>
+<td data-bbox="128 82 501 251">
+<ul>
+<li>• Défaillances Respiratoires : rupture trachéo-bronchique, contusion pulmonaire, hemo ou pneumothorax, fracture du squelette thoracique, rupture de diaphragme entraînent une défaillance rapide ;</li>
+<li>• Autres lésions thoraciques avec défaillances hémodynamiques : tamponnade, rupture aortique, accompagnées de défaillance rapide,</li>
+<li>• Plaies du foie ou de la rate avec choc hémorragique qui peut être secondaire,</li>
+<li>• Plaie d'organe creux à l'origine d'une péritonite.</li>
+</ul>
+</td>
+<td data-bbox="501 82 538 251"></td>
+<td data-bbox="538 82 575 251"></td>
+<td data-bbox="575 82 612 251"></td>
+<td data-bbox="612 82 649 251"></td>
+<td data-bbox="649 82 686 251"></td>
+<td data-bbox="686 82 723 251"></td>
+<td data-bbox="723 82 760 251"></td>
+<td data-bbox="760 82 797 251"></td>
+<td data-bbox="797 82 825 251"></td>
+</tr>
+<tr>
+<td data-bbox="28 251 128 425"></td>
+<td data-bbox="128 251 501 425">
+<p><b>L'infirmier(e) énumère les principales situations cliniques pouvant nécessiter une intervention (chirurgicale ou non) en urgence.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• rupture de l'isthme de l'aorte,</li>
+<li>• autre plaie vasculaire,</li>
+<li>• fracture du bassin,</li>
+<li>• tamponnade,</li>
+<li>• pneumothorax suffocant, hemothorax compressif,</li>
+<li>• lésion expansive intra-crânienne,</li>
+<li>• saignement intra-abdominal.</li>
+</ul>
+</td>
+<td data-bbox="501 251 538 425"></td>
+<td data-bbox="538 251 575 425"></td>
+<td data-bbox="575 251 612 425"></td>
+<td data-bbox="612 251 649 425"></td>
+<td data-bbox="649 251 686 425"></td>
+<td data-bbox="686 251 723 425"></td>
+<td data-bbox="723 251 760 425"></td>
+<td data-bbox="760 251 797 425"></td>
+<td data-bbox="797 251 825 425"></td>
+</tr>
+<tr>
+<td data-bbox="28 425 128 616"></td>
+<td data-bbox="128 425 501 616">
+<p><b>L'infirmier(e) décrit les principes de mobilisation et de soins d'hygiène et de confort du patient polytraumatisé en fonction des lésions potentielles ou avérées.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière décrit :</p>
+<ul>
+<li>• la nécessité de maintenir la tête dans l'axe du tronc</li>
+<li>• la mobilisation en monobloc</li>
+<li>• le maintien de l'alignement des membres</li>
+<li>• maintien et respect des immobilisations</li>
+<li>• la nécessité d'une analgésie efficace lors des mobilisations</li>
+</ul>
+</td>
+<td data-bbox="501 425 538 616"></td>
+<td data-bbox="538 425 575 616"></td>
+<td data-bbox="575 425 612 616"></td>
+<td data-bbox="612 425 649 616"></td>
+<td data-bbox="649 425 686 616"></td>
+<td data-bbox="686 425 723 616"></td>
+<td data-bbox="723 425 760 616"></td>
+<td data-bbox="760 425 797 616"></td>
+<td data-bbox="797 425 825 616"></td>
+</tr>
+<tr>
+<td data-bbox="28 616 128 790"></td>
+<td data-bbox="128 616 501 790">
+<p><b>L'infirmier(e) nomme les risques de séquelles des traumatismes graves en fonction de leur siège.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>Les risques de séquelles sont :</p>
+<ul>
+<li>• Séquelles neurologiques (déficit cognitif, sensitivomoteur, troubles comportementaux),</li>
+<li>• Autres séquelles fonctionnelles (insuffisance respiratoire, limitations physiques),</li>
+<li>• Douleurs séquellaires (thorax, bassin, membres),</li>
+<li>• dépression post traumatique</li>
+<li>• Conséquences sociales et affectives.</li>
+</ul>
+</td>
+<td data-bbox="501 616 538 790"></td>
+<td data-bbox="538 616 575 790"></td>
+<td data-bbox="575 616 612 790"></td>
+<td data-bbox="612 616 649 790"></td>
+<td data-bbox="649 616 686 790"></td>
+<td data-bbox="686 616 723 790"></td>
+<td data-bbox="723 616 760 790"></td>
+<td data-bbox="760 616 797 790"></td>
+<td data-bbox="797 616 825 790"></td>
+</tr>
+<tr>
+<td data-bbox="28 790 128 900">Aptitudes</td>
+<td data-bbox="128 790 501 900">
+<p><b>L'infirmier(e) organise l'accueil d'un patient polytraumatisé et hiérarchise les soins à dispenser dans un contexte d'urgence vitale (monitorage, bilan d'entrée, transfusion, imagerie et transport).</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière :</p>
+<ul>
+<li>• applique le protocole du service pour l'accueil</li>
+</ul>
+</td>
+<td data-bbox="501 790 538 900"></td>
+<td data-bbox="538 790 575 900"></td>
+<td data-bbox="575 790 612 900"></td>
+<td data-bbox="612 790 649 900"></td>
+<td data-bbox="649 790 686 900"></td>
+<td data-bbox="686 790 723 900"></td>
+<td data-bbox="723 790 760 900"></td>
+<td data-bbox="760 790 797 900"></td>
+<td data-bbox="797 790 825 900"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="173 83 281 318"></td>
+<td data-bbox="281 83 653 318">
+<p><i>d'un polytraumatisé</i></p>
+<ul>
+<li>• vérifie la disponibilité d'au moins une voie veineuse permettant un gros débit ou la met en place tout en assurant un bilan biologique conforme au protocole du service incluant un groupage sanguin en précisant le caractère urgent de la demande</li>
+<li>• met en alerte l'hémovigilance et le dépôt de sang</li>
+<li>• maintient le plus possible les précautions d'hygiène</li>
+<li>• s'assure de la disponibilité immédiate des dispositifs nécessaires au transport d'un patient sous suppléance de fonctions vitales</li>
+<li>• sait faire appel à un renfort d'autres personnels de soins quand la situation nécessite des gestes urgents simultanés.</li>
+</ul>
+</td>
+<td data-bbox="653 83 689 318"></td>
+<td data-bbox="689 83 725 318"></td>
+<td data-bbox="725 83 761 318"></td>
+<td data-bbox="761 83 797 318"></td>
+<td data-bbox="797 83 833 318"></td>
+<td data-bbox="833 83 869 318"></td>
+<td data-bbox="869 83 905 318"></td>
+<td data-bbox="905 83 941 318"></td>
+<td data-bbox="941 83 969 318"></td>
+</tr>
+<tr>
+<td data-bbox="173 318 281 463"></td>
+<td data-bbox="281 318 653 463">
+<p><b>L'infirmier(e) identifie les signes cliniques et para-cliniques de gravité immédiate et d'aggravation secondaire d'un polytraumatisé.</b><br/>
+<b>GRILLE D'ÉVALUATION</b></p>
+<ul>
+<li>• L'infirmière adapte, en concertation avec l'équipe médicale, la surveillance en fonction des organes atteints pour détecter une aggravation neurologique, hémodynamique ou respiratoire chez un patient polytraumatisé.</li>
+</ul>
+</td>
+<td data-bbox="653 318 689 463"></td>
+<td data-bbox="689 318 725 463"></td>
+<td data-bbox="725 318 761 463"></td>
+<td data-bbox="761 318 797 463"></td>
+<td data-bbox="797 318 833 463"></td>
+<td data-bbox="833 318 869 463"></td>
+<td data-bbox="869 318 905 463"></td>
+<td data-bbox="905 318 941 463"></td>
+<td data-bbox="941 318 969 463"></td>
+</tr>
+<tr>
+<td data-bbox="173 463 281 583"></td>
+<td data-bbox="281 463 653 583">
+<p><b>L'infirmier(e) accomplit le nursing et la mobilisation d'un polytraumatisé.</b><br/>
+<b>GRILLE D'ÉVALUATION</b></p>
+<ul>
+<li>• L'infirmière organise la disponibilité du personnel nécessaire pour maintenir les immobilisations lors des soins et des examens.</li>
+<li>• L'infirmière anticipe et module l'analgésie en fonction de la prescription médicale.</li>
+</ul>
+</td>
+<td data-bbox="653 463 689 583"></td>
+<td data-bbox="689 463 725 583"></td>
+<td data-bbox="725 463 761 583"></td>
+<td data-bbox="761 463 797 583"></td>
+<td data-bbox="797 463 833 583"></td>
+<td data-bbox="833 463 869 583"></td>
+<td data-bbox="869 463 905 583"></td>
+<td data-bbox="905 463 941 583"></td>
+<td data-bbox="941 463 969 583"></td>
+</tr>
+<tr>
+<td data-bbox="173 583 281 693"></td>
+<td data-bbox="281 583 653 693">
+<p><b>L'infirmier(e) accompagne la famille d'un polytraumatisé en tenant compte des lésions et de leurs risques de séquelles.</b><br/>
+<b>GRILLE D'ÉVALUATION</b></p>
+<ul>
+<li>• L'infirmière participe à l'évaluation de l'impact des séquelles éventuelles sur le devenir du patient et de ses proches.</li>
+</ul>
+</td>
+<td data-bbox="653 583 689 693"></td>
+<td data-bbox="689 583 725 693"></td>
+<td data-bbox="725 583 761 693"></td>
+<td data-bbox="761 583 797 693"></td>
+<td data-bbox="797 583 833 693"></td>
+<td data-bbox="833 583 869 693"></td>
+<td data-bbox="869 583 905 693"></td>
+<td data-bbox="905 583 941 693"></td>
+<td data-bbox="941 583 969 693"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 98 128 146">8</th>
+<th data-bbox="128 98 501 146">Nutrition du patient de réanimation</th>
+<th data-bbox="501 98 538 146">1</th>
+<th data-bbox="538 98 575 146">2</th>
+<th data-bbox="575 98 612 146">3</th>
+<th data-bbox="612 98 649 146">1</th>
+<th data-bbox="649 98 686 146">2</th>
+<th data-bbox="686 98 723 146">3</th>
+<th data-bbox="723 98 760 146">1</th>
+<th data-bbox="760 98 797 146">2</th>
+<th data-bbox="797 98 824 146">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 146 128 338">Savoir</td>
+<td data-bbox="128 146 501 338">
+<p><b>L'infirmier(e) souligne les besoins nutritionnels du patient « agressé » (présentant au moins une défaillance viscérale) en réanimation.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>Des apports nutritionnels correspondant aux besoins du patient permettent de réduire les risques infectieux, d'améliorer la cicatrisation et de préparer le sevrage de la ventilation mécanique et la convalescence.</i></li>
+</ul>
+</td>
+<td data-bbox="501 146 538 338"></td>
+<td data-bbox="538 146 575 338"></td>
+<td data-bbox="575 146 612 338"></td>
+<td data-bbox="612 146 649 338"></td>
+<td data-bbox="649 146 686 338"></td>
+<td data-bbox="686 146 723 338"></td>
+<td data-bbox="723 146 760 338"></td>
+<td data-bbox="760 146 797 338"></td>
+<td data-bbox="797 146 824 338"></td>
+</tr>
+<tr>
+<td data-bbox="28 338 128 566"></td>
+<td data-bbox="128 338 501 566">
+<p><b>L'infirmier(e) décrit les signes d'intolérance de la nutrition entérale, les moyens de les détecter, de les prévenir et d'y remédier.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'intolérance à la nutrition entérale, définie par la survenue de vomissements ou régurgitations en dehors des périodes de mobilisation et de soins, est détectée, selon les services, par la mesure du résidu gastrique.</i></li>
+<li>• <i>La prévention et le traitement de l'intolérance à la nutrition entérale repose sur la position proclive et l'administration de prokinétiques.</i></li>
+</ul>
+</td>
+<td data-bbox="501 338 538 566"></td>
+<td data-bbox="538 338 575 566"></td>
+<td data-bbox="575 338 612 566"></td>
+<td data-bbox="612 338 649 566"></td>
+<td data-bbox="649 338 686 566"></td>
+<td data-bbox="686 338 723 566"></td>
+<td data-bbox="723 338 760 566"></td>
+<td data-bbox="760 338 797 566"></td>
+<td data-bbox="797 338 824 566"></td>
+</tr>
+<tr>
+<td data-bbox="28 566 128 706"></td>
+<td data-bbox="128 566 501 706">
+<p><b>L'infirmier(e) énumère les difficultés et les risques de la réalimentation orale après sevrage de la ventilation mécanique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>La réalimentation orale après sevrage de la ventilation mécanique peut être contrariée par des troubles de la déglutition avec risques de fausses routes.</i></li>
+</ul>
+</td>
+<td data-bbox="501 566 538 706"></td>
+<td data-bbox="538 566 575 706"></td>
+<td data-bbox="575 566 612 706"></td>
+<td data-bbox="612 566 649 706"></td>
+<td data-bbox="649 566 686 706"></td>
+<td data-bbox="686 566 723 706"></td>
+<td data-bbox="723 566 760 706"></td>
+<td data-bbox="760 566 797 706"></td>
+<td data-bbox="797 566 824 706"></td>
+</tr>
+<tr>
+<td data-bbox="28 706 128 911"></td>
+<td data-bbox="128 706 501 911">
+<p><b>L'infirmier(e) cite les différentes voies d'administration de la nutrition, leurs avantages et inconvénients respectifs.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>La nutrition peut être administrée par voie orale, par voie entérale ou parentérale.</i></li>
+<li>• <i>La nutrition entérale peut se faire par voie orogastrique, nasogastrique, gastrostomie ou jéjunostomie.</i></li>
+<li>• <i>La voie orale est la plus physiologique mais ne peut être assurée chez le patient comateux ou sédaté, et est plus difficile à</i></li>
+</ul>
+</td>
+<td data-bbox="501 706 538 911"></td>
+<td data-bbox="538 706 575 911"></td>
+<td data-bbox="575 706 612 911"></td>
+<td data-bbox="612 706 649 911"></td>
+<td data-bbox="649 706 686 911"></td>
+<td data-bbox="686 706 723 911"></td>
+<td data-bbox="723 706 760 911"></td>
+<td data-bbox="760 706 797 911"></td>
+<td data-bbox="797 706 824 911"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p>quantifier de façon fiable.</p>
+<ul>
+<li>• La voie entérale doit être privilégiée.<br/>Une sonde gastrique majeure les troubles de déglutition.</li>
+<li>• La voie parentérale est bien tolérée, permet de garantir les apports nutritionnels, mais est source de complications infectieuses.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td>
+<p><b>L'infirmier(e) accomplit l'administration des solutés de nutrition entérale ou parentérale utilisés dans son service.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Prépare et pose les solutés de nutrition, et adapte leurs débits selon la prescription et le protocole en vigueur dans son service.</li>
+<li>• Prépare le matériel nécessaire à la pose et l'administration du soluté de nutrition.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) détecte les signes de complications liées aux dispositifs nécessaires à l'administration de la nutrition artificielle.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Détecte les obstructions et malpositions d'une sonde de nutrition entérale.</li>
+<li>• Détecte les obstructions et signes d'infection d'un cathéter de nutrition parentérale.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) anticipe et alerte sur une possible incapacité à garantir les objectifs nutritionnels prescrits.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Prévient le médecin d'un arrêt de la nutrition lié à une complication ou un examen complémentaire.</li>
+<li>• Prévient le médecin d'une situation à risque particulier d'intolérance ou de complication de la nutrition.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) applique les techniques de rééducation de la déglutition.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• Fait appel aux professionnels concernés par la rééducation de la déglutition.</li>
+<li>• Participe à la rééducation de la</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td><i>déglutition de son patient.</i></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) identifie les complications de la réalimentation orale chez un patient sevré de la ventilation mécanique.</b></p>
+<p><b>GRILLE D'ÉVALUATION</b></p>
+<p><i>L'infirmier(e) :</i></p>
+<ul>
+<li>• <i>Détecte les signes se rapportant à des troubles de la déglutition et des fausses routes.</i></li>
+<li>• <i>Fait le lien entre la réalimentation orale et des difficultés respiratoires.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="173 101 281 146">9</th>
+<th data-bbox="281 101 653 146">Installation et Transport du patient de réanimation</th>
+<th data-bbox="653 101 691 146">1</th>
+<th data-bbox="691 101 729 146">2</th>
+<th data-bbox="729 101 767 146">3</th>
+<th data-bbox="767 101 805 146">1</th>
+<th data-bbox="805 101 843 146">2</th>
+<th data-bbox="843 101 881 146">3</th>
+<th data-bbox="881 101 919 146">1</th>
+<th data-bbox="919 101 957 146">2</th>
+<th data-bbox="957 101 972 146">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="173 146 281 391">Savoirs</td>
+<td data-bbox="281 146 653 391">
+<p><b>L'infirmier(e) justifie la préparation et la vérification d'une chambre en fonction de la pathologie.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>L'infirmière liste le matériel de base d'une chambre de réanimation selon la check liste de son service.</i></li>
+<li><i>L'infirmière liste le matériel nécessaire en fonction des principales pathologies présentées par les patients admis dans son service (matelas, monitoring, matériel ou traitements de suppléance).</i></li>
+<li><i>L'infirmière décrit la procédure d'isolement.</i></li>
+</ul>
+</td>
+<td data-bbox="653 146 691 391"></td>
+<td data-bbox="691 146 729 391"></td>
+<td data-bbox="729 146 767 391"></td>
+<td data-bbox="767 146 805 391"></td>
+<td data-bbox="805 146 843 391"></td>
+<td data-bbox="843 146 881 391"></td>
+<td data-bbox="881 146 919 391"></td>
+<td data-bbox="919 146 957 391"></td>
+<td data-bbox="957 146 972 391"></td>
+</tr>
+<tr>
+<td data-bbox="173 391 281 874"></td>
+<td data-bbox="281 391 653 874">
+<p><b>L'infirmier(e) détaille les procédures de transports extra ou intra-hospitaliers de son établissement et de son service (modalités d'organisation, de soins, de surveillance, matériel nécessaire, équipe de transport, rôle de l'infirmière).</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>Les modalités d'organisation du transport incluent la planification du transport en consensus avec les équipes médicales, paramédicales et techniques concernées, et la réunion des documents nécessaires aux différents intervenants.</i></li>
+<li><i>Les modalités de soins incluent :</i>
+<ul>
+<li><i>l'information du patient et de ses proches,</i></li>
+<li><i>la continuité des soins et de la surveillance en cours,</i></li>
+<li><i>la préparation du matériel et du patient en fonction de l'examen ou de l'intervention prévus.</i></li>
+</ul>
+</li>
+<li><i>L'infirmière énumère le matériel spécifique au transport (scope, respirateur, bouteilles de gaz médicaux, ballon auto-remplisseur à valve unidirectionnel, pousses seringues, systèmes d'aspiration, valise d'urgence ou de transport).</i></li>
+</ul>
+</td>
+<td data-bbox="653 391 691 874"></td>
+<td data-bbox="691 391 729 874"></td>
+<td data-bbox="729 391 767 874"></td>
+<td data-bbox="767 391 805 874"></td>
+<td data-bbox="805 391 843 874"></td>
+<td data-bbox="843 391 881 874"></td>
+<td data-bbox="881 391 919 874"></td>
+<td data-bbox="919 391 957 874"></td>
+<td data-bbox="957 391 972 874"></td>
+</tr>
+<tr>
+<td data-bbox="173 874 281 910"></td>
+<td data-bbox="281 874 653 910">
+<p><b>L'infirmier(e) décrit les risques liés au transport.</b></p>
+</td>
+<td data-bbox="653 874 691 910"></td>
+<td data-bbox="691 874 729 910"></td>
+<td data-bbox="729 874 767 910"></td>
+<td data-bbox="767 874 805 910"></td>
+<td data-bbox="805 874 843 910"></td>
+<td data-bbox="843 874 881 910"></td>
+<td data-bbox="881 874 919 910"></td>
+<td data-bbox="919 874 957 910"></td>
+<td data-bbox="957 874 972 910"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="28 83 128 328"></td>
+<td data-bbox="128 83 501 328">
+<p><b>GRILLE D'ÉVALUATION</b></p>
+<p>Les risques liés au transport sont :</p>
+<ul>
+<li>une dégradation de l'état du patient (variations hémodynamiques, obstruction des voies aériennes, majoration de la douleur, éveil, agitation),</li>
+<li>un dysfonctionnement du matériel (batterie absente ou non chargée, absence ou insuffisance de réserve d'O<sub>2</sub>, matériel inadapté à l'examen),</li>
+<li>un retrait ou une déconnexion accidentels de dispositifs invasifs (sonde d'intubation, cathéters).</li>
+</ul>
+</td>
+<td data-bbox="501 83 538 328"></td>
+<td data-bbox="538 83 575 328"></td>
+<td data-bbox="575 83 612 328"></td>
+<td data-bbox="612 83 649 328"></td>
+<td data-bbox="649 83 686 328"></td>
+<td data-bbox="686 83 723 328"></td>
+<td data-bbox="723 83 760 328"></td>
+<td data-bbox="760 83 797 328"></td>
+<td data-bbox="797 83 828 328"></td>
+</tr>
+<tr>
+<td data-bbox="28 328 128 451"><b>Aptitudes</b></td>
+<td data-bbox="128 328 501 451">
+<p><b>L'infirmier(e) prépare la chambre en fonction du patient et de ses pathologies.</b></p>
+<p><b>GRILLE D'ÉVALUATION</b></p>
+<ul>
+<li>L'infirmier(e) réunit le matériel nécessaire à la prise en charge du patient en fonction des pathologies présentées.</li>
+</ul>
+</td>
+<td data-bbox="501 328 538 451"></td>
+<td data-bbox="538 328 575 451"></td>
+<td data-bbox="575 328 612 451"></td>
+<td data-bbox="612 328 649 451"></td>
+<td data-bbox="649 328 686 451"></td>
+<td data-bbox="686 328 723 451"></td>
+<td data-bbox="723 328 760 451"></td>
+<td data-bbox="760 328 797 451"></td>
+<td data-bbox="797 328 828 451"></td>
+</tr>
+<tr>
+<td data-bbox="28 451 128 556"></td>
+<td data-bbox="128 451 501 556">
+<p><b>L'infirmier(e) s'assure du bon fonctionnement du matériel présent dans la chambre.</b></p>
+<p><b>GRILLE D'ÉVALUATION</b></p>
+<ul>
+<li>L'infirmier(e) vérifie le montage et le bon fonctionnement du matériel.</li>
+</ul>
+</td>
+<td data-bbox="501 451 538 556"></td>
+<td data-bbox="538 451 575 556"></td>
+<td data-bbox="575 451 612 556"></td>
+<td data-bbox="612 451 649 556"></td>
+<td data-bbox="649 451 686 556"></td>
+<td data-bbox="686 451 723 556"></td>
+<td data-bbox="723 451 760 556"></td>
+<td data-bbox="760 451 797 556"></td>
+<td data-bbox="797 451 828 556"></td>
+</tr>
+<tr>
+<td data-bbox="28 556 128 903"></td>
+<td data-bbox="128 556 501 903">
+<p><b>L'infirmier(e) prépare et utilise le matériel nécessaire au transport en fonction de l'état du patient, de l'examen ou de l'acte chirurgical.</b></p>
+<p><b>GRILLE D'ÉVALUATION</b></p>
+<p>L'infirmier(e) :</p>
+<ul>
+<li>vérifie le montage et le bon fonctionnement du respirateur de transport</li>
+<li>règle des alarmes du moniteur de transport selon le protocole du service ou la prescription médicale</li>
+<li>sécurise les pansements et dispositifs invasifs</li>
+<li>anticipe et planifie l'administration des traitements en cours et à venir :
+<ul>
+<li>-perméabilité et disponibilité des voies veineuses</li>
+<li>- quantité suffisantes des traitements pour le temps du transport et de</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="501 556 538 903"></td>
+<td data-bbox="538 556 575 903"></td>
+<td data-bbox="575 556 612 903"></td>
+<td data-bbox="612 556 649 903"></td>
+<td data-bbox="649 556 686 903"></td>
+<td data-bbox="686 556 723 903"></td>
+<td data-bbox="723 556 760 903"></td>
+<td data-bbox="760 556 797 903"></td>
+<td data-bbox="797 556 828 903"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td><i>l'examen</i></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) adapte la surveillance et l'installation du patient au retour de l'examen ou de l'intervention en fonction des résultats de ceux-ci.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) s'informe des résultats de l'intervention ou de l'examen.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) prépare le patient en fonction du type d'examen ou d'acte chirurgical (préparation pour le bloc opératoire, le scanner, l'IRM, préparation pour l'angiographie, endoscopie digestive .....).</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) prépare le patient selon les protocoles de son service en fonction du type d'examen ou d'intervention.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 100 128 145">10</th>
+<th data-bbox="128 100 502 145">Le patient en Fin de vie en Réanimation</th>
+<th data-bbox="502 100 538 145">1</th>
+<th data-bbox="538 100 574 145">2</th>
+<th data-bbox="574 100 610 145">3</th>
+<th data-bbox="610 100 646 145">1</th>
+<th data-bbox="646 100 682 145">2</th>
+<th data-bbox="682 100 718 145">3</th>
+<th data-bbox="718 100 754 145">1</th>
+<th data-bbox="754 100 790 145">2</th>
+<th data-bbox="790 100 826 145">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 145 128 475">Savoirs</td>
+<td data-bbox="128 145 502 475">
+<p><b>L'infirmier(e) résume la législation française et les recommandations des sociétés savantes régissant</b></p>
+<ul style="list-style-type: none;">
+<li>○ les limitations des soins</li>
+<li>○ arrêts des thérapeutiques</li>
+<li>○ les soins palliatifs.</li>
+</ul>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Cite le terme d'obstination déraisonnable (acharnement thérapeutique) et l'obligation de l'éviter.</li>
+<li>• Connaît la possibilité de ne pas débuter, de ne pas escalader, voire d'arrêter les thérapeutiques.</li>
+<li>• Cite les modalités de prise de décision (recueil des souhaits du patient, personne de confiance, collégialité, information du patient et des proches, transcription dans le dossier).fait le lien entre les soins de réanimation et les soins palliatifs .</li>
+</ul>
+</td>
+<td data-bbox="502 145 538 475"></td>
+<td data-bbox="538 145 574 475"></td>
+<td data-bbox="574 145 610 475"></td>
+<td data-bbox="610 145 646 475"></td>
+<td data-bbox="646 145 682 475"></td>
+<td data-bbox="682 145 718 475"></td>
+<td data-bbox="718 145 754 475"></td>
+<td data-bbox="754 145 790 475"></td>
+<td data-bbox="790 145 826 475"></td>
+</tr>
+<tr>
+<td data-bbox="28 475 128 595"></td>
+<td data-bbox="128 475 502 595">
+<p><b>L'infirmier(e) identifie les risques de deuil pathologique après un décès en réanimation.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Souligne l'importance des besoins et des souhaits des proches, et propose des solutions pour limiter les risques de deuil pathologique.</li>
+</ul>
+</td>
+<td data-bbox="502 475 538 595"></td>
+<td data-bbox="538 475 574 595"></td>
+<td data-bbox="574 475 610 595"></td>
+<td data-bbox="610 475 646 595"></td>
+<td data-bbox="646 475 682 595"></td>
+<td data-bbox="682 475 718 595"></td>
+<td data-bbox="718 475 754 595"></td>
+<td data-bbox="754 475 790 595"></td>
+<td data-bbox="790 475 826 595"></td>
+</tr>
+<tr>
+<td data-bbox="28 595 128 735"></td>
+<td data-bbox="128 595 502 735">
+<p><b>L'infirmier(e) nomme les outils disponibles dans son service pour la mise en place d'une procédure de limitation ou d'arrêt des thérapeutiques.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Les outils disponibles peuvent être le dossier médical, le dossier de soins, un document spécifique, une procédure écrite.</li>
+</ul>
+</td>
+<td data-bbox="502 595 538 735"></td>
+<td data-bbox="538 595 574 735"></td>
+<td data-bbox="574 595 610 735"></td>
+<td data-bbox="610 595 646 735"></td>
+<td data-bbox="646 595 682 735"></td>
+<td data-bbox="682 595 718 735"></td>
+<td data-bbox="718 595 754 735"></td>
+<td data-bbox="754 595 790 735"></td>
+<td data-bbox="790 595 826 735"></td>
+</tr>
+<tr>
+<td data-bbox="28 735 128 905"></td>
+<td data-bbox="128 735 502 905">
+<p><b>L'infirmier(e) énumère les traitements médicamenteux ou non permettant de soulager la souffrance morale ou physique d'un patient en fin de vie.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• L'infirmier(e) insiste sur l'importance de :
+<ul style="list-style-type: none;">
+<li>○ la continuité des soins de confort (installation, nursing, paroles, soutien psychologique : prendre soin de)</li>
+<li>○ la mise en place d'une sédation et d'une</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="502 735 538 905"></td>
+<td data-bbox="538 735 574 905"></td>
+<td data-bbox="574 735 610 905"></td>
+<td data-bbox="610 735 646 905"></td>
+<td data-bbox="646 735 682 905"></td>
+<td data-bbox="682 735 718 905"></td>
+<td data-bbox="718 735 754 905"></td>
+<td data-bbox="754 735 790 905"></td>
+<td data-bbox="790 735 826 905"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><i>analgésie adaptées et ré évaluées</i></p>
+<ul>
+<li>Cite les différents médicaments possibles (morphiniques ,benzodiazépines ) et justifie l'utilisation de doses parfois élevées.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) liste les personnes ressources pouvant venir en aide aux proches d'un patient en fin de vie en réanimation.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>Les personnes ressources peuvent être les proches, les soignants, la psychologue, les représentants du culte, des visiteurs bénévoles.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitudes</b></td>
+<td>
+<p><b>L'infirmier(e) participe, en collaboration avec un médecin, à l'annonce d'une évolution défavorable au patient ou à ses proches.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) participe systématiquement aux entretiens entre l'équipe soignante, le patient et ses proches ; se positionne en interlocuteur pour répondre à leurs besoins et les retransmettre à l'équipe.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) participe aux prises de décisions relatives à la fin de vie d'un patient.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) s'implique dans le processus décisionnel collégial en donnant les informations utiles à la prise de décision et en faisant part de sa réflexion.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) participe à l'arrêt d'un traitement de suppléance dans le cadre d'une décision collégiale.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) participe à la mise en œuvre de la prescription médicale.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmier(e) évalue et choisit, en concertation avec les différents intervenants, les mesures appropriées pour assurer le confort psychologique et physique du patient de réanimation en fin de vie ainsi que ses proches.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li><i>L'infirmier(e) assure la continuité des soins de confort, réévalue et adapte les besoins en sédation et analgésie, et participe au soutien psychologique du patient et de ses proches.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 101 128 146">11</th>
+<th data-bbox="128 101 501 146">Le patient en situation de Prélèvement Multi Organes</th>
+<th data-bbox="501 101 538 146">1</th>
+<th data-bbox="538 101 575 146">2</th>
+<th data-bbox="575 101 612 146">3</th>
+<th data-bbox="612 101 649 146">1</th>
+<th data-bbox="649 101 686 146">2</th>
+<th data-bbox="686 101 723 146">3</th>
+<th data-bbox="723 101 760 146">1</th>
+<th data-bbox="760 101 797 146">2</th>
+<th data-bbox="797 101 825 146">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 146 128 404">Savoirs</td>
+<td data-bbox="128 146 501 404">
+<p><b>L'infirmier(e) rappelle brièvement les bases physiopathologiques, la définition et les critères diagnostiques de la mort encéphalique.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>La mort encéphalique est définie par l'association de critères cliniques et paracliniques:</i>
+<ul style="list-style-type: none;">
+<li>○ <i>la disparition de tous les réflexes du tronc cérébral,</i></li>
+<li>○ <i>une épreuve d'hypercapnie positive,</i></li>
+<li>○ <i>la constatation de 2 tracés EEG plat à 4 heures d'intervalle ou l'absence de perfusion cérébrale attestée par un angioscanner ou une artériographie.</i></li>
+</ul>
+</li>
+<li>• <i>L'heure de diagnostic de la mort encéphalique définit l'heure de décès.</i></li>
+</ul>
+</td>
+<td data-bbox="501 146 538 404"></td>
+<td data-bbox="538 146 575 404"></td>
+<td data-bbox="575 146 612 404"></td>
+<td data-bbox="612 146 649 404"></td>
+<td data-bbox="649 146 686 404"></td>
+<td data-bbox="686 146 723 404"></td>
+<td data-bbox="723 146 760 404"></td>
+<td data-bbox="760 146 797 404"></td>
+<td data-bbox="797 146 825 404"></td>
+</tr>
+<tr>
+<td data-bbox="28 404 128 621"></td>
+<td data-bbox="128 404 501 621">
+<p><b>L'infirmier(e) décrit le rôle de l'équipe de coordination des prélèvements d'organes et de tissus.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p><i>L'équipe de coordination comprend au moins une infirmière coordinatrice et un médecin dont les missions sont de :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>Vérifier la réalité de la mort encéphalique</i></li>
+<li>• <i>recueillir les données et documents nécessaires aux prélèvements d'organes et de tissus</i></li>
+<li>• <i>participer aux entretiens avec les proches et les accompagner pendant et après le don.</i></li>
+<li>• <i>Prendre en charge le défunt dans le contexte du don.</i></li>
+</ul>
+</td>
+<td data-bbox="501 404 538 621"></td>
+<td data-bbox="538 404 575 621"></td>
+<td data-bbox="575 404 612 621"></td>
+<td data-bbox="612 404 649 621"></td>
+<td data-bbox="649 404 686 621"></td>
+<td data-bbox="686 404 723 621"></td>
+<td data-bbox="723 404 760 621"></td>
+<td data-bbox="760 404 797 621"></td>
+<td data-bbox="797 404 825 621"></td>
+</tr>
+<tr>
+<td data-bbox="28 621 128 792"></td>
+<td data-bbox="128 621 501 792">
+<p><b>L'infirmier(e) décrit les signes cliniques et paracliniques liés à la mort encéphalique.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<p><i>L'infirmière cite les principales modifications physiologiques engendrées par la mort encéphalique :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>polyurie,</i></li>
+<li>• <i>instabilité hémodynamique</i></li>
+<li>• <i>perte de tous les réflexes rendant la surveillance neurologique inutile (l'existence de contractions musculaires étant encore possible).</i></li>
+</ul>
+</td>
+<td data-bbox="501 621 538 792"></td>
+<td data-bbox="538 621 575 792"></td>
+<td data-bbox="575 621 612 792"></td>
+<td data-bbox="612 621 649 792"></td>
+<td data-bbox="649 621 686 792"></td>
+<td data-bbox="686 621 723 792"></td>
+<td data-bbox="723 621 760 792"></td>
+<td data-bbox="760 621 797 792"></td>
+<td data-bbox="797 621 825 792"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="174 83 281 223"><b>Aptitude</b></td>
+<td data-bbox="281 83 654 223">
+<p><b>L'infirmier(e) travaille en collaboration avec la coordination hospitalière.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>L'infirmière transmet les données nécessaires à l'infirmière coordinatrice conformément au protocole.</i></li>
+<li><i>L'infirmière se renseigne sur l'organisation du prélèvement d'organes auprès de la coordination.</i></li>
+</ul>
+</td>
+<td data-bbox="654 83 691 223"></td>
+<td data-bbox="691 83 728 223"></td>
+<td data-bbox="728 83 765 223"></td>
+<td data-bbox="765 83 802 223"></td>
+<td data-bbox="802 83 839 223"></td>
+<td data-bbox="839 83 876 223"></td>
+<td data-bbox="876 83 913 223"></td>
+<td data-bbox="913 83 950 223"></td>
+<td data-bbox="950 83 968 223"></td>
+</tr>
+<tr>
+<td data-bbox="174 223 281 364"></td>
+<td data-bbox="281 223 654 364">
+<p><b>L'infirmier(e) accueille les proches d'un donneur potentiel, les accompagne au cours des différentes démarches, tente de répondre à leurs besoins et leurs interrogations en collaboration avec les différents intervenants.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>L'infirmière assiste aux différents entretiens et est présente dans la chambre auprès des proches .</i></li>
+</ul>
+</td>
+<td data-bbox="654 223 691 364"></td>
+<td data-bbox="691 223 728 364"></td>
+<td data-bbox="728 223 765 364"></td>
+<td data-bbox="765 223 802 364"></td>
+<td data-bbox="802 223 839 364"></td>
+<td data-bbox="839 223 876 364"></td>
+<td data-bbox="876 223 913 364"></td>
+<td data-bbox="913 223 950 364"></td>
+<td data-bbox="950 223 968 364"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 100 128 154">12</th>
+<th data-bbox="128 100 500 154">Prévention du Risque Infectieux Nosocomial chez le patient traité par ventilation mécanique</th>
+<th data-bbox="500 100 538 154">1</th>
+<th data-bbox="538 100 576 154">2</th>
+<th data-bbox="576 100 614 154">3</th>
+<th data-bbox="614 100 652 154">1</th>
+<th data-bbox="652 100 690 154">2</th>
+<th data-bbox="690 100 728 154">3</th>
+<th data-bbox="728 100 766 154">1</th>
+<th data-bbox="766 100 804 154">2</th>
+<th data-bbox="804 100 826 154">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 154 128 621">Savoirs</td>
+<td data-bbox="128 154 500 621">
+<p>L'infirmière rappelle succinctement la physiopathologie de la pneumopathie associée à la ventilation mécanique (PAVM) et précise l'intérêt de la ventilation non invasive dans leur prévention.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Les microinhalations sont le mécanisme principal en cause dans la physiopathologie des PAVM.</li>
+<li>• Les principales mesures permettant de limiter le risque de microinhalations sont :
+<ul style="list-style-type: none;">
+<li>○ La position semi-assise des patients</li>
+<li>○ La surveillance de la pression du ballonnet (fréquence et pression attendue)</li>
+<li>○ La technique des soins du carrefour oro-pharyngé utilisée dans l'unité</li>
+</ul>
+</li>
+<li>• Les mesures prises dans l'unité pour limiter la durée de la ventilation mécanique : arrêt séquentiel, protocole de sevrage.</li>
+<li>• Les indications de VNI les plus susceptibles d'éviter l'intubation sont : BPCO, OAP.</li>
+</ul>
+</td>
+<td data-bbox="500 154 538 621"></td>
+<td data-bbox="538 154 576 621"></td>
+<td data-bbox="576 154 614 621"></td>
+<td data-bbox="614 154 652 621"></td>
+<td data-bbox="652 154 690 621"></td>
+<td data-bbox="690 154 728 621"></td>
+<td data-bbox="728 154 766 621"></td>
+<td data-bbox="766 154 804 621"></td>
+<td data-bbox="804 154 826 621"></td>
+</tr>
+<tr>
+<td data-bbox="28 621 128 846"></td>
+<td data-bbox="128 621 500 846">
+<p>L'infirmière cite les différents intervenants dans la lutte contre les infections nosocomiales (CLIN, UHLIN, EOH, référents en hygiène).</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière :</p>
+<ul style="list-style-type: none;">
+<li>• nomme les référents médecin et IDE en hygiène de l'unité</li>
+<li>• nomme le ou les médecins hygiénistes et le ou les IDE hygiénistes intervenant dans l'unité.</li>
+<li>• localise les différents documents de prévention proposé par le CLIN.</li>
+</ul>
+</td>
+<td data-bbox="500 621 538 846"></td>
+<td data-bbox="538 621 576 846"></td>
+<td data-bbox="576 621 614 846"></td>
+<td data-bbox="614 621 652 846"></td>
+<td data-bbox="652 621 690 846"></td>
+<td data-bbox="690 621 728 846"></td>
+<td data-bbox="728 621 766 846"></td>
+<td data-bbox="766 621 804 846"></td>
+<td data-bbox="804 621 826 846"></td>
+</tr>
+<tr>
+<td data-bbox="28 846 128 896"></td>
+<td data-bbox="128 846 500 896">
+<p>L'infirmière énumère les éléments cliniques de suspicion et les critères diagnostiques d'une PAVM.</p>
+</td>
+<td data-bbox="500 846 538 896"></td>
+<td data-bbox="538 846 576 896"></td>
+<td data-bbox="576 846 614 896"></td>
+<td data-bbox="614 846 652 896"></td>
+<td data-bbox="652 846 690 896"></td>
+<td data-bbox="690 846 728 896"></td>
+<td data-bbox="728 846 766 896"></td>
+<td data-bbox="766 846 804 896"></td>
+<td data-bbox="804 846 826 896"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="173 83 281 206"></td>
+<td data-bbox="281 83 653 206">
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li><i>les moyens diagnostiques des PAVM sont les signes cliniques (fièvre, désaturation et aspects des sécrétions), la radiographie thoracique et la ou les techniques de prélèvement utilisées dans l'unité.</i></li>
+</ul>
+</td>
+<td data-bbox="653 83 689 206"></td>
+<td data-bbox="689 83 725 206"></td>
+<td data-bbox="725 83 761 206"></td>
+<td data-bbox="761 83 797 206"></td>
+<td data-bbox="797 83 833 206"></td>
+<td data-bbox="833 83 869 206"></td>
+<td data-bbox="869 83 905 206"></td>
+<td data-bbox="905 83 941 206"></td>
+<td data-bbox="941 83 969 206"></td>
+</tr>
+<tr>
+<td data-bbox="173 206 281 481"></td>
+<td data-bbox="281 206 653 481">
+<p><b>L'infirmière détaille les moyens de prévention des infections nosocomiales du patient ventilé (principes, modalités, précautions standards, différentes mesures d'isolement, utilisation des SHA, aspiration trachéale).</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmière :</i></p>
+<ul>
+<li><i>décrit les précautions standard et les précautions complémentaires contact ("isolement")</i></li>
+<li><i>décrit la politique du service concernant les patients porteurs de germes multirésistants (quels germes, dépistage, précautions complémentaires contact (PCC, ex isolement)).</i></li>
+</ul>
+</td>
+<td data-bbox="653 206 689 481"></td>
+<td data-bbox="689 206 725 481"></td>
+<td data-bbox="725 206 761 481"></td>
+<td data-bbox="761 206 797 481"></td>
+<td data-bbox="797 206 833 481"></td>
+<td data-bbox="833 206 869 481"></td>
+<td data-bbox="869 206 905 481"></td>
+<td data-bbox="905 206 941 481"></td>
+<td data-bbox="941 206 969 481"></td>
+</tr>
+<tr>
+<td data-bbox="173 481 281 757"><b>Aptitudes</b></td>
+<td data-bbox="281 481 653 757">
+<p><b>L'infirmière applique les mesures de prévention des infections nosocomiales et du personnel lors des soins du patient traité par ventilation mécanique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmière :</i></p>
+<ul>
+<li><i>utilise les SHA conformément aux indications</i></li>
+<li><i>Met en oeuvre la technique d'aspiration trachéale avec les précautions d'asepsie utiles.</i></li>
+<li><i>Maintient le patient installé en position semi-assise</i></li>
+<li><i>Surveille, reporte et alerte sur les modifications de la pression du ballonnet de la sonde d'intubation.</i></li>
+</ul>
+</td>
+<td data-bbox="653 481 689 757"></td>
+<td data-bbox="689 481 725 757"></td>
+<td data-bbox="725 481 761 757"></td>
+<td data-bbox="761 481 797 757"></td>
+<td data-bbox="797 481 833 757"></td>
+<td data-bbox="833 481 869 757"></td>
+<td data-bbox="869 481 905 757"></td>
+<td data-bbox="905 481 941 757"></td>
+<td data-bbox="941 481 969 757"></td>
+</tr>
+</table><table border="1">
+<thead>
+<tr>
+<th data-bbox="28 101 111 146">13</th>
+<th data-bbox="111 101 514 146">Compétences complémentaires de l'IDE de Réanimation Pédiatrique</th>
+<th data-bbox="514 101 551 146">1</th>
+<th data-bbox="551 101 588 146">2</th>
+<th data-bbox="588 101 625 146">3</th>
+<th data-bbox="625 101 662 146">1</th>
+<th data-bbox="662 101 699 146">2</th>
+<th data-bbox="699 101 736 146">3</th>
+<th data-bbox="736 101 773 146">1</th>
+<th data-bbox="773 101 810 146">2</th>
+<th data-bbox="810 101 826 146">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-bbox="28 146 111 338">Savoirs</td>
+<td data-bbox="111 146 514 338">
+<p>L'infirmière cite les valeurs des constantes vitales et leur variation en fonction de l'âge de l'enfant.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p>L'infirmière rappelle les valeurs moyennes des constantes vitales et leur variabilité en fonction de l'âge de l'enfant</p>
+<ul style="list-style-type: none;">
+<li>■ De 0 à 1 mois</li>
+<li>■ De 1 mois à 24 mois</li>
+<li>■ De 2 ans à 7 ans</li>
+<li>■ De 7 ans à 15 ans</li>
+</ul>
+</td>
+<td data-bbox="514 146 551 338"></td>
+<td data-bbox="551 146 588 338"></td>
+<td data-bbox="588 146 625 338"></td>
+<td data-bbox="625 146 662 338"></td>
+<td data-bbox="662 146 699 338"></td>
+<td data-bbox="699 146 736 338"></td>
+<td data-bbox="736 146 773 338"></td>
+<td data-bbox="773 146 810 338"></td>
+<td data-bbox="810 146 826 338"></td>
+</tr>
+<tr>
+<td data-bbox="28 338 111 631"></td>
+<td data-bbox="111 338 514 631">
+<p>L'infirmière décrit les modalités et la surveillance de la ventilation mécanique spécifiques à la pédiatrie.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• Les différents types de respirateurs</li>
+<li>• L'adaptation de la taille des tuyaux en fonction du poids de l'enfant</li>
+<li>• Les modes de ventilation les plus utilisés en pédiatrie : pression contrôlée, haute fréquence, CPAP</li>
+<li>• L'utilisation de capteurs de débit proximaux</li>
+<li>• Les outils de surveillance (SaO<sub>2</sub>, TcPO<sub>2</sub>, TcPCO<sub>2</sub>, EtCO<sub>2</sub>)</li>
+<li>• Les valeurs de surveillance spécifiques à la pédiatrie (risque particulier d'hyperoxie)</li>
+<li>• Les voies d'intubations et les moyens de fixation des sondes.</li>
+</ul>
+</td>
+<td data-bbox="514 338 551 631"></td>
+<td data-bbox="551 338 588 631"></td>
+<td data-bbox="588 338 625 631"></td>
+<td data-bbox="625 338 662 631"></td>
+<td data-bbox="662 338 699 631"></td>
+<td data-bbox="699 338 736 631"></td>
+<td data-bbox="736 338 773 631"></td>
+<td data-bbox="773 338 810 631"></td>
+<td data-bbox="810 338 826 631"></td>
+</tr>
+<tr>
+<td data-bbox="28 631 111 874"></td>
+<td data-bbox="111 631 514 874">
+<p>L'infirmière décrit les modalités et les techniques d'alimentation en fonction de l'âge et du terme des enfants.</p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul style="list-style-type: none;">
+<li>• les différents modes d'alimentation chez l'enfant sont : La tétée, la nutrition entérale gastrique continue, la nutrition entérale gastrique discontinue, la nutrition entérale à la tulipe, l'allaitement maternel</li>
+<li>• les spécificités la nutrition entérale pédiatrique sont : la position proclive, le décubitus ventral, l'utilisation d'épaississant, la pose de la sonde gastrique, la gestion des résidus gastriques.</li>
+</ul>
+</td>
+<td data-bbox="514 631 551 874"></td>
+<td data-bbox="551 631 588 874"></td>
+<td data-bbox="588 631 625 874"></td>
+<td data-bbox="625 631 662 874"></td>
+<td data-bbox="662 631 699 874"></td>
+<td data-bbox="699 631 736 874"></td>
+<td data-bbox="736 631 773 874"></td>
+<td data-bbox="773 631 810 874"></td>
+<td data-bbox="810 631 826 874"></td>
+</tr>
+<tr>
+<td data-bbox="28 874 111 908"></td>
+<td data-bbox="111 874 514 908">
+<p>L'infirmière détaille les gestes d'urgence adaptés au poids et à l'âge de l'enfant.</p>
+</td>
+<td data-bbox="514 874 551 908"></td>
+<td data-bbox="551 874 588 908"></td>
+<td data-bbox="588 874 625 908"></td>
+<td data-bbox="625 874 662 908"></td>
+<td data-bbox="662 874 699 908"></td>
+<td data-bbox="699 874 736 908"></td>
+<td data-bbox="736 874 773 908"></td>
+<td data-bbox="773 874 810 908"></td>
+<td data-bbox="810 874 826 908"></td>
+</tr>
+</tbody>
+</table><table border="1">
+<tr>
+<td data-bbox="173 83 264 464"></td>
+<td data-bbox="264 83 666 464">
+<p><b>GRILLE D'ÉVALUATION</b><br/>
+<i>Les spécificités des gestes d'urgence chez l'enfant sont :</i></p>
+<ul>
+<li>• 80% des ACR sont d'origine hypoxique.</li>
+<li>• Les bases de la gestion de l'ACR en pédiatrie : la priorité est à la désobstruction des voies aériennes et à l'apport d'oxygène par ventilation.</li>
+<li>• les différentes techniques de MCE en fonction de l'âge : à 2 mains par encerclement du thorax chez le nouveau-né, à 2 doigts chez le nourrisson, à une main chez l'enfant puis à 2 mains chez le grand enfant.</li>
+<li>• les différentes fréquences et pressions de ventilation au ballon auto-remplissable à valve unidirectionnelle (BAVU).</li>
+<li>• L'utilisation de la valve de surpression chez le petit enfant.</li>
+<li>• La nécessité d'adapter les posologies des drogues de réanimation au poids de l'enfant.</li>
+</ul>
+</td>
+<td data-bbox="666 83 701 464"></td>
+<td data-bbox="701 83 736 464"></td>
+<td data-bbox="736 83 771 464"></td>
+<td data-bbox="771 83 806 464"></td>
+<td data-bbox="806 83 841 464"></td>
+<td data-bbox="841 83 876 464"></td>
+<td data-bbox="876 83 911 464"></td>
+<td data-bbox="911 83 946 464"></td>
+<td data-bbox="946 83 971 464"></td>
+</tr>
+<tr>
+<td data-bbox="173 464 264 671"></td>
+<td data-bbox="264 464 666 671">
+<p><b>L'infirmière précise les posologies des médicaments en fonction du poids et de l'âge de l'enfant.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>La prescription doit légalement comporter :</i></p>
+<ul>
+<li>• le nom de l'enfant</li>
+<li>• l'âge de l'enfant</li>
+<li>• le poids</li>
+<li>• le nom du médicament</li>
+<li>• la posologie en mg /kg ou mg /m<sup>2</sup></li>
+<li>• la dilution à utiliser</li>
+<li>• la durée de perfusion</li>
+</ul>
+</td>
+<td data-bbox="666 464 701 671"></td>
+<td data-bbox="701 464 736 671"></td>
+<td data-bbox="736 464 771 671"></td>
+<td data-bbox="771 464 806 671"></td>
+<td data-bbox="806 464 841 671"></td>
+<td data-bbox="841 464 876 671"></td>
+<td data-bbox="876 464 911 671"></td>
+<td data-bbox="911 464 946 671"></td>
+<td data-bbox="946 464 971 671"></td>
+</tr>
+<tr>
+<td data-bbox="173 671 264 910"></td>
+<td data-bbox="264 671 666 910">
+<p><b>L'infirmière reconnaît le développement psychomoteur et les acquisitions.</b><br/>
+<b>GRILLE D'ÉVALUATION</b><br/>
+<i>Les principales étapes du développement psychomoteur sont :</i></p>
+<p>0 à 4 mois</p>
+<ul>
+<li>Joue avec ses mains</li>
+<li>Tient sa nuque</li>
+<li>Suit du regard latéralement sur 180°</li>
+</ul>
+<p>5 à 8 mois</p>
+<ul>
+<li>Première poussée dentaire</li>
+<li>Tient la position assise</li>
+<li>Passe un objet d'une main à l'autre</li>
+<li>Marche à quatre pattes</li>
+</ul>
+<p>9 à 12 mois</p>
+</td>
+<td data-bbox="666 671 701 910"></td>
+<td data-bbox="701 671 736 910"></td>
+<td data-bbox="736 671 771 910"></td>
+<td data-bbox="771 671 806 910"></td>
+<td data-bbox="806 671 841 910"></td>
+<td data-bbox="841 671 876 910"></td>
+<td data-bbox="876 671 911 910"></td>
+<td data-bbox="911 671 946 910"></td>
+<td data-bbox="946 671 971 910"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="26 80 111 666"></td>
+<td data-bbox="111 80 514 666">
+<p>S'assoit seul<br/>Tient debout avec appui<br/>1 an à 18 mois<br/>Marche seul<br/>entre 2 ans et 3 ans<br/>propreté la nuit<br/>demande à boire et à manger<br/>phrases simples 2 à 3 mots</p>
+<p><i>Alimentation</i></p>
+<p>0 à 1 mois<br/>6 à 8 biberons/ 24h<br/>2 mois à 6 mois<br/>4 à 6 biberons/ 24h<br/>6 mois à 1 an<br/>Diversification alimentaire<br/>Repas mixé</p>
+<p>1 an<br/>Boit au verre<br/>Mange des petits morceaux</p>
+<p>2 à 3 ans<br/>Veut manger seul</p>
+<p><i>Communication</i></p>
+<p>1 à 3 mois<br/>Gazouille<br/>Sourire réponse</p>
+<p>6 mois<br/>Orientation au son<br/>Distingue les visages familiers</p>
+<p>9 mois<br/>Peur de l'étranger<br/>Détresse au départ de sa mère</p>
+<p>15 mois<br/>montre du doigt ce qu'il désire</p>
+<p>2 ans<br/>Obéit aux ordres simples</p>
+<p>3 ans<br/>S'habille seul</p>
+</td>
+<td data-bbox="514 80 548 666"></td>
+<td data-bbox="548 80 582 666"></td>
+<td data-bbox="582 80 616 666"></td>
+<td data-bbox="616 80 650 666"></td>
+<td data-bbox="650 80 684 666"></td>
+<td data-bbox="684 80 718 666"></td>
+<td data-bbox="718 80 752 666"></td>
+<td data-bbox="752 80 786 666"></td>
+<td data-bbox="786 80 820 666"></td>
+</tr>
+<tr>
+<td data-bbox="26 666 111 906"></td>
+<td data-bbox="111 666 514 906">
+<p><b>L'infirmière cite les différentes échelles d'évaluation de la douleur adaptées à la pédiatrie.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>L'infirmière énumère les échelles utilisées et mentionne qu'elles sont dépendantes de l'âge et de la capacité de l'enfant à communiquer.</li>
+<li>Les échelles d'hétéro-évaluation sont à utiliser avant de l'âge de 3 ans
+<ul>
+<li>DAN (douleur aigüe du nouveau-né) douleur ponctuelle</li>
+<li>EDIN (Echelle d'évaluation de la douleur et de l'inconfort en</li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="514 666 548 906"></td>
+<td data-bbox="548 666 582 906"></td>
+<td data-bbox="582 666 616 906"></td>
+<td data-bbox="616 666 650 906"></td>
+<td data-bbox="650 666 684 906"></td>
+<td data-bbox="684 666 718 906"></td>
+<td data-bbox="718 666 752 906"></td>
+<td data-bbox="752 666 786 906"></td>
+<td data-bbox="786 666 820 906"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="173 83 264 241"></td>
+<td data-bbox="264 83 666 241">
+<p style="text-align: right;"><i>néonatologie) douleur prolongée</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>Comfort scale</i></li>
+<li>• <i>Les échelles d'auto-évaluation ne sont utilisables qu'à partir de l'âge de 3 ans</i>
+<ul style="list-style-type: none;">
+<li>• <i>Echelle des jetons (3 à 4 ans)</i></li>
+<li>• <i>Echelles des visages (3 à 4ans)</i></li>
+<li>• <i>EVA verticale (6 à 7 ans)</i></li>
+<li>• <i>Echelle numérique simple (vers 10 ans-collège)</i></li>
+</ul>
+</li>
+</ul>
+</td>
+<td data-bbox="666 83 701 241"></td>
+<td data-bbox="701 83 736 241"></td>
+<td data-bbox="736 83 771 241"></td>
+<td data-bbox="771 83 806 241"></td>
+<td data-bbox="806 83 841 241"></td>
+<td data-bbox="841 83 876 241"></td>
+<td data-bbox="876 83 911 241"></td>
+<td data-bbox="911 83 946 241"></td>
+<td data-bbox="946 83 971 241"></td>
+</tr>
+<tr>
+<td data-bbox="173 241 264 449"></td>
+<td data-bbox="264 241 666 449">
+<p><b>L'infirmière énumère les méthodes non médicamenteuses de lutte contre la douleur chez l'enfant.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>Les méthodes non médicamenteuses de lutte contre la douleur chez l'enfant sont :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>L'utilisation des solutions sucrées jusqu'à 3 mois</i></li>
+<li>• <i>Les effets antalgiques de la mise au sein</i></li>
+<li>• <i>La distraction pour la prévention des douleurs provoquées</i></li>
+<li>• <i>Le peau à peau</i></li>
+</ul>
+</td>
+<td data-bbox="666 241 701 449"></td>
+<td data-bbox="701 241 736 449"></td>
+<td data-bbox="736 241 771 449"></td>
+<td data-bbox="771 241 806 449"></td>
+<td data-bbox="806 241 841 449"></td>
+<td data-bbox="841 241 876 449"></td>
+<td data-bbox="876 241 911 449"></td>
+<td data-bbox="911 241 946 449"></td>
+<td data-bbox="946 241 971 449"></td>
+</tr>
+<tr>
+<td data-bbox="173 449 264 657"></td>
+<td data-bbox="264 449 666 657">
+<p><b>L'infirmière énumère les principales pathologies spécifiques à l'enfant en réanimation.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>Les pathologies médicales et chirurgicales découvertes après la naissance sont :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>les pathologies cardiaques dépendantes du canal artériel,</i></li>
+<li>• <i>les pathologies liées à des troubles du métabolisme ou de l'immunité, les malformations cérébrales, pulmonaires, digestives ou rénales,</i></li>
+<li>• <i>la mucoviscidose.</i></li>
+</ul>
+</td>
+<td data-bbox="666 449 701 657"></td>
+<td data-bbox="701 449 736 657"></td>
+<td data-bbox="736 449 771 657"></td>
+<td data-bbox="771 449 806 657"></td>
+<td data-bbox="806 449 841 657"></td>
+<td data-bbox="841 449 876 657"></td>
+<td data-bbox="876 449 911 657"></td>
+<td data-bbox="911 449 946 657"></td>
+<td data-bbox="946 449 971 657"></td>
+</tr>
+<tr>
+<td data-bbox="173 657 264 896"></td>
+<td data-bbox="264 657 666 896">
+<p><b>L'infirmière indique les spécificités pédiatriques de la réglementation en matières d'éthique, de droit de l'enfant et d'autorité parentale.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmière rappelle les notions de :</i></p>
+<ul style="list-style-type: none;">
+<li>• <i>Autorité parentale</i></li>
+<li>• <i>Consentement éclairé des parents</i></li>
+<li>• <i>Spécificité de la recherche clinique en pédiatrie</i></li>
+<li>• <i>Inscription sur liste de donneur volontaire à partir de 13 ans</i></li>
+<li>• <i>Charte de l'enfant hospitalisé</i></li>
+<li>• <i>Protection de l'enfance, problématique de la maltraitance.</i></li>
+</ul>
+</td>
+<td data-bbox="666 657 701 896"></td>
+<td data-bbox="701 657 736 896"></td>
+<td data-bbox="736 657 771 896"></td>
+<td data-bbox="771 657 806 896"></td>
+<td data-bbox="806 657 841 896"></td>
+<td data-bbox="841 657 876 896"></td>
+<td data-bbox="876 657 911 896"></td>
+<td data-bbox="911 657 946 896"></td>
+<td data-bbox="946 657 971 896"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière commente les principales spécificités des soins et du matériel de réanimation en pédiatrie.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li>• Notion de relation triangulaire patient parents soignants.</li>
+<li>• Nécessité de faire participer les parents aux soins.</li>
+<li>• Méthodes de prélèvements en micro-méthode, en capillaire, sur cathéter spécifiques aux patients de pédiatrie</li>
+<li>• Différents types de cathéter spécifiques aux petits enfants (cathéters ombilicaux, cathéters epicutanéo-caves).</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière décrit les contraintes de l'allaitement maternel liées à l'hospitalisation en réanimation.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li>• L'infirmière cite la possibilité :
+<ul>
+<li>○ de faire un don de lait au lactarium</li>
+<li>○ de faire un don dirigé</li>
+<li>○ de tirer son lait dans le service pour le donner à son enfant.</li>
+</ul>
+</li>
+<li>• L'infirmière rappelle les modalités de stockage de lait maternel en secteur hospitalier.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Aptitude</b></td>
+<td>
+<p><b>L'infirmière utilise le matériel et techniques de soins spécifiques à la pédiatrie en l'adaptant à l'âge et au poids de l'enfant.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li>• L'infirmière choisit lors des soins et dans l'urgence le matériel au poids, à la taille et à l'âge de l'enfant.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière adapte la surveillance des fonctions vitales des patients en fonction de leur âge et de leur poids.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+<ul>
+<li>• L'infirmière règle les alarmes du moniteur de surveillance et du respirateur en les adaptant à l'âge de l'enfant et à sa pathologie.</li>
+<li>• L'infirmière utilise les moyens adaptés à la prévention du retrait accidentel des dispositifs invasifs.</li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière vérifie une prescription médicale en fonction de l'âge et du poids de l'enfant.</b></p>
+<p><i>GRILLE D'EVALUATION</i></p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td>
+<ul>
+<li>• <i>L'infirmière contrôle les prescriptions médicales en tenant compte de l'âge de l'enfant, de son poids et du protocole du service.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière identifie la douleur chez l'enfant en adaptant les échelles de mesure.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'infirmière évalue, en choisissant l'échelle adaptée, la douleur avant et pendant les soins afin d'adapter la sédation et l'analgésie.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière fait participer les parents aux soins de façon adaptée.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'infirmière restitue aux parents leur rôle en les faisant participer aux soins de base (nursing) dans la limite de leur volonté et de leur capacité.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière participe à la gestion de l'angoisse et de la peur de l'enfant en situation de détresse vitale.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<p><i>L'infirmière communique en situation de détresse vitale en adaptant son discours et ses gestes en fonction de l'âge et de sa capacité de compréhension de l'enfant.</i></p>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière identifie les besoins nutritionnels et adapte les stratégies d'alimentation selon l'âge de l'enfant et son état clinique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'infirmière met en place le mode d'alimentation avec le matériel adapté selon la prescription</i></li>
+<li>• <i>L'infirmière évalue la tolérance digestive de l'enfant (résidus gastriques, transit, aspect des selles)</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière prend en compte l'éveil de l'enfant pour adapter ses soins.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'infirmière adapte ses soins auprès des patients en respectant les rythmes physiologiques spécifiques de l'enfant.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<p><b>L'infirmière stimule l'éveil de l'enfant par l'apport d'éléments de distraction adaptés à l'âge de l'enfant et à son état clinique.</b></p>
+<p><i>GRILLE D'ÉVALUATION</i></p>
+<ul>
+<li>• <i>L'infirmière intègre dans les soins des</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td></td>
+<td><i>stimulations ludiques et d'éveil en fonction des capacités de l'enfant.</i></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<b>L'infirmière permet dans la mesure du possible l'application des rites religieux souhaités par les parents.</b><br/>
+<i>GRILLE D'ÉVALUATION</i>
+<ul>
+<li><i>L'infirmière connaît les pratiques religieuses particulières aux enfants en fonction de la religion des parents.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table><table border="1">
+<tr>
+<td data-bbox="173 101 278 138"><b>14</b></td>
+<td data-bbox="281 101 651 138"><b>Compétences complémentaires en pansements et drainages complexes</b></td>
+<td data-bbox="654 101 691 138"><b>1</b></td>
+<td data-bbox="694 101 731 138"><b>2</b></td>
+<td data-bbox="734 101 771 138"><b>3</b></td>
+<td data-bbox="774 101 811 138"><b>1</b></td>
+<td data-bbox="814 101 851 138"><b>2</b></td>
+<td data-bbox="854 101 891 138"><b>3</b></td>
+<td data-bbox="894 101 931 138"><b>1</b></td>
+<td data-bbox="934 101 971 138"><b>2</b></td>
+<td data-bbox="974 101 1000 138"><b>3</b></td>
+</tr>
+<tr>
+<td data-bbox="173 141 278 501"><b>Savoirs</b></td>
+<td data-bbox="281 141 651 501">
+<p><b>Décrit la fonction, l'installation et le positionnement des différents pansements et dispositifs de drainage :</b></p>
+<ul style="list-style-type: none;">
+<li>○ <b>drains spiralés,</b></li>
+<li>○ <b>Mickulitz,</b></li>
+<li>○ <b>Kherr,</b></li>
+<li>○ <b>drains d'autotransfusion</b></li>
+<li>○ <b>drains pleuraux</b></li>
+<li>○ <b>drainage de LCR</b></li>
+<li>○ <b>pansements en pression négative</b></li>
+<li>○ <b>autres</b></li>
+</ul>
+<p><i>Grille d'évaluation :</i></p>
+<ul style="list-style-type: none;">
+<li>○ <i>lieux d'insertions possibles et rapports anatomiques</i></li>
+<li>○ <i>aspect et débit du recueil : nature, densité, couleur...</i></li>
+<li>○ <i>type de drainage : tubulaire, champs...</i></li>
+<li>○ <i>drainages déclinés, aspiratifs, lavages, mesure de pression associée...</i></li>
+<li>○ <i>aspect local de la zone d'insertion</i></li>
+<li>○ <i>nécessité de la traçabilité</i></li>
+</ul>
+</td>
+<td data-bbox="654 141 691 501"></td>
+<td data-bbox="694 141 731 501"></td>
+<td data-bbox="734 141 771 501"></td>
+<td data-bbox="774 141 811 501"></td>
+<td data-bbox="814 141 851 501"></td>
+<td data-bbox="854 141 891 501"></td>
+<td data-bbox="894 141 931 501"></td>
+<td data-bbox="934 141 971 501"></td>
+<td data-bbox="974 141 1000 501"></td>
+</tr>
+<tr>
+<td data-bbox="173 504 278 828"><b>Aptitudes</b></td>
+<td data-bbox="281 504 651 828">
+<p><b>Applique les prescriptions et les protocoles pour l'installation du patient en fonction des pansements et des dispositifs de drainage mis en place:</b></p>
+<ul style="list-style-type: none;">
+<li>○ <b>drains spiralés,</b></li>
+<li>○ <b>Mickulitz,</b></li>
+<li>○ <b>Kherr,</b></li>
+<li>○ <b>drains d'autotransfusion</b></li>
+<li>○ <b>drains pleuraux</b></li>
+<li>○ <b>drainage de LCR</b></li>
+<li>○ <b>pansements en pression négative</b></li>
+<li>○ <b>autres</b></li>
+</ul>
+<p><i>Grille d'évaluation</i></p>
+<ul style="list-style-type: none;">
+<li>○ <i>prépare le matériel adapté au type de drainage</i></li>
+<li>○ <i>met en place le matériel et s'assure du fonctionnement</i></li>
+<li>○ <i>planifie et assure les surveillances nécessaires</i></li>
+</ul>
+</td>
+<td data-bbox="654 504 691 828"></td>
+<td data-bbox="694 504 731 828"></td>
+<td data-bbox="734 504 771 828"></td>
+<td data-bbox="774 504 811 828"></td>
+<td data-bbox="814 504 851 828"></td>
+<td data-bbox="854 504 891 828"></td>
+<td data-bbox="894 504 931 828"></td>
+<td data-bbox="934 504 971 828"></td>
+<td data-bbox="974 504 1000 828"></td>
+</tr>
+<tr>
+<td data-bbox="173 831 278 900"></td>
+<td data-bbox="281 831 651 900">
+<p><b>Surveille et alerte en cas d'anomalie :</b></p>
+<p><i>Grille d'évaluation :</i></p>
+<ul style="list-style-type: none;">
+<li>○ <i>positionne le matériel en tenant compte de l'installation du patient</i></li>
+</ul>
+</td>
+<td data-bbox="654 831 691 900"></td>
+<td data-bbox="694 831 731 900"></td>
+<td data-bbox="734 831 771 900"></td>
+<td data-bbox="774 831 811 900"></td>
+<td data-bbox="814 831 851 900"></td>
+<td data-bbox="854 831 891 900"></td>
+<td data-bbox="894 831 931 900"></td>
+<td data-bbox="934 831 971 900"></td>
+<td data-bbox="974 831 1000 900"></td>
+</tr>
+</table><table border="1">
+<tr>
+<td rowspan="3"></td>
+<td>
+<ul>
+<li>○ <i>quantifie les recueils horaires et cumulés</i></li>
+<li>○ <i>décrit la qualité des recueils : saignements, liquide digestif, pus...</i></li>
+<li>○ <i>apprécie les changements de nature du recueil</i></li>
+<li>○ <i>assure la surveillance clinique avec l'évolution du recueil</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<b>Entretien et traçabilité des dispositifs de recueil</b><br/>
+<i>Grille d'évaluation :</i>
+<ul>
+<li>○ <i>planifie la réfection des pansements en accord avec les protocoles du service</i></li>
+<li>○ <i>informe, installe, prépare le patient et réalise la réfection du dispositif</i></li>
+<li>○ <i>utilise le protocole du service pour la surveillance biologique, cytologique et bactériologique du recueil.</i></li>
+<li>○ <i>Adapte les changements des équipements au volume recueilli et se conforme aux protocoles du service</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<b>Modalités d'ablation de ces dispositifs</b><br/>
+<i>Grille d'évaluation :</i>
+<ul>
+<li>○ <i>Informe, installe et prépare le patient</i></li>
+<li>○ <i>Réalise ou aide à l'ablation du dispositif</i></li>
+<li>○ <i>Applique le protocole du service pour la surveillance bactériologique des dispositifs invasifs.</i></li>
+<li>○ <i>Assure la traçabilité terminale.</i></li>
+</ul>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>

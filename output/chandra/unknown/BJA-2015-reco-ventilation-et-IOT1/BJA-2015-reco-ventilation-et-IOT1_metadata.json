@@ -1,0 +1,273 @@
+{
+  "file_name": "BJA-2015-reco-ventilation-et-IOT1.pdf",
+  "num_pages": 22,
+  "total_token_count": 54742,
+  "total_chunks": 268,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1761,
+      "num_chunks": 19,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1685,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2409,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2262,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2618,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2756,
+      "num_chunks": 26,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1877,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2630,
+      "num_chunks": 28,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2515,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1811,
+      "num_chunks": 15,
+      "num_images": 1
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1336,
+      "num_chunks": 11,
+      "num_images": 1
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 1562,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2219,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2655,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3041,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3052,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3149,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3337,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3224,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3087,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 3057,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 21,
+      "page_box": [
+        0,
+        0,
+        1633,
+        2109
+      ],
+      "token_count": 2699,
+      "num_chunks": 4,
+      "num_images": 0
+    }
+  ]
+}

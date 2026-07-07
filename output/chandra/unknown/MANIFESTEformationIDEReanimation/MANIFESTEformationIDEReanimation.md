@@ -1,0 +1,67 @@
+## RECOMMANDATIONS POUR UNE FORMATION SPECIFIQUE ET UNE RECONNAISSANCE DU METIER D'INFIRMIER DE REANIMATION
+
+*Toute IDE travaillant en réanimation doit être formée pour.*
+
+Les conseils d'administration de la Société de Réanimation de Langue Française (SRLF), du Collège de Réanimation et médecine d'Urgence des hôpitaux Extra-Universitaires de France (CREUF), du Groupe Francophone de Réanimation et Urgences Pédiatriques (GFRUP) et de la Société Française d'Anesthésie et de Réanimation (SFAR) ont décidé de s'engager sur la formation et les métiers d'infirmiers en réanimation. En effet, l'évidence selon laquelle "tout infirmier travaillant en réanimation doit être formé pour" doit encore trop souvent être démontrée et n'a pas de support institutionnel.
+
+### La formation des infirmiers en France se divise actuellement en 3 types:
+
+#### – La formation initiale conduisant au Diplôme d'Etat d'infirmier (DE):
+
+L'ancien programme" définissant la formation initiale menant au DE d'infirmier sera en vigueur jusqu'à fin 2011. Il prépare en un peu plus de trois ans des « infirmiers en soins généraux ». Le module "urgence, réanimation et transfusion sanguine" est limité à 80 heures de cours théoriques sur un total de 4760 heures de formation dont 2240 de cours magistraux. Cet enseignement s'accompagne d'un stage clinique de 4 semaines en réanimation, urgence ou bloc opératoire. Dans le meilleur des cas, l'étudiant peut choisir de clochurer sa formation par un stage préprofessionnel de 8 semaines en réanimation. Le nouveau programme en vigueur depuis septembre 2009 est compatible avec le cursus LMD et donne un grade Licence. La formation reste basée sur le modèle de l'alternance mais il n'y a aucune unité d'enseignement dédiée à la réanimation.
+
+Les spécificités des missions, organisations et principes de fonctionnement des unités de réanimation ont été établies par un décret suivi d'une circulaire. La mission spécifique des unités de réanimation est de *"prendre en charge des patients qui présentent ou sont susceptibles de présenter plusieurs défaillances viscérales aigues mettant directement en jeu le pronostic vital et impliquant le recours à des méthodes de suppléances"* [1]. La charge de travail y est importante et complexe par la technicité à mettre en œuvre mais également par les ressources personnelles à mobiliser pour l'accompagnement du patient et de ses proches. Cette mission requiert clairement des compétences spécifiques et nécessite de mobiliser des connaissances et d'acquérir des comportements adaptés aux situations [2]. Le paradoxe est donc que seuls des infirmiers « en soins généraux » sans formation spécifique durant leur cursus diplômant y exercent. **Leur formation initiale apparaît clairement insuffisante pour dispenser des soins de qualité adaptés aux patients de réanimation.** Par contraste, seuls les diplômes exigés aux médecins travaillant dans les unités de réanimation sont explicités dans les textes.
+
+#### – La formation d'adaptation à l'emploi:
+
+Plus couramment appelée période d'intégration, la formation d'adaptation à l'emploi dispose d'un appui réglementaire. La circulaire DHOS°2003/413 du 27 aout 2003 relative aux établissements de santé publics et privés pratiquant la réanimation, les soins intensifs et la surveillance continue précise que *"Compte tenu de la spécificité de la prise en charge des patients admis en réanimation, les infirmières affectées dans ces unités doivent bénéficier d'une formation d'adaptation à l'emploi. L'effectif d'infirmières des unités de réanimation doit**être suffisant pour tenir compte de ces périodes de formation à organiser au sein des unités pour le personnel nouvellement affecté."* [3]
+
+Cependant, aucune précision n'est donnée quant à la durée et aux modalités de cette formation. L'enquête analytique sur la profession d'infirmier en réanimation (Etude AIDE-REA), réalisée par le CREUF en 2006, auprès de 437 soignants de réanimation de 55 établissements indiquait que plus de 84% d'entre-deux bénéficiaient d'une formation à leur arrivée en réanimation. Mais cette période était inférieure à 2 semaines pour plus de 30%, entre 2 et 4 semaines pour près de 47% et supérieure à 4 semaines pour seulement 32% des soignants [4]. De plus, au-delà des moyens nécessaires, il est également légitime de se poser les questions, jamais abordées dans le décret et la circulaire, du contenu de la formation, de son évaluation et du niveau d'expérience exigible pour les formateurs.
+
+– La formation continue:
+
+Elle constitue un droit et un devoir pour les infirmiers [5]. Le code de la santé publique précise également que *"pour garantir la qualité dans les soins qu'il dispense et la sécurité des patients, l'infirmier a le devoir d'actualiser et de perfectionner ses connaissances professionnelles"*.
+
+Cette formation peut avoir lieu au sein des services à l'aide de cours théoriques, d'ateliers ou d'actions institutionnelles mais elle dépend souvent de la volonté de l'encadrement médical et paramédical ainsi que de leur disponibilité.
+
+Les formations extérieures sont constituées par les congrès des sociétés savantes, les journées locales, les séminaires de perfectionnement. Un diplôme Universitaire d'Infirmière de Réanimation est aussi organisé par de nombreuses facultés, mais il n'apporte ni reconnaissance, ni valorisation aux infirmières qui le suivent. L'offre s'est ainsi considérablement enrichie ces dernières années mais elle reste encore trop faible au regard du nombre d'infirmiers exerçant en réanimation. Seulement 27% des infirmiers ayant répondu à AIDE-REA déclarent participer régulièrement ou très régulièrement à des congrès ou à des journées de formation. Cette faible participation peut s'expliquer par des difficultés d'accès liées aux contraintes budgétaires et aux pénuries de personnels. Le décret de 2002 et la circulaire de 2003 enjoignent aux établissements de calculer les effectifs nécessaires en tenant compte de ces obligations de formation. Dans la pratique quotidienne des unités de réanimation, il n'en est rien.
+
+Dans cette même étude, 53% des infirmiers souhaitent une reconnaissance professionnelle passant par un diplôme. La France est un des rares pays en Europe à ne pas avoir envisagé ce type de reconnaissance.
+
+**Au final, la formation initiale ne comportera aucun enseignement dédié spécifiquement à la réanimation, la formation d'adaptation à l'emploi est d'une grande disparité et la formation continue est difficile d'accès, non valorisée et non diplômante pour les infirmiers de réanimation.**
+
+Il peut ainsi être constaté un véritable contraste dans un secteur prenant en charge des patients en état grave dont les soins requièrent, de la part des soignants, des savoirs, aptitudes et compétences hautement spécifiques. Le médecin réanimateur bénéficie ainsi d'une formation longue, complexe, spécifique et formalisée qui aboutit le plus souvent à un niveau de performance optimale et une longue carrière de réanimateur. L'infirmier ne dispose que d'une formation "sur le terrain", sans aucune reconnaissance ou valorisation statutaire, expliquant le plus souvent une carrière brève en réanimation. Or, l'axiome « on travaille ensemble, on se forme ensemble », pour caricatural qu'il soit pourrait parfaitement s'appliquer ici compte-tenu de la grande spécificité de la réanimation.## Elaboration d'un référentiel de compétences
+
+C'est ce constat peu satisfaisant et le souci constant d'améliorer la qualité des soins délivrés aux patients qui a conduit les Conseils d'Administration de la SRLF, du CREUF, du GFRUP et de la SFAR à engager un travail sur la formation et le métier d'infirmier en réanimation.
+
+Un groupe de travail pluridisciplinaire a été constitué et mandaté par les quatre Conseils d'Administrations pour élaborer un référentiel des compétences de l'infirmier de réanimation et un livret d'adaptation à l'emploi.
+
+Le référentiel des compétences de l'infirmier de réanimation a pour objectif d'être le support permettant d'élaborer la formation d'adaptation à l'emploi et la formation continue. Mettant en valeur les spécificités du métier d'infirmier de réanimation, il devrait être aussi le document permettant d'aboutir à une formation diplômante et à une valorisation du parcours professionnel de l'infirmier de réanimation.
+
+Pour son élaboration, le groupe de travail s'est appuyé sur le nouveau référentiel de formation des infirmiers ainsi que sur le "cadre européen des certifications pour l'éducation et la formation tout au long de la vie". Le groupe de travail a choisi une approche par la compétence définie par Le Boterf comme *"la mobilisation ou l'activation de plusieurs savoirs, dans une situation et un contexte donnés"* [6]. La formation doit donc permettre de construire des savoirs, d'acquérir des aptitudes et de développer des compétences, en bref, *"de mener à bien des activités dans des situations professionnelles déterminées, en obtenant le résultat requis."* Douze situations spécifiques ont été retenues ainsi qu'un chapitre relatif aux spécificités pédiatriques. Chaque situation s'est déclinée en savoirs, aptitudes et compétences.
+
+## Elaboration du livret d'adaptation à l'emploi
+
+Le référentiel de compétences a sert de trame à la construction du livret d'adaptation à l'emploi qui se veut utilisable en pratique quotidienne dans les services. Il est accompagné d'une grille d'évaluation des connaissances permettant de situer la progression des nouveaux recrutés.
+
+Le livret d'adaptation à l'emploi est une base de travail proposée aux différentes équipes de réanimation. Il pourra être utilisé comme référence mais n'est pas une garantie de formation égale dans chaque unité. Cette garantie ne pourra être obtenue qu'à partir de la reconnaissance officielle de la nécessité absolue de cette formation et des moyens nécessaires pour la mener à bien dans les services. La formation déclinée dans le livret correspond à une durée d'adaptation à l'emploi de huit semaines pour un(e) infirmier(e) sans expérience de réanimation (équivalent du stage pré professionnel, soit 280 heures).
+
+## Conclusion et perspectives
+
+Les Conseils d'Administration de la SRLF, du CREUF, du GFRUP et de la SFAR recommandent donc **de formaliser un cursus de formation spécifique au métier d'infirmier de réanimation**.
+
+Les spécificités de la réanimation, le souci de délivrer des soins de qualité à nos patients et l'exigence croissante de réduction des risques dans le domaine de la santé justifient pleinement la création d'un tel cursus.
+
+Au delà de l'adaptation à l'emploi, un cursus de formation universitaire complémentaire, dans le contexte du nouveau système de formation initiale (LMD) pourrait mener à un mastère. Le référentiel des compétences et le livret d'adaptation à l'emploi ont vocation à être une base utile à l'établissement d'un programme de formation hospitalo-universitaire. Cette compétence reconnue au niveau national pourrait rejoindre les formations spécifiques existantes chez nos voisins européens. Elle permettrait ainsi une harmonisation des modalitésde formation, des connaissances requises et de définir de manière précise un cadre légal de l'exercice du métier d'infirmier en réanimation au niveau européen.
+
+L'accroissement de l'attractivité du métier d'infirmier de réanimation ainsi obtenue contribuera à fidéliser les infirmiers dans les services et à réduire le turn-over trop rapide observé actuellement.
+
+## REFERENCES
+
+1. 1. Décret n°2002-465 du 5 avril 2002 relatif aux établissements de santé publics et privés pratiquant la réanimation et modifiant le code de la santé publique
+2. 2. Réanimation-Urgences 1996; 5: 709-711
+3. 3. Circulaire DHOS°2003/413 du 27 aout 2003 relative aux établissements de santé publics et privés pratiquant la réanimation, les soins intensifs et la surveillance continue
+4. 4. Enquête analytique sur la profession d'infirmier en réanimation : AIDE-REA 2006  
+   Jean-Noël Drault (Pau, France) Christian Floriot (Vesoul, France) Jean-Louis Ricome (St Germain, France) Paul Bonneil (Pau, France) Philippe Badia (Pau, France)
+5. 5. Loi n°2004-391 du 4 mai 2004 relative à la formation professionnelle tout au long de la vie et au dialogue social
+6. 6. LE BOTERF (G), 2000, Construire les compétences individuelles et collectives, Paris, Editions d'organisations.
