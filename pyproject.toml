@@ -1,5 +1,5 @@
 [project]
-name = "sfar_scrape"
+name = "sfar-recommendations"
 version = "0.1.0"
 description = "Targeted crawler for SFAR clinical recommendation PDFs"
 readme = "README.md"
@@ -10,3 +10,16 @@ dependencies = [
     "openpyxl>=3.1.5",
     "requests>=2.34.2",
 ]
+
+[project.scripts]
+sfar-scrape = "sfar_recommendations.scrape:main"
+sfar-convert = "sfar_recommendations.convert:main"
+sfar-feed = "sfar_recommendations.feed:main"
+sfar-pipeline = "sfar_recommendations.pipeline:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/sfar_recommendations"]

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 SFAR Recommendations PDF Scraper
 
@@ -6,15 +5,15 @@ Discovers every SFAR clinical recommendation from the recommendations index,
 resolves each entry to its concrete PDF (direct upload or WP Download Manager
 endpoint), downloads the PDFs, and writes a manifest XLSX for human curation.
 
-Discovery reads a local snapshot of the index page ("Recommandations - La SFAR.html")
-by default: it is complete (includes 2026), reproducible, and avoids Cloudflare 403s.
-PDFs themselves are always fetched from the live site.
+Discovery fetches the live index page (https://sfar.org/recommandations/) by
+default and saves a copy to <output>/index.html. Pass --index-html to read a
+local snapshot instead (e.g. "reference/Recommandations - La SFAR.html").
 
-Usage:
-    python scrape_sfar.py                 # discover + resolve + download + verify
-    python scrape_sfar.py --dry-run       # discover + resolve + manifest, no download
-    python scrape_sfar.py --verify-only   # re-run the completeness check on an existing manifest
-    python scrape_sfar.py --help          # all options
+Usage (from the repository root):
+    uv run sfar-scrape                 # discover + resolve + download + verify
+    uv run sfar-scrape --dry-run       # discover + resolve + manifest, no download
+    uv run sfar-scrape --verify-only   # re-run the completeness check on existing discovery.json
+    uv run sfar-scrape --help          # all options
 """
 
 import argparse
@@ -27,6 +26,7 @@ import time
 import unicodedata
 from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, unquote
 
@@ -42,9 +42,11 @@ from openpyxl.utils import get_column_letter
 
 BASE_URL = "https://sfar.org"
 RECOMMENDATIONS_URL = "https://sfar.org/recommandations/"
-SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_INDEX_HTML = SCRIPT_DIR / "Recommandations - La SFAR.html"
-REFERENCE_MD = SCRIPT_DIR / "Recommandations - La SFAR.md"
+# Paths are relative to the current directory (run from the repository root).
+DEFAULT_OUTPUT_DIR = Path("output")
+DEFAULT_REFERENCE_MD = Path("reference") / "Recommandations - La SFAR.md"
+CURATED_PDFS_DIR = Path("pdfs")
+FIRST_YEAR = 2000
 
 BROWSER_HEADERS = {
     "User-Agent": (
@@ -232,14 +234,15 @@ def sha256_file(path):
 # --------------------------------------------------------------------------- #
 
 class SFARScraper:
-    def __init__(self, output_dir, index_html=None, live_index=False,
+    def __init__(self, output_dir, index_html=None, reference_md=None,
                  workers=6, delay=0.5):
         self.output_dir = Path(output_dir)
         self.pdfs_dir = self.output_dir / "pdfs"
         self.pdfs_dir.mkdir(parents=True, exist_ok=True)
 
-        self.index_html = Path(index_html) if index_html else DEFAULT_INDEX_HTML
-        self.live_index = live_index
+        # None means "fetch the live index" (the default).
+        self.index_html = Path(index_html) if index_html else None
+        self.reference_md = Path(reference_md) if reference_md else DEFAULT_REFERENCE_MD
         self.workers = max(1, workers)
         self.delay = delay
 
@@ -293,11 +296,10 @@ class SFARScraper:
         return None, r.status_code
 
     def _load_existing_pdfs(self):
-        """Basenames of the 87 curated PDFs in ../pdfs (for coverage diff)."""
+        """Basenames of the curated PDFs in ./pdfs, if present (for coverage diff)."""
         names = set()
-        parent = SCRIPT_DIR.parent / "pdfs"
-        if parent.exists():
-            for p in parent.rglob("*.pdf"):
+        if CURATED_PDFS_DIR.exists():
+            for p in CURATED_PDFS_DIR.rglob("*.pdf"):
                 names.add(p.name.lower())
         return names
 
@@ -322,17 +324,22 @@ class SFARScraper:
     # -- discovery --------------------------------------------------------- #
 
     def _load_index_html(self):
-        if self.live_index:
+        if self.index_html is None:
             print(f"🌐 Fetching live index: {RECOMMENDATIONS_URL}")
             html, status = self.fetch_text(RECOMMENDATIONS_URL)
-            if status == 200 and html:
-                return html
-            print(f"⚠️  Live index fetch failed (status {status}); "
-                  f"falling back to local snapshot.")
+            if status != 200 or not html:
+                print(f"ERROR: live index fetch failed (status {status}). "
+                      f"Use --index-html PATH to read a local snapshot instead.")
+                return None
+            # Keep a copy of what this run saw, for reproducibility/debugging.
+            snapshot = self.output_dir / "index.html"
+            snapshot.write_text(html, encoding="utf-8")
+            print(f"💾 Saved live index to {snapshot}")
+            return html
         if not self.index_html.exists():
             print(f"ERROR: index HTML not found: {self.index_html}")
             return None
-        print(f"📄 Reading index snapshot: {self.index_html.name}")
+        print(f"📄 Reading index snapshot: {self.index_html}")
         return self.index_html.read_text(encoding="utf-8")
 
     @staticmethod
@@ -838,12 +845,13 @@ class SFARScraper:
         out("\nPer-year document counts:")
         for y in sorted(by_year, reverse=True):
             out(f"  {y}: {by_year[y]}")
-        expected_years = {str(y) for y in range(2000, 2027)}
+        this_year = date.today().year
+        expected_years = {str(y) for y in range(FIRST_YEAR, this_year + 1)}
         missing_years = sorted(expected_years - set(by_year))
         if missing_years:
             out(f"\n⚠️  Years with no documents: {', '.join(missing_years)}")
-        if by_year.get("2026", 0) == 0:
-            out("⚠️  2026 is empty — discovery likely incomplete.")
+        if by_year.get(str(this_year), 0) == 0:
+            out(f"⚠️  {this_year} is empty — discovery likely incomplete.")
 
         # 4. Reference list cross-check
         ref_titles = self._reference_titles()
@@ -858,12 +866,12 @@ class SFARScraper:
             if len(missing_ref) > 40:
                 out(f"  ... and {len(missing_ref) - 40} more")
 
-        # 5. Superset vs curated 87
+        # 5. Superset vs curated set
         if self.existing_pdfs and downloaded:
             got = {d["filename"].lower() for d in docs if d.get("filename")}
             still_missing = sorted(self.existing_pdfs - got)
             new_docs = sorted(got - self.existing_pdfs)
-            out(f"\nCurated ../pdfs basenames:            {len(self.existing_pdfs)}")
+            out(f"\nCurated ./pdfs basenames:             {len(self.existing_pdfs)}")
             out(f"Curated basenames not re-downloaded:  {len(still_missing)}")
             out(f"Genuinely new basenames:              {len(new_docs)}")
 
@@ -884,11 +892,11 @@ class SFARScraper:
 
     def _reference_titles(self):
         """Parse recommendation titles from the reference markdown, best-effort."""
-        if not REFERENCE_MD.exists():
+        if not self.reference_md.exists():
             return []
         titles = []
         in_list = False
-        for raw in REFERENCE_MD.read_text(encoding="utf-8").splitlines():
+        for raw in self.reference_md.read_text(encoding="utf-8").splitlines():
             line = raw.strip()
             if line.startswith("## Chronologie"):
                 in_list = True
@@ -910,10 +918,11 @@ class SFARScraper:
     # -- orchestration ----------------------------------------------------- #
 
     def run(self, dry_run=False):
+        """Returns True if comprehensive, False if not, None on a hard failure."""
         entries = self.discover()
         if not entries:
             print("❌ No entries discovered.")
-            return False
+            return None
 
         docs, unresolved = self.resolve_all(entries)
 
@@ -932,51 +941,78 @@ class SFARScraper:
 # CLI
 # --------------------------------------------------------------------------- #
 
-def main():
+# Exit codes: 0 comprehensive, 2 completed but not comprehensive (MISS/ERROR),
+# 1 hard failure (index unavailable, nothing discovered).
+EXIT_OK, EXIT_FAILED, EXIT_INCOMPLETE = 0, 1, 2
+
+
+def build_parser():
     parser = argparse.ArgumentParser(
-        description="SFAR Recommendations PDF Scraper",
+        prog="sfar-scrape",
+        description="SFAR Recommendations PDF Scraper. Fetches the live index by "
+                    "default; use --index-html for an offline snapshot.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("--dry-run", action="store_true",
                         help="Discover + resolve + manifest, but do not download.")
     parser.add_argument("--verify-only", action="store_true",
                         help="Re-run the completeness check on existing discovery.json.")
+    add_common_args(parser)
+    return parser
+
+
+def add_common_args(parser):
+    """Scraper options, shared with sfar-pipeline."""
     parser.add_argument("--index-html", type=str, default=None,
-                        help="Path to the index HTML snapshot "
-                             "(default: 'Recommandations - La SFAR.html').")
-    parser.add_argument("--live-index", action="store_true",
-                        help="Fetch the recommendations index live instead of the snapshot.")
-    parser.add_argument("--output", type=str, default=str(SCRIPT_DIR),
-                        help="Output directory (default: script directory).")
+                        help="Read the index from this local HTML snapshot instead of "
+                             "fetching it live (e.g. 'reference/Recommandations - La SFAR.html').")
+    parser.add_argument("--reference-md", type=str, default=str(DEFAULT_REFERENCE_MD),
+                        help="Reference title list for the completeness check "
+                             f"(default: {DEFAULT_REFERENCE_MD}).")
+    parser.add_argument("--output", type=str, default=str(DEFAULT_OUTPUT_DIR),
+                        help=f"Output directory (default: {DEFAULT_OUTPUT_DIR}).")
     parser.add_argument("--workers", type=int, default=6,
                         help="Concurrent workers for resolve/download (default: 6).")
     parser.add_argument("--delay", type=float, default=0.5,
                         help="Minimum delay between live requests, seconds (default: 0.5).")
-    args = parser.parse_args()
 
-    scraper = SFARScraper(
+
+def scraper_from_args(args):
+    return SFARScraper(
         output_dir=Path(args.output).resolve(),
         index_html=args.index_html,
-        live_index=args.live_index,
+        reference_md=args.reference_md,
         workers=args.workers,
         delay=args.delay,
     )
 
+
+def run_from_args(args, dry_run=False):
+    """Run a scrape; return an exit code (see EXIT_*)."""
+    ok = scraper_from_args(args).run(dry_run=dry_run)
+    if ok is None:
+        return EXIT_FAILED
+    return EXIT_OK if ok else EXIT_INCOMPLETE
+
+
+def main(argv=None):
+    args = build_parser().parse_args(argv)
+
     if args.verify_only:
+        scraper = scraper_from_args(args)
         path = scraper.output_dir / "discovery.json"
         if not path.exists():
             print(f"ERROR: {path} not found; run discovery first.")
-            sys.exit(1)
+            return EXIT_FAILED
         data = json.loads(path.read_text(encoding="utf-8"))
         docs = data.get("documents", [])
         unresolved = data.get("unresolved", [])
         downloaded = any(d.get("filename") for d in docs)
         ok = scraper.verify_complete(docs, unresolved, downloaded=downloaded)
-        sys.exit(0 if ok else 2)
+        return EXIT_OK if ok else EXIT_INCOMPLETE
 
-    ok = scraper.run(dry_run=args.dry_run)
-    sys.exit(0 if ok else 2)
+    return run_from_args(args, dry_run=args.dry_run)
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

@@ -1,8 +1,7 @@
-#!/usr/bin/env python3
 """
 Atom feed generator for the SFAR recommendations catalog.
 
-Re-uses the `discovery.json` produced by `scrape_sfar.py` and turns it into an
+Re-uses the `discovery.json` produced by `sfar-scrape` and turns it into an
 Atom 1.0 feed (`feed.xml`). No scraping and no network access — it only reads the
 JSON already on disk.
 
@@ -10,11 +9,14 @@ Each entry carries the recommendation title, a link (the SFAR landing page, or
 the direct document URL when a doc has no landing page), the year as its date,
 and Type / Discipline / Year categories.
 
-Usage:
-    python make_feed.py                                  # output/discovery.json -> output/feed.xml
-    python make_feed.py --input output/discovery.json    # explicit input
-    python make_feed.py --all                            # include non-downloaded docs too
-    python make_feed.py --help
+By default only documents that are on disk (a recorded filename and no error)
+are included, whether they were downloaded in the latest run or an earlier one.
+
+Usage (from the repository root):
+    uv run sfar-feed                                  # output/discovery.json -> output/feed.xml
+    uv run sfar-feed --input output/discovery.json    # explicit input
+    uv run sfar-feed --all                            # include docs that failed to download
+    uv run sfar-feed --help
 """
 
 import argparse
@@ -24,8 +26,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_INPUT = SCRIPT_DIR / "output" / "discovery.json"
+DEFAULT_INPUT = Path("output") / "discovery.json"
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
@@ -98,9 +99,15 @@ def build_feed(docs):
     return feed
 
 
-def main():
+def is_on_disk(doc):
+    """True for a document that was saved, in this run or a previous one."""
+    return bool(doc.get("filename")) and not doc.get("error")
+
+
+def main(argv=None):
     parser = argparse.ArgumentParser(
-        description="Generate an Atom feed from a scrape_sfar.py discovery.json.",
+        prog="sfar-feed",
+        description="Generate an Atom feed from a sfar-scrape discovery.json.",
     )
     parser.add_argument("--input", type=str, default=str(DEFAULT_INPUT),
                         help="discovery.json to read (default: output/discovery.json).")
@@ -108,28 +115,29 @@ def main():
                         help="Feed file to write (default: feed.xml next to the input).")
     parser.add_argument("--all", action="store_true",
                         help="Include every resolved doc, not just downloaded ones.")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
 
     in_path = Path(args.input).resolve()
     if not in_path.exists():
-        print(f"ERROR: {in_path} not found; run scrape_sfar.py first.")
-        sys.exit(1)
+        print(f"ERROR: {in_path} not found; run sfar-scrape first.")
+        return 1
 
     out_path = Path(args.output).resolve() if args.output else in_path.parent / "feed.xml"
 
     data = json.loads(in_path.read_text(encoding="utf-8"))
     docs = data.get("documents", [])
     if not args.all:
-        docs = [d for d in docs if d.get("downloaded")]
+        docs = [d for d in docs if is_on_disk(d)]
 
-    # Newest year first, then title (mirrors scrape_sfar.py's manifest sort).
+    # Newest year first, then title (mirrors the scraper's manifest sort).
     docs.sort(key=lambda d: (-(d.get("year") or 0), d.get("title", "")))
 
     feed = build_feed(docs)
     ET.indent(feed)
     ET.ElementTree(feed).write(out_path, encoding="utf-8", xml_declaration=True)
     print(f"📡 Wrote {out_path} ({len(docs)} entries)")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
