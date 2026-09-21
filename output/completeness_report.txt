@@ -63,7 +63,7 @@ Per-year document counts:
   2001: 10
   2000: 2
 
-Reference titles:        156
+Reference titles:        161
 Reference titles missing from discovery: 12
   - Évaluation du risque Covid-19 et impact sur la prise en charge en endoscopi
   - Prise en charge des patients présentant, ou à risque, de traumatisme vertéb
