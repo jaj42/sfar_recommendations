@@ -1,0 +1,88 @@
+<img alt="Gear icon representing settings or configuration." src="f725f7734dc878dd0d726539cb303b77_1_img.webp"/><h2>IIA COMMUNAUTAIRE</h2><pre>graph TD; Start(( )) --&gt; Allergy{Allergie aux β-lactamines ?}; Allergy -- "✓ OUI" --&gt; AllergyOptions["Lévofloxacine + Métronidazole<br/>ou Moxifloxacine *<br/>ou Tigécycline ou Eravacycline #"]; Allergy -- "✗ NON" --&gt; Shock{État de choc ?}; Shock -- "✗ NON" --&gt; ShockOptions["Céfotaxime ou Ceftriaxone<br/>+ Métronidazole"]; Shock -- "✓ OUI" --&gt; Risk{Facteurs de risque<br/>de BLSE ?}; Risk -- "✗ NON" --&gt; RiskOptions["Pipéracilline / tazobactam"]; Risk -- "✓ OUI" --&gt; Carbapenems["Carbapénèmes"]; AllergyOptions --&gt; Experts["AVIS D'EXPERTS"]; ShockOptions --&gt; Grade2["GRADE 2"]; RiskOptions --&gt; Grade2["GRADE 2"]; Carbapenems --&gt; Grade2["GRADE 2"];</pre><p><b>Allergie aux β-lactamines ?</b></p><ul><li><b>✓ OUI</b>: Lévofloxacine + Métronidazole<br/>ou Moxifloxacine *<br/>ou Tigécycline ou Eravacycline #</li><li><b>✗ NON</b>: Proceed to <b>État de choc ?</b></li></ul><p><b>État de choc ?</b></p><ul><li><b>✗ NON</b>: Céfotaxime ou Ceftriaxone + Métronidazole</li><li><b>✓ OUI</b>: Proceed to <b>Facteurs de risque de BLSE ?</b></li></ul><p><b>Facteurs de risque de BLSE ?</b></p><ul><li><b>✗ NON</b>: Pipéracilline / tazobactam</li><li><b>✓ OUI</b>: Carbapénèmes</li></ul><p><b>AVIS D'EXPERTS</b></p><p><b>GRADE 2</b></p><img alt="Gear icon representing settings or configuration." src="f725f7734dc878dd0d726539cb303b77_4_img.webp"/><h3>Facteurs de risque de BLSE</h3><ul><li>• ATCD d'infection / colonisation à BLSE &lt; 6 mois</li><li>• Amoxicilline-ac. clavulanique, C2G/C3G ou fluoroquinolone &lt; 6 mois</li><li>• Voyage en zone d'endémie &lt; 3 mois</li><li>• Institution médico-sociale (EHPAD, SLD) + dispositif invasif permanent</li><li>• ou prévalence locale élevée</li></ul>
+<h1>IIA ASSOCIÉE AUX SOINS</h1>
+
+
+<pre>
+graph TD
+    Start([IAA ASSOCIÉE AUX SOINS]) --&gt; Allergy{Allergie aux β-lactamines ?}
+    Allergy -- "✓ OUI" --&gt; AllergyOptions["Ciprofloxacine + métronidazole<br/>ou Aztréonam + métronidazole<br/>ou Tigécycline / éravacycline<br/>+ ciprofloxacine *"]
+    Allergy -- "✗ NON" --&gt; RiskBMR{Facteurs de risque de BMR ?}
+    RiskBMR -- "✗ NON" --&gt; RiskBMRYes{Facteurs de risque de BMR ?}
+    RiskBMRYes -- "✓ OUI" --&gt; RiskBMRNo["Céfépime + métronidazole<br/>Pipéracilline-tazobactam"]
+    RiskBMR -- "✓ OUI" --&gt; RiskBMRNo
+    RiskBMRNo --&gt; RiskEnterococcus{Facteurs de risque d'entérocoque AmpiR ?}
+    RiskEnterococcus -- "✓ OUI" --&gt; RiskEnterococcusNo["Imipénème ou méropénème"]
+    RiskEnterococcus -- "✗ NON" --&gt; RiskEnterococcusNo
+    RiskEnterococcusNo --&gt; AddEnterococcus["+ Linézolide ou Vancomycine ou Teicoplanine<br/>à ajouter à tous les régimes précédents (sauf *)"]
+    RiskEnterococcusNo --&gt; AddEnterococcus
+    </pre>
+<p><b>Facteurs de risque de BMR</b></p>
+<ul>
+<li>C3G ou fluoroquinolone &lt; 3 mois ; portage &lt; 3 mois de BLSE ou P. aeruginosa CAZ-R</li>
+<li>Hospitalisation à l'étranger &lt; 12 mois ; institution médico-sociale + dispositif invasif</li>
+<li>Échec ou récidive &lt; 15 j après C3G, fluoroquinolone ou pip-tazo (≥ 3 j)</li>
+</ul>
+<p><b>FdR d'entérocoque AmpiR</b></p>
+<ul>
+<li>Point de départ hépato-biliaire ; transplantation hépatique ; immunodépression</li>
+<li>Patient déjà sous antibiothérapie ou C3G préalable</li>
+</ul>
+<p><b>Antibiotic Regimens:</b></p>
+<ul>
+<li><b>Grade 1:</b> Céfépime + métronidazole</li>
+<li><b>Grade 2:</b> Pipéracilline-tazobactam</li>
+<li><b>Grade 2:</b> Imipénème ou méropénème</li>
+<li><b>Additional:</b> Linézolide ou Vancomycine ou Teicoplanine à ajouter à tous les régimes précédents (sauf *)</li>
+</ul>
+
+<img alt="Gear icon representing risk factors." src="aa725b2d7b4d8d43a2acd1faceb72286_3_img.webp"/>
+
+<h2>Facteurs de risque de BMR</h2>
+
+<ul>
+<li>C3G ou fluoroquinolone &lt; 3 mois ; portage &lt; 3 mois de BLSE ou P. aeruginosa CAZ-R</li>
+<li>Hospitalisation à l'étranger &lt; 12 mois ; institution médico-sociale + dispositif invasif</li>
+<li>Échec ou récidive &lt; 15 j après C3G, fluoroquinolone ou pip-tazo (≥ 3 j)</li>
+</ul>
+
+<img alt="Gear icon representing risk factors." src="aa725b2d7b4d8d43a2acd1faceb72286_6_img.webp"/>
+
+<h2>FdR d'entérocoque AmpiR</h2>
+
+<ul>
+<li>Point de départ hépato-biliaire ; transplantation hépatique ; immunodépression</li>
+<li>Patient déjà sous antibiothérapie ou C3G préalable</li>
+</ul>
+
+<img alt="Shoe icon indicating expert advice." src="aa725b2d7b4d8d43a2acd1faceb72286_9_img.webp"/>
+
+<p>Ciprofloxacine + métronidazole<br/>ou Aztréonam + métronidazole<br/>ou Tigécycline / éravacycline<br/>+ ciprofloxacine *</p>
+
+<p>AVIS D'EXPERTS</p>
+
+<img alt="Shoe icon indicating expert advice." src="aa725b2d7b4d8d43a2acd1faceb72286_12_img.webp"/>
+
+<p>Céfépime + métronidazole</p>
+
+<p>GRADE 1</p>
+
+<img alt="Shoe icon indicating expert advice." src="aa725b2d7b4d8d43a2acd1faceb72286_15_img.webp"/>
+
+<p>Pipéracilline-tazobactam</p>
+
+<p>AVIS D'EXPERTS</p>
+
+<img alt="Shoe icon indicating expert advice." src="aa725b2d7b4d8d43a2acd1faceb72286_18_img.webp"/>
+
+<p>Imipénème ou méropénème</p>
+
+<p>GRADE 2</p>
+
+<img alt="Plus sign icon indicating addition of a regimen." src="aa725b2d7b4d8d43a2acd1faceb72286_21_img.webp"/>
+
+<img alt="Plus sign icon indicating addition of a regimen." src="aa725b2d7b4d8d43a2acd1faceb72286_22_img.webp"/>
+
+<p>Linézolide ou Vancomycine ou Teicoplanine<br/>à ajouter à tous les régimes précédents (sauf *)</p>
+
+<p>AVIS D'EXPERTS</p>
+<img alt="Gear icon representing a process or setting." src="c7568cbccbea03f25227209c08cbedb9_1_img.webp"/><h1>INFECTION INTRA-ABDOMINALE</h1><img alt="Icon of a person wearing a stethoscope." src="c7568cbccbea03f25227209c08cbedb9_3_img.webp"/><h2>Endossement RFE SFAR 2015</h2><p><b>R21</b> — patient grave (IIA communautaire ou associée aux soins) : si antifongique probabiliste décidé, utiliser une échinocandine.</p><p><b>R41</b> — IIA associée aux soins : antifongique probabiliste si levure à l'examen direct ou culture péritonéale positive (échinocandine si infection grave ou souche fluconazole-R).</p><img alt="Information icon (i)." src="c7568cbccbea03f25227209c08cbedb9_7_img.webp"/><h3>Peritonitis Score<br/>(1 pt / critère)</h3><ul><li>• Défaillance hémodynamique</li><li>• Sexe féminin</li><li>• Chirurgie sus-mésocolique</li><li>• Antibiothérapie &gt; 48 h</li></ul><pre>graph TD; Start([INFECTION INTRA-ABDOMINALE]) --&gt; D1{Examen direct positif à levure<br/>ou Peritonitis Score ≥ 3}; D1 -- "X NON" --&gt; NoAntifongique[Pas de traitement antifongique]; D1 -- "✓ OUI" --&gt; D2{Défaillance hémodynamique<br/>ou IIA associée aux soins}; D2 -- "X NON" --&gt; NoAntifongique; D2 -- "✓ OUI" --&gt; D3{Facteur de risque de souche résistante<br/>au fluconazole<br/>ou complication postopératoire<br/>après IIA}; D3 -- "X NON" --&gt; Fluconazole[Fluconazole]; D3 -- "✓ OUI" --&gt; Echinocandine[Échinocandine];</pre><p>The flowchart outlines the treatment protocol for intra-abdominal infection. It begins with a decision point: 'Examen direct positif à levure ou Peritonitis Score ≥ 3'. If 'NON' (No), the treatment is 'Pas de traitement antifongique' (No antifungal treatment). If 'OUI' (Yes), the next decision is 'Défaillance hémodynamique ou IIA associée aux soins'. If 'NON', it leads to 'Pas de traitement antifongique'. If 'OUI', the final decision is 'Facteur de risque de souche résistante au fluconazole ou complication postopératoire après IIA'. If 'NON', the treatment is 'Fluconazole'. If 'OUI', the treatment is 'Échinocandine'.</p>

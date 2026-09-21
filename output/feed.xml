@@ -9,9 +9,64 @@
     <name>SFAR</name>
   </author>
   <entry>
+    <title>Anesthésie locorégionale en chirurgie pédiatrique</title>
+    <id>wpdmdl:142285</id>
+    <link rel="alternate" href="https://sfar.org/anesthesie-locoregionale-en-chirurgie-pediatrique/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
     <title>Gestion des anticoagulants pour une procédure invasive programmée</title>
     <id>https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf</id>
     <link rel="alternate" href="https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques</title>
+    <id>wpdmdl:145548</id>
+    <link rel="alternate" href="https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques</title>
+    <id>wpdmdl:145550</id>
+    <link rel="alternate" href="https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques</title>
+    <id>wpdmdl:145551</id>
+    <link rel="alternate" href="https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Organisation de la prise en charge des urgences vitales intra-hospitalières</title>
+    <id>wpdmdl:145385</id>
+    <link rel="alternate" href="https://sfar.org/organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres/" />
     <updated>2026-01-01T00:00:00Z</updated>
     <published>2026-01-01T00:00:00Z</published>
     <category term="RFE" scheme="https://sfar.org/ns/type" />
@@ -62,6 +117,39 @@
     <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
     <category term="2026" scheme="https://sfar.org/ns/year" />
     <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge thérapeutique des Infections intra-abdominales de l’adulte</title>
+    <id>wpdmdl:145222</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge thérapeutique des Infections intra-abdominales de l’adulte</title>
+    <id>wpdmdl:145258</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Sédation procédurale en structure de Médecine d’Urgence</title>
+    <id>wpdmdl:145123</id>
+    <link rel="alternate" href="https://sfar.org/sedation-procedurale-en-structure-de-medecine-durgence/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
   </entry>
   <entry>
     <title>Diagnostic et prise en charge des réactions d’hypersensibilité immédiate périopératoires</title>
@@ -790,6 +878,17 @@
   <entry>
     <title>Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant</title>
     <id>wpdmdl:24491</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/" />
+    <updated>2019-01-01T00:00:00Z</updated>
+    <published>2019-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Reanimation | Urgences" scheme="https://sfar.org/ns/discipline" />
+    <category term="2019" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Reanimation | Urgences · 2019</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant</title>
+    <id>wpdmdl:143770</id>
     <link rel="alternate" href="https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/" />
     <updated>2019-01-01T00:00:00Z</updated>
     <published>2019-01-01T00:00:00Z</published>

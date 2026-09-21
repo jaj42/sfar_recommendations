@@ -1,0 +1,117 @@
+{
+  "file_name": "Figures-RFE-Nutrition.pdf",
+  "num_pages": 9,
+  "total_token_count": 15119,
+  "total_chunks": 264,
+  "total_images": 35,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 2623,
+      "num_chunks": 53,
+      "num_images": 8
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1636,
+      "num_chunks": 32,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 2194,
+      "num_chunks": 43,
+      "num_images": 6
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1491,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1335,
+      "num_chunks": 24,
+      "num_images": 4
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1339,
+      "num_chunks": 27,
+      "num_images": 4
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1005,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1798,
+      "num_chunks": 35,
+      "num_images": 8
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1698,
+      "num_chunks": 28,
+      "num_images": 5
+    }
+  ]
+}

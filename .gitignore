@@ -13,3 +13,6 @@ wheels/
 .*
 !.gitattributes
 !.gitignore
+
+# Live index copy saved by sfar-scrape
+output/index.html

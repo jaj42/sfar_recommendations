@@ -1,0 +1,45 @@
+{
+  "file_name": "algo_synthese_IIA_RFE_moderne-defitives-depot-site-SFAR.pdf",
+  "num_pages": 3,
+  "total_token_count": 3747,
+  "total_chunks": 40,
+  "total_images": 13,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 871,
+      "num_chunks": 6,
+      "num_images": 2
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 1962,
+      "num_chunks": 24,
+      "num_images": 8
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2560,
+        1440
+      ],
+      "token_count": 914,
+      "num_chunks": 10,
+      "num_images": 3
+    }
+  ]
+}

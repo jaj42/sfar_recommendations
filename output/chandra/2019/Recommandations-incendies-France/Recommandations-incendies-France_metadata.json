@@ -1,0 +1,57 @@
+{
+  "file_name": "Recommandations-incendies-France.pdf",
+  "num_pages": 4,
+  "total_token_count": 4720,
+  "total_chunks": 68,
+  "total_images": 12,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        3174,
+        4490
+      ],
+      "token_count": 1086,
+      "num_chunks": 15,
+      "num_images": 3
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        3174,
+        4490
+      ],
+      "token_count": 1303,
+      "num_chunks": 22,
+      "num_images": 4
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        3174,
+        4490
+      ],
+      "token_count": 1226,
+      "num_chunks": 18,
+      "num_images": 3
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        3174,
+        4490
+      ],
+      "token_count": 1105,
+      "num_chunks": 13,
+      "num_images": 2
+    }
+  ]
+}

@@ -1,6 +1,26 @@
 {
   "documents": [
     {
+      "key": "wpdmdl:145385",
+      "download_url": "https://sfar.org/download/organisation-pour-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres/?wpdmdl=145385",
+      "wpdmdl": "145385",
+      "landing_url": "https://sfar.org/organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres/",
+      "title": "Organisation de la prise en charge des urgences vitales intra-hospitalières",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 2614001,
+      "sha256": "f46e3ff887e6b1231e5019f94022bd6839a82dc03cfb53c744c8115f122c225c",
+      "filename": "RECO_641-_URGENCE-VITALE_INTRAHOSPITALIERE_-ARGUMENTAIRE_CD_20260903_FIN.pdf",
+      "content_type": "application/pdf"
+    },
+    {
       "key": "https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf",
       "download_url": "https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf",
       "wpdmdl": null,
@@ -14,10 +34,151 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 6392406,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "97b735b38ef48108e9062c555fa54fda5c6b879a99e817337ec569762fb3a9a5",
       "filename": "RFE-20.4.2026-deifinitif-et-validei.pdf",
+      "content_type": "application/pdf",
+      "skipped": true
+    },
+    {
+      "key": "wpdmdl:145548",
+      "download_url": "https://sfar.org/download/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques-version-longue/?wpdmdl=145548",
+      "wpdmdl": "145548",
+      "landing_url": "https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/",
+      "title": "Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 8568705,
+      "sha256": "8281a1a2ded8c162b42584c133eae20fdb39e4c17cb69bf51c11e63e5821c0d9",
+      "filename": "Version-longue.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:145550",
+      "download_url": "https://sfar.org/download/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques-version-courte/?wpdmdl=145550",
+      "wpdmdl": "145550",
+      "landing_url": "https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/",
+      "title": "Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 4841910,
+      "sha256": "3ae46579575ce8916ef374f565304fdc2fb59838d50d9735cde80d51e38b0ea9",
+      "filename": "Version-courte.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:145551",
+      "download_url": "https://sfar.org/download/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques-figures/?wpdmdl=145551",
+      "wpdmdl": "145551",
+      "landing_url": "https://sfar.org/nutrition-clinique-de-ladulte-en-contexte-perioperatoire-et-en-soins-critiques/",
+      "title": "Nutrition clinique de l’adulte en contexte périopératoire et en soins critiques",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 1691987,
+      "sha256": "ed414913cdfa1c7782f386d0a125822bddb3cc981c4c8193aef6c96d6aa774cf",
+      "filename": "Figures-RFE-Nutrition.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:142285",
+      "download_url": "https://sfar.org/download/anesthesie-locoregionale-en-chirurgie-pediatrique/?wpdmdl=142285",
+      "wpdmdl": "142285",
+      "landing_url": "https://sfar.org/anesthesie-locoregionale-en-chirurgie-pediatrique/",
+      "title": "Anesthésie locorégionale en chirurgie pédiatrique",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 2206596,
+      "sha256": "63f95feb4547b4b7a82be0572d72efd35dabfd1d28d0d3035353e90d487207c1",
+      "filename": "TEXTE-RFE-ALR-PEDIA-VERSION-FINALE-010926.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:145222",
+      "download_url": "https://sfar.org/download/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/?wpdmdl=145222",
+      "wpdmdl": "145222",
+      "landing_url": "https://sfar.org/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/",
+      "title": "Prise en charge thérapeutique des Infections intra-abdominales de l’adulte",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 2475715,
+      "sha256": "7f27c61625b9d4d4a96fd70dc4119bf8d7d00eda391c1faec60040b9f6426763",
+      "filename": "RFE-Infections-intra-abdominales-version-lecture-doc-finale-14-08-26-depose-site-sans-filigrane.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:145258",
+      "download_url": "https://sfar.org/download/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte-fiches-pratique/?wpdmdl=145258",
+      "wpdmdl": "145258",
+      "landing_url": "https://sfar.org/prise-en-charge-therapeutique-des-infections-intra-abdominales-de-ladulte/",
+      "title": "Prise en charge thérapeutique des Infections intra-abdominales de l’adulte",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 609513,
+      "sha256": "ed528101831ff3cf73fb89045a75cc7fb32e1c863a831f611882512624331693",
+      "filename": "algo_synthese_IIA_RFE_moderne-defitives-depot-site-SFAR.pdf",
+      "content_type": "application/pdf"
+    },
+    {
+      "key": "wpdmdl:145123",
+      "download_url": "https://sfar.org/download/sedation-procedurale-en-structure-de-medecine-durgence/?wpdmdl=145123",
+      "wpdmdl": "145123",
+      "landing_url": "https://sfar.org/sedation-procedurale-en-structure-de-medecine-durgence/",
+      "title": "Sédation procédurale en structure de Médecine d’Urgence",
+      "type": "RFE",
+      "discipline": "Anesthesie",
+      "subdomain": null,
+      "year": 2026,
+      "source_tabs": [
+        "Chronologie"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 2473614,
+      "sha256": "1f0c121ba08808f2d7d9931ea8b953168b57d891d01abd0843b5769c2b7862f2",
+      "filename": "RFE_sedationproceduraleUrgences_24juin2026.pdf",
       "content_type": "application/pdf"
     },
     {
@@ -34,11 +195,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 700835,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d649f34037decacc8b106339f04e4b83aca2cdbae212c7a843455280953d692b",
       "filename": "RecoCIAFU_ECBU_Note-de-cadrage_10.10.2024.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://www.urofrance.org/wp-content/uploads/2026/03/Reco_ECBU_Synthese_23.02.2023_MEL.pdf",
@@ -54,11 +216,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 934914,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "964972498a96206bb7a08d8c9592747ce82d1253d4dc3df5b330bed2fc528add",
       "filename": "Reco_ECBU_Synthese_04.03.2026_MEL.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://www.urofrance.org/wp-content/uploads/2026/03/Reco_ECBU_Argumentaire_23.02.2026_MEL.pdf",
@@ -74,11 +237,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3258507,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "901bcc9e7dd52db6ee06f57f9664819b833af983fe09fc3a473eddba9a9bc6d4",
       "filename": "Reco_ECBU_Argumentaire_04.03.2026_MEL.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://www.urofrance.org/wp-content/uploads/2026/03/Tableau-de-synthese_23.02.2026_MEL.pdf",
@@ -94,11 +258,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 145401,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5e509fb55eb750f3cda844e04ab53d10c8be933ba9190e4c04832c9b0a12b8bd",
       "filename": "Tableau-de-synthese_04.03.2026_MEL.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:123224",
@@ -114,11 +279,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 879231,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ea8aab146fe10c6726434c29a5df0320b38e9f74060125ad0307c5d17323db25",
       "filename": "RPP-Trauma-cranio-encephaliques-V1-finalisee.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:123225",
@@ -134,11 +300,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 713964,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "95dfa630d85ff4b00659b2052b34307a66f40c7a79d50dcf026f46a15ef4e06c",
       "filename": "Figure-1-Fiche-synthese-FR.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:123091",
@@ -154,11 +321,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1528559,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "e8bdcf967d59322a586b4fa26e56839c196a89302a7c957a7b8e4bae842de715",
       "filename": "RESECTION_-HEPATIQUE_-RECOMMANDATIONS_MEL.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:123093",
@@ -174,11 +342,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3192108,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "2e42b67f3f7fdbabf58859d9290ee318aa22f5082e21a7168b04303ae1ca347b",
       "filename": "RBP_-SFAR_AFEF_ACHBPT_RESECTION_-HEPATIQUE_-ARGUMENTAIRE_VF-1-AB-modif-ok.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:122568",
@@ -194,11 +363,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1232594,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "21fc8211b8cf8ac9758607a1b935e0c0265f3e6492bf7c2499f54b259322a88c",
       "filename": "Fiches-simplifiees-19122025-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:123089",
@@ -214,11 +384,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2148263,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "a26946ca8bed276ae9b875063b4fe2fe47b98c6b118bf657e2317f2a0ac44831",
       "filename": "RFE-LAT-final-mai-2026-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2024/10/RBP-deimarches-anticipeies_12_10_24.pdf",
@@ -235,11 +406,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 817069,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "850fdd36756bd8847de83b91da929ce9b198a1e491b05ab789a7cf7a69e2f59a",
       "filename": "RBP-deimarches-anticipeies_12_10_24.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:106109",
@@ -255,11 +427,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1948968,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "172a5f86f9d7442bb3eb5c0d83dd82c6120f779ada7e1074e2a6d6fb01bdf9f7",
       "filename": "RFE-analgesie-obstetricale-texte-long.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:106110",
@@ -275,11 +448,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1062666,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "51af4c2dcb141e514bb6bc3b8e8f409358983046dcb62297383f44adf0c121a3",
       "filename": "RFE-analgesie-obstetricale-texte-court.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:103152",
@@ -295,11 +469,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2281250,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "f6892412b5f22c79d97ad0da259e8050c8e095f86f085d80c3acda370b7d71ed",
       "filename": "2025_RFE-Intubation-adulte-hors-bloc-hors-rea-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:103153",
@@ -315,11 +490,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3270447,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "66bc8ae065dcb57b33e562a1e3e9dfb826cc5ec6fd0623c9fd3eed86d0c26554",
       "filename": "2025_SFAR-SFA_RFE-Diagnostic-et-prise-en-charge-des-reactions-dhypersensibilite-immediate-perioperatoires.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:75093",
@@ -335,11 +511,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 897751,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "3675831072dc74789974038452478976d25f60aa97137b1364bd29e152c517e5",
       "filename": "reco_sepsis.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:75097",
@@ -355,11 +532,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1923315,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "a5219eb27ac26e51e07d849d92b20e144c93428f0416b600d679ed6a56304f07",
       "filename": "argu_sepsis.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:75094",
@@ -375,11 +553,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 291601,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "615ce6c770cef1c906150bb172d832ab7af7d8394955c3778f7d5a6065b8416f",
       "filename": "fiche_sepsis_aval.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:75095",
@@ -395,11 +574,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 323699,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a606302b7bb5a676f197f96df4bd32bf6a3012dfd367290352a840b3df9472b4",
       "filename": "fiche_sepsis_amont.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:72905",
@@ -415,11 +595,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 769520,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "994758bb485af1b4fecde46342dd13b753d3c2fe58f15579c89d15266e9b23d7",
       "filename": "RPP-RH-AR-validee-CA-SFAR-191224-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:68460",
@@ -435,11 +616,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2634311,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "39d8ef362bed12d1e9bb919327b4ad55e0e40581cdd8c9d451ca51dcd58fc43d",
       "filename": "RPP-Prevention-des-erreurs-medicamenteuses.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:62247",
@@ -455,11 +637,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1744315,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "6379ef6546eaa5a6494f23d4ed007a530838251d568b4dc959b55d27e9c09f53",
       "filename": "240516-Txt-definitif-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:62044",
@@ -475,11 +658,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2409754,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "520b05836227694363ff759a04ca3e54a2e85b165c609f521b96815518d99e41",
       "filename": "2024_RFE-optimisation-hemodynamique-perioperatoire_adulte-dont-obstretriqueV2-1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:62045",
@@ -495,11 +679,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2809845,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "d0368c31c5069e2f32cc1ec00f2fe4750f09804a4615af919b718a313324514d",
       "filename": "RFE-gestion-de-lanticoagulation-dans-un-contexte-durgence_23.02.2024-1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:62059",
@@ -515,11 +700,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 830307,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5ab80392b036a267ce8a2e0d7bb678b4b3bcbbfb2aa27aa22f4bee5180ae63dc",
       "filename": "Algorithmes_RFE-gestion-de-lanticoagulation-dans-un-contexte-durgence_2024.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:62046",
@@ -535,11 +721,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 711831,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c6d39a1b3033d369eb171aad8f988798842880b60a728a4b0d9df6b93eb9b676",
       "filename": "PEDIA_RPP-Optimisation-Hemodynamique-Perioperatoire_Pediatrie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:53071",
@@ -575,11 +762,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2797856,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "9ff41920f00acd8231d0dff94150be18fddfd9c612f1fe8a98d32f81339bc62f",
       "filename": "RFE-antibioprophylaxie-2023_V3.0_pour-mise-sur-site-juin-2026_sans-code-CCAM.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:43179",
@@ -596,11 +784,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 947941,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "1a40f27a7bcae960329277ee37fb973eb87904bdd0176bca42c38b7718f35f18",
       "filename": "RPP-Organisation-Anesthesie-Pediatrique_-Version-pour-mise-sur-site-SFAR_220323.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:50052",
@@ -617,11 +806,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 5943108,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "6601a61394c3ff951eb4669b729463a7cbdf02f930b9de634326a0b8de80a56e",
       "filename": "RPP-Anesthesie-adulte-porteur-de-CC_pour-mise-sur-site.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:50051",
@@ -638,11 +828,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 5196824,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "66f9434be1d586fd940ce45ddbe15b7bc97c3e2b2a4907a2ea14a4ede04981f5",
       "filename": "RPP-Anestheesie-adulte-porteur-CC_fiches-pratiques_pour-mise-sur-site.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:50053",
@@ -659,11 +850,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1748706,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "e86215d84ef1427caf80a10f046d1aca8202a2997d620e0c33db1eda713a5626",
       "filename": "RPP-epanchement-pleural-2023_mise-sur-site-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:37889",
@@ -680,11 +872,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1159770,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "6ede197287dae86084b2a001f52e10ed69ac92563100b60c74cb6f431550b18e",
       "filename": "RFE-Programme-doptimisation-perioperatoire_pour-mise-sur-site_260922.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:37890",
@@ -701,11 +894,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 488180,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "b22db84dde32268c5cbfbf495c88f8dd05e9d7c77ec00eff99b079763a9e461a",
       "filename": "RPP-reduction-impact-environnemental_pour-mise-sur-site.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:32629",
@@ -722,11 +916,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 604786,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "416887e7f2adeab522be976ae3baace8aa6f6eda5b337b86bf032fd31d3dae70",
       "filename": "preconisations-inssuffisance-d-analgesie-cesarienne-sous-anesthesie-perimedullaire-prevention-et-prise-en-charge.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:33517",
@@ -764,11 +959,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 600490,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ecd95ac7fcbbb125c377d17b07d1719b721b6db6e68fe9537a60282e73d67fab",
       "filename": "Gestion%20perioperatoire%20des%20patients%20sous%20AOD%20pour%20un%20acte%20programm%C3%A9.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34412",
@@ -785,11 +981,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 646950,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "30205cad97c6d061941fdfd9eff73336a3188a8a128624001f020c8be2dea03e",
       "filename": "Gestion%20perioperatoire%20des%20patients%20sous%20AOD%20en%20urgence.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34804",
@@ -806,11 +1003,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1148513,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "c80a1ae8576ccc3c3c80c1580137282387d46b9665ec7f8ce7db315d3e9a1c3a",
       "filename": "2013%20AFAR%20GIHP.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34414",
@@ -827,11 +1025,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1204390,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "5a9220db92518daa8bdfa1f03f1d64ba66769d930cc6244ae0b568ac4d5fbdfb",
       "filename": "Gestion%20perioperatoire%20des%20patients%20sous%20AAP%20en%20urgence.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34421",
@@ -848,11 +1047,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 644505,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ba60e3c2fd90761e8b2f77df4de8f80fdaf68c93cdb8281effb2456cf1166666",
       "filename": "Tests%20viscoelastiques%202018.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:37888",
@@ -869,11 +1069,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 8780975,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "0140321b7727c0a7981bdc9cc83c4a4504ec2752d38f47869e9b44d58b50f53f",
       "filename": "RPP-FHS_pour-mise-sur-site.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:37892",
@@ -890,11 +1091,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 498923,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "103478812ec629b54c4f6162175d187ec5796e862c3c8ef4ee9ffde7c062874c",
       "filename": "RPP-thrombectomie-2022_version-definitive-octobre-2022.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:37891",
@@ -911,11 +1113,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 647382,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9c1d684ec991570a8d89e83598e62af30b4e12707b0108e837fcd986f29976b8",
       "filename": "RPP-Trauma-cranien-leger_pour-mise-sur-site_autorship-complet.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:36656",
@@ -932,11 +1135,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 446541,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "32dd157afe54f09c67303d762c97d8ddc7556723694b1eeb7699d20aa4562ac4",
       "filename": "rpp-urgences-obstetricales-en-medecine-durgence.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:46999",
@@ -953,11 +1157,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 5244273,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "682252634efa82a737b1bae7f014f91dfd70cca45a052adc24bc2b7f857951ed",
       "filename": "RPP-SFAR-COVID_Version-Avril-2022_abrogee-010723.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:36924",
@@ -974,11 +1179,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 5152321,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "c5bf315c4245cc80b57e0dc5327f749cee0f9eeb3b32d1da4cc6d78878cbe270",
       "filename": "RPP%20SFAR%20COVID_Version%20Avril%202022_finale%20sans%20marque.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34738",
@@ -1037,11 +1243,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 492549,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e65786125d7a4bbf04ea6191e60f6fdb54dfb143155df57de8e08ab161ea92bd",
       "filename": "Examen%20clinique%20Visio%20CAMR%20mars%202021.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34984",
@@ -1058,11 +1265,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 256802,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "29f680719252d9f41a91b00c060d94742ba10bd216ec14a5aac31929f714a5e0",
       "filename": "fonctionnalites%20des%20plateformes%20de%20TLC%20CAMR%20mars%202021.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34986",
@@ -1079,11 +1287,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 374981,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "29768eb2f43809d57f0511fb145ca2300bb7af514cf0ecab4ad47e63c1ba3ae4",
       "filename": "Facturation%20TLC%20CAMR%20mars%202021.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34987",
@@ -1100,11 +1309,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 613129,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c59241a966723a0d26832d6db53503d8114833ce82464d4d0a931d91dfec1a58",
       "filename": "Document%20Patient%20pour%20CAMR%20mars%202021.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34988",
@@ -1121,11 +1331,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 863490,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "0ddb963bd192007cb7e67575a24f286e4e09bed4584dda19110c6db067084ffd",
       "filename": "Proposition%20fiche%20TLC%20CAMR%20mars%202021.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:35399",
@@ -1142,11 +1353,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 559058,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "6d5cef88e436c4aad5d365ac9b0d58292b092260c99121939717f4fb81c55c51",
       "filename": "RFE%20SFAR-SF2H%20Tenue%20vestimentaire%20au%20bloc_finale_220921.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:35416",
@@ -1163,11 +1375,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1914892,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "cd842e11147d21dd96f9b0931473811f1a5520428686c298707dd2922dd21252",
       "filename": "RFE%20SFAR-SFCTCV%20RAC%20chirurgie%20cardiaque_finale_220921.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:35411",
@@ -1184,11 +1397,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1186696,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "b9866398bc9e621fba98092e52a5a2f40ff4a2a30fe142589fe91d5deb437ae2",
       "filename": "RFE%20SFAR%20pancreatite%20aigue_finale_220921.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34610",
@@ -1204,11 +1418,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1234193,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "cde74d3b91407330b25f290d5fe9558caa4326b156a7406143a88bf8d72c8bcf",
       "filename": "diagnostic-et-prise-ne-charge-dune-TIH.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:35406",
@@ -1225,11 +1440,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 522424,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c91c4c22e4db1bb75cfb5798e134706b865355466550ba026829cc4db014c3d3",
       "filename": "RFE-SFAR-SFMU-Solute%CC%81s-de-remplissage_finale_220921.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:30312",
@@ -1248,11 +1464,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 284774,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a9118da40ac29752e25bb463af276d930759057a13778bb58849e14f39331a58",
       "filename": "RPP_PLYO_2020.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:30313",
@@ -1293,11 +1510,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 500240,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "48fd8d5ea5c51ef092a1ccdccd9c71652831ff4c9a78ecbfd302e12891e425ea",
       "filename": "RFE_TSM_2020.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:30308",
@@ -1315,11 +1533,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 297787,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "00555395c3dab6af79ca385937718f4e1af7fb7f55b332ecdd0baa1c1cc3c2d8",
       "filename": "RFE_TSM_Fiches_pratiques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34698",
@@ -1338,11 +1557,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1717997,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "8989f8c1e5dbf3c2574422cc0d8f89619a4a864cb3ad1ee0e67338e44d8efdf1",
       "filename": "RFE%20pr%C3%A9-%C3%A9clampsie_finale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:30302",
@@ -1361,11 +1581,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 184163,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "2e91248cfac05c32ae04988c19b7274513b8daa5883c572549be8412459fcbe7",
       "filename": "RFE-pre-eclampsie_Fiches-pratiques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:26319",
@@ -1382,11 +1603,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1282428,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "5e6bf6bd3ea29b898a9b15811b38e9f9a82ab571ae3b4dbce925bb204637d2c9",
       "filename": "covid-19-evaluation-du-risque-covid-19-et-impact-sur-la-prise-en-charge-en-endoscopie-digestive.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24462",
@@ -1403,11 +1625,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 419302,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "03645b55f00e0c9ecf898f62caad0317e590f2f96bbfd8de6ed756e035730d7a",
       "filename": "rfe-gestion-anemie-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24482",
@@ -1424,11 +1647,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 116282,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "6644182969974ca8602a1a2fc0fb107627d54de842136b5eb12b081c2e8120df",
       "filename": "rfe-anemie-arbre-diagnostic-anemie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24463",
@@ -1446,11 +1670,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 534289,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "656ac9a0bafa7065b694bc255e057c53742cf7a1de1bd3a36a13550426c24adb",
       "filename": "rfe-trauma-abdominale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24485",
@@ -1468,11 +1693,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1677033,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "4abf14762f082ac7d7c4e96e90c9f73b61c892e3f23aff36fb0ff552550c77a0",
       "filename": "rfe-trauma-abdominal-fiche-synthese.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24464",
@@ -1490,11 +1716,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 577206,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "b7be1aa6a9e518f17f8ca6e70e11603dba82f3b368d15e1f925fefca03c2f329",
       "filename": "rfe-trauma-vertebro-medulaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24487",
@@ -1512,11 +1739,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 700543,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e042e3b3a6fad6f234b38e16f47b2d4f4966398623574b44bd37afb732d28475",
       "filename": "rfe-vertebro-medullaire-fiche-synthese.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://www.has-sante.fr/upload/docs/application/pdf/2019-07/fm_ponction_lombaire.pdf",
@@ -1532,11 +1760,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 707848,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ab6019ab5dd10a754fea0b72d166b91eaee4cb5ce57b0f227262d668c1ae7ff8",
       "filename": "fm_ponction_lombaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24465",
@@ -1554,11 +1783,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 606543,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e49758d4abcc7a1027adeccc163feae4cabd2c6b37d5244737f67582f19aa6f0",
       "filename": "rpp-prise-en-charge-du-brule-grave%20.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24489",
@@ -1576,11 +1806,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 397788,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "14b84c40dd70ad977f562e66006508b16a6a5c68097aa1550510b3d6ac2d54e2",
       "filename": "liste-des-centres-de-traitement-des-brules-francais-et-transfrontaliers.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24491",
@@ -1598,10 +1829,33 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3687385,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "7eb1e176de918aabfa572d4be8080fc301e75463404f60204da0525e27d37f9e",
       "filename": "rpp-urgence-brule-fiches-synthese.pdf",
+      "content_type": "application/pdf",
+      "skipped": true
+    },
+    {
+      "key": "wpdmdl:143770",
+      "download_url": "https://sfar.org/download/recommandations-incendies-en-france/?wpdmdl=143770",
+      "wpdmdl": "143770",
+      "landing_url": "https://sfar.org/prise-en-charge-du-brule-grave-a-la-phase-aigue-chez-ladulte-et-lenfant/",
+      "title": "Prise en charge du brûlé grave à la phase aiguë chez l’adulte et l’enfant",
+      "type": "RFE",
+      "discipline": "Reanimation | Urgences",
+      "subdomain": "Traumatologie",
+      "year": 2019,
+      "source_tabs": [
+        "Chronologie",
+        "Reanimation",
+        "Urgences"
+      ],
+      "error": "",
+      "downloaded": true,
+      "bytes": 426696,
+      "sha256": "e1db5168b8d9538937bf6af42787da59faf98c955b40a13a099859cb0741d2c5",
+      "filename": "Recommandations-incendies-France.pdf",
       "content_type": "application/pdf"
     },
     {
@@ -1619,11 +1873,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 542830,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ee63af291be220591dc9dd6e513cd0fbdcd7d158714bbb3d6e60e41c9962647c",
       "filename": "rfe-rac-lobectomie-pulmonaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24459",
@@ -1640,11 +1895,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 743532,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "bc800f53c3c082ac93ab4ea1c9534f666653b0fe3203d130e589a8eaf4924499",
       "filename": "rac-orthepedie-lourde.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24461",
@@ -1662,11 +1918,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1196522,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "7a3660b1d4aaa8337fd5b24086e24539c85cac2b8c6504d1aacaa0e3d2602140",
       "filename": "propositions-tih-gihp-gfht-sfar%20.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24495",
@@ -1683,11 +1940,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 5575678,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "ca17f7e0137d8246c5dc89f91b2572752b69789a5278a6dec1d4e3ffab682545",
       "filename": "rpp-hyperthermie-maligne.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:24496",
@@ -1704,11 +1962,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 814358,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "183c2b651536cfa572d0de0697aea20d1b577f977eaf28de2036e1a1a4948a6f",
       "filename": "rpp-hyperthermie-malinge-fiches-synthese.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/05/rfe-interets-de-lapprentissage-par-simulation-en-soins-critiques.pdf",
@@ -1726,11 +1985,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 904304,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "3d1b9f12c7777d644ee7782c54b7cedfe7494cb5c9cdebfcff122b214db7e856",
       "filename": "rfe-interets-de-lapprentissage-par-simulation-en-soins-critiques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/management-of-antiplatelet-therapy-for-non-elective-invasive-procedures-or-bleeding-complications.pdf",
@@ -1747,11 +2007,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 983212,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5c71cbc27ca183d97bae906b158efde74d118ce6b40f4a7b382c75b78813e45f",
       "filename": "management-of-antiplatelet-therapy-for-non-elective-invasive-procedures-or-bleeding-complications.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-gestion-des-agents-antiplaquettaires.pdf",
@@ -1768,11 +2029,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1291878,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "2e0942b3ba9b572c231010e5fc8531024f95ec4a3b1bee4940d7a3dea7234f8d",
       "filename": "rfe-gestion-des-agents-antiplaquettaires.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/10/2_RFE-CURARE-3.pdf",
@@ -1789,11 +2051,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1326520,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "4eac9657098972b4f697b29d4df7267e91b85290bc42e096eecead763a8f9ef0",
       "filename": "2_RFE-CURARE-3.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-gestion-des-voies-aeriennes-de-lenfant.pdf",
@@ -1810,11 +2073,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2518864,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "3f7a1f33045744da71937e2e5c93747bbbb8e7a80f0e6f7dee5ab9da6aa8b742",
       "filename": "rfe-gestion-des-voies-aeriennes-de-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/05/EXTE-USC-CNP.pdf",
@@ -1831,11 +2095,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1007356,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "7fb6b68dd3cd951fbf99c973e3b7d2fb3037b926770044f2d082d4c7a71fb343",
       "filename": "EXTE-USC-CNP.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/09/2_RFE-Hypothermie-Version-Finale-_-Validee-CRC120618.pdf",
@@ -1852,11 +2117,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 423214,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "f30664a45cb8c3d6c6ec5520934d39cdcfc7e796eacdebc6fdb7982ca28fde79",
       "filename": "2_RFE-Hypothermie-Version-Finale-_-Validee-CRC120618.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/09/RFE-IH-soins-critiques.pdf",
@@ -1874,11 +2140,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 698906,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "f67e161e93c2d43f90590806c0353009c9d35d7c955835a24d6356646c225713",
       "filename": "RFE-IH-soins-critiques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/09/RPP_beta-lactamines-en-soins-critiques_041018_logoSFPT.pdf",
@@ -1895,11 +2162,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2499247,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "9e94371ad9abcc11d4fd0f779b5f4a3b6867d344302a22b8d11b88f8205cb8fa",
       "filename": "RPP_beta-lactamines-en-soins-critiques_041018_logoSFPT.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/07/Antibioprophylaxie-RFE-mise-a-jour-2018.pdf",
@@ -1916,11 +2184,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1208200,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "c6a5c4047c25e9aa13615382ae527cf2632af2496a368d4d1332650251e842a6",
       "filename": "Antibioprophylaxie-RFE-mise-a-jour-2018.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/03/ACCPM-335.pdf",
@@ -1937,11 +2206,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 517258,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e0976b7ae44583018ba95c4a72fd4b1d337ea8f3735cc5a872a636dd5bdef565",
       "filename": "ACCPM-335.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/03/2_Gestion-des-agents-antiplaquettaires-pour-une-procedure-invasive-programmee.pdf",
@@ -1958,11 +2228,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 898337,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "89e3af1e64fccf3123297622db756511c487b796bb9dff446fb2b54c784be139",
       "filename": "2_Gestion-des-agents-antiplaquettaires-pour-une-procedure-invasive-programmee.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/03/2_Recos-SDRA.pdf",
@@ -1979,11 +2250,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1311943,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "a93bacbcc577d9f24ad2a739467d1856eeefb362a46558ada700f7362833c3de",
       "filename": "2_Recos-SDRA.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-early-management-of-severe-pelvic-injury.pdf",
@@ -2001,11 +2273,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 338102,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9c8ee2a2f1a064d7c6fa49834e2f12ea87fa122bcbbe465e095f55b37a89d6bf",
       "filename": "rfe-early-management-of-severe-pelvic-injury.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-prise-en-charge-des-traumatises-pelviens-graves-a-la-phase-precoce.pdf",
@@ -2023,11 +2296,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 940305,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a08dc68bb497207b537d0c3a4db952835629f5bae60e4a5b8488d0972ced77b5",
       "filename": "rfe-prise-en-charge-des-traumatises-pelviens-graves-a-la-phase-precoce.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/09/RFE-Hospital-acquired-pneumonia-in-ICU.pdf",
@@ -2044,11 +2318,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 980991,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e091db8bef3fc1fb84f5a249ea525354eaeb20333de6c7f6ba251be01414db3d",
       "filename": "RFE-Hospital-acquired-pneumonia-in-ICU.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/09/Pneumonies-associees-au-soins-de-reanimation-ANREA.pdf",
@@ -2065,11 +2340,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2148359,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "c53a1e1d913553eefe45f620951c1d8a39679b67e0efff003b9e835655b5e3b8",
       "filename": "Pneumonies-associees-au-soins-de-reanimation-ANREA.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-antibioprophylaxie-in-surgery-and-interventional-medicine.pdf",
@@ -2085,11 +2361,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 547713,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "643bc82440902d077959304368077d389869fb97230fa1e11b6c99ed424910c1",
       "filename": "rfe-antibioprophylaxie-in-surgery-and-interventional-medicine.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/08/Antibioprophylaxie-version-2017-CRC_CA_MODIF.pdf",
@@ -2105,11 +2382,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 821722,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ecc6c75512afa5895a5983f94d690b5b4bc996030c7394e6033e68cbfdb65f62",
       "filename": "Antibioprophylaxie-version-2017-CRC_CA_MODIF.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-anesthesie-du-sujet-age.pdf",
@@ -2126,11 +2404,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 541592,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "57537e52ef5ef1df890f7681de38f2b202c865ec585f18fa88ecfbd672749789",
       "filename": "rfe-anesthesie-du-sujet-age.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/09/RFE-ANREA-Intubation-difficile-et-extubation-en-anesthesie-chez-l-adulte.pdf",
@@ -2147,11 +2426,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3936522,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "71af0f7c96f69eff825b9bfc2f08c7635ad46d9278b59b96decbcd7f61962465",
       "filename": "RFE-ANREA-Intubation-difficile-et-extubation-en-anesthesie-chez-l-adulte.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/01/Tracheotomy-in-the-ICU-ACCPM.pdf",
@@ -2168,11 +2448,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2476507,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "491ddc5bc3e55f58314aea112164f3fe8bf16eade3a4d51f0de5fa85d276dbbd",
       "filename": "Tracheotomy-in-the-ICU-ACCPM.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/01/Tracheotomie-en-reanimation-ANREA.pdf",
@@ -2189,11 +2470,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 596348,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "4045405fe7c37274996bc4e532b1050fcef8f822dac0c49dd1de9d864316d9cf",
       "filename": "Tracheotomie-en-reanimation-ANREA.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/01/2_RFE-EC-en-rea-version-15-12-16.pdf",
@@ -2210,11 +2492,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1211605,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "cdc74db830916b0cc605f7e5135032bd6c20cf9ef94fc63426667d820d2d49bf",
       "filename": "2_RFE-EC-en-rea-version-15-12-16.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-anesthesie-loco-regionale-perinerveuse.pdf",
@@ -2231,11 +2514,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 319171,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "bd75e5a650800484942f130664f18fc2a8a9e4e793a5ee4f41ad459631bba346",
       "filename": "rfe-anesthesie-loco-regionale-perinerveuse.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/11/texte-court-preco-erreurs-med-2016-SFAR-SFPC-version-finale-25-oct-2016.pdf",
@@ -2253,11 +2537,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1132474,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "9787c5a2f6b5dcca7cabd9847e43b033c81deaf95f71e3b0bac66b7543e5d340",
       "filename": "texte-court-preco-erreurs-med-2016-SFAR-SFPC-version-finale-25-oct-2016.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/11/texte-long-Preconisations-2016-erreurs-med-SFAR-SFPC-version-finale-25-oct-2016.pdf",
@@ -2275,11 +2560,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2323256,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "32ecd92e7ca9d4b44491574b22f2248bb24c84ae40da6a844c551ecfe03f3e73",
       "filename": "texte-long-Preconisations-2016-erreurs-med-SFAR-SFPC-version-finale-25-oct-2016.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/09/RFE-Intubation-and-extubation-of-the-ICU-patient.pdf",
@@ -2296,11 +2582,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 771657,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a16473b2ec2b1e2ff9103837d17dff18d43170bdc477167b9ff98d54e6e187aa",
       "filename": "RFE-Intubation-and-extubation-of-the-ICU-patient.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/09/Intubation-et-extubation-du-patient-en-reanimation-ANREA.pdf",
@@ -2317,11 +2604,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1536101,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "58d44e6d07845be46fb897b51f93cbe885bd0f31144ffc12248c030e76c20575",
       "filename": "Intubation-et-extubation-du-patient-en-reanimation-ANREA.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/03/RFE-ANREA-Organisation-de-l-anesthesie-reanimation-obstetricale.pdf",
@@ -2338,11 +2626,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 266817,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5a9973792b15e7587c087914db3e3ca18b217e9a48c06f1ceb23f223f9d008b2",
       "filename": "RFE-ANREA-Organisation-de-l-anesthesie-reanimation-obstetricale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/04/preparation-colique-anesthesie-generale.pdf",
@@ -2359,11 +2648,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 633015,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "47550ddaccbc7ab3402ead3f208cff11e62983fd09a6b890094b1a459690059c",
       "filename": "preparation-colique-anesthesie-generale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/09/RFE-Management-of-severe-traumatic-brain-injury.pdf",
@@ -2381,11 +2671,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 615036,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "1b54e325da9124d54efa3482938fb2f0ae64958c0473cae910147716d25947f5",
       "filename": "RFE-Management-of-severe-traumatic-brain-injury.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2017/09/RFE-ANREA-Prise-en-charge-des-traumatises-craniens-graves-a-la-phase-precoce.pdf",
@@ -2403,11 +2694,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1018459,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "966f8c6511cef367aef773015596ee2c97d3fbab6ab496b7a8031124698423ce",
       "filename": "RFE-ANREA-Prise-en-charge-des-traumatises-craniens-graves-a-la-phase-precoce.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-revision-of-expert-panel-guidelines-on-postoperative-pain-management.pdf",
@@ -2425,11 +2717,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 347177,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "8e6a11fb63b1df1fb6d1f55ce193809c74cf432b162b03904f01b377d19d41f1",
       "filename": "rfe-revision-of-expert-panel-guidelines-on-postoperative-pain-management.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/09/RFE-ANREA-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf",
@@ -2447,11 +2740,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 378253,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c2782975be42fd9955cb893a03f5b8fe86bb55a2b00e43f4e4e73d0ab41637e7",
       "filename": "RFE-ANREA-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/08/3-Tableaux-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf",
@@ -2469,11 +2763,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1521345,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "7b4c8a513bf7dbbb2e130623a37e8d8dee10ca7f50bcd45d4ab020dd4c9a5619",
       "filename": "3-Tableaux-Reactualisation-de-la-recommandation-sur-la-douleur-postoperatoire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/Reactualisation-GIHP_AOD_actes-programmes_Septembre-20151.pdf",
@@ -2489,11 +2784,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 386540,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "33c9a7a0579aa5aef564e19d135ede689cc1cda6102dac61e772c51928be86f7",
       "filename": "Reactualisation-GIHP_AOD_actes-programmes_Septembre-20151.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:53010",
@@ -2510,11 +2806,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3243518,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "658edfc702ae13ba9cef00601bf6ed112efeff7cd23859f2885dad5ba7b10772",
       "filename": "Anti-Tabac-Pour-un-parcours-patient-securise-1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:53268",
@@ -2531,11 +2828,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 98581,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "3ce3642de74a13918be1e91615ab99b3dff7c5bde5a64622ea0e67d156daa7a6",
       "filename": "Anti-Tabac-Pour-un-parcours-patient-securise-1-Sans-fond.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:53011",
@@ -2552,11 +2850,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3229857,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "f264e3eacf44459fcc2f174e873d6e20d88ee00344c01e1a445c6eca4d983292",
       "filename": "Anti-Tabac-Pour-un-parcours-patient-securise-2.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:53272",
@@ -2573,11 +2872,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 84006,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "da62aeb079f75d79fd01ed29d055b9446d020bd21d6858fbf4f83c05538d9842",
       "filename": "Anti-Tabac-Pour-un-parcours-patient-securise-2-Sans-fond.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/09/RFE-Guidelines-on-smoking-management-during-the-perioperative-period.pdf",
@@ -2594,11 +2894,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 375612,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "2ae3ce3b8a42bda98a1ee62e725d01bb631068e1d1457b0bfda5de4a57857be4",
       "filename": "RFE-Guidelines-on-smoking-management-during-the-perioperative-period.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/08/2-SFAR-RFE-tabac_proposition-CRC.pdf",
@@ -2615,11 +2916,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1176604,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "a9f16a0ff3ef4917f7fc08d8c72740fa9cb2510d93230161dd998c8dcab73b16",
       "filename": "2-SFAR-RFE-tabac_proposition-CRC.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/05/RFE-Targeted-temperature-management-in-the-ICU-Guidelines-from-a-French-expert-panel.pdf",
@@ -2637,11 +2939,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 610806,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "85b6362f9aefee88273120cbda668de9c596f0035403195f811cc1bf5ca0a240",
       "filename": "RFE-Targeted-temperature-management-in-the-ICU-Guidelines-from-a-French-expert-panel.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2019/10/rfe-controle-cible-de-la-temperature-en-reanimation.pdf",
@@ -2659,11 +2962,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 535799,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a712c2ed0fd67dbfae659362851dadfe4ef37f88b02a742a0f12738122ec5012",
       "filename": "rfe-controle-cible-de-la-temperature-en-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/03/RFE-ACCPM-Eye-protection-in-anaesthesia-and-intensive-care.pdf",
@@ -2681,11 +2985,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 379421,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "fdf503cd8969513f514ffe9aeedb59888e5fa7e1f3837bb0b87acc9dc0fbd53f",
       "filename": "RFE-ACCPM-Eye-protection-in-anaesthesia-and-intensive-care.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/03/Protection-oculaire-en-Anesthesie-et-Reanimation-1.pdf",
@@ -2703,11 +3008,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 220253,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e0c35256727a849a07cdc01f509c338cc70bb4b391efb0a60b33472c801ebc9f",
       "filename": "Protection-oculaire-en-Anesthesie-et-Reanimation-1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/RFE-IRA-anglais.pdf",
@@ -2725,11 +3031,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 861730,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d7165235cc39c7dcbcbe4f31bb38ae763c67687da9b846893957e461aa1bc11b",
       "filename": "RFE-IRA-anglais.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/05/ANREA_132_RFE-IRA-.pdf",
@@ -2747,11 +3054,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 687523,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "52a54123327a825c59dad2fabecea04fa98f141ea930ce542f874a4f07e75f8d",
       "filename": "ANREA_132_RFE-IRA-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/RFE-Guidelines-for-management-of-intra-abdominal-infections.pdf",
@@ -2769,11 +3077,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 632838,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ad0c77546747dcaacdaa969ca3b7e6eddcf50ff8328783ac5ec8e9e340dd83c9",
       "filename": "RFE-Guidelines-for-management-of-intra-abdominal-infections.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Prise-en-charge-des-infections-intra-abdominales.pdf",
@@ -2791,11 +3100,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 984662,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "b6b3b6969fe4377e64e45c1a11f3f1bd9414edd9196f5094b816da60e769a8e7",
       "filename": "2_AFAR_Prise-en-charge-des-infections-intra-abdominales.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/RFE-Guidelines-on-the-use-of-ultrasound-guidance-for-vascular-access.pdf",
@@ -2813,11 +3123,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 345125,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c21a965b757800c8a20eab5d5f5d624ccd2b93cc7fe85a4b9f29b7ce26f48213",
       "filename": "RFE-Guidelines-on-the-use-of-ultrasound-guidance-for-vascular-access.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_AFAR_utilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires.pdf",
@@ -2835,11 +3146,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 213461,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "00a54f72d78c1ae4c9518525e7c71642dfa7038109706931b63521f7693c6809",
       "filename": "2_AFAR_utilisation-de-lechographie-lors-de-la-mise-en-place-des-acces-vasculaires.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/08/RECOCHIRAMBUSNFCP-120315.pdf",
@@ -2856,11 +3168,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 382000,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "de5fbe80460846e9854dadd51cee471ad0d0f59019c54357744a267e4f3fb6cb",
       "filename": "RECOCHIRAMBUSNFCP-120315.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_HAS_transfusion_de_globules_rouges_homologues_-_produits_indications_alternatives_-_recommandations.pdf",
@@ -2879,11 +3192,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 712937,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "57ad8ef2478d44cb017e98420e80e7d3534092af7a2767110914bf093d11da47",
       "filename": "2_HAS_transfusion_de_globules_rouges_homologues_-_produits_indications_alternatives_-_recommandations.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Recommandations-sur-la-reanimation-du-choc-hemorragique.pdf",
@@ -2902,11 +3216,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 439817,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a38f8d9b5b32af0607e7dfb211a216c3c26e1cd3ae2befe778936f52b3cd87e7",
       "filename": "2_AFAR_Recommandations-sur-la-reanimation-du-choc-hemorragique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee.pdf",
@@ -2923,11 +3238,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 675359,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "84aad5317b083dd1e63665dc0667c012a9274058886a7bd8cfa6b4566bf064de",
       "filename": "2_AFAR_Rehabilitation-rapide-apres-une-chirurgie-colorectale-programmee.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_SPILF_Strategies-de-reduction-de-lutilisation-des-antibiotiques-a-visee-curative-en-reanimation.pdf",
@@ -2944,11 +3260,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 424894,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "91159839bfb32edb16c9991a3da774da2c8d54b4a970e351a825460cf9c0cb2f",
       "filename": "2_SPILF_Strategies-de-reduction-de-lutilisation-des-antibiotiques-a-visee-curative-en-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Nutrition-artificielle-en-reanimation.pdf",
@@ -2965,11 +3282,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 866377,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "19562a8850a6ee2473208346e94cbc9fdb093d13890af919c67062108d754b88",
       "filename": "2_AFAR_Nutrition-artificielle-en-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/RFE-Chest-trauma-First-48-hours-management.pdf",
@@ -2987,11 +3305,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 558242,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "f0ae0c116cbb67b257cd65fbd12af7246f3cb9fe3edf520f2056fd65e950a1f1",
       "filename": "RFE-Chest-trauma-First-48-hours-management.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Traumatisme-thoracique-_prise-en-charge-des-48-premieres-heures.pdf",
@@ -3009,11 +3328,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 568214,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "628f20367e3d645634e125ec376e948ae4c056a4088b604dc2f229c847a755e7",
       "filename": "2_AFAR_Traumatisme-thoracique-_prise-en-charge-des-48-premieres-heures.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_REANIMATION_epuration-extrarenale-en-reanimation-adulte-et-pediatrique.pdf",
@@ -3030,11 +3350,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 972380,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "3d36e4eaf5b47a50db9666ba048d74291fff1141543fb0b277cb80055edbbb0f",
       "filename": "2_REANIMATION_epuration-extrarenale-en-reanimation-adulte-et-pediatrique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Techniques-analgesiques-locoregionales-et-douleur-chronique.pdf",
@@ -3051,11 +3372,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 439132,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e21315081626122a112c250b66a5faccfdf5e30020bf71888b68e916d29836df",
       "filename": "2a_AFAR_Techniques-analgesiques-locoregionales-et-douleur-chronique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_Annexe_SFAR_TableauxRFEDCALR2.pdf",
@@ -3072,11 +3394,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1667253,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "145d452afd5bad1f50e8ef19e0fe7947a0323c6fa501c51afa5489a6f6eecdb7",
       "filename": "2b_Annexe_SFAR_TableauxRFEDCALR2.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_HyperthermieMaligne.pdf",
@@ -3092,11 +3415,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1036496,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "088c5f7b959353d6597a56540aecd517f47149ae62a6e81ded8917c2cf905fb2",
       "filename": "2_SFAR_HyperthermieMaligne.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_PUROL_Recommandations-chirurgie-ambulatoire-en-urologie.pdf",
@@ -3113,11 +3437,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1020096,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "e45cdedf18d6da1cdf70402df014d869a497d14b02d24f4928431774ac0a4529",
       "filename": "2_PUROL_Recommandations-chirurgie-ambulatoire-en-urologie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_ANGLAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf",
@@ -3135,11 +3460,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 463232,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d314a21594f893c75c143f1eb506c515e0ff837458c12e7db92356f55f3a863f",
       "filename": "2b_AFAR_ANGLAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2a_AFAR_FRANCAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf",
@@ -3157,11 +3483,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 501409,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "28a91628c7a9db6a09d36c7888d3f6af17baf16a98f4064d0a5148c510dda94f",
       "filename": "2a_AFAR_FRANCAIS_Strategie-du-remplissage-vasculaire-perioperatoire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_AFAR_COURT_Bris-dentaires-perianesthesiques-copie.pdf",
@@ -3178,11 +3505,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 147007,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e84cfef69edfe67eba657c31e29d880c82674cca1acfebd165ad0bf36aaf0e8a",
       "filename": "2_AFAR_COURT_Bris-dentaires-perianesthesiques-copie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/3_AFAR_LONG_Bris-dentaires-perianesthesiques-copie.pdf",
@@ -3199,11 +3527,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 525873,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ba6acafceb3562a8ab0d150587fb70198886b6a19cae0e79974bc590637e9e4f",
       "filename": "3_AFAR_LONG_Bris-dentaires-perianesthesiques-copie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/AFAR_Examens-preinterventionnels-systematiques.pdf",
@@ -3220,11 +3549,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 444906,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a99473c797582fe617840db07196d488b775587aac784a6cbed2271c971e2735",
       "filename": "AFAR_Examens-preinterventionnels-systematiques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_HAS_Texte-court-ransfusion-de-plasma-therapeutique-Produits-indications.pdf",
@@ -3243,11 +3573,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 221569,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d3f0867419c8e321caf4f6d4465d3d2fb4dd8e36f51dfc98509e7b43631d55b3",
       "filename": "2_HAS_Texte-court-ransfusion-de-plasma-therapeutique-Produits-indications.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf",
@@ -3265,11 +3596,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 254644,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "da2bdaccfd53c3fd11a781a99e780e183dd2b0cfc526d40bb99d2eeab862b582",
       "filename": "2_AFAR_Prevention-de-la-maladie-thromboembolique-veineuse-postoperatoire-copie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_AFAR_Transport-intrahospitalier-des-patients-a-risque-vital.pdf",
@@ -3288,11 +3620,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 261175,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "2f8adbf191660929a75fdd8871c734e6c39d9ae24ab82de4f54affafcbe24462",
       "filename": "2_AFAR_Transport-intrahospitalier-des-patients-a-risque-vital.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_echographie-en-anesthesie-locoregionale.pdf",
@@ -3309,11 +3642,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 107794,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c3717d1a87b72e2144430bc7b12bb28b453acb3bc42a3bbd38b4c8c27911766b",
       "filename": "2_AFAR_echographie-en-anesthesie-locoregionale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-du-risque-allergique-peranesthesique.pdf",
@@ -3330,11 +3664,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 228360,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5c26e4dc9740e30ecdb8c57749614bdb925038cc6f0f1824c5f1224907788b6c",
       "filename": "2_AFAR_Prevention-du-risque-allergique-peranesthesique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Urgences-Obstetricales-Extrahospitalieres.pdf",
@@ -3351,11 +3686,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 582244,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "47ad8572c6368c37f3ed7a22de891bd87d7ca87c2bf30a346d744a3bd29305fb",
       "filename": "2_AFAR_Urgences-Obstetricales-Extrahospitalieres.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_ANAES_Prise-en-charge-de-l-interruption-volontaire-de-grossesse-jusqu-a-14-semaines.pdf",
@@ -3372,11 +3708,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 88245,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "06d0223128565e68bbcfc9ade1e843222161d2b46a01363fdb5c6eb66c2a35cf",
       "filename": "2_ANAES_Prise-en-charge-de-l-interruption-volontaire-de-grossesse-jusqu-a-14-semaines.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Anesthesie-loco-regionale-en-pediatrie.pdf",
@@ -3393,11 +3730,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 166769,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "6263526855494f266a49647c47f59b79797ed142d2555beb65e6c80bdbcd989f",
       "filename": "2_SFAR_Anesthesie-loco-regionale-en-pediatrie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Monitorage-de-ladequation-profondeur-de-lanesthesie-a-partir-de-lanalyse-de-lEEG-cortical.pdf",
@@ -3414,11 +3752,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 101094,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "33e09380510c4ff9637ff206e05cc556dcde0fd7bc92b3c265cc8bcb2312e0ac",
       "filename": "2_SFAR_Monitorage-de-ladequation-profondeur-de-lanesthesie-a-partir-de-lanalyse-de-lEEG-cortical.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-du-coronarien-qui-doit-etre-opere-en-chirurgie-non-cardiaque.pdf",
@@ -3435,11 +3774,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1340769,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "59da998df5dbc6169b79bc5edc27db7dfd54daae716c17626692e4cfd4a6d529",
       "filename": "2_AFAR_Prise-en-charge-du-coronarien-qui-doit-etre-opere-en-chirurgie-non-cardiaque.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Nutrition-artificielle-perioperatoire-en-chirurgie-programmee-de-ladulte.pdf",
@@ -3457,11 +3797,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 250527,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5c9884186c659dceeb1848433c280a737097177a1e71199742ab2b4d2497e061",
       "filename": "2_AFAR_Nutrition-artificielle-perioperatoire-en-chirurgie-programmee-de-ladulte.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_HAS_Texte_Long-Delivrance-de-l-information-a-la-personne-sur-son-etat-de-sante.pdf",
@@ -3479,11 +3820,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1150027,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "7d3a7beb5887ae62c712e61adb7f17c1f48375e66ec6fb01a132957ffe70bb93",
       "filename": "2b_HAS_Texte_Long-Delivrance-de-l-information-a-la-personne-sur-son-etat-de-sante.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_HAS_texte-court_Delivrance-de-linformation-a-la-personne-sur-son-etat-de-sante.pdf",
@@ -3501,11 +3843,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 140863,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a3d9aad7916797eb053a3bae4d04be25603d49a67cffa3240b31a5bac334779f",
       "filename": "2a_HAS_texte-court_Delivrance-de-linformation-a-la-personne-sur-son-etat-de-sante.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/2_AFAR_Sedation-analgesie-en-structure-d-urgence.pdf",
@@ -3522,11 +3865,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 3972287,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "f6f9b2f1018e4bbe4cef7e7a58bb8d4b0d6b82e275ee77573fe787c27d2a03fa",
       "filename": "2_AFAR_Sedation-analgesie-en-structure-d-urgence.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Prise-en-charge-pre-et-interhospitaliere-des-formes-graves-de-preeclampsie.pdf",
@@ -3542,11 +3886,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 688723,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "70a9a3dbefb2b1ff19c46e54fe9f69a615df7d5916cf588afd83ed0383ef4b7d",
       "filename": "2_SFAR_Prise-en-charge-pre-et-interhospitaliere-des-formes-graves-de-preeclampsie.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_UPDATE_Controle-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
@@ -3564,11 +3909,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 81225,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "1966bbdf1dc0044cfede68889ebeaf4fc8786289aa7fd595592e4ddefa66bb13",
       "filename": "2a_AFAR_UPDATE_Controle-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_Contrele-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
@@ -3586,11 +3932,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 182117,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "5f70487a9d0acb4d7cd2311f0f37c87deebdd901fbe92585470c413c2a29302d",
       "filename": "2b_AFAR_Contrele-de-la-glycemie-en-reanimation-et-en-anesthesie_une-reactualisation-necessaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Gestion-perioperatoire-des-traitements-chroniques-et-dispositifs-medicaux.pdf",
@@ -3607,11 +3954,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 909943,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "38a32f6d4ef443ba2f1385088c5351e8abfa372eaf8890d366c5e512d30abe75",
       "filename": "2_AFAR_Gestion-perioperatoire-des-traitements-chroniques-et-dispositifs-medicaux.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-anesthesique-des-patients-en-hospitalisation-ambulatoire.pdf",
@@ -3628,11 +3976,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 152133,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "038f21d4cf12e7cd450eed954af600878e88ef0aca2f9b40ed9e9417d0e1eadc",
       "filename": "2_AFAR_Prise-en-charge-anesthesique-des-patients-en-hospitalisation-ambulatoire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_HAS_Accident-vasculaire-cerebral-prise-en-charge-precoce.pdf",
@@ -3650,11 +3999,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 163044,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d95bcf103f922a48e85447d29b0cb9169dc6ea990500b7c4d4f8ec16344bdea7",
       "filename": "2_HAS_Accident-vasculaire-cerebral-prise-en-charge-precoce.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Mieux-vivre-la-reanimation.pdf",
@@ -3671,11 +4021,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 247983,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "8ed1f42dae816099a435aec06bfebade1bbcfea02e0e9a5c7bfed2f985eadfb5",
       "filename": "2_AFAR_Mieux-vivre-la-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_HAS_Prise-en-charge-des-surdosages-en-antivitamines-K.pdf",
@@ -3694,11 +4045,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 202389,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "27761365161d0492a35f224fdf8530a4548275d8f0d0461fb99943e6ff2d011a",
       "filename": "2_HAS_Prise-en-charge-des-surdosages-en-antivitamines-K.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_ANGLAISEExpert-panel-guidelines-2008.-Postoperative-pain-management-in-adults-and-children.-SFAR-Committees-on-Pain-and-Local-Regional-Anaesthesia-and-on-Standards..pdf",
@@ -3715,11 +4067,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 203577,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "90ce22762d340f0463d1f1a8a56bf48ef306cf71ca53c82a398d0f1caf603246",
       "filename": "2b_AFAR_ANGLAISEExpert-panel-guidelines-2008.-Postoperative-pain-management-in-adults-and-children.-SFAR-Committees-on-Pain-and-Local-Regional-Anaesthesia-and-on-Standards..pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2a_AFAR_Prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant.pdf",
@@ -3736,11 +4089,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 195160,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "b84fff84979d57e5823b54ad9a31f17584da8cafe8fe4ceb297b46d2a4056f99",
       "filename": "2a_AFAR_Prise-en-charge-de-la-douleur-postoperatoire-chez-ladulte-et-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prevention-des-infections-nosocomiales-en-reanimation-transmission-croisee-et-nouveau-ne-exclus.pdf",
@@ -3757,11 +4111,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 268950,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c751007e72d935262de0001649d83383ff5cb809bb58ce27d17cb633e9218a50",
       "filename": "2_AFAR_Prevention-des-infections-nosocomiales-en-reanimation-transmission-croisee-et-nouveau-ne-exclus.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/Organisation-et-Structuration-de-l-Hopital-en-cas-de-pandemie-de-grippe-aviaire-Aspects-specifiques-inherents-a-lactivite-de-Reanimation.pdf",
@@ -3778,11 +4133,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 407636,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "23dabcdb85afc9d133514faec40e8232eebf912fe0964b62affefe85a35f641b",
       "filename": "Organisation-et-Structuration-de-l-Hopital-en-cas-de-pandemie-de-grippe-aviaire-Aspects-specifiques-inherents-a-lactivite-de-Reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2014/04/preverreurmedic_recos.pdf",
@@ -3798,11 +4154,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 245468,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "8e85cfd0fa91d462385e9be9aef33430ba5ef21015e050bc54c3c66db247ab5d",
       "filename": "preverreurmedic_recos.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/3_REANIMATION_Prise-en-charge-en-situation-durgence-et-en-reanimation-des-etats-de-mal-epileptiques-de-ladulte-et-de-lenfant.pdf",
@@ -3820,11 +4177,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 392339,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "61409b1c093349bf675d7c1e0c98028a53eb08019a7803fbd3418169d4424f9d",
       "filename": "3_REANIMATION_Prise-en-charge-en-situation-durgence-et-en-reanimation-des-etats-de-mal-epileptiques-de-ladulte-et-de-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Recommandations-sur-les-indications-de-lassistance-circulatoire-dans-le-traitement-des-arrets-cardiaques-refractaires.pdf",
@@ -3842,11 +4200,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 264391,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "dacd7e2caf5ff6ae3e310185daef56c27f28bdedea1cd34fdfd368537d84b96d",
       "filename": "2_AFAR_Recommandations-sur-les-indications-de-lassistance-circulatoire-dans-le-traitement-des-arrets-cardiaques-refractaires.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_texte-long_Securisation-des-procedures-a-risques-en-reanimation.pdf",
@@ -3863,11 +4222,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1391498,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "ac3a627175f6f49fb2300b94286a609243269422b27688d23bd38deaa2eeed22",
       "filename": "2b_AFAR_texte-long_Securisation-des-procedures-a-risques-en-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Texte_court_Securisation-des-procedures-a-risques-en-reanimation.pdf",
@@ -3884,11 +4244,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 198326,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "632cc7591eda9ef6a9bca0f2d012b1a19cdda3e80a5e938bc62b29db910c2694",
       "filename": "2a_AFAR_Texte_court_Securisation-des-procedures-a-risques-en-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-des-nausees-et-vomissements-postoperatoires.pdf",
@@ -3905,11 +4266,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 608349,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a6f4bb53e22fa95316f6ef23d1803bcbdc40d966e2b52be0f908e34dfb32d1a5",
       "filename": "2_AFAR_Prise-en-charge-des-nausees-et-vomissements-postoperatoires.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2c_AFAR_Texte_long_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf",
@@ -3926,11 +4288,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 244634,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "1eab5a3e3eee61a76c5df37482c831256c160d5b18f33cfbd658dd27ebd41bf3",
       "filename": "2c_AFAR_Texte_long_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_aspet-pediatriques.pdf",
@@ -3947,11 +4310,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 458442,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d85e1f75b6a38a2bbf77d58096191712c5ff7c93a58ae112fa639fefa31bbf23",
       "filename": "2b_AFAR_aspet-pediatriques.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_AFAR_Texte_court_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf",
@@ -3968,11 +4332,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 330055,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d272be2427dec2bb30b1e0852d464622fbef30cb1f840ef8aeb9ed3ce1548308",
       "filename": "2a_AFAR_Texte_court_Sedation-et-analgesie-en-reanimation_nouveau-ne-exclu.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Blocs-perimedullaires-chez-ladulte.pdf",
@@ -3989,11 +4354,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 799023,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c289cca5d90f36ed53bb1acd14a2e5ecba61629b0b844fcdaf7c27b624c2e1da",
       "filename": "2_AFAR_Blocs-perimedullaires-chez-ladulte.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Gestion-du-traitement-anti-plaquettaire-.pdf",
@@ -4011,11 +4377,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 221484,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "07c550b2d0dac0815d1f30ea89aeeecd6a6039c5e1859e539431170bff8f469d",
       "filename": "2_AFAR_Gestion-du-traitement-anti-plaquettaire-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-initiale-des-etats-septiques-graves-de-ladulte-et-de-lenfant.pdf",
@@ -4033,11 +4400,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 711488,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "78dfac640d022177c050d31d0d1f0da533b179bd3035f17996b28d6134e9f1d1",
       "filename": "2_AFAR_Prise-en-charge-initiale-des-etats-septiques-graves-de-ladulte-et-de-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-de-larret-cardiaque-1.pdf",
@@ -4055,11 +4423,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 650555,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c70196ccfb46b8fdeb2543a11c749aa10d992c99f6b7b7c6f892e81fd53386fc",
       "filename": "2_AFAR_Prise-en-charge-de-larret-cardiaque-1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_HAS_TEXTE-LONG_Prise-en-charge-de-linfarctus-du-myocarde.pdf",
@@ -4077,11 +4446,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 690580,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ba86c169cab054d971f5b3f8b39d3404006adab463282ec7eeb0fc2f6c1db860",
       "filename": "2b_HAS_TEXTE-LONG_Prise-en-charge-de-linfarctus-du-myocarde.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_HAS_TEXTE-COURT_Prise-en-charge-de-linfarctus-du-myocarde.pdf",
@@ -4099,11 +4469,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 170049,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "110064f6c71358f914c26e167711ade833ac4cda022cb7fe90cb8f6f9c7693c3",
       "filename": "2a_HAS_TEXTE-COURT_Prise-en-charge-de-linfarctus-du-myocarde.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_texte-court_Monitorage-du-patient-traumatise-grave-en-prehospitalier.pdf",
@@ -4121,11 +4492,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 219461,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "39295988595fc1ca32691fadf3dc61379405acfe26a97f5638249780a632a7c3",
       "filename": "2_SFAR_texte-court_Monitorage-du-patient-traumatise-grave-en-prehospitalier.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_SFAR_texte-long_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
@@ -4143,11 +4515,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 80228,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "4c6fe67679a1771ccc0c24a9aea5ca41e36219a9ba064699a98fb2d681d25809",
       "filename": "2b_SFAR_texte-long_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_texte-court_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
@@ -4165,11 +4538,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 614012,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "79b8d5f82ed93bb82c45504a3ff57418238e234913d58454b45ce402b7566242",
       "filename": "2a_SFAR_texte-court_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2C_SFAR_EPP_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
@@ -4187,11 +4561,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 107179,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c39419c0bc6a98240163eb4f5295c663c5ee6dc31cb9ae03ab63fe10499d7e7c",
       "filename": "2C_SFAR_EPP_Ventilation-Non-Invasive-au-cours-del-insuffisance-respiratoire-aigue.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_TEXTE-LONG_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf",
@@ -4208,11 +4583,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1348747,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "f868e3a236ac71c27ddb66b86380c10c3673103b3711d9b311f16017a81bf1b0",
       "filename": "2b_AFAR_TEXTE-LONG_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_TEXTE-COURT_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf",
@@ -4229,11 +4605,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 179184,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "cf569ad0e5bd0fd1f28d5832eefd0dccf0e79328a472872fb9ce83871d4de1c6",
       "filename": "2a_SFAR_TEXTE-COURT_Anesthesie-pour-amygdalectomie-chez-lenfant.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_TEXTE-LONG_AFAR_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
@@ -4251,11 +4628,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 613896,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "0130f359293238d017fab57bc8e10875d9b7abce61c354f7d9bf91a7ff9c9430",
       "filename": "2b_TEXTE-LONG_AFAR_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_TEXTE-COURT_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
@@ -4273,11 +4651,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 261174,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "7be0903d0bb73517207de4bf21bf445ddaeba7138bc680810e1b8d4faa952108",
       "filename": "2a_TEXTE-COURT_Prise-en-charge-hemodynamique-du-sepsis-grave.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-des-sujets-en-etat-de-mort-encephalique-dans-loptique-dun-prelevement-dorganes.pdf",
@@ -4295,11 +4674,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 127571,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c953e646c499718150628f77397edcaec939bc2ba790b3e88aed61ce3362080d",
       "filename": "2_AFAR_Prise-en-charge-des-sujets-en-etat-de-mort-encephalique-dans-loptique-dun-prelevement-dorganes.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/Recommandations-concernant-la-mise-en-place-la-gestion-l-utilisation-et-l-evaluation-d-une-salle-d-accueil-des-urgences-vitales.pdf",
@@ -4316,11 +4696,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 97997,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "91d9a15379b01b3c8080194b33e5ae94176113b706aac627dc696206cd718903",
       "filename": "Recommandations-concernant-la-mise-en-place-la-gestion-l-utilisation-et-l-evaluation-d-une-salle-d-accueil-des-urgences-vitales.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Traitement-des-urgences-transfusionnelles-obstetricales.pdf",
@@ -4339,11 +4720,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 257825,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "8666e9b0e4bd00145123616ed352007b062182677613d4dc3844a864ae5dcd1b",
       "filename": "2_SFAR_Traitement-des-urgences-transfusionnelles-obstetricales.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/2_AFAR_Pratique-des-anesthesies-locales-et-locoregionales-par-des-medecins-non-specialises-en-anesthesie-reanimation-dans-le-cadre-des-urgences.pdf",
@@ -4361,11 +4743,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 175563,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "2ac61daeefd34aba9334f9cc4d6ad55c488605ae71584586d4f99fc585f55434",
       "filename": "2_AFAR_Pratique-des-anesthesies-locales-et-locoregionales-par-des-medecins-non-specialises-en-anesthesie-reanimation-dans-le-cadre-des-urgences.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Prise-en-charge-des-candidoses-et-aspergilloses-invasives-de-ladulte.pdf",
@@ -4382,11 +4765,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 532304,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d7c8a91e52d237dcc86f44a8bfd010e0d123026e0969d035f4270c4d732a9ed3",
       "filename": "2_SFAR_Prise-en-charge-des-candidoses-et-aspergilloses-invasives-de-ladulte.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Antibiotherapie-probabiliste-des-etats-septiques-graves.pdf",
@@ -4404,11 +4788,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 113726,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "40b8e3f43729a3ab83b3b95abf27d1bcf80527205ed70a65542690b477585a1c",
       "filename": "2_AFAR_Antibiotherapie-probabiliste-des-etats-septiques-graves.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_AFAR_texte-long_Hemorragies-sous-arachnoidienne.pdf",
@@ -4426,11 +4811,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1619647,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "5ab37835ecb2459723cbfede1e2f5bf432a9b7d13b0416d6293a4ac244424aa8",
       "filename": "2b_AFAR_texte-long_Hemorragies-sous-arachnoidienne.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_SFAR_texte-court_Hemorragies-sous-arachnoidienne.pdf",
@@ -4448,11 +4834,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 95171,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "c64687d58ce3ad38b882b89b971c5b3b4573a812ddab0c062821f6943b69deb6",
       "filename": "2a_SFAR_texte-court_Hemorragies-sous-arachnoidienne.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Prise-en-charge-d-un-blesse-adulte-presentant-un-traumatisme-vertebro-medullaire.pdf",
@@ -4470,11 +4857,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 529540,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "6eb395a5b592d7da974d222cbcfa77cd215bc3669a2fd053d932429b80c853b3",
       "filename": "2_AFAR_Prise-en-charge-d-un-blesse-adulte-presentant-un-traumatisme-vertebro-medullaire.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/12/2b_AFAR_Texte-Long_.pdf",
@@ -4491,11 +4879,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 172714,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ff2a6fa667dee269199f1736228ccb7926151b9602399c3ecc98ad370ff4a15c",
       "filename": "2b_AFAR_Texte-Long_.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/12/1-2a_SFAR_Texte-court-Controle-des-voies-aeriennes-en-anesthesie-en-dehors-de-l-intubation-difficile.pdf",
@@ -4512,11 +4901,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 93748,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "e5475e1579ca85d77429b72405989e57f730f36e06a9576275edfdf9a15868ea",
       "filename": "1-2a_SFAR_Texte-court-Controle-des-voies-aeriennes-en-anesthesie-en-dehors-de-l-intubation-difficile.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/86-civdccons.pdf",
@@ -4533,11 +4923,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 175889,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d0a5c855b2bb05e2156e271bdf5b952e9a236465695e26448b81a368bdc7803c",
       "filename": "86-civdccons.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Thrombopenie-induite-par-lheparine.pdf",
@@ -4555,11 +4946,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 174014,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "7850bdad252b89df75c19103254016839414a24c7c00f1b84200e4f234b9bcbe",
       "filename": "2_AFAR_Thrombopenie-induite-par-lheparine.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/1-s2.0-S1624069303000513-main.pdf",
@@ -4576,11 +4968,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 231772,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d3592a1b13c79208e27e02bd3158c1baca7dfb6b48038db7c2eab57f575b8e0b",
       "filename": "1-s2.0-S1624069303000513-main.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/REANIMATION_Prise-en-charge-des-crises-dasthme-aigues-graves-de-ladulte-et-de-lenfant-.pdf",
@@ -4598,11 +4991,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 128288,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "4ff021f361f2a6949136cc71668f4082f1a5355493ff31f25a6c8085475fa3e1",
       "filename": "REANIMATION_Prise-en-charge-des-crises-dasthme-aigues-graves-de-ladulte-et-de-lenfant-.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2014/04/196-reco-anesth-chir-autres-2001.pdf",
@@ -4619,11 +5013,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 113573,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "8a8dc3e9b38e43c83fffd70fa19d7220e3a03fa4e08ced6e486400ca460a03eb",
       "filename": "196-reco-anesth-chir-autres-2001.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/Dossier-AnesthRea-SFAR.pdf",
@@ -4640,11 +5035,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 641573,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "e8d945749f9d36189538f6869c8b7d23e7598f1e5a83034c622a14aa7e18f3ce",
       "filename": "Dossier-AnesthRea-SFAR.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/art54_dossierarannpre.pdf",
@@ -4661,11 +5057,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1093278,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "a530d44185f99df2a90b2b8354344ed6e2fd7ab9be350f07c4c39068921352b7",
       "filename": "art54_dossierarannpre.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/art54_dossieraranninform.pdf",
@@ -4682,11 +5079,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 6018015,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "da0124f09fa05dd125b9d8c90d722b6c206c0b590eab8aa7ce27a7b76e5bb726",
       "filename": "art54_dossieraranninform.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/art54_dossierarannperpost.pdf",
@@ -4703,11 +5101,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1654292,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "d24207d987eb29dbb0dd8399a45a4b4b0ecad4931c42ac97a688f738e8282b4b",
       "filename": "art54_dossierarannperpost.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/art54_dossieraranncomplet.pdf",
@@ -4724,11 +5123,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1816974,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "df14652fbbe0e19514ba257471390aa7c939e08b9fd5b5df2ee2f12d067c49de",
       "filename": "art54_dossieraranncomplet.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_AFAR_Les-blocs-peripheriques-des-membres-chez-l-adulte.pdf",
@@ -4744,11 +5144,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 247812,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9b260fc1f77419fb999e4ad7fa6e1c18725f800f022f26a48820706a4df5bc15",
       "filename": "2_AFAR_Les-blocs-peripheriques-des-membres-chez-l-adulte.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/Annales-de-Readaptation-et-de-Medecine-Physique_Les-traumatises-craniens-adultes-en-medecine-physique-et-readaptation.pdf",
@@ -4765,11 +5166,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 82573,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "15d6542fb4b7076840be742ef8e2bc7962583fd9ab2c4d490bb727f18cb2e614",
       "filename": "Annales-de-Readaptation-et-de-Medecine-Physique_Les-traumatises-craniens-adultes-en-medecine-physique-et-readaptation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/cc_pancreatiteaigue20010.pdf",
@@ -4787,11 +5189,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 80228,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "942691abf42fc42bce28fdfcbcc3a36887005135b20422fbb0bf9d4508526d28",
       "filename": "cc_pancreatiteaigue20010.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Sevrage-de-la-ventilation-mecanique.pdf",
@@ -4808,11 +5211,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 290811,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "edbac57bc742bb24e06fb244b2efe932ca8e3a80d71fe846c6c812ecb480e776",
       "filename": "2_SFAR_Sevrage-de-la-ventilation-mecanique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2_SFAR_Corticotherapie-au-cours-du-choc-septique-et-du-SDRA.pdf",
@@ -4829,11 +5233,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 25261,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "5a9d32879829584140bc895926b3cce9bc2856df9c66572757db577aca4da289",
       "filename": "2_SFAR_Corticotherapie-au-cours-du-choc-septique-et-du-SDRA.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/10/200502-Recommandations_SFAR_SRLF-OrganisationDesUSC.pdf",
@@ -4849,11 +5254,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 81413,
+      "downloaded": false,
+      "bytes": 130,
       "sha256": "67c8800ad922f7019b95bbd58ce3101d8392524d1b9848d0d6c905bf741d108d",
       "filename": "200502-Recommandations_SFAR_SRLF-OrganisationDesUSC.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2_SFAR_Recommandations-pour-les-structures-et-le-materiel-de-lanesthesie-pediatrique.pdf",
@@ -4870,11 +5276,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 140387,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "140c931ff8f752cfeb45885ddd0e9e5512875908644262b967c1433ae4ee4bcb",
       "filename": "2_SFAR_Recommandations-pour-les-structures-et-le-materiel-de-lanesthesie-pediatrique.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/Recommandation_Prise_en_charge_douleurs_induites_par_traitement_cancers_VADS_2014_TC11.pdf",
@@ -4891,11 +5298,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1320124,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "eb3eb333c39e905e69a1e5c8d35dcc2f7d57a9eed0872c927a9b082394e6d330",
       "filename": "Recommandation_Prise_en_charge_douleurs_induites_par_traitement_cancers_VADS_2014_TC11.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/Recommandation_antalgique_post_amygdalectomie_2014_TC2.pdf",
@@ -4912,11 +5320,12 @@
         "Chronologie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1317520,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "9ae464f4f007e68618d2f4399dab81d2dfd6f19696c01d60047ae8bf17e04761",
       "filename": "Recommandation_antalgique_post_amygdalectomie_2014_TC2.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/livretadaptationIDEReanimation.pdf",
@@ -4933,11 +5342,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1052786,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "d1306f422ff4206f0fef521fc155cc78bdb43c229e91d1162f082cd18b5218f8",
       "filename": "livretadaptationIDEReanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/MANIFESTEformationIDEReanimation.pdf",
@@ -4954,11 +5364,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 111502,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "1052b28c867592e5cbe62a0517a57ae5f4131499ef2761ba2241296711b33184",
       "filename": "MANIFESTEformationIDEReanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/11/ReferentielcompetencesIDEReanimation.pdf",
@@ -4975,11 +5386,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 271254,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "78b7820bc9a7926d6c10459a943b70070462326d0017735ab82a39a0f4659303",
       "filename": "ReferentielcompetencesIDEReanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2018/12/2_Recos-Org-Blocs-moteurs-SOFMER-SFAR.pdf",
@@ -4995,11 +5407,12 @@
         "Anesthesie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 762059,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "994996163bdc62054acccbdaa5f780ac1d302f077e644da3c1ab7da96a3eef34",
       "filename": "2_Recos-Org-Blocs-moteurs-SOFMER-SFAR.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2014/04/122-recosfdv0606.pdf",
@@ -5015,11 +5428,12 @@
         "Anesthesie"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 806976,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "ce421b9a53c9dbc8f1d22d43fd9a8d83943723f6d18eae797967dbfeb6f753ce",
       "filename": "122-recosfdv0606.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2b_SFAR-Anglais.pdf",
@@ -5035,11 +5449,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 223196,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "7075ff2b034f497bfb6dc6d6c22e2f5bfaaaf01b13b586edc2a5501824d0df7e",
       "filename": "2b_SFAR-Anglais.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/10/2a_SFAR-Francais.pdf",
@@ -5055,11 +5470,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 123309,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9076ffd7264f8bdfbc2d258ec66cce13a1eeb81ecc307b241e4545a596636ad6",
       "filename": "2a_SFAR-Francais.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34433",
@@ -5075,11 +5491,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 630871,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "7ec8dc11bfd0913e6a0c363aad936f5ed5bc593c8e43a29543150b1500b55807",
       "filename": "Prise%20en%20charge%20en%20urgence%20Thromboses%20post%20vaccination%20anticovid%20SFNV%20SFMV%20GFHT%2028%20avril.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:33812",
@@ -5095,11 +5512,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 547789,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9401115350a705279c75452fdb2e9ae1bb41f7fa0dcd30109c853f9a7049399e",
       "filename": "GIHP%20thrombose%20post%20vaccination%20.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34409",
@@ -5115,11 +5533,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 145004,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "9400a41053670a2eced797f64279f2aad30be4373a24b8b4d6d4b7493a12aad4",
       "filename": "Traitement%20antidoagulants%20patients%20COVID-19.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:34830",
@@ -5135,11 +5554,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 451915,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "d075317225f231dfaf49ab00bffb2d8afaa55cec63ce4c301d8a42cb3da65d40",
       "filename": "Propositions%20GIHP%20GFHT%202021-combin%C3%A9.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:25387",
@@ -5155,11 +5575,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 948459,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "2c7bbc98bd5d77671e51a4c6f9d7a27caf96e89357124b6b43022b17a9889bc4",
       "filename": "covid-19-rfe-reanimation.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "wpdmdl:27872",
@@ -5175,11 +5596,12 @@
         "Reanimation"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 684504,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "1a72c8985bcecebe922613d298536fce2310290c41a3d2d4f98e8dfd25ccfefb",
       "filename": "guide-mise-en-place-gestion-reanimation-ephemere.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/recommandations_-_delivrance_de_linformation_a_la_personne_sur_son_etat_de_sante.pdf",
@@ -5195,11 +5617,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 140863,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "a3d9aad7916797eb053a3bae4d04be25603d49a67cffa3240b31a5bac334779f",
       "filename": "recommandations_-_delivrance_de_linformation_a_la_personne_sur_son_etat_de_sante.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/Urgences-obstetricales-extrahospitalieres.pdf",
@@ -5215,11 +5638,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 582244,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "47ad8572c6368c37f3ed7a22de891bd87d7ca87c2bf30a346d744a3bd29305fb",
       "filename": "Urgences-obstetricales-extrahospitalieres.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2016/01/2_AFAR_echographie-en-anesthesie-locoregionale.pdf",
@@ -5235,11 +5659,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 107794,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "c3717d1a87b72e2144430bc7b12bb28b453acb3bc42a3bbd38b4c8c27911766b",
       "filename": "2_AFAR_echographie-en-anesthesie-locoregionale.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/BJA-2015-reco-ventilation-et-IOT1.pdf",
@@ -5255,11 +5680,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 1669236,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "3dc76f4d080e19ceb3ca502426643573c17e8a10ee0a1e3cc97fb9cace793cc6",
       "filename": "BJA-2015-reco-ventilation-et-IOT1.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2b_AFAR_Texte-Long_Intubation-difficile.pdf",
@@ -5275,11 +5701,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 2074393,
+      "downloaded": false,
+      "bytes": 132,
       "sha256": "850d77541bda0e682919e488c330c854ef55dfce39aba66e60df795f775495ca",
       "filename": "2b_AFAR_Texte-Long_Intubation-difficile.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     },
     {
       "key": "https://sfar.org/wp-content/uploads/2015/09/2a_SFAR_texte_court_Intubation-difficile.pdf",
@@ -5295,11 +5722,12 @@
         "Urgences"
       ],
       "error": "",
-      "downloaded": true,
-      "bytes": 537554,
+      "downloaded": false,
+      "bytes": 131,
       "sha256": "168b4afea0ae6e5c0cba02edc1a0f986e9014cd7e8ee770a85a9725b4c715afb",
       "filename": "2a_SFAR_texte_court_Intubation-difficile.pdf",
-      "content_type": "application/pdf"
+      "content_type": "application/pdf",
+      "skipped": true
     }
   ],
   "unresolved": [

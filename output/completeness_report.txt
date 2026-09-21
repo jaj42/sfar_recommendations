@@ -1,7 +1,7 @@
 ============================================================
 COMPLETENESS REPORT
 ============================================================
-Unique documents:        251
+Unique documents:        260
 Rows with no target:     7
 
 MISS — index rows that resolved to zero PDFs:
@@ -13,7 +13,7 @@ MISS — index rows that resolved to zero PDFs:
   - [None] La gestion périopératoire des patients sous AOD pour un acte programmé (404) https://sfar.org/espace-professionel-anesthesiste-reanimateur/outils-professionnels/boite-a-outils/reactualisation-des-propositions-du-gihp-pour-la-gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/
   - [None] Information des patients. Recommandations destinées aux médecins (404) https://www.has-sante.fr/portail/jcms/c_272040/informations-des-patients-recommandations-destinees-aux-medecins?xtmc=information%20patients&xtcr=7
 
-Downloaded OK:           246
+Downloaded OK:           255
 Download errors:         5
 
 ERROR — documents that failed to download cleanly:
@@ -24,7 +24,7 @@ ERROR — documents that failed to download cleanly:
   - source returned HTML (file missing upstream?): Indications de transfusion de plasmas lyophilisés (PLYO) che [https://sfar.org/download/modalites-de-prescription-du-plyo/?wpdmdl=30313]
 
 File types:
-  pdf: 246
+  pdf: 255
 
 Externally hosted documents (not on sfar.org): 5
   - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
@@ -35,14 +35,14 @@ Externally hosted documents (not on sfar.org): 5
 
 Per-year document counts:
   unknown: 22
-  2026: 5
+  2026: 13
   2025: 14
   2024: 8
   2023: 6
   2022: 10
   2021: 16
   2020: 7
-  2019: 17
+  2019: 18
   2018: 12
   2017: 11
   2016: 22
@@ -77,10 +77,6 @@ Reference titles missing from discovery: 12
   - Monitoring du patient traumatisé grave en préhospitalier
   - Information des patients. Recommandations destinées aux médecins
   - Recommandations concernant l'appareil d'anesthésie et sa vérification avant
-
-Curated ../pdfs basenames:            87
-Curated basenames not re-downloaded:  24
-Genuinely new basenames:              182
 
 ============================================================
 RESULT: ❌ NOT COMPREHENSIVE — see MISS/ERROR above
