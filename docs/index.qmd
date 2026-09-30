@@ -1,0 +1,174 @@
+---
+title: "Corpus des recommandations de la SFAR"
+subtitle: "Un jeu de données exploitable par machine en vue du Datathon"
+date: 2026-09-30
+date-format: "D MMMM YYYY"
+lang: fr
+format:
+  docx:
+    number-sections: true
+  typst:
+    number-sections: true
+    papersize: a4
+    margin:
+      x: 2.5cm
+      y: 2.5cm
+---
+
+*Un jeu de données exploitable par machine pour un data challenge LLM.*
+
+# Ce que fait ce projet
+
+La [SFAR](https://sfar.org) (Société Française d'Anesthésie-Réanimation) publie les
+recommandations de référence pour l'anesthésie, la réanimation et la médecine d'urgence en France.
+
+Ce dépôt contient un pipeline qui transforme ce site en un corpus sur lequel on peut calculer :
+
+1. **Découverte** : récupération de l'index en ligne (`https://sfar.org/recommandations/`),
+   parcours des quatre onglets (Chronologie, Anesthésie, Réanimation, Urgences) et résolution de
+   chaque ligne vers le ou les documents réels. Une ligne peut être un lien PDF direct, un paquet
+   WP Download Manager (la véritable URL est cachée dans `data-downloadurl`), ou une page de
+   présentation exposant plusieurs fichiers (version courte, version longue, argumentaire, aides
+   cognitives).
+2. **Téléchargement** : enregistrement de chaque document dans `output/pdfs/<année>/`, avec sa
+   taille, son empreinte SHA-256, son type de contenu et l'URL d'origine.
+3. **Conversion** : OCR de chaque PDF vers Markdown et HTML avec
+   [Chandra OCR 2](https://github.com/datalab-to/chandra), un modèle de langage visuel exécuté
+   localement sur le GPU, dans `output/chandra/<année>/<nom>/`, images comprises.
+4. **Publication** : production d'un manifeste de curation (`manifest.xlsx`), des métadonnées
+   brutes résolues (`discovery.json`), d'un rapport d'exhaustivité et d'un flux Atom
+   (`feed.xml`) permettant de surveiller les nouvelles recommandations.
+
+L'ensemble est idempotent : un document déjà enregistré et présent sur le disque est ignoré sans
+aucune requête HTTP, de sorte qu'une nouvelle exécution ne coûte que ce qui est réellement nouveau.
+
+## État du corpus au 30 septembre 2026
+
+| | |
+|:------------------------------|:---------------------------------|
+| Documents résolus depuis l'index | 272 |
+| Documents téléchargés | 267 (40 Mo de PDF) |
+| Documents océrisés | 264 (58 Mo de Markdown, HTML et images) |
+| Mots de texte extrait | environ 3,2 millions |
+| Années couvertes | 2000 à 2026 |
+| Types de documents | RFE 227, RPP 22, Préconisation 18, HAS 5 |
+
+Les cinq téléchargements en échec et les sept lignes non résolues correspondent à des **liens morts
+en amont** : pages de portail HAS retirées, erreurs `404`, versions WP Download Manager remplacées.
+Ils sont signalés plutôt que masqués, afin que la lacune soit documentée au lieu d'être silencieuse.
+
+# Pourquoi : préparer un data challenge LLM
+
+Ces recommandations forment un
+substrat particulièrement adapté à l'évaluation des modèles de langage sur un travail de
+connaissance clinique :
+
+- **Du français, spécialisé et authentique.** Le texte est de la prose médicale professionnelle
+  française, ni traduite ni synthétique. Il mobilise une terminologie que les jeux d'évaluation
+  généralistes n'abordent jamais.
+- **Une structure graduée.** Chaque recommandation porte explicitement un grade de recommandation
+  et un niveau de preuve (GRADE), le plus souvent avec le taux d'accord des experts. Cela fournit
+  une vérité de référence déjà écrite, donc des questions notables sans qu'un annotateur ait à
+  inventer la réponse.
+- **Une dimension longitudinale.** Un même sujet est réactualisé sur 25 ans (antibioprophylaxie,
+  gestion des voies aériennes, anticoagulation périopératoire). On peut demander à un modèle ce qui
+  a changé entre deux éditions : tâche de recherche et de raisonnement réellement difficile, et
+  test naturel de sa tendance à réciter une version périmée mémorisée à l'entraînement.
+- **Du multimodal et du désordre.** Les algorithmes décisionnels, les aides cognitives et les
+  tableaux de posologie vivent dans des figures. Savoir si l'OCR les conserve exploitables fait
+  partie du défi.
+- **Des publications récentes.** Comme le flux suit les nouvelles recommandations, les documents
+  parus après la date de coupure d'un modèle constituent un jeu de test non contaminé.
+
+Tâches candidates que le corpus permet immédiatement : questions-réponses en livre fermé et avec
+recherche documentaire (RAG), identification de la recommandation qui régit une vignette clinique
+donnée, extraction de triplets (recommandation, niveau GRADE, taux d'accord), résumé d'une version
+longue vers sa version courte, et détection de réponses contredisant l'édition en vigueur.
+
+Ce que le pipeline apporte à ce travail est la partie ingrate mais nécessaire : un ensemble de
+documents stable, la traçabilité par document (URL, année, type, spécialité, empreinte) permettant
+de justifier une partition apprentissage/test, du texte brut au lieu de PDF, et un processus
+réexécutable pour rafraîchir et versionner le corpus au lieu de le figer dans le dossier de
+téléchargement de quelqu'un.
+
+# Comment l'utiliser
+
+## Installation
+
+Le projet est un projet [uv](https://docs.astral.sh/uv/). Depuis la racine du dépôt :
+
+```bash
+uv sync
+```
+
+L'OCR requiert `chandra.sh` dans le `PATH` (ou l'option `--chandra-cmd`), appelé sous la forme
+`chandra.sh <répertoire-entrée> <répertoire-sortie>`. Sans GPU, on peut sauter l'étape de
+conversion.
+
+Toutes les commandes s'exécutent depuis la racine du dépôt, les chemins par défaut lui étant
+relatifs.
+
+## Le pipeline complet
+
+```bash
+uv run sfar-pipeline
+```
+
+Collecte, puis conversion, puis reconstruction du flux, en ne traitant que les nouveautés. Une
+collecte qui aboutit sans être exhaustive (les liens morts connus) n'interrompt pas le pipeline ;
+un échec franc (index injoignable, aucune entrée découverte) l'interrompt.
+
+## Les étapes séparées
+
+```bash
+uv run sfar-scrape                # découverte, résolution, téléchargement
+uv run sfar-scrape --verify-only  # revérifier l'exhaustivité (hors ligne)
+uv run sfar-convert               # océriser les PDF sans sortie chandra
+uv run sfar-convert --dry-run     # lister ce qui serait converti
+uv run sfar-feed                  # reconstruire feed.xml
+```
+
+Options utiles : `--index-html CHEMIN` pour travailler depuis l'instantané hors ligne de
+`reference/` plutôt que depuis le site en ligne, `--output RÉP`, `--workers N` (6 par défaut),
+`--delay SECONDES` (0,5 par défaut), `--chandra-cmd CMD`. Chaque commande accepte `--help`.
+
+::: {.callout-warning}
+`sfar-scrape --dry-run` réécrit `discovery.json` sans les noms de fichiers, ce qui détruit l'état
+qui rend les réexécutions peu coûteuses. Prévisualiser dans un répertoire temporaire à la place :
+`uv run sfar-scrape --dry-run --output /tmp/sfar-dry`.
+:::
+
+## Ce que l'on obtient
+
+| Chemin | Contenu |
+|:-------------------------------|:---------------------------------|
+| `output/pdfs/<année>/` | les documents tels que publiés (surtout des PDF, parfois un fichier bureautique) |
+| `output/chandra/<année>/<nom>/` | `<nom>.md`, `<nom>.html`, `<nom>_metadata.json`, images extraites |
+| `output/discovery.json` | tous les documents résolus et les lignes non résolues |
+| `output/manifest.xlsx` | manifeste filtrable, avec une colonne `include` vide pour la curation |
+| `output/completeness_report.txt` | manques, échecs de téléchargement, couverture par année, hébergeurs externes |
+| `output/feed.xml` | flux Atom des recommandations présentes sur le disque |
+| `output/index.html` | l'index en ligne tel que vu par la dernière exécution |
+
+`discovery.json` est le point d'entrée pour le travail sur le jeu de données. Chaque document porte
+`title`, `year`, `type`, `discipline`, `subdomain`, `landing_url`, `download_url`, `wpdmdl`,
+`filename`, `bytes`, `sha256`, `content_type` et `source_tabs`, ce qui suffit à relier le texte
+océrisé à sa provenance et à stratifier les partitions par année ou par spécialité.
+
+## Rafraîchir le corpus
+
+Réexécuter `uv run sfar-pipeline`. Seuls les nouveaux documents sont téléchargés et océrisés.
+Vérifier ensuite `output/completeness_report.txt` : le nombre de documents uniques doit augmenter,
+et les blocs MISS et ERROR doivent rester identiques à l'exécution précédente. Une nouvelle entrée
+dans ces blocs signifie que le site amont a changé et que le résolveur mérite un examen.
+
+# Précautions pour les utilisateurs du corpus
+
+- **L'OCR n'est pas une vérité de référence.** La sortie de chandra est bonne mais imparfaite, en
+  particulier dans les tableaux et les aides cognitives riches en figures. Tout texte servant à la
+  notation doit être contrôlé par échantillonnage.
+- **Une même recommandation peut donner plusieurs documents.** Version courte, version longue, figures, aides cognitives. Il faut dédoublonner au niveau de la
+  recommandation, et non du fichier, avant tout décompte.
+- **Droits d'utilisation.** Les documents appartiennent à la SFAR. Ce dépôt automatise l'accès à
+  des fichiers publics ; il ne dit rien du droit de les rediffuser, question qu'il vaut mieux
+  trancher avant de publier un jeu de données.
