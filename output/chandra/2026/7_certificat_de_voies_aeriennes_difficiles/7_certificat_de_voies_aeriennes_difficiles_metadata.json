@@ -1,0 +1,21 @@
+{
+  "file_name": "7_certificat_de_voies_aeriennes_difficiles.pdf",
+  "num_pages": 1,
+  "total_token_count": 1860,
+  "total_chunks": 24,
+  "total_images": 1,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1860,
+      "num_chunks": 24,
+      "num_images": 1
+    }
+  ]
+}

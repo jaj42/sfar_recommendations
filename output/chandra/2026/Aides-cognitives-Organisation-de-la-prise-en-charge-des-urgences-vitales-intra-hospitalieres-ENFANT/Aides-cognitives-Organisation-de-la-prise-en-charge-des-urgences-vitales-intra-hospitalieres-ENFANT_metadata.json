@@ -1,0 +1,45 @@
+{
+  "file_name": "Aides-cognitives-Organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres-ENFANT.pdf",
+  "num_pages": 3,
+  "total_token_count": 7928,
+  "total_chunks": 87,
+  "total_images": 13,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 3234,
+      "num_chunks": 54,
+      "num_images": 13
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 0,
+      "num_chunks": 0,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 4694,
+      "num_chunks": 33,
+      "num_images": 0
+    }
+  ]
+}

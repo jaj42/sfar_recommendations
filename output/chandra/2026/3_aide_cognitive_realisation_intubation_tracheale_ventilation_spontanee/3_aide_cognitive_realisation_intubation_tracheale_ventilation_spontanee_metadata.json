@@ -1,0 +1,33 @@
+{
+  "file_name": "3_aide_cognitive_realisation_intubation_tracheale_ventilation_spontanee.pdf",
+  "num_pages": 2,
+  "total_token_count": 3633,
+  "total_chunks": 35,
+  "total_images": 4,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1440,
+        1920
+      ],
+      "token_count": 2122,
+      "num_chunks": 17,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1440,
+        1920
+      ],
+      "token_count": 1511,
+      "num_chunks": 18,
+      "num_images": 3
+    }
+  ]
+}

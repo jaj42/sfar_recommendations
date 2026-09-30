@@ -1,19 +1,19 @@
 ============================================================
 COMPLETENESS REPORT
 ============================================================
-Unique documents:        260
+Unique documents:        272
 Rows with no target:     7
 
 MISS — index rows that resolved to zero PDFs:
-  - [None] Recommandations concernant l’appareil d’anesthésie et sa vérification  (200) https://sfar.org/lappareil-danesthesie-et-sa-verification-avant-utilisation/
   - [2000] Information des patients. Recommandations destinées aux médecins (404) https://www.has-sante.fr/portail/jcms/c_272040/informations-des-patients-recommandations-destinees-aux-medecins?xtmc=information%20patients&xtcr=7
+  - [None] Recommandations concernant l’appareil d’anesthésie et sa vérification  (200) https://sfar.org/lappareil-danesthesie-et-sa-verification-avant-utilisation/
   - [None] La gestion périopératoire des patients sous AOD pour un acte programmé (200) https://sfar.org/reactualisation-des-propositions-du-gihp/
   - [None] Coagulations Intra-Vasculaires Disséminées (CIVD) en réanimation – Déf (404) https://sfar.org/espace-professionel-anesthesiste-reanimateur/outils-professionnels/boite-a-outils/reactualisation-des-propositions-du-gihp-pour-la-gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/
   - [None] Recommandations concernant l’appareil d’anesthésie et sa vérification  (200) https://sfar.org/lappareil-danesthesie-et-sa-verification-avant-utilisation/
   - [None] La gestion périopératoire des patients sous AOD pour un acte programmé (404) https://sfar.org/espace-professionel-anesthesiste-reanimateur/outils-professionnels/boite-a-outils/reactualisation-des-propositions-du-gihp-pour-la-gestion-perioperatoire-des-patients-sous-aod-pour-un-acte-programme/
   - [None] Information des patients. Recommandations destinées aux médecins (404) https://www.has-sante.fr/portail/jcms/c_272040/informations-des-patients-recommandations-destinees-aux-medecins?xtmc=information%20patients&xtcr=7
 
-Downloaded OK:           255
+Downloaded OK:           267
 Download errors:         5
 
 ERROR — documents that failed to download cleanly:
@@ -24,7 +24,7 @@ ERROR — documents that failed to download cleanly:
   - source returned HTML (file missing upstream?): Indications de transfusion de plasmas lyophilisés (PLYO) che [https://sfar.org/download/modalites-de-prescription-du-plyo/?wpdmdl=30313]
 
 File types:
-  pdf: 255
+  pdf: 267
 
 Externally hosted documents (not on sfar.org): 5
   - [2026] Place de l’ECBU avant une prise en charge urologique ch → www.urofrance.org
@@ -35,7 +35,7 @@ Externally hosted documents (not on sfar.org): 5
 
 Per-year document counts:
   unknown: 22
-  2026: 13
+  2026: 25
   2025: 14
   2024: 8
   2023: 6
@@ -62,21 +62,6 @@ Per-year document counts:
   2002: 4
   2001: 10
   2000: 2
-
-Reference titles:        161
-Reference titles missing from discovery: 12
-  - Évaluation du risque Covid-19 et impact sur la prise en charge en endoscopi
-  - Prise en charge des patients présentant, ou à risque, de traumatisme vertéb
-  - Prise en charge du brûlé grave à la phase aiguë chez l'adulte et l'enfantRé
-  - Prise en charges des traumatismes pelviens graves à la phase précoce (24 pr
-  - Recommandations sur la prise en charge du tabagisme en période périopératoi
-  - Plasma thérapeutique: nouvelles recommandations
-  - Prévention de la maladie thromboembolique veineuse postopératoire ^Transpor
-  - Monitoring de l'adéquation / profondeur de l'anesthésie à partir de l'analy
-  - Accident vasculaire cérébral : prise en charge précoce (alerte, phase prého
-  - Monitoring du patient traumatisé grave en préhospitalier
-  - Information des patients. Recommandations destinées aux médecins
-  - Recommandations concernant l'appareil d'anesthésie et sa vérification avant
 
 ============================================================
 RESULT: ❌ NOT COMPREHENSIVE — see MISS/ERROR above

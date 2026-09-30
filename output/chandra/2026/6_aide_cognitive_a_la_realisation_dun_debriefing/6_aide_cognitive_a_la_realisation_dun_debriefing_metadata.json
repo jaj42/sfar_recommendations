@@ -1,0 +1,21 @@
+{
+  "file_name": "6_aide_cognitive_a_la_realisation_dun_debriefing.pdf",
+  "num_pages": 1,
+  "total_token_count": 1550,
+  "total_chunks": 33,
+  "total_images": 9,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2247
+      ],
+      "token_count": 1550,
+      "num_chunks": 33,
+      "num_images": 9
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "file_name": "4_cricothyroidotomie_par_technique_sms.pdf",
+  "num_pages": 2,
+  "total_token_count": 2634,
+  "total_chunks": 29,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1445,
+      "num_chunks": 15,
+      "num_images": 1
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1587,
+        2246
+      ],
+      "token_count": 1189,
+      "num_chunks": 14,
+      "num_images": 1
+    }
+  ]
+}

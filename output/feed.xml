@@ -21,8 +21,8 @@
   </entry>
   <entry>
     <title>Gestion des anticoagulants pour une procédure invasive programmée</title>
-    <id>https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf</id>
-    <link rel="alternate" href="https://sfar.org/wp-content/uploads/2026/04/RFE-20.4.2026-deifinitif-et-validei.pdf" />
+    <id>wpdmdl:146606</id>
+    <link rel="alternate" href="https://sfar.org/gestion-des-anticoagulants-pour-une-procedure-invasive-programmee/" />
     <updated>2026-01-01T00:00:00Z</updated>
     <published>2026-01-01T00:00:00Z</published>
     <category term="RFE" scheme="https://sfar.org/ns/type" />
@@ -75,6 +75,28 @@
     <summary>RFE · Anesthesie · 2026</summary>
   </entry>
   <entry>
+    <title>Organisation de la prise en charge des urgences vitales intra-hospitalières</title>
+    <id>wpdmdl:145734</id>
+    <link rel="alternate" href="https://sfar.org/organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Organisation de la prise en charge des urgences vitales intra-hospitalières</title>
+    <id>wpdmdl:145735</id>
+    <link rel="alternate" href="https://sfar.org/organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
     <title>Place de l’ECBU avant une prise en charge urologique chirurgicale ou interventionnelle chez l’adulte et modalités de traitement en cas de colonisation</title>
     <id>https://www.urofrance.org/wp-content/uploads/2026/03/RecoCIAFU_ECBU_Note-de-cadrage_10.10.2024.pdf</id>
     <link rel="alternate" href="https://sfar.org/recommandation-de-bonne-pratique-place-de-lecbu-avant-une-prise-en-charge-urologique-chirurgicale-ou-interventionnelle-chez-ladulte-et-modalites-de-traitement-en-cas-de-coloni/" />
@@ -117,6 +139,116 @@
     <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
     <category term="2026" scheme="https://sfar.org/ns/year" />
     <summary>RPP · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145883</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145884</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145891</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145892</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145893</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145913</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145894</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145895</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145896</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
+  </entry>
+  <entry>
+    <title>Prise en charge des voies aériennes de l’adulte au bloc opératoire</title>
+    <id>wpdmdl:145897</id>
+    <link rel="alternate" href="https://sfar.org/prise-en-charge-des-voies-aeriennes-de-ladulte-au-bloc-operatoire/" />
+    <updated>2026-01-01T00:00:00Z</updated>
+    <published>2026-01-01T00:00:00Z</published>
+    <category term="RFE" scheme="https://sfar.org/ns/type" />
+    <category term="Anesthesie" scheme="https://sfar.org/ns/discipline" />
+    <category term="2026" scheme="https://sfar.org/ns/year" />
+    <summary>RFE · Anesthesie · 2026</summary>
   </entry>
   <entry>
     <title>Prise en charge thérapeutique des Infections intra-abdominales de l’adulte</title>

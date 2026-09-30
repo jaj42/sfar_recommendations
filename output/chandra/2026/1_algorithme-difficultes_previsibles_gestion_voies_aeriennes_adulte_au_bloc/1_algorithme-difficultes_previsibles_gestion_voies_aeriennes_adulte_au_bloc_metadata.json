@@ -1,0 +1,21 @@
+{
+  "file_name": "1_algorithme-difficultes_previsibles_gestion_voies_aeriennes_adulte_au_bloc.pdf",
+  "num_pages": 1,
+  "total_token_count": 917,
+  "total_chunks": 17,
+  "total_images": 2,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1373,
+        1213
+      ],
+      "token_count": 917,
+      "num_chunks": 17,
+      "num_images": 2
+    }
+  ]
+}

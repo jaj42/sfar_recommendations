@@ -1,0 +1,21 @@
+{
+  "file_name": "5_aide_cognitive_a_la_realisation_dun_briefing.pdf",
+  "num_pages": 1,
+  "total_token_count": 1905,
+  "total_chunks": 43,
+  "total_images": 5,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1588,
+        2246
+      ],
+      "token_count": 1905,
+      "num_chunks": 43,
+      "num_images": 5
+    }
+  ]
+}

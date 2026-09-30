@@ -1,0 +1,33 @@
+{
+  "file_name": "Aides-cognitives-Organisation-de-la-prise-en-charge-des-urgences-vitales-intra-hospitalieres-ADULTE.pdf",
+  "num_pages": 2,
+  "total_token_count": 5402,
+  "total_chunks": 72,
+  "total_images": 14,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 3141,
+      "num_chunks": 53,
+      "num_images": 13
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        2246,
+        1588
+      ],
+      "token_count": 2261,
+      "num_chunks": 19,
+      "num_images": 1
+    }
+  ]
+}

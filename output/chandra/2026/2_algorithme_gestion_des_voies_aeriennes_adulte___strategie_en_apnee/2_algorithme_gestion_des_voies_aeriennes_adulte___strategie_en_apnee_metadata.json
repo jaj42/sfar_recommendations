@@ -1,0 +1,21 @@
+{
+  "file_name": "2_algorithme_gestion_des_voies_aeriennes_adulte___strategie_en_apnee.pdf",
+  "num_pages": 1,
+  "total_token_count": 1583,
+  "total_chunks": 13,
+  "total_images": 0,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1658,
+        1230
+      ],
+      "token_count": 1583,
+      "num_chunks": 13,
+      "num_images": 0
+    }
+  ]
+}
