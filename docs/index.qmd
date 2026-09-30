@@ -20,7 +20,7 @@ format:
 # Ce que fait ce projet
 
 La [SFAR](https://sfar.org) (Société Française d'Anesthésie-Réanimation) publie les
-recommandations de référence pour l'anesthésie, la réanimation et la médecine d'urgence en France.
+recommandations de référence pour l'anesthésie, la réanimation et la médecine périopératoire en France.
 
 Ce dépôt contient un pipeline qui transforme ce site en un corpus sur lequel on peut calculer :
 
